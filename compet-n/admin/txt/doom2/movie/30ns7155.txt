@@ -1,0 +1,112 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30NS7155.TXT
+
+ 30NS7155.ZIP
+
+  30NS7155.LMP - Nightmare! 100% Secrets
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+        Time     
+      
+  MAP01  1:06
+  MAP02  1:26
+  MAP03  0:43
+  MAP04  1:39
+  MAP05  2:16
+  MAP06  2:03
+  MAP07  1:09
+  MAP08  1:52
+  MAP09  4:15
+  MAP10  3:06
+  MAP11  1:30
+  MAP12  3:17
+  MAP13  3:15
+  MAP14  1:47
+  MAP15  4:14
+  MAP31  1:23
+  MAP32  0:42
+  MAP16  1:31
+  MAP17  5:10
+  MAP18  2:27
+  MAP19  3:19
+  MAP20  1:56
+  MAP21  1:41
+  MAP22  1:58
+  MAP23  1:51
+  MAP24  3:27
+  MAP25  1:34
+  MAP26  1:35
+  MAP27  2:22
+  MAP28  1:57
+  MAP29  3:25
+  MAP30  1:59
+  --------------
+  
+              --------			
+  TOTAL TIME =  71:55            
+              --------			    
+
+
+  Description:  
+
+  This is a demo I never expected to get for a very long time. Once again
+  thanks have to go to Vincent. Back in March 2005 I was chatting to him
+  in #nightmare, and he was putting together a collection of everybody's
+  nightmare demos that would eventually go onto some website he was running.
+  I cobbled together a H1DSS and H2DSS pack for him, and he encouraged me
+  to think about doing the D1SS and D2SS. So I started practising the
+  episodes and got an 11-20 movie on 27-03-2005, followed by a 21-30 movie
+  a week later. But I never made the transition to starting practice on an
+  30ns, mainly because the first episode is no fun at all to record, and
+  I still didn't think I could do the full movie anyway.
+
+  For all of 2006 I basically left the idea alone. Some time early this year
+  though I started playing through from map01 again, at first I think just
+  to see what sort of improvement I could get time-wise over my very old
+  23:32 (dishearteningly, not much). But map12 turned out to be a very big
+  barrier and I collected maybe half a dozen tries dying there in some
+  fashion. Finally on 24-02-2007 I passed the level, finally dying in very
+  stupid fashion (rocket to the face) on map17. Since I knew from my episode
+  runs that the levels beyond 20 weren't much harder on nm100s than regular
+  nm, I at least knew now that I could theoretically do this.
+
+  But I stopped practising again. It still didn't seem possible, and I don't
+  have the stamina for long doom recording sessions again. What finally got
+  me to take this seriously was that Vincent finally put up his webpage :)
+  I sent him in a D1SS he didn't have and that one final gap was too glaring
+  to put up with anymore. I sat down and started practising.
+
+  I knew the first episode fairly well from earlier in the year, my main
+  weakness was a lack of route knowledge in later maps. So I did hundreds of
+  small fillup runs, first on individual levels like 15, 17, 27 and so on,
+  and later in groups of three or four or five. The idea was to have to
+  record as few full runs as possible. If I got a run through to 12 and died
+  there, I'd start a fillup session and get to 17, say, and then extend that
+  with another fillup run, and so on. So I didn't get many runs beginning
+  from 01 but got in plenty of practice at the later levels.
+
+  Last weekend, 27-10-2007, I finally achieved a run dying arbitrarily on
+  map22, this was followed the next day with a run dying on map18. Six days
+  later I got this.
+
+  The run mostly went fairly well. I was a bit nervous in later maps because
+  I hadn't gotten so far in a single run before, and while my fingers knew
+  the routes I'd occasionally overthink things, so I'm heading one way then
+  another (map28 has a pretty glaring example of this). Also I wasn't sure if
+  I got all secrets but luckily they all registered. map17 was probably the
+  worst map, I released the cacos at the start and the buggers wouldn't leave
+  me alone... But I was quite surprised with the overall time, was expecting
+  maybe ~77min or so. Looks like under 70 is in reach :)
+  
+  So that's done at last, I'm very proud of it, fourth player ever to achieve
+  this and, I hope everyone notes, the only keyboarder :)
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

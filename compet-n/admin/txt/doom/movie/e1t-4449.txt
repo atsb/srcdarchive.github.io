@@ -1,0 +1,99 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1T-4449.TXT
+
+ E1T-4449.ZIP
+
+  E1T-4449.LMP - Whole Episode on Ultra Violence
+                 WITH 100% kills/secrets + TYSON rules
+
+  Recorded using The Ultimate DooM Version 1.9
+
+  DooM -PlayDemo with The Ultimate DooM Version 1.9
+ 
+ 
+
+  DooM - Episode 1 - Knee Deep In the Dead
+
+            Kills  Secrets And  TIME!!  COMPET-N tyson record  
+
+  E1 M1  -  100%   100%         1" 20   0" 55   :(
+  E1 M2  -  100%   100%         3" 23   2" 49   :(
+  E1 M3  -  100%   100%         6" 05   6" 39   :)
+  E1 M9  -  100%   100%         5" 29   5" 31   :)
+  E1 M4  -  100%   100%         4" 32   6" 22   :Ý
+  E1 M5  -  100%   100%         5" 55   6" 04   :Ý
+  E1 M6  -  100%   100%         10" 37  13" 29  :)   
+  E1 M7  -  100%   100%         7" 28   4" 49   :(
+  E1 M8  -  [ Excluded! ]      [3" 21]  2" 21   :(
+
+                     Total Time =   41" 229
+                                    41" +
+                                     3" 49
+                                    ------
+                     TOTAL TIME =   44" 49
+                                   --------
+
+
+YEAH! This was a pretty fun demo to make. Not a bad time - it beats a lot of
+records not because i'm amazing but because I start the levels with lots of
+pistol ammo and a chainsaw, which helps no end :).
+
+E1M1 - not a great run. I don't use the record method as I lose too much
+health when I do and it doesn't give you the blue armour (which is very
+important to preserve health. People neglect armour a lot...don't! A blue
+armour picked up from no armour is equivalent to a 100% health bonus, a
+green armour equivalent to 50%!) I've done 1:10 with this route.
+
+E1M2 - urgh. This level is slowed down by the method I use at the start,
+which is necessary due to lack of pistol ammo. After that it's pretty
+bog standard.
+
+E1M3 - not as hard as it might seem starting with ammo and a chainsaw.
+I don't often die here. This is a good run for me, I was usually around
+the 6:30 mark.
+
+E1M9 - This is the first map with a really hard part. The end is *so* easy
+to die on. If you get a spectre in front and one to the side, you're dead.
+If the imps play up at the bottom, you're dead. If the sergeants cross the
+bridge, you're often dead. Argh! Only consolation is that if you survive,
+even with 1% health (which i've done), you can go back and pick up a couple
+of medikits at the star trap, which, with the one at the exit and the one
+at the start of E1M4, get you back to 100%.
+
+E1M4 - I was pretty cautious at the start here, as the run before the sergeant
+from the right-hand area had sneaked up behind me while I was dealing with
+the imps in the left-hand area...left me with 21% going into the slime and
+the sergeant down there killed me :(. Did the maze fairly cautiously too,
+no point alerting too many monsters and getting stuck between demons. Apart
+from this danger, not a hard map.
+
+E1M5 - interesting map. In fact easier than it seems, if you handle the
+start of the circular area well (with the demons, imps and troopers on the
+lift.) I have dropped to 1% there once or twice...:)
+
+E1M6 - aaarggghhhh! The tyson map of nightmares. Fairly straightforward up
+to the second blue sphere, bu then it's really nasty. That trap at the
+end is an absolute *killer*. You'll see what happened here - I got drawn out
+of the hidey-hole when chainsawing sergeants (if you don't kill them you
+don't stand a chance, but you can't switch to pistol and back without being
+eaten by a demon). I thought it was curtains then (it usually is), and it
+almost was...but I just managed to fend off the spectres long enough to
+grab some health. The standing around at the end was to check no monsters
+had somehow got trapped outside the room (has happened to me before, not on
+a tyson run though - this is the first time I made it through this map on
+tyson in a full episode run).
+
+E1M7 - pretty easy level, was a bit stuck for ammo at the start though. I
+took this incredibly slowly and cautiously because I had just made it
+through E1M6 for the first time and didn't want to screw up :). The record
+time here is pretty damn good, though. Used pistol a hell of a lot to make
+sure I didn't take silly hits and die.
+
+E1M8 - much easier with a chainsaw, thanks :). Again, slow and cautious. The
+time is derived with the standard COMPET-N method using LMPC.
+
+Enjoy the run...
+	
+Author: Adam Williamson
+E-mail: adam@scisoft.force9.co.uk

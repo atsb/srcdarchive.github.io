@@ -1,0 +1,22 @@
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+
+game:       DOOM 2 version 1.9
+
+category:   Respawn
+            
+level:      Map27
+
+stats:      Kills     100%
+            Items      ??%
+            Secrets    87%
+
+	    and Time  3:11
+
+comments:   Henning ... plz go under 3:00 ... :)
+	    
+		
+	  
+ 
+
+
+       	

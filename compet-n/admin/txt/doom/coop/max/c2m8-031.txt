@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        UV Max
+Map:             e2m8
+Players:         2
+
+Kills:           100%
+Secrets:         n/a 
+Time:            0:31
+
+Green:           Marko "Python" van der Want
+Indigo:          Arno "SlagDooM" Slagboom
+
+Comments:        Beating ViNi...

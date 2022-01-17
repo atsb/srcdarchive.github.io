@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA09-557.TXT
+
+ FA09-557.ZIP
+
+  FA09-557.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 09 - The Pit
+
+  Kills    100%
+  (Items    53%)
+  Secrets  100%  
+ 
+     ...and Time    05:57
+                   -------
+
+
+  Description: 
+
+  I didn't hope to get this under 5mins, especially when my 
+  previous exists were something around Henning's time. It's fun
+  to play this, altho some parts of the map can be pretty tough.
+  The route is basically the same, except of the room with the
+  lifts, I decided to get rid of the Lost souls first and then
+  the rest.
+
+
+  Radek Pecka
+  r.master@email.cz

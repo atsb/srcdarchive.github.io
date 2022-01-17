@@ -1,0 +1,24 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom2-nightmare-map32-0001263.lmp & doom2-nightmare-map32-0001263.txt
+Date     : 2018-3-11
+Game     : Doom II: Hell on Earth (DOOM2.WAD)
+Client   : Competition Doom V2.0.3.2
+Category : Speed
+Map(s)   : MAP32: Grosse
+Skill    : 5 (Nightmare!)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 21%
+Items    : 33%
+Secrets  : 0%
+Time     : 12.63
+===================================
+Description: Darn you Adam Hegyi and your good times. Anyways, there isn't much trouble in this map when it comes
+to speedrunning, just on whether the SS shoots at you and of course if you can get the Keens dead and press the
+switch quick enough. The straferunning part though, I have to admit I seem to not get my tracks good on that and I
+seem to shot a bit slow on the last Keen (even if only by some milliseconds). Well crud.

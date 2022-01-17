@@ -1,0 +1,32 @@
+This is a Doom LMP Compet-N Entry
+
+NS26-111.ZIP
+
+	NS26-111.TXT
+	NS26-111.LMP - Nightmare secrets
+
+Recorded using DOOM2.EXE Version 1.9
+
+Doom II - Level 26 - The Abandoned Mines
+
+=---+------+---=
+Kills        45%
+Items        27%
+Secrets     100%
+ 
+TIME        1:11	Old record: 1:17 by Henning Skogsto
+=---+------+---=
+
+Demo entry #104 (because it's uploaded after over six years of hoarding).
+
+Description:
+
+An ultra-old demo for one of my favorite Doom2 levels, uploaded for nostalgic
+value. It's done when I was a complete newbie in breaking records, so it's not
+even remotely hard to improve (even though Sedlo said "best here would be
+1:15"). Have fun breaking it!
+
+
+
+Author: SAV88 (Artem V. S.)
+Done November 19, 2005, 17:13:22

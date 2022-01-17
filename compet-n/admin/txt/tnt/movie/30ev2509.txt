@@ -1,0 +1,379 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+---------------------------------------------------------------
+
+  TNTmax.TXT
+  TNTmax.ZIP
+
+  TNTmax.LMP - TNT:Evilution / complete UV Max movie
+
+  Recorded with the Final DOOM executable (DOOM2.EXE), with
+  the TNT31.WAD loaded
+
+  level                        |  time 
+  ------------------------------------
+  System Control        (MAP01):  1:17
+  Human BBQ             (MAP02):  4:11
+  Power Control         (MAP03):  3:40
+  Wormhole              (MAP04):  6:41
+  Hanger                (MAP05):  4:37
+  Open Season           (MAP06):  4:37
+  Prison                (MAP07):  8:30
+  Metal                 (MAP08):  6:34
+  Stronghold            (MAP09):  7:14
+  Redemption            (MAP10):  3:55
+  Storage Facility      (MAP11):  5:21
+  Crater                (MAP12):  6:48
+  Nukage Processing     (MAP13):  6:15
+  Steel Works           (MAP14):  7:49
+  Dead Zone             (MAP15):  6:13
+  Pharao                (MAP31): 11:14
+  Caribbean             (MAP32):  8:23
+  Deepest Reaches       (MAP16):  8:33
+  Processing Area       (MAP17):  5:09
+  Mill                  (MAP18): 13:30
+  Shipping/Respawning   (MAP19):  9:17
+  Central Processing    (MAP20): 17:45
+  Administration Center (MAP21): 13:54
+  Habitat               (MAP22):  6:11
+  Lunar Mining Project  (MAP23):  5:51
+  Quarry                (MAP24):  3:35
+  Baron's Den           (MAP25): 10:03
+  Ballistyx             (MAP26):  7:23
+  Mount Pain            (MAP27): 16:43
+  Heck                  (MAP28):  9:30
+  River Styx            (MAP29): 11:27
+  Last Call             (MAP30):  7:59
+
+  
+  Total time: 4hr 10min 09sec
+
+  Description :-)
+
+ MAP01 (100/16/100)
+ Having gone through this level hundreds of times, I eventually 
+ settled on a more laidback approach, Tysoning much of the way 
+ through, picking up the Green Armor and even letting the Pinky
+ stick around for a while. With such a long haul in prospect, 
+ there is  no need to work yourself up at the very start; a cool,
+ measured approach is the key in such long runs (especially if 
+ you are only a mediocre player :). Quite atypically, I ended 
+ with health below 50% here, however, the armor meter was good so
+ I plowed right on. The right mood is more important than a few 
+ seconds.
+  
+ MAP02 (100/100/100)
+ I covered much of my strategy for the first episode in the TXTs
+ for the previous runs and this Doomworld forum post -
+ http://www.doomworld.com/vb/showthread.php?s=&postid=708129#post708129
+ - so I'll just mention a few details. For a change, I rushed the
+ two chaingunners on the ledges in the big Blue Key & Yellow Key room.
+ The fight between the baron on the ledge and the cacos didn't happen
+ until too late and the jump to the Blue Armor secret didn't work on
+ the first try. OTOH, the strafe-50 from the Supercharge secret back
+ to the exit ledge happens practically by itself by now.
+
+ MAP03 (100/66/100)
+ Love the creeping soundtrack on this one. The going is pretty good,
+ except for some annoying misses at the Specters with the double barrel.
+
+ MAP04 (100/100/100)
+ Epic soundtrack. A certain Imp takes too long to die. The second 
+ Revenant in the dark underground hallway robs me of some armor despite
+ dying on schedule. According to the unhurried, methodical strategy set
+ from the start, some time is devoted to clearing through the gap a few
+ Imps and Pinkies from the Mancubus area before entering. The Arch-Vile
+ gets busy reviving a Demon but is interrupted unceremoniously half-way
+ with a couple of rockets to the head.
+
+ MAP05 (100/52/100)
+ Can't stop raving about the TNT music - another great track that can
+ loop forever. Since this is a first-ever, might as well waste a few 
+ seconds grabbing the Computer Map, right? The Revenants die in a nice,
+ organized fashion - sweet. A smooth ride.
+
+ MAP06 (100/100/100)
+ A pretty standard run except that I manage to fall off the walkway into
+ the ooze on the way back from the Yellow Key. Usually that's enough to
+ abort the whole run, but here I am riding easy (the chosen psychological
+ approach apparently starts bringing dividends). Getting the first Rev
+ in the Rocket Launcher room on the second blast which saves time on the
+ lift. A curious superstition: an Imp riding down the lift that leads to 
+ the last key is a good omen. Heh, works this time. Just barely make the
+ lift to exit. The intermission screen here, and all the later ones, is
+ skipped to speed things up and minimize the distraction. Only the one 
+ before MAP21 is allowed to unfold to the end - had to take a couple of 
+ drags.
+
+ MAP07 (100/86/100)
+ The first big surprise - I don't recall getting under eight minutes here
+ before. 100% kills is not a real concern once you've done this level a
+ number of times, though some monsters do teleport at the wrong times and
+ to the wrong places occasionally. During the practice runs with prBoom+
+ I ran into a bug where the Berserk secret becomes inaccessible if you 
+ cross some triggers in a certain way. Then the metal platform blocking 
+ the switch that opens the Berserk's alcove refuses to come down all the
+ way. Never seen it happen with the vanilla, though. Lost some time 
+ chasing a skull that bounced between two teleporters - I'm a completist. 
+ Didn't fall off the last walkway, at least. :)
+
+ MAP08 (100/75/100)
+ If you ever do this level, try not to forget that the first secret is 
+ right behind the starting position. =) Didn't miss any lifts, that would
+ have dampened my mood, strategy or not. This map is a good test for the
+ differences in sound handling between DOOM and ports: in DOOM you can 
+ hear the monsters fight in the final huge hall from the Invisibility &
+ Green Armor area, while in prBoom+ you cannot.
+
+ MAP09 (100/68/100)
+ Still undone on NM! as of the time of this recording, but on UV this is 
+ a nice relaxing massacre. The Chaingunners/Imp hallway has long stopped 
+ making me nervous. The first Berserk can be ignored, unless you're low
+ on health.
+
+ MAP10 (100/80/100)
+ I died a couple of times trying to use rockets on the Revenants and the
+ Arachnotrons in the Yellow Key area. Plasma is the way to go here. I 
+ always try to to get with a rocket blast the ambush group rising out of
+ the ground by the window in the Red Key outdoor area, but that didn't 
+ work this time.
+
+ MAP11 (104/50/100)
+ The fact that most of the monstars teleport in to three different 
+ locations can be a pain in the ass, the second Archvile can give you
+ a nasty surprise if you're not careful. Also, rocket use is strongly
+ discouraged anywhere near doorways - in the countless times I went
+ through this map I had quite a few ghosts here. Last time there was 
+ even an Imp on the lower level who wondered in from somewhere around
+ the lift to the Megasphere secret. An Imp, a Zombie or a Sarge are 
+ usually easy to get rid of, but a skeleton or a Chainie can mean an
+ almost certain death. As for seeking cooperation from the Archie to
+ get the first Megasphere, it's not something you seriously consider
+ during a run of such length. Here I even fell twice in the crate room
+ heading for the exit - the first symptoms of fatigue?
+
+ MAP12 (100/66/100)
+ Missing the lift to the Super Shotgun leads to a slight change of 
+ plans.  Very healthy infighting at the Supercharge; the valiant 
+ Arachnotrons save me some work and ammo. The first Revenant refuses 
+ to cooperate, but the rest proceeds as it should.
+
+ MAP13 (100/54/100)
+ Me and my old pal the Cyber's clean out the large courtyard. Following
+ the mop-up operation the relations deteriorate due to the dispute over
+ the possession of the prized Plasma Rifle. Sorry bud, but I really need
+ it. Pausing for a sec to take in the nice view stretching away from the
+ exit chamber. Moving on.
+
+ MAP14 (100/68/100)
+ A nice well-balanced map, much in the spirit of the original DOOM. 
+ Stepping through the smoke cloud left behind by the crumbling Spider
+ Mastermind is my equivalent of walking off into the sunset. Those twin
+ crusher set at the end used to make me nervous, believe it or not.
+
+ MAP15 (97/100/100)
+ John Keniry called this the best TNT level. If you're tired of the 
+ linearity of the previous maps, this one will provide a welcome change.
+ Particularly nice with multiple long run attempts, as it allows you to
+ vary the route choice to break the monotony. The Arch-Vile is released
+ early and gratefully obliges by stepping forth up to my Rocket Launcher.
+ As previously mentioned, a Caco and a Pain Elemental behind the north-east
+ wall are unaccessible, hence only 94 out of 96 kills is possible, which 
+ translates into 96% but is often masked by the extra kills courtesy of 
+ that same Archie, which is what happened here. One last tour of the 
+ facilities to round up any stragglers before moving on to the prettiest
+ map in the set.
+
+ MAP31 (100/37/100)
+ I viewed those two Health Potions under the crusher next to the Yellow
+ Key as a challenge and so had to grab them, heheh. The Cyber killed me
+ a couple of times on previous occasion, but it apparently was tired this
+ time around. Taking a slight detour at the end to show the scrolling 
+ marquee at the regular exit.
+ Another bug that, like on MAP07, only happened to me in prBoom+, in the 
+ area with the Arch-Vile twins: doing the hidden switches in the stone 
+ panels that rise out of the ground left-then-right instead of the usual
+ right-then-left resulted in the section with the Arachnotron not rising
+ completely, thus stalling further progress. The run had to be aborted 
+ mid-way, dammit. Also, if you didn't have the patch WAD TNT31.WAD loaded,
+ you'll have a desync early on on this level, not to mention the Yellow 
+ Key missing. Get the fix from http://www.classicdoom.com/pctnt31p.htm
+
+ MAP32 (100/97/100)
+ Not afraid to get my feet wet early on the way to the BFG. Generally, 
+ there are so many Soul Spheres it makes you wish you could take one 
+ with you to Mount Pain (MAP27), where it is really needed. A few previous 
+ attempts were marred by screwing up the exit sequence, which is quite lame,
+ although excusable if you consider that the recording nears the two-hour
+ mark. Once the second Archie (in the underground maze towards the exit)
+ managed to lower the wall section/door that separates the barrel-filled 
+ hall from the room with the Baron, the Specter and the switch that 
+ releases that Archvile, and the damn wall/door wouldn't rise again. 
+ Another abort, grrrr.
+
+ MAP16 (100/100/100)
+ A deceptively huge-looking level with excellent layout and gameplay. 
+ The soundtrack is kind of creepy, which is another plus in my book. 
+ Wish this map were a bit larger so you could play it for an hour, heheh.
+ The Blue Key is actually useful in this run as I save the Megasphere 
+ for the next level - not strictly necessary but exiting with 200/200
+ provides a confidence boost. Love the 200-feet drop under that magnificent
+ sky and the Red Key trick.
+
+ MAP17 (102/82/100)
+ Playing a bit more aggressively than usual. Saving the Invul to rush
+ the secret area with the Rocket Launcher and the Arachnotron. Spending 
+ a couple of extra seconds to take a ride into the sky at the Supercharge
+ secret. Exiting two minutes short of the two-hour mark - almost half-way
+ through Evilution.
+
+ MAP18 (100/100/100)
+ The mid-point of the run is reached as I exit through the Red Key door.
+ Beyond that door there is a room with a set of six lifts, one of which 
+ lowers a Demon and the opposite of which leads to the Yellow Key area.
+ Once I got stuck after falling off the north-east lift into the nook with
+ the twitching body impaled on a stake. Was I majorly PO'd? Do you even 
+ have to ask? Another reason not to hurry through TNT.
+
+ MAP19 (100/100/100)
+ The completist in me makes a couple of detours here, to show the Green 
+ Armor "secret" and the teleport back to the start area (although the
+ latter can be considered a shortcut to the Supercharge secret). This 
+ level features a fantastic outdoor area, with a parked trailer à la
+ Doomsday of UAC and a gated roadway curving away into the darkness.
+ And then there is a very decent approximation of a conveyor line with
+ a stream of crates moving along. It's details like these that make TNT 
+ so dear.
+
+ MAP20 (100/79/100)
+ One of the hardest levels in the set, with several critical points. It 
+ is relatively easy to get complacent and kick the bucket on the Red Key
+ stairs; in the area after the Yellow Key door, surrounded by the 
+ Arch-Vile, the Pain Elemental and the Imp battalion, with three 
+ Chaingunners providing tactical support; and in the Spider Mastermind
+ area - an Arch-Vile, the Spider himself, a bunch of disorderly skeletons
+ and a Pain Elemental sneaking behind you at the most inopportunate moment.
+ If you are not dead-tired at this point, however, it is all pretty simple.
+ I almost panicked after taking a Revenant missile to the head and then
+ being outflanked by the Chaingunners below; the health dropped below 50% -
+ red alert! - so I had to scramble quickly back to the start area to grab
+ some Medikits. Other than that, it was a smooth ride.
+
+ MAP21 (100/72/100)
+ I hope the various runs I did for this level last year did much to 
+ dispell its dreary reputation. Things are even livelier given the 
+ arsenal accumulated during the previous levels. Another dangerous
+ health drop as an Imp suddenly pops up in front of my rocket launcher
+ early on. Taking the Megasphere early to save time and reduce the 
+ chance of accidents near the Blue Key. Nice to have the BFG in the Pain 
+ Elemental chamber. The Cyber twice tricks me by teleporting out, but is 
+ still disposed of with only two BFG blasts in the rump end, a goodie.
+
+ MAP22 (100/100/100)
+ This initiates a series of laidback, relaxing maps. The only challenge
+ is getting the first Archie with one BFG shot through the wall. This 
+ time, the blast wipes out everything along with him, too; that's a first.
+ The rest is simple.
+
+ MAP23 (102/66/100)
+ Nice and easy, with a Chaingunner at the exit volunteering to help. The
+ three-hour mark is crossed uneventfully on the approaches to the Blue
+ Key area, with the Invul on.
+
+ MAP24 (100/53/100)
+ A short, simple map. Only the Revenant at the exit causes a delay.
+
+ MAP25 (100/100/100)
+ Revenants are my least favorite enemy, as you can tell from this part.
+ Several of them here refuse to die quickly and force me to waste time
+ and ammo. The Arch-Vile is a good boy, though. The health again drops
+ below 50% when I'm careless around the Blue Key, but there is plenty
+ of it around. Several Lost Souls survive, blasted by their parent
+ Pain Elementals' explosion into the void outside the level.
+
+ MAP26 (100/75/100)
+ A nice map. I have a fondness for levels with cramped, maze-like 
+ sections, though I'm not too crazy about mazes. Faithful to the 
+ doctrine of eliminating everything that moves, I pause at the
+ opening to the three Lost Souls cavern with the burning barrels.
+ The Arch-Vile makes an annoying escape, which causes some delay.
+
+ MAP27 (100/95/100)
+ Here it is, the major stumbling block in the path of anyone attempting
+ a complete movie run. It is huge and features some of Evilution's 
+ fiercest pitched battles. The relative scarcity of health doesn't help,
+ just one single Supercharge would greatly reduce the overall difficulty.
+ Its absence makes the end section is a hardcore race for survival. 
+ Shortly after the Yellow Key, where I take time to eliminate as many
+ enemies from the visible part of the walkway opposite the window, the
+ health points dwindle to 17%, which necessitates another backtracking
+ hunt for health. Here is an example of mental fatigue causing irrational
+ behavior: instead of heading straight for the Berserk pack that I 
+ deliberately saved up for the end, I waste time hunting for stimpacks.
+ Still, all's well that ends well, and I exit with everything dead save
+ for a handful of Lost Souls trapped at the top of the mount. Now there
+ are close to forty other Lost Souls free to roam the final stage, and 
+ dealing with them is what accounts for the time being the longest of 
+ the whole set.
+ 
+ MAP28 (102/100/100)
+ A happy romp on a nice Casali board. The Revenant battalion next to 
+ the Red Key causes a momentary health drop but with two Megaspheres and
+ plenty of Medikits, that's nothing to worry about. A slight delay is 
+ caused at the end when it turns out that an Imp sneaked behind me. 
+ Last August another sonavabitch pulled the same dirty trick on me in 
+ the tunnels on Mount Pain, leading to 99% kills and the abort of an 
+ otherwise great run. His compadre here is dumb enough to try to rush me 
+ from behind and all ends well.
+
+ MAP29 (107/93/100)
+ Another fun Casali map to blast through. I used to be very afraid of 
+ the crusher, even more so than the end section of Mount Pain. It always
+ worried how lame it would be to be squashed so near the end of the 
+ objective. Now I tend to think that it would require a deliberate 
+ effort to get stuck there. The Arch-Vile at the Yellow Key succumbs 
+ quickly, which is a relief, although I panick briefly for no good 
+ reason - the fatigue irrational syndrome again - when the Red Key
+ door closes behind me. The final watershed, the four-hour mark is 
+ crossed as the battle in the Yellow Key area winds down.
+
+ MAP30 (105/100/100)
+ Now dying in one of those instant-death teleporters at the start 
+ would be the dumbest thing in the world, so I had a few sessions of
+ fill-up runs on this map to avoid that risk. It was then that the 
+ fool-proof method of dealing with the final area was conceived. The
+ Revenant area is not dangerous, as long as you keep moving. MAP27 is
+ much worse, IMO.
+
+ This monster project was started in 2001. Those curious about how it 
+ all started can read the two relevant threads on DOOM newsgroups:
+ http://groups.google.com/group/rec.games.computer.doom.playing/browse_thread/thread/219c771736433456
+ http://groups.google.com/group/alt.games.doom/browse_thread/thread/51a114601f887dd0
+ 
+ There were rumors that Sedlo and Catalaa were working on it as well,
+ but these remain unconfirmed. If anyone has an incomplete run sitting
+ on an old hard drive gathering dust, I'd like to see it, though.
+
+ Before signing off I'd like to thank the following people:
+ - Opulent, for his incredible dedication to the demo scene and DSDA
+ - Grazza, for his invaluable demo pattern effort, the best books on
+   the Alekhine Defence and infinite patience with yours truly
+ - Rob Ellwood, for taking part in the early stages of the project and 
+   his insights and suggestions - I really hope you are well and fine
+   and around to see this, man!
+ - DeDo, for sharing the love for TNT:Evilution and spurring me on
+ - myk, for being an uncompromising DOOM fundamentalist and hosting the 
+   Cpanel mouse driver used in these recording sessions
+ - Ledmeister, for being the encyclopedia of all things DOOM
+ - Adam Hegyi, for Compet-N
+ - Xit Vono and stx-Vile for their incredible demos and movie runs 
+   in particular
+ - Vincent Catalaa, whose Plutonia max movie provided a terrific 
+   inspirational boost to my own efforts
+ - Colin Phipps for prBoom and kindly answering questions
+ - e6y, for prBoom+, the ultimate demo freak's port
+
+ and all other people who showed interest and provided encouragement
+ over the years.
+
+  Never_Again
+  tpoppins@juno.com

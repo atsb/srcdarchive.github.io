@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PE07-030.TXT
+
+ PE07-030.ZIP
+
+  PE07-030.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 07 - Caughtyard
+
+  Kills     23%
+  Items      0%            *********
+  Secrets    0%  and Time  * 00:30 *
+                           *********
+
+
+
+
+Description: Kind of funny way I found!
+	     It is actually possible to make the jump without the
+	     "extra" hight from the platform, It's very hard though
+	     I only made it once with strafe50 and -nomonsters..
+             Think this level is rather nice, however that "Archvile-
+	     thing" can make you crazy... 
+	   
+
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     

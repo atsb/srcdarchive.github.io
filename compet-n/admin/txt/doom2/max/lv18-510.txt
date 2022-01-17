@@ -1,0 +1,28 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV18-510.TXT
+
+ LV18-510.ZIP
+
+  LV18-510.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 18 - "The Courtyard"
+
+  Kills    100%
+  (Items    49)
+  Secrets  100%  and Time  05:10
+                           -----
+
+
+Description: A lot of monsters in this level it's easy for you to
+             "forget" somebody and finish up with 95-99% kills.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

@@ -1,0 +1,38 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN02-457.TXT
+
+ TN02-457.ZIP
+
+  TN02-457.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 02 - Human BBQ
+
+  Kills    100%
+  Items    100%           ********
+  Secrets  100%  and Time * 4:57 *
+                          ********
+
+
+Description: Tough map until you killed the Pain Elemental. Then easier.
+	     You can decide whether you kill all the Pigs and Cacos with
+	     single shotgun or run for the SSG the way I did. Think my way
+	     is faster, but you need some luck at the jump. Most of the time
+	     pigs will stand there.
+	     BTW, it's my first lmp after the GM-Collection, I feel like
+	     playing in slow motion, I catch Imp fireballs I thought that
+	     must have exploded ages ago :) The Pigs and Spectres move so
+	     sloooow. You can kill Dudes and Sergeants without hiding...
+	     Ok, it's the first with less than 5:00, if there isn't a better
+	     route here I think a 4:30 should be hard to play. Dunno what DL
+	     has played so far, might be he has a better lmp already.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

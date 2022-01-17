@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV27-411.TXT
+
+ LV27-411.ZIP
+
+  LV27-411.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 27 - "Monster Condo"
+
+  Kills   100%
+  (Items   69%)            
+  Secrets  87%  
+
+        ...and Time       04:11
+                          -----       
+
+		
+Description: Henning's demo was 4 years old and needed iprovement. I cut
+             off 10 seconds, but I know it could go even below 4 mins 
+             since I did 4:02 with 99% kills. I've had enough those 
+             98-99% kills demos for now...
+             
+   		
+	         
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz

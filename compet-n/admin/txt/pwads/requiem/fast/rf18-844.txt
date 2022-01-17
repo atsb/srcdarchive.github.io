@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf18-844.TXT
+
+ rf18-844.ZIP
+
+  rf18-844.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 18 – UV Fast
+
+A mix of the max and NM100S demos of this level. This has the max aspect of the run, but with the slowness of the NM run. The thing that makes this difficult is the fact that you don't get armor until the yellow key room. Then there's those pain elementals coming in with their lost souls. This I blame for why I have such low ammo. I'd always screw up at the end of the demo. Twice I got 80% secrets, missing the soulsphere secret and berserk secret, respectively. 
+
+Author: Revved

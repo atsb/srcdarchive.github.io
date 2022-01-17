@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+NM02-048.TXT
+NM02-048.ZIP
+
+NM02-048.LMP 
+
+Recorded using DooM 2 Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Doom 2 - Level 02 - Underhalls
+
+Kills     62%
+Items     35%
+Secrets  100%
+Time      :48
+         ----
+
+Description:
+Entry #16, my first doom2 run and my first nightmare run.
+
+This one was fun to make, regardless of the mistakes I would make in some
+of my attempts.  I stay surprisingly healthy throughout this one.
+Also an NS entry. :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

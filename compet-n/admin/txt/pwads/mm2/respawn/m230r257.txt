@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M230r257.TXT
+
+M230r257.ZIP
+
+M230r257.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 30 - It
+      
+Kills      100%
+Items       28%
+Secrets      0%
+
+              ********
+  and Time -  * 2:57 *
+              ********
+
+
+Description:
+
+A fun level to do on -respawn. I got this on my third try. My first try
+was a 5:00 run >.< It sucked to say the least. The second try I killed
+myself with a rocket on accident while aiming for the brain.
+
+I love doing level 30 on -respawn, no matter what PWAD it is ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+26.03.2002

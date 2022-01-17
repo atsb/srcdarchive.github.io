@@ -1,0 +1,58 @@
+This is a DooM .LMP "COMPET-N/net-x" Entry - Please forward it...
+
+UV29NET2.TXT
+
+ UV29NET2.ZIP
+
+  UV29NET2.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 29 - The Living End
+
+
+            Kills Items Secrets
+
+  G :-)  -     40%   28%    0%
+  I :-)  -     44%   68%    0%
+
+  OR...
+
+  Kills     84%  Actually much more than this.
+  (Items    96)
+  Secrets    0%  and Time  5:34 or 5:35  [ ? ]
+                           ------------
+
+
+(Green)Description: Not a funny co-op level at all. Just a few seconds
+                    better than in single player.
+
+
+Authors:     Green:  Kai-Uwe Humpert
+                     gazelle@cs.tu-berlin.de
+
+            Indigo:  Sven "dasa" Huth
+                     dasa@cs.tu-berlin.de
+
+
+[  Admin. Note :-)  Many thanks for this one, guys ! :-) :-)
+
+   Be sure to watch this from BOTH perspectives...
+
+   " LMPutil UV29Net2.LMP -Viewer "
+
+   Better still...
+
+   " IPXSetup -Nodes 2 -PlayDemo UV29Net2 "
+
+   On TWO .NET connected PC's :-)
+
+S.;-) aka. The "Judge". ]
+
+
+
+
+-------------------------
+And another admin note :)   Time is actually 5:35.25
+

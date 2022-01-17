@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c4s9-011.txt
+
+ c4s9-011.zip
+
+  c4s9p011.lmp
+  c4s9s011.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m9 - Fear
+
+              Kills    Items   Secrets
+
+  Python        1%       6%       0%      
+  SlagDooM      0%       0%       0%      
+
+  Time:    0:11
+
+
+Comment:      Just improving our old demo a little.
+
+     
+Green:        Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:       Arno SlagDooM                (arnoslag@bart.nl)
+
+
+  

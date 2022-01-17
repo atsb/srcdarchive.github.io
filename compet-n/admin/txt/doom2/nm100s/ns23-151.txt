@@ -1,0 +1,8 @@
+Author: Peo Sjoblom
+E-mail: peo.sjoblom@mbox300.swipnet.se
+Skill:  5
+Game:   Doom2
+Map:    23
+Time:   01:51
+
+

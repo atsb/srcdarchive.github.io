@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/evilution/speed" Entry - Please forward it...
+
+EV21-328.TXT
+
+ EV21-328.ZIP
+
+  EV21-328.LMP - UltraViolence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 21 - Administration Center
+
+  Kills     20%
+  Items     33%           ********
+  Secrets    0%  and Time * 3:28 *
+                          ********
+
+
+Description:	Third time I reach the exit, and I don't feel like playing
+		it again. As you can see, there is no way to take the blue key
+		at once. I kill more monsters than usual in speed runs, but
+		I really don't like eternal chaingun and green slimeballs in
+		my back.
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

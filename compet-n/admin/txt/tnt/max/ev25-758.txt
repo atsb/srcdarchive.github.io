@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV25-758.TXT
+
+ EV25-758.ZIP
+
+  EV25-758.LMP - UltraViolence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 
+
+  Final Doom - TNT Evilution - Level 25 - Baron's Den
+
+  Kills    100%
+  Items    100%           
+  Secrets  100%  and Time = 7:58 
+                          
+
+
+Description: "Wait, I should have taken that left turn at Albuquerque..."
+             I'm always getting lost here. Peo's time was no trouble to
+             beat, but first I had to work out where to go...
+             This recording came after an hour. I was still getting
+             confused...
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

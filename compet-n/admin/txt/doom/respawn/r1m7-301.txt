@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M7-301.TXT
+
+ R1M7-301.ZIP
+
+  R1M7-301.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    102%
+  (Items    36%)
+  Secrets  100%  and Time  03:01
+                           -----
+
+  Description:  > Can you beat this Rini or Donatas?
+
+                What did YOU expect ?! Btw: you're right, taking the
+                superarmor is a complete waste of time. What did I
+                estimate for my personal limit - 2:50, if you find
+                further improvements it might be even less, but it
+                might become very hard to score 100% kills w/o big
+                luck with monster fights. Has anyone counted the
+                monsters? Does 102% mean that I killed one or two of
+                too much? .. must check with Yona's utility.
+                So far competing was fun, thank you Donatas and Jan,
+                but I fear that there are players around who will do
+                it in let's say 2:30 w/o problems - wuite frustrating.
+                So I will propably stop this small competition here.
+
+                PS: I got a new unbeatable MMH record (108-r2m1). >If you
+                    guys don't hurry up you will need to play a 106-r4m1
+                    for an unbeatable MMH record - have fun with that ;-)
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

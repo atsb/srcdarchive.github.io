@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+31	29.46	I wish it was .3 :P
+
+
+Author:		Looper

@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+m224-529.txt
+
+m224-529.zip
+
+m224-529.lmp - Ultra-Violence Max
+
+Recorded using Doom 2 Version 1.9
+
+Memento Mori 2 - Map 24 - Io Lab
+
+================
+Kills      100%
+Items        ?%
+Secrets    100%
+
+Time       5:29
+================
+
+C-N entry #3.
+
+Description: I followed advice posted by Looper and Creaphis for playing Doom in DOSbox, and it definitely helped quite a bit.  This was sort of a practice as I'm still not fully used to vanilla.  Something definitely feels different, but I think in time it will feel more natural.  Oh, I guess I should talk about the demo...I was looking for other maps by Sean Birkel, since I enjoyed Fava Beans a lot.  Sadly, this map was disappointing though.  While it's definitely a Birkel map, it also retains some of his trademark awkwardly-placed secrets which effectively ruined any hope I had of developing a decent route.  It also has the worst mancubus placement I have ever seen, just watch.  Bleh.
+
+Author: Kyle McAwesome
+E-mail: kylemccl@comcast.net
+Date: 1/20/2012

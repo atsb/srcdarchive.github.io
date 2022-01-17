@@ -1,0 +1,23 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+ef16-649.TXT
+
+ ef16-649.ZIP
+
+  ef16-649.LMP - Ultra Violence Fast!
+
+  Recorded using Doom2.exe
+
+  doom2.exe -playdemo -file tnt.wad with doom2 ver. 1.9
+
+  Kills      100%
+  (Items     ?%)            *********
+  Secrets    100%  and Time * 06:49 *
+                            *********
+ 
+  Description :-)
+
+  Woo! Another point!!
+
+  BahdKo
+  bahdko@erols.com

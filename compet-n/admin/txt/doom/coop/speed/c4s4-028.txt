@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c4s4-028.txt
+
+ c4s4-028.zip
+
+  c4s4p028.lmp
+  c4s4s028.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m4 - Unruly Evil
+
+          Kills    Items   Secrets
+
+  Green      8%      53%       0%      SlagDooM
+  Indigo     6%       7%       0%      Python
+
+  Time:    0:28.31
+
+
+Comment:      Nothing special, just deleting an AdamW demo. :)
+              This level was made for coop...
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

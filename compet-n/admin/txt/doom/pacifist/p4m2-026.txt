@@ -1,0 +1,23 @@
+Ultimate Doom Pacifist entry for Compet-N
+
+P4M2-026.TXT
+
+ P4M2-026.ZIP
+
+  P4M2-026.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.4 Mi.2
+
+  Kills      ?%         
+  (Items   ?%)
+  Secret   ?%  and Time  00:26
+                         -----
+   Description: Mmm.. Looks like I really like this level :) In fact I wasn't thinking about optimizing this one, but Adam sent me a mail telling me that I used too much strafe50 (of course he was right :). So here's a new one, 3 sec faster, and where I use a bit of strafe50 only for the jump, I think (it's really hard to do it fast -before those ****** cacos block you- w/o it). Hope I'll be forgiven.
+ Look at the last room sequence: it is nearly perfect in this run but, believe me, I got killed many times there :)
+Hey, it's the third time I optimize this map, I think I should try smthg else :)
+
+  Author: Selim "Bastard" Benabdelkhalek
+  e-mail: wmrselim@hotmail.com

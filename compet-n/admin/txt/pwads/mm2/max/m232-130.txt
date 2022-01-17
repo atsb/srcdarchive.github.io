@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m232-130.TXT
+
+m232-130.ZIP
+
+m232-130.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 32 - Dances With Demons by David Kuykendall
+      
+Kills      100%
+Items       25%
+Secrets      0%	and Time - 1:30 
+
+
+Description:
+
+I've started to think I should record some demos around decade ago. I'm far from my overage conditions so this short level with luck based heavy infights is just for me now. I've loaded prboom under XP and eventually got 1:43. Then I've started dooming with vanilla exe under Win98. This demo is a result of my second two hours long session. You'll see an enormous luck here.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+02.11.2011

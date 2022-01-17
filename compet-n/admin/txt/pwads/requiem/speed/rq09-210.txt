@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ09-210.TXT
+
+ RQ09-210.ZIP
+
+  RQ09-210.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 09 - Deep Down Below
+
+  Kills     31%
+  Items      2%           ********
+  Secrets   20%  and Time * 2:10 *
+                          ********
+
+  Description :-)
+
+  Found this one on my hard drive, I think I recorded it
+  in the exam period before Christmas. The red key grab is
+  done on the fourth attempt :-/
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

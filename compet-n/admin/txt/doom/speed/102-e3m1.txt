@@ -1,0 +1,16 @@
+102-E3M1.LMP --> E3M1 on UltraViolence
+--------------------------------------
+
+  Kills   :  61% 
+  Items   : 100% 
+  Secrets : 100% 
+  Time    : 1:13
+
+  Maximum Minimum Health = 102%
+                           ----
+
+Comments: It is easy to complete this map without taking any damage. I
+          would love to see in done in fast or nm though.
+
+Robert Reevy <drparadox@usa.net>
+            

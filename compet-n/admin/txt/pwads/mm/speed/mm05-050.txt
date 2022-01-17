@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+MM05-050.TXT
+
+ MM05-050.ZIP
+
+  MM05-050.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 05 - Hell's Kitchen
+
+  Kills      6%
+  Items      4%            ********
+  Secrets   25%  and Time  * 0:50 *
+                           ********
+
+  Description :-)
+
+  Just wanted to show a little switch-from-above trick
+  that makes the super shotgun room a little faster.
+  With this route, you never actually wait for the bars in
+  front of the hell knight cage to lower, but use a
+  teleporter instead.
+  Also, some time is saved by staying on the ledge, grabbing
+  the red key without having to wait for it to be lowered all
+  the way down.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

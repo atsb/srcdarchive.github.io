@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c4s1-030.txt
+
+ c4s1-030.zip
+
+  c4s1p030.lmp
+  c4s1s030.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m1 - Hell Beneath
+
+              Kills    Items   Secrets
+
+  SlagDooM     14%      33%      50%      
+  Python       19%       0%       0%      
+
+  Time:    0:30
+
+
+Comment:      Not sure how many seconds can be saved by doing this coop.
+              We didn't try too much, just cutting our old time in half. :)
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

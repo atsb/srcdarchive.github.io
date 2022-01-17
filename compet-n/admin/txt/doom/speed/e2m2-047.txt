@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M2-047.TXT
+
+ E2M2-047.ZIP
+
+  E2M2-047.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 (?)
+
+  DooM - Ep.2 Mi.2 - Containment Area
+
+  Kills      4%
+  (Items     4)
+  Secrets    0%  and Time  00:47
+                           -----
+
+  Description :-)
+
+  This is the .LMP  I had done before Kai mentioned the possibility
+  of *jumping* (Yup, that read *jumping*!!! Get my E2M2j016.ZIP for
+  details :-) to the exit door to me. Here, I modified Wade's route
+  a bit -  A) slightly better stop-go pattern through the crushers,
+  B) going back the crusher way is not a good idea  (makes you wait
+  too long), and  C) you don't want to punch the imps while waiting
+  for the stairs to raise (doesn't matter if you take Wade's way to
+  the red door, feel free to try it with my route though! ;-)
+
+  [ .BAT stuff snipped for briefness - it was getting old anyway! ]
+
+
+ Thomas aka ZlatkO ThE GoDFatheR
+
+ thomas_zajic@hp-austria-om1.om.hp.com
+
+

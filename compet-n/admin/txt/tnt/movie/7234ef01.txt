@@ -1,0 +1,65 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+7234ef01.TXT
+
+ 7234ef01.ZIP
+
+  7234ef01.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file tnt.wad -playdemo with version 1.9
+
+  TNT Evilution – Episode 1 – UV Fast
+
+Comments:
+For the longest time, I had doubts for doing this run. Out of boredom one day, I decided to try it out, and then got better at the levels until I got this run. Over an hour is a bit slow, but considering it's the first TNT -fast movie, it's acceptable.
+
+                                  Time     Kills      Secrets 
+-------------------------------------------------------------
+01 – System Control               1:41      100%        100%
+02 – Human BBQ                    6:34      100%        100%
+03 – Power Control                5:35      100%        100%
+04 – Wormhole                     8:30      100%        100%
+05 – Hanger                       7:02      100%        100%
+06 – Open Season                  5:41      100%        100%
+07 – Prison                      12:12      100%        100%
+08 – Metal                       10:10      100%        100%
+09 – Stronghold                  10:30      100%        100%
+10 – Onslaught                    4:39      100%        100%
+--------------------------------------------------------------
+Total                          1:12:34
+
+01 – System Control
+A bit questionable on -fast, sometimes those imps just don't know when to die. Sometimes they'll die in 1 or 3 punches, totally throwing me off. There are some days where I'm not able to punch anything, and I die.
+
+02 – Human BBQ
+LOW HEALTH MOMENT: backpack room, 17%.
+The caco and PE room I have a good strategy for. The SSG room, not so much. There isn't really a good way to get through it without wasting time. When you do I do it, it's either I live or die. Everything else is fine.
+
+03 – Power Control
+Time kind of sucks, 5 ½ minutes is pretty slow. The arch-vile in the yellow key room took a bit longer to kill than usual, but after that, it's pretty trivial.
+
+04 – Wormhole
+*Obligatory music praising here* I got sick of waiting to hit the revenant through the door and decided to hit him through the elevator instead this time. I decided to kill the enemies in all the elevators before going up so that they wouldn't take away much health. Most of my attempts, I forgot that one spectre near the chainsaw, but I got him here. I had one attempt where a demon had lowered the platforms with lost souls on them. Unfortunately, I got hit by an arch-vile here and only had 76% health for the next level. Not so sure what made those splashing sounds at the end of the level.
+
+05 – Hanger
+The baron/revenant fights went great here. Decided to save the armor secret for the end when I needed it. I mysteriously missed the backpack area in one of my attempts, but not here.
+
+06 – Open Season
+One of the easier levels in the movie. 
+LOW HEALTH MOMENT: 45 seconds in, 11%.
+Not much space to hit the cacos on the ledges, so I went into the lava. Thanfully, I had a radiation suit on.
+
+07 – Prison
+Faster than pistol start -fast record due to me having already acquired the SSG. Look out and make sure not to fall into the lava before you're ready. One of my attempts ended that way. That revenant can be a real bitch to hit. Sometimes he'll just keep playing hide and seek in the door, not wanting to come out to be hit, or he'll be hard to hit. The teleporters in the lava can also be pretty confusing.
+
+08 – Prison
+Soulsphere + megaarmor make this level a breeze to go through. As Never Again said, it's a good test for Doom2.exe and PrBoom, you can here the monsters in the invisibility room whereas you can't PrBoom. I decided to leave the soul sphere secret for last, where I'd need it for Map 9.
+
+09 – Stronghold
+A little slaughter map with many hitscanners. You have to be a bit careful though because this is -fast and it's not really that easy this way. I didn't really die on this level, but it's still pretty slow and conservative. However, I did miss one secret in one attempt, the green room, secret 9. Had to go back to get a berserk since I was so low on health. Only had 37% health for the next stage....
+
+10 – Onslaught
+....rectified by the health packs left at the start. Here, I do my obligatory using all the rockets and cells I have, especially since there are 4 cell packs on this small level. Decided to use rocket blasts to make enemies in the yellow key room notice me. Also had to keep going into the secrets to make sure I got them.
+
+Author: Revved

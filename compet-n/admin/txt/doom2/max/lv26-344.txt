@@ -1,0 +1,38 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV26-344.TXT
+
+ LV26-344.ZIP
+
+  LV26-344.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 26 - "The Abandoned Mines"
+
+
+  Kills   100%
+  Items    63%		  *********
+  Secrets 100%  and Time  * 03.44 *
+			  *********
+
+
+
+
+
+Description:  My old record of this map was at 05.10 or something
+              Istvan Pataki beat it so I had to remake this map,
+              thanks for the route Istvan! 
+              This level is quite easy and fun to play, there's
+              lots of both rockets and plasma so no real hard part
+              exists..
+
+
+
+
+	      
+Author:	      Daniel "Demonlord" Lindgren 
+ 
+E-mail:	      akllin95@student.umu.se

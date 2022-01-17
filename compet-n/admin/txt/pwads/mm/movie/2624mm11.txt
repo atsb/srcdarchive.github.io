@@ -1,0 +1,60 @@
+This is a Doom .LMP "Competition" Entry
+
+2624MM11.TXT
+2624MM11.ZIP
+
+2624MM11.LMP 
+
+Recorded using Doom 2 Version 1.9
+DooM2 -file mm.wad -playdemo with version 1.9
+
+Momento Mori - levels 11-20 on UV skill
+
+11 - Halls of Insanity  -  :38
+12 - Kinetics           - 2:32
+13 - The Inmost Dens II - 3:56
+14 - Aquaduct           - 2:02
+15 - Karmacoma          - 3:58
+16 - Stoned             - 2:33
+17 - House of Thorn     - 3:02
+18 - A Dead Man's Town  - 3:49
+19 - Maltraiter         - 1:57
+20 - Mountain Depot     - 1:57
+
+Total - 26:24
+
+C-N entry #49, movie run #20.
+
+11: A short run, nothing to worry about for a start level.
+12: Me and Dash discussed this a bit and concluded that this level is indeed
+    worse than ev22.  Why?  Because ev22 lets you exit in under 20 seconds,
+    unlike this terrible level. :)
+13: An interesting design on this one, which is cool; definitely more complicated
+    than the original Inmost Dens.  I get the plasma rifle here.
+14: This is my favorite level from this episode.  Wonderfully designed, with
+    only the end part to worry about.  A note about this map: picking up the
+    chaingun at the start actually triggers something useful later in the level.
+    A strange stroke of design that's only noticable in movie runs so far, since
+    you would usually skip it then.
+15: A similar thing occurs at the start of this map, with a small sector around
+    the SSG.  The only problem is that the switch this sector opens up needs to
+    be thrown to complete the level.  I found this out the hard way in a previous
+    attempt. :/
+16: An easy map with lots of powerups and cells for the taking.  It even gives up
+    a free megasphere at the very end!
+17: I like the design of this map, plus I get another free megasphere towards the
+    end. :)
+18: This one might be the toughest to run, as some parts can be pretty dangerous.
+    Check out Oyvind Stenhaug's 4:10 run of this map, it's pretty impressive to
+    watch and helped this run quite a bit. :)
+19: An easy and kinda ugly map, just get to the end as fast as possible.
+20: The megasphere/invincibility combo really helps on this map. :)
+
+As you can see from the time, the 30mm will most likely be longer than a 30ev, up
+to the +1 hour range.  These levels demonstrate that Momento Mori was not built
+to be speeded, so expect the 30mm (if it ever happens) to be a more casual run. :)
+
+Previous times for this run included 28:37, 27:31, and 27:11.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

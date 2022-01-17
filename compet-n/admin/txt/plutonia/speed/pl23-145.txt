@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+PL23-145.TXT
+PL23-145.ZIP
+
+PL23-145.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 23 - Tombstone
+
+Kills     ???
+Items     ???
+Secrets   ???
+Time     1:45
+         ----
+
+Description:
+C-N entry #39.
+
+This one could go under 1:40.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

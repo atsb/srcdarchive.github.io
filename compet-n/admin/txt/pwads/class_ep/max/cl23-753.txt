@@ -1,0 +1,19 @@
+This is a   Doomed Speed Demos Archive entry
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       Class_Ep.wad, Ultimate DOOM version 1.9
+            
+category:   Max
+
+level:      E2M3
+            
+
+stats:      Kills     100%
+            Items      72%
+            Secrets   100%   and Time   7:53
+
+comments:   Very nice map - it certainly does remind one of the original.  I
+            had no idea how much health I had at the end (health?!, we don'
+            need no estinking health....)
+

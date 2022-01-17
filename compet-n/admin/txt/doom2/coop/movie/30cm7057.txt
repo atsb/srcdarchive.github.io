@@ -1,0 +1,54 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop max movie
+mission:  01 to 32 max kills and secrets
+
+   Level       Time         
+--------------------
+   MAP01       0:21
+   MAP02       0:47
+   MAP03       0:52
+   MAP04       0:47
+   MAP05       1:23
+   MAP06       2:12
+   MAP07       0:45
+   MAP08       1:59
+   MAP09       2:43
+   MAP10       3:04
+   MAP11       2:32
+   MAP12       2:45
+   MAP13       3:28
+   MAP14       1:49
+   MAP15       5:08
+   MAP31       1:31
+   MAP32       0:44
+   MAP16       2:20
+   MAP17       3:01
+   MAP18       2:25
+   MAP19       2:47
+   MAP20       2:42 
+   MAP21       1:56
+   MAP22       1:22
+   MAP23       2:12
+   MAP24       4:15
+   MAP25       1:48
+   MAP26       2:54
+   MAP27       3:17
+   MAP28       2:28 
+   MAP29       3:31 
+   MAP30       1:06 
+--------------------
+   Total    1:10:57
+
+xit-vono : I think the time is not that great.  I wonder if under 1 hour can be done.
+
+Vincent : wow, this thing took a while to get. We got several complete runs with some 
+          missing monsters. We also got plenty of runs where we missed a secret or 
+          we simply died. 
+          I hope this run is complete, at least dftimer seems to confirm it.   
+          We really worked on the routes so I hope you'll enjoy this run.
+	  Beats Demonlord with a good margin, quite some glitches though.

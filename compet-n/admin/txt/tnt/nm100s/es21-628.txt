@@ -1,0 +1,26 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : ES21-628.LMP
+Game     : TNT: Evilution
+
+Map      : MAP21: Administration Center
+Category : Nightmare 100% Secrets
+Client   : DOOM2.EXE V1.9f
+
+Player   : GuyNamedErick
+Email    : guynamederick@gmail.com
+
+Time     : 6:28
+Date     : 11-1-2019
+
+Comments : Guess the Spectre didn't want me to leave early, bummer.
+
+Same route as before, just with the medkits secret and the BFG. Unlike
+the NM-Speed run, being more cautious is better here since going back
+for the BFG secret with very little health will more likely get you
+killed. Things can go wonky inside the building though, especially if
+tough monsters respawn right in front of you.
+
+There's still plenty of room for improvement here, particularly with
+going for the BFG, making it out after doing the BFG secret
+early can happen, though that'll require tons of luck (probably).

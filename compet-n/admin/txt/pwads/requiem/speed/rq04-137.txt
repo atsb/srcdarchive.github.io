@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ04-137.TXT
+
+ RQ04-137.ZIP
+
+  RQ04-137.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 04 - Fireworks
+
+  Kills     40%
+  Items      0%           ********
+  Secrets    0%  and Time * 1:37 *
+                          ********
+
+  Description :-)
+
+  Credits to Xit for the blue key trick. It feels sligtly
+  faster than the old route, and more importantly, no
+  -20% lava to worry about.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

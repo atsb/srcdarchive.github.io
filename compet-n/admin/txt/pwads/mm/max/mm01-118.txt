@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM01-118.TXT
+
+ MM01-118.ZIP
+
+  MM01-118.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 01 - The Teleporter
+  
+  Kills    100%
+  (Items    23%)          *********
+  Secrets  100%  and Time * 01:18 *
+                          *********
+                          
+
+  Description :-)
+  
+  A great beginning map, small and fun. The only problem in speeding through
+  this is that you have to wait before closing the teleporter, because you
+  should let everyone teleport or else you wouldn't get 100% kills. So I left
+  some guys in the start alive and went to kill them while waiting for the
+  enemies to teleport.
+  
+  Yonatan Donner
+  zem@planetquake.com

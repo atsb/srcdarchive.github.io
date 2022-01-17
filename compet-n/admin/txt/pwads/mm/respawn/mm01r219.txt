@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM01r219.TXT
+
+MM01r219.ZIP
+
+MM01r219.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 01 - The Teleporter
+      
+Kills      124%
+Items       35%
+Secrets    100%
+
+              ********
+  and Time -  * 2:19 *
+              ********
+
+
+Description:
+
+This level is a difficult run on -respawn...similar to ev02 "Human Barbeque"
+because it's loaded with Shotgunners in a tight area, with little health.
+
+Anyway, I'm pleased with the time, even though it could probably be quicker.
+Also, the bars with the Chaingunners is random. It lifts when it wants to
+lift it seems. I lost a few seconds waiting for them to raise up.
+
+It took me quite a few tries to get this run, mostly because I kept screwing
+up or something of the sort. I made it to the exit area a lot of times...got
+to the Demons only twice. This was the first time I made it past them. I ran
+out of bullets the first time, and the Shotgun was slow to show up...so I
+became Demon food ^^'
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+26.03.2002

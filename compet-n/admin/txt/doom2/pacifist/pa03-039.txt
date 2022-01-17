@@ -1,0 +1,25 @@
+PA03-039.LMP --> LV03 on Pacifist
+---------------------------------
+
+Kills   :  17%
+Items   :  22%
+Secrets : 100%
+TIME    : 00:39
+
+
+Comments: I made a PA03-043 some days ago, after some trying, but I never
+          sent this to Rini. I looked at this recording tonight and saw
+          a lot of things wrong with it. I was sure I could beat it by two
+          or even three seconds, but it turned out I beat it by four. I am
+          much happier with this recording.
+
+          To make a good time on this level you need a lot of luck with the
+          monster movement. You must be quick in the goodie cache, then
+          charge through to the first blue door without blockage (making
+          sure you grab the blue key). Then rely on luck in the corridor
+          behind the blue door and in the outside area just after that.
+          The worst thing is if the demons block your way to the red door
+          at the end.
+
+
+Robert J. Reevy <iudex@usa.net>

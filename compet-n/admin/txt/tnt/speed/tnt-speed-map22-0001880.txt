@@ -1,0 +1,23 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt-speed-map22-0001880.lmp & tnt-speed-map22-0001880.txt
+Date     : 2018-3-11
+Game     : TNT: Evilution
+Client   : Competition Doom V2.0.3.2
+Category : Speed
+Map(s)   : MAP22: Habitat
+Skill    : 4 (Ultra-Violence)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 0%
+Items    : 5%
+Secrets  : 0%
+Time     : 18.80
+===================================
+Description: Filler run, I don't really mind that I miss the time of my Nightmare run by .06 seconds. I can't say
+a whole lot on this one, though doing a run that just involves speed is easy. Now a Max one, well, heh, now that is
+another task. :)

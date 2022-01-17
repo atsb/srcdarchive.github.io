@@ -1,0 +1,14 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Speed
+Map: 19
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 5%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:18.26
+
+Description: 
+My goal was to get 19 seconds, after getting several 20's, but then I almost got 17 seconds.
+Collided with the wall before the door, so 17 seconds is possible.

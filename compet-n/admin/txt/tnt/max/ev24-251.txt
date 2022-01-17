@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV24-251.TXT
+
+ EV24-251.ZIP
+
+  EV24-251.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 24 - Quarry
+
+  Kills    100%
+  Items     XX%           *********
+  Secrets  100%  and Time *  2:51 *
+                          *********
+
+
+Description: 22 seconds faster then my previous run of 3:13. Now that this demo
+             is under 3 minutes I am pretty happy with it. I am pretty sure that
+ 	     any possible improvements couldn't be that signifigant (more then
+             10 seconds) so I think I'll leave this record as is for a while.
+	
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com

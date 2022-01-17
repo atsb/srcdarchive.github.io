@@ -1,0 +1,21 @@
+PA13-847.TXT
+
+ PA13-847.ZIP
+
+  PA13-847.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - DownTown
+
+  Kills     26%
+  (Items    42%)
+  Secrets   25%  and Time  08:47
+                           -----
+
+  Description:  Hey, that's fun.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de

@@ -1,0 +1,11 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map18
+
+Time:           0:20.83
+
+
+Comments:       Ocelot probably has a faster demo, but I think he didn't use
+                this route.

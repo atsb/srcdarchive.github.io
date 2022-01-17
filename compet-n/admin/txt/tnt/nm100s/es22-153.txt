@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ES22-153.TXT
+
+	ES22-153.ZIP
+
+		ES22-153.LMP - Nightmare! 100% Secrets
+
+Recorded using Doom II's doom2.exe
+Doom2 -file tnt.wad -playdemo with Final Doom
+
+Final Doom: TNT Evilution - Level 22 - Habitat
+
+Kills    [Irrelevant]
+Items    [Irrelevant]
+Secrets  100%
+
+              ********
+  and Time -  * 1:53 *
+              ********
+
+
+Description :
+
+-----Altima ranted:
+--This map didn't get any prettier though, that flat error popped up when I
+--was recording...but I found a way around it. ^_^
+
+... Nice of you not to mention what that way is. I had 4 runs that were
+all going to be at least 5 seconds faster than this one, and every single
+one of them crashed before the exit.
+
+I could almost choke you, in a friendly way.
+
+-----------------------------------------------------------------------------
+Author: Chris Laverdure 		(dashevil@sympatico.ca)

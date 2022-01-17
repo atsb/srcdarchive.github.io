@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA05-226.TXT
+
+ FA05-226.ZIP
+
+  FA05-226.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  
+
+    ...and Time    02:26
+                  -------
+
+
+  Description: 
+  
+  I missed quite a lot of SSG shots, so maybe I will improve
+  this sometimes. The UV max route is possible, but haven't tried
+  it yet.
+
+
+  Radek Pecka
+  r.master@email.cz

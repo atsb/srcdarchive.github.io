@@ -1,0 +1,125 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+10930e11.TXT
+
+ 10930e11.ZIP
+
+  10930e11.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file tnt.wad tnt31.wad -playdemo with version 1.9
+
+  TNT Evilution – Episode 2 – UV Fast
+
+Comments:
+Once I saw Xit Vono's Episode 2 NM100S run, I knew this was possible.
+A good chunk of my attempts were fuckups on Map 11, so it's nice to know
+I survived all of this. The times are a bit slow, I will admit, but hey,
+it's faster than the current MAX run for this episode. That should count
+for something.
+
+                                  Time     Kills      Secrets 
+-------------------------------------------------------------
+11 – Storage Facility             5:59      104%        100%
+12 – Crater                       7:34      100%        100%
+13 – Nukage Processing            8:22      100%        100%
+14 – Steel Works                  8:37      100%        100%
+15 – Dead Zone                    8:32       97%        100%
+31 – Pharoah                     11:16      101%        100%
+32 – Caribbean                    8:32      100%        100%
+16 – Deepest Reaches              8:08      100%        100%
+17 – Processing Area              5:12      101%        100%
+18 – Mill                        12:13      100%        100%
+19 – Shipping/Respawning          9:28      100%        100%
+20 – Central Processing          15:37      100%        100%
+--------------------------------------------------------------
+Total                          1:49:30
+
+11 – Storage Facility
+Pretty risky for the first map, having to survive with little armor while
+fighting off the teleporting hordes of monsters. There were a couple
+attempts where the arch-vile resurrected monsters and let them go
+outside, so I look around for a bit to make sure I catch them, but
+there werent' any.
+
+12 – Crater
+The huge infight between mancubi, arachnotrons and barons is a pretty
+nice excursion through, mainly because I can get a soul sphere once it's
+finished. Obviously, I save this for the end. Near the RL area, one of
+the chaingunners infighting with imps actually walked all the way over
+to the side, which surprised me a bit.
+
+13 – Nukage Processing
+Outside, the mancubi were a bit of a pain, so I improvised a strategy.
+I always love manipulating the cyberdemon for my liking so I don't take
+any blast damage from hitting the window. I save the megaarmor for the
+end. Unfortunately, I left with 22% health at the end of the level. :(
+
+14 – Steel Works
+A level filled to the brim with hitscanners. Essentially a less intense
+version of Stronghold. Having low health didn't really affect me at the
+beginning because of how the zombies tend to have really inaccurate aim.
+At the blue key part, one of the pain elementals was kind enough to kill
+himself with the nearby crusher.
+
+15 – Dead Zone
+Ah yes, the level where a caco and PE can't be woken up, thus justifying
+97% kills max on this level. At 1:10, I get the chance to let 2 imps
+infight with each other due to them shooting a barrel, but I don't notice
+until it's too late. At 4 ½ minutes, I use blast damage to kill the
+demons below because I had low health, but ended up losing more.
+
+31 – Pharoah
+This level will desync if you don't have the proper patch for it.
+The soul sphere part is bullshit due to how many enemies are shooting
+all at once. The cyberdemon is definitely a lot easier here because
+of how you can make it so he doesn't hit you.
+
+32 – Caribbean
+The highlight of this level is not taking any damage in the first minute.
+I always loved BFGing all the hitscanners about to teleport. Another
+highlight is at the end where I don't take any damage during the final
+fight with the cyberdemon.
+
+16 – Deepest Reaches
+I saved up a lot of rockets from the last level, so I use them to my
+liking here. The PE decided to come in near to me, which is fine
+considering I want to kill him ASAP. Nothing else to say about this level
+otherwise. Almost 2 minutes faster than the Ep 2 Max run of this level.
+
+17 – Processing Area
+A short little blast through the area. A PE decided to come in early,
+which is all fine by me. Again, not much to say. Good thing the arch-vile
+didn't stall any progress with the teleporting like what sometimes happens.
+
+18 – Mill
+In the area with four switches, I only open up two and “illegally” press
+the other two. Also, I end up killing two lost souls with 1 SSG shot.
+Doesn't happen that often IMO. While the cyberdemon kills the hell
+knights, I take the time to refill my health and get an invulnerability.
+I'm just barely able to kill the cyber before it runs out. Got a bit
+cautious because I heard some splashing once all the enemies were killed,
+but I assume it was just some lost souls.
+
+19 – Shipping/Respawning
+Pretty easy IMO. I go into the soulsphere secret early so I'll have 100%
+secrets even if I don't get the powerup. Once I get the red key, I end up
+making the mistake of taking longer than normal and end up making the PE
+spawn more lost souls. I get the megasphere to help relieve tension for
+the final level.
+
+20 – Central Processing
+Oh, god, here we go. This level is quite dangerous IMO. I'm essentially
+using up a good chunk of cell and rocket ammo from the previous levels
+to deal with what's going on here. The red key part is hell enough, and
+then you get to the berserk part, unleashing tons of spectres and demons.
+I save the berserk for the end because I'll get more health on the way
+anyway. I excessively surveil the blue armor area to make sure there
+aren't any stragglers. I had an attempt where those 3 far-away
+chaingunners walked into the teleporter to the soulsphere area, and I was
+proceeding to the final area, he appeared there, and couldn't kill him,
+so I frustratingly died. The spiderdemon part is awkward as I didn't have
+enough armor to safely BFG it, so I had to SSG it instead. Everything
+after is okay, and I completely finish it safely.
+
+Author: Revved

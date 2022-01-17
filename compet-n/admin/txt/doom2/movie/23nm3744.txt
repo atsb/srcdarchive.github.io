@@ -1,0 +1,81 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+23NM3744.TXT
+
+ 23NM3744.ZIP
+
+  23NM3744.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 1 to Level 23 (died in 24)
+
+
+              Time
+
+  LV 01  -    0:12
+  LV 02  -    1:48
+  LV 03  -    0:52
+  LV 04  -    1:28
+  LV 05  -    1:12
+  LV 06  -    2:07
+  LV 07  -    1:41
+  LV 08  -    1:19
+  LV 09  -    2:10
+  LV 10  -    1:06
+  LV 11  -    1:33
+  LV 12  -    1:54
+  LV 13  -    1:59
+  LV 14  -    2:10
+  LV 15  -    1:06
+  LV 31  -    1:20
+  LV 32  -    0:37
+  LV 16  -    0:47
+  LV 17  -    3:18
+  LV 18  -    0:42
+  LV 19  -    1:14
+  LV 20  -    1:26
+  LV 21  -    1:25
+  LV 22  -    2:13
+  LV 23  -    2:05
+  LV 24  -    hehe....
+
+
+ Total Time =  27:644
+               27+
+               10:44
+               ------
+ TOTAL TIME =  37:44
+              --------
+
+
+Description: This .lmp is dedicated to Adam and ESPECIALLY Istvan...both had
+             some great ideas, tips and tricks for 22 & 23...I followed
+             Istvan's detailed map 22 route pixelperfect...and got out with
+             about 130% ((((:
+             23 was a piece of cake with THAT amount of health...ok..you can
+             smell how nervous I was in the end of it...hehe..
+             I wasn't prepared for 24 so I died there VERY silly...but again
+             ...this .lmp is (hopefully) just an update...so I don't want to
+             write here that much...
+
+             2 more BAD news...
+
+             1. I'm 9sec away from Dl's episode1-nm-record...):
+
+             2. There's a 15min pause after map15...A friend come over here
+                and so I couldn't play...(with -timedemo the pause took 2min
+                (p166).. consequently you shouldn't watch it w/o...maybe it's
+                possible to delete some waits...?)
+
+
+             27.07.98 14:30 p.m CET
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/

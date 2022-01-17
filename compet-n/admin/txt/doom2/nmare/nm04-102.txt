@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM04-102.TXT
+
+ NM04-102.ZIP
+
+  NM04-102.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 4 - The Focus
+
+  Kills     81%
+  (Items    64%)
+  Secrets   33%  and Time  01:02
+                           -----
+
+  Description :-)
+
+  Oh yeah.... I never thought one day I'll have the record of this
+  map.... and I'm now proud that I have it; even if just for some days.
+  Even though the times are hilariously fast compared to what was
+  thought to be possible 3-2-1 years ago, this map is still something
+  special in NightMare. So it makes me feel special to have the record,
+  after the likes of Kai, DL, Peo, Istvan or Panter.
+
+  I have to say thanks to Panter for his excellent end room route 
+  in his Pacifist demo. On the other hand, I introduced a new trick
+  (blue key pickup) so I think it's fair that I "stole" his route.
+
+  I'm satisfied with my demo; but it's clear what time should be
+  the real thing. I leave the optimizing to you guys.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

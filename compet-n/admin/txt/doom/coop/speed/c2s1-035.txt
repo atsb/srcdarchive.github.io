@@ -1,0 +1,13 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr)
+
+game:     doom v1.9
+category: coop speed
+level:    e2m1
+
+time:     0:35
+
+
+

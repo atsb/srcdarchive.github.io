@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA11-047.TXT
+
+ PA11-047.ZIP
+
+  PA11-047.LMP - Ultra Violence - Pacifist
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 11 - "Circle of Death"
+
+  Kills    8%
+  Items    0%            
+  Secrets  0%  
+
+      ...and Time     00:47.02
+                     ----------
+
+Description: This map is Circle of Death indeed. I died thousand times
+             at least. I should be happy that I finally did it, but look at
+             the time, I feel pissed off a bit. Anyway, I slightly changed the
+             route, because in my opinion there was no reason for picking up
+             the green armor and supercharge. You need enough health just to 
+             get through the Cacos room, then you need LOT of luck. I had two 
+             faster demos, but spider always killed me. (note: I didn't 
+             use IDDT.)
+             
+
+         
+
+Author:     Radek Pecka
+E-mail:	    r.master@email.cz

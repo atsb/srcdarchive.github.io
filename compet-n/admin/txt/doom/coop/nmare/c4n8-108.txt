@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c4n8-108.txt
+
+ c4n8-108.zip
+
+  c4n8-108.lmp Nightmare!
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E4M8
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    1:08
+
+
+Selim   : Slow.
+Vincent : Safe.
+
+note : valid nm100s entry.
+          
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

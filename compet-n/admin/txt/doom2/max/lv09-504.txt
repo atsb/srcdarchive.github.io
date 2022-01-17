@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV09-504.TXT
+
+ LV09-504.ZIP
+
+  LV09-504.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 09 - The Pit
+
+  Kills    100%
+  (Items    40%)          
+  Secrets  100%  
+
+      ...and Time    05:04
+                    -------       
+
+
+Description:  I like this map, but playing maxkill here was quite 
+              a disappointment for me. It wasn't as fun as I thought. 
+              The good time depends on infights very much. If you spend
+              one or two rockets more in the BFG room, you will have lot of
+              problems in the room with lifts. This is first demo I was 
+              lucky, unfortunately the time is just 4s over 5 mins.
+
+
+
+Author:	   Radek Pecka
+E-Mail:	   r.master@email.cz

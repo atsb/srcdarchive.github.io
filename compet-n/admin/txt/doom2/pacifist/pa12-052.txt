@@ -1,0 +1,23 @@
+PA12-050.TXT
+
+ PA12-050.ZIP
+
+  PA12-050.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:52
+                           -----
+
+  Description:  
+Here is one of my attempts to break DL's lv12-052.lmp...
+This is the fastest w/o hitting a monster...only one punch in the air.
+Take a look at my lv12-050 (-:
+           
+       Author:  Thomas Pilger
+

@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV03-305.TXT
+EV03-305.ZIP
+
+EV03-305.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 03 - Power Control
+
+Kills    100%
+Items     66%           
+Secrets  100%  
+
+   ...and Time  3:05
+               ------
+
+
+Description: Another demo i had fun recording. Very good monster balance, not
+	     too hard, and not too easy. The time could probably go below 3
+	     minutes, this was my 7th try or something.
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

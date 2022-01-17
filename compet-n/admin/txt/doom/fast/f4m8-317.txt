@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+F4M8-317.TXT
+
+ F4M8-317.ZIP
+
+  F4M8-317.LMP - Ultra Violence with -FAST
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 8 - Unto The Cruel
+
+  Kills    100%
+  (Items    ??%)
+  Secrets  100%  and Time  03:17
+                           -----
+
+  Description:  I revisited my Doom1 nightmare collection and while watching
+                my n4m8 recording thought that it should be fun on -fast as
+                well. It is - as long as you do not try to be faster than
+                3:30, then it starts to become a bit frustrating.
+                Optimizing the time is surely not the same as optimizing the
+                fun you have when playing ;-)
+                Sorry, Ralf to take your only COMPET-N point, you surely
+                can find som other maps to improve.
+
+                If you wonder about the 100% kills and secrets:
+                There is only one secret in that map, the sector with the
+                chaingun. Use iddt-iddt to check that I killed all monsters
+                (except some lost-souls, but they don't count for the kills
+                ratio.
+ 
+       Author:  Steffen "Rini" Udluft
+

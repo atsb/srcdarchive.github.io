@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+lv11-217.txt
+lv11-217.zip
+
+lv11-217.lmp 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2 - Level 11 - Circle of Death
+
+=--------------=
+Kills      100%
+Items       57%
+Secrets    100%
+
+Time       2:17
+=--------------=
+
+C-N entry #63.
+
+I guess my profile is now somewhat inaccurate.. in place of "doom2: no
+favorites here" should be "doom2: lv11."  Thanks to Sedlo for his support
+on this one. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

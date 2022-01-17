@@ -1,0 +1,40 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m215-930.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP15 - The Devils Coterie         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    103%                            |
+            |      Items     81%           ********         |
+            |      Secrets  100%  and Time * 9:30 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Yet another favourite of mine. The design is amazing in every inch of  |
+| every room - just like in "Rats in the Walls" by the same mapper. The  |
+| gameplay is violent, but quite fun IMO. My only, very minor, complaint,|
+| is that one secret is difficult to register. My first fake exit under  |
+| Eugene's time timed in 10:02 and had 88% secrets. Looks like I found   |
+| a better strategy in a few spots, and, do I need to say, I am VERY     |
+| satisfied with the time? The red key area and the mancubus/revenant    |
+| infighting went much better than in my previous tries.                 |
+|                                                                        |
++========================================================================+

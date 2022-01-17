@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E3M5-027.TXT
+
+ E3M5-027.ZIP
+
+  E3M5-027.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 5 - Unholy Cathedral
+
+  Kills      0%
+  (Items     5)
+  Secrets    0%  and Time  00:27
+                           -----
+
+
+  After making this .lmp I thought: are there any levels that are still
+  finished using the old, traditional way, without jumping over unraised
+  bridges, without pressing on switches through walls or monsters, and
+  without taking keys without lowering platforms or opening doors? Maybe
+  id software will make Quake resistent to such quick finishes. Thanks
+  to Michael Kren - without his .lmp I would have never known it could
+  be finished that way. And sorry for breaking the record ;-)
+
+  My home page is: http://www.geocities.com/Hollywood/4704 (/doom.html)
+
+  Please e-mail me and give me some feedback! I'd love to hear it!
+
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+

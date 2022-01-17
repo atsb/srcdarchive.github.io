@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM04-451.TXT
+
+MM04-451.ZIP
+
+MM04-451.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 04 - The Stand
+      
+Kills       65%
+Items       20%
+Secrets     16%
+
+              ********
+  and Time -  * 4:51 *
+              ********
+
+
+Description:
+
+This map isn't really that bad to speedrun. You just have to do a lot
+of killing. Well...not really as much as you would think.
+
+The only real problem areas are the SSG (trying to get it), and the end Baron. Those I guess I kinda took my time on, as I didn't want to screw up and die or something. ^^'
+
+It's a nice level, one of Memento Mori's better ones ^_^
+
+I guess route credits go to Drew "stx-Vile" DeVore, I used his movie
+path to go through this level.
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+26.04.2002

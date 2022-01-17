@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+et01-055.txt
+et01-055.zip
+
+et01-055.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+TNT - Level 01 - System Control
+
+=--------------=
+Kills      100%
+Items         ?
+Secrets    100%
+
+Time        :55
+=--------------=
+
+C-N entry #137.
+
+This was fun, got stuck once on a trooper,
+everything else went fine.  Wanna do a :54,
+Radek?  It would look sweet. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,67 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PF11-229.ZIP
+
+ PF11-229.LMP
+
+  PF11-229.TXT -UV FAST
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills       77%
+  (Items      87%)           ********
+  Secrets    100%  and Time  * 2:29 *
+                             ********
+  C-N entry #55.	Date: 14.03.2014
+
+
+  Description :)
+  Yay! Over a minute below par!
+  
+  I'm pretty happy that I still got it in me to compete here at COMPET-N,
+  even if it's only against my self. I was getting worried I would go a year
+  without a record. I've been very busy studying Networking and computer
+  stuff in general so that I can get a decent job, and there's been little
+  time for Doom or for anything of please for that matter. 
+  
+  This is quite a pleasant demo, at least from my point of view -- as I
+  improved my previous record by 5 seconds. I've learned a lot from
+  studying Ancalagon's demos. The basics is: never get stuck on anything and
+  never miss a shot (even if it means navigating somewhat more slowly, SSG
+  reloads take a long time); but the less obvious is this: always move
+  forward, don't kill as you go, shoot as you go, and as you backtrack
+  throughout the map after obtaining the necessary keys to advance or exit
+  -- finish them off quickly! I must say, I have a long way to go before
+  mastering that last step, and I think few Doomers have. If the practice
+  was applied more regularly and rigorously, many of the Ultimate Doom max
+  runs could be improved by at least 5 seconds, some even 10.
+  
+  The not getting stuck part was previously very hard for me, but as Kimo
+  had always told me, don't overdo SR50 :)
+  
+  ...I got really lucky with that third-to-last Arch-Vile.
+
+  [Btw, 77% kills is maximum on this map (in UV) with out going to the exit on
+  the right and with out the "-respawn" parameter.]
+
+  
+  By the way, COMPET-N record was 2:34 by me, timestamped:
+  Saturday, March 14, 2014, 8:12 PM.
+
+  Complete Historic COMPET-N Leaderboard:
+  PF11-345 - Kai-Uwe Humpert - 07.01.1997 [plt11-88]
+  PF11-311 - Kai-Uwe Humpert - 07.01.1997 [plt11-gm]
+  PF11-249 - Radek Pecka     - 28.03.2002
+  PF11-245 - Xit Vono        - 16.06.2006
+  PF11-244 - Archy           - 03.03.2011
+  PF11-242 - Archy           - 03.03.2011
+  PF11-241 - Archy           - 29.05.2011
+  PF11-234 - Archy           - 02.06.2011
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

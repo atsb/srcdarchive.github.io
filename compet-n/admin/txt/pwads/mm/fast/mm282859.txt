@@ -1,0 +1,44 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm.wad                                  |
+            | Filename: mm282859.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP28 - City Of The Unavenged      |
+            |                        (Jens Nielsen)         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    104%                            |
+            |      Items    100%           *********        |
+            |      Secrets  100%  and Time * 28:59 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Believe it or not, I expected an even better time at the exit. But I   |
+| won't complain :)                                                      |
+|                                                                        |
+| There are two tricks used here which are quite unlikely in UV Max.     |
+| 1. I fight the last cyber from INSIDE the building.                    |
+| 2. After BK when two archies should teleport and resurrect dozens of   |
+|    monsters sometimes one of them attacks me and does not teleport.    |
+|    Like in this demo...                                                |
+|                                                                        |
+| I still didn't watch thoroughly Vile's and Istvan's demos (well, I did,|
+| but it was a long time ago), so maybe I missed something route-wise.   |
+|                                                                        |
++========================================================================+

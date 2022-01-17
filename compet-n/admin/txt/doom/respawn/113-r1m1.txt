@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+113-R1M1.TXT
+
+ 113-R1M1.ZIP
+
+  113-R1M1.LMP - Ultra Violence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only!
+
+  DooM - Ep.1 Mi.1 - Hangar
+
+  Kills     82%
+  (Items    42)
+  Secrets    0%  and Time  01:01
+                           -----
+
+  Maximum Minimum Health = 113 %
+                           -----
+
+  Description:  never hit + all potions = perfect! :-)
+
+                i think the rule for maximum minimum health is/was
+                a little bit unclear. i think that if at any point
+                of a recording a damage is taken, the maximum minimum
+                health claim cannot be higher as to the moment after
+                the damage was subtacted.
+
+                best way would have been to count the cumulated
+                damage taken, but that would consume alot of time,
+                especially in bigger maps with multiple hits, e.g.
+                map 29 of doom2... :-)
+
+
+       Author:  thomas "poeppy" kroppen
+
+       E-mail:  poeppy@aol.com

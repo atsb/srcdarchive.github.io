@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom/coop/max" entry, please forward it.
+
+c3m1-057.txt
+
+ c3m1-057.zip
+
+  c3m1p057.lmp
+  c3m1s057.lmp
+
+  Recorded using Ultimate Doom Version 1.95
+  Doom -PlayDemo with Version 1.9
+
+  Level e3m1 - Hell Keep
+  
+              Kills    Secrets
+
+  SlagDooM     50%        0%      
+  Python       34%      100%      
+  Infighting   16%
+              -----     -----
+              26/26      1/1
+
+  Time:    0:57.82
+
+
+Comment:     We just had to beat that sucking 1:39 from 1.5 years ago.
+             Adam_H advised us to get at least under 1 minute, so we did.
+
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Marko "Python" van der Want      (python@quicknet.nl)
+  

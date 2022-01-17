@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+
+ EP24-041.lmp - UV Pacifist
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM 
+
+
+  Final DooM - TNT Evilution - Level 24 -> "Quarry"
+
+	Kills         11%
+	Items          7%
+	Secrets        0%  
+	             ********
+	... and Time * 0:41 *
+		     ********
+
+   Description: Nothing strange - minimally 4s loss. I dont´
+		know, if is the trick possible here.
+	    
+
+	    
+   Date: 02.08.2003  18:06
+	 
+
+   Author: David "mr.twister" Ficenec
+
+   E-mail: mr.twister@idoom.cz
+   http://www.idoom.cz
+   http://www.predators.webz.cz

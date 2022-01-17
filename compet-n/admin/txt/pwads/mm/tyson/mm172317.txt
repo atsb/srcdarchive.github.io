@@ -1,0 +1,51 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm.wad                                  |
+            | Author: various                               |
+            | Demo filename: mm172317.lmp                   |
+            | Category: Tyson                               |
+            | Map Level: MAP17 - House of Thorn             |
+            |                   (by Eric Sambach)           |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     60%           *********        |
+            |      Secrets   71%  and Time * 23:17 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| OK, so here's another previously undone Tyson. It was more difficult   |
+| than I thought; the map has few monsters and some powerful power-ups,  |
+| but a few annoying moments as well, mostly the four mancubus combo.    |
+| You wish you had 240 bullets for them, but it's more convenient to     |
+| spend some of your bullet supply on sergeants, chaingunners and three  |
+| (at least two) revenants in high windows (difficult to get them into   |
+| fight against anything). This time the arch-vile must have weakened    |
+| the mancubi, but there were still four of them remaining. Luckily, I   |
+| had quite a lot of health, so I succeeded.                             |
+|                                                                        |
+| At the very end, a surprise, the last arachnotron won convincingly     |
+| against a fresh baron and I had to finish it off with fists. Then, one |
+| final monster (a stuck mancubus), I was careful not to touch the       |
+| barrel, finally and I made an entire circle around the map, losing     |
+| some seconds by mistake.                                               |
+|                                                                        |
+| Interesting: after 8 minutes I had 62 monsters killed, 26 remaining!   |
+| This kind of shows how tricky the red key area is.                     |
+|                                                                        |
++========================================================================+

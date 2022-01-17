@@ -1,0 +1,41 @@
+This is a DooM "COMPET-N/doom/nmare" entry. Please forward it...
+
+N2M6-311.TXT
+
+ N2M6-311.ZIP
+
+  N2M6-311.LMP - NightMare!
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Mission 6 - Halls Of The Damned
+
+  Kills     63%
+  (Items    36)
+  Secrets    0%  and Time  03:11
+                           -----
+
+
+Description: George Bell mailed me, that he has to complete this level for
+             his D1I. So I tried it a little bit in Nightmare!, ...
+
+             This was the text for E2M6-217. But now I've reached the exit.
+
+             It's quite Steffen's way except that I close a door to avoid
+             awakening the Baron and some pigs. You need some luck on the
+             way back from the yellow key, you must hurry a lot there, or
+             the hallway will be filled again and the monsters open some
+             doors they should not open. It is quite hard not to have the
+             pigs bite at you especially where there are more than two of
+             them. Without a chaingun or bonus cell box this level can be
+             rather hard.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+

@@ -1,0 +1,66 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+0544UV01.TXT
+
+ 0544UV01.ZIP
+
+  0544UV01.LMP - Ultra-Violence
+
+  This is a Compet-N/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1"
+
+  LV 01  -      00:05
+  LV 02  -      00:48
+  LV 03  -      00:27
+  LV 04  -      00:33
+  LV 05  -      00:30
+  LV 06  -      00:58
+  LV 07  -      00:17
+  LV 08  -      00:29
+  LV 09  -      01:01
+  LV 10  -      00:36
+               -------
+  TOTAL TIME = |05:44|
+               -------
+
+  Description:
+  Now I have actually something to say, since I worked so much for the uv30. This is a failed
+  UV30 run. Rest of the run is cut (thanks dew). I'm not really satisfied with this because
+  route is from UV30 and not much risks taken. You might see a better run from me in the future.
+
+  lv01: Hmm, I admit that 5second is hard but I got it 4 times in a row :)
+
+  lv02: My personal record is 43seconds with the same tactic, so easy to improve
+	with more risky attitude.
+
+  lv03: I remember grinding the jump so many times that I did it 25 times in a row.
+        That was the tactic I used on nearly every trick in my UV30 to get tricks work
+        properly. Map07 rocket jump was exception, but map14 rocket jump wasn't because
+	I made that trick 35 times in a row... Yeah I know it's stupid, but I laughed so
+	hard because so many hours wasted just because I tried to do it with luck based
+	tactic.
+
+  lv04: I raged if the end jumps failed. Here the time is good, but it is .06
+
+  lv05: 30 is bad time imo.
+
+  lv06: Hmm, I tried the "yellow key grab" here but failed and messed everything.
+	Next time I don't care if I stand on that trigger. Time is ok.
+
+  lv07: Time is good :))
+
+  lv08: I'm happy with under 30 seconds.
+
+  lv09: My personal record is 1:01 so :) But if I aim for EP1 record, maybe I use different
+	tactic in the yellow key room... :) I tried 'it' with nomonsters and it works enough
+	often with rocket launcher, but it's  more likely a different story with monsters
+	around :/ (unless one lost soul blocks the door from closing, hint for map09 speed :)
+
+  lv10: This time is joke. Route is wrong and slow for a EP1 record.
+
+
+  Author: Looper

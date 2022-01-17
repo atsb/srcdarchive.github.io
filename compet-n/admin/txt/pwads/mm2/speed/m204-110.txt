@@ -1,0 +1,27 @@
+ This is a DooM .LMP "Competition" Entry
+
+m204-110.TXT
+
+ m204-110.ZIP
+
+  m204-110.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - - Level 04 - Ratamahatta by Florian Helmberger
+
+
+  Kills     18%
+  Items     24%           
+  Secrets    0%  and Time  1:10 
+                         
+
+  Description
+
+The route credit goes to Drew DeVore with one my change. 1:06 - 1:08 could be possible for me but a real Compet-N run for this map should be under 1 minute.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+24.05.2005
+

@@ -1,0 +1,276 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM13-PAR.TXT
+
+ NM13-PAR.ZIP
+
+  NM13-228.LMP - NightMare! ( CAN handle it! :-)
+  &
+  NM13-218.LMP -   "    "
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 13 - "DownTown"
+
+  Kills     30%
+  (Items    22)
+  Secrets   12%  and Time  02:28
+                           -----
+
+  Kills     34% [ More ! ]
+  (Items    21)
+  Secrets    0%  and Time  02:18 [ Less ! ]
+                           -----
+
+  Introduction...
+
+  I recorded this collection of NM13-??? .LMP's over the past two
+  months in preparation for an attempt at a DHT D2I title...
+
+  Anyway, after waiting for *OVER* two months [ ! 8-( ] for this
+  exam, I figured that continuing to secretly hold onto these - so
+  that no-one would get the chance of copying the methods used and
+  "steal" this Out-of-Base D2I level which I had considered to be
+  "mine" - was getting to the point of being a joke...
+
+  I wrote to Mr. DHT and asked him if this is what he "intended":
+
+  ie. Potential candidates practicing the required Out-of-Base D2I
+  levels to the point of getting SOoo... good at them that we would
+  soon become TOO good at them, eg. On NightMare! AND Under the Par
+  Time, such that to re-record a lesser achievement for a DHT D2I
+  title would become just too easy; fairly boring to both -Record
+  and -PlayDemo; and overall a pretty pointless(?) exercise... AND
+  All this time feeling that we needed to keep these achievements
+  to ourselves so as to prevent candidates that HAD received their
+  exams from using any of this knowledge to complete the title for
+  themselves... ALSO The l---o---n---g delay between requesting an
+  exam and receiving it was IMHO getting rather ridiculous and had
+  the effect of introducing yet another "race condition" of needing
+  to complete our exams as soon as possible (any which way) after
+  receiving them because it was quite likely that other candidates
+  would be working on the same Out-of-Base levels and whether or
+  not they would be successful would depend almost entirely on the
+  time it would take Mr. LMPS to "pass" previous uploads... would
+  we have a day, a week, a month... [ two !?! ] to complete these
+  before the then uploaded Out-of-Base levels would be GONE ?!?
+
+  Mr. DHT has asked me if he could publish the e-mail, with these
+  concerns, that I sent him ( and I have agreed ;-) and so maybe
+  they are justified... [ ? ]
+
+  Anyway, I had decided to release these NM13-??? .LMP's without
+  any further delay and on that VERY day [ The CTN-APR1.ZIP update
+  was almost complete though I had got side-tracked doing yet more
+  D1I analysis (See CTN-APR2.ZIP for those details...) ] and guess
+  what ? ... Yes, I got my exam !!!
+
+  I knew that, due to the above "race conditions", I just had to
+  complete this exam ASAP - ie. make it quick and not necessarily
+  great - as I already knew that another D2I candidate [ George I.
+  Bell... although we had already e-mailed each other and "traded"
+  our intentions :-) ] was going to use the SAME Out-of-Base maps
+  and there may well have been others [ ? ] that also intended to
+  do similarly...
+
+  I completed (and uploaded) my D2I exam in two (or rather three)
+  days - a record in itself perhaps for an advanced title [ ? ] -
+  but since [ I believed that ] I needed to do this as soon as I
+  possibly could, I felt "forced" to use the substitution rule to
+  replace my assigned (unpracticed) "hard" level with a second (!)
+  (practiced) Out-of-Base level. This has the effect of denying a
+  future D2I qualifier and since the levels were all "just done"
+  none of them are particularly great... Almost ALL of the .LMP's
+  in this NM13-??? collection are better, but I did have *thirty*
+  times the amount of time to think about, practice plus actually
+  record them...
+
+  Finally, I may have done the DHT system a dis-service by rating
+  NM13 and NM20 as medium and easy levels respectively... NM20 may
+  actually be the more difficult level for the average player to
+  complete. It's just that [ you can see that ] I had had SOoo...
+  much practice at NM13 that it was TOO easy for Me but I remember
+  that it took quite a while to first complete it - I'd had some
+  assistance with NM20 [ it had already been done by others ] and
+  solved it within a day. I have now re-played NM20 several more
+  times and have had a rate of failure of perhaps over 80% whereas
+  with NM13 - although I really can't see this level anymore - the
+  only place where I might fail is at the "tele-jump" to the blue
+  door and that rate of failure is, I believe, less than this 80%
+
+  If I were asked to reconsider rating NM13 and NM20 as medium and
+  easy - with other mediums such as 04(!), 05, 07, 10, 30 and 31 -
+  I would say that the levels NM13 and NM20 are BOTH "Easy" ! ;-)
+
+  Now, it wouldn't make sense to release ALL of my .LMP's of "Me"
+  completing this level, [ I have over 50 of these ! :-) ] but it
+  does make sense to release *some* of these - showing my progress
+  over the lengthy period of practice ;-)
+
+  Back to the actual .LMP's...
+
+
+  Description :-)
+
+  Soon after completing my NM13-242 and NM13-245 [ actually, that
+  very same day ! ] I began trying to get an UNDER PAR -Record'ing
+  of this level on this NightMare! difficulty using the very same
+  route - with some "minor" improvements... After a number of low
+  NM13-23? .LMP's I soon made it ! :-)
+
+
+  [ Copied from NM13-1ST.DOC :-) ]
+
+  The trick to completing (M)ANY of the DooM (II) missions on the
+  NightMare! difficulty is, first of all, to know a fairly "safe"
+  lightning route... If you can simply "fly" by the monsters on
+  UltraViolence you can often do the same on NightMare!. You just
+  need to keep moving... AND, secondly, you need to know what you
+  must do - like get the keys, weapons and power-ups - and also
+  what you must NOT try to do... re-visiting areas is often NOT a
+  very good idea because the goodies are gone and those monsters
+  will probably have returned... Sometimes it may be necessary to
+  just "chance it" - Sometimes whatever the trick used works and
+  sometimes it just does not !?! It becomes a case of just trying
+  it over and over until you "pull it off"... though if there are
+  more than three places where you need to "chance it", each with
+  a 25% chance of success - .25 to the power of 4 which equals =
+  1 potential success in 256 attempts, I'd suggest that you should
+  [ do these kinds of calculations and ] forget it :-(
+
+  The difficult parts of this level are quite simply getting each
+  of the keys and avoiding taking a fatal amount of damage during
+  meeting your objectives... And this also includes getting your
+  fragging weapons... Finally, of all of the monsters that might
+  get in your way, and thus require the most attention, are those
+  damn Ravenants that surround the room with the blue door which
+  contains the "second" invulnerability sphere plus the only (?)
+  teleport to the yellow yey.
+
+  Now, level 13 has two VERY useful invulnerability spheres it it.
+  You don't have any choice about when to take the "second" one of
+  these but there is a scope for some choice about the first one.
+
+
+  [ Copied from NM13-2ND.DOC :-) ]
+
+  Soon after completing my NM13-334 and NM13-325 I descided that I
+  would try to improve on these times and make a .LMP in less than
+  3:00 minutes... First of all picking up the initial Armour-Hats
+  is a complete waste of time - Just RUN straight for the "easy to
+  get" (though secret) Mega-Armour and, while I'm waiting for the
+  wall to open, grab a convenient "blur-ball" and Plasma-Gun [ The
+  three blur-balls seemed to help all through the level... One to
+  get around the Cacodemon, one for the "tele-hop" and one for the
+  yellow key room ] and then get the Armour. Now for a change in my
+  game-plan... [ I'd found that it's worth taking the chance at the
+  "tele-hop" (to the blue door and the second "life-ball" :-) You
+  make it more often than you would think (or just get killed by a
+  waiting Ravenant, or Cacodemon) and it's worth it for time saved
+  by not having to clear this ledge AND this has the advantage of
+  making the first "life-ball" available for the first part of the
+  run - though it is not really needed... Back to the .LMP's ] ...
+  I take the first invulnerability sphere - Rockets plus Launcher
+  are next [ Remember that I haven't fired a shot so far - that's
+  why the pinkoes don't come and get me ;-) ] then go for the blue
+  key. The invulnerability should last until after the Cacodemon
+  gets fragged - two or three rockets is more efficient :-) This
+  looks like a good place to do your silly DHT dancing. Now switch
+  back to Shotgun, not for the imps because spareing their lives
+  saves yet more time, but for that pinkoe in a tight spot after.
+  Open the door and fly by the Fatso - Cross your fingers that the
+  blue key will come away with you as it's quiet easy to miss it.
+  Back at the start point... Run for another "blur ball" - the far
+  one [ This is actually a waste of time and health but I thought
+  it helped at the time ] and prepare for the "tele-hop"... I like
+  to go in backwards and just hope ! :-) If you make it (?), open
+  the blue door, get the life-ball and teleport out... After that,
+  with shells, rockets and plasma plus the final blur-ball on the
+  way, it's pretty easy - As long as you do get the red key - It's
+  not so easy to see when everthing is white ! ;-)
+
+
+  Where I made up time :-)
+
+  As indicated in my NM13-2ND.TXT, the main time-saving change in
+  my game-plan is to only take TWO of the invisibility spheres...
+  One at the beginning and the central one after getting the blue
+  key before teleporting to the "tele-hop" - This in itself saves
+  those vital 15 seconds... Otherwise, I gain a second or two in
+  some places and lose the odd second at others. At this point I
+  thought it was just a case of fine tuning my movement so as to
+  gain as many of those single seconds as I could, using diagonal
+  running etc. and not make any "big" errors [ though missing the
+  keys and (or) getting killed trying was acceptable ;-) ] on the
+  way - so I knew I had to find even more time from somewhere...
+
+  The solution to this was simple - I had managed to carry all of
+  the armour to the yellow key room before now so... I don't get
+  the armour - Just RUN straight (well, diagnoally ;-) out around
+  the blur-ball [ saving that one for later ] and get the Plasma
+  Gun, the nearby blur-ball then the life-ball and take it from
+  there... If I'm quick enough I can hit the lift before killing
+  the Cacodemon and using plasma rather than shells would be that
+  bit faster so why bother getting the Shotgun - and that saves a
+  weapon change. My only (?) problem would be fighting against the
+  final monsters with depleted health and NO armour... So would I
+  make it ? ;-) After a few more 2:2? times I made it in 2:18 :-)
+  Twice ! This is one where I didn't make m/any little mistakes -
+  just one, sorry make that, two BIG mistakes towards the end.
+
+
+  [ In LV13-200.TXT I wrote ]
+
+   "D2L-JRH" said that LV13 was "a tough one, even done singly"
+
+  And from that I think that I can imply that JRH, Jonathan Hoof,
+  didn't expect that LV13 could be done Under Par, on NightMare !
+
+  It was also an Out-of-Base level when "Hoofy" completed his DHT
+  D2I-JRH exam and remained so until *I* put it in, as a Medium !
+
+  So I think I can ( again ! ;-) copy...
+
+   Well, it isn't ! Hi Hoof... You're wrong, again ! <GRIN> :-)
+
+  ... for yet another C.H.W.P (*) .LMP entry :-)
+
+  And you may remember that I also wrote...
+
+   And now methinks that a DHT: D2I-SYW might be possible...
+
+  D2I-SYW.ZIP - DONE !!!  B-I-G-G-E-S-T  8-)  So far !!! ;-)
+
+  So I hereby lay claim to this level (BACK again to) being MINE
+  - NOT for Compet-N but instead - as MY D2I Out-of-Base level !
+  Now and FOREVER - It's now in the base so it can't be beaten !
+
+[ Actually, THAT .LMP is rather lame, though this is because the
+  advanced DHT titles had already degenerated into a Stupid Race
+  to get our exams completed as soon as possible after receiving
+  them so as to get our, all important valid, Out-of-Base levels
+  before they are GONE ! ie. I HAD to make it QUICK, rather than
+  GREAT - If you had planned (for a couple of days or MONTHS) to
+  take 13 or 20, I'm sorry I took these away from you - But this
+  is not MY fault... Send your complaints to the DHT... guy. :-( ]
+
+
+  Anyway, if / when / now that it has been  beaten </Me sniffs>,
+  at least I can claim that I was The First to complete this one
+  on NightMare! And Also on NightMare! AND Under Par ! BIG :-)
+
+
+ S.;-)  D1I and D2I
+
+ S. Widlake
+
+ s.widlake@rl.ac.uk
+
+
+ (*) C.H.W.P - Club of Hoof/y Wrong Provers...
+
+ Prove Jonathan "DHTexams/D??[?]-JRH.TXT" Hoof wrong, via a .LMP
+ -Record'ing, and then you're a member :-) It's that simple. ;-)
+
+

@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom/coop/nightmare" entry, please forward it.
+
+c3n6-028.txt
+
+ c3n6-028.zip
+
+  c3n6p028.lmp
+  c3n6s028.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e3m6 - Mt. Erebus
+
+              Kills    Items   Secrets
+
+  SlagDooM      5%       4%      25%      
+  Python        6%       4%       0%      
+
+  Time:    0:28.85
+
+
+Comment:      1 second under AdamH's solo time.
+              How the hell did he get 0:29 alone?
+              And what will he get with Waldon's help?
+              We hope we'll never find out. :)
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

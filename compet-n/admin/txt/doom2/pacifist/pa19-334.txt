@@ -1,0 +1,19 @@
+PA19-334.TXT
+
+ PA19-334.ZIP
+
+  PA19-334.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  03:34
+                           -----
+
+  Description:  [ None received. ]
+
+       Author:  Peo Sjoblom

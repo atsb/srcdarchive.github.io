@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry
+
+P3M6-040.TXT
+
+ P3M6-040.ZIP
+
+  P3M6-040.LMP - Pacifist style! - NightMare!!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 3 Mission 6 - Mt. Erebus - Normal Exit
+
+  Kills    14% 
+  (Items   04%)
+  Secrets  00%   and Time  00:40
+                           -----
+
+    Description: Yes...
+		 The short version of the long story:
+		 I tried this level on Pacifist some months back, 
+		 and got a horrible looking 3:12. Some time later, 
+		 tried it on NightMare and got a 1:24. And after a 
+		 few optimisations, got this. 
+
+		 This level is a lot easier on NightMare. The imps and
+		 cacos take down the Spectre MUCH faster, and you
+		 get more time with the invuln. Also, with the imps 
+		 continually firing at you, they hold their place and you
+		 can slalom them easier. I take the blue key 
+		 first as this is the part you need the most luck for.
+		 The other passage is E-W level and you can dodge 
+		 through it without much trouble.
+
+		 What would be nice would be a UV recording of this level.		 
+
+        Author: Chris "Ryback" Ratcliff
+
+        E-mail: ryback@fcmail.com
+

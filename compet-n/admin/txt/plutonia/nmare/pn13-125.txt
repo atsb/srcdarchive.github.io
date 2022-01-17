@@ -1,0 +1,39 @@
+This is a Doom .LMP "Competition" Entry
+
+pn13-125.txt
+pn13-125.zip
+
+pn13-125.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP13 - The Crypt
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       1:25
+=--------------=
+
+C-N entry #83.
+
+A big thanks to Vincent for being the first
+to run this, I use his strategy here.  The
+switch room with the archvile/chaingunners
+turns out to be the most difficult part, as
+it is trial and error to run past the gunners
+and hope you don't die.. and sometimes my ssg
+shots don't kill the spectres, which is just
+irritating.
+
+One note, this run is also ps13, but the funny
+thing is Vincent actually runs over the only
+secret sector (the soulsphere) and didn't get
+credited for it in the tally.  A shame it didn't
+trigger, but it's done now, so there. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

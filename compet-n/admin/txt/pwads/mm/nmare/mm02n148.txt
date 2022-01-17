@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm02n148.TXT
+
+mm02n148.ZIP
+
+mm02n148.LMP - nightmare + 100% secrets nightmare
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 02 - The Bridge by David Davidson
+      
+Kills       72%
+Items       26%
+Secrets    100%	and Time - 1:48
+     
+
+Description:
+
+
+Some route improvements are here. This is second exit after initial 2:00.
+
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+17.02.2008

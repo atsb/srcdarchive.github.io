@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+MM18-410.TXT
+
+ MM18-410.ZIP
+
+  MM18-410.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 18 - A Dead Man's Town
+
+  Kills     47%
+  Items     50%
+  Secrets   16%  and Time  4:10
+                          ******
+
+  Description :-)
+
+  Peo Sjoblom wrote in mmuvlmps.txt:
+  > I really hate it when you are locked into a room for 30
+  > idle seconds with nothing to do. (yellow key)
+
+  Well, I have found that with carefully lined up wallrunning
+  (and luck), it's possible to get up the stairs without triggering
+  that lowering ceiling. It's far into the level though, so having
+  to retry if you don't get it right in a Max demo will be a lot of
+  work.
+
+  I also found some kind of switch-from-below trick that saves 4 of
+  the button presses in the area after the one-way teleport from
+  behind the red-key doors.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

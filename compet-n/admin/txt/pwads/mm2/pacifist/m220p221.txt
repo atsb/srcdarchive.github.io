@@ -1,0 +1,18 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m220p221.lmp
+Skill and Style: 4 (Pacifist)
+Map Level: MAP20
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills     18%
+  Items     83%           ********
+  Secrets   25%  and Time * 2:21 *
+                          ********
+
+
+==============================================
+
+I'll leave optimizing for the "better prepared". I avoided the UV Speed
+route because it's difficult not to telefrag a sergeant.

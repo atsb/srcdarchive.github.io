@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM32R520.TXT
+
+ MM32R520.ZIP
+
+  MM32R520.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 32 - The Hidden Slime Factory
+
+  Kills      106%
+  Items       56%
+  Secrets    100%  and Time: 5:20 
+                             ==== 
+
+  Description :-)
+
+  Yes, another long passage of time without a new Compet-n demo.
+  I was busy with many things, including school, recording
+  off-competition PWAD demos, and working on things like Plutonia 2
+  and Claustrophobia 1024.  After over half a year of Compet-n
+  inactivity, here's a new table-filler for Memento Mori.  Don't let
+  that descriptor fool you, though; it's a "table-filler" only in
+  that somehow, in the years since Memento Mori demos were first
+  allowed in the Compet-n, nobody ever recorded a UV -respawn demo for
+  MAP32.
+  
+  Like Mark Klem's other levels for the Memento Mori WADs, this level
+  suffers from gigantism, but not to the extent that his Memento Mori
+  II levels do.  The theme is also decidedly random, ranging from wood
+  to techbase to marble with very little connecting each theme
+  together.  However, it's fun to play.  The only gameplay-related
+  flaw I can point out is that near the end, the progression is rather
+  awkward, requiring you to run across the whole level to reach the
+  exit, although apparently, this is due to a bug that prevents a
+  teleporter from appearing.
+
+  Anyway, there are a few mistakes in this one, but hopefully, this
+  should be enjoyable to watch.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- August 9, 2009 -

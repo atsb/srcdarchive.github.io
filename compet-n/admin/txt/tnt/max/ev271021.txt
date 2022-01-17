@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV271021.TXT
+
+ EV271021.ZIP
+
+  EV271021.LMP - Ultra Violence
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Doom2.Exe Version 1.9 - Only!
+
+  Final Doom - TNT Evilution - Level 27 - Mount Pain
+
+  Kills    100%
+  Items     77%           
+  Secrets  100%  and Time = 10:21 
+                          
+
+
+Description: This level has some nice design, but the gameplay is nothing
+             to write home about. This can surely go below ten minutes,
+             but I don't really feel like touching this map again.
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

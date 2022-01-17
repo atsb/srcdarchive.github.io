@@ -1,0 +1,20 @@
+DooM SDA - October 2000 featured map
+Opulent Homepage
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      class_ep.wad
+Map:       e2m3
+Category:  UV Max Demo
+Exe:       Original Doom.exe
+
+Time:      5:07
+
+Comments:  I told Arno it would be hard for me to beat my own old demo.
+	   What am I gonna tell you next time, Arno?
+	   Congrats for your 4:XX ? ;)
+           
+
+Author:    Albert Valls
+Adress:    vrmr@wanadoo.es
+HP:	   http://www.newdoom.com/cyberdreams/
+

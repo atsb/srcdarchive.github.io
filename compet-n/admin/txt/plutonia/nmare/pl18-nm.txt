@@ -1,0 +1,45 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL18-NM.TXT
+
+  PL18-NM.ZIP
+
+  PL18-NM.LMP  - Nightmare
+
+  Recorded using Final DooM Version 1.9
+  DooM2 -PlayDemo with Version 1.9
+
+  DooM2 - Level 18 - Neurosphere
+
+  Kills     46%
+  (Items    29%
+  Secrets  100%  and Time    1:08
+                            ------
+ Minimum health:   0 %
+                 ------
+
+ Kind of funny route I've found here...  
+ First I tried to make it with picking up every key, but once the archville 
+ killed me like this time... so I thought it would be nice to end this level
+ without any keys... watch pl18-022 too.
+ I think it is possible with normal route too, once I picked up the blue key, 
+ but a chaingunner re-spawned in my back, and killed me. It's hard to play 
+ with keyboard, those bastards always re-spawning in your back, those fast 
+ turns would help a lot!
+ 
+   
+
+ If you are bored by the long COMPET-N updates, check this out:
+
+ http://www.sch.bme.hu/misc/doom/newlmps
+ 
+ and watch the current records, and new entries. If you want to share your 
+entry with us, before the official COMPET-N update, mail me and I tell you
+how to make it!
+
+
+
+ Istvan Pataki
+ 
+ deity@balu.sch.bme.hu

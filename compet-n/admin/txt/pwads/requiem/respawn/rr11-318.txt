@@ -1,0 +1,35 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Filename: rr11-318.lmp                        |
+            | Category: Respawn                             |
+            | Map Level: MAP11 - Rats In The Walls          |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    118%                            |
+            |      Items    100%           ********         |
+            |      Secrets  100%  and Time * 3:18 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Insane difficulty - NM100 anyone? This should be below 3:00, but I     |
+| was afraid I didn't reach 100% kills yet, so I didn't go straight to   |
+| the exit. Thanks to Xit Vono for his strategy.                         |
+|                                                                        |
++========================================================================+

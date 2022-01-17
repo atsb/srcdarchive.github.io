@@ -1,0 +1,69 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP29-532.TXT
+
+EP29-532.ZIP
+
+EP29-532.LMP - Ultra-Violence Pacifist
+
+Recorded using Doom 2's doom2.exe
+Doom2 -file tnt.wad -playdemo with Doom 2 v1.9
+
+Final Doom: TNT Evilution - Level 29 - River Styx
+
+Kills     16%
+Items     30%
+Secrets   66%
+
+              ********
+  and Time -  * 5:32 *
+              ********
+
+
+Description :
+
+WOOOOOOOOOO!!!!!!!!
+
+Unfortunately.....you have to wait and be EXTREMELY lucky with the
+Spider Mastermind and the Cacodemons. stx-Vile and I thought it
+might be possible to perform a Red Key grab through the mastermind,
+but neither of us could perform it. So you basically have to wait
+until the spider dies to pick it up.
+
+I had so many attempts end at the Mastermind. >.< Not necessarily by
+being shot to death...sometimes I'll get the freeze to work, but you
+gotta get lucky and hope that no monster wanders behind you and
+traps you. The Red Key is definately the most dangerous spot in
+this entire run, hands down. Just...anything can happen there. >.<
+
+Because the Cacodemon goes back to sleep, I lose around 15 - 30
+seconds in this attempt. So under 5 minutes is possible... ^^'
+
+I grab the soulsphere, but that is completely optional. I just
+figured that some extra health would be nice ;)
+
+The Yellow Key area is a little hectic. The strategy used actually
+goes back to a discussion between...I think Williamson, Hegyi, and I,
+about Sedlo's pl12-006 demo, whether it was also a pacifist or not.
+It was eventually ruled that because you can wake the Pain Elemental
+up, you can avoid the telefrag. And here, on this map, if you don't
+wake anything up (or even if you DO wake something) you're basically
+going to telefrag something. I'd guess that waking them up would
+count as an unintentiona telefrag however. So...I wake them up.
+Vile had a 6:14 but we both assumed that it was invalid, as there
+were monsters placed on the teleporter. However, I did a test run
+through of the map to the Yellow Key, and didn't fire a shot at all.
+I still telefragged something.... -_-' Waking them up has the same
+result...
+
+I'm assuming this is a successful pacifist, unless Hegyi says
+otherwise ^_^
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+12.05.2003

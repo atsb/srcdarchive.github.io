@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop NM speed
+mission:  map31
+
+time:     0:31
+
+Vincent:  alright
+
+xit-vono: should be a good time.
+
+
+          

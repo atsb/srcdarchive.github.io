@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/f-doom" entry - Please forward it...
+
+EV11-023.TXT
+
+ EV11-023.ZIP
+
+  EV11-023.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 11 - Storage Facility
+
+  Kills      4%
+  (Items     0)
+  Secrets    0%  and Time  00:23
+                           -----
+
+
+  Description: May I could be faster at the end when running over
+	       the crates.
+
+
+  Author:      Vincent "PerOxyd" Catalaa
+
+  E-mail:      bernard.catalaa@wanadoo.fr
+
+

@@ -1,0 +1,32 @@
+This is a Fdoom .LMP "Competition" Entry - Please forward it...
+
+PL11-049.TXT
+
+ PL11-049.ZIP
+
+  PL11-049.LMP - Ultra Violence
+
+  Recorded using "Final doom"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: The Plutonia Experiment - Level 11
+
+  Kills      0%
+  Items     62%            +++++++++
+  Secrets    0%  and Time  + 00:49 +
+                           +++++++++
+
+  Description :) "But this is not my final demo for this map couse 50
+                  is definetly possible and maybe even 49. Future will tell..."
+                  (pl11-051.txt) 
+                                              :)             
+                  Anyway, was fun as hell, this chaotic level was always 
+                  one of my all time fav maps, why? couse it's so damn 
+                  challanging from speedrunner perspective, so many fast turns
+                  inside those neat tiny corridors, what can I say...paradise :).
+                  
+                  Now...grab your running gear, load up this map and beat this
+                  crap I've made.
+
+  Author:    Marijo "Sedlo" Sedlic
+  E-Mail:    msedlic@inet.hr

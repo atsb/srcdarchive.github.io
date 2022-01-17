@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+MM07-756.TXT
+
+ MM07-756.ZIP
+
+  MM07-756.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 07 - Not That Simple
+
+  Kills    100%
+  Items     xx%           ********
+  Secrets  100%  and Time * 7:56 *
+                          ********
+
+  Description :
+
+Guys, I need your help. I'm trying to get Memento Mori up to date.
+These 1997 records got to go. I'll contribute as much as possible
+but I can't do it alone. Let's do it again like we did for TNT.
+
+Chris, where are you buddy? I know you like MM.
+Xit, could you do a few MM speeds or tysons {empty tables everywhere}?
+Help me out guys. Thanks.
+
+2 minutes faster then the previous time. 
+
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

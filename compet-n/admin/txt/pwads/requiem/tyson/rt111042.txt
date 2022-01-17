@@ -1,0 +1,39 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Filename: rt111042.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP11 - Rats In The Walls          |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items    100%           *********        |
+            |      Secrets  100%  and Time * 10:42 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| After watching Xit Vono's demo I thought it would be easy. I was       |
+| wrong. When you're low on health, a caco will always release a         |
+| fireball ("you're chainsawing me dude? pain chance, you say? so        |
+| what?!"), or a chaingunner will pop up out of nowhere. Then I got      |
+| 11:43 and almost immediately after that, 10:42. I consider it a lucky  |
+| run, many chaingunners helped killing bigger baddies, so I believe     |
+| this record will stay for long.                                        |
+|                                                                        |
++========================================================================+

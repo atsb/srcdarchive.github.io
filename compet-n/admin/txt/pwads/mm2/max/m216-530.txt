@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m216-530.TXT
+
+m216-530.ZIP
+
+m216-530.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 16 - The Nephilim by Denis Moeller
+      
+Kills      100%
+Items       46%
+Secrets    100%	and Time - 5:30 
+
+
+Description:
+
+At last I was lucky with last two imps and pinkies. Mostly I went down for imps and lost ~10 seconds. Some times demons tend to teleport in sector 59 and left in sector 40. Route credit goes to Anders, with tiny changes of my own.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+29.04.2004

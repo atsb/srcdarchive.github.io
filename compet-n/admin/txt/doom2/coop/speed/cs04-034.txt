@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs04-034.txt
+
+ cs04-034.zip
+
+  cs04-034.lmp  Speed
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP20
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Selim
+  Indigo    ??%      ??%      ??%      Vincent
+
+
+  Time:    0:34
+
+
+Selim   : Lame stuff ... we must have done this to relax between annoying runs.
+Vincent : not so good but OK
+
+
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

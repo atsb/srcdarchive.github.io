@@ -1,0 +1,40 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV01-021.TXT
+
+ UV01-021.ZIP
+
+  UV01-021.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 01 - Entryway
+
+           Kills    Items   Secrets
+
+  Green      59       00       60      Panter
+  Indigo     40       33       40      Baum
+
+  Time:    0:21
+
+
+Comment:     Yepp....3 seconds faster than Dasa & Kai...a nearly perfect run.
+             
+             Oh btw...we changed the naming convention a bit because there
+             wouldn't be a difference between newer and older recordings..
+             
+
+
+             22.02.98 11:30 am CET
+
+
+  Author:    Thomas "Panter" Pilger       P187.5mmx, 32MB, Seagate 2.5GB
+             Patrick "Baum" von Massow    P133     , 16MB, Seagate 2GB
+  
+  E-mail:    Panter@uni.de
+             qoomduke@gmx.net
+
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/ 
+             Baum has still no HP ((-:
+

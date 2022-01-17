@@ -1,0 +1,44 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV13-109.TXT
+
+ LV13-109.ZIP
+
+  LV13-109.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 13 - "Downtown"
+
+
+  Kills   12%
+  Items    8%            *********
+  Secrets  0%  and Time  * 01.09 *
+                         *********
+
+
+
+
+Description: First of all..... Sorry about the end-screen it only
+             appears for a very short moment, guess I somehow pressed
+             2 times (haven't the slightest clue how it could happen)
+             but if you concentrate you can easily see that the time is
+             01.09..... I also sent a screen dump with this lmp if you
+             would like to examine it further..
+             This lmp is made with a strafe50 mousedriver so don't 
+             even think of beating it w/o it.. The one and the only
+             reason I used this DAMN driver (I really hate it, but
+             the jump at 30 becomes a piece o' cake..) is because 
+             the previous record of this level (LV13-113.lmp by Kai)
+             is made with a such.. I have never, will never use it
+             to beat any records other than the ones made WITH it..
+             I'll never use it to make new records either..
+
+
+
+
+Author:	     Daniel "Demonlord" Lindgren 
+ 
+E-mail:	     akllin95@student.umu.se

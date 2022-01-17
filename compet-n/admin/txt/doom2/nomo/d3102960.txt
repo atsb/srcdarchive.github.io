@@ -1,0 +1,9 @@
+Engine: 	DooM v1.9
+Wad:		Doom II
+Category: 	Nomonsters
+Level:		31
+
+Time:		29.60
+
+Description:	:)
+Author: 	Looper

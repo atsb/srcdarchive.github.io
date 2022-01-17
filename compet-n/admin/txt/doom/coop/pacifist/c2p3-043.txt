@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom/coop/pacifist" entry, please forward it.
+
+C2P3-043.TXT
+
+ C2P3-043.ZIP
+
+  C2P3R043.LMP
+  C2P3M043.LMP
+
+  Recorded using Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 Level 3 - UV Pacifist
+        
+
+  Green   -   Method
+  Indigo  -   Radek
+
+
+  Time:    0:43.31
+           *******
+
+  Comment:  Table filler. 
+          
+
+
+  Note: The demo was recorded over Internet using Kahn.  
+
+
+  Jakub "Method_Man" Razak     (dale007@volny.cz)
+  Radek Pecka                  (r.master@email.cz)

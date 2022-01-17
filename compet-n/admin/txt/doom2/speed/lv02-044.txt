@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV02-044.TXT
+
+ LV02-044.ZIP
+
+  LV02-044.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02 - Underhalls
+
+  Kills     53%
+  (Items    25)
+  Secrets  100%  and Time  00:44
+                           -----
+
+Description: Ok for now, but I'll improve it. This map (UV Speed/Max) is MINE, 
+             I will defend it with 24 hours intensive playing if nessesary :-)
+             Underhalls will never be optimized anyway.
+             
+	
+Author:    Anders Johnsen
+E-mail:    andersjohnsen@hotmail.com   
+Doompage:  Soon :-)           

@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM04f816.TXT
+
+ MM04f816.ZIP
+
+  MM04f816.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 04 - The Stand
+    
+  Kills    100%
+  (Items   100%)          
+  Secrets  100%  and Time = 8:16 
+                                                  
+
+  Description: This turned out pretty well except a few "bugs" in the strategy. I'm                        satisfied.
+  
+  
+  Author: Tomas "DeDo" Kollar
+  Email: kollarant@stonline.sk

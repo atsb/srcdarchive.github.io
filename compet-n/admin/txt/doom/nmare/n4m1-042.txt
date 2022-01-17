@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/doom/nm" Entry - Please forward it...
+
+N4M1-042.TXT
+
+ N4M1-042.ZIP
+
+  N4M1-042.LMP - NightMare!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 4 - Mission 1 - Hell Beneath
+
+  Kills     55%
+  (Items    47)
+  Secrets    0%  and Time  00:42
+                           -----
+
+Description: Anthe's 1:27 lasted a long time. But I thought it was time
+             for someone to use the UV-route. I was quite lucky on my
+             way back from redkey...This was not very hard to do, e1m3
+             was worse...
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

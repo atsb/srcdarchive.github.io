@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+MM08-017.TXT
+
+ MM08-017.ZIP
+
+  MM08-017.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - And The Dead Shall Rise
+
+  Kills      0%
+  Items      0%
+  Secrets    0%  and Time  00:17 
+                           -----
+
+  Description :-)
+
+  Nice tricks, thought about putting them in the
+  right order :)
+  
+  Pacifist as well.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu
+

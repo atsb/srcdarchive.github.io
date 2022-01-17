@@ -1,0 +1,20 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htp-128.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 1:28, UV pacifist
+
+Author                  : Arno "SlagDooM" Slagboom
+Email Address           : ajslagboom@chello.nl
+
+Description             : A big thankyou to Vile, for saving me from 
+                          lots of frustrating 3rd laps!
+                          Goodbye Stickman, hello Trickman. ;)
+                          
+************************************************************************

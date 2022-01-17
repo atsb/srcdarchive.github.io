@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M2041732.TXT
+
+ M2041732.ZIP
+
+  M2041732.LMP - Ultra Violence Tyson!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 4
+
+  Kills    100%
+  (Items    83%)          *********
+  Secrets  100%  and Time * 17:32 *
+                          *********
+                          
+
+  Description :-)
+  
+  This was pretty simple.  I used a trick by Stx-Vile where he
+  runs over that linedef at the start.  This way I can take a
+  more direct route to the chainsaw and berzerk.  It's also
+  possible without that trick, but it would be harder and also
+  slower.
+
+  Xit Vono
+  xit_vono@yahoo.com

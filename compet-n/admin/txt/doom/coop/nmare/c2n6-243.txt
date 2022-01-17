@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop NM speed
+mission:  e2m6
+
+time:     2:43
+
+xit-vono: I played a bit safe here.
+
+Vincent:  I dont do much besides taking care of a baron and a herd of pinkies
+
+
+          

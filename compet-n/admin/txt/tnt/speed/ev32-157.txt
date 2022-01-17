@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV32-157.TXT
+
+ EV32-157.ZIP
+
+  EV32-157.LMP - Ultra Violence!
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 32
+  Kills       ??%
+  (Items      ??%)
+  Secrets     ??%  and Time  01:57
+                           -----
+  Description :)  
+
+	At last under 2:00...
+        Roughly took 1h30 to do. 
+       
+        The 1st part (until mancos) is easy and quite
+        reproductible. The hard spots are the archie room
+        (this time ok) and the switch the release teh red key.
+        Usually i can run behind the manco, hit the switch 
+        and then leave the room. But this time the manco 
+        kept the switch so i tried to activate it by far...
+        i could get it w/o being hurt !!! :)
+
+        This run is still far from perfect... 
+        so i think 1:45 would be close to the optimal here. 
+        (dunno TAS time:)
+
+  Vincent Catalaa
+  vincentds@netcourrier.com
+  

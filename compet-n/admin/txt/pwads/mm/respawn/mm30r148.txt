@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm30r148.TXT
+
+mm30r148.ZIP
+
+mm30r148.LMP - UV Max -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper by Milo Casali
+      
+  Kills    104%
+  Items     33%           
+  Secrets  100%  and Time  1:48 
+                         
+
+  Description
+
+I should catch rising platform at previous cycle. So time under 1:40 is possible here.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+18.03.2006

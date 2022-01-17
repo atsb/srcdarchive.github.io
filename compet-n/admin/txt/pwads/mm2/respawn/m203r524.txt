@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m203r524.TXT
+
+ m203r524.ZIP
+
+  m203r524.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad -playdemo with version 1.9
+
+  Memento Mori 2– Map 3 – UV Respawn
+
+All I'm wondering is why this hasn't been done before. I mean, Xit Vono already did an NM100S for this level. If he can do that, why hasn't anybody done this? There aren't even fast monsters here! Well, to be honest, what kept putting me off doing this was how in one of my attempts, that lift wouldn't rise because there were monsters in the way and there's no rockets in the level, so that's probably it.
+
+Author: Revved

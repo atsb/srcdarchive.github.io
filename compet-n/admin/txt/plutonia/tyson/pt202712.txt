@@ -1,0 +1,41 @@
+This is a DooM .LMP Competition Entry
+
+
+PT202712.TXT
+PT202712.ZIP
+
+PT202712.LMP - UV tyson
+
+  Recorded using The Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Doom2.exe Version 1.9 - only
+
+  The Final Doom: Plutonia - Level 20 - The Death Domain
+
+
+Description:
+
+This is my first demo for Compet-N so I'll describe the recording process a little.
+
+Please note that I recorded this under Windows XP so I had no sound and I couldn't adjust my monitor brightess.
+The dark room with spectres will most likely seem a little funny because I just had to punch and hope I would hit something. 
+Fortunately I was able to see the arch-vile and that sergeant good enough.
+
+I have to say this wasn't an easy map to start with and I had to change my route maybe 4 times before it worked out. 
+My final route (the beginning of it anyway) was inspirated by Adam Williamson's pacifist run, so I have to give him 
+a huge thank you. This route made a big difference because you can grab the blue key without having to deal with the 
+revenants first. After that you can get the ammo secret (well technically it's not a secret) and have a nice stash of health.
+The only downside with this route is the elevator room. You have to leave that arch-vile and his friends behind 
+and you can't punch them safely after that, so you have to make them infight and eventually that av will kill himself. 
+But there's a good side too: you get an extra supply of ammunition.
+
+I'm a little disappointed with the time, using my original route I was able to get one which was just under 20 minutes, 
+but that was only a practice run and I was using prboom so... 
+I'm not in a hurry to improve this, I'm going to look at other things now and see if I can get another demo recorded.
+
+
+I would appreciate any feedback or comments.
+
+
+
+z0diac
+zdc_24@hotmail.com

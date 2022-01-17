@@ -1,0 +1,70 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+10600m11.TXT
+
+ 10600m11.ZIP
+
+  10600m11.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Episode 2 – UV Max
+
+Comments:
+I never thought the day would come, but I finally did it. This was pretty tough to do. Not because of the difficulty of the levels but because guys would just keep going missing. This is the third attempt through the whole episode. The first had a missing seargeant in Map 20 and was 109:49 and the second had a missing spectre in Map 16 and was 106:01. Good thing this is just a second faster. :)
+
+                                  Time     Kills      Secrets 
+-------------------------------------------------------------
+11 – Halls of Insanity            3:46       88%        100%
+12 – Kinetics                     5:49      100%        100%
+13 – The Inmost Dens II           8:47      100%        100%
+14 – Aquaduct                     5:50      100%        100%
+15 – Karmacoma                   11:33      100%         80%
+31 – Technology Base             11:51      100%        100%
+32 – The Hidden Slime Factory     9:22      100%        100%
+16 – Stoned                      12:00      100%        100%
+17 – House of Thorn               6:11      100%         85%
+18 – A Dead Man's Town           15:00      101%        100%
+19 – Maltraiter                   6:33      100%        100%
+20 – Mountain Depot               9:18       99%        100%
+--------------------------------------------------------------
+Total                          1:46:00
+
+11 – Halls of Insanity
+Because of the weird problem this level has, I'm only allowed to get 88% kills on this map. I decided to be faster and try to ignore the lost souls. There was some annoying things on this map like how I got onto an elevator only to go back down, but it's not so bad.
+
+12 – Kinetics
+Oh boy, this level again. Low ammo and no armor isn't much of a problem here when you've got a lot from the previous levels. I still get owned at the blue key area, as well as the final area. A straggler imp snuck up on me at the end, but I got him.
+
+13 – The Inmost Dens II
+Borrowing from vdgg's strategy, I end up going faster than before, usually getting in the 9:xx-10:xx range. I never figured out what that one red key button did. Because of my speediness, my time actually equals that of Andy's TAS time!
+
+14 – Aquaduct
+Another no armor level. My god, those revenants at the beginning were so annoying, not to mention I had a really tough time getting the SSG at the start. Everything else went well and the cyberdemon is disposed of. For whatever reason, I miss a cell pack at the end. Not that I should care, though.
+
+15 – Karmacoma
+Because of me having no armor, I end up getting my health blown by the revenants at the start. At 3:40, I end up looking at the switches to make sure I activated them, because I can't proceed on without them and I'd die. Perhaps I should've gone into the blue armor secret first, because I leave with 39 health, and could've gotten a berserk after. Not to worry, I still have more health packs that I can get in the other areas. Since there are two secrets that can't be accessed without the luck of an arch-vile, I ignore them, and only get 80% secrets. For some reason, I miss the jump to the exit and have to get it a second time.
+
+31 – Technology Base
+Yet another no armor level. Because of all the goodies I've got in the last level, I can use them more freely. Hell, I don't even get hit until after I get the red key. I manage to get a consistent jump to the other player area by slightly strafing to the left on the teleporter and then running straight. Not so sure if it works for the other side. From 9:55 to 10:34, it's a total killing spree.
+
+32 – The Hidden Slime Factory
+If you were pissed off at the last level's lack of goodies, you'll be relieved to see that this level has tons of them. Here, I manage to pull off a successful jump from the first megasphere. For whatever reason, that mancubus didn't want to infight. Oh, well, his loss. Unfortunately, this is where I started to go a bit paranoid for lost monsters and it continues throughout the run.
+
+16 – Stoned
+Bit obsessive here, I keep pausing to make sure I hear monsters lurking about. At the soul sphere secret, I managed not to press the button that erases one of the secrets. While one of the platforms was raising, I tried to sr50 to the middle platform thinking I could get on, but I ended up going into the lava. Didn't really lose me much time though. This is also where I end up using most of my rockets for the barons at the end.
+
+17 – House of Thorn
+Great place to fill up on ammo. I end up getting 85% secrets for whatever reason. I had way too close a call on those two barons after the red key. Reckless doesn't equal fast. While I was fighting those last two barons, some seargeant came up and shot me. I got him back though.
+
+18 – A Dead Man's Town
+The hardest level in the episode. The first 80 monsters aren't so bad. But when I get to the city, it's just a quest for survival. A particularly scary moment was when I couldn't dodge an arch-vile attack, so I had to run back for a berserk and a megaarmor. Almost forgot about those group of enemies at the end. A chaingunner and hell knight make it so that you can only 99% kills on this level, but thanks to the arch-vile, I got 101%.
+
+19 – Maltraiter
+A huge breath of fresh air from the last level. Not too many heavy monsters in comparison. At the end I start doing laps to find stragglers. Good thing I remembered to get that backpack secret I forgot before. An embarrasing moment is when I fell off before I could get the blue key.
+
+20 – Mountain Depot
+Do NOT strafe-run into the BFG. Only run straight. Since this is the last leve, I get a bit scared if I miss a guy, so I start searching around, but nobody was there this time. Leads to total success in my run. A seargeant hidden at the top of a hill makes it so that you can only get 99% kills.
+
+Author: Revved

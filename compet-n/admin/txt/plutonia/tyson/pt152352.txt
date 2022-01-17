@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+PT152352.ZIP
+
+ PT152352.LMP
+
+  PT152352.TXT
+
+  Recorded using The Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 15 - UV Tyson!
+
+
+  =--------------=
+  Kills      107%
+  Items         ?
+  Secrets       ?
+
+  Time       23:52
+  =--------------=
+
+
+  Description
+
+  I had practised this one for some time with Zdoom.
+  After I got the first exit in 23:01, I switched to
+  the original exe and started recording. PC speaker
+  and strange mouse settings caught me off guard, but
+  after only a couple of tries, this happened. It's
+  not very hard, if the monsters cooperate. There are
+  lots of bullets and healing available.
+
+  Thanks to Xit Vono for inspiration.
+
+
+  Aqfaq
+  longluey@luukku.com

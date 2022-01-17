@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+PL05-029.TXT
+PL05-029.ZIP
+
+PL05-029.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 05 - Ghost Town
+
+Kills     17%
+Items     43%
+Secrets    0%  
+Time      :29
+         ----
+
+Description:
+My 7th entry, a nice map from my favorite megawad. :)
+
+A 1 second improvement, nothing to brag about.  Used the shotgun and the
+megaarmor until I picked up the chaingun, then used that the rest of the
+way.
+
+Author: stx-Vile (stx is the Stickmen, one of the best Quake 3 clans today.
+Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com
+

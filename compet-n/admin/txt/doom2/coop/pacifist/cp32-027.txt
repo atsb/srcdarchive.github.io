@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM2
+Category:        UV Pacifist
+Map:             32
+Players:         2
+
+Kills:           0%
+Secrets:         33%
+Time:            0:27
+Green:           Arno "SlagDooM" Slagboom
+Indigo:          Marko "Python" van der Want
+
+Comments:        Marko holds the 1-player record (0:25),
+                 so we had to do this.

@@ -1,0 +1,27 @@
+Game: Doom 2
+Pwad: mm.wad
+Filename: mm101700.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP10
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     54%           *********
+  Secrets   75%  and Time * 17:00 *
+                          *********
+
+
+==============================================
+
+A trivial, slow-paced, pistol oriented Tyson map.
+No idea why it has not been done before. I had motivation to
+finish this map (to have my first MM demo), but I have no
+motivation to improve the time.
+
+Many things went well (revenant/baron infighting, central courtyard
+monster battles), so I didn't have to use fists against the survivors,
+I had 99 bullets left at the exit.
+
+Oh, and I pressed the SSG switch and did stupid things in the middle
+because I am not familiar with this map.

@@ -1,0 +1,34 @@
+This is a Doom .LMP "Competition" Entry
+
+e2m1-125.txt
+e2m1-125.zip
+
+e2m1-125.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E2M1 - Deimos Anomaly
+
+=--------------=
+Kills      100%
+Items       93%
+Secrets    100%
+
+Time       1:25
+=--------------=
+
+C-N entry #171.
+
+Thanks to Adam Hegyi for his very nice
+max here, same route except for one little
+change.  I open the red key area later since
+imps would go inside and try to surprise me
+while i'm backing in and killing the enemies
+outside.  I wasn't thrilled with the way the
+demo started, but later on everything came
+together as I wanted it to... frustrating map
+sometimes in terms of enemy alignment.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

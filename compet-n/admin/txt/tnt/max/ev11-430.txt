@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV11-430.TXT
+EV11-430.ZIP
+
+EV11-430.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 11 - Storage Facility
+
+Kills    104%
+Items     28%           
+Secrets  100%  
+
+   ...and Time  4:30
+               ------
+
+
+Description: Time on this map is really based on the time the monsters spend
+	     on teleporting. And i hate these kinda maps, but somehow this one
+	     isn't all that bad. It might seem cheap improving a demo only
+	     with a few seconds, but who cares about your opinion anyway.
+	     Update: I tried to come up with a better time, but after a while
+	     i got tired of getting either 99% kills, or hearing some fag 
+	     wandering around when i was heading towards the exit. 
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

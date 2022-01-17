@@ -1,0 +1,14 @@
+102-R3M1.LMP --> E3M1 on UV with respawning
+-------------------------------------------
+
+  Kills   :  69%
+  Items   : 100%
+  Secrets :   0%
+  Time    : 01:10
+
+  Maximum Minimum Health = 102%
+                           ----
+
+Comments : Sorry, ZlatkO. You should have picked up those health potions.
+
+Robert Reevy <drparadox@usa.net>

@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF201838.TXT
+
+ HF201838.ZIP
+
+  HF201838.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 20 - Judgement Day
+
+  Kills    102%
+  (Items    30%)          
+  Secrets  100%  and Time = 18:38 
+                          
+                          
+  Description: Big improvement over the old record, nearly ten minutes.
+               Strange how this is nearly the max record too, when
+               I'm still going the 'slow' way...
+  
+
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com
+  

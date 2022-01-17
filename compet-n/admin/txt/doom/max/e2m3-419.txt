@@ -1,0 +1,31 @@
+This is a Doom "COMPET-N/doom" entry. Please forward it...
+
+E2M3-419.TXT
+
+ E2M3-419.ZIP
+
+  E2M3-419.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Map     3 - Refinery
+
+  Kills    100%
+  (Items    90)
+  Secrets  100%  and Time  04:19
+                           -----
+
+
+Description: Leave the lost souls as usual.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

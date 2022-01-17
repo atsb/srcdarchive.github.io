@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M8-NMA.TXT
+
+ E2M8-NMA.ZIP
+
+  E2M8-NMA.LMP - NightMare! (CAN handle it! ;-)
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.2 Mi.8 - Tower of Babel
+
+  Kills    ???%
+  (Items    ??)
+  Secrets    ?%  and Time  00:46  approx.
+                           -----
+
+ [ The last movement was made at  00:46 ]
+
+  Description :-)
+
+  Well, this completes my E2M8-NM* series ... this level isn't that
+  hard at all even on NightMare!  - I wouldn't be able to finish it
+  if it was ... ;-) The time was measured with a stop watch  (which
+  I bought especially for my E1M3 ManiA :-), it goes from the first
+  movement till the moment the screen freezes after  good ol' Cybie
+  hit the ground.
+
+  I *did* include a .BAT with this, 'coz  S.;-)  takes good care of
+  all the newbies out there. :-)  However, I'm convinced that every
+  serious LMP'er (like Anthe and me) has a highly-sophisticated one
+  of his own to handle this stuff - right? ;-)
+
+ Thomas aka ZlatkO ThE GoDFatheR
+
+ thomas_zajic@non-hp-austria-om1.om.hp.com
+
+

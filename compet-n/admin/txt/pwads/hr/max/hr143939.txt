@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR143939.TXT
+
+ HR143939.ZIP
+
+  HR143939.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 14 - City In the Clouds
+
+  Kills    111%
+  (Items   100%)          *********
+  Secrets  100%  and Time * 39:39 *
+                          *********
+                          
+
+  Description :-)
+  
+  Wonderful map to play but oh so hard. It has some very nasty Cyberdemons in
+  close combat and a vicious yellow key trap. The design is lovely. Some
+  tips: Make the first Cyberdemon busy by fighting other monsters, on this
+  lmp he actually gets killed by them, mainly from the Arachnotrons I believe
+  since they are very effective monster killers. I have only made this map
+  twice in many tries, so I recommend an easy difficulty setting unless you
+  are very skilled. Some parts of this lmp aren´t probably exciting to watch
+  but they are needed for survival. You should really try to create
+  monsterfights because there are many willing combatants. It has a very hard
+  jump which takes a near perfect strafe run or a strafe on run to make, plus you
+  have to stop right away when you have reached the first ledge, it took me
+  over a minute of trying in this lmp. Fastest way of making this map would
+  probably be to create some disturbance in the midarea, take the
+  invulnerability and get the rocketlauncher, jump to the blue key and get an
+  archvile hit that throws you back on the ground, that will of course mean
+  that you will face a Cyberdemon without protection in a tiny room. It is
+  possible but I chose the safer way..
+
+  Peo Sjoblom
+  peo.s@telia.com

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV08-035.TXT
+
+ LV08-035.ZIP
+
+  LV08-035.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 8 - "Tricks and Traps"
+
+  Kills     11%
+  (Items    20)
+  Secrets    0%  and Time  00:35
+                           -----
+
+
+Description: Not that much to say really...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

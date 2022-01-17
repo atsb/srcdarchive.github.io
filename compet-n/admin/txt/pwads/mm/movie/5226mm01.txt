@@ -1,0 +1,57 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+5226MM01.TXT
+5526MM01.ZIP
+
+5226MM01.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm.wad -playdemo with version 1.9
+
+Doom2: Memento Mori - Episode 1 - UV-MAX
+
+
+                                 Time     Kills     Secrets
+------------------------------------------------------------------------
+01 - The Teleporter              1:22      100%      100%
+02 - The Bridge                  3:12      100%      100%
+03 - Interlock                   1:23      100%      100%
+04 - The Stand                   7:34      100%      100%
+05 - Hell's Kitchen              5:31      100%      100%
+06 - The Powerstation            6:48      100%      100%
+07 - Not That Simple             7:31      101%      100%
+08 - And The Dead Shall Rise     3:39      100%      100%
+09 - High-Tech Grave            10:28      100%      100%
+10 - The Mansion                 4:58      100%      100%
+
+Total                            52:26
+
+
+Description:
+            Well after nearly one and a half year I finally made another max movie. I wanted             to do TNT(constantly dieing but will try again), then Requiem(mostly map07- the             Arachnotron bug was driving me insane so gave up for now) and then finally, I               realized that this will be the easiest one. As allways my movement sucks but I              just can't learn not to bump those walls :/
+            I have also considered a -fast movie here but killed that idea. Even if I would             be able to finish it, it would be very slow and ugly. Maybe when my skill                   increases a bit more(hahaha!). :)
+
+01: Nothing special. If I survived this map then I usualy finished the run.
+
+02: Too much demons and spectres imo but I like the level design.
+
+03: Sometimes couldn't do the blue key jump but except this I like this map.
+
+04: Now this is where the good maps start(maybe except map08). The SSG is here and many         monsters in front of it :) Died here one maybe two times.
+
+05: A pistol start with -fast is pure hell but in a UV movie nothing hard here. The blue key     Hell Knights may hurt me more than I would like when standing very near the teleporter      but that was quite rare fortunately. I even telefraged one of them once. :)
+
+06: After I enter the blue door this becomes one of my favourite maps in ep.1. Got here 99%     kills a few times but never found out who survived. Was not very happy when that            happened.
+
+07: I'm finally not completely lost in the maze here. :)))
+
+08: Fortunately a small map because I tend to fall quiet often which is annoying and slows      down. Like you'll see in this demo. I know it's not the maps fault but i still don't        like it very much.
+
+09: A big but very good map. BUT!!! That stupid secret sector just refuses to register          itself resulting in a 93% secret in the end. Happened three times in a row once. Very       annoying. So, to make sure I get credit for it I kept crossing the line for some time.      You'll know it when you see it(at least I hope it's the right sector).
+
+10: This is my personal favourite map of ep.1 despite it's so empty. I don't know why but i     like this map very much. Has great music too. That hard to hit Revenant is weird.
+
+Author: Tomas "DeDo" Kollar 
+E-mail: akollar@edoma.sk
+
+21.4.2004

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA08-520.TXT
+
+ FA08-520.ZIP
+
+  FA08-520.LMP - Ultra Violence & Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08 - Tricks and Traps
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  05:20
+                           -----
+
+
+Description: Quite hard level in UV-fast mode...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

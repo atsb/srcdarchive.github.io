@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV03-351.TXT
+
+ EV03-351.ZIP
+
+  EV03-351.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 03 - Power Control
+
+  Kills    100%
+  Items    100%           *********
+  Secrets  100%  and Time *  3:51 *
+                          *********
+
+
+Description: 
+
+In his ev03-439 entry Peo said
+
+> If you play it for 96 hours ;-), it may be
+> done under 4 minutes?
+
+Well it didn't take 96 hours, more like two. My previous attempts were
+all just outside Peo's previous time, and this lmp is pretty scrappy.
+I don't know what happened here - Sometimes you just get the run of the
+monsters :)
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

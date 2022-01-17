@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+RE01-058.TXT
+
+ RE01-058.ZIP
+
+  RE01-058.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - EntryWay
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time  00:58
+                           -----
+
+Description: If you compare this to Kai's lv01-49.lmp it doesn't look too good.
+             But under 1 minute, that is what Rini wanted.
+             
+             It took me about 10 tries, so it shouldn't be that difficult to 
+             improve this one.
+
+
+             11.01.98  22:15  pm CET
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Hompeage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/           

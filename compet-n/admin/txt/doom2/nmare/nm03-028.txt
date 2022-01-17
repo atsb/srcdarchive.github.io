@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM03-028.TXT
+
+ NM03-028.ZIP
+
+  NM03-028.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 03 - "The Gantlet"
+
+  Kills     35%
+  Items      0%
+  Secrets    0%  and Time  00:28!
+                           -----
+
+
+Description: The shorter the way the more important the luck.
+	
+
+Author:      Frank "Jesus" Siebers
+
+25.08.1997
+
+E-Mail:   siebers@metronet.de
+
+Homepage: http://members.aol.com/siebers/doom.htm

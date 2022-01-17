@@ -1,0 +1,27 @@
+[ This is a COMPET-N speed entry, played with pacifist style. ]
+
+P2sM5-126.TXT
+
+ P2sM5-126.ZIP
+
+  P2sM5-126.LMP - Ultra Violence -PACIFIST
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 (?)
+
+  DooM - Episode 2 Mission 5 - Command Center
+
+  Kills      3%
+  (Items     2)
+  Secrets   40%  and Time  01:26
+                           -----
+
+  Description:	This is harder than the normal exit, because the are so lots
+		of enemies, and no plays to run.
+
+
+  Author:   Jan Endre Jansen
+  E-mail:   jejansen@hotmail.com
+  Doompage: (Comming soon)

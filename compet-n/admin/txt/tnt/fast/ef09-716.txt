@@ -1,0 +1,40 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : EF09-716.LMP
+Date     : 2018-6-12
+Game     : TNT: Evilution
+Client   : DOOM2.EXE V1.9f
+Category : Fast
+Map      : MAP09: Stronghold
+Skill    : 4 (Ultra-Violence)
+
+Player   : Erick "GuyNamedErick" Tenorio
+Country  : United States
+Email    : guynamederick@gmail.com
+
+Kills    : 100%
+Items    : 68%
+Secrets  : 100%
+Time     : 7:16
+
+Description: After completing MAP02 of the IWAD on Nightmare, I thought I could try the other maps that are known to
+be difficult, MAP08 and MAP09 coming to mind. But on second thought, I'm not exactly what I would call a good player
+so instead I didn't attempted either map on Nightmare. However taking a look at some of the categories for the IWAD,
+I noticed how UV-Fast and UV-Respawn aren't exactly done by many, and in my opinion I believe this leaves an
+opportunity to improve on those categories given how it's been 10 or so years since some categories for some maps
+were even attempted (Though that can be said for a lot of modern PWADs too).
+
+This map is pretty linear as it can, so finding secrets and hunting down all the monsters in the map wasn't exactly
+hard. Instead of returning back to the start of the map to finish off the Zombiemen, I decided to take down out
+first, as much as there is a risk to losing some health, I got pretty lucky in this run where my health remains
+relatively high for the most part, even with the ambush of enemies after picking up the Red Keycard. Of course, that
+was only my luck in this particular run, since dying in this map with the -fast parameter is too easy, and with the
+abundance of hitscanners, you can't exactly rush things out, you would have to take your time just so you don't get
+surprised by a quick death from fellow Shotgunners to aggressive Chaingunners. Imps can also be a problem, with
+their fast fireballs being an annoyance. At the hallways with the silver doors and the triangle on a wall, in some
+attempts I didn't alert all the Chaingunners, so I had to check to see if I didn't miss any of them. I decided to
+grab the Rocket Launcher to help clear out the last batch of enemies at the end, though it could have been done 
+better.
+
+With some luck and some better performance, it could be possible to get a 6:xx time, of course some patience and
+good reaction time might be needed. :)

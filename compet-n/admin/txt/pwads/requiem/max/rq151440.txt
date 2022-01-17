@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ151440.TXT
+
+ RQ151440.ZIP
+
+  RQ151440.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 15 - Last Resort
+
+  Kills    100%
+  (Items   100%)          *********
+  Secrets  100%  and Time * 14:40 *
+                          *********
+                          
+
+  Description :-)
+  
+  A DCK map :) But the standard texture is nice. This map is fun to play,
+  strong monsters, but also the right weapons. I could have watched the
+  teleporting demons (pigs) much longer, but I had to pay attention to my time :)
+  The ammo is placed the way you need it, that's better in maps with a 
+  high hitpoints/ammo ratio (see dmtha.exe :) But as always they've put
+  some pigs and a berserk in, cheating a little bit for a high ratio, that
+  isn't that high. I thought I would have problems when I watched demo3
+  (yes, they've put the demo for that map in), but I hadn't at all.
+  I had once an easy Baron trap, maybe because I hadn't killed the Pain
+  Elemental on this side? The pigs trap is a lot easier when you stand on
+  on of the teleport exits. Tricky, isn't it? Hope noone creates telefragging
+  pigs one day ... :) I was surprised to see that the Archvile wasn't at the
+  exit, but fortunatly I could return and trigger his line. I really recommend
+  3 SSG shots on him, if you don't have enough rockets to kill him from
+  the secret exit (see demo3 for bad luck ...). The normal exit is behind the
+  Hell Knight I visited before, btw.
+
+  PS: To all deathmatchers: small and beautiful deathmatch area in that map.
+
+  Kai-Uwe Humpert
+  gazelle@cs.tu-berlin.de

@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry
+
+EP16-055.TXT
+
+ EP16-055.ZIP
+
+  EP16-055.LMP - Ultra Violence PACIFIST style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Evilution - MAP01
+
+                     Time  00:55
+                           -----
+  
+  Description :-)
+
+Wonder why no-one's tried this before, it's a fun map for pacifist :). Some
+guy on opensource IRC did it in 4:3x so I thought i'd see what I could do...
+
+Adam Williamson
+adam.williamson1@btinternet.com

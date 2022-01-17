@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ10-048.TXT
+
+ RQ10-048.ZIP
+
+  RQ10-048.LMP - UV speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 10 - The Black Gate
+
+  Kills     18%
+  (Items    22%)          *********
+  Secrets    0%  and Time * 00:48 *
+                          *********
+                          
+
+  Description :-)
+  
+  Since I discovered that new trick for my TAS movie it was
+  obvious that I should try it for Compet-n.  I did improve it
+  but there are still sloppy looking parts so it's far from
+  optimal.  As for the trick itself, it's fairly difficult,
+  but not as hard as a lot of other tricks.
+
+  Xit Vono
+  Xit_vono@yahoo.com

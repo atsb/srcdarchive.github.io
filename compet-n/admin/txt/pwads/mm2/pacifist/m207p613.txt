@@ -1,0 +1,44 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m207p613.lmp                        |
+            | Category: Pacifist                            |
+            | Map Level: MAP07 - Frustration                |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     25%                            |
+            |      Items     90%           ********         |
+            |      Secrets   40%  and Time * 6:13 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Not too complicated, as the map is half empty if you don't shoot, plus |
+| there is a partial invisibility, a soulsphere and four armors. I tried |
+| skill 1 first, then skill 2 (a non-cheated 5:00 almost right away),    |
+| skill 3 (cheated 5:59) and finally skill 4 (cheated 7:23) - all of the |
+| above using PrBoom Plus. As for the final time - 6:13 - I believe it   |
+| can be halved.                                                         |
+|                                                                        |
+| I don't think many more Pacifist are possible for MM2. MAP09 can be    |
+| done with Vanilla if someone wants it, Kristian Ronge said MAP23 is    |
+| possible (you need to know how to glide) and I would give some hope to |
+| MAP17 (you need to know how to grab that blue key). Nothing more, but  |
+| obviously if someone proves me wrong, I will not complain :)           |
+|                                                                        |
++========================================================================+

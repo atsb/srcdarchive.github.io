@@ -1,0 +1,17 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm07r645.TXT
+
+ mm07r645.ZIP
+
+  mm07r645.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 7 – UV Respawn
+
+Essentially, the same as Xit Vono's NM run for the level, but a bit more reckless due to it being on UV. 
+I keep having to teleport through the rocket room due to safety as well as the possibility of fragging. Like Xit said, one of the hardest parts is the blue key area, either that Arch-vile dies or he blasts you. Then you have to make sure nobody interrupts your getting to the area with the switch on the elevator close by. I decide not to press the switch near the berserk since it might let the arch-vile out. For the maze area, I forgot the sequence of switches so I had to relearn it prior to the attempts. Main problem is just the knights and barons getting in your way. Mancubi are easy to deal with. After, you can rest assured as the level's just a piece of cake from there on out.
+
+Author: Revved

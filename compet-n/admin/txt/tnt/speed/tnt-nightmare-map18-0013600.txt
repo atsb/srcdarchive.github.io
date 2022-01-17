@@ -1,0 +1,14 @@
+Runner: Zero-Master
+IWAD: TNT.wad
+Category: NM-Speed
+Map: 18
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 13%
+Items    : 25%
+Secrets  : 40%
+Time     : 01:36.00
+
+Description: 
+Figured I would do the pacfist and nightmare run since it hadn't been done with the rocket jump.
+Still room for improvement.

@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M7-311.TXT
+
+ E1M7-311.ZIP
+
+  E1M7-311.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    100%
+  Secrets  100%    and Time  03:11
+			     -----
+
+Description:  1 second faster than Anders' record :). As he commented, it's
+              the mother of all 99% maps :(. Thing that always seems to get
+              left behind is the spectre - on this .lmp I got semi-lucky,
+              didn't kill it but somehow it got through the yellow door.
+              I wasn't expecting this to be quick at all, there's lots of
+              slow parts, so i'd agree with Anders' comment that sub 3
+              mins should be possible quite easily. Maybe even sub-2:50?

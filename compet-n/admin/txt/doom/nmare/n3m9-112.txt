@@ -1,0 +1,27 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+N3M9-112.TXT
+
+ N3M9-112.ZIP
+
+  N3M9-112.LMP - Nightmare !
+
+  Recorded using "The Ultimate DooM"
+
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM ver. 1.9
+
+  DooM - Ep.3 Mi.9. - Warrens
+  Kills     30%
+  (Items    33%)
+  Secrets    0%  and Time  01:12
+                           -----
+
+  Description :-)
+
+  Thought I'd implement Baum's really nice trick into this one
+  too... :)
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

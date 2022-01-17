@@ -1,0 +1,24 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Max
+Map: 01
+Source Port: Competition Doom v2.0.3.2
+
+Kills    : 102%
+Items    : 0%
+Secrets  : 100%
+Time     : 01:59.94
+
+Description: 
+I wanted to try something new, this is my first max demo.
+
+I missed 2 early SSG shots, so that cost a lot of time. 
+I also didn't kill anything with 1 of the rockets on the imps at BK.
+
+I got lucky at red key area, getting PE and mancubus in 2+3 rockets.
+
+I can see this going at least 3 seconds faster, but that seems to be very difficult.
+At least it does for me so far, but then again uv-max isn't too different from uv-speed,
+you still have to move and aim well anyways :)
+
+

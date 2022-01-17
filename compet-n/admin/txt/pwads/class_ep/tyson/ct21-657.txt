@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ct21-657.TXT
+ct21-657.ZIP
+
+ct21-657.LMP - Ultraviolence!
+  
+This is a Compet-n/Doom/pwad entry.  
+
+Recorded using Doom Version 1.9 !
+Doom -PlayDemo with Version 1.9 - Only
+
+Doom - class_ep.wad e2m1 done Tyson style.
+
+---------------
+
+     -------
+
+  Kills    100%           
+  (Items    92%)          |--------|
+  Secrets  100%  and Time | 06:57  |
+                          |--------|
+
+     -------
+
+Map description
+-------------------
+e2m1: class_ep is a small Doom1 style map with what seems like
+quite a few shotgun guys. The number of shotgun guys made it kind of 
+hard for me to even complete on Tyson, just a couple shots from them 
+and you're dead.
+
+-------------------       
+
+Description: I think the first thing that I should say, is, compet-n
+is most certainly the realm of the single-player doomgods, and I cannot
+say for sure what posessed me to stick my head in here (not unlike
+a mouse sticking its head into a cat's den). I've never uploaded one
+before, and I can say with absolute certainty that any of the regular 
+Compet-N players can beat my time on this map in very short order. 
+Nevertheless, I decided to upload it; we'll see if the doom-gods let 
+me keep this one compet-n point for a little while.
+
+I want to thank Anders Johnsen just for being such a fierce player; 
+Ocelot for being there, and getting so damn good so fast that I have
+more hope for the future of Doom than ever; Henning for making his
+mind-boggling, incredible Nightmare speedruns for us mortals to watch
+and shake our heads at in disbelief, and Waldon for encouraging me to 
+make this run in the first place.
+
+Date: December 15, 2001
+
+Author: Laura Herrmann (BahdKo)
+E-mail: bahdko@erols.com

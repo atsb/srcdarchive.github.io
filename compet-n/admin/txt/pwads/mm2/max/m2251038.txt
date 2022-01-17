@@ -1,0 +1,39 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2251038.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP25
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    101%
+  Items     57%           *********
+  Secrets  100%  and Time * 10:38 *
+                          *********
+
+
+==============================================
+
+This map is FANTASTIC!!! Play it now!!!
+:)
+The funny thing is, I wouldn't have tried this map without a
+coincidence, because I thought it would be too difficult to me.
+But: am I the only one to notice Antony Soto's 10:47 demo
+(excellent in some parts) is invalid? He didn't kill a
+chaingunner and finished with 250/252 kills, whereas 251/252 is
+maximum. You know, I HAD to correct that thing...
+
+Some new ideas here and there, compared to previous demos, route
+changes as well. Many thanks to gggmork (who may not have played
+this) for showing me several tight cyberdemon fights, with 2 BFG
+shots needed to kill it as a goal. Thanks to Anders and Anthony
+for their demos - I spent some time comparing them and trying to
+find any weaknesses. Thanks to Migru for his demo accompanied by
+a hilarious txt: "the cyborg room separates the men from the
+boys". After reading this I expected some risky cyberdemon
+treatment... Watch it by yourself :)
+
+To finish, just to say I had enormous luck at the end. I somehow
+couldn't (but wanted) to pick up green armor. Thanks to that
+sloppy move, a revenant which I forgot to kill fired a missile.
+This saved the run, otherwise I would exit with 250/252 :)

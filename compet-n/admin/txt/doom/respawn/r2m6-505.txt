@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R2M6-505.TXT
+
+ R2M6-505.ZIP
+
+  R2M6-505.LMP - NightMare! with 100% secrets
+
+  Recorded using The Ultimate DooM v. 1.9
+  DooM -PlayDemo with The Ultimate DooM v. 1.9
+  DooM -PlayDemo with DooM v. 1.9
+
+  DooM - Ep.2 Mi.6 - Halls of the Damned
+
+  Kills    101%
+  (Items    41%)
+  Secrets  100%    and Time  05:05
+			     -----
+
+  
+  Description:
+
+  This map is not too difficult in general, but the red key area is quite
+  hard when trying to save cells for the end. This is mainly because there
+  are only half as many as there are in Nightmare mode.
+
+  Robert J. Reevy
+  iudex@usa.net

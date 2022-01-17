@@ -1,0 +1,16 @@
+[ Taken from Sam John Stephens D1M exam d1m-sjs.
+  It is the first (nearly) pacifist recording of e2m4. As this recording is
+  older than the rules for playing pacifist style, I consider it a valid
+  pacifist's lmp despite the (ab)use of the crusher. ]
+
+Free interpretation     : E2M4 on UV without shooting/punching once!
+ 
+  lmp    level     skill      health armour kills items secrets time par
+-------------------------------------------------------------------------
+free     e2m4  Ultraviolence    39%     0%   11%   10%    30%   3:26 2:00
+
+The free I thought of when I heard some guy had recorded a wad of completing
+episode 1 on skill 1 without shooting once. Having seen e2m4 done Tyson, I
+decided that it would be be a good level to try without shooting. This level
+has very few groups of clustered baddies, which makes things simpler.
+

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN09-646.TXT
+
+ RN09-646.ZIP
+
+  RN09-646.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 9 - Deep Down Below
+
+  Kills     88%
+  (Items     6%)          *********
+  Secrets   60%  and Time * 06:46 *
+                          *********
+                          
+
+  Description :-)
+  
+  Whoa, this took quite a few tries to do this, until I
+  discovered the new trick.  I tried with my UVspeed route,
+  but this is much much safer.  I let the switch come down,
+  then I grab the key by running into it.  That way it
+  doesn't release the demons.  Surprisingly, this was the
+  first attempt after discovering that trick.
+
+  Xit Vono
+  Xit_vono@yahoo.com

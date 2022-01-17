@@ -1,0 +1,23 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+ev14-533.TXT
+
+ ev14-533.ZIP
+
+  ev14-533.LMP - Ultra Violence Max!
+
+  Recorded using Doom2.exe
+
+  doom2.exe -playdemo -file tnt.wad with doom2 ver. 1.9
+
+  Kills      100%
+  (Items     ?%)            *********
+  Secrets    100%  and Time * 05:33 *
+                            *********
+ 
+  Description :-)
+
+  Woo! Another point!!
+
+  BahdKo
+  bahdko@erols.com

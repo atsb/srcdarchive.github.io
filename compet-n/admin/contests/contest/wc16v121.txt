@@ -1,0 +1,22 @@
+This is a   Compet-N   entry 
+
+author:     Vincent Catalaa <peroxyd@wanadoo.fr>
+
+game:       DOOM2 version 1.9
+
+category:   Contest #4 - Weapon Collector
+
+level:      Map16 - Suburbs
+
+stats:      Kills      ??%
+            Items      ??%
+            Secrets    ??%   and Time   1:21
+
+comments:   Well, I got it in about one hour, but it's still far from perfection!
+	    I think that 1:15 can be done with this route, but not by me ! (Panter ? Adam ?)
+
+	    Is it the best route ? proove me wrong...
+	    
+
+
+	

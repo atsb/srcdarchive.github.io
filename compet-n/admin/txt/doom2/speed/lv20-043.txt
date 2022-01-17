@@ -1,0 +1,50 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV20-043.TXT
+
+ LV20-043.ZIP
+
+  LV20-043.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - Gotcha!
+
+  Kills     12%  (Who has killed so much?)
+  (Items    11)
+  Secrets   14%  and Time  00:43
+                           -----
+
+
+Description:    :"Description :)                        "
+                :"I've found a faster *funny* way ... :)"
+                :"Istvan Pataki                         "
+                :"deity@balu.sch.bme.hu                 "
+
+                :Thanks to Istvan ;-)
+                :But if you make it fast, make it REAL fast.
+                :So that no DL uses the north wall making a 0:48
+                :And no gazelle "running is my life" finds a little
+                :improvement. It is quite more dangerous.
+
+                :It's quite good (45,4 sec), so if anyone makes 0:44,
+                :or tries to make it, he must be nuts. Really!
+
+                Okay I'm nuts. But who has doubted it? Anthe has sent
+                me some .lmps, and there was this direct jump. Why not?
+                It is very hard indeed.
+
+                Like before: had some 0:45, but tried further, so no 0:44
+                but one 0:43 ;-)
+
+                Someone who tries it without the megasphere?
+                /built?
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m2s21400.TXT
+
+ m2s21400.ZIP
+
+  m2s21400.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad mm2info.wad -playdemo with version 1.9
+
+  Memento Mori 2– Secret Map 2 – UV Fast
+
+This was one I also thought was impossible, but with time, I practised and got it. Most of this is the same as doing it normally on UV Max, but like always, there's the usual exceptions. I had a problem with the caco horde because I couldn't go up to the window and shoot them, because I had more of a chance of getting hit. However, I found a way to get rid of them, by shooting in an area where you can shoot them, but they won't hit you (most of the time). After getting the yellow key, I had a brief loss of memory in terms of where to go, but I then got it back. There's also a crappy demon horde at the end like in mm31. However, unlike that level, here I have some armor, as well as a plasma rifle so it's a lot easier. This makes the MM2 WAD the first Compet-N PWAD to have its UV Fast table filled.
+
+Author: Revved

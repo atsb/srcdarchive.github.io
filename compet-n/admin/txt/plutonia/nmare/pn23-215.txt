@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+PN23-215.TXT
+PN23-215.ZIP
+
+PN23-215.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 23 - Tombstone
+
+Kills     ???
+Items     ???
+Secrets   ???
+Time     2:15
+         ----
+
+Description:
+C-N entry #40.
+
+OUCH, this map is a beast in nightmare.  I got my ass handed to me an uncountable
+number of times this morning before I finally finished, so enjoy the demo. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

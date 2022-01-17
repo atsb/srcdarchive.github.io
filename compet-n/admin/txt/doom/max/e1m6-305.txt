@@ -1,0 +1,37 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e1m6-305.lmp, e1m6-305.txt
+Date     : 2019-01-06
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max
+Map(s)   : E1M6: Central Processing
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  32%
+Secrets  : 100%
+Time     : 00:03:05
+===================================
+Description:
+
+I changed a strategy of the final room from a way of UV-Speed, though 
+I had should come up with it early. Of course, the strategy was risker. 
+This run was pretty smooth. I had few mistakes and rocket's behaviors 
+were almost good. The only unfortunate thing was that a specter did not 
+cooprate me because it was stuck on a lift. Certainly under 3 min is 
+definetely possible with this route, but much luck would be necessary, 
+for example behaviors of barrels in the red key's room, demoms in the 
+computer room, enemies in the final room, and so on. I don't want to 
+repeat this route earnestly for not being able to keep motivation. 
+I will try it again if I come up with some new ideas.
+
+
+111th Compet-N Entry

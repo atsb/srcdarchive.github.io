@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV07-808.TXT
+EV07-808.ZIP
+
+EV07-808.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 07 - Prison
+
+Kills    100%
+Items     88%           
+Secrets  100%  
+
+   ...and Time  8:08
+               ------
+
+
+Description: I thought this map was boring as hell in the beginning, but soon
+	     as i knew how to play this map it was actually a little fun. It's
+	     not too pretty, this map, but very id Software like. I think 
+ 	     anyway. Time could go below 8 minutes...
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

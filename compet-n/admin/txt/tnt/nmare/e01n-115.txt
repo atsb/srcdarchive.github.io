@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+E01N-115.TXT
+
+ E01N-115.ZIP
+
+  E01N-115.LMP - NightMare!
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 01 - System Control
+
+  Kills     86%
+  (Items   100)
+  Secrets    0%  and Time  01:15
+                           -----
+
+
+  Description: The first TNT-NightMare entry ???
+
+
+  Author:      Daniel "Demonlord" Lindgren
+
+  E-mail:      akllin95@student.umu.se
+
+

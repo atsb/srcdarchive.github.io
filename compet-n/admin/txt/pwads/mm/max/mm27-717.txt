@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+mm27-717.txt.TXT
+
+ mm27-717.txt.ZIP
+
+  mm27-717.txt.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 27 - Fort Hades by Scott Lambert
+
+  Kills    100%
+  Items     74%
+  Secrets   88%  and Time 7:17
+
+  Description
+
+Second exit.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+11.06.2007

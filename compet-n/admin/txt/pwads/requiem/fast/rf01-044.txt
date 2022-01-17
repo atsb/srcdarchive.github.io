@@ -1,0 +1,27 @@
+This is a DooM .LMP "Compet-n" Entry - Please forward it...
+
+RF01-044.TXT
+
+ RF01-044.ZIP
+
+  RF01-044.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD REQMUS.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 01 - The Gateway 
+        
+  Kills    100%
+  (Items    22%)          *********
+  Secrets  100%  and Time * 00:44 *
+                          *********
+                          
+
+  Description :
+  
+  Great -fast level, so why not? :)
+  
+  
+  Name:     Arno Slagdoom
+  Mailto:   slag@doom2.net
+  Visit:    www.doomworld.com/publicdang

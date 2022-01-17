@@ -1,0 +1,30 @@
+This is a   COOP-N ENTRY .lmp 
+
+players:    Ondøej "RaideR" Vosátka <raiden_cz@seznam.cz> - cp1r0614.lmp
+	    Jakub "DooMerMan" Machata <kuba-m@seznam.cz>  - cp1d0614.lmp	
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie 
+            
+level:      Episode 1 - Knee Deep In The Dead
+            
+stats:      
+
+   Level       Time        
+                        
+---------------------------------
+   E1M1        0:21      
+   E1M2        0:30
+   E1M3        0:53 
+   E1M4        0:29 
+   E1M5        1:10 
+   E1M6        1:16
+   E1M7        1:35     
+   E1M8        -:-- (Excluded)        
+---------------------------------
+   Total       6:14
+
+   [: We play on ZoneLAN :]
+   Btw.: DooMerMan is connect on modem.
+   

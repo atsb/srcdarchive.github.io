@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM07-048.TXT
+
+ NM07-048.ZIP
+
+  NM07-048.LMP - Nightmare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - Dead Simple
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time  00:48
+                           -----
+
+  Description :-)
+  
+  This is the strangest record I ever got.
+
+  I was chatting with ocelot about this level on IRC,
+  and I thought, why not give it a few tries, just for fun.
+  
+  I got a 56 in a few tries while we were talking, then
+  I played on and got this. 22nd try... I guess luck
+  was on my side.
+  
+  You'll notice how bad this run is, I wasn't even half
+  warmed up: the mancubi, I fire a rocket in the air for
+  no reason, two of them didn't die as planned, the spiders,
+  another rocket wasted, and the exit already up at least
+  1 second before I get there.
+  
+  I killed 9 spiders while 2 mancubi fought the other 3,
+  they did a pretty good job (better than me, at least).
+  
+  This could go much better than this, ultimately, the bigger
+  supply of rockets should push this under the UV time.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu  

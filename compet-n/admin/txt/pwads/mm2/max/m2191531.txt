@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m2191531.TXT
+
+m2191531.ZIP
+
+m2191531.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 19 - The Shaft by Jeremy Statz
+
+Kills     101%
+Items      80%
+Secrets   100%	and Time - 15:31
+
+Description:
+
+This was unexpectedly easy. The beginning was simple horrible. However I've gathered myself. I needed two evening starting from learning some elements of the level layout and monsters placement.
+
+Believe you or not but this demo is my first exit under Peo's time with no live monsters. Three times I exited the level with an unteleported sergeant or baron.
+
+I'm amused as it turned out.
+
+Under 15 mins would be excellent time for this level.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+23.05.2007

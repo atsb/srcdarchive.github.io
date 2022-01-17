@@ -1,0 +1,31 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE08-211.TXT
+RE08-211.ZIP
+
+RE08-211.LMP - Ultra Violence with -RESPAWN
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+DooM II - Level 08 - "Tricks And Traps"
+
+Kills    104%
+(Items    80)
+Secrets  100%  
+
+   ...and Time    02:11
+                ---------
+
+
+Description: Do you really think under par is possible Adam ??
+             I once got 2:05 with 98% kills, which means to enemies, 
+	     and I was very lucky then....
+
+	     Btw, this map was very fun playing with the -respwan option :)
+
+
+Author:   Henning Skogsto
+E-mail:   hskogsto@c2i.net
+Doompage: http://home.sol.no/~doom/

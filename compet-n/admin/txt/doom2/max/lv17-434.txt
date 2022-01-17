@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV17-434.TXT
+
+ LV17-434.ZIP
+
+  LV17-434.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 17 - "Tenements"
+
+
+  Kills    100%
+  (Items    76%)            
+  Secrets  100% 
+              
+             ... and Time   04:34
+                            -----
+
+Description:  Anders didn't like his old demo after those years (don't know
+              why, that demo is still nicer than this one) and asked me
+              for a little improvement. I obviously couldn't dissapoint him. :)
+              I had problems to record a decent demo, had to start playing
+	      with music to be more relaxed, and got this one. Still it's far
+              from perfect and hopefully I'll redo it one day...
+
+
+
+Author:	    Radek Pecka
+E-Mail:	    r.master@email.cz

@@ -1,0 +1,62 @@
+This is a Doom2 .LMP "COMPET-N" Entry - Please forward it...
+
+LV01-048.TXT
+
+ LV01-048.ZIP
+
+  LV01-048.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - Entryway
+
+  Kills    100%
+  (Items    44)		  ********
+  Secrets  100%  and Time * 0:48 *
+                          ********
+
+
+Comments: This time without a single strafe 50 tic :) It doesn't look
+	  that nice, but the time is fast, believe me. I played that map
+	  last some years ago, ending with a 0:49 and one (second best) 0:51.
+	  Yesterday, I got 0:51 and even 0:50 after only a few minutes of
+	  play, all in all I've recorded not less than 7 times a 0:51 and
+	  also three times a 0:50. Surprisingly no 0:49. I just wonder what
+	  a time this could have been if the rocket had killed/hurt one more
+	  Imp, because it's a 48,54. It's really only the SSG room where all
+	  the Soldiers die incredible fast, that's why I expect that somebody
+	  can still improve it.
+	  Btw, this LMP differs slightly from the 0:49. That's because I
+	  don't care anymore for the last Soldier when he walks to the health
+	  potions but kill him on the way back. This means, that the Imps
+	  outside wake up and don't catch the rocket that fine as if they
+	  would have been waken up by my first rocket. But as it seems, it is
+	  no big difference in time.
+
+	  Places I dunno how to avoid to loose time:
+	  1) After you've killed the Imp on the elevator, you have to wait
+	    some tenth to go on.
+	  2) You have to wait for the Imp's secret door.
+	  3) You loose time because you'll take out Pistol before Shotgun
+	  
+	  I tried to avoid both 1) and 2) (but times were around 0:58) as
+	  follows: kill the Imp at the elevator, open the door, sneak to
+	  the secret, kill the other secret Imps (which came out), return
+	  to the elevator and kill 2 Imps while it goes up.
+	  I've got it once or twice that 3) didn't happen, maybe with almost
+	  all health you can fire the rocket at closer range.
+
+	  Hi Peo, this long text extra for you. Hope you've got the necessary
+	  disc space to read it :)
+  
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin (IRCNET [*.de server])
+
+Hope that I rank soon at #2 behind dasa in the german Doom2 league
+See	http://www.3dactions.com/doom2

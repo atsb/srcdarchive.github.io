@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry
+
+N3M6-006.TXT
+
+ N3M6-006.ZIP
+
+  N3M6-006.LMP - UltraViolence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 6 - Mt. Erebus - Secret Exit
+
+  Kills      0%
+  (Items     0%)
+  Secrets    0%  and Time  00:06.97
+
+
+  Description:  Oh, yes one everlasting point for poor little Rini ;-))))
+                I collected eight 0:07 before thisone. The fastest before
+                was a 0:07.05
+
+
+                Btw:
+                All the strafe50 running is 'handmade', no strafe50 driver
+                or other cheats, just the [STRAFE ON] key. I have to make
+                this explicit here, because when looking at gametics like
+
+                GF50 SR50                       #     161 (00:04.60)
+                GF50 SR50                       #     162 (00:04.62)
+                GF45 SR50                       #     163 (00:04.65)
+                GF50 SR40 TR8                   #     164 (00:04.68)
+                GF50 SR40 TR4                   #     165 (00:04.71)
+                GF50 SR40 TR1                   #     166 (00:04.74)
+                GF50 SR50                       #     167 (00:04.77)
+                GF50 SR50                       #     168 (00:04.80)
+                GF50 SR50                       #     169 (00:04.82)
+
+                everybody would assume the (ab)use of a strafe50 driver.
+
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

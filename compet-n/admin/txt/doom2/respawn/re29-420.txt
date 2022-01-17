@@ -1,0 +1,31 @@
+This is a Doom2 .LMP "COMPET-N" Entry - Please forward it...
+
+RE29-420.TXT
+
+ RE29-420.ZIP
+
+  RE29-420.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 29 - The Living End
+
+  Kills    104%
+  (Items    84)
+  Secrets    0%  and Time  04:20
+                           -----
+
+Description:  Ok, this is my fourth and last D2 -respwan entry today. I don't
+              think I'll ever do another one...The ONLY reason I did these
+              maps, was to fill in the gaps in Jan's and Henning's respawn
+              collection. With exception from map01, they all required very
+              little playing, and the result was only medium....still I think
+              I've cut some minutes all together. I wanna thank Rini for all
+              his great routes I've used today. Now lets head back to the 
+              other challenge I've been working with inbetween:
+              E2M5 max....
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

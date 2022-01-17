@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM27-029.TXT
+
+ NM27-029.ZIP
+
+  NM27-029.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 - "Monster Condo"
+
+  Kills      0%
+  (Items     3)
+  Secrets    0%  and Time  00:29
+                           -----
+
+  Maximum Minimum Health = 100 %
+                           -----
+
+  Description :
+
+  It's not so simple as in Ultra Violence because the Archvile
+  doesn't move while it can see you.
+
+  Watch LV27-016.LMP !
+
+
+ Laszlo Magori
+
+ gorila@balu.sch.bme.hu
+
+

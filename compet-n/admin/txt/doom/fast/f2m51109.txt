@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+F2M51109.TXT
+
+ F2M51109.ZIP
+
+  F2M51109.LMP - Ultra Violence with -Fast
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 5 - Command Center
+
+  Kills    100%
+  (Items    65%)
+  Secrets  100%  and Time  11:09
+                           -----
+
+  Description:  Just an initial efford.
+               
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

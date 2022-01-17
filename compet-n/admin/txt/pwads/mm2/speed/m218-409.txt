@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m218-409.TXT
+
+m218-409.ZIP
+
+m218-409.LMP - Ultra-Violence Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 18 - Regulate by Matthias Worch
+      
+Kills      49%
+Items      50%
+Secrets    50%	and Time - 4:09 
+
+
+Description:
+
+My first demo after four months without demoing. I've missed exit trick. Actually I did 30 sec trigger skipping in nomo only. Next demo, if ever appear, should use the trick.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+03.05.2004

@@ -1,0 +1,39 @@
+This is a Doom "COMPET-N/doom/speed" entry. Please forward it...
+
+E1M3-058.TXT
+
+ E1M3-058.ZIP
+
+  E1M3-058.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 1 - Knee-Deep In The Dead
+  Map     3 - Toxin Refinery
+
+  Kills     40%
+  (Items    13)
+  Secrets    0%  and Time  00:58
+                           -----
+
+
+Description: It's still hard even if you take out all the sergeants. I get
+             the shotgun faster and I don't collect the medkit. I had done
+             this before, but had 10% less health and 5 seconds more after
+             doing it, so I thought I would leave it where it is. I didn't
+             shoot at the Imp-barrel first, but did that later. I can play
+             it nearly autmatically now, never release the fire button til
+             the barrel for the pig. Quite nice .LMP in less than 1:00 ;-)
+             Haven't played for too long to get the time (1.5 hours?), but
+             it was only the 2nd or 3rd try I reached the exit.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

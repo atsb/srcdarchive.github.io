@@ -1,0 +1,58 @@
+This is a .LMP "COMPET-N/requiem/" Entry - Please forward it...
+
+RF20-043.ZIP
+
+ RF20-043.LMP
+
+  RF20-043.TXT -Ultra-Violence -FAST
+
+  Recorded using "DooM 2 v1.9 - Requiem" ! (Complevel 2)
+  DooM2 -file REQUIEM.WAD REQMUS.WAD -PlayDemo with Version 1.9*
+
+  Requiem - Level 20 - The Forsaken Hall by Adam Windsor
+
+  Kills:  24 / 24 (100%)
+  Items:   6 / 24 (25%)            ********
+  Secrets: 2 / 2  (100%) and Time  * 0:43 *
+                                   ********
+  C-N entry #31.	Date:03/10/2012
+
+  Description :)
+  I was looking at Kyle McAwesome's DSDA page and to my surprise, noticed he
+  had a few COMPET-N records. I watched them and then decided to take down
+  his RF20-046.
+  
+  I thought it would be easy but... well he put it best so:
+   "This level is much harder than one would expect on -fast."
+    ~ Kyle McAwesome, most logical quote found on the internet since 1995.
+    (I'm board)
+  
+  But anyways, under 40 seconds is possible but you'd have to rely on the
+  Lost Souls killing the imps and or Spectres and those Lost Souls are not
+  ones to rely on when in need, so I think this record will last a bit.
+  								
+  								
+  By the way, COMPET-N record was 0:46 by Kyle McAwesome, timestamped:
+  Saturday, January 21, 2012, 8:53:42 PM
+
+  Complete Historic COMPET-N Leaderboard:
+  RF20-058 - Opulent        - 08/28/2001
+  RF20-053 - Xit Vono       - 09/01/2001
+  RF20-046 - Kyle McAwesome - 01/21/2012
+  
+  
+  Note: Since this demo was recorded with requiem.WAD, I suggest 
+        you drop by at http://doomedsda.us/lmps/765/requiem.zip
+        and pick it up if you havn't already :) 
+            
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+  
+  *Recorded with just REQUIEM.WAD but then played back with both REQUIEM.WAD
+   and REQMUS.WAD.		
+  
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

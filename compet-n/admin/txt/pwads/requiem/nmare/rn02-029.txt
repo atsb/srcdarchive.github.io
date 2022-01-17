@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN02-029.TXT
+
+ RN02-029.ZIP
+
+  RN02-029.LMP - NightMare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 02 - Sacrificium
+        
+  Kills     30%
+  (Items     0%)          *********
+  Secrets    0%  and Time * 00:29 *
+                          *********
+                          
+
+  Description :-)
+  
+  Not much difference from UV...
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

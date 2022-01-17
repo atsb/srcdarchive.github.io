@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PS11-106.TXT
+
+ PS11-106.ZIP
+
+  PS11-106.LMP - Nightmare!
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: Plutonia - Level 11 - Hunted
+
+  Kills        0%
+  (Items      87%)
+  Secrets    100%  and Time   1:06
+                             -----
+  Description :)
+
+  This is very similar to Nightmare.  I saw from Marijo's uv
+  demo that it is possible to avoid letting the archies see
+  you, but I can't reproduce that.  Should be easy to beat for
+  a fast speedrunner.
+
+  Xit Vono
+  xit_vono@yahoo.com

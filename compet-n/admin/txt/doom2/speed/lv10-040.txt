@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV10-040.TXT
+
+ LV10-040.ZIP
+
+  LV10-040.LMP - UltraViolence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills     11%
+  (Items    17)
+  Secrets   16%  and Time  00:40
+                           -----
+
+
+Description: B F G 9000 ! Helps a lot to open one door ;-)
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

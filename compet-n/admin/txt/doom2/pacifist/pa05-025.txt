@@ -1,0 +1,53 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA05-025.TXT
+
+ PA05-025.ZIP
+
+  PA05-025.LMP - Ultra-Violence Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills     11%
+  (Items    33%)           +++++++++
+  Secrets    0%  and Time  + 00:25 +
+                           +++++++++
+
+
+  Description :)
+
+  Today, I played a map01 pwad in prboom+ -complevel 2, after
+  finishing it and starting on map02 I said I'll speedrun the
+  next few maps especially since I'm training on and off for
+  a 30uv run which I might never finish :|
+
+  When I reached map05, I wanted to try Sedlo's tirck to get
+  past the 2 imps without killing them, I didn't find it too 
+  hard as I thought, I continued speedrunning that map with
+  iddqd just for fun without recording :)
+
+  Within ten minutes I did awesome running and very good trick,
+  when I was on the rising platform near yellow key, I said this
+  one is 25 for sure, I opened door, activated switch and I was
+  SHOCKED, I got 24 !!! That's the previous record by Sedlo
+  without Vile's monster glide trick ;)
+  Maybe if it was a real run I wouldn't survive the run cause
+  I had iddqd but who knows ;)
+
+  I wanted to try speedrunning that map pacifist style in
+  doom2.exe cause the previous record 0:27 by Bolton was bad imo
+
+  This time I wasn't so lucky it took me 4 hours for this, I had
+  many better running before, some were perfect, but I didn't have
+  enough health to survive after getting yellow key, these zombies
+  usually deal a lot of damage when you don't kill them in pacifist.
+
+  Anyone wanna do Vile's monster glide and get past the 2 imps
+  at the end pacifist style ? That should be very hard :)
+
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com

@@ -1,0 +1,60 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP2-3005.TXT
+
+ EP2-3005.ZIP - Ultraviolence
+
+  EP2-3005.LMP - Whole Episode on skill 4, with 100% kills & secrets...
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 1 - The Shores of Hell
+
+
+Map:       Kills: Items: Secrets:   Time:    "C-N"
+--------------------------------------------------------
+E2M1   -    100%  100%  100%        1:41      1:33    :|
+E2M2   -    100%   62%  100%        4:08      3:34    :(
+E2M3   -    100%   41%  100%        2:16      2:37    :)) 
+E2M4   -    100%   54%  100%        4:37      4:51    :)
+E2M5   -    100%   52%  100%        6:01      4:51    :(
+E2M9   -    100%   50%  100%        0:58      0:51    :(
+E2M6   -    100%   61%  100%        5:40      4:46    :)
+E2M7   -    100%   51%  100%        4:44      3:59    :|
+E2M8   -     ??%   ??%  100%     [Excluded]   0:31
+---------------------------------------------------------
+And, of course, total time:        30:05     27:02 (-e2m8)
+---------------------------------------------------------
+
+General note:
+*************
+ Oh, finally i have done it. It was quite hard (as usually) to beat Ole's 
+ record. I don't know why is only 5 points for this episode. Because it's
+ a Tyson-Max episode, you have to use Berserk nearly in every map. 
+ It's a pity that total time is again slightly over 30 mins. I had two very
+ nice runs which could be under 30:00, but i always died in e2m7. At least
+ i didn't lose motivation for playing this episode again. Next time it'll be
+ under 30:00, i promise. :) 
+ 
+
+Comments:
+*********
+
+E2M1 - Time under 1:45 is ok.
+E2M2 - Ahh.., it really isn't my favourite map. It's easy to get 99% kills
+       here. Usually i had time about 3:50.
+E2M3 - Yeah, everything went well, my best time ever.
+E2M4 - Not bad, sometimes can Barons make problems.
+E2M5 - Time is very bad, i had usually about 5:40. I think i could be
+       faster with pigs near the normal exit.
+E2M9 - 50s is possible, i had to kill last Baron by shotgun, it took me 5 
+       secs at least. 
+E2M6 - Tyson map.
+E2M7 - It's quite easy to die in the start. Time is very bad compare with 
+       my c-n record.
+E2M8 - I was a bit nervous and a bit scared of lost souls.
+
+   
+     
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz
+Doompage:   http://doomers.zde.cz

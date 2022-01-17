@@ -1,0 +1,59 @@
+This is a DooM .LMP "Competition" Entry
+
+E3M8-041.TXT
+
+ E3M8-041.ZIP
+
+  E3M8-041.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.3 Mi.8 - Dis
+
+  Kills     25%
+  (Items    ??)
+  Secrets   ??%    and Time  00:41
+                             -----
+
+  Last movement at 0:41.42
+
+
+  Description:  Thomas Pilger wrote in e3m8-046:
+
+                > Hmmmm....Ok more or less it's a joke...I have never played
+                > this map and nobody showed me a good way through it.
+                > Consequently I don't think it is a good time or route...
+
+                Yes, I guess there will be three new entries tomorrow with
+                a better route: this is one of them ;-)
+
+                > uhh..I moved till the very end of course...
+
+                Yes, of course one MUST move till the very end,
+                otherwise it's bloody cheating.
+
+                Besides me beating "Panther" there are two interesting
+                things in that recording:
+                1) I start moving in the first gametic -
+                   yes, it is very easy to do this with keyboard.
+                2) I am lucky enough to get all three monsters fighting
+                   the spider. Especially a scratching baron can help a lot.
+
+                Btw:
+                Thomas don't mind the few strafe50 statements, they
+                don't help me anything, it's just my style.
+
+                ... and if someone will beat me by !SEVEN! seconds again
+                (as Esko did with e3m7-105) I will cry and stop DOOMing :~(
+                ;-)
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+
+
+           PS:  Maybe Patrick Martin should go for speed in this map,
+                Spider Masterminds tend to die immedetially
+                when they see HIM coming >8-o
+

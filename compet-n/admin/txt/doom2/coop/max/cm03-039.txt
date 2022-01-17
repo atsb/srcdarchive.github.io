@@ -1,0 +1,16 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop max
+mission:  map03
+
+time:     0:39
+
+Vincent:  wanted to annoy Radek a bit ;)
+
+xit-vono: Not bad, but we would have liked 38 or 37 here.
+
+          

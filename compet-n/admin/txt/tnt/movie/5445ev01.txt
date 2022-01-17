@@ -1,0 +1,63 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+5445ev01.TXT
+5445ev01.ZIP
+
+5445ev01.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file tnt.wad -playdemo with version 1.9
+
+Final Doom: TNT Evilution - Episode 1 - UV-MAX
+
+
+                       Time     Kills     Secrets
+-------------------------------------------------
+01 - System Control    1:20      100%      100%
+02 - Human BBQ         4:33      100%      100%
+03 - Power Control     3:49      100%      100%
+04 - Wormhole          6:34      100%      100%
+05 - Hanger            5:43      100%      100%
+06 - Open Season       4:24      100%      100%
+07 - Prison            9:17      100%      100%
+08 - Metal             7:42      100%      100%
+09 - Stronghold        7:41      100%      100%
+10 - Redemption        3:42      100%      100%
+
+Total                 54:45
+
+
+This day was strange. Not only did I finally finish this demo but I succesfully completed it twice. In one day. Never happened before.
+The first demo was a bit slower 54:57. That said I'm not very happy about 54:45 becasue the earlier demo was a disaster in the begining. This one started out really good, got a personal best for map02 and map03 and 04 are good too. Unfortunately after that I started losing time as soon as map05. I screwed up that one big time. 30 seconds slower than in the first run. Bleh. After map07 I started to play too safe sometimes and the last 3 maps are all slower then the first run because of this. It's really a shame because after the great start a was starting to hope I could get it in under 54 minutes. But it looks like I'll have to leave it for someone else to do.:) 
+Now that I did this(I pretty much started with this after I finished my Plutonia ep.1 max demo but took loooong breaks) I will probably start another episode movie but don't know yet for what. Maybe I'll try this on -fast hehe. 
+
+
+01: The first map of the game and the first map I really don't like. Somehow I once got a 1:11 here but anything that's not above 1:20 is passable by me. The Tyson style that this map wants me to do is too random for me. Sometiems I tear everything up no problem, sometimes I can't hit anything.
+
+02: The map I hate probably most of all. If I died attempting this demo there was a great chance it was here. I finally gave up and started doing it the slower way, by killing the released demons first alongside any Imp I could find and only then releasing the cacos and PE. That said, this time came out of nowhere, it's the best I ever got here. Usually it takes me about 5 minutes so this really surprised me. Not that I'm complaining. It's even more surprising becasue I missed the jump after taking the blue armor AGAIN. I even screwed up the Revenant at the exit. Did I mention I hate this map?
+
+03: Not bad, but the yellow key room took me longer than usual. The invisibility at the end proved to be a curse more than a blessing so I try to avoid it at all costs.
+
+04: Really really like this map. The music is my favourite from TNT too. Time very good by my standards, no major screw ups this time. Altough I was not very happy about the panels lowering and releasing the Lost Souls but fortunately I made it out of there quite quickly.
+
+05: This is my first major screw up. It took me almost 30 seconds longer than most of the time. I really don't know why it's so slow. The Baron/Revenant bit was slow and a failure but that didn't happen for the first time and I got never a time as bad as this. Pretty much all time I saved in earlier levels compared to my previous run was lost here. Sucks.
+
+06: Another map that I like quite a lot and that went smootly. Except at the begining where I got stuck and had to pray I won't be chaingunned to death.
+
+07: This would be another one of my favourite maps here except the fact that I have to check some places multiple times for stray monsters becasue this map ist the ultimate champion of 99% kills in the first episode. And looking for monsters takes time ofcourse. But it's better to have a slower time and 100% then a really nice time and 99%. I learned the hard way.
+
+08: This map can be too dark for comfort sometimes. But that's mainly becasue of my ancient monitor. The time is not very good, I was too cautios and it cost me. But I just couldn't shake the feeling that I missed a monster somewhere.
+
+09: I used to die here a lot but finally learned to stay alive. Slower then I would like.
+
+10: Again one of my favourites and a great example of why practice runs with IDFA are not a good way to learn a map sometimes. I was not used to not having any cells when fighting the PEs at the yellow key and it is quite obvious in the demo. That ofcourse cost me time and it's one of my worst for this map. It's a shame really becasue I never died here which is true for only a small number of maps.
+
+
+All in all except maps 01 and 02 a really nice first episode and I enjoyed it greatly.
+In the end I'd like to thank Never_Again for his first ep.1 max run that helped me and ofcourse everyone who recorded individual runs for the levels. They were very helpful. :)
+
+
+Author: Tomas "DeDo" Kollar 
+E-mail: tomasdk@gmail.com
+
+15.2.2008

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM15-408.TXT
+
+ NM15-408.ZIP
+
+  NM15-408.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 15  
+
+  Kills     ??%
+  (Items    ??)
+  Secrets   ??%  and Time  04:08
+                          --------
+
+Description: 
+   Looks like the old normal exit lmp lost somewhere, so
+ I though I'll make a new one.  
+
+Istvan Pataki
+
+deity@sch.bme.hu

@@ -1,0 +1,32 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m7-231.txt
+e1m7-231.zip
+
+e1m7-231.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M7 - Computer Station
+
+=--------------=
+Kills      100%
+Items       54%
+Secrets    100%
+
+Time       2:31
+=--------------=
+
+C-N entry #135.
+
+This was the hardest I've ever had to
+work to improve a max record, but I'm
+not overly pleased with the result.
+Ocelot: sorry about this, I had to at
+least try for the practice, but I wanted
+to include your run in the zip because I
+still think yours is better. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

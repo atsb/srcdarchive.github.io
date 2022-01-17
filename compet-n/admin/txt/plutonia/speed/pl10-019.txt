@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL10-019.TXT
+
+ PL10-019.ZIP
+
+  PL10-019.LMP - Ultraviolence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 10 - Onslaught  
+
+  Kills      5%
+  Items      0%           
+  Secrets    0%  and Time    00:19 
+                             _____                           
+
+
+  Well, when I saw that Sedlo's pl10-020 was actually a 20.51,
+  I just HAD TO look into it and see if 19 seemed possible.
+  It did. This look me longer than my 3 previous speedruns,
+  because it required a lot of monster co-operation, and was
+  therefore not a lot of fun to play since one was dying most
+  of the time, usually at blue bars or redkey like Sedlo pointed
+  out in his txt. I would also get blocked more often than was
+  cool. I used no s50, although I woulda done so if I had found
+  a way to use it to any benefit.
+
+  I now have at least one speedrun for each IWAD for the update. :)
+
+  Thanks go to God for this talent!
+   
+  19.1.2004
+  Juho Ruohonen
+  ocelot_78@hotmail.com

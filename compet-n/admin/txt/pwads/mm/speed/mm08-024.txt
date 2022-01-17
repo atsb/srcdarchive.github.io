@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+MM08-024.TXT
+
+ MM08-024.ZIP
+
+  MM08-024.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - And The Dead Shall Rise
+
+  Kills      2%
+  Items      0%
+  Secrets    0%  and Time  0:24
+                          ******
+
+  Description :-)
+
+  I was looking for speedable Memento Mori maps when I discovered
+  a switch-from-below trick on this level.
+  Then I realized that it's possible to jump past the switch without
+  lowering it at all...
+
+  This is also a Pacifist entry.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

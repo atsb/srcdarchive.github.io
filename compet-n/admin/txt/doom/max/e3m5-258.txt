@@ -1,0 +1,34 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e3m5-258.lmp, e3m5-258.txt
+Date     : 2019-01-18
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max
+Map(s)   : E3M5: Unholy Cathedral
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  57%
+Secrets  : 100%
+Time     : 00:02:58
+===================================
+Description:
+
+I was exhausted for this. The BFG's room had a terrible defect. 
+One or two imps almost never appeared smoothly. I occasionally 
+waited the last one for a few tens of seconds. Under 3 min was 
+definitely possible but many runs were ruined by the defect. 
+Excluding this room, this map is excellent and uv-max route 
+is also outstanding. According to Radek's e3m5-308.txt, the 
+route's credet goes to Steffen "Rini" Udluft. Thanks!
+
+
+113th Compet-N Entry

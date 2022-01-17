@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+
+Game:      Doom2.exe (vanilla)
+Maps:      30
+Skill:     4
+Category:  tyson
+Exe:       Doom2.exe
+
+Time:      1:30 (3rd october 2010)
+
+Author:    Looper (Paska @ doomworld)
+Email:     
+
+Comments:  Now with the original exe :)
+	   I made those silly moves at the beginning to spawn the arch-vile as a 3rd
+	   monster and the spider was just at the right place so revenant would rocket it.

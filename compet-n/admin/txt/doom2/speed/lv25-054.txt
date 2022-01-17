@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV25-054.TXT
+
+ LV25-054.ZIP
+
+  LV25-054.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - "Bloodfalls"
+
+  Kills     44%
+  (Items    50)
+  Secrets    0%  and Time  00:54
+                           -----
+
+
+Description: Have changed the route since last recording.
+             This one was a lot faster!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

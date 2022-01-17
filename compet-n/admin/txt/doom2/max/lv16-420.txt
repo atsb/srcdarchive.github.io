@@ -1,0 +1,28 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV16-420.TXT
+
+ LV16-420.ZIP
+
+  LV16-420.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - Suburbs
+
+  Kills    100%
+  (Items    80)
+  Secrets  100%  and Time  04:20
+                           -----
+
+
+Description: A lot of monsters in this level it's easy for you to
+             "forget" somebody.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

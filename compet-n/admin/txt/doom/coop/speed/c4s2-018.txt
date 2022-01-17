@@ -1,0 +1,27 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c4s2-018.txt
+
+ c4s2-018.zip
+
+  c4s2-018.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E4M2 - Speed
+
+           Kills    Items   Secrets
+
+  Green     10%      27%      33%      Arno SlagDooM
+  Indigo     1%      18%       0%      Marko "Python" van der Want
+
+  Time:    0:18
+
+
+Comment: Beats Vince/Selim by 2 seconds, but still 2 seconds slower than
+         the single player record. But then again, we are only human! :P
+
+
+
+  

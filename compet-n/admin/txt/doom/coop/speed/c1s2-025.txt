@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c1s2-025.txt
+
+ c1s2-025.zip
+
+  c1s2-025.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E1M2
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      raiderr
+  Indigo    ??%      ??%      ??%      Titan
+
+  Time:    0:25
+
+
+
+raiderr:  I hate the exit room in this level, but in this demo we have           little of luck. 
+Titan  :  I had old computer as indigo, but i had easy task in this           demo ;)
+
+     
+Green:       Ondrej "raiderr" Vosatka  (raiderr@email.cz)
+Indigo:      Martin "Titan" Vosatka    (Titan_doomer@hotmail.com)
+  

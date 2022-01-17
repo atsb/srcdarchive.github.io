@@ -1,0 +1,26 @@
+This is a Final DooM .LMP Compet-n entry for the Plutonia experiment...
+
+pl20-339.lmp
+pl20-339.txt
+
+pl20-339.zip
+
+Final Doom - Plutonia Experiment - Level 20 (The Death Domain)
+
+Kills:   100%
+Items:    83%           
+Secrets: 100%  
+
+   ...and Time  03:39 
+               -------   
+
+Description: Another lovely map in plutonia...this is only a 10s improvemnt
+             over Adam H-s record. The thing that keept annoying me was that
+             the archie that you are supposed to meet outside the yello-door,
+             just isn-t there. He clerverly jumps in the teleporter right next
+             to blue door. From this point you can just hit the restart button.
+             Unfortantly this happend 50% of the tries...:(
+              
+             
+Author: Henning Skogsto  
+E-mail: h-doom-frisurf.no  

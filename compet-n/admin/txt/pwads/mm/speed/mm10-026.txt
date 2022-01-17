@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+MM10-026.TXT
+
+ MM10-026.ZIP
+
+  MM10-026.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 10 - The Mansion
+
+  Kills      5%
+  Items      0%
+  Secrets    0%  and Time  0:26
+
+
+  Description :-)
+
+  Table filling...
+  This is also a Pacifist entry.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

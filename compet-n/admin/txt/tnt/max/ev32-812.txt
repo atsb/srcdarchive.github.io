@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-812.TXT
+
+ EV32-812.ZIP
+
+  EV32-812.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 - desynchs with Final Doom
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 32 - Caribbean
+
+  Kills    100%
+  Items     42%           
+  Secrets  100%  and Time = 08:12 
+                            -----
+
+
+Description: Anthony actually missed a monster in his run - the revenant at
+             the end, behind a fake wall. He also missed the megasphere,
+             though, so I guess that evens it out... This was a fun run
+             to get, the design of the level is very good, no surprises
+             it being a Casali level...
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

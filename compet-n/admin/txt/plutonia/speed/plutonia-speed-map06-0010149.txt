@@ -1,0 +1,13 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Speed
+Map: 06
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 25%
+Items    : 25%
+Secrets  : 16%
+Time     : 01:01.49
+
+Description: 
+2 second improvement, can still go further, but it takes quite some luck in the end.

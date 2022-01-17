@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m207-638.TXT
+
+m207-638.ZIP
+
+m207-638.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 07 - Frustration by David Kuykendall
+      
+Kills      100%
+Items       81%
+Secrets    100%	and Time - 6:38 
+
+
+Description:
+
+I skipped demons appearing until get ssg.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+05.03.2004

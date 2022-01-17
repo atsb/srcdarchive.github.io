@@ -1,0 +1,74 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M227-024.TXT
+
+M227-024.ZIP
+
+M227-024.LMP - Ultra-Violence Speedrun/Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos
+      
+Kills        1%
+Items        0%
+Secrets      0%
+
+              ++++++++
+  and Time -  + 0:24 +
+              ++++++++
+
+
+Description:
+
+[21:11] <Altima> Hiya Sedlo
+[21:12] <Sedlo> hey
+[21:12] <Sedlo> sup?
+[21:12] <Altima> Not much
+[21:12] <Altima> Do you still have Memento Mori 2 on your hard drive?
+[21:12] <Sedlo> hmmz, I think so
+[21:12] <Sedlo> tho I didn't loaded it in years I guess
+[21:12] <Altima> Do you know map 27 of it?
+[21:12] <Sedlo> :)
+[21:12] <Sedlo> nope
+[21:13] <Altima> Hehe, want a quick tour? ;)
+[21:13] <Sedlo> hmmz, sure
+[21:13] <Sedlo> ?
+[21:13] <Altima> Go download m227-028 by me :)
+[21:13] <Sedlo> ok
+[21:14] <Sedlo> red the txt
+[21:14] <Sedlo> now I'll check it out
+[21:14] <Altima> ^^
+[21:15] <Sedlo> hmmz, 26 optimum I guess
+[21:15] <Sedlo> what ya wanted to ask me?
+[21:15] <Sedlo> u used st50?
+[21:16] <Altima> That's kinda what I wanted your opinion on, was what you thought optimal would be
+[21:16] <Altima> In the long stretches yes, but the rest of it is normal straferunning
+[21:16] <Sedlo> I sed "I guess"
+[21:16] <Sedlo> I can't be too sure untill I try it
+[21:16] <Altima> Well, at least let me keep it for a bit ;)
+
+-------
+
+[21:18] <Altima> By the way, how did the demo look to you?
+[21:18] <Sedlo> good demo btw
+[21:18] <Altima> Thanks
+[21:18] <Sedlo> just try to make your moving more stable and you're on the road
+[21:18] <Altima> Vile had a heart-attack I believe when he first saw the :29
+[21:19] <Sedlo> but anyway you're on the right track
+[21:19] <Altima> Thanks
+[21:19] <Altima> Anyway, have fun DMing :)
+[21:19] <Sedlo> sure
+-------------------------------------------------------------------------------------------
+
+Well...;).
+
+What can I say really, thx goes to Altima ofcourse. Who actually intruduced me to this
+level. Heh, what can I say Altima, I would never upload this if I wouldn't consider it 
+a good time. Hope you got your answer and hope you won't mind me becouse of this. 
+
+
+Author:      Marijo "Sedlo" Sedlic
+E-mail:      msedlic@inet.hr
+

@@ -1,0 +1,28 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m215s228.lmp & m215s228.txt
+Date     : 2013-03-18 03:25
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : UV Speed (secret exit)
+Map(s)   : Map15: The Devils Coterie, by Adam Windsor (Capellan)
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    :  39%
+Items    :  22%
+Secrets  :  11%
+Time     : 00:02:28.97
+===================================
+Description:
+
+I let someone else do the normal exit (or both exits, since it's
+quite improvable). Why, oh why I insisted on killing that arch-vile
+before?
+
+===================================

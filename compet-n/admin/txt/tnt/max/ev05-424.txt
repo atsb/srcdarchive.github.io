@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV05-424.TXT
+
+ EV05-424.ZIP
+
+  EV05-424.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 05 - Hangar
+
+  Kills    100%
+  (Items    42%)
+  Secrets  100%  and Time  04:24
+                           -----
+
+Description: Well, this demo is not bad, but i think it shouldn't be any
+             problem to improve it. I was playing it for 20 mins.
+
+
+Author:   Radek "R.Master" Pecka
+E-mail:   r.master@email.cz
+Doompage: http://doomers.zde.cz
+

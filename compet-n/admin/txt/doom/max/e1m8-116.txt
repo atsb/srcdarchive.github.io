@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E1M8-116.TXT
+
+ E1M8-116.ZIP
+
+  E1M8-116.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Doom - Episode 1 Mission 8 - Phobos Anomaly
+
+  Kills     ??% 
+  Items    (??)	 
+  Secrets  100%  and Time   1:16
+			    ----
+
+Description: Some things has to work out if time is going to be good here.
+             The demons in the first room has to take heavy damage (most
+             of them should die). Its also important to use the barrels
+             in the "star-shaped" room to shave of some spectres. Of course
+             the exit-strafe is a "must do"....It's also smart to take some
+             damage from the last baron, so that the exit can finish you of
+             fast.
+  
+Author:     Anders Johnsen
+E-mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

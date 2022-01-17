@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM03n133.TXT
+
+MM03n133.ZIP
+
+MM03n133.LMP - Nightmare Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 03 - Interlock
+
+Kills       82%
+Items       66%
+Secrets      0%
+
+              ********
+  and Time -  * 1:33 *
+              ********
+
+
+Description:
+
+Now if you really want a difficult map for Nightmare, this is the
+map for you! It's slow in the beginning because I am NOT risking
+the health loss from the dual Shotgunners in the start. Once I pick
+up the Shotgun I kinda speed things up a little bit, until the Blue
+Key.
+
+This run is mostly luck in my opinion, I've spent quite a few hours
+on it. I had a run end when I was using the Chaingun on the last
+Demon in the level and he ate my bullets...and me...killing the both
+of us at the same time -_-'
+
+The run I guess was okay overall, I know this can be waaaaay faster,
+but I don't have the skill or ability to actually take the level at
+that speed. ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+23.04.2002

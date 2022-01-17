@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV04-036.TXT
+
+ LV04-036.ZIP
+
+  LV04-036.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 4 - "The Focus"
+
+  Kills     40%
+  (Items    47)
+  Secrets   33%  and Time  00:36
+                           -----
+
+
+Description: Wow! This took some time! This is probably one of the
+             most frustration levels in UV-speed there is...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

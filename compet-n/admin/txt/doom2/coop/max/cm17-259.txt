@@ -1,0 +1,41 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : cm17f259.lmp & cm17l259.lmp & cm17-259.txt
+Date     : 2013-09-06 12:44
+Game     : Doom 2 Hell on Earth
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP17: Tenements
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player 1 : Looper
+Country  : Finland
+-------------------------------------------------
+Player 2 : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  88%
+Secrets  : 100%
+Time     : 00:02:59.09
+===================================
+Description :-)
+
+Looper:
+Yay! Under 3 minutes. With low ping it wasn't too difficult. Only reason
+I kept going after the numerous failed jumps (I never get it right in
+multiplayer) near the spider was because the beginning went so fast.
+Sure the run can be done faster but the old record was 9:08... eww!
+Other than the jump, the run went just as planned, at least for fx.
+It was pleasure to play with him.
+
+fx:
+First exit was 3:40 but many times we made it around 3:10 so we  decided
+to go under 3:00 :) I think this route is still far from optimal but you
+will need strong nerves and patience to play.  Maybe there is some other
+route or trick to go through this map.  Looper is good coop player, nice
+teamwork, strong nerves :P Really close to beat 30uv coop run, 2:58 :)))
+Enjoy the demo and I hope more demos will come from two of us. :)

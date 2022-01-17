@@ -1,0 +1,12 @@
+This is a   Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+authors:    Arno Slagboom        (Indigo)             <slagboom@cybercomm.nl>
+            Marko van der Want   (Green)
+
+game:       Ultimate Doom
+
+category:   Coop Speed
+
+level:      E3M1
+
+time:       0:58

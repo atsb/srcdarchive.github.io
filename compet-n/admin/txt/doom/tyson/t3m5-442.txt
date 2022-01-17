@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+T3M5-442.TXT
+
+ T3M5-442.ZIP
+
+  T3M5-442.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  
+  DooM - Episode 3  Mission 5 - Unholy Cathedral
+
+  Kills    100%
+  (Items    31)
+  Secrets   40%  and Time  04:42
+                           -----
+
+Description: RL-matters sucks sometimes. Then it feels good to hide inside a 
+             nice Doom map and punch some baddies. I like this map. Dunno if
+             there is a better way through (probably?), but I was too tired
+             to watch .lmps now - so I just followed the maxkill route (Rini's)
+             and hoped for the best.
+
+Author:    Anders Johnsen
+E-Mail:    andersjohnsen@hotmail.com
+Doompage:  Still working on it :-)

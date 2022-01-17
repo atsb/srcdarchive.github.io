@@ -1,0 +1,70 @@
+﻿
+This is a Doom .LMP "Competition" Entry
+
+6027pl11.TXT
+
+ 6027pl11.ZIP
+
+  6027pl11.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file plutonia.wad -playdemo with version 1.9
+
+  The Plutonia Experiment – Episode 2 – UV Max
+
+Finally I have this done. Not so sure why it hadn't been done, the current 30plmax has pretty much the routes down so one can easily copy from Vincent Catalaa and do whatever. A bit slow, IMO, but it's a few minutes faster than the combined total of Vincent's run through those levels in his 30pl run.
+
+                            Time     Kills      Secrets 
+---------------------------------------------------------
+11 – Hunted                 3:59       77%        100%
+12 – Speed                  7:33      100%        100%
+13 – The Crypt              4:11      100%        100%
+14 – Genesis                3:50      100%        100%
+15 – The Twilight           4:45      102%        100%
+31 – Cyberden               5:02      100%        100%
+32 – Go 2 It               10:04      122%        100%
+16 – The Omen               3:51      109%        100%
+17 – Compound               3:27      104%        100%
+18 – Neurosphere            3:52      102%        100%
+19 – NME                    4:46      100%        100%
+20 – The Death Domain       5:07      102%        100%
+---------------------------------------------------------
+Total                    1:00:27
+
+11 – Hunted
+Nothing really interesting here, just me with my SSG and killing arch-viles. I had one failed attempt on this level where I actually shot one of the arch-viles with 3 SSG shots. That was a great moment.
+
+12 – Speed
+An annoying level in an episode run. This is because up to this point, you only have a BFG with little ammo, an SSG and a chaingun and no armor. You don't really have any ammo for your chaingun, so you have to be cautious and use the SSG. This was a struggle for me in practise because the part with 4 chaingunners would have them falling off when I used my rockets on them, but it didn't happen in Doom2.exe.
+
+13 – The Crypt
+For some reason, I ended up trying to ignore the lost souls at the beginning which led to me being annoyed by them later. The hardest part is the part with the arch-vile with those chaingunners. Everything else is trivial.
+
+14 – Genesis
+Nothing much to say except for the fact that I ended up getting so distracted by those arch-viles that somehow, I ended up missing the orange key. Grr.
+
+15 – The Twilight
+Faster than the 30pl run thanks to more aggressive tactics. I still have a lot of trouble trying to telefrag that mancubus. I never missed those secrets in my practise runs. However, in this run, I kept losing health due to me not noticing the chaingunners and there being no armor at the time. Good thing I figured out where those 2 missing monsters were.
+
+31 – Cyberden
+Quite a boring level with lots of backtracking to an area. This is actually faster than the 30plmax TAS by Light_Speed due to me having more cells and using them to two-shot the cybers. I end up losing most of my cells by the end of the level...
+
+32 – Go 2 It
+...rectified by the tons of ammo left at the start of this level. You're going to need them too, because this level is hard. My approach to the yellow key was way  too risky, but it seems I had no choice at that time. Good thing I manage to complete the level all on my first attemp through all the levels. Considering the strategies I used, I thought I would be really quick, but I only ended up 2 seconds faster than Vince in his run.
+
+16 – The Omen
+Not too bad. That huge revenant/mancubi horde ended up being easy due to the way I made my strategy. Wish I could say the same for the arch-viles. I ended up being low on cells near the end of the level and had to use rockets for the huge hitscanner frenzy.
+
+17 – Compound
+Trivial level. Ended up making the common mistake of forgetting to press the orange switch and ended up wasting time in the process.
+
+18 – Neurosphere
+Nice level to spam BFG and rockets on. I end up waking up the arch-vile early which led me to stress a bit. Bit of a brainfart as I almost forgot to use the red key.
+
+19 – NME
+Oh boy, this level again. Fortunately, having already acquired the BFG makes it less of a struggle having to reach in for it, so I could kill stuff already. The cyber was a bit of a struggle, but I was fine after. Good thing I went back to get the secret when I did because there was an imp there.
+
+20 – The Death Domain
+For some reason, I'm an idiot and end up waiting around and getting shot in the process. No big hassle considering I have the -respawn record for this level. I probably could've dealt with the barons easier had I not taken the invisibility. Also I decided to wait around a bit because the arch-vile misteleported and resurrected a couple of spiders like in Vince's run. I got everything here though.
+
+Author: Revved

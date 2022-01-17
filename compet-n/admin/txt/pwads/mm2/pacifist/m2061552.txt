@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M2061552.TXT
+
+ M2061552.ZIP
+
+  M2061552.LMP - UV pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 6 - Trapped
+        
+  Kills     35%
+  (Items    44%)          *********
+  Secrets   20%  and Time * 15:52 *
+                          *********
+                          
+
+  Description :-)
+    
+  I think this is not too difficult a map to do pacifist.
+  There are plenty of large monsters to take care of any
+  hitscanners, and more than enough health. It may be
+  possible the fast way, but probably would require an
+  extreme amount of luck, as UV speed is hard enough.
+  This demo contains an unintentional telefrag.
+  
+  Jim “Xit Vono” Leonard
+  xit_vono@yahoo.com

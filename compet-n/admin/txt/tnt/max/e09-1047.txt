@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV09-1047.TXT  (8 bytes: E09-1047)
+
+ EV09-1047.ZIP
+
+  EV09-1047.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 09 - Stronghold
+
+  Kills    100%
+  (Items    73)
+  Secrets  100%  and Time  10:47
+                           -----
+
+
+Description: There is not enough ammo. to use chaingun all the time.
+             But shotgun is useful too. Many places to hide, if you
+             are a coward (or want to reach the exit). There are many
+             chaingunners and seargents, but usually you are faster
+             than they are, or you can take a breath while they kill
+             each other.
+             Only an initial entry, hope there will be improvements.
+             Under 10:00 !
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

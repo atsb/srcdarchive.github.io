@@ -1,0 +1,19 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htpvr114.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 1:14, UV pacifist
+
+Author                  : Albert Valls
+Email Address           : vrmr@wanadoo.es
+
+Description             : Just wanted to try myself using some SR-50.
+			  Sorry Marko... :)
+                          
+************************************************************************

@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry
+
+037-N1M3.TXT
+
+ 037-N1M3.ZIP
+
+  037-N1M3.LMP - Nightmare
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 3 - Toxin Refinery
+
+  Kills     78%
+  (Items    44)
+  Secrets   71%  and Time  3:53
+
+  Maximum Minimum Health =  37 %
+                           -----
+
+  Description:  No great performance, but a lucky one, and ...
+                with the maximal Minimum Health I've ever seen in that level!
+                (and I really scanned the whole internet to find a safer one)
+                I played this just for fun and discovered later that this
+                recording is the "safest" one. That's why I wasted the
+                fantastic health of 53% at the imps near the supercharge so
+                carelessly.
+                I tried to get a safer recording afterwards, but luck was
+                against me.
+               
+                Try to beat that 37%!
+
+                Btw:
+                If you don't know how to determine the MMH, that's how:
+                Watch the health everytime the player takes damage, and take
+                the smallest value of the whole recording. If the player takes
+                no damage at all, the health at the exit counts.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

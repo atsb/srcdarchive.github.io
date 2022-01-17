@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL15s028.TXT
+
+ PL15s028.ZIP
+
+  PL15s028.LMP - Ultra Violence Secret exit
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 15 - secret exit
+
+  Kills      12%
+  Items       3%            +++++++++
+  Secrets     0%  and Time  + 00:28 +
+                            +++++++++
+
+Description: Ok Bastard, one more second to beat. :)
+
+
+Author:    Arno SlagDooM
+E-Mail:    arnoslag@bart.nl
+Doompage:  members.xoom.com/publicdang

@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M231S107.TXT
+
+M231S107.ZIP
+
+M231S107.LMP - Ultra-Violence Speedrun (Secret Exit)
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 31 - Dejavu
+      
+Kills       14%
+Items       18%
+Secrets     14%
+
+              ********
+  and Time -  * 1:07 *
+              ********
+
+
+Description:
+
+This is for the Secret Exit. I'm making that clear because I'm not really certain
+about how this is supposed to be named, so I'm taking Vono's advice on naming it.
+
+Under a minute would be a definate optimal, but 1:07 is pretty impressive...I had
+a few 1:12s and 1:16s that looked better than this, but still I'm happy ^_^
+
+The Yellow Key is mostly luck for me, as you have to get in and out before
+everything starts to teleport in. I want to thank Johnathan "Incubus" Scott for
+inspiring me to do this run with his normal exit speedrun.
+
+I think Nightmare and Pacifist would be possible, just a LOT of luck would be
+required for both of them ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+12.04.2002

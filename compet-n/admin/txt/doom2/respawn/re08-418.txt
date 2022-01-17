@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE08-418.TXT
+
+ RE08-418.ZIP
+
+  RE08-418.LMP - Ultra Violence with -Respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08 - Tricks And Traps
+
+  Kills    110%
+  (Items    80)
+  Secrets  100%  and Time  4:18
+                           -----
+
+  Description :
+  I've suggested this one as a real challenge for -RESPAWN 100%/100%.
+  Poeppy showed, that it's not that tricky as I thought.
+  Anyway - there are many parts which can go wrong ...
+  The major error I made in my first tries on this map was to visit
+  Cybie to early. The central room always gets crowded by barons
+  if you do so. Second error was trying to get the backpacks. That costs
+  lot's of ammo or lot's of time or both ...
+ 
+  Now to this recording:
+  First I don't chainsaw the baron because this takes too long.
+  Then I follow poeppy's route and luckily escape the respawning demons
+  after getting the BFG. Then to get the necessary kills I go to the
+  30 imps-room. Next is the painie-room. I tried to get out of there as
+  soon as possible, but I got stuck and nearly died in the lava ...
+  Then visit Cybie and got stuck again - and again it was close to death.
+  On the way to the red key card I improve my kill ratio and maybe I'm
+  wasting some time on that, but you never can tell before ...
+
+  Author:      Rini (Steffen Udluft)
+
+  E-mail:      rini@mppmu.mpg.de
+

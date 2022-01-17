@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PR21-235.TXT
+
+PR21-235.ZIP
+
+PR21-235.LMP - Ultra-Violence - Respawn
+
+Recorded using Final Doom Version 1.9 !
+Doom2 -file plutonia.wad -playdemo with Final Doom Version 1.9
+
+Final Doom: Plutonia Experiment - Level 21 - Slayer
+
+Kills    117%
+Items    (irrelevant)%
+Secrets    0%
+
+              
+  and Time -=2:35=-
+              
+Description :
+
+   First exit, too much overkill. Not much else to say. Should be fairly easy
+   to bring into sub 2:00 territory.
+
+   Recorded using Doom 2's doom2.exe. 
+
+Author:      Chris Laverdure
+E-mail:      dreamdestroyer@hotmail.com

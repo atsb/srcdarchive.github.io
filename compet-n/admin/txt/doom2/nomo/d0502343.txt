@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+05	23.43	I just wanted faster than czech-n
+
+
+Author:		Looper

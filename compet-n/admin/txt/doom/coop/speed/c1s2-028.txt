@@ -1,0 +1,12 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        Speed
+Map:             e1m2
+Players:         Adam Williamson, Tom Gregory
+
+Time:            0:28
+
+Player1:         Tom
+Player2:         Adam
+
+Comments:        Adam main player, Tom holds door.

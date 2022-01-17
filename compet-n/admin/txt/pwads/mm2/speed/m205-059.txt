@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M205-059.TXT
+
+ M205-059.ZIP
+
+  M205-059.LMP - UV speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 5
+
+  Kills      2%
+  (Items     1%)          *********
+  Secrets    0%  and Time * 00:59 *
+                          *********
+                          
+
+  Description :-)
+  
+  Damn, this was a lot harder than I expected it to be.  The
+  main difficulty here is getting the first jump on startup,
+  which is damn hard.  The jump is not so hard if you back up
+  a little and use strafe50, but this way you have to turn to
+  get it.  Then there are lots of other things which can go
+  wrong, like getting stuck by the imps, missing the switch
+  trick, or getting stuck by the end cacodemon.  I found that
+  a wake up shot makes it a bit more likely to get to the
+  switch cleanly.  Pacifist as well.
+  
+  Xit Vono
+  xit_vono@yahoo.com

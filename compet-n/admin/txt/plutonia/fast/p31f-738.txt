@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P31F-738.TXT
+
+ P31F-738.ZIP
+
+  P31F-738.LMP - Ultra Violence -FAST
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  Final Doom - Level 31 - "Cyberden" - Plutonia.wad
+
+  Kills   100%
+  (Items  100)            
+  Secrets 100%  and Time   7:38
+                           ----
+
+Description: Full credits go to Claudio and his 6:48 demo.
+	     Better bfg use could put this around 5:30, but 
+	     that would be herding the Cybers for a BFG or 2.
+	     I tried a speedrun on here, but once there are
+	     3 Cybers active it becomes very annoying.
+
+	     (this space for rent)   :P
+	     I'd like to say 'HI' to all the Compet-n players
+	     out there... especially Adam for his great job 
+	     running this thing.
+
+	     recorded with doom2 -file plutonia.wad
+	     but playsback with either.
+
+Author:    Doug Merrill
+E-Mail:    opulent@goodnet.com
+Doompage:  http://www.goodnet.com/~opulent/doom2.htm

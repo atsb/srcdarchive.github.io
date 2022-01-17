@@ -1,0 +1,37 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+PC31-031.TXT
+
+ PC31-031.ZIP
+
+  PC31-031.LMP - UV Speed
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 31
+
+              *********
+     and Time * 00:31 *
+              *********
+
+
+  Description :-)
+
+	Another old coop demo I dug up.
+
+        We a use here the cool coop trick found by Altima.
+	We just played a bit faster and I implemented 
+        a pl17-like death slide in the end.
+   	Archie was kind enough to play the famous role 
+        of the Wall :)
+
+	I got stuck here and there, so I guess under 28 is possible.
+
+  
+  Authors:
+  
+Pl1 :    Nicolas Gandou <nicodv@netcourrier.com>
+Pl2 :    Vincent Catalaa <vincentds@netcourrier.com>
+
+            

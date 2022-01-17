@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS18-924.TXT
+
+ RS18-924.ZIP
+
+  RS18-924.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 18 - Base of Thorn
+
+  Kills    176%
+  (Items    87%)          ********
+  Secrets  100%  and Time * 9:24 *
+                          ********
+                          
+
+  Description :-)
+  
+  I had generally assumed that this one would be impossible
+  to do based on the difficulty in UV, but I started playing
+  and found it to be quite possible. It isn't even that hard.
+  In retrospect, I probably should have skipped the bfg room
+  since the secret is at the beginning and you don't have to
+  teleport to get it. I died once trying to do the arch-vile
+  jump from there because I got stuck by an imp. This time
+  I didn't want to deal with the baron of hell so I chose
+  to go into the pit instead.
+
+  Xit Vono
+  Xit_vono@yahoo.com

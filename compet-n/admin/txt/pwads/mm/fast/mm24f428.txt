@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm24f428.TXT
+
+ mm24f428.ZIP
+
+  mm24f428.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 24 – UV Fast
+
+This isn't as hard as pf19, but it still is pretty hard, mainly due to all the cacodemons and pain elementals running astray. There are some route changes, like me not killing the guys in the BFG secret due to the mancubus killing the revenants, as well as a dramatic fight at the teleport to the exit room. I got really lucky because somehow, I got the pain elemental to infight with the cyberdemon, meaning I could safely two-shot him. Not only that, but in that time, I got to 6% health and still lived to get some cell packs and health. That megasphere secret can bug me with how it's accessed, but I managed it here. I saved a half-second by a chaingunner shooting me after I teleported before getting the megaarmor. 
+
+Author: Revved

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rq31s115.txt
+
+rq31s115.zip
+
+rq31s115.lmp - Ultra violence speed!
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 31 - Doorway to Quake by Iikka Keränen - Secret Exit
+
+Kills     64%
+(Items    50%)          
+Secrets  100%  and Time  01:15 
+                          
+
+Description:
+
+Heh, four useless viles.
+Must be under 1:00.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

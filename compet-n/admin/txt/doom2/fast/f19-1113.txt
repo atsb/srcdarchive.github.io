@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F19-1113.TXT
+
+ F19-1113.ZIP
+
+  F19-1113.LMP - Ultra Violence - FAST
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - "The Citadel"
+
+  Kills    100%
+  (Items    72)
+  Secrets  100%  and Time  11:13
+                           -----
+
+
+Description: Seems like it's impossible to open the "bars"
+             (at the end) from inside...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

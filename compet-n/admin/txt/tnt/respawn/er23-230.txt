@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ER23-230.TXT
+
+ ER23-230.ZIP
+
+  ER23-230.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File TNT.WAD -PlayDemo with Version 1.9
+
+  TNT Evilution - Level 23 - Lunar Mining Project
+
+  Kills      102%
+  Items      100%            
+  Secrets    100%  and Time: 2:30 
+                             ==== 
+
+  Description :-)
+
+  10th COMPET-N entry.
+
+  One of Evilution's better maps, I suppose. The first 
+  part is just like the max run, only you can skip some 
+  monsters (and fighting the Barons is just a waste of 
+  time). I came up with a clever trick down in the mine 
+  section, by the way: by pushing down the lift to the 
+  red key room, I could get a couple of free kills, since 
+  often a bunch of respawned monsters would be on it. Not 
+  so in this run, though. :-/
+
+  The ending is often completely insane, with respawned 
+  (and respawning) monsters everywhere. My idea was to 
+  just hang around close to the exit, and use the Arch-
+  Vile as help for some quick kills.
+
+  My first exit was a 3:02, and I gradually improved 
+  the time over a couple of runs, until I eventually got 
+  tired of improving it further. I'm still quite pleased 
+  with 2:30, though.
+
+  Kristian Ronge
+  zuckuss@gmail.com

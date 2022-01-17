@@ -1,0 +1,28 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+FA32-035.TXT
+
+ FA32-035.ZIP
+
+  FA32-035.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9 !
+
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 32 - Grosse
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time  00:35
+                           -----
+
+  Description :-)
+  
+  This beats the previous record by 2 seconds, the current UV Max
+  time by 1 second, and DL's old -fast time by 7 seconds.
+  
+  I like this map...
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

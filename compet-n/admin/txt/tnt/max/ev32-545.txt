@@ -1,0 +1,50 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-545.TXT
+
+ EV32-545.ZIP
+
+  EV32-545.LMP - Ultra Violence
+
+  Recorded using Final Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 32 - Caribbean
+
+  Kills    100%
+  Items     XX%           
+  Secrets  100%  and Time =  5:45 
+                            -----
+
+
+Description: Somebody tell me why when Radek decides to do a handful of EV 
+	     demos with improvements as little as 2 seconds (three of them
+	     beating Chris's records) and I do one substantial improvement
+	     of 1:05 and Chris decides to retaliate on me? Hehehe...
+
+	     I can't believe you were happy w/ 3 seconds over 6 minutes. 
+	     That's just begging to be put under 6. :-)
+
+	     18 seconds faster...only 18 seconds left to beat the TAS time
+	     (I haven't seen it yet). I could have been so happy with this 
+	     demo and finished with this map if it wasn't for the "close 
+	     your eyes" ending. The final battle went great and then I 
+	     botch reaching that stupid exit. That, and the fact that I
+	     over ran the last switch before the exit cost me about eight
+	     seconds.
+
+	     Most of Chris's new ideas I already had anticipated before I
+	     saw them. The demo was ten days old when I uploaded it so I
+	     already had some new strategies. If Chris can get a meaty
+	     improvement (10 seconds or more) I'll lay off. Sure, there 
+	     is under 5:30 and beating the TAS record but ... nah.
+
+	     BTW, I enjoy these demo-driven dialogues Chris. Hmm, which
+	     Ratcliff demo should I pick on next??? :-))
+
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

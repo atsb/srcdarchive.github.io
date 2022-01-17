@@ -1,0 +1,45 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE18-310.TXT
+
+ RE18-310.ZIP
+
+  RE18-310.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 18 - The Courtyard
+
+  Kills    105%
+  (Items    46%)
+  Secrets  100%  and Time  03:10
+                           -----
+
+
+  Description :
+  Hey, that was much easier than my old 3:32 entry -
+  looks like I'm getting used to the new controller config.
+  { can't he just STOP boring us with
+    this silly controller config stuff? } Ok, I'm sorry.
+  Now I wonder how long it will take 'til poeppy beats me again,
+  or maybe a .COM boy (and this extension surely matches Peo,
+  Yonatan and Istvan) plays this in 2:30 and ends our "private"
+  competition.
+  I haven't played for COMPET-N for quite a while, so now I really
+  like chatting in the descripion.
+  Btw: there is a new mode of doom playing - the "Pacifist" style.
+  This is completing a level on UV without harming any monster.
+  Stupid stuff? No not at all, there already exist some templates
+  in COMPET-N/speed e.g. Anthe's lv24-48 or an "unbeatable" record
+  from the master himself e1m4-024. It's quite amazing how many maps
+  are possible in pacifist style. I only mention pa06 by Kai-Uwe,
+  p4m8 (yes, the spider must be dead!) by the Tyson-expert Patrick
+  Martin, p1m9 by Yonatan, pa14 by Istvan, pa09 by Peo ...
+ 
+ 
+  Author: Rini (Steffen Udluft)
+
+  E-mail: rini@mppmu.mpg.de 
+

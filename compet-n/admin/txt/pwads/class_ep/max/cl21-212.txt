@@ -1,0 +1,32 @@
+************************************************************************
+LMP Title (if any)	: Classic Episode map1 UV max run
+Filename                : clm1-212.lmp
+LMP Version             : 1.9
+Game                    : Ultimate Doom
+Pwad(s)                 : Class_Ep.wad
+Map Level(s)            : E2M1
+Skill                   : 4 (Ultra Violence)
+Length                  : 2:12
+
+Author                  : Anthony Soto
+Email Address           : neworderdatabase@hotmail.com
+Webpage                 : http://thefish.8m.com/
+************************************************************************
+
+Description             : 100% kills and 100% secrets on Ultra Violence.
+
+Just a starter run by me in my own map. I got this after a couple tries.
+It also shows how I thought (or designed) the map to be played. I guess
+optimal time (or very good atleast) would be around 1:40. Hopefully this
+submission will encourage people to make demos for this and other maps
+of the Classic Episode and also to encourage people to write descriptions
+in their textfiles (heh heh). You know, what you like/didn't like about 
+the map [hint hint].
+
+I would write what I did/didn't like but it's my own map. So I am forced
+to like/hate everything about it. hehe
+
+Recorded on December 26, 2000
+
+
+

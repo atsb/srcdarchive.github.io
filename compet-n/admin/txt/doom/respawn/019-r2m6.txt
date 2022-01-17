@@ -1,0 +1,42 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+019-R2M6.TXT
+
+019- R2M6.ZIP
+
+  019-R2M6.LMP - Ultra Violence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  Doom -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  Episode 2 - Shores of Hell
+
+  Mission 6 - Halls Of The Damned
+
+  With "-Skill 4 (and) -RESPAWN
+
+  Kills    127%
+  (Items    67)
+  Secrets  100%  and Time  8:37
+
+  Maximum Minimum Health =  19 %
+                            ----
+
+     Description:
+
+     I think this map is particular well designed, because it pays to get
+     every secret and to visit every room. Each of them contains at least
+     one goodie. I'm sure that someone will proove me wrong and make this
+     with something like 80% just blazing through this level ...
+
+     This recording is my free interpretation for my DHT6 D1M exam and wasn't
+     really played for neither speed nor safty, but I think it's ok as an
+     initial efford.
+
+     Author:  Rini (Steffen Udluft)
+
+     E-mail:  rini@mppmu.mpg.de
+
+

@@ -1,0 +1,36 @@
+P2M5s055.TXT
+
+ P2M5s055.ZIP
+
+  P2M5s055.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.2 Mi.5 - Secret Exit
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  00:55
+                         -----
+
+  Description: Lucky
+
+  I really don't know where this came from!
+  I was looking through the pacifist table when I spotted the
+  old secret time for this level.
+
+  "That seems a bit slow," I said to myself and I loaded up the
+  level.  Anyway, after a few tries I was having trouble getting
+  the pack of demons out of the switch room.  This attempt was
+  just a practice at first, I was just messing about (which is why
+  I start opening the doors in the marble area) and suddenly I
+  managed to get the switch and complete the level in 0:55!
+
+  I guess I was pretty lucky with this one, but I haven't bothered
+  trying to optimise it.  I expect a 0:45 is possible, probably less,
+  so what are you waiting for?  Go for it! ;-)
+
+  Jonathan Rimmer
+  jon@rimmer.demon.co.uk
+    

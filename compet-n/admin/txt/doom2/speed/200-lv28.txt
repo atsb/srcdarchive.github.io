@@ -1,0 +1,11 @@
+200-LV28.LMP --> MAP28 on UltraViolence
+---------------------------------------
+
+  Kills   : 14% 
+  Items   : 36% 
+  Secrets : 28%
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Robert Reevy <drparadox@usa.net>

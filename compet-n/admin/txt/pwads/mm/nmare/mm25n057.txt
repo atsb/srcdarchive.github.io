@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM25n057.TXT
+
+MM25n057.ZIP
+
+MM25n057.LMP - Nightmare Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 25 - Cesspool
+
+Kills       17%
+Items       40%
+Secrets     16%
+
+              ********
+  and Time -  * 0:57 *
+              ********
+
+
+Description:
+
+Nice map to play on Nightmare, not really difficult, but not
+really easy either.
+
+This time definately isn't optimal, but it is for me! I don't
+think I can take my time down much farther to really count.
+My guess would be somewhere around 30 seconds or below would
+be optimal. ^^
+
+The only problem I have with this level is all the visual
+problems when you're going through the slime and stuff. Very
+annoying at times... >.<
+
+This run won't last too long before someone beats it will be
+my guess...
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+28.04.2002

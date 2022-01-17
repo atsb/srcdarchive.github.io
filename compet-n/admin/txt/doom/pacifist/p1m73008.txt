@@ -1,0 +1,67 @@
+This is a DooM .LMP "Competition" Entry
+
+P1M73008.TXT
+
+ P1M73008.ZIP
+
+  P1M73008.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    81% !!!
+  (Items   76%)
+  Secrets  75%   and Time  30:08
+                           -----
+
+    Description: From the time I recorded p1m3 I knew that p1m7 must be
+                 possible too. I had one try almost reaching the red key,
+                 but this demo, not even reaching the red key, already
+                 lasted for half an hour and so I decided that it is
+                 absolutely crazy to keep on trying ...
+
+                 ... but I could not forget it and a month ago I tried it
+                 again. To my surprise everything was much easier compared
+                 to my first tries - and much faster.
+
+                 In fact it was even FUN. (I know nobody believes this ;-)
+                 And then finally I made it the whole way, and if you watch
+                 it you will see that it even looks rather simple.
+              
+                 Use -timedemo or dtime /e to watch that recording,
+                 unless you are a complete pacifist freak.
+
+                 Now there are only very few "out of the base" maps left
+                 in COMPET-N:
+               
+                 ep4-nm         the D1S challenge
+                 t4m6           the ultimate tyson challenge
+                 pa29           the ultimate pacifist challenge
+                 pa17           "impossible"
+                 pa26           "impossible"
+                 t4m7           maybe even harder than t4m6
+                 t4m2           this is definitely easier than t4m6 or t4m7
+                 pa02           is this really not possible?
+                 p1m6           the one I would try next (if I would try any)
+                 p4m1           "impossible"
+                 t2m9           who wants to try this?
+               
+                 Most of those will propably never be completed,
+                 but I'm pretty sure that some of them will.
+
+            BTW: I did not mention p3m6-normal_exit and pa15-normal_exit,
+                 because IMO recordings which are only done to the other
+                 exit don't have that flair of someting completely new.
+                 But with Panters try in mind I think that pa15-normal_exit
+                 is more likely to be done than any of the recordings listed
+                 above.
+
+            PS: I consider p2m9, p3m1, p3m9, p4m6, pa07, pa30, ty30
+                not even possible when using all cheats you can think of.
+
+        Author: Steffen "Rini" Udluft
+
+        E-mail: rini@mppmu.mpg.de
+

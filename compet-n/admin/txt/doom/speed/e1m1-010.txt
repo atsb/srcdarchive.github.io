@@ -1,0 +1,28 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M1-010.TXT
+
+ E1M1-010.ZIP
+
+  E1M1-010.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Ep.1 Mi.1 - Hangar
+
+  Kills     13%
+  (Items     2%)
+  Secrets    0%  and Time  00:10
+                           -----
+
+  I think 10 seconds is the optimal time for E1M1 (without cheating of
+  course). I haven't been able to break it even with -nomonsters.
+
+
+ L.Kirby
+
+ fred@genesis.demon.co.uk
+

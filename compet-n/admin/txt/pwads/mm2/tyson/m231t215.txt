@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m2s1t215.TXT
+
+ m2s1t215.ZIP
+
+  m2s1t215.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad mm2info.wad -playdemo with version 1.9
+
+  Memento Mori 2– Secret Map 1 – UV Tyson
+
+Same route as Max, only with pistol. Pretty short map overall. Could be under 2:00. I think it's unlikely that Pacifist will be possible.
+
+Author: Revved

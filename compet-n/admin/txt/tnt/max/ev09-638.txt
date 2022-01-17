@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV09-638.TXT
+EV09-638.ZIP
+
+EV09-638.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 09 - Stronghold
+
+Kills    100%
+Items     46%           
+Secrets  100%  
+
+   ...and Time  6:38
+               ------
+
+
+Description: I'm pretty satisfied with this demo. Still room for improvement,
+	     but it'd take a couple tries, unless it's someone like Anders
+	     Johnsen. Fun map, the textureing at the start is terrible though,
+	     but it gets better.
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

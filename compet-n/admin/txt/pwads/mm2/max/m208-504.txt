@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m208-504.TXT
+
+m208-504.ZIP
+
+m208-504.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 08 - Stigmata by Denis Moeller
+
+Kills     100%
+Items      37%
+Secrets   100%  and Time - 5:04
+
+Description:
+
+The exit scene of this map contains the most annoying teleport among wide-known megawads. Well, may be except imps' teleporting in Pathos.
+I have 18 exits faster than Peo's time with 99% kills including 4:57 and 4:59. The route was taken from Peo Sjoblom's demo.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+05.09.2004

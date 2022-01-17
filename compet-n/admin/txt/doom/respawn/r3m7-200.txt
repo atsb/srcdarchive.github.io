@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M7-200.TXT
+
+ R3M7-200.ZIP
+
+  R3M7-200.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    105%
+  (Items    87)
+  Secrets  100%    and Time  02:00
+                             -----
+
+Description: Marko phoned me tonight, saying that he was about to beat
+             my 2:04, with a time under 2 minutes. So I decided to train
+             a bit today. In my best try, I got exactly 100% kills (checked
+             with Boom.exe), but fell off the exit platform. The time would
+             have been about 1:54. I am not finished here! :)
+             
+ 
+Author:    Arno "SlagDooM" Slagboom
+Mailto:	   arnoslag@bart.nl
+Doompage:  http://members.xoom.com/publicdang

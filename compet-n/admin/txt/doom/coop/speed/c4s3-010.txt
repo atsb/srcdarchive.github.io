@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+C4s3-010.TXT
+
+ C4s3-010.ZIP
+
+  C4s3a010.LMP
+  C4s3m010.LMP
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m3 - Sever The Wicked
+
+           Kills    Items   Secrets
+
+  Green      00       00       00      Marko
+  Indigo     00       05       00      Arno
+
+  Time:    0:10.31
+
+
+Comment:     Vincent and Nicolas' 0:10 was actually a 0:11.00 so we decided
+             to beat it. It's not as fast as the single player record, but there are some 
+             extra barrels around the exit in coop. Never knew why. :)
+      
+     
+Green:       Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:      Arno SlagDooM                (arnoslag@bart.nl)
+  

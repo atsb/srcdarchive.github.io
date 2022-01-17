@@ -1,0 +1,38 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm.wad                                  |
+            | Filename: mm03t351.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP03 - Interlock                  |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     77%           ********         |
+            |      Secrets  100%  and Time * 3:51 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I have several ambitious (over-ambitious?) tasks pending and in order  |
+| to avoid frustration (no idea when they can be finished) I chose sth   |
+| easy (I am completing MM records tables at the moment and yes, I use   |
+| too many brackets). Second exit, nothing special.                      |
+|                                                                        |
+| A very good map for Tyson IMO.                                         |
+|                                                                        |
++========================================================================+

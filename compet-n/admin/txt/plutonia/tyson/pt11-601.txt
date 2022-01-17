@@ -1,0 +1,59 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PT11-601.ZIP
+
+ PT11-601.LMP
+
+  PT11-601.TXT -UV TYSON!
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills       77%
+  (Items      93%)           ********
+  Secrets    100%  and Time  * 6:01 *
+                             ********
+  C-N entry #8.         Date:04/06/2011
+
+  Description :)
+  Aww, yet another record on my favorite map in The Plutonia Experiment. I
+  mite get a record for this map in all eight COMPET-N categories... but I
+  doubt that as I do not enjoy playing UV or MN Speed though watching them are
+  quiet enjoyable epically when they do the whole episode, or better yet,
+  the full game. But anyways, just like my PF11-244 run for this map, I did
+  not intend to brake a record, and actually, this is my first time getting
+  out alive in this level with just my fist wile killing all those sweet
+  little monsters than I just wanted to cuddle with all day. But in all
+  seriousness, this is easily beatable. When I first did this and realized it
+  was a record, I quickly made sure that I did not fire off thy BFG at the and
+  as I normally shoot it off in glory, because that would make this demo
+  invalid for the UV TYSON category in COMPET-N. Another thing is that My
+  rout is slower than Tatsurd-cacocaco's but I abuse SR50 like usual and there
+  for it is faster. Plus, I am much more aggressive than Tatsurd-cacocaco was
+  but he could easily beat this and probably will, just like the HR17-622
+  indecent. This demo demo was record just after I replaced my 6 month
+  old AA batteries for my wireless logitech mouse and it made it vary
+  sensitive and since I don't use NOVERT.COM and I do not use the option in
+  DM015.COM that acts like NOVERT (Except on maps were the slightest vertical
+  movement in the mouse can kill you such as Level 24 - THE CHASM in
+  DOOM2.WAD), so I awkwardly jerk forward or backward a lot. Oh, and one more
+  thing, this is my first (and probably last) C-N entrie for UV TYSON so don't
+  expect much more of these.
+
+  [Btw, 77% kills is maximum on this map (in UV) with out going to the exit on
+  the right and with out the "-respawn" parameter.]
+
+  
+  By the way, COMPET-N record was 6:18 by taster-cococo.
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

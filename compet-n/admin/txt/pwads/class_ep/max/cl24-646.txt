@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL24-646.TXT
+
+ CL24-646.ZIP
+
+  CL24-646.LMP - Ultra Violence !
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M4 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 06:46 
+                            
+                          
+
+  Description: Medium-quality run of this level. I got the monster
+               teleporter working fairly early as the monsters sometimes
+               take a while to get in...
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

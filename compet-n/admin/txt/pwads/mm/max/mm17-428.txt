@@ -1,0 +1,20 @@
+This is a Doom Compet-N lmp.  Please forward it.
+
+MM17-428.LMP
+
+Game:      Doom 2 Memento Mori 
+Map:       17
+Skill:     UV
+Category:  Speed 
+
+Time:      4:28
+
+Author:    Erwin Lin
+Email:     dragonknight_zero@hotmail.com
+
+Comments:  This isn't a good level for speeding through though
+plotting a route was fun.  Limited health and no armor until the end
+if one wants to be fast.  I was definitely lucky in the yellow key 
+area.  (see mm17-454.lmp included in the zipfile for what usually
+happens)  No special tricks other than to not blast the barrel that
+one Mancubus is placed too close to.  Anyways, enjoy.

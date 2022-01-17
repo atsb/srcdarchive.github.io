@@ -1,0 +1,19 @@
+PA08-040.TXT
+
+ PA08-040.ZIP
+
+  PA08-040.LMP - Ultra Violence and Pacifist
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:40
+                           -----
+
+  Description:  [ None received. ]
+           
+       Author:  Steffen Udluft

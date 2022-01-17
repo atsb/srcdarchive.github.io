@@ -1,0 +1,36 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm14-340.lmp & mm14-340.txt
+Date     : 2013-10-25 23:59
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : UV Max
+Map(s)   : Map14: Aquaduct by Tom Mustaine
+Skill    : 4
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  75%
+Secrets  : 100%
+Time     : 00:03:40.63
+=========================================================================
+Description:
+
+Old records:
+
+10:26 by Michael "Migru" Grube
+ 6:02 by Yonatan Donner
+ 4:22 by stx-Vile
+ 4:00 by Ryback
+ 3:42 by stx-Vile
+
+I was tired, there are lame parts here and there... but it was very
+difficult for me to score this. A demo with 1 missed spectre and a time
+of 3:33 makes me a bit less satisfied than normally.
+
+129th Compet-N entry

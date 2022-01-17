@@ -1,0 +1,20 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htp-232.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 2:32, UV pacifist
+
+Author                  : Adam Williamson
+Email Address           : adam.williamson1@btinternet.com
+
+Description             : Just another 5 secs. Some silly mistakes still,
+                          and, I miss the exit turning first time (doh),
+                          but archvile couldn't have attacked earlier :)
+                          
+************************************************************************

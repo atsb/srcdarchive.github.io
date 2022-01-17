@@ -1,0 +1,64 @@
+This is a Doom .LMP "Competition" Entry - Please forward it.....
+
+30UV2659.TXT
+
+ 30UV2659.ZIP
+
+  30UV2659.LMP - Ultra Violence!
+
+
+  This is a Compet-N/Doom2/MOVIE
+  -------------------------------------------
+  Recorded using Doom2 Version 1.9 - Only
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DoomII - Levels 1-30  
+  --------------------
+  LV01 - 0:06 :|   
+  LV02 - 0:52 :)   
+  LV03 - 0:35 :|    
+  LV04 - 0:36 :))    
+  LV05 - 0:30 :)   
+  LV06 - 1:08 :|   
+  LV07 - 1:01 :)   
+  LV08 - 0:39 :(    
+  LV09 - 1:07 :|   
+  LV10 - 0:41 :)    
+  LV11 - 1:05 :(   
+  LV12 - 0:51 :)   
+  LV13 - 1:36 :(    
+  LV14 - 0:51 :|    
+  LV15 - 0:39 :|   
+  LV31 - 0:35 :)   
+  LV16 - 0:41 :(   
+  LV17 - 1:57 :))   
+  LV18 - 0:26 :)    
+  LV19 - 0:53 :|   
+  LV20 - 0:43 :| 
+  LV21 - 0:50 :)   
+  LV22 - 0:45 :))
+  LV23 - 0:57 :)    
+  LV24 - 0:43 :))    
+  LV25 - 0:51 :)   
+  LV26 - 0:52 :)   
+  LV27 - 0:30 :))))   
+  LV28 - 0:59 :|    
+  LV29 - 2:14 :)   
+  LV30 - 0:46 :)    
+  ---------------
+
+   ...and time 26:59
+              --------
+
+  Hehe, can't believe when I look at the total time. I have to say this 
+  is not the record, so I will not annoy you with long TXT, but still it's
+  the second fastest 30uv, just 2s slower than Drew "stx-vile" DeVore.
+  I guess this is the first 30uv with implemented map27 Archie trick.
+  The trick wasn't planned when I started, but after screwed up map13 
+  I decided to go for it to gain some extra seconds. My goal for 30uv
+  was to get below 28min, but 26? Oh...just a dream. Maybe Vile will show
+  us a 25min demo now..who knows...  
+
+
+  Radek Pecka
+  r.master@email.cz

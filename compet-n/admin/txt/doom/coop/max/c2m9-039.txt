@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+C2M9-039.TXT
+
+ C2M9-039.ZIP
+
+  C2M9-039.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Ep.2 Mi.9. - Fortress of Mystery
+
+          Kills    Items   Secrets
+
+  Green     57%      50%     100%      Adam
+  Indigo    35%       0%       0%      Waldon
+
+              *********
+     and Time * 00:39 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+  
+  If the barons stay close enough,
+  it's just a matter of seconds to kill them all.
+  That's very rare though, so my part is far from perfect.
+
+  [ Adam : ]
+  
+  This is pretty hard to optimize... we split up
+  the ammo and the tasks, Waldon fights the barons,
+  I battle the cacos while getting the keys.
+  There's still lots of improvement left...
+  
+  Authors:
+  
+  Laszlo Vecsei
+  waldon@doom2.net
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

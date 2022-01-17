@@ -1,0 +1,31 @@
+
+PA22-103.TXT
+
+ PA22-103.ZIP
+
+  PA22-103.LMP - Pacifist Style !
+
+  Recorded using Doom2 Version 1.9
+
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 22 - The Catacombs
+
+  Kills     39 %
+  Items     14 %            *********
+  Secrets  100 %  and Time  * 01:03 *
+                            *********
+
+  Description:
+
+  This was hard. Henning's old run was not very
+  fast, but this is the first time I actually
+  managed to survive the whole run. There is an
+  unintentional telefrag (revenant) in here, I'm afraid.
+
+  Squeezing through the bars would be faster, I guess,
+  but I didn't have any luck with that trick, so this
+  run uses the blue key.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

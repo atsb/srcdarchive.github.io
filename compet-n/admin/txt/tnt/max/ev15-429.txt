@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV15-429.TXT
+
+ EV15-429.ZIP
+
+  EV15-429.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 15 - Dead Zone
+
+  Kills    101%
+  Items     69%           *********
+  Secrets  100%  and Time *  4:29 *
+                          *********
+
+
+Description: 
+
+The best, most playable, TNT map of all.
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

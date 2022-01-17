@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV31-029.TXT
+LV31-029.ZIP
+
+LV31-029.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 31 - 
+
+Kills     16%
+(Items     0)
+Secrets    0%  
+		  -------
+   ...and Time    |00:29|
+                  -------
+
+
+Description: 	I'm not good with these descriptions, so I keep track of my own results and progress.
+		I saw the trick total of 10 times out of 726 attempts, but died or the run was
+	     	already ruined before I get to the door trick. Got 25 times 30seconds.
+             
+Author: Looper

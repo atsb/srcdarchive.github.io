@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+RE11-215.TXT
+
+ RE11-215.ZIP
+
+  RE11-215.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 11 - Circle Of Death
+
+  Kills    101%
+  (Items    76%)
+  Secrets  100%  
+
+       ...and Time       02:15
+                        -------
+
+Description:  As Henning said 2:10 is possible. I got 2:11 twice, but i'm 
+              leaving this now....
+
+
+       
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz
+

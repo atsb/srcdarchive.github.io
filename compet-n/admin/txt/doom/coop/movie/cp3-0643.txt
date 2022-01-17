@@ -1,0 +1,32 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+Green:      Marko van der Want <markowant@freemail.nl>
+Indigo:     Arno Slagboom      <slagboom@cybercomm.nl>
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie - All levels including Secret Level
+            
+level:      Episode 3 - Inferno
+            
+stats:      
+
+   Level       Time   
+                        
+----------------------
+   E3M1        0:49     
+   E3M2        0:22
+   E3M3        0:35 
+   E3M4        1:15 
+   E3M5        0:37
+   E3M6        0:15
+   E3M9        1:24     
+   E3M7        1:12     
+----------------------
+   E3M8        0:14  
+----------------------
+   Total       6:43     
+
+
+	Wow, everything went great, except for some misunderstandings 
+        in the later levels. Anyway, almost a minute under ViNi's time!

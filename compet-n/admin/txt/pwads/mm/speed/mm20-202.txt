@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM20-202.TXT
+
+MM20-202.ZIP
+
+MM20-202.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 20 - Mountain Depot
+      
+Kills       37%
+Items       20%
+Secrets     33%
+
+              ********
+  and Time -  * 2:02 *
+              ********
+
+
+Description:
+
+Nice level to speedrun in my opinion.
+
+I had a few problems running this, as near the end my keyboard does
+something funny and I try running into a wall ^^'
+
+This could go below 2 minutes definately, even faster if it's possible
+to leave the Megasphere/Invulnerability combo out of it...but that
+would make it a much harder run ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+27.04.2002

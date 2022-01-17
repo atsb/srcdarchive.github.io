@@ -1,0 +1,27 @@
+ This is a DooM .LMP "Competition" Entry
+
+m204n227.TXT
+
+ m204n227.ZIP
+
+  m204n227.LMP - Nightmare
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - - Level 04 - Ratamahatta by Florian Helmberger
+
+
+  Kills     30%
+  Items     37%
+  Secrets    0%  and Time  2:27
+
+
+  Description
+
+It's third time when I reached second teleport. Tag 39 fails to reveal the monsters at first time.
+Second time I was killed by an imp. This is third time. Well, the demo is extra slow but I have no time to improve it at this moment. Btw Xit beat my run easily.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+14.01.2007

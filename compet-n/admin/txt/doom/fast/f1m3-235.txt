@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+f1m3-235.zip
+
+ f1m3-235.lmp -md5sum a621da4dd8cba0ae5bc2832e97e4c2ca
+
+  f1m3-235.txt -Ultra-Violence -fast
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Knee-Deep in the Dead - Toxin Refinery
+
+  Kills:  131 / 131 (100%)
+  Items:   46 / 95  (48%)            ********
+  Secrets:  7 / 7   (100%) and Time  * 2:35 *
+                                     ********
+  C-N entry #75.	Date: 2015.12.31
+
+  Description :)
+  I've held on to this since October 25. I wanted to do better.
+  I just don't have the time to play Doom anymore. I hope players
+  continue to submit entries to Compet-n, and I hope CNDoom fares
+  well. This may be my last entry. I've said that before and
+  obviously I've been wrong and I may be wrong once again, but I
+  possess a sad degree of certainty this time.
+
+  Doom has meant a lot to me. Compet-n has meant a lot to me.
+  Thank you, fx, for maintaining such a great legacy. My
+  adolescences has been spent competing for this site.
+  I really can't thank you enough.
+
+  By the way, COMPET-N record was 2:44 by me, dated:
+  2015-10-03.
+
+  Complete Historic COMPET-N Leaderboard:
+   10:46 - Andy Olivera   - 1996-06-04
+    5:15 - Peo Sjoblom    - 1996-06-18
+    3:45 - Thomas Zajic   - 1996-07-04
+    3:41 - Peo Sjoblom    - 1997-03-27
+    3:16 - Anders Johnsen - 1998-09-04
+    3:09 - Radek Pecka    - 2000-11-19
+    3:04 - Radek Pecka    - 2001-09-14
+    2:44 - Archy          - 2015-10-03
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

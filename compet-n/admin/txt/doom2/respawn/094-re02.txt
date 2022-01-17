@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+094-RE02.TXT
+
+ 094-RE02.ZIP
+
+  094-RE02.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02 - "Underhalls"
+
+  Kills     95%
+  (Items    90%)
+  Secrets  100%  and Time  02:50
+
+  Minimum Maximum Health =  94 %
+                           -----
+
+  Description:  Sorry to beat you with just one percent improvement, poeppy!
+		But I just couldn't resist. I take seven hits, but with some
+		luck they all didn't count too much.
+		BTW: One of the REAL champions has played this map already
+		with more than 100% minimum health, but wasn't contempt with
+		the lmp. Mr. Perfect - I guess ;-)
+		As poeppy stated in his previous record:
+                
+		> i think i took at least 10 hits in this demo, so i'd
+                > love to see someone playing this -respawn without
+                > taking any damage at all. that person must be the
+                > ultimate cornerinspector! :-)
+
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de

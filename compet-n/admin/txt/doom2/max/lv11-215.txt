@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+lv11-215.txt
+lv11-215.zip
+
+lv11-215.lmp 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2 - Level 11 - Circle of Death
+
+----------------
+Kills      100%
+Items       66%
+Secrets    100%
+
+   ...and time  02:15
+               -------
+
+Description: Getting pretty tired here of the endless tries needed 
+	     to get the proper infights going. I've had lots of 
+	     tries ending at 2:12 and 2:13 with 97\98% kills, so 
+             getting below 2:10 should be pretty challanging I think. 	             Good luck to anyone that gives it a try. Also, thanks 
+             to stx-Vile for his lv11-217 demo, there sure are easier
+	     records to take on :-) 
+
+Date: 20.03.2003
+
+Author: Henning Skogsto
+E-mail: skohen@nith.no

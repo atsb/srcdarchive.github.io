@@ -1,0 +1,38 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE18-311.TXT
+
+ RE18-311.ZIP
+
+  RE18-311.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 18 - "The Courtyard"
+
+  Kills    100% (!)
+  (Items    46%)
+  Secrets  100%  and Time  03:11
+                           -----
+
+
+Description:  this is it. my final contribution to map 18 -respawn.
+              the fastest time i ever archived when playing for 100%
+              kills and secrets.
+
+              and again i did it with exactly 100% kills. well, maybe
+              after all this 98% crap, the doom-engine realized that i
+              truely deserve it... :-)
+
+              all went tremendously well until the bfg-room. that
+              second caco wanted to play. so i gave him something
+              to play with: a rocket at zero distance, me dropping
+              from 100/102 health/armour down to 14/60. thought it's
+              time for the megasphere after that... :-)
+
+
+     Author:  thomas "poeppy" kroppen
+
+     E-mail:  poeppy@aol.com

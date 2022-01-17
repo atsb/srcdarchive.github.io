@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+Ep1Mi8-U.TXT
+
+ Ep1Mi8-U.ZIP
+
+  Ep1Mi8-U.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 ?
+
+  DooM - Ep.1 Mi.8 - Phobos Anomaly
+
+  Kills      ?%
+  Items      ?%
+  Secrets    ?%  and Time  01:25
+                           -----
+
+  Description:
+
+  Motivation:
+   My COMPET-N points decrease more and more. I think it's time to
+   stop this trend.
+
+  Level choosing:
+   Unfortunately I didn't beat a "non-german-speaking" player (I beat
+   Thomas Zajic actually (by 14 sec)) but I really had to increase my own
+   points to keep ahead of Steffen, who did his final victory (32 levels
+   DOOM ][ in NightMare!). Furthermore I like the "Knee deep in the dead"
+   levels best.
+
+  Time calculation:
+   I took the time (1:25) out of the .LS file, created with my well known
+   LMPC tool. The last action game tic was 2984 (1min 25.25sec).
+
+  The recording itself:
+   I was very lucky, that I never had to run around the level for more
+   ammunition. One of the Spectres almost killed the second Baron of Hell.
+   This gave me at least 10 seconds. Thank you again from this point.
+
+
+ Uwe Girlich
+
+ girlich@aix520.informatik.uni-leipzig.de
+
+

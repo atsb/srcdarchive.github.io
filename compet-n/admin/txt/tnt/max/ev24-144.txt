@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV24-144.TXT
+
+ EV24-144.ZIP
+
+  EV24-144.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 24 - Quarry
+
+  Kills:   100%
+  Items:    28%
+  Secrets: 100%
+  
+
+              *********
+  and Time (: * 01:44 * :)
+              *********
+
+
+  Description:
+
+  I was bored today, and tried this map again a few times. It took me about 40 minutes
+  to get it. Not a really good demo, I think 1:3x is possible on this route. After
+  that 1:52, I just had to do a faster one.
+
+  
+Author: Laszlo Vecsei <waldon@doom2.net>
+30.12.2000.

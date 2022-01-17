@@ -1,0 +1,32 @@
+| This is a Compet-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : TN02-138.LMP and TN02-138.txt
+Date     : 2018-2-3
+Game     : TNT: Evilution (TNT.WAD)
+Client   : DOOM2.EXE (Final Doom)
+Category : Speed
+Map(s)   : MAP02: Human BBQ
+Skill    : 5 (Nightmare)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 76%
+Items    : 0%
+Secrets  : 0%
+Time     : 1:38
+===================================
+Description: One of the hardest maps in all of Final Doom, period. Just the second map in TNT: Evilution and already
+it puts some of the hardest maps of the other three IWADs to shame. You pretty much have to pray on luck to go fast
+and not die since in some runs you may have high health but you lose all the health in no time, other times you have
+low health then the run seems hopeful then you die for whatever reason there might be. The last part of the map is
+kind of easy compared to the other parts, well assuming you have enough health since chances are you will get shot
+at by many hitscanners though I suppose that is expected. Really, the parts that bring the most pain is trying to
+get out of the room with the Pinky Demons and Pain Elemental and trying to get the yellow keycard, since unless
+you are lucky to survive, if by any chance say enemies respawn in the most unforunate of ways (for you), the run
+is pretty much screwed from there.
+
+On the bright side, this map isn't so long, but that still doesn't make it any easier, doesn't help that the later
+Episode 1 levels of TNT: Evilution are even worse.

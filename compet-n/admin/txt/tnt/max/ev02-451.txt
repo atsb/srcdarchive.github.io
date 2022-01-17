@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV02-451.TXT
+
+ EV02-451.ZIP
+
+  EV02-451.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 02 - Human BBQ
+
+  Kills    100%
+  Items    100%           
+  Secrets  100%  and Time = 4:51 
+                          
+
+
+Description: And another '97 TNT demo bites the dust...
+
+             This is hard when you're going fast, with lots of shot-firing
+             enemies, little health and none of the big weapons. My strategy
+             was to kill the chaingunners first, shotgunners second, troopers
+             third, and then leave everything else unless I have to. Later on
+             strange things happened and I got lost, so ten seconds can be
+             made up easily. 4:30 will be harder.
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

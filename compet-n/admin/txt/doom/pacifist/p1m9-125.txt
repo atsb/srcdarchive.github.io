@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+P1M9-125.TXT
+
+ P1M9-125.ZIP
+
+  P1M9-125.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Kills     27%
+  (Items    27%)
+  Secrets   50%  and Time  01:25
+                           -----
+
+  Description:  Watch my health ;-)
+
+           PS:  Sorry to upload a corrupted ZIP-file before.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

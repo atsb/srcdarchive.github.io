@@ -1,0 +1,40 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq291313.lmp & rq291313.txt
+Date     : 2013-04-06 18:24
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV Max
+Map(s)   : Map29: Downer, by Adam Williamson
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  70%
+Secrets  :  50%
+Time     : 00:13:13.17
+===================================
+Description:
+
+Apologies to Jonas for erasing his only C-N point. His demo is
+simply outstanding. Watch him beating four revenants much nicer
+than me. That demo has been also an almost 16 years old record ...
+
+In such a long run something usually goes wrong, one part of another.
+In this demo, at least, I can blame the mapper for his faulty
+teleporter, as one baron way too late was the biggest problem here.
+
+Mind that I don't see spectres at all in certain areas.
+
+AdamW's magnum opus (as a mapper) is not THAT great, but hey, there
+are no old school maps such as this anymore. For example, that item
+placement, including health bonuses here and there is awesome :)
+Also, the area with an arch-vile, 2 hell knights, 2 revenats, 2
+cacos, 2 PEs, 4 mancubi and the BFG is greatly designed.
+
+===================================

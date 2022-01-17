@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N1M5-207.TXT
+
+ N1M5-207.ZIP
+
+  N1M5-207.LMP - NightMare!
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 5 - Phobos Lab
+
+  Kills       87%
+  (Items      68)
+  Secrets     66%    and Time 02:07
+                            -----
+
+Description: This comes almost 18 months after Anders' n1m5-215, and I
+             guess he is right in saying that this map can be completed
+             on nm in under 2 minutes. Notice how I just miss the lift to
+             the invisibility and have to call it back down again - this
+             probably cost about 5 seconds. It might even be possible to
+             skip the soul sphere and save another 5 seconds or so.
+
+             I first completed this map on nightmare just over three years
+             ago and I've had a knack for it ever since.
+
+Robert Reevy <iudex@usa.net>

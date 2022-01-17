@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+RE241339.TXT
+
+ RE241339.ZIP
+
+  RE241339.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 24 - The Chasm
+
+  Kills    115%
+  (Items    65%)
+  Secrets  100%  and Time  13:39
+                           -----
+
+  Description:  This one has been MUCH harder than I had expected.
+                I tried to play it faster and always ran completely
+                out of ammo. It's not too easy to score 100% kills
+                then. The way to avoid these problems is to do a lot
+                of boxing.
+                Btw:
+                Watch the skull triggering the elevator in the red
+                key room. I don't press all switches to get the key,
+                but it's easier to do it the conventional way, because
+                one has better control over the demons.
+                What more to say - hmmm, "I hate those ledges ..."
+ 
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

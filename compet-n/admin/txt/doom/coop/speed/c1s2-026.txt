@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c1s2-026.txt
+
+ c1s2-026.zip
+
+  c1s2-026.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E1M2
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+  Time:    0:26
+
+
+
+Vincent:  Bad demo but the end sequence is too luck dependant.
+Selim  :  Really a lame demo indeed ... just part of a "beating Arno
+          and marko" session ;)
+
+     
+Green:       Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:      Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+  

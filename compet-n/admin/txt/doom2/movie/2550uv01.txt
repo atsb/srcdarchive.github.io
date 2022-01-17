@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+
+  2550UV01.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/Movies Entry... 100% Kills & Secrets
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1" - Levels 01 thru' 10
+
+                                            
+              Time   Kills Secrets
+
+  LV 01  -    0:51   100%   100%
+  LV 02  -    1:24   100%   100%
+  LV 03  -    1:27   100%   100%
+  LV 04  -    1:13   100%   100%
+  LV 05  -    2:54   100%   100%
+  LV 06  -    2:57   100%   100%
+  LV 07  -    1:30   100%   100%
+  LV 08  -    3:39   100%   100%
+  LV 09  -    4:46   100%   100%
+  LV 10  -    5:09   100%   100%
+
+             TOTAL TIME =   25" 50
+                           --------
+
+Description :-)
+
+[ Admin note: This demo is taken from one of Radek's unfinished 30uvmax
+  attempts. In the first 10 levels, Radek beat his own record of 01-10 max
+  by more than 2 minutes. ]
+  
+Author:      Radek Pecka
+
+E-mail:      r.master@email.cz

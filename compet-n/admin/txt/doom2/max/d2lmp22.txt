@@ -1,0 +1,41 @@
+
+D2LMP22.TXT
+
+LV22-455.TXT
+
+ LV22-455.ZIP
+
+  D2LMP22.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.7
+  & Converted to Doom2 Version 1.9
+
+  Doom2 -PlayDemo with Version 1.7
+
+  Doom2 - Level 22 - The Catacombs
+
+  Kills    100%
+  (Items   100%)
+  Secrets  100%  and Time  04:55
+                           -----
+
+  Description :-)
+
+  Taken, with permission, from Ian Jefferies series of Doom 2 .LMP's
+
+  Each starting with only a pistol, 50 bullets and 100% health [ and
+  no armour ] on the Ultra-Violence skill level [ with most ] ending
+  with 100% [ or more ] monster kills and 100% secrets found.
+
+    The rest in the series may be obtained by anonymous FTP from :
+
+    ftp.cdrom.com  [ plus it's mirrors ]  as  path...  D2LMP??.ZIP
+
+    [ path... unknown, look for a  "lmps/doom2/ver17"  directory ]
+
+
+ Ian Jefferies
+
+ jeffers@vax.ox.ac.uk
+
+

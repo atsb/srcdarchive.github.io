@@ -1,0 +1,18 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop tyson
+mission:  map32
+
+time:     0:42
+
+Vincent:  it was fun to do... below 40 would be very hard to beat
+          we decided to do that when we seen Radek/method demo in incoming :P
+
+xit-vono: The Cyber died quite fast, but the ending is not good.
+          It should be fairly difficult to beat though.
+
+          

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV16-254.TXT
+
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 16 - "Suburbs"
+
+
+  Kills   102%
+  Secrets 100%	and Time   02.54
+                           -----
+
+Description:
+
+A very nice map. Could still go faster here obviously. I'm pretty sure I
+killed everything - checked with iddt.
+
+Ian Sutton
+bx880@torfree.net
+
+
+

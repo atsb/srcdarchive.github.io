@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+P16F-521.TXT
+
+ P16F-521.ZIP
+
+  P16F-521.LMP - Ultra Violence - Fast Monsters!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 16 - The Omen
+
+  Kills    104%
+  Items    100%            *********
+  Secrets    0%  and Time  * 05:21 *
+                           *********
+
+
+
+Description: Quite easy level, the Revenent+Mancubus trap
+	     can sometimes be quite hard, besides of that
+	     rather easy level...	
+	     The end is a bit caotic, but the BFG helps a 
+	     lot..
+
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     
+

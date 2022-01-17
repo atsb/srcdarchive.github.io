@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/doom2" Entry - Please forward it...
+
+LV07-054.TXT
+
+ LV07-054.ZIP
+
+  L7Dev54a.LMP - Ultra Violence (Skill 4)
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - Dead Simple
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  00:54
+                           -----
+
+
+Description             : 100% Items/Kills/Secrets Skill 4 (Ultra V.)
+
+Additional Credits to   : Danny for the competition, and Pigman for
+                          starting me on this speed kick.  (P.S. Danny
+                          also has 54 seconds and the fastest times I
+                          have ever seen levels 1-6)
+
+Author                  : Vincent E Smith (a.k.a. Devereaux)
+
+Email Address           : vin-devereaux@msn.com
+
+Misc. Author Info       : U.S. Air Force in England, RAF Alconbury.
+
+

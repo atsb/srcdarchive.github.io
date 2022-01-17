@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E3M9-226.TXT
+
+ E3M9-226.ZIP
+
+  E3M9-226.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno  Mission 9 - Warrrens
+ 
+  Kills    100%
+  (Items    66%)		   	
+  Secrets  100%  
+
+           ... and Time  02:26
+                         -----
+
+  Description: 
+
+  The demo coulda been better, but I made too many little mistakes,
+  which cost me a lot at the end. Any further improvements are 
+  possible, of course.  Joe, your turn now. ;)
+     
+   
+
+  Radek Pecka
+  r.master@email.cz

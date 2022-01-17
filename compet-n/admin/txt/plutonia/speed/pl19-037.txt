@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+PL19-037.TXT
+PL19-037.ZIP
+
+PL19-037.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 19 - NME
+
+Kills     23%
+Items      0%
+Secrets    0%
+Time      :37
+         ----
+
+Description:
+Entry #13, keeping track for seemingly no reason.
+
+This map can be irritating to run.  The archvile and yellow key may not
+rise sometimes, the monsters beyond the yellow door may block the way out,
+or the cyberdemon will react too quickly.  All in all, this was improved
+by a comfortable margin.
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

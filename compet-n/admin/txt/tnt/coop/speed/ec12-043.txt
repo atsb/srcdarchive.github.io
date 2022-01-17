@@ -1,0 +1,28 @@
+This is a DooM .LMP UV-speed "Competition" Entry - Please forward it...
+
+ec12-043.TXT
+
+ ec12-043.ZIP
+
+  ec12-043.LMP - uv speed and pacifist
+
+  Recorded using doom2 1.9 -file tnt.wad ! 
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: evilution - Level 12
+
+      Kills     ?? %
+      Items     ?? %            
+      Secrets   ?? %                       
+              *********
+     and Time * 0:43  *
+	      *********
+
+   Descriptions
+
+   Method    (indigo): -------*------------------------------------*-----------------
+     
+   Matej      (green):  --------/------------------------------------/-----------------
+                
+  Jakub "method_man" Razak <dale007@volny.cz>
+  Matej Razak              <matejR@seznam.cz>

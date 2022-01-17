@@ -1,0 +1,51 @@
+Runner: Hi Jango
+Date: 2016-09-05
+IWAD: DOOM.wad
+Category: UV-Speed
+Map: Episode 3 (E3M1-E3M8)
+Source Port: Competition Doom v2.0.3.2
+Time Without M8: 3:44 (03:46.66)
+Time With    M8: 4:29 (04:31.89)
+
+----------------------------------------------------------------
+Level			Map	Time		ep3-0347
+
+Hell Keep               E3M1 -	0:33		+0:03
+Slough of Despair  	E3M2 -	0:15		-0:01
+Pandemonium  	        E3M3 -	0:26		-0:03
+House of Pain 		E3M4 -	0:42		-0:01
+Unholy Cathedral	E3M5 -	0:26		-0:00
+Mt. Erebus 	        E3M6 -	0:26		-0:00
+Gate to Limbo 	        E3M7 -	0:56		-0:01
+Dis 		        E3M8 -	0:45		-0:10
+----------------------------------------------------------------
+			TOTAL -	4:29		-0:13
+E3M8 comparison is not relevant. E3M1-E3M7 time is improved by 3 seconds.
+
+Description: 
+I completed episode three back in 2005 and wrote i would give this one another shot if anyone managed to improve the time so here it is!!!
+
+
+
+E3M1: This map is very frustrating and not exactly ideal to speedrun through.  My best time is 32 but i usually end up with 33-35.  I accepted that my run would
+already be 3-5 seconds slower than Zero-Master's time because my skills on this map are not so good :) 
+
+E3M2: Nice map to speedrun on although the lost souls near the exit may sometimes block you.  Best time here is a high 14 but it's quite difficult to get
+
+
+E3M3: It's 50/50 if you get blocked by monsters at the mega armor area, and it definitly sucks if you do.  The majority of my attempts have ended on this map because i pretty much have to get a good time here to compensate for E3M1.  I copy zero-master at the end here and switch to a different weapon in preperation for the next map.
+ 
+E3M4:  The hardest thing about this map is the keygrab through the wall.  You can attempt to grab the key twice and still manage 42 seconds.  I managed to grab the key
+on the first try but i still got 42 :/ 
+
+E3M5: 26s is not the best time but it's decent i guess
+
+E3M6: 25s would be ideal here but that requires alot of luck depending on how well you manuever/clear the monsters in the bluekey room
+
+E3M7:I get blocked by a pig here and lost a second.. on well
+
+
+E3M8: :O
+
+
+Enjoy!

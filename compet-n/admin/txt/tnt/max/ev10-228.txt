@@ -1,0 +1,43 @@
+| This is a Compet-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ev10-228.lmp, ev10-228.txt & ev10-228.jpg
+Date     : 2016-11-24 20:44
+Game     : Final Doom - TNT: Evilution
+EXE      : Doom II v1.9
+Category : UV-Max
+Map(s)   : MAP10: Redemption
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : Justin Baliao
+Nickname : tinotormed
+Country  : Philippines
+Email    : justinbaliao@yahoo.com	
+WWW      : http://www.youtube.com/channel/UC88vplWgds4i4Ua-2bJMDIA
+Facebook : http://www.facebook.com/justinbaliao
+Twitter  : https://twitter.com/tinotormed (although I'm not that much active there :p )
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 20%
+Secrets  : 100%
+Time     : 00:02:28.37
+===================================
+
+Demo played back with cndoom v2.0.3.2 to get the exact time.
+
+2nd Compet-N gold get!
+
+Never knew I could do this as well on the original executable, but my fingers had  hurt a bit from
+holding down the 'Run' button. :P
+
+A second of improvement from what I have done from my CN-Doom demo, had to  do  the  same strategy
+involving rounding-up the Pain Elementals, Revenants and Arachnotrons with a bit of luck involving
+damage count because it is often that you would notice that PEs would summon Lost Souls and get in
+the way but managed to sweep it out. A bit of close calls going around here and there, but grabbed
+the red key safe and sound.
+
+Also managed to have enough cell ammo left to use for the Plasmagun just to  sweep  the  remaining
+monsters at the yellow and red key rooms. Got lucky that I managed to use my plasma ammo  for  the
+baron as it is the monster that consumes the most time to be killed with the  Super  Shotgun  as I 
+left the map with 8% health photo-finish.
+
+Previous record is from Radek Pecka with a time of 2:39.

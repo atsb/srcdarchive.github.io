@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+0711nm01.TXT
+0711nm01.ZIP
+
+0711nm01.LMP - Nightmare!
+  
+This is a Compet-n/Doom2/Movie entry...  
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level's 01-10 run done nightmare style...
+
+------------- compet-n record
+lv01 - 0:05        0:05
+lv02 - 1:01        0:45
+lv03 - 0:33        0:25
+lv04 - 0:36        0:55
+lv05 - 0:37        0:27
+lv06 - 1:05        0:56
+lv07 - 1:01        0:48
+lv08 - 0:28        0:20
+lv09 - 1:06        1:35
+lv10 - 0:39        0:30
+--------------
+Time  07:11 
+                  
+Comments: We'll see if this brings Henning out of 
+retirement...
+
+Credits to:
+God for talent
+Henning for routes
+Vince for map06 route
+
+Date: 2.9.2003
+
+Author: Juho Ruohonen
+E-mail: ocelot_78@hotmail.com

@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV17-320.TXT
+EV17-320.ZIP
+
+EV17-320.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 17 - Processing Area
+
+Kills    101%
+Items     47%           
+Secrets  100%  
+
+   ...and Time  3:20
+               ------
+
+
+Description: Nice map, small and fun. Spent about 20 minutes with this demo,
+	     can still be improved quite a bit, i think... anyway, giddy up.
+	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

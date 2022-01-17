@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ30-021.TXT
+
+ RQ30-021.ZIP
+
+  RQ30-021.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 30 - Nevermore
+    
+  Kills     29%
+  (Items    25%)          *********
+  Secrets    0%  and Time * 00:21 *
+                          *********
+                          
+
+  Description :-)
+  
+  Very easy ending map, just run, get the rocket launcher and blow the "power
+  source".
+
+  Yonatan Donner
+  zem@planetquake.com

@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV-.TXT
+
+ LV-.ZIP
+
+  LV-.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level xx - Level Name
+
+  Kills    100%
+  Secrets  0%  and Time    02:54
+                           -----
+
+
+Description:
+
+I take a slightly different route at the start here, going straight
+for the teleporter.  If you do this, make sure you get the shells by
+the revenants or you'll run out!  The only annoyance here is that
+baddies teleport all over the place, but I think it's faster.  Sometimes
+you can get lucky and start a monster fight between a Mancubus/Revenants,
+and occasionally telefrag revenants if you're fast enough.
+
+The second difference is in the endgame.  I cross over to get the
+rockets first, instead of leaving them like Daniel does.  I also
+leave the blue key.
+
+
+Author:      Ian Sutton
+
+E-mail:      isutton@idirect.com
+

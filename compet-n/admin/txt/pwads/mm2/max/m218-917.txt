@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m218-917.TXT
+
+m218-917.ZIP
+
+m218-917.LMP - Ultra-Violence max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 18 - Regulate by Matthias Worch
+      
+Kills      99%
+Items      50%
+Secrets   100%	and Time - 9:17
+
+
+Description:
+
+Got this unexpectedly easy.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+16.01.2010

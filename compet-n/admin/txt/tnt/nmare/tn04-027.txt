@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN04-027.TXT
+
+ TN04-027.ZIP
+
+  TN04-027.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 
+
+  Final Doom - TNT Evilution - Level 04 - Wormhole
+
+  Kills     18%
+  Items      0%           
+  Secrets    2%  and Time = 0:27 
+                          
+
+
+Description: First try...
+             Maybe possible without killing the shotgunners at the start.
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

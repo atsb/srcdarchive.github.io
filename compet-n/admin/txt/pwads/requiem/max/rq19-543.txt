@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ19-543.TXT
+
+ RQ19-543.ZIP
+
+  RQ19-543.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 19 - Skinny Puppy
+
+  Kills    100%
+  (Items    45%)          *********
+  Secrets  100%  and Time * 05:43 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is a great map with beautiful architecture and fun fights, which 
+  shouldn't be surprising since this is an Adelusion map. This is not a hard 
+  map, but it can become so if you go through the wrong doors at the beginning. 
+  You also have to be careful with the pillars at the end: I do it without 
+  taking any chances in this demo.
+
+  Rudy Jurjako
+  rudyj@total.net

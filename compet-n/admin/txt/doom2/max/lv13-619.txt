@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/doom2" Entry - Please forward it...
+
+LV13-619.TXT
+
+ LV13-619.ZIP
+
+  LV13-619.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - Downtown
+
+  Kills    100%
+  (Items    40)
+  Secrets  100%  and Time  06:19
+                           -----
+
+
+Description: Shaved another 3 seconds off the old time.
+             But I think it should be more around 6:00.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

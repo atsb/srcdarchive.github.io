@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+155-NM30.TXT
+
+ 155-NM30.ZIP
+
+  155-NM30.LMP - Nightmare!
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom ][ - Level 11 - Icon Of Sin
+
+  Kills    200%
+  Items     33%
+  Secrets    0%
+  Time	  0:45
+		    ********
+and Max/Min health: * 155% *
+		    ********
+
+Description:	Got this LMP on my attempt to improve the nm30-105 (I still
+		had a nm30-046 in my Nightmare! collection, but that was not
+		one with a perfect route. With one miss my best time was 0:44.
+		I had another thought for an improved /built, maybe if there
+		was first an Archvile to appear, you don't have to be on the
+		column but can jump 3 times, and would that be faster?
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

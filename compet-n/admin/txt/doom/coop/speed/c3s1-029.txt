@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed
+mission:  e3m1
+
+time:     0:29
+
+Vincent:
+
+xit-vono:  A route improvement here made this possible.
+
+
+          

@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M218N741.TXT
+
+ M218N741.ZIP
+
+  M218N741.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 18 - Regulate
+
+  Kills    104%
+  (Items    25%)          ********
+  Secrets   50%  and Time * 7:41 *
+                          ********
+                          
+
+  Description :-)
+  
+  This is definitely a frustrating map. It seems like it
+  shouldn't be too hard, but for some reason it took a
+  while for me to complete. I think perhaps 2 reasons
+  for that are a lack of armor and many possibilities
+  for monsters to respawn and cause trouble. I suppose
+  it would have been nice to know about that medikit
+  secret while I was recording, although in this demo I
+  didn't need it. In fact I would suppose that to make
+  it 100% secrets wouldn't require too much more effort,
+  but that's for another day. Btw, I have a demo where I
+  got to the yellow key with plenty of health, and while
+  descending down the stairs towards the exit I encountered
+  a pig and at that time my mouse spun out of control,
+  causing the player to be chewed to death. I figured that
+  if my mouse had worked properly there then I would have
+  finished the map, as I expected to pass the end room on
+  the first try. It turns out I was right, although things
+  got a little dicey with my nerves and not having practiced
+  it before. 
+
+  Xit Vono
+  Xit_vono@yahoo.com

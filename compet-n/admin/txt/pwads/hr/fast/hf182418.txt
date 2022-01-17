@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF182418.TXT
+
+ HF182418.ZIP
+
+  HF182418.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 18 - Hard Attack     
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 24:18
+
+                          
+  Description:  I like this strategy for killing the Cyber, very non-labor
+                intensive for the player... Tried to push this for time,
+                but there's obviously a few more seconds to be pared down.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

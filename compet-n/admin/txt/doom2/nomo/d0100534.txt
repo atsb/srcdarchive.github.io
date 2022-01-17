@@ -1,0 +1,10 @@
+author:         Adam Hegyi
+
+game:           Doom2
+category:       nomonsters
+mission:        map01
+
+time:           0:05.34
+
+
+comments:       It wasn't that easy...

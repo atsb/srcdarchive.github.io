@@ -1,0 +1,31 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+es16-139.TXT
+
+ es16-139.ZIP
+
+  es16-139.LMP - Nightmare with 100% Secrets!
+
+  Recorded using Doom2.exe
+
+  doom2.exe -playdemo -file tnt.wad with doom2 ver. 1.9
+
+  Kills      41%
+  (Items     8%)            *********
+  Secrets    100%  and Time * 01:39 *
+                            *********
+ 
+  Description :-)
+
+  Woo! Another point!!
+
+  This is Xit Vono's route done faster.
+
+  If you want to see a really nice nightmare secrets run here,
+  you should check out Dashiva's 1:44 (es16-144.zip). It uses 
+  a slightly less efficient route, but, it's just great. I could 
+  not come close to Dash's time on that route, even in godmode.
+  He spent a lot of time on it too.
+
+  BahdKo
+  bahdko@erols.com

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV09-131.TXT
+
+ LV09-131.ZIP
+
+  LV09-131.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 09 - The Pit
+
+  Kills     23%
+  (Items    23)
+  Secrets    0%  and Time  01:31
+                           -----
+
+
+Description: Pretty easy to "run through" without weapons...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+E3M7-134.TXT
+
+ E3M7-113.ZIP
+
+  E3M7-113.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.3 Mi.7 - Limbo
+
+  Kills     13%
+  (Items     0)
+  Secrets    0%    and Time  01:13
+                             -----
+
+  Description:  Well, that recording is an accident. I just tried to beat
+                Andy Badorek's pacifist record. Yes, I made it, and if you
+                remove Uwe's 1:08 which looks unbeatable w/o cheating -
+                then this recording is the fastest so far.
+                It does not look good at all, and surely will be beaten
+                quickly. Most annoying is that I loose one second because
+                I do not hit the exit with the first try :((((((
+                At least it is played with "pacifist style".
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+
+

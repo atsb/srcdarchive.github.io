@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+154-RE20.TXT
+
+ 154-RE20.ZIP
+
+  154-RE20.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - "Gotcha!"
+
+  Kills     38%
+  (Items    37%)
+  Secrets   42%  and Time  03:14
+
+  Minimum Maximum Health = 154 %
+                           -----
+
+  Description:  get the rad-suit without damage, and your up on
+                200% health. how low you drop depends normally *)
+                on the position of the chaingunner in the lowering
+                sector area. i can't see any chance to avoid hits
+                in this area. rest is easy, no further damage.
+ 
+                *) in this demo the minimum health is right after
+                   the fall at the stairs. damned lost soul!
+
+
+       Author:  Thomas "Poeppy" Kroppen
+
+       E-mail:  poeppy@aol.com

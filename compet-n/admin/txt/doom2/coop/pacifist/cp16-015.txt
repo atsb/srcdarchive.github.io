@@ -1,0 +1,25 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cp16-015.txt
+
+ cp16-015.zip
+
+  cp16a015.lmp
+  cp16m015.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 16 - Suburbs
+  Cat:     pacifist
+  Time:    0:15
+
+
+Marko:   Erhhh.. I am horney at the moment. :)
+
+Arno:    Bah. 
+
+main:	 Same demo as speed.    
+Green:       Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:      Arno SlagDooM                (arnoslag@bart.nl)
+  

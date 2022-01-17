@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm03f124.TXT
+
+mm03f124.ZIP
+
+mm03f124.LMP - UV -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 03 - Interlock by Tom Mustaine
+      
+Kills      100%
+Items       44%
+Secrets    100%	and Time - 1:24
+     
+
+Description:
+
+Pretty chaotic run. First exit under DeDo's time.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+27.10.2007

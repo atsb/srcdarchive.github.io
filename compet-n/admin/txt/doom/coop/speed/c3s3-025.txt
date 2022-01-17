@@ -1,0 +1,35 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c3s3-025.txt
+
+ c3s3-025.zip
+
+  c3s3-025.lmp UV Speed
+
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E1M1
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Selim
+  Indigo    ??%      ??%      ??%      Vincent
+
+
+  Time:    0:25
+
+Description :
+
+     I'll quote Arno & Marko : "Optimum time should be 0:26".  Funny, heh ? :)
+     Another map that benefits from having 2 players.
+     The time is still far from optimal, but I really can't do the lift trick.
+
+
+
+
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

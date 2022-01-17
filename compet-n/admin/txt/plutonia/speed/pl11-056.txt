@@ -1,0 +1,37 @@
+This is a DooM .LMP "COMPET-N/fdoom/speed" Entry - Please forward it...
+
+PL11-056.TXT
+
+ PL11-056.ZIP
+
+  PL11-056.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills      0%
+  Items     81%           ********
+  Secrets    0%  and Time * 0:56 *
+                          ********
+
+
+  Description :-)
+
+  Kai wrote:
+
+  > Maybe this map could be done one second faster,
+
+  Yeah...
+
+  This came quite easy... It's kinda awful compared to Kai's LMP,
+  because I used the bug which doesn't release all the arch-viles
+  INTENTIONALLY. So I can run without having to avoid the archies.
+  Much easier.
+  
+  Though I haven't beaten this time even with -nomonsters, one more
+  second seems possible.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

@@ -1,0 +1,42 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : f4m9-219.txt, f4m9-219.lmp
+Date     : 2015-11-09 
+Game     : The Ultimate Doom 
+Client   : doom.exe v1.9
+Category : Fast
+Map(s)   : E4M9: Fear
+Skill    : 4 (UV Fast)
+-------------------------------------------------------------------------
+Name     : Chris Ratcliff
+Nickname : Ryback
+Country  : Australia
+Email    : ryback@gmail.com
+WWW      : youtube.com/user/rybacksda
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 28%
+Secrets  : 100%
+Time     : 00:02:19
+===================================
+Description:
+Haven't been playing much Doom lately, but seeing Archy recording all his 
+UV -fast records just gave me the urge to join in. Bit of a shame that
+the record I chose was one of mine, but it really was dire and in major
+need of improvement. Hopefully a 47 second improvement is worth it.
+
+It's strange, I've always thought of this level as one of the most 
+frustrating to try and play -fast style, with 360 degree attack fields 
+for most of the level's duration and lost souls everywhere. Yet this 
+didn't take long at all and I got into the level's rhythm very quickly.
+You still need a good deal of luck, but only at a few points, while the
+rest is consistent and repeatable. This run went very well, the only major 
+problem being the need to kill the imp down in the pit (sometimes he'll 
+be killed for you) while a lost soul was distracting me. Probably lost
+about 3 seconds there. Still, equalling the max record isn't too shabby.
+
+
+Previous records:
+F4M9-306.zip - Chris Ratcliff - 2000.11.16	
+F4M9-310.zip - Anders Johnsen - 1999.04.09	
+F4M9-637.zip - Steffen Udluft - 1999.03.21	

@@ -1,0 +1,11 @@
+N1M2-045.LMP --> E1M2 Nightmare!
+--------------------------------
+
+  Kills   =  31%
+  Items   =   4%
+  Secrets =   0%
+  TIME     = 00:45
+
+Comments: There was no record for this level, so I had a go at it.
+
+Robert Reevy <drparadox@usa.net>

@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cn06-125.txt
+
+ cn06-125.zip
+
+  cn06v125.lmp  
+  cn06z125.lmp  Nightmare !
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP06
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim	
+    
+  Time:    1:25
+
+
+Selim   :  First try .. table filling again :)
+Vincent :  eh eh, yeah this demo sux. But, hey, there are no entries :)
+
+
+Green:       Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:      Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+

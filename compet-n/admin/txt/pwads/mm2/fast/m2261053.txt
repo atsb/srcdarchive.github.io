@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m2261053.TXT
+
+m2261053.ZIP
+
+m2261053.LMP - Ultra-Violence Max -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 26 - Base Exposure by Mark Klem
+      
+Kills     100%
+Items      94%
+Secrets    85%	and Time - 10:53
+
+Description:
+
+I've tried to play some -fast for this level and surprisingly got 11:38 with slow beginning. This time comes along after forty minutes.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+06.03.2008

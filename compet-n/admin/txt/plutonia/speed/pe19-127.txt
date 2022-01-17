@@ -1,0 +1,36 @@
+This is a Final DooM .LMP "Competition" Entry - Please forward it...
+
+PE19-127.TXT
+
+ PE19-127.ZIP
+
+  PE19-127.LMP - Ultra Violence
+
+  This is a Compet-n/Fdoom/plutonia/fast 
+  Entry...
+
+  Recorded using Final Doom Version 1.9
+  Doomf -PlayDemo with Version 1.9 - Only
+
+  Final Doom: Plutonia - Level 19 - NME
+
+     Kills       31% 
+     Items      100%
+     Secret     100% and Time  01:27
+                               -----
+     
+ Description : I like this level - it has a LOT of big fights. The best bits 
+               are escaping the first arch-vile ... just, mincing the 2nd 
+               arch-vile, and fighting the cyber in "pandemonium". The end
+               has a 1 in 20 survival rate .... - Dont you just love suicidal
+               lmps!!! - The way I do it, reminds me of Daniel's first pe15
+               with -fast monsters ... absolute carnage!! At the start I
+               again use the pe28 trick.
+               You waste time taking the soulsphere & mega-armour at the
+               start, but Id like to see someone beat this time ... without
+               taking them!! - the invisibilty actually is vital, but you
+               never notice it while you're fighting.
+
+
+ Author : Michael Greenslade  3rd March 1997
+ Email  : 9506025m@levels.unisa.edu.au

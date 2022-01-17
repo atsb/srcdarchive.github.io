@@ -1,0 +1,38 @@
+This is a Demo Archive of the Non Gods entry 
+
+authors:    Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+            Nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Nightmare
+            
+
+Green  (view) : Vincent
+Indigo        : Nicolas
+
+description: This one is a lot better and without deaths.
+
+         *-------*
+Time:    |  5:46 |
+         *-------*
+                             
+Levels                   Time    
+---------------------------------
+Entryway                 0:31
+Underhalls               1:18    
+The Gantlet              1:17    
+The Focus                1:23    
+The Waste Tunnels        1:17    
+The Crusher              
+
+
+
+------------------
+Admin note (Ralf):   Great work guys! The first steps are done, I begin to
+                     wonder how many points 30cn???? will be awarded ;).
+
+
+(It seems that not even the original Doom2.exe plays coop demos correctly,
+ no problems with -playdemo but -timedemo loses sync in Map03.)
+

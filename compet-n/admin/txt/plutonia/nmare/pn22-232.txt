@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+pn22-232.txt
+pn22-232.zip
+
+pn22-232.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP22 - Impossible Mission
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       2:32
+=--------------=
+
+C-N entry #91.
+
+Credit to Vince for being the first to do this
+one too.  I tried to implement his red key trick
+here (preventing the archvile/barons from rising,
+but unfortunately I ran completely over the tele-
+porter.  Oh well, I still got a soulsphere that
+rises with them. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

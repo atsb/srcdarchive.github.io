@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E2M5-435.TXT
+
+ E2M5-435.ZIP
+
+  E2M5-435.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Doom - Episode 2 - Shores of Hell  Mission 5 - Command Center
+
+  Kills    100%
+  (Items    60%)		   	
+  Secrets  100%  and Time    04:35
+                             -----
+
+  Description: 
+
+  Second exit.
+  
+
+  Radek Pecka
+  r.master@email.cz

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N2S5-208.TXT
+
+ N2S5-208.ZIP
+
+  N2S5-208.LMP - NightMare! with 100% secrets
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 2 Mission 5 - Command Centre
+
+  Kills      37%
+  Items       5%
+  Secrets   100%   
+                   
+                 ... and Time  2:08
+                               ----
+	    
+Description: A good speedrunner will go under 2 mins for sure. I don't think
+             the green armor is needed, but I usually pick it up anyway.
+             
+
+
+Author:   Radek Pecka
+E-Mail:   r.master@email.cz
+
+

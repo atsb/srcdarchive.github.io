@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c2s5s033.txt
+
+ c2s5s033.zip
+
+  c2s5p033.lmp
+  c2s5s033.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e2m5 - Command Center - secret exit
+
+              Kills    Items   Secrets
+
+  SlagDooM      3%       5%       0%      
+  Python        6%       0%      40%      
+
+  Time:    0:33
+
+
+Comment:      Just improving our 0:35 a bit.
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

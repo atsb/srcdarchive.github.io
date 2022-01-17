@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM07-105.TXT
+
+ NM07-105.ZIP
+
+  NM07-105.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - "Dead Simple"
+
+  Kills    105%
+  Items     66%
+  Secrets  100%  and Time  01:05
+                           -----
+
+
+Description:
+
+	It´s funny, when you replay this nm-lmp, you think:
+
+		"Hey, it´s so easy." 
+	
+
+	When you try to record the lmp, you think:
+
+		"surf-waves of mancubus-shots and lots of respawned
+		 spiders". 
+
+
+	I like this level, simple and good.
+
+	And now i have the record: 65sec. It´s surely possible to
+	beat this time, but you should have patience. You need
+	luck, so that the spiders don´t respawn. And spiders love
+	it to respawn (tssssssshhhhh).
+
+
+Author:      Frank "Jesus" Siebers
+
+23.08.1997
+
+E-Mail:   siebers@metronet.de
+
+Homepage: http://members.aol.com/siebers/doom.htm

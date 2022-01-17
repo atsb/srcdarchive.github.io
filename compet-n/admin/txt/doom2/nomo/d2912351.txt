@@ -1,0 +1,12 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map29
+
+Time:           1:23.51
+
+
+Comments:       Difficult and very annoying map. There are 3 clear mistakes
+                but 1:23 was my aim, not 1:22. I have better things to do
+                thank wait for the platform to rise.

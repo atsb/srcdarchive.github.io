@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+  EV01-029.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 01
+
+  Kills     38%
+  Items     16%
+  Secrets    0%  and Time  00:29 ( its one sec. underPAR ) 
+                           -----
+
+  Description:
+
+  Firstly, big THX to Slag ...he knows why. :P
+  This one is my FDooM debut, so I think its
+  nice to get first map now in the begining ...:P
+
+  I´m wondering why didn´t Vinc take the chaingun too, when all
+  goes well, there isn´t a second to loose, infact I didn´t
+  reach the exit without it once. Biggest problem is that horde 
+  of stupid brown animals upthere, getting thru them without 
+  "any" delay took a lot of time. The rest is OKi, expect of blue
+  doors where you have to hit your spacebar twice to open it. 
+  Thats because this doors are used also as a switch to the others, 
+  so when its closed, the first hit won´t open the blue ones.
+  If you´re gonna hit that twice, blue doors stays closed even, coz
+  the others were still open and the first hit didn´t open them,
+  but the blue ones. Even so the second hit which only close the 
+  blue ones back and one second is ... won´t be vulgar ..so you can 
+  think that its away :P
+
+  Anyway, this isn´t any optimum, maybe Adam/Sedlo
+  could get it faster ... 27s would be unbeatable :P
+
+
+Author:      Vena "bolton" Kunes
+E-mail:      boltn1@seznam.cz
+Hmmmpage:    doom.sf.cz aka DooM.Cz

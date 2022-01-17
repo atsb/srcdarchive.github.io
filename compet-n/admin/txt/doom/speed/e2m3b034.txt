@@ -1,0 +1,29 @@
+This is a Doom "COMPET-N/doom/speed" entry. Please forward it...
+
+E2M3b034.TXT
+
+ E2M3b034.ZIP
+
+  E2M3b034.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Map     3 - Refinery
+
+  Kills      6%
+  (Items    22)
+  Secrets   33%  and Time  00:34
+                           -----
+
+
+Description: Save some plasma for the spectre at the exit...
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+

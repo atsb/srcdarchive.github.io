@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c4s3-008.txt
+
+ c4s3-008.zip
+
+  c4s3v008.lmp
+  c4s3z008.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m3 - Sever The Wicked
+
+           Kills    Items   Secrets
+
+  Green      1%       0%       0%      Vincent
+  Indigo     1%      10%       0%      Selim
+
+  Time:    0:08
+
+
+Selim:    Bah .. easy .. doing 0:07 would have taken 5 more min, but we're bored ... 
+          Well, in fact it would take more like 5 hours ;) ...our first nice demo together            .. I hope more is to come :)
+
+
+Vincent:      For two rusty players, it's not a bad (re)start. 
+      
+
+     
+Green:       Vincent "Peroxyd" Catalaa   (vincent.catalaa@wanadoo.fr)
+Indigo:      Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+  

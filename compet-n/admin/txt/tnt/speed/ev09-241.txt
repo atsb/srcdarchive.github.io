@@ -1,0 +1,24 @@
+This is a Doom .LMP "Competition" Entry
+
+ev09-241.txt
+ev09-241.zip
+
+ev09-241.lmp
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+TNT - Level 09 - Stronghold
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       2:41
+=--------------=
+
+I'll take wall-stuckage for 241, Alex.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

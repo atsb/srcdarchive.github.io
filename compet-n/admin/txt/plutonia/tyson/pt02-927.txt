@@ -1,0 +1,72 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pt02-927.lmp & pt02-927.txt
+Date     : 2017-12-16 02:04
+Game     : Plutonia
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map02: Well of Souls, by Dario Casali
+Skill    : 4
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  14%
+Secrets  :   0%
+Time     : 00:09:27.03
+
+
+________________________________________________ _____________________
+| PWAD:          | plutonia                    | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | pt02-927.lmp                | |  Items      14 %  |
+|________________|_____________________________| |___________________|
+| Category:      | Tyson                       | |  Secrets   (0/0)  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP02 - Well of Souls       | |            ____   |
+|                |                             | |           /    \  |
+|________________|_____________________________| | and Time: |9:27|  |
+| Exe/Port used: | Doom2 1.9                   | |           \____/  |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 16.12.2017                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| After a break I chose something that didn't seem hard to beat.     |
+| There is not much new in this demo compared to my older record,    |
+| just better infights. In the area with 4 cacos and 2 revenants     |
+| I activate a chaingunner. Another chaingunner helps me to weaken 4 |
+| more revs. Plenty of ammo on this map, as it turns out :)          |
+|                                                                    |
+| Highlight moment:                                                  |
+| 6:44 A very surprising hell knight plasma out of nowhere!          |
+|                                                                    | 
+| Compet-N entry no. 148.                                            |
+|____________________________________________________________________|
+|             |       |                                              |
+| Old records | 20:34 | Xit Vono                                     |
+|             |       |                                              |
+|             | 15:02 | j4rio                                        |
+|             |       |                                              |
+|             | 11:41 | vdgg                                         |
+|_____________|_______|______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| doom2 -file plutonia.wad -nomouse -skill 4 -warp 2 -record xxxxx   |
+|                                                                    |
+| Playback with PrBoom+:                                             |
+| prboom-plus -file plutonia -playdemo pt02-927                      |
+|                                                                    |
+| (add -complevel 2 in case of a desync; with my settings it is not  |
+| needed and shouldn't be needed if plutonia is used as a PWAD)      |
+|____________________________________________________________________|
+

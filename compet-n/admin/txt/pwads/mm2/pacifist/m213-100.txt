@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+M213-100.TXT
+
+ M213-100.ZIP
+
+  M213-100.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 13 - Devils Paradise
+
+  Kills      9%
+  Items      0%           ********
+  Secrets   20%  and Time * 1:00 *
+                          ********
+
+  Description :-)
+
+  I discovered a couple of jumps in the beginning. They
+  make the run harder, though, since the armor is left
+  behind. The bridge part near the end could have been
+  faster...
+
+  This one is Pacifist, too.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

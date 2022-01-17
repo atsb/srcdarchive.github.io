@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m7-223.txt
+e1m7-223.zip
+
+e1m7-223.lmp 
+
+
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M7 - Computer Station
+
+=--------------=
+Kills      100%
+Items       50%
+Secrets    100%
+
+Time       2:23
+=--------------=
+
+
+
+This time was ridiculously difficult to get; my "best" demo stands at 2:20, but with only 98% kills of course.
+Yeah, the exit is pretty bad...
+  
+Author: Hi Jango
+E-mail: gatoradethirst@yahoo.com

@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+MM04-555.TXT
+
+ MM04-555.ZIP
+
+  MM04-555.LMP - Ultra Violence Max
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 04 - The Stand
+
+  Kills    100%
+  Items     80%           ********
+  Secrets  100%  and Time * 5:55 *
+                          ********
+
+  Description :-)
+
+  Gave up trying to incorporate Altima's SSG grab...
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

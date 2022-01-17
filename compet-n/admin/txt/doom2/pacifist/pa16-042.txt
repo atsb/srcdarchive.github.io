@@ -1,0 +1,21 @@
+PA16-042.TXT
+
+ PA16-042.ZIP
+
+  PA16-042.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16
+
+  Kills      4%
+  (Items    20%)
+  Secrets    0%  and Time  00:42
+                           
+
+  Description: This is nothing. You can beat this without any trouble and
+               maybe then I will try to do my best but for now it's over.
+
+
+  Author: Marijo "Sedlo" Sedlic

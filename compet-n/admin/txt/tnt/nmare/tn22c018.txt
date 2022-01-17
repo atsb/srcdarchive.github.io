@@ -1,0 +1,41 @@
+This is a "COMPET-N/tnt/coop/nmare" entry, please forward it.
+
+tn22c018.txt
+
+tn22c018.zip
+
+tn22a018.lmp
+tn22o018.lmp - Nightmare! Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -file tnt.wad -playdemo with Doom2 Version 1.9
+
+Final Doom: TNT Evilution - Map 22 - Habitat
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+OgreSlayR      0%       0%       0%
+Altima         0%       0%       0%
+
+            ********
+  Time:     * 0:18 *
+            ********
+
+
+OgreSlayR:  YES! I believe this optimal. I actually got a 19.02 and it was
+            so close me and Altima were pissed. Glad I finally got it. We
+            had a small debate wether who should run which half.
+
+Altima:  I thought Michael might wanna host a Coop session for once ;) Once
+         again, his superior running saves the day again =) And yeah...as
+         he said, we did have a small debate over who should do what. After
+         the poison area though, I don't really do much...oh yeah, I don't
+         do much at all ;) I just jump into the poison thingie as it's
+         lowering to try to shave off some time. Most of this is OgreSlayR
+         running. Optimal? Most likely ^_~
+
+     
+Green:     Michael "OgreSlayR" Lastovica    (akira101@comcast.net)
+Indigo:    Casey "Altima" Alvis             (altima_mantoid@hotmail.com)
+
+28.05.2003

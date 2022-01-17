@@ -1,0 +1,35 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm01-019.txt
+
+ cm01-019.zip
+
+  cm01d019.lmp
+  cm01s019.lmp
+
+  Recorded using DooM ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 01 - Entryway
+  
+           Kills    Items   Secrets
+
+  Green     59%       0%      60%      SlagDooM
+  Indigo    40%      55%      40%      Dark Friday
+
+
+  Time:    0:19.71
+
+
+Dark Friday: Damn, took us 5 hours, we broke even about 3 times (20.00) and
+             got close about 5 times (20.08) but here it is, 19:71 ...
+             Damn, now i know another side of map01 :)
+             (1st recording of 9-sept)
+
+SlagDooM:    Woohoo, never thought that we would be able to beat that fast-looking
+             0:21 from Panter/Baum. But we had a reason to be VERY motivated... :)
+
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Bjorn "Dark Friday" Hamels       (bjorn@hamels.nl)       
+  

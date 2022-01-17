@@ -1,0 +1,27 @@
+  This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NS11-117.TXT
+NS11-117.ZIP
+
+NS11-117.LMP - Nightmare! with 100% secrets
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 11 Circle of deth
+
+Kills     55%
+Items     27%            
+Secrets  100%  
+
+   ...and Time     01:17 
+                  ------- 
+
+
+Description: A hard one, second time I hit the exit. Could probably be
+             improved easily by another 3 or 4 seconds. 
+             
+             
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net

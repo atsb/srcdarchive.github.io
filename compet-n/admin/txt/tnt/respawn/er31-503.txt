@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ER31-503.TXT
+
+ER31-503.ZIP
+
+ER31-503.LMP - Ultra-Violence - Respawn
+
+Recorded using Final Doom Version 1.9 !
+Doom2 -file tnt.wad -playdemo with Final Doom Version 1.9 - Only
+  using Team TNT's fix for Map 31: Tnt31.wad
+  (available from http://www.teamtnt.com/other/tnt31fix.zip)
+
+Final Doom: TNT Evilution - Level 31 - Pharaoh
+
+Kills    106%
+Items      2%
+Secrets  100%
+
+              ********
+  and Time -  * 5:03 *
+              ********
+
+
+Description :
+
+Blah blah blah, I did my own record for the same map in the same style again. 14
+minutes is still awful, but 5 minutes is a lot better. Could easily be under 4 minutes.
+
+Main problems were weapon changes and the chair jump. My keyboard would do something
+weird and would change my weapons back to what I was using previously. You'll see it in
+the teleporting Shotgunner area, my Shotguns change from Super to Pump Shotguns...very
+odd.
+
+The chair jump was screwed up. It took 3 jumps to make it cause I always miscalculated
+my angle of movement, and I wouldn't make it. Then I didn't hear the door open and I
+almost missed the open door into the Shotgunners.
+
+BTW, this run didn't take long at all, and I don't have an obscene amount of kills in
+it. It's a lot better than the two I did that preceeded this one.
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+03.02.2002.

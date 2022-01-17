@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV15-054.TXT
+
+ LV15-054.ZIP
+
+  LV15-054.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 15 - "Industrial Zone"
+
+  Kills     19%
+  (Items    12)
+  Secrets   18%  and Time  00:54
+                           -----
+
+
+Description: Pretty cool level, easy with the BFG, did it in NightMare too.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

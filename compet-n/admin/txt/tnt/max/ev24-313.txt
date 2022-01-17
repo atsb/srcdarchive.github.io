@@ -1,0 +1,39 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV24-313.TXT
+
+ EV24-313.ZIP
+
+  EV24-313.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 24 - Quarry
+
+  Kills    100%
+  Items     46%           *********
+  Secrets  100%  and Time *  3:13 *
+                          *********
+
+
+Description: Like taking candy from a baby. 1:05 faster then Peo's time (4:18).
+             First successful run was 4:38. Then I got a 4:09 followed by a 4:07. This
+             continued on until I decided this time was good.
+
+	     I am a little dissappointed that Peo's record still existed. After watching
+	     his demo I knew it would be easy to beat his record. This is not to 
+             knock Peo. Many thanks should go to Peo, Kai, and Demonlord for developing
+             a lot of demos (and routes) to fill in the tables. Why is it that a 
+	     December 96 mediocre run still exists? Probably because in 1996 the c-n
+	     crew decided it wanted to expand it's operations to Plutonia but was
+	     "obligated" to take Evilution as part of the deal. I agree with a recent
+	     comment by John Keniry, "Its a pity the best players favour Plutonia so 
+             much because there are plenty of good maps in TNT, ..." Yeah John, I 
+             couldn't agree more.  
+	
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com

@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rf31-310.txt
+
+rf31-310.zip
+
+rf31-310.lmp - Ultra violence with -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 31 - Doorway to Quake by Iikka Keränen
+
+Kills    103%
+(Items    50%)          
+Secrets  100%  and Time  03:10 
+                          
+
+Description:
+  
+I can't understand why starting from Yonatan Donner's lmp, all the players left the map by the supersecret exit in all max-fast demos.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

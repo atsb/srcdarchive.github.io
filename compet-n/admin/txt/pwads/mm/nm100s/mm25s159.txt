@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM25s159.TXT
+
+ MM25s159.ZIP
+
+  MM25s159.LMP - NightMare! With 100% Secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 25 - Cesspool
+
+  Kills       38%
+  Items       80%            
+  Secrets    100%  and Time: 1:59 
+                             ==== 
+
+  Description :-)
+
+  15th COMPET-N entry.
+
+  Is this the easiest NM100S run in COMPET-N? Perhaps. I tried 
+  this for 25 minutes and had exactly two failed attempts: one 
+  because I didn't get to the last lift before the 30-sec doors 
+  closed (embarrasing, I know), and one because I planted a 
+  rocket in my face in the staircase after having wasted the 
+  Arachnotron.
+
+  It didn't take long to get a 2:07 here, so of course a run 
+  below 2 minutes flat was tempting. To achieve that, I made 
+  a small adjustment to my previous tactic, by opening the 
+  twin doors while waiting for the lift to the red key, and 
+  it worked on the second try. :-)
+
+  I didn't bother improving it further, although I'm quite 
+  certain a time in the 1:35-1:40 range is possible with 
+  gutsier play. There are several mistakes in this run. For 
+  example, I lost some time while grabbing the rocket 
+  launcher, and I got stuck on a few spectres.
+
+  Thanks to Casey Alvis for most of the route. I did make some 
+  adjustments to save time, but he really laid the groundwork.
+
+  Kristian Ronge
+  zuckuss@gmail.com

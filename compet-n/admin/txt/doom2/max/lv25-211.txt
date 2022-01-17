@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV25-211.TXT
+
+ LV25-211.ZIP
+
+  LV25-211.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - "Bloodfalls"
+
+  Kills    102%
+  (Items    50)
+  Secrets  100%  and Time  02:11
+                           -----
+
+
+Description: A lot of things that can go wrong...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

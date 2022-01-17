@@ -1,0 +1,33 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+PC30-024.TXT
+
+ PC30-024.ZIP
+
+  PC30-024.LMP - UV Speed
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 30
+
+              ********
+     and Time * 0:24 *
+              ********
+
+
+  Description :-)
+
+	A new trick, similar to the one in Doom2 map30.
+	A player shoots rockets while the lift slowly raises.
+
+	I think it's possible in solo...
+
+	
+  
+  Authors:
+  
+Pl1 :    Nicolas Gandou <nicodv@netcourrier.com>
+Pl2 :    Vincent Catalaa <vincentds@netcourrier.com>
+
+            

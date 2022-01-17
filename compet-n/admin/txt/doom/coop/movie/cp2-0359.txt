@@ -1,0 +1,29 @@
+his is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed movie
+mission:  Episode 2
+
+time:     3:59
+
+   Level       Time         
+--------------------
+   E1M1        0:34         
+   E1M2        0:19         
+   E1M3        0:34 
+   E1M4        0:40 
+   E1M5        0:34 
+   E1M6        1:02
+   E1M7        0:16     
+   E1M8        -:-- 
+--------------------
+   Total       3:59
+
+
+xit-vono : A bit sloppy.  We had a nicer demo but I got owned
+           by the cyberdemon on e2m8.
+
+Vincent : Yeah, right!  We got lucky this one was just below 4 minutes.

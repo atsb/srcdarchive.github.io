@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR08-908.TXT
+
+ HR08-908.ZIP
+
+  HR08-908.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 08 - The Jail
+
+  Kills    100%           
+  (Items   100%)          *********
+  Secrets  100%  and Time * 09:08 *
+                          *********
+                          
+
+  Description :-)
+  
+  Haggay's earliest map. The bodies can block the way, and if you want to save
+  ammo, you can crush barons.
+
+  Yonatan Donner
+  zem@planetquake.com

@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/doom2/" Entry - Please forward it...
+
+LV11-248.TXT
+LV11-248.ZIP
+
+LV11-248.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 11 - Circle Of Death
+
+ Kills    100%
+ (Items    61)
+ Secrets  100% 
+
+       and Time       02:48 
+                      -----
+
+
+Description: When I first started at this lev11 recording I had several routes 
+	     in mind, but they all turned down to be 10-20 sec slower.....So I 
+	     guess I have to thank DL for the route again, but I had to make 
+             changes, and since he exit with so many rockets I thought that I 
+             might could use them on the cacos in the blue key area (hate 
+             slow fights with the ssg and chaingun)
+             
+             This is one of my favorit doom2 maps, played it for many hours
+	     and days, not all the time of course. DL's 02.51 was extremely 
+	     hard to beat. 
+
+Author:      Henning Skogsto
+E-mail:      hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

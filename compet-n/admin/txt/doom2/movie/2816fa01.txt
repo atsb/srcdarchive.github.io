@@ -1,0 +1,57 @@
+This is a DooM .LMP "Competition" Entry
+
+2816FA01.TXT
+
+ 2816FA01.ZIP
+  
+  2816FA01.LMP - Ultra Violence - Fast
+  
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+  
+  DooM II - "Episode 1" - Levels 01 through 10
+  
+            Kills  Secrets    TIME
+
+  LV 01  -   100%   100%      0:59   :|
+  LV 02  -   100%   100%      1:27   :) 
+  LV 03  -   100%   100%      1:27   :)
+  LV 04  -   100%   100%      1:12   :|
+  LV 05  -   100%   100%      3:12   :|
+  LV 06  -   100%   100%      3:22   :(
+  LV 07  -   100%   100%      1:30   :(
+  LV 08  -   100%   100%      4:06   :((
+  LV 09  -   100%   100%      5:52   :|
+  LV 10  -   100%   100%      5:09   :)))
+
+              TOTAL TIME =   28:16
+                             -----
+  
+  Description:
+  
+    MAP01-MAP05:  Ok.
+
+    MAP06 & MAP07: Slow.
+
+    MAP08: I lost too many seconds here. Seems to me I can't handle this 
+           map on fast. I usually try to get through pigs, grab BFG and  
+           take 2 pics of them. But after watching Ian's demo I thought
+           his route is better and wanted to kill all pigs by rockets. 
+           It was much harder than I expected. Ian made things look so 
+           easy in his demo (don't forget to watch it, if you haven't 
+           done it yet).
+
+    MAP09: Could have spent some more rockets in the lifts room.
+           
+    MAP10: Heh...have no problems with this map since fighting over it
+           with Ole.            
+
+
+    I think 26min is reachable (with some luck, of course :)
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz
+Doompage:  http://doomaniax.bonusweb.cz  <--- CHECK THIS OUT!
+
+

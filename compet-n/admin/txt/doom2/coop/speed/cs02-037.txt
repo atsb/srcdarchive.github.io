@@ -1,0 +1,53 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CS02-037.TXT
+
+ CS02-037.ZIP
+
+  CS02-037.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 2 - "Underhalls"
+
+           Kills    Items   Secrets
+
+  Green     26%      28%      100%      Waldon
+  Indigo    25%      28%        0%      Laura
+
+
+              *********
+     and Time * 00:37 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+
+  We tried several different tasks for Laura and this one
+  seems to work best. She takes the supporting role while
+  I run for the exit. Pretty good job from a new speedrunner
+  - though we will improve that with some more coop practice :)
+
+  [ Laura: ]
+  
+  In a way it is a mild clusterfuck regarding exactly what I 
+  should do in the beginning. Theoretically if I could manage
+  to get a shotgun near the red key area, I could help get
+  the monsters out of Waldon's way faster. Its not possible
+  to do consistantly though, as waldon's route usually makes
+  him run through where the shotgunners were, collecting the
+  freshly-dropped shotguns as he passes. Getting the
+  chaingun was my idea, the rest of the route was Waldon's
+  plan. I guess we're lucky Waldon knows how to speedrun, at
+  least one person in a coop demo should, eh?
+  
+  Authors:
+  
+  Laszlo "Waldon" Vecsei
+  waldon@doom2.net
+  
+  Laura "BahdKo" Herrmann
+  bahdko@erols.com

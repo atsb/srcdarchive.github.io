@@ -1,0 +1,25 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htp-114.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 1:14, UV pacifist
+
+Author                  : Adam Williamson
+Email Address           : adam.williamson1@btinternet.com
+
+Description             : Total credit to Vile for this awesome trick -
+                          I modified it slightly from his demo because the
+                          jump is a lot lot easier to this side of the track
+                          and there's no need for the sphere health. BTW,
+                          for NM it's perfectly possible to just turn around
+                          after going through the pit lane and head back
+                          for the blue armour, so that should be possible
+                          on this route too.
+                          
+************************************************************************

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+103-RE19.TXT
+
+ 103-RE19.ZIP
+
+  103-RE19.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - The Citadel
+
+  Kills      8%
+  (Items    63)
+  Secrets   55%  and Time  03:44
+
+  Minimum Maximum Health = 103 %
+                           -----
+
+  Description : Very easy to beat this one. The reason I put this to incoming
+		is because I'd like to collect all maps that can be done w/o
+		the health ever dropping below 100%. What do you think how 
+		many maps are possible with that requirement?
+
+  Author      : Rini (Steffen Udluft)
+
+  E-mail      : rini@mppmu.mpg.de
+

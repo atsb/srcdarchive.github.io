@@ -1,0 +1,9 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      3
+Skill     4
+Category  UV-Tyson
+Exe       Doom2.exe
+Time      7:25
+
+Author	   j4rio

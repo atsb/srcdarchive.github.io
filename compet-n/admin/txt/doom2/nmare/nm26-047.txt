@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM26-047.TXT
+NM26-047.ZIP
+
+NM26-047.LMP - NightMare!
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 26 - The Abandoned Mines
+
+Kills     ??%
+(Items    ??%)
+Secrets   ??%  
+
+   ...and Time        00:47
+                     -------
+
+
+Description: 
+
+Henning wrote
+
+ > Hmmmm only one 1sec away from the the uv-record :) I wonder
+ > what time will be if you do the yellow key strafe, you will 
+ > probably get in the late 40's. 
+ > Wanna play another round Adam ?
+
+Vincent Wrote:
+
+ >Sorry that's not Adam :)))
+ >I implemented the jump... i used some strafe50 do it... and just to do it :-)
+ >With it i perform the jump 9/10 (on nomonsters:).
+
+Oh my god....this was H-A-R-D. I didn't use any strafe50 at all. And I think
+it's kinda wierd that some players do use it to beat records that were set with
+regular strafe40 (hint hint). If you try to do that yellowkey strafe without
+strafe50 on nmomonsters you will succssed 1/10 if you are lucky. That was the
+case for me at least. The reason why I didn't implent it last time was because
+there are a (nm)fast mancubie guarding the key + you got a million skulls/cacos
+etc fireing from behind. In addiction to all this you will also have to
+concentrate a 100% to get in the right position to perform that strafe which is 
+almost impossible. In most cases you will also get stuck and killed on 
+your way back from yellowkey, cause there will be several (nm) fast cacos 
+shotting and blocking your way.  
+
+This is without any deubt the hardest nm recording that I have ever done. 
+Only 30nm was harder.
+
+PS, If you will try to beat this Vincent I hope you will do it my way. Cause I
+    put alot of time and effort in doing it this way. I would have needed 
+    only an houer or so if I used strafe50 to perform it with. 
+ 
+Author: Henning Skogsto
+E-mail: h-doom-frisurf.no

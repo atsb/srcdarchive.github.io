@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA01-044.TXT
+
+ FA01-044.ZIP
+
+  FA01-044.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 1 - "Entryway"
+
+  With "-Skill 4 (and) -FAST"
+
+  Kills    100%
+  (Items    ??%)
+  Secrets  100%  and Time  00:44
+                           -----
+
+  
+  Description :
+
+  Well you might think, 44 is easy time for UV, so all I have to do is survive, but that
+  is anything but the truth.  It's very annoying to saw all that stuff in the blue room
+  and tends to take a bit more time than UV, especially when dodging imp fireballs.  And
+  both RL shots are more tricky when the imps don't move normally.  Well anyways it's not
+  perfect, so 43 or 42 should definitely be possible in theory, but it would be extremely
+  difficult.  I suppose the alternate UV route could be faster here, but I doubt you could
+  survive that with fast monsters.
+
+  Xit Vono
+  xit_vono@yahoo.com

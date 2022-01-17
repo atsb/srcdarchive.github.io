@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV28-432.TXT
+EV28-432.ZIP
+
+EV28-432.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 28 - Heck
+
+Kills    101%
+Items    100%           
+Secrets  100%  
+
+   ...and Time  4:32
+               ------
+
+
+Description: Clearly a Casali map, and probably the best, or maybe top-3 map
+	     in TNT: Evilution. It's not as nice as the Plutonia maps, but
+	     still very fun to play. Not too great gameplay though... Decent
+	     demo i guess...
+	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

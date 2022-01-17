@@ -1,0 +1,20 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+M206-214.TXT
+
+ M206-214.ZIP
+
+  M206-214.LMP - Ultra Violence Speed
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad -playdemo with version 1.9
+
+  Memento Mori 2 – MAP06 - Trapped!
+
+Hey, this is almost a decent run. Lost about 2 secs at the lift switch
+and 1 sec getting stuck on that damn imp at the end. Probably another
+second or two bouncing off sergeants here and there. Choke points went
+well.
+
+Author: Adam Williamson
+adamw@happyassassin.net

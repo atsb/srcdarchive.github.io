@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+PL04-043.TXT
+PL04-043.ZIP
+
+PL04-043.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 04 - Caged
+
+Kills     20%
+Items      0%
+Secrets    0%
+Time      :43
+         ----
+
+Description:
+
+	Aaaah, it's been a long time i've uploaded something :)
+       
+        This is a "newbie" beater... but the newbie is quite good :)
+        I wanted to take back this one, since i really love this map.
+        And i also  wanted to say to Devore that when i'll have a bit 
+        more time i'll take back all the records he's stolen to me :) 
+        (except the optimal ones :). I'm not dead yet so he should 
+        take care :)
+
+
+Author: Vincent Catalaa
+E-mail: vincentds@netcourrier.com

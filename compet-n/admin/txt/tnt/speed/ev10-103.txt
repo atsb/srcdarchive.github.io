@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+EV10-103.TXT
+EV10-103.ZIP
+
+EV10-103.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 10 - Redemption
+
+Kills     31%
+Items      0%
+Secrets    0%  
+Time     1:03
+         ----
+
+Description:
+My third entry, an improvement from Vincent's 1:08.
+
+I get hung up on some parts of the map that stick out a bit (the hallway to
+the yellow key) but otherwise I like this one.  Breaking the minute barrier
+is possible, imo.
+
+Author: stx-Vile (stx is the Stickmen, one of the best Quake 3 clans today.
+Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com (subject to change)
+

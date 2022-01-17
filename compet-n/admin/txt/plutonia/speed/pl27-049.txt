@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL27-049.TXT
+
+ PL27-049.ZIP
+
+  PL27-049.LMP  - Ultra Violence !
+
+  Recorded using Doom2 v1.9 -FILE Plutonia.wad
+  DooM2 -FILE Plutonia.wad -PlayDemo with Version 1.9
+
+  The Final Doom: Plutonia - Level 27 - Anti-Christ
+
+  Kills       11%
+  (Items      12%)          ********
+  Secrets      0%  and Time * 0:49 *
+                            ********
+  Description :)
+
+  I don't like this level at all (why? check out the scene
+  where I get stuck), but as I created this small trick on
+  it ages ago and still haven't showed a speedrun of it,
+  I grit my teeth and made it.
+  
+  Pacifist as well.
+  
+  This is my 378th entry, with this I have overtaken
+  Demonlord, finally.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

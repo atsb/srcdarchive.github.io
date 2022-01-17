@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+MM31-958.TXT
+
+ MM31-958.ZIP
+
+  MM31-958.LMP - Ultra Violence Max
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 31 - Technology Base
+
+  Kills    100%
+  Items     39%           ********
+  Secrets  100%  and Time * 9:58 *
+                          ********
+
+  Description : 
+
+I CANNOT express how much grief went into completing this map in a satisfactory 
+manner. Quickly I achieved a time of 10:59. What followed was numerous fruitless 
+attempts to reach the exit. When you speed, you bleed...
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

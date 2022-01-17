@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF27-904.TXT
+
+ HF27-904.ZIP
+
+  HF27-904.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 27 - Cyberpunk
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 9:04 
+                          
+                          
+  Description: There's probably some kind of rule against uploading demos
+               where the player does absolutely nothing for a minute...
+               oh well. It's not a player-friendly teleporter. The rest
+               of the demo is good enough, so just watch up to that point
+               and quit :)
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

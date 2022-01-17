@@ -1,0 +1,26 @@
+P1M2-027.TXT
+
+ P1M2-027.ZIP
+
+  P1M2-027.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 2
+
+  Kills    1%
+  (Items   4%)
+  Secret   0%  and Time  00:27
+                         -----
+
+  Description: 	This is an easy map, the only hard thing on pacifist it's to
+		reach the exit button behind the last IMP.
+
+		Fun map!
+
+
+  Author:	Jan Endre Jansen
+  E-mail:	jejansen@hotmail.com
+  Doompage:	(Comming soon)
+

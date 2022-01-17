@@ -1,0 +1,13 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr)
+
+game:     doom v1.9
+category: coop speed
+level:    e1m1
+
+time:     0:10
+
+
+

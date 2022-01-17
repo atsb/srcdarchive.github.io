@@ -1,0 +1,30 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm02-223.txt, mm02-223.lmp
+Date     : 2013-6-21 6:30
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP02: The Bridge
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Drew DeVore
+Nickname : Vile
+Country  : USA
+Email    : dadevore83@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 84%
+Secrets  : 100%
+Time     : 00:02:23
+===================================
+Description:
+Trying to play some Doom again and see what I've been missing, if anything.
+It's still fun, I just took it too far before and obsessed over every
+mistake too much.  I'll let the two total whiffs with the shotgun later in
+the demo slide this time. ;p
+
+Not much else to say, this can still be improved a fair bit.  The only bit
+that I added was the handling of the elevator near the end, avoiding the
+wait.

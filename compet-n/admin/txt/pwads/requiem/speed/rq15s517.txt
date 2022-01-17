@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ15S517.TXT
+
+ RQ15S517.ZIP
+
+  RQ15S517.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 15 - Last Resort - secret exit
+
+  Kills     34%
+  (Items    30%)          *********
+  Secrets   42%  and Time * 05:17 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is a hard map to survive at this speed.  I use a
+  trick where you don't have to do all the stuff after
+  getting the blue key, but that means you can't use
+  ssg or berzerk fist for the rest of the level.  I still
+  think it is probably worth it though.  There is lots of
+  room for improvement.  I think I got 4:45 in a practice
+  run, and even that wasn't perfect.
+
+  Xit Vono
+  Xit_vono@yahoo.com

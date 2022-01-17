@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop NM secrets
+mission:  e2m1
+
+time:     1:47
+
+xit-vono: We just used our e2m1 in the nm secrets movie.
+
+Vincent: 
+
+
+          

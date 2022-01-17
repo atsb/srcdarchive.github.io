@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry
+
+MM14-106.TXT
+
+ MM14-106.ZIP
+
+  MM14-106.LMP - Ultra Violence!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+
+  Kills      ?%
+  Items      ?%            
+  Secrets    ?%  
+
+    and Time    (: 01:06 :)
+
+
+  Description :-)
+
+  Waldon wrote:
+  >This demo has some ugly flaws and I would not
+  >upload it if I wasn't really tired of playing.
+  >It has a decent route though so everybody is
+  >invited to make something out of it.
+  >Thanks Erik for your initial demo that got me
+  >interested in the map.
+
+  This is still ugly... I am just happy to get it done.
+  I think 1:00 is within reach with a good run and luck.
+  Special thanks to the MMCA (memento mori chaingunner association)
+  for holding their annual confenrence outside of the blue key room _every_ time.
+  Also thanks to Waldon for the route improvements.
+  mm14NOOO.lmp shows why a chair in my room is now broken.
+
+  Erik Alm
+  erik_a80@hotmail.com 

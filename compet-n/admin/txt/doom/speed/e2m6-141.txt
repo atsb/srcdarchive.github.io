@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M6-141.TXT
+
+ E2M6-141.ZIP
+
+  E2M6-141.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 ?
+
+  DooM - Ep.2 Mi.6 - "Halls of the damned" - the "SPEED" entry.
+
+  Kills     20%
+  (Items    12)
+  Secrets    0%  and Time  01:41
+                           -----
+
+
+  Description : This is the enhancement of my previous (2:35) submission.
+                Here I shave off almost a minute. The basic idea, however,
+                is the same: keep the Barons unalerted, so that you
+                can exit safely. I doubt that this time can be reduced
+                significantly - only, maybe, about 5-6 seconds. Anyway,
+                the "theoretical" limit of this level is around 1:20
+                (when strafe-running whole level with -nomonsters) :-)
+
+
+ Anton Magleli
+
+ magleli@lord.eecs.wsu.edu
+
+

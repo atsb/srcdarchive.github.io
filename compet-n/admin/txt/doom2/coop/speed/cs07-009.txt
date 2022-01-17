@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV07-009.TXT
+
+ LV08-009.ZIP
+
+  LV07-009.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 7 - "Dead Simple"
+
+                  Green (TPP)        Indigo (PBM)
+
+  Kills              0%                  0%
+  Items              14                  28
+  Secrets            0%                  0%
+  Frags (:           0                   0     
+
+
+     and Time  00:09 !!    exactly 09.74s
+               -----
+
+
+Description: This is my first Coop .lmp I've done. I've watched nearly all
+             recordings at cdrom.com but nobody had used or had at least
+             mentioned this trick. Although there are only points awarded for
+             coop 100/100 I upload this. Maybe someone is going to invent
+             a coop-speed too. Fortunately there is a Misc. Directory.
+
+             I think I should be proud (: to be the first(?) one who adds this
+             nice trick. Now its possible to run (more than?) twice the normal
+             speed in coop.
+             Don't know if this is also possible with enemies but works with
+             SShotgun (as you see) and Rockets.(BFG?)               
+
+             I would be happy for some Feedback
+
+ 
+             23.10.97 ...hmm... Maybe it was the 19.10.97
+             Took us 1h and was the first time we reached the exit [:
+
+
+  Author:    Thomas "Panter" Pilger       P187.5mmx, 32MB, Ramdrive as HD
+             Patrick "Baum" von Massow    P133     , 16MB, Seagate 2GB
+  
+  E-mail:    Panter@uni.de
+             Baum@uni.de (doesn't work right now, but is requested)
+
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/ 
+             Baum hasn't got a HP (-:
+
+

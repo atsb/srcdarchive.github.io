@@ -1,0 +1,21 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : RQ06-747.LMP
+Game     : Requiem
+
+Map      : MAP06: nataS ot etubirT
+Category : UV-Max
+Client   : DOOM2.EXE V1.9
+
+Time     : 7:47
+Date     : 28-12-2018
+
+Player   : GuyNamedErick
+Email    : guynamederick@gmail.com
+
+Description: Wonky map to go through, nice to skip the Imp cage trap
+and save some time there. Getting the monsters to infight was a bit
+annoying though. I also found out that a floor in the room where the
+Imps are would raise if you shoot the switch to free yourself from the
+cage, meaning it can be impossible to get 100% kills. Another reason to
+not fall in the cage I guess. :)

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+E3M7-231.TXT
+
+ E3M7-231.ZIP
+
+  E3M7-231.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    100%
+  (Items   62%)
+  Secrets  100%    and Time  02:31
+                             -----
+
+Description:  I didn't know this map very well, so i had to learn it.
+              Now i know the right route and i'm satified with this
+              demo.
+
+
+    
+Author:    Radek "R.Master" Pecka
+E-mail:    r.master@email.cz
+Doompage:  http://www.igames.cz/rmaster or http://doomers.zde.cz

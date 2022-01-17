@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c2s1-032.txt
+
+ c2s1-032.zip
+
+  c2s1p032.lmp
+  c2s1s032.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e2m1 - Deimos Anomaly
+
+              Kills    Items   Secrets
+
+  SlagDooM     11%       0%       0%      
+  Python        7%       0%       0%      
+
+  Time:    0:32.97
+
+
+Comment:      Beating Vincent/Nicolas by 3 seconds and Adam Hegyi by 4 even. :)
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

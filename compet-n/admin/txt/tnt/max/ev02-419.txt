@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV02-419.TXT
+EV02-419.ZIP
+
+EV02-419.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 02 - Human BBQ
+
+Kills    100%
+Items    100%           
+Secrets  100%  
+
+   ...and Time  4:19
+               ------
+
+
+Description: Oh boy... What a crappy map. This gotta be the worst map in entire
+	     TNT: Evilution. Suprisingly hard for map02, took me some time to
+	     finish with a time i was happy with, which i now am... over 4 
+	     minutes might seem long for a map02, but i did my best...
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

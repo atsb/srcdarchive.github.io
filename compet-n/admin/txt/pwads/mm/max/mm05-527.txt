@@ -1,0 +1,17 @@
+Doomed Speed Demos Archive
+http://www.doomworld.com/sda/doom_sda.htm
+
+Pwad:      Memento Mori
+Pwad name: mm.wad
+Maps:      05
+Skill:     4
+Category:  Max 
+Exe:       Doom2.exe
+
+Time:      5:27
+
+Author:    Brad Spencer
+Email:     bgspencer@charter.net
+WWW:	   http://webpages.charter.net/bgspencer
+
+Comments:  

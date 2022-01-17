@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rf31-218.txt
+
+rf31-218.zip
+
+rf31-218.lmp - Ultra violence with -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 31 - Doorway to Quake by Iikka Keränen
+
+Kills    101%
+(Items    50%)          
+Secrets  100%  and Time  02:18
+                          
+
+Description:
+  
+I've tried m222 max for three evenings. No luck. My best time 13:12 with one missed caco. So I decided to play Requiem for a change.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+15.05.2006

@@ -1,0 +1,39 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN27-1318.TXT
+
+ TN27-1318.ZIP
+
+  TN27-1318.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 27 - Mount Pain
+
+  Kills    100%
+  Items     95%           *********
+  Secrets  100%  and Time * 13:18 *
+                          *********
+
+
+Description: I don't like that map, but in normal Ultraviolence it is way
+	     easier than with fast monsters. That's why time is better :)
+	     I know I don't have to kill Lost Souls, but the exit is maybe
+	     the only difficult part of that map, and I really need some
+	     space to retire there. There are some things you have to pay
+	     attention for: at the Invulnerable, run to the 4th (?) stair
+	     early, or you'll have to wait for 3 chaingunner there later.
+	     And you should take the red key torelease all monsters. The
+	     other trick is to release the spiders at the blue key and hope
+	     they help you with the Imps. Take care for the Sergeants there!
+	     I would estimate that I can finish that map in maybe 11:00 if I
+	     knew I had no problems with the Lost Souls. Btw, I was fairly
+	     surprised that the Mancubus hadn't teleported...
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://user.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

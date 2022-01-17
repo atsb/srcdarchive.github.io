@@ -1,0 +1,26 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pp15-023.txt, pp14-023.lmp
+Date     : 2014-07-10 23:26
+Game     : The Plutonia Experiment
+Client   : doom2.exe v1.9
+Category : Pacifist
+Map(s)   : Map 15: The Twilight
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 12%
+Items    : 5%
+Secrets  : 0%
+Time     : 00:00:23
+===================================
+Description
+
+Extra start strategy makes Pacifist essentially equivalent to UV-Speed; with the early shot and the movement right on the elevator as in this demo, the zombieman very often moves out of the way right, making an easy pass (sometimes faster than shooting him). Other than that, I'm not even commenting on the rest of this demo, as it's a massive RNG-fest. The fails and 0:24s that are included here (that are just a few among many faildemos, most of which are unsaved) should explain that. I will mention, though, that this actually turned out to be an "absolute" Pacifist, by which I mean that I don't think I even telefragged anything in this demo.
+
+Dunno what Sedlo meant when he said he wanted close to 20. With a truly perfect demo (which this clearly isn't), I think 22 is doable, but for anything below that, one would either need really fast wallruns, archvile boosts, or good teleport unstucks, all of which are difficult to get in an already ridiculously luck-based demo. The only route improvement is the rocket jump, but that would be difficult to implement, as I'd need to take a detour for the rocket launcher, and the jump isn't easy from the few attempts I gave it in -nomonsters. I've already spent enough time on this 23, anyway, and it's no longer fun to wait for the RNG to work.

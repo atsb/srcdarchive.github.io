@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+________________________________________________ _____________________
+| PWAD:          | mm2.wad                     | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | m206-843.lmp                | |  Items      44 %  |
+|________________|_____________________________| |___________________|
+| Category:      | UV Max                      | |  Secrets   100 %  |
+|________________|_____________________________| |___________________|
+| Map Level:     | MAP06 - Trapped,            | |            ____   |
+|                | by Adam Williamson          | |           /    \  |
+|________________|_____________________________| | and Time: |8:43|  |
+| Exe/Port used: | Doom2 1.9                   | |           \____/  |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 20.11.2012                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| Old records:                                                       |
+| 19:56 by George Bell                                               |
+| 17:01 by Michael "Migru" Grube                                     |
+| 10:11 by Peo Sjoblom                                               |
+|  9:24 by Xit Vono                                                  |
+|  9:04 by myself                                                    |
+|  8:49 by Daiyu Xiaoxiang                                           |
+|                                                                    |
+| Wow, 8:49 came unexpected and wasn't easy to beat. I attach a      |
+| failed demo (would be 8:3x), which has definitely the most funny   |
+| part (man, I was so sure with so much health NOTHING wrong could   |
+| happen). Watch -playdemo m206fail -skipsec 500                     |
+|____________________________________________________________________|

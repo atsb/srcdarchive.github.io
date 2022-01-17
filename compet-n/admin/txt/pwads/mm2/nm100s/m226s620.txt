@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m226s620.TXT
+
+m226s620.ZIP
+
+m226s620.LMP - Nightmare with 100% secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 26 - Base Exposure by Mark Klem
+      
+Kills     100%
+Items      76%
+Secrets    85%	and Time - 6:20
+
+
+Description:
+
+I thought about this run when I was doing plain nm demo for this map. But without sound it seems too hard for me then. Now I find that sound helps a little with the supercharge secret. I've been killed on the ledge leading to the charge by the cyberdemon five times in a row before I passed it through. So I was pretty nervous after this scene. First exit obviously.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+09.03.2008

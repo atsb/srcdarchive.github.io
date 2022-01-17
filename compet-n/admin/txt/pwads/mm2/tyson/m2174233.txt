@@ -1,0 +1,43 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2174233.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP17 - No One                     |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     85%           *********        |
+            |      Secrets  100%  and Time * 42:33 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I watched Revved's attempt at MM, MAP19. Then I watched my cheated     |
+| "private" 54:xx run of another Michael Rapp's level, MM2 MAP17,        |
+| recorded a year ago. I had serious ammo problems in that run, but my   |
+| critical eye noticed a few instances of wasting ammo, so I tried this  |
+| again.                                                                 |
+|                                                                        |
+| This is probably the most difficult Tyson map I recorded so far.       |
+| Unfortunately, the demo is a bit wimpy and boring unless you love such |
+| challenges and watching the player trying his best not to screw up     |
+| anything at the end. Anyway, I reached the blue key about 20 times,    |
+| the red key 3 times.                                                   |
+|                                                                        |
++========================================================================+

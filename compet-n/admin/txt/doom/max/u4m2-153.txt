@@ -1,0 +1,66 @@
+This is a DooM .LMP "COMPET-N/doom/" Entry - Please forward it...
+
+U4M2-153.TXT
+
+ U4M2-153.ZIP
+
+  U4M2-153.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  Mission 2 - Perfect Hatred
+
+  Kills    100%
+  (Items    40)
+  Secrets  100%  and Time  01:53
+                           -----
+
+
+Comments: Heh, I set PAR to 2:00 now I'm under two minutes.
+          Funny map, eh. I've done it quite like Chris Boardman (cycling 4km),
+          I DESTROYED the old record. Wade, perhaps you should give it up now
+          get this record, but you can still try :) There are two useless BFG
+          shots in the whole .lmp, I don't know what can be improved
+          furthermore. I even don't collect the 2 cell boxes on the stairway
+          back to the start, and the supercharge, to save some time. I think
+          you should watch this.lmp -timedemo (on a Pentium disable CPU-Cache)
+          to enjoy it. I enjoyed much recording it. Now I'll have a look at
+          FDooM Collection by Anthe, Peo, Yonatan and the grandfather. Keep up
+          the good work, guys. Perhaps I can improve some of your times now
+          I've trained so much BFG in this .lmp. Let's count how many shots
+          with the BFG there were: 25 (am I right? 1000 cells wasted? pooh).
+          The tricks I used:
+          a) I aligned the first Sergeant with the Imp next to the button
+          b) I climbed the raising yellow key way
+          c) I did the so called Winterfeldt-jump to the blue key stairway
+          d) On my way back to the cybie telefragger I jumped to the right
+             side to land on the stair, much safer this way because noone
+             (at least no Imp) blocks you (see Anthe's E4M2-NM.TXT)
+          e) Wasted one BFG on the Pig still alive, it was also a control shot
+          f) I killed the Caco and 2 Spectres with rockets (if you are lucky,
+             you can kill both spectres with a direct hit, I was not)
+          g) My next BFG was shot not to kill the Baron, but to kill these
+             2 spectres on my right side, that's why I am sure no spectre is
+             left in this area.
+          h) I face all the Lost souls (and they are all dead?)
+          i) I don't get the blue key
+
+          Btw, I like that ssshttt-cruuuoooo when I kill a Baron withthe BFG
+          Sometimes it sounds ssshtttt-crzzzz-cruuooo, when the Baron decides
+          to give me his hand before he dies.
+
+          Another BTW: It's quite Anthe's NightMare! time. I think I should
+          play some E4M1 now, to get a (what was it?, 1:43) time next to
+          Anthe's NightMare! run there. Heh, my 3:42 seems much too slow :)
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+          humpert@zib.de
+
+WWW:      http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

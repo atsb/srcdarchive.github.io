@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV31-744.TXT
+
+ EV31-744.ZIP
+
+  EV31-744.LMP - Ultra-Violence Max-Kill
+
+Recorded using Doom 2 Version 1.9 !
+Doom2 -file tnt31.wad -PlayDemo with Doom 2 Version 1.9 - Only
+  using Team TNT's fix for Map 31: Tnt31.wad
+  (available from http://www.teamtnt.com/other/tnt31fix.zip)
+
+Final Doom: TNT Evilution - Level 31 - Pharaoh
+
+Kills    100%
+Items      2%            
+Secrets  100%  
+
+              ********
+  and Time -  * 7:44 *
+              ********
+
+
+Description :
+             The Cyberdemon here killed me three times in a row.:((( That's what I get by                not playing Doom for a week:) My hands were terribly shaking so my movement                 was not what I wanted but when I look at this demo as a whole I'm satisfied                 with it. The only part I really don't like in this map is the yellow key area.              I'm completely lost there. Reminds me of the labyrinth in Memento Mori map 7.
+
+
+
+
+Author: Tomas "DeDo" Kollar
+E-mail:	kollarant@stonline.sk

@@ -1,0 +1,36 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV01NET2.TXT
+
+ UV01NET2.ZIP
+
+  UV01NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 01 - Entryway
+
+           Kills    Items   Secrets
+
+  Green      37       66       40      gazelle
+  Grey       59       00       60      dasa
+
+  Time:    0:24
+
+
+Comment:        One of the easiest maps of course. The deathmatch weapons
+                help a lot. It would have been a 0:23 perhaps, if I hadn't
+                missed my left turn and waited therefore at the plasma gun.
+                And to kill the Imp at the exit requires some distance, I
+                can't kill him fast with a rocket. But this .lmp is good,
+                OK?
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib.de
+                dasa@cs.tu-berlin.de
+
+

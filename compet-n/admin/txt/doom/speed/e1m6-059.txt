@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M6-059.TXT
+
+ E1M6-059.ZIP
+
+  E1M6-059.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 6 - Central Processing
+
+                       Time  00:59
+			     -----
+
+Description:
+
+ Woop, FINALLY pushed this one under 1:00. Just keep plugging away :). There's
+ some suboptimal monster behaviour and some sloppy running in this demo, guess
+ a week's work could push it to 0:56 or something, I expect i'll just keep
+ plugging away at it in 1 second intervals :). Could be part of preparation
+ for a new EP1 run, dunno yet, it's always fun to improve that run. I still
+ think 1:01 was a damn good time for DdQr - it's a real pain to run this without
+ using RL at the end. (Mind you, it's a pain running it with RL at the end,
+ too. :>)
+
+Author:     Adam Williamson
+E-mail:     adam.williamson1@btinternet.com
+

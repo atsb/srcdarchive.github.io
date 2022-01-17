@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry
+
+MM32-302.TXT
+
+ MM32-302.ZIP
+
+  MM32-302.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 32 - The Hidden Slime Factory
+
+  Kills     38%
+  Items     36%           ********
+  Secrets   28%  and Time * 3:02 *
+                          ********
+
+  Description : 
+
+3 new tricks in 1 lmp!! My first lmp with any tricks. =))
+
+1) A jump. - You can avoid hitting a switch/waiting for the platform to rise by making 
+this jump. It's almost at the beginning and it's pretty easy to make. Of course, I look
+like I am playing pinball here bouncing off the walls. And then I get smacked around
+by the revenants a few times. =D
+
+2) Beating the trapdoor. - Normally after picking up the yellow key a door closes and prevents you from going through the yellow key door until you find a switch that re-opens the passage way. It you strafe sideways after picking up the key you can get under it in time. Very easy to do. It might be of use for someone doing a max run (?). 
+
+3) Strafe running past the W1 teleport/platform rise trigger linedefs. - This one is very 
+tricky for me to pull off. And unfortunately it's towards the end. You have to ride the 
+wall to skip over activating two linedefs. Otherwise you'll be teleported back to the start 
+and have to find the switch to lower a wall blocking the exit door. Technically it should 
+be easy if I could wall run but I can't seem to get speed off that wall. I can get speed 
+off the walls nearby or the bars but not that wall (?). This was the first time it happened 
+in a recording session. 
+
+So, I'm still not too interested in speed running. But I was bored today and my aiming skills were crappy. I watched a few demos, ran around a few maps, and then stumbled upon this one. I think Mark Klem went a little overboard when designing the map. The map extends for a bit too long with some mis-matched and poorly designed areas towards the end. There is also way too many power-ups just handed out. There is at least 3 megasphere's and 2 soulspheres and thats just what I remember off the top of my head.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

@@ -1,0 +1,18 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      2
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      8:05
+
+Author	   j4rio
+
+Xit's demo was quite fast and 
+lucky and getting this took me 
+quite a bunch of attempts. I 
+tried it with prboom a while 
+ago but couldn't do it. Also
+added a slower exit just for
+the hell of it - this was my
+second exit.

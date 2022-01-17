@@ -1,0 +1,76 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1626EV21.TXT
+
+ 1626EV21.ZIP
+
+  1626EV21.LMP - UV speed movie
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+      Xit Vono       Stx-Vile
+
+  Level 21:    2:33    2:39
+  Level 22:      30      33
+  Level 23:      34      39
+  Level 24:      26      26
+  Level 25:    1:44    2:04
+  Level 26:    2:14    2:17
+  Level 27:    2:24    2:38
+  Level 28:    1:49    1:46
+  Level 29:    2:07    2:24
+  Level 30:    2:05    2:09
+
+  Total time: 16:26   17:35
+
+  Description :-)
+
+  21: This is a tough map, but somehow it was easier than I
+      expected.  That alternate way for the blue key makes
+      this one much easier than the normal speedrun.  I used
+      a few seconds to take the blue armor, which helps for
+      the next few levels.
+
+  22: This is a very easy map with goodies for the rest of
+      the episode.  My running is not good but it's hard to
+      lose much time here.
+
+  23: I save health and ammo by doing this one pacifist.
+      The monsters don't teleport at the end.  Also saved
+      time by skipping the supercharge, something which
+      would have been harder without armor from map21
+
+  24: An average time here.
+
+  25: I use a completely new route to the upper level after
+      taking the blue key.  I think it's a bit faster and
+      avoids all the shotgunners.  Also saved some time with
+      better ammo management.
+
+  26: Well I had to shoot the hell knight but other than that
+      it's not a bad time.
+
+  27: Saved some time in the red key room by taking the
+      invuln early.  It's not really needed after the blue key.
+
+  28: Wow I really suck at this map.  In fact this is the only
+      time slower than Stx-Vile.
+
+  29: I suck at this map too.  I saved a ton of time by using
+      BFG on the spider mastermind.  I have no idea why Stx-Vile
+      didn't use bfg there either.  There's quite a few cells
+      lying around on the map.  Also saved a little time by
+      skipping the supercharge.
+
+  30: Yep I suck at this map.  First time I reached it a movie
+      attempt and I'm lucky that cyberdemon didn't turn me into
+      chunky marine soup.
+
+  Again Drew's demo really suffers from a lack of thought out
+  routes so that's how I took the advantage on this run.  This
+  demo is not very good because I had very little practice with
+  maps 28-30.
+
+  Xit Vono
+  xit_vono@yahoo.com

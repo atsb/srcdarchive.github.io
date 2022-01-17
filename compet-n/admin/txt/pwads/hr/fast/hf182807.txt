@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF182807.TXT
+
+ HF182807.ZIP
+
+  HF182807.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 18 - Hard Attack
+
+  Kills    100%
+  (Items    90%)          
+  Secrets  100%  and Time = 28:07 
+                          
+                          
+  Description: Just messing around here, completely wrecked my route
+               early on and just tried to finish. Sort of looks like
+               Esko's TAS route now...
+  
+
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com
+  

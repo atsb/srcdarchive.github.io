@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM07N855.TXT
+
+ MM07N855.ZIP
+
+  MM07N855.LMP - nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 7 - Not That Simple
+
+  Kills    190%
+  (Items   100%)          ********
+  Secrets  100%  and Time * 8:55 *
+                          ********
+                          
+
+  Description :-)
+  
+  I did a TAS demo earlier, but I didn't bother to send it
+  to anyone because it sucked and I wanted to do this normally
+  anyways.  The hardest parts here are the blue key area, and
+  the wooden rooms near the exit.  There's a lot of nasty stuff
+  that can respawn up there.  In my TAS demo I went straight to
+  the maze from there, but here I chose to wander around to get
+  the megasphere and some plasma, which is well worth it.  Also,
+  by taking the longer route I make this demo 100% secrets.  The
+  rest of the map would be rather difficult without health
+  and plasma.  I found a safe way to do the maze up to the last
+  switch, but then it's a bit difficult to avoid mancubus and
+  hell knight fireballs.  After that I don't know how difficult
+  it should be because I didn't practice the rest very much.
+  Because of inexperience, I walked the wrong way after
+  teleporting to the yellow key, but fortunately I survived.
+  In this demo there were many things that went wrong, especially
+  at the blue key.  Because of that, I think this demo makes the
+  map look harder than it really is.
+
+  Xit Vono
+  Xit_vono@yahoo.com

@@ -1,0 +1,18 @@
+This is a   Speed Doomer's Archive entry 
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       Class_Ep.wad, Ultimate DOOM version 1.9
+
+category:   "Max"           
+            
+level:      E2M7
+            
+stats:      Kills    100%
+            Items    100%
+            Secrets    0%   and Time   15:23
+
+Comments:   This was my first attempt at this map, not knowing at all what to
+            expect - and amazingly, I survived.  Turns out I missed the secret
+            and that secret REALLY would've helped, especially at the end.
+            Another very nice map indeed.

@@ -1,0 +1,16 @@
+This is a   Speed Doomer's Archive entry 
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       Class_Ep.wad, Ultimate DOOM version 1.9
+
+category:   Tyson           
+            
+level:      E2M4
+            
+stats:      Kills    100%
+            Items     96%
+            Secrets  100%   and Time   28:12
+
+Comments:   This is a good one for tyson - the saw and the berserk make it "doable".  It's not 
+            too easy - challenging enough to keep you interested.  Nice map!

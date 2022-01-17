@@ -1,0 +1,32 @@
+************************************************************************
+LMP Title  		: Classic Episode map2 UV max run
+Filename                : clm2-331.lmp
+LMP Version             : 1.9
+Game                    : Ultimate Doom
+Pwad(s)                 : Class_Ep.wad
+Map Level(s)            : E2M2
+Skill                   : 4 (Ultra Violence)
+Length                  : 3:31
+
+Author                  : Anthony Soto
+Email Address           : neworderdatabase@hotmail.com
+Webpage 	        : http://thefish.8m.com/
+************************************************************************
+
+Description             : 46 seconds faster then Doug's initial entry.
+
+Besides a little faster running I think I just use better route choices.
+I did this time on the first successful run through. However, since I
+designed this map I have sufficient knowledge of what to do where. :-)
+
+Arno originally did a very good 2:30 of classic5. Since then I've bumped
+up the enemies on UV from 79 to 100. So I would guess a near optimal 
+time would be around 3 minutes.
+
+BTW Doug - great DM map (probably best of the ep). I've played it DM
+a couple times.
+
+Recorded on January 1st, 2001
+
+
+

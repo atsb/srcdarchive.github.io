@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM25n039.TXT
+
+MM25n039.ZIP
+
+MM25n039.LMP - Nightmare! Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File mm.wad -PlayDemo with Version 1.9
+
+Memento Mori - Level 25 - Cesspool
+      
+Kills       12%
+Items       20%
+Secrets      8%
+
+              ********
+  and Time -  * 0:39 *
+              ********
+
+
+Description:
+
+I absolutely hate my mouse. It wouldn't work right for about 1/3 of the demo,
+meaning that when I moved the mouse to turn, I only maybe budged a little in
+that direction. It's most noticeable at the start and at the shotgunner, where
+I stop short of mowing him down with chaingun.
+
+Not much to say really, I apologize for this being shakey and/or jerky, but
+like I said, my mouse is just complete and total crap. It's optical...and if
+you people know me well enough, you know how I HATE optical mice because they
+are completely unreliable. The laser could simply just stop working (it's
+happened a few times on recent demos of mine), or when you move the mouse,
+the motion doesn't register and you simply stand there (also happened). Oh, did
+I mention how the fire button only works about 80% of the time now? Oiy...I'm
+surprised I was able to get this sub-:40 with this piece of crap >.<
+
+Other than ranting and being pissed off about my mouse, I guess this demo is
+satisfactory...
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima_Mantoid
+
+
+31.01.2004.

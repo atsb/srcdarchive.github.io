@@ -1,0 +1,13 @@
+author:         Adam Williamson
+
+game:           Doom2
+category:       nomonsters
+mission:        map01
+
+time:           0:05.45
+
+
+comments:       Blah.
+                <admin note> Blaat!
+                
+                

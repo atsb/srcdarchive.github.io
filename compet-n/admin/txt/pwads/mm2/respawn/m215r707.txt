@@ -1,0 +1,31 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m215r707.lmp & m215r707.txt
+Date     : 2013-03-16 18:09
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map15: The Devils Coterie, by Adam Windsor (Capellan)
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 104%
+Items    :  75%
+Secrets  : 100%
+Time     : 00:07:07.40
+===================================
+Description:
+
+Now, this level is fun to play in ANY category, so I decided to give
+one more -respawn a chance.
+10 kills too many... seems not much in such a crowded level, but the last
+kills are quite slow. 100% was achieved in 6:43 I think.
+
+You should watch the nightmare! demo if you haven't already.
+
+===================================

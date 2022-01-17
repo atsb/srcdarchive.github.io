@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M201f350.TXT
+
+M201f350.ZIP
+
+M201f350.LMP - Ultra Violence - Fast Monsters
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 01 - Outpost
+      
+Kills      100%
+Items       56%
+Secrets    100%
+
+              ********
+  and Time -  * 3:50 *
+              ********
+
+
+Description:
+
+I was a little overcautious at places, mainly because there isn't really a
+whole lot of health on this level that can be immediately accessed. I think
+only 30% until you get to the Demon-secret room, then there's an additional
+20%, then the Spectre room, where most of the health is.
+
+The beginning went very well, every soldier toppled without too much health
+loss...then some Shotgunners got lucky >.<
+
+Visually pleasing demo, but I'm just a little bit overcautious ^_^'
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+05.02.2002

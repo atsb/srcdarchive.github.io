@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M206-226.TXT
+
+ M206-226.ZIP
+
+  M206-226.LMP - UV speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 6 - Trapped
+
+  Kills     34%
+  (Items    33%)          ********
+  Secrets   40%  and Time * 2:26 *
+                          ********
+                          
+
+  Description :-)
+  
+  I gave the UV speed some tries while working on my nightmare
+  demo for this map. It's a fairly decent speedrun, though I
+  I didn't spend too much time here.
+  
+  Xit Vono
+  xit_vono@yahoo.com

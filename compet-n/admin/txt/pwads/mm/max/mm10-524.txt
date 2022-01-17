@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM10-524.TXT
+
+ MM10-524.ZIP
+
+  MM10-524.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 10 - The Mansion
+
+  Kills    100%
+  (Items    ??%)                     
+  Secrets  100%  and Time = 05:24  
+                                   
+                          
+
+  Description: Anthony wrote:
+               >Guys, I need your help. I'm trying to get Memento Mori
+               >up to date.
+
+               >Chris, where are you buddy?
+
+               Nice idea for a project, Anthony, I'm glad there are
+               other people around to start stuff like this. Memento
+               Mori I has always been my favourite megawad from The Innocent
+               Crew, distinguished I think mainly by the control and
+               restraint of the level authors. Look at the bloat of
+               Memento Mori II, in contrast. 
+
+               The current demos can probably be improved substantially,
+               they weren't hard-worked like the ones in the final MM2
+               demo collection. This is just an initial effort from
+               me, as I'm pressed for time... only took ten minutes to do.
+               Faster route + get the SSG earlier + more efficient killing
+               of the faraway monsters + it's a Yonatan max demo = more
+               than two minutes saved. First exit, so under five minutes
+               will be easy.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

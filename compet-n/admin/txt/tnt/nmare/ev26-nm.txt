@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/evilution/nmare" Entry - Please forward it...
+
+EV26-NM.TXT
+
+ EV26-NM.ZIP
+
+  EV26-NM.LMP - Nightmare!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 26 - Ballistyx
+
+  Kills     74%
+  Items     54%           ********
+  Secrets  100%  and Time * 5:20 *
+                          ********
+
+
+Description:	I thought first I would have ammo problems after the first
+		Spectres, but with twice the shells it wasn't. The yellow
+		key is hard, as it was in every difficulty setting, even if
+		it doesn't look so, the rest is concentration. I think this
+		is a medium to hard Nightmare map, much health, one critical
+		scene where you should be a mouser (to close the door at the
+		yellow key)
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

@@ -1,0 +1,20 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : TN21-543.LMP
+Game     : TNT: Eviltuion
+
+Map      : MAP21: Administration Center
+Category : Nightmare-Speed
+Client   : DOOM2.EXE V1.9f
+
+Player   : GuyNamedErick
+Email    : guynamederick@gmail.com
+
+Time     : 5:43
+Date     : 5-1-2018
+
+Description: Not going for 100% Secrets was definitely easier, that's
+for sure. With some health to spare, you can just rush the last part as
+most monsters are just Imps tossing fireballs at you and you can dodge
+most of them once you are free. That was a little too close on trying to
+grab the Megasphere if I say so myself!

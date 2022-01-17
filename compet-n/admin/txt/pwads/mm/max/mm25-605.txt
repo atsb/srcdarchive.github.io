@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+MM25-605.TXT
+
+ MM25-605.ZIP
+
+  MM25-605.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 25 - Cesspool
+
+  Kills    102%
+  Items     xx%           ********
+  Secrets  100%  and Time * 6:05 * 
+                          ********
+
+  Description :
+
+Chris - thanks for helping with the mm10. Optimization can come
+later no doubt. Got any other things you could contribute?
+
+Gah, I'm so fed up with this map. About 8 finishes all attempting to 
+go under 6 minutes were either not 100/100% or were over. I just
+want to move on. It's just stressing me out so I'll free my hands
+of it.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

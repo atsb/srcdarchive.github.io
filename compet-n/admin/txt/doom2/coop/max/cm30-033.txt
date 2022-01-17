@@ -1,0 +1,61 @@
+This is a DooM .LMP "COMPET-N/net-x" Entry - Please forward it...
+
+UV30Net2.TXT
+
+CO30-Q_D.TXT
+
+ UV30Net2.ZIP
+
+ CO30-Q_D.ZIP
+
+  CO30-Q_D.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+
+            Kills Items Secrets
+
+  G :-)  -      0%   22%    0%
+  I :-)  -    100%   22%    0%
+
+  OR...
+
+  Kills    100%
+  (Items    44)
+  Secrets    0%  and Time  0:32 or 0:33  [ ? ]
+                           ------------
+
+
+(Green)Description: Took "dasa" with me on the elevator and we made it
+                    together. Looks quite nice to make it this way ;-)
+
+
+Authors:     Green:  Kai-Uwe "Nobody" Humpert
+                     (see lv30-036/lv30-033)
+                     gazelle@cs.tu-berlin.de
+
+              Grey:   Sven "dasa" Huth
+                      dasa@cs.tu-berlin.de
+
+
+[  Admin. Note :-)  Many thanks for this one, guys ! :-) :-)
+
+   Be sure to watch this from BOTH perspectives...
+
+   " LMPutil CO30-Q_D.LMP -Viewer "
+
+   OR " CO30-D_Q.BAT "
+
+S.;-) aka. The "Judge". ]
+
+
+
+
+
+
+-------------------------
+And another admin note :)   Time is actually 0:33.25
+

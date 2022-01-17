@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/doom/" Entry - Please forward it...
+
+N4M2-026.TXT
+
+ N4M2-026.ZIP
+
+  N4M2-026.LMP - NightMare!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 4 - Mission 2 - Perfect Hatred
+
+  Kills    38%
+  (Items   40)		  
+  Secrets  33%  and Time  0:26
+                          ----
+
+Description: Took me three tries to get the bfg, but I think this lmp shows
+             the best NM route for this map. Is it possible to squeez through
+             those cacos berserk only?
+
+             
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

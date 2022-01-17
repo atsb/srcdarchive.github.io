@@ -1,0 +1,16 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop max
+mission:  map31
+
+time:     1:53
+
+Vincent:  just a Kai/Dasa beater, done within 10 mins
+
+xit-vono: Nothing special
+
+          

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RF051357.TXT
+
+ RF051357.ZIP
+
+  RF051357.LMP - Ultra Violence with fast monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 05 - The Canyon
+
+  Kills    100%
+  (Items    87%)          *********
+  Secrets  100%  and Time * 13:57 *
+                          *********
+                          
+
+  Description :
+
+               The PE area used to be hard for me but now it looks like I figured out how to                make it quite easy(altough not as fast). The trickiest parts imo are the end                room and the Rocket Launcher area(was lucky there). It's very easy to die                   there. 
+  
+  
+
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

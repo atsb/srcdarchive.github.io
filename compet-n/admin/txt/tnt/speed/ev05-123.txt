@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+EV05-123.TXT
+
+ EV05-123.ZIP
+
+  EV05-123.LMP  - UV speed
+
+  Recorded using Final DooM Version 1.9
+  DooM2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 05 - Hangar
+
+  Kills     48%
+  Items     11%
+  Secrets    0%  
+  
+    ...and Time     1:23
+                    ----
+
+Description:  Welcome to the Compet-N, stx-Vile. This demo suxx, don't watch
+              it, just wait until Vincent strikes back.
+              
+
+
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz

@@ -1,0 +1,21 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EF09-820.TXT
+
+ EF09-820.ZIP
+
+  EF09-820.LMP- Ultra Violence with fast monsters!
+
+  Recorded using Doom2 Version 1.9 
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 
+
+  The Final Doom: TNT: Evilution - Level 9 - Stronghold
+  Kills      100%
+  (Items      60%)
+  Secrets    100%  and Time  8:20
+                           -----
+  Description:
+              You can die so fast in this level, especialy on -fast.:) You open a door and                BANG! you're dead. That's what made it so interesting for me. Except the                    strange thing I did after the blue switch(I got stuck somehow. The original                 plan was to take cover) this demo is ok with me.
+
+Author: Tomas "DeDo" Kollar
+E-mail: kollarant@stonline.sk

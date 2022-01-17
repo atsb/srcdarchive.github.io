@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N2S6-231.TXT
+
+ N2S6-231.ZIP
+
+  N2S6-231.LMP - NightMare! with 100% secrets
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 2 Mission 6 - Halls of the Damned
+
+  Kills      43%
+  (Items     29)
+  Secrets   100%    and Time  2:31
+                              ----
+	    
+Description:    Well, there are still plenty of nm100s levels not
+                optimised, and this is one of them. Lost a few seconds
+                here and there, and without the plasma you could easily
+                get below 2:00 (hint hint: someone want to do it?)
+                
+                               
+                
+Author:    Chris "Ryback" Ratcliff
+
+E-mail:    ryback@fcmail.com

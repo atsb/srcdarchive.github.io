@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV04-126.TXT
+
+ LV04-126.ZIP
+
+  LV04-126.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 04 - "The Focus"
+
+  Kills     78%
+  (Items    58)
+  Secrets   66%  and Time  01:26
+                           -----
+
+
+Description: Very little health on this level this can drive you mad...
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

@@ -1,0 +1,12 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Arno Slagboom (slagboom@cybercomm.nl)
+Indigo:    Marko van der Want (markowant@freemail.nl) 
+
+game:     doom2 v1.9
+category: coop speed
+level:    map16
+
+time:     0:54
+
+comments: slow 

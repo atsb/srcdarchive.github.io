@@ -1,0 +1,36 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m2-138.txt
+e1m2-138.zip
+
+e1m2-138.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M2 - Nuclear Plant
+
+=--------------=
+Kills      100%
+Items       35%
+Secrets    100%
+
+Time       1:38
+=--------------=
+
+C-N entry #125.
+
+I have to thank Adam Hegyi for his demo, which
+I didn't believe I could improve at all until
+I somehow managed to get a 1:43 after about an
+hour or two of game time.  I was having a lot of
+fun with the level, so I kept shaving off second
+after second.. until I finally managed a 1:40.00.
+Ooooh was I furious at that one.. but, after a few
+more hours, I got this by total surprise!  I had
+a 1:38 with 97% kills, but never expected to get
+a real 1:38 demo.  I hope you enjoy this demo as
+much as I enjoyed playing it. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

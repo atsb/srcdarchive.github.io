@@ -1,0 +1,30 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pn08-024.lmp & pn08-024.txt
+Date     : 2013-04-11 11:53
+Game     : Final Doom - Plutonia
+Client   : doom2.exe v1.9f
+Category : Nightmare
+Map(s)   : MAP08: Realm
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Name     : 
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 4%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:24:11
+===================================
+Description :-)
+
+This run is kinda BS - you have to survive getting up the elevators 
+(which I got maybe once in 20 tries), set up the glide and hope a 
+chaingunner won't mess you up, get the glide fast and then not get blown 
+up by the archvile. Cack_handed got 19 on UV and I can't see why that 
+wouldn't be possible on NM but I sure can't make it happen. A couple of 
+times I managed to run past the first two sergeants without waking them 
+up which was interesting.

@@ -1,0 +1,16 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop max
+mission:  map04
+
+time:     0:47
+
+Vincent:  crap, just meant as Radek beater
+
+xit-vono: Run sucks
+
+          

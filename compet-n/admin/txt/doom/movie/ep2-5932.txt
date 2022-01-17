@@ -1,0 +1,133 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP2-5932.TXT
+
+ EP2-5932.ZIP
+
+  EP2-5932.LMP - Whole Episode on Ultra Violence,
+                 WITH 100% kills and 100% secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 !
+
+  DooM - Episode 2 - The Shores of Hell
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  E2 M1  -    100%  100%  100%       2" 52     (100 192)
+  E2 M2  -    100%   72%  100%      10" 27     (155 197)
+  E2 M3  -    100%   87%  100%       5" 54     (170 123)
+  E2 M4  -    100%   82%  100%       7" 50     (200 169)
+  E2 M5  -    100%   87%   80%       9" 15     (95  187)
+  E2 M9  -    100%  100%  100%       2" 23     (112 200)
+  E2 M6  -    100%   77%  100%      11" 25     (149 142)
+  E2 M7  -    100%   74%  100%       9" 26     (200 110)
+  E2 M8  -    100% ! ???  ???    [ Excluded! ] (200 200)!
+
+                     Total Time =   55" 272
+                                    55" +
+                                     4" 32
+                                    ------
+                     TOTAL TIME =   59" 32
+                                   --------
+
+  Description :-)
+
+  After I recorded episode 1, I didn't want to record the other episodes
+  because they were (I thought then) too large. Quake has come out in the
+  meantime, but I've already finished it on "hard" and I wanted to wait
+  before recording Quake demos (maybe the demo format will change soon). The
+  final factor is that I went to the dentist and returned with half my face
+  paralyzed, so I decided to kick some ass (revenge?).
+
+  First I tried some e1m1, but after 30 minutes of trying the best I got was
+  0:37, several times 0:38 and I gave up the 0:33.
+
+  So I recorded the entire episode two on ultra-violence with 100% kills and
+  100% secrets too except E2M5 (what didn't I find there?). It was very easy
+  like I expected (first try) and I even got it half a minute under one
+  hour.
+
+  If you want them, here are some comments about the levels:
+
+  E2M1 - Deimos Anomaly
+  ---------------------
+  A very easy level. I also did it in 1:55, which is the current COMPET-N
+  record.
+
+  E2M2 - Containment Area
+  -----------------------
+  A large, ugly, boring level. The entire level is crates, crates, crates,
+  imps, demons. Oh yes, there is also one lost soul somewhere in there. I
+  got lost many times, but the time is much less than I expected.
+
+  E2M3 - Refinery
+  ---------------
+  This level is not too bad. It's a little short. No special comments (sorry
+  folks but I did kill the lost souls).
+
+  E2M4 - Deimos Lab
+  -----------------
+  Pretty ugly level. I also did it in 7:33 in COMPET-N.
+
+  E2M5 - Command Center
+  ---------------------
+  A very ugly, boring, large, etc. level. Easy to get lost. It was nice
+  having rockets here for a change. I did it in 9:58 in COMPET-N.
+
+  E2M9 - Fortress of Mystery
+  --------------------------
+  A nice level with a nice idea. I did it with 100% everything and under
+  par, too. (The par time should be 0:30 to suit the rest of the game, but
+  maybe this level was originally designed so that the door to the keys
+  won't be secret but will just open when you kill all baddies, Dead Simple
+  style.)
+
+  E2M6 - Halls of the Damned
+  --------------------------
+  Another ugly, large, boring etc. level. * YAWN *
+
+  E2M7 - Spawning Vats
+  --------------------
+  Not too bad but not too good. I finished with too much ammo, considering
+  that the next level is E2M8.
+
+  E2M8 - Tower of Babel
+  ---------------------
+  A nice one, it was easy killing the cyberdemon though I missed way too
+  much. I didn't get hit throughout the whole level though.
+
+  *-*-*-*-*
+
+  Admin.:
+  Don't disqualify me - please! - after all I supplied my own time table!
+  Please? And I do wait 5-10 seconds in every end-level screen.
+
+  My home page (if you're bored or something):
+  http://www.geocities.com/Hollywood/4704 (/doom.html)
+
+  I know what you expect to find in this line, but no I won't write it here,
+  I've had enough of writing it and I won't write it anymore. But to make up
+  for it, I'll write: "I'm still waiting for The Final Doom to get to
+  Israel." There.
+
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+
+[  Admin. Note :-)  This kind of entry is NOT the kind of thing I was
+   looking for, as missing a monster or a secret would make the whole
+   .LMP "invalid", but if that's what you players want to play for...
+
+   So be it ! To beat this entry you must score more kills(!) or more
+   secrets(!) (NOT possible) OR go FASTER _without_missing_anything_!
+
+   Oh, how many points does this score --> FOUR ! [ For now ;-) ]
+
+S.;-) aka. The "Judge". ]
+
+

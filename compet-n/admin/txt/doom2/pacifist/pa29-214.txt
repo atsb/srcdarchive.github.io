@@ -1,0 +1,45 @@
+This is a Doom LMP Entry
+
+PA29-214.ZIP
+
+	PA29-214.TXT
+	PA29-214.LMP - Pacisist style
+
+Recorded using Doom2 Version 1.9
+
+Doom II - Level 29 - The Living End
+
+=---+------+---=
+Kills        21%
+Items        88%
+Secrets      0%
+ 
+TIME        2:14	Old record: 2:21 by Drew "stx-Vile" DeVore
+=---+------+---=
+
+Demo entry #13.
+
+Description:
+
+Not one of my better optimized demos (would aim for sub-2:00 with serious
+playing), but strangely this first-exit run is a Golden Cyber award demo beater.
+
+I didn't want to cross the place with imps and a skeleton twice, so after
+pressing the switch, I jump down to the rising bridge and beat about there with
+dragon heads (cacodemons) around me! This fight will be pure torture unless you
+know your right trajectory on those ledges, which I have discovered after a few
+hours of playing. Still not very easy, but a few times I survived it without
+getting hit.
+
+This is the second time I reached the upper area. Not that I
+missed the FJS jump in the previous attempt, but I was killed by
+the hellknight :(
+
+Thanks to Selim "Bastard" Benabdelkhalek for those compliments (he said that
+it's an experience for "Compet-N monsters" and requires "high monsters fighting
+skills, a good slalom skill, and first of all incredible luck"). Enjoy the pain!
+
+
+
+Author: SAV88 (Artem V. S.)
+Done September 30, 2007, 18:05:14

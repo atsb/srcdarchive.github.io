@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M4-040.TXT
+
+ E2M4-040.ZIP
+
+  E2M4-040.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 4 - Deimos Lab
+
+  Kills      4%
+  (Items     2%)            
+  Secrets   10%  and Time   00:40
+			    -----
+
+
+  Description :-)
+ 
+  Well... this LMP has an interesting story...
+
+  After doing the 0:29 on E2M3 it was natural that I thought of
+  improving E2M4 to 0:41. I played and played and I knew it was possible.
+  Then I made a very clear run and when I hit the exit switch, in that
+  moment I knew I got it. And it was a 0:41 indeed, but as I checked with LMPC,
+  I realized that it was a 41.00. I was very nervous because that run
+  was nearly perfect.
+  I played some more later but my times (especially the running part)
+  didn't even get close to that 41.00 demo. I got a 41.71 meanwhile and
+  I thought I'll upload that one so nobody gets tempted :-)
+  Well when I hit the exit switch in this particular run, and saw the
+  intermission screen I was the most surprised to spot 0:40. My first part
+  obviously sucks and the end isn't good either. I checked with LMPC
+  and it's a 40.97. I think that's my reward for not giving up :-)
+
+  BTW: this beats DdQ by 2 seconds...
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

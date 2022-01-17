@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TY23-804.TXT
+
+ TY23-804.ZIP
+
+  TY23-804.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O' Fun"
+
+  Kills   100%
+  (Items  81%)
+  Secret  100%  
+
+   ...and Time       08:04
+                    -------
+
+Description: This is my first COMPET-N demo. I watched the COMPT-N demo
+             then thought, "I can beat that." So I did. So here you are.
+
+             I take a slightly different route from Henning Skogsto's demo.
+             The Arch-Viles are killed eariler. (Damn anoying things.) And
+             the Revenants are used to help destory the Arachnotrons. (Ahh
+             family feuds.)
+
+             Well, enjoy the demo. If you don't may Tyson himself come and
+             bite your ear off.
+                        
+Author:      Keene "Mutlee" Ho
+E-mail:      keene@suburbia.com.au
+Doompage:    http://frag.com/doomworld

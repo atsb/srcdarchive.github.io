@@ -1,0 +1,12 @@
+P16N-055.LMP --> PL16 on Nightmare
+----------------------------------
+
+Kills   : 54%
+Items   :  9%
+Secrets :  0%
+TIME    : 00:55
+
+Comments: This is not as easy as it looks, I'd say its about medium
+          difficulty for a plutonia map.
+
+Robert Reevy <drparadox@usa.net>

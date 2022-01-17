@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+NM06-056.TXT
+NM06-056.ZIP
+
+NM06-056.LMP - NightMare !
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 06 - The Crusher
+
+Kills     29%
+(Items    11%)
+Secrets   33%  
+
+   ...and Time       00:56
+                    -------
+  
+Description: hmmm, nice map for speed-running.....this came quit easy.
+             I'm happy with the time btw.....
+
+
+Author: Henning Skogsto
+E-mail: hskogsto@frisurf.no

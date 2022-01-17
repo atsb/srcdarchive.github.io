@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN14-649.TXT
+
+ TN14-649.ZIP
+
+  TN14-649.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 14 - Steel Works
+
+  Kills    100%
+  Items     69%           ********
+  Secrets  100%  and Time * 6:49 *
+                          ********
+
+
+Description: Ok, just another of these boring ( :-) maps. There is enough health
+	     lying around that you don't need to hide much. You have to have
+	     some luck at the crushers, sometimes you waste a lot of time there.
+	     It's pure chaingunning, I can tell you. For those who like to kill
+	     many many monsters with that weapon. More difficult is to make as
+	     much of that maps as possible with the chainsaw :) or berserk
+	     (idbeholds). This map will be hard in -fast and Nightmare, there
+	     are so many "shooters".
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

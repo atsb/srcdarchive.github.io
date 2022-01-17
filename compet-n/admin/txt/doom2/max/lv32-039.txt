@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV32-039.TXT
+
+ LV32-039.ZIP
+
+  LV32-039.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 32 - "Grosse"
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:39
+                           -----
+
+
+Description: Took me some hours to complete...
+
+             And when you get the megasphere there seems
+             no reason to get the invulnarability.
+             Gotta have some luck with the blue guys - how
+             they walk and how your rockets hit them. Must
+             also have some luck with the Cyberdemon, will
+             take too much time if he stands for more than
+             3 hits...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

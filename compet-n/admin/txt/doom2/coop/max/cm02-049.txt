@@ -1,0 +1,34 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm02-049.txt
+
+ cm02-049.zip
+
+  cm02d049.lmp
+  cm02s049.lmp
+
+  Recorded using DooM ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 02 - Underhalls
+  
+           Kills    Items   Secrets
+
+  Green     46%      57%     100%      SlagDooM
+  Indigo    43%      14%       0%      Dark Friday
+
+
+  Time:    0:49.45
+
+
+Dark Friday: Well, it went ok.
+             (2nd demo of 9-sept)
+
+SlagDooM:    Another Dasa/Kai-Uwe max demo beaten. 
+             14 left... :)
+             
+            
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Bjorn "Dark Friday" Hamels       (bjorn@hamels.nl)       
+  

@@ -1,0 +1,16 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr)
+
+game:     doom v1.9
+category: coop speed
+level:    e1m4
+
+time:     0:16
+
+
+-----
+Admin note (Ralf):  That's the thought behind coop (as I see it): one clears
+                    the way for the other. I think 14 secs could be possible.
+

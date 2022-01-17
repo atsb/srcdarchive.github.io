@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM05-029.TXT
+NM05-029.ZIP
+
+NM05-029.LMP - Nightmare!
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 05 - "The Waste Tunnels"
+
+Kills     ??%
+(Items    ??)
+Secrets    ?%  
+
+   ...and Time      00:29
+                   -------
+
+
+Description: 
+
+    Henning, I wish you good luck for 0:28... i won't go for 0:27 :)
+
+
+Author: Vincent Catalaa <peroxyd@wanadoo.fr>
+

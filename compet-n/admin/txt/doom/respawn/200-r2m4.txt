@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+200-R2M4.TXT
+
+ 200-R2M4.ZIP
+
+  200-R2M4.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 4 - Deimos Lab
+
+  Kills     13%
+  (Items     6%)
+  Secrets   30%  and Time  1:03
+
+                          ******
+  Maximum Minimum Health = 200 %
+                          ******
+
+  Description:  Thought this should be easy as well - and was right.
+                It's possible on nightmare too, but I don't have the
+                time to do it.
+
+         Date:  Oct 26 1998, 22:57 MEZ
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

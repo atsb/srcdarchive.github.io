@@ -1,0 +1,60 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PF11-234.ZIP
+
+ PF11-234.LMP
+
+  PF11-234.TXT -UV FAST
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills       77%
+  (Items     I don't care!)  ********
+  Secrets    100%  and Time  * 2:34 *
+                             ********
+  C-N entry #11.	Date:12/10/2011
+
+
+  Description :)
+  Though I recorded this LMP file on second day of June, in 2011, I did not
+  immediately post it because since I've done this map so much, I felt like I
+  was hogging the Plutonia map 11 board and that I better brake a few
+  records on some other maps before I submit another PF11-xxx.LMP file.
+  But, in honer of DOOM's 18th birthday, I decided to submit a C-N entry.
+  This sadly was the only map I had an entry for, but you got what you got
+  and this is what I got, my 4th PF11-xxx.LMP entry.
+
+  Now, about the actual game-play; I was quite amazed to get this time. It is
+  ten seconds faster than my first  PF11-xxx.LMP entry which was back in
+  03/03/2011 which I find hard to believe was less than a year ago. Now, on
+  this I clearly got lucky, there's no skill at all in this. The Arch-viles
+  flinched at the right moments and the walls where just at the right spots
+  for me not to crash in to them to much with my insane mouse driven SR50
+  (NOT "mouse driver", I just use the mouse click to turn on strafe) which
+  almost got me in trouble on my first C-N entry as you can see here:
+  http://www.doomworld.com/vb/showthread.php?s=&postid=831080#post831080
+
+  I won't be surprised if this will be my last C-N entry, I don't have 
+  much time to play DOOM and when I do, it is to precious to spend on anything 
+  other than family and friends. 
+
+  Ahh, I feel so old yet I'm so young...
+
+  [Btw, 77% kills is maximum on this map (in UV) with out going to the exit on
+  the right and with out the "-respawn" parameter.]
+
+  
+  By the way, COMPET-N record was 2:41 by me.
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

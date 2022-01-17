@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV201021.TXT
+EV201021.ZIP
+
+EV201021.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 20 - Central Processing
+
+Kills    100%
+Items     54%           
+Secrets  100%  
+
+   ...and Time  10:21
+               -------
+
+
+Description: This map really isn't as huge as it seems. It can be difficult
+	     with the 2 Pain Elementals, Cacodemon, and that platform that
+	     brings the 3 other Chaingunners. I will probably record a better
+	     demo for this map, mainly 'cause i don't like the time being more
+	     then 10 minutes. Looks messy as a file name...:)
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

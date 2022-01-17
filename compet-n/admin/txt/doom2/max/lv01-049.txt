@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N" Entry - Please forward it...
+
+LV01-049.TXT
+
+ LV01-049.ZIP
+
+  LV01-049.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - Entryway
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:49
+                           -----
+
+
+Comments: The best. For ever (!?).
+          Let's improve some other levels.
+
+Computer: P133/16MB/SoundBlaster 16/Matrox Millenium/17" Trinitron
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

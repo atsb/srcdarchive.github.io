@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE10-414.TXT
+
+ RE10-414.ZIP
+
+  RE10-414.LMP - Ultra Violence with -Respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills    108% 
+  (Items    71)
+  Secrets  100%  and Time  4:14
+                           ----
+
+Description: Ok, ok, ok: I said that there would be no more respawn-entries
+             by me- but Jan really didn't want to do this map :-) I'm also
+             gonna do map17 for him. I had another low four-minutes recording
+             but that damn cybie fed me with a rocket....
+
+Author:     Anders Johnsen
+E-mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs27-013.txt
+
+ cs27-013.zip
+
+  cs27v013.lmp 
+  cs27z013.lmp - Ultra-violence
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP27
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:13
+
+
+Selim   : Nice :) We got that very quickly :)
+Vincent : Eh Eh Eh, Ah Ah Ah !!!! :)
+          Beats Arno's and Marko' 0:21.
+          Probably optimal for coop.
+
+Green:    Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:   Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

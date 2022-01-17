@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+P1M5-712.TXT
+
+ P1M5-712.ZIP
+
+  P1M5-712.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Kills     45%
+  (Items   68%)
+  Secrets   66%  and Time  07:12
+                           -----
+
+
+  Description: I did this because it was stil missing in my private
+               collection of UDOOM - pacifist recordings. Now only
+               P2M6 is missing, but I propably won't be able to beat
+               Andy's record there. In fact this recording is no record
+               either - Andy told me that he has finished it already
+               in less than 6 minutes.
+
+               Hi Andy, now you can upload your P1M5-5?? w/o beating
+               your own record - isn't that nice?
+
+               A very entertaining map to play pacifist, I enjoyed it.
+
+       Author: Steffen "Rini" Udluft
+
+       E-mail: rini@mppmu.mpg.de
+
+
+

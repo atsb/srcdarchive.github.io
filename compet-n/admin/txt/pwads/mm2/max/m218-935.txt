@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m218-935.TXT
+
+m218-935.ZIP
+
+m218-935.LMP - Ultra-Violence max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 18 - Regulate by Matthias Worch
+      
+Kills      99%
+Items      75%
+Secrets   100%	and Time - 9:35
+
+
+Description:
+
+Third exit. After UV- speed session I've decided to try max. I got 9:57 and 10:04 yesterday. This is first exit today. 
+The demo is featured some monsters divagation. I didn't expect to see no yellow's key door guard.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+10.01.2010

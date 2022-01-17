@@ -1,0 +1,18 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop NM speed
+mission:  e1m1
+
+time:     0:09
+
+xit-vono: I did most of the tries here.
+
+Vincent: I got a 10.02 rather early, but then Jim kept on doing the run.
+         Cool run anyway. I think it's a 9.80 ... quite good for coop.
+
+
+          

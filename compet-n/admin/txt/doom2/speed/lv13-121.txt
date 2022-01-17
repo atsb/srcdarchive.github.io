@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV13-121.TXT
+
+ LV13-121.ZIP
+
+  LV13-121.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - The Town
+
+  Kills     14%
+  (Items     9)
+  Secrets   12%  and Time  01:21
+                           -----
+
+
+Description: The other three ways: -nomonsters -> 1:21
+             This way: -nomonsters -> 1:13
+             But you have ammo. problems -> more luck needed
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

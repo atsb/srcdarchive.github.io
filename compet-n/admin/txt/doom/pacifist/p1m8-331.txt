@@ -1,0 +1,29 @@
+Ultimate Doom Pacifist entry for Compet-N
+
+P1M8-345.TXT
+
+ P1M8-345.ZIP
+
+  P1M8-345.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.1 Mi.8
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  03:31.87
+                         --------
+
+  Description:
+
+	14s better than my previous!
+	But there I miss the jump !! :..(
+	It saves around 10s so I've done a run that could be
+	around 3:20. Under 3:00 may be possible with a LOT of luck
+	=> The barons should take more damage in the barrels or the Demons
+	   should take the lift faster.
+
+  Author:  Catalaa Vincent - 07.03.1999 
+

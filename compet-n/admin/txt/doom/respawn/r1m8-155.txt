@@ -1,0 +1,72 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : r1m8-155.lmp & r1m8-155.txt
+Date     : 2013-04-29 10:37 -- (April 29, 2013, 10:37 AM)
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : Ultra-Violence -respawn
+Map(s)   : E1M8: Phobos Lab
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Casey Alvis
+Nickname : Altima Mantoid
+Country  : United States
+Email    : altimamantoid@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 102%
+Items    :  66%
+Secrets  : 100%
+Time     : 00:01:55:XX
+===================================
+Description:
+
+This is one of those rare situations where the -respawn timer is impossible
+to have lower than the UV Max time due to the setup. The ending on UV Max
+is unimportant to the route and category due to the death floor ending.
+HOWEVER, this is ENTIRELY DIFFERENT doing this on UV -respawn. It becomes a
+balancing act. Not to mention that it has the most unique route through the
+map when given respawning monsters and the requirement for such a run.
+
+The major difference between Max/-fast and -respawn is that you NEED to be
+able to reach 100% kills minimum, since it IS possible on ANY map when you
+tack on the -respawn parameter. So the question then becomes, "What is the
+quickest way to get 100% kills on this map?" What results is this .lmp file.
+
+Starting it out is the same as all categories: blow up the barrel, clear out
+the start, grab weapons, take elevator. From here, it changes. You want to
+constantly kill any Specters that spawn while balancing damage on the Barons.
+If there are no Specters, then you will want to go back down the lift (which
+is not seen or needed in any other category) and take out a few of the pink
+Demons again. Don't overdo it because you still have to be concerned about
+getting a speedy exit. After going down there, if it's needed, come back up
+the lift and finish the Barons off.
+
+Yes, the jump trick is still needed to get to the last room faster. Here's
+where the biggest difference in the Max/-fast and -respawn runs is located.
+All those enemies in the exit? They become legitimate targets to add to your
+percentage of reaching 100% kills. For once, the Invisibility is USEFUL.
+Picking it up keeps the shotgunners from laying waste to you quickly,
+giving you a good opportunity to take them out along with some Imps before
+you die. Don't waste time on the Demons as you'll use more ammo for less
+efficiency. Getting to the last room though means you need to be within 4
+kills or less of having 100%.
+
+It's a rather unique, tricky little balancing act when it all comes down to
+it. While it doesn't seem like there's a lot that needs to go on, in
+actuality you have a lot going on at the same time. You have to pay a lot
+of attention to your surroundings, to the Baron's health, to the Specter
+respawning locations, to the ammo, and to your own location when the Barons
+finally die. It's fun, but this one actually took me a bit of time to come
+up with an effective strategy to get.
+
+Thanks go to Zvonimir "fx02" Buzanic for allowing this .lmp as an entry. Back
+in the old days with Adam Hegyi running Compet-N, E1M8 never had a category
+for UV -respawn because of the incredible hassle and difficulty of figuring
+out if you had 100% kills or not, especially when coupled with the fact that
+there is no time seen upon exit in plain vanilla Doom.exe. Fortunately with
+the coding of source ports, you can simply run the .lmp recorded in Doom.exe
+through a source port like PRBoom+ to see if you have hit 100% kills or not.
+You even get to see your time in doing this. The only downside is that you
+still have to watch back every single successful attempt, but hey, it's a
+start ;)

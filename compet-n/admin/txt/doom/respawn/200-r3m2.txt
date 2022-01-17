@@ -1,0 +1,47 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+200-R3M2.TXT
+
+ 200-R3M2.ZIP
+
+  200-R3M2.LMP - Ultra Violence - RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  Doom -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  Episode 3 - "Inferno"
+
+  Mission 2 - "Slough Of Despair"
+
+
+  Kills     18%
+  (Items    13%)
+  Secrets   66%  and Time  02:42
+
+  Minimum Maximum Health = 200%
+                           ----
+
+Description:  never hit + soulsphere = perfect! :-)
+
+              puh, now that was really tough as hell. i think i've
+              played this map at least 50 times to make in without
+              any hit(s), trying various route- and kill-scenarios.
+
+              the main problem is, that you can't just make a run
+              to the exit, because you have to get the megasphere for
+              maximum health. and for that part, you need (more) ammo.
+              and to get it, you have to disturb a few more monsters.
+              monsters that follow you. and you mustn't kill them,
+              since you have a shortage of ammo and (at least the
+              cacos) respawn anyway.
+
+              this is now the optimised route, and i think it's a
+              fairly save one (only 1 lost soul and the respawned
+              1st shotgunner in your back).
+
+
+     Author:  Thomas "Poeppy" Kroppen
+
+     E-mail:  poeppy@aol.com

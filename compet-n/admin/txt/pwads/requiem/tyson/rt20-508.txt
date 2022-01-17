@@ -1,0 +1,20 @@
+Author: Erwin Lin
+E-mail: e_lin@coloradocollege.edu
+Skill:  UV Tyson
+Game:   Doom2 Requiem
+Map:    20
+Time:   5:08
+
+recorded with Doom2.exe v1.9
+
+Description: Now this is an improvement.  Didn't even use the medkit in
+that secret area.  I'm not so sure what caused the time improvement as
+my plan to distract the Hell Knight or Baron after it hit an imp so the
+imp could do more damage didn't work.  If one could somehow telefrag
+either of the big enemies and not take much time in doing it, there's
+still room for a lage improvement.  Pistol shooting the Baron of Hell
+took a long time in this demo.
+Heh, by the time Adam H updates, I'll probably already be retired from
+Doom2.  This will likely be my last Compet-N entry.  Requiem maps 03
+and 26 are very likely both possible in Tyson but I don't have the time
+to produce successful recordings of them.

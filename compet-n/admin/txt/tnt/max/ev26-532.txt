@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV26-532.TXT
+EV26-532.ZIP
+
+EV26-532.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 26 - Ballistyx
+
+Kills    100%
+Items     37%           
+Secrets  100%  
+
+   ...and Time  5:32
+               ------
+
+
+Description: Another ok map. Looks pretty good at first, but then comes the
+	     caves and stuff and they've been way over-used. The gameplay 
+	     mostly sucks, but it's pretty much in places where you won't face
+	     monsters. The time i got isn't that good, so i guess it could be
+	     cut down to 5:10 or maybe even below 5 minutes... who knows.
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

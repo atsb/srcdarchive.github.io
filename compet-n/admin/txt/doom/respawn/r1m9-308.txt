@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M9-308.TXT
+
+ R1M9-308.ZIP
+
+  R1M9-308.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 9 - Military Base
+
+  Kills    112%
+  (Items    32%)
+  Secrets  100%  and Time  03:08
+                           -----
+
+  Description: Now that ALL Doom2 maps are done on re100/100 I start
+               to collect some more for Doom1. I wonder why this map
+               was still missing in COMPET-N, while all the others from
+               episode one have been done already (except for e1m8, which
+               shows no kills/secrets).
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

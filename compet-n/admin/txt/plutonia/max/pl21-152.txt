@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+pl21-152.txt
+pl21-152.zip
+
+pl21-152.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP21 - Slayer
+
+=--------------=
+Kills      100%
+Items      100%
+Secrets      0%
+
+Time       1:52
+=--------------=
+
+C-N entry #118.
+
+Thanks to Henning for his run.  A very
+nice map with the RL dominating the
+gameplay.  Once again, the PEs are the
+monsters to hate here. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

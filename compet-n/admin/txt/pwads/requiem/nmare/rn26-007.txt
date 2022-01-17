@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN26-007.TXT
+
+ RN26-007.ZIP
+
+  RN26-007.LMP - NightMare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 26 - Excoriation
+        
+  Kills      9%
+  (Items     0%)          *********
+  Secrets    0%  and Time * 00:07 *
+                          *********
+                          
+
+  Description :-)
+  
+  All too easy.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

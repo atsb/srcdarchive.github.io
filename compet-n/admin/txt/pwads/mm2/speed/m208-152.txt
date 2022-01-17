@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m208-152.TXT
+
+m208-152.ZIP
+
+m208-152.LMP - Ultra-Violence Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 08 - Stigmata by Denis Moeller      
+Kills      36%
+Items      31%
+Secrets     0%	and Time - 1:52
+
+
+Description:
+
+1:3x could be reachable with more risky playing. 
+
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+03.05.2004

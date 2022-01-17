@@ -1,0 +1,11 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map22
+
+Time:           0:18.63
+
+
+Comments:       This was probably my fastest glide. I also managed to get on the lowering
+                elevator after the first teleport. Really happy I didn't mess it up.

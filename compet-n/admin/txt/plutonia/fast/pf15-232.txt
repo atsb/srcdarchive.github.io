@@ -1,0 +1,46 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: plutonia.wad                            |
+            | Author: Dario Casali & Milo Casali            |
+            | Demo filename: pf15-232.lmp                   |
+            | Category: UV -fast                            |
+            | Map Level: MAP15 - The Twilight               |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    121%                            |
+            |      Items     58%           ********         |
+            |      Secrets  100%  and Time * 2:32 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Oh my, I thought this game would never let me win...                   |
+| There are two C-N entries on this map, both by Demonlord, both very    |
+| old but very stylish. The problem was, Demonlord thought four          |
+| chaingunners (which are constantly being resurrected) cannot be        |
+| killed, so he ignored them. Both 2:39 and 2:43 demos are invalid       |
+| UV -fast demos, let's say the truth.                                   |
+|                                                                        |
+| In order to correct the matter I wanted a 100% real kills demo below   |
+| 2:39, as a slower demo would not be interesting IMO, after 15 years.   |
+| Attaching a bonus demo, in which I assumed 3 rockets vs. already       |
+| "injured" mancubus should be enough. The time was 2:38, the mancubus   |
+| survived, NONE of these rockets did even 190 HP damage...              |
+| At that moment the best legal run I had 2:40.03 and the best one with  |
+| one missed kill was 2:34. Needless to say, I'm very happy with 2:32.   |
+|                                                                        |
++========================================================================+

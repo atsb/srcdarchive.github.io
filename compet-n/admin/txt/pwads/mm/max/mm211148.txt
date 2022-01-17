@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+MM211148.TXT
+
+ MM211148.ZIP
+
+  MM211148.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 21 - Twilight Lab
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 11:48 
+                                 
+
+  Description: I was considering doing this level, before Anthony did
+               his demo. So I had a couple of route
+               improvements in mind, particularly at the end.
+               Still, I think 10:00 is out of reach, the level is just
+               too big.
+
+               This is a great level with some wonderful design,
+               just like the other Memento Mori stuff. But gameplay
+               hasn't been juggled perfectly, and it can be frustrating
+               trying to speed through the level.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com
+

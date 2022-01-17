@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+MM09-217.TXT
+
+ MM09-217.ZIP
+
+  MM09-217.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 09 - High-Tech Grave
+
+  Kills     22%
+  Items     18%           ********
+  Secrets   18%  and Time * 2:17 *
+                          ********
+
+  Description :-]
+
+  This route is inspired by TAS movie by Nikolay "Heretic" Kamnev 
+  (still in progress).
+  Firstly, I record a demo with doom2+ (it's default "port" for me lately) 
+  two months before and got 2:47. 
+  Today I have re-recorded and improved it with original doom2.exe.
+
+  The main problem within this route - monsters. ;] 
+  They teleport from player path to random places at any time, especially barons 
+  to narrow path in hall with toxins. My previous attempts are 2:37, 2:36, 2:35, 
+  and now I get 2:17 with much better luck (no one damned barons in front of
+  gate!)
+
+  My 1st compet-n entry - hope no last. :]
+   
+  Hitherto (rcdemo@mail.ru)
+  8 september 2007
+  

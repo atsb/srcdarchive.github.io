@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M8-147.TXT
+
+ N1M8-147.ZIP
+
+  N1M8-147.LMP - NightMare
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.1 Mi.8 - Phobos Anomaly
+
+  Kills   >100%
+ (Items     ??%)
+  Secrets   ??%    and Time  01:47 approx.
+            
+Description:  You were right, Steffen.
+              It was very easy to beat your time.
+              I reached a 1:47 in Pacifist style after 10 mins of
+              practicing! This was a very easy half-point. 
+              Give that map another try, Steffen!
+
+Author:       Patrick 'Baum' von Massow
+E-mail:       qoomduke@gmx.net

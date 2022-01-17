@@ -1,0 +1,60 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PR24-317.TXT
+
+PR24-317.ZIP
+
+PR24-317.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -file plutonia.wad -playdemo with Doom2 Version 1.9
+
+Final Doom: Plutonia Experiment - Level 24 - The Final Frontier
+
+Kills    109%
+Items    100%
+Secrets  100%
+
+              ********
+  and Time -  * 3:17 *
+              ********
+
+
+Description :
+
+Heh, I remember trying this one back when I was a keyboarder. Like...a
+really long time ago. Only got to the Cyberdemon area twice out of around
+100 attempts back then.
+
+I picked it up today, and the first hour and a half of this map, I was
+being slaughtered like a newbie >.< Then I kinda figured out what to do, and
+so I get to the second half of the map, and I'm being slaughtered much
+more brutally than before. Fortunately, I wasn't stuck at that part of
+the map for long, as I finally found a safe route to finish the map in
+this style ^^'
+
+Basically, survive til the second half, then use the Plasma Rifle all the
+way until you grab the remaining secrets. Now that I've finished this, I
+would have to say that this is more frustrating than it is difficult. The
+only real worry is that one Arch-Vile... -_-' He will go across that
+ledge you raise and through the door and proceed to flame you from
+basically anywhere in that room o.o'
+
+I can't argue with the time either. After working on this off and on for
+over a year's time, 20 seconds faster than Hegyi's max isn't a
+disappointing time in the least. And this is my first successful exit,
+mind you. I had a 4:01 with 85% secrets once, but hey...that's not
+exactly successful ;)
+
+Anyway, I hope this demo is enjoyable ^^
+
+On a side note, today is my 18th birthday! ^_^
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+01.08.2002

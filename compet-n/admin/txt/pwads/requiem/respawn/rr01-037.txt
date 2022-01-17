@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR01-037.TXT
+
+ RR01-037.ZIP
+
+  RR01-037.LMP - UV -respawn!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 1
+
+  Kills    100%
+  (Items    22%)          *********
+  Secrets  100%  and Time * 00:37 *
+                          *********
+                          
+  Description:
+
+  It's pretty much like UV Max, which is still 1s faster.
+    
+
+  Radek Pecka
+  r.master@email.cz  

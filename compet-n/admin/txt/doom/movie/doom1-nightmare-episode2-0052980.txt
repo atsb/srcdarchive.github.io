@@ -1,0 +1,79 @@
+Runner: Zero-Master
+IWAD: DOOM.wad
+Category: NM-Speed
+Map: Episode 2 (E2M1-E2M8)
+Source Port: Competition Doom v2.0.3.2
+Time Without M8: 3:45 (03:49.51)
+Time With    M8: 5:25 (05:29.80)
+
+----------------------------------------------------------------
+Level			Map	Time		e2nm-0351
+
+Deimos Anomaly		E2M1 -	0:44		+0:02
+Containment Area	E2M2 -	0:16		-0:02
+Refinery		E2M3 -	0:35		-0:01
+Deimos Lab		E2M4 -	0:46		+0:01
+Command Center		E2M5 -	0:34		-0:02
+Halls of the Damned	E2M6 -	0:31		-0:05
+Spawning Vats		E2M7 -	0:19		+0:01
+Tower of Babel		E2M8 -	1:49		+0:24
+----------------------------------------------------------------
+			TOTAL -	5:25		+0:18
+E2M8 comparison is not relevant. E2M1-E2M7 time is improved by 6 seconds.
+
+Description: My first ultimate doom nightmare episode run.
+This was somewhat frustrating, reminded me of my first attempts
+at episode 4 uv-speed, where I didn't prepare\practice enough but
+I figured "I'd eventually get the luck that I need and get an improvement",
+I was wrong.
+
+This took a lot more attempts than what I would have wanted, even though
+I feel like this is not even that difficult. E2M7 time is terrible, I knew
+my time was more than good enough so I played it safe, so there is quite
+a big timesave at the very end for anyone looking to improve it. 
+E2M6 was quite good though, much more difficult to reach E2M6 in NM 
+than in UV, and that map is pretty much everything in a UV run.
+
+I wasn't planning on playing that safe on E2M8, but I went through
+the wrong door at the start and so I slowed things down a bit, I 
+really wanted to grab the last soulsphere, of course the cyberdemon
+was in that room.
+
+E2M1: Absolute shit map to run on nightmare, sometimes you take 100 damage 
+before even reaching the blue key. There are many ways to get through the 
+demons on the elevator, unfortunately there is no consistent way. Going 
+pacifist and letting the shotgunners hit the demons can sometimes work well,
+but I think the method I used here might be the best. Shoot the demons, wait
+for them to start moving off the platform and run down the middle. 
+
+44 seconds is not a good time, 2 seconds lost to the previous record. 
+
+E2M2: Usually an easy map, but whenever the demon gets a solid block in
+or I miss the switch I lose 1-2 seconds, quite annoying.
+
+E3M3: One of the maps where I really should have spent more time preparing.
+There should be enough cells even if you waste some on the demons by the
+blue key and the lost souls by the mega armor and also at the very end.
+
+E2M4: I wasted so many damn runs to this map, so many stupid mistakes.
+Most of them was getting hit by the barons, which shouldn't really happen 
+if you practice those parts enough. Closing the first door before entering
+the room was a good idea from e2nm-0351. Not a good time.
+
+E2M5: Easy map, skipping the soulsphere on E2M4 would make it more interesting. 
+Not a very good time though.
+
+E2M6: Very happy with this time, most important map of the run since it can
+really destroy your run, both with the void glide and the switch press.
+However, neither of them requires any luck!
+
+E2M7: I knew my time was more than good enough, so I figured I'd grab the
+extra rockets. It's possible to get as low as 14 seconds with my method here.
+I use a different setup compared to uv speed, it works every time as long as 
+you don't get disrupted by any surviving demons. Terrible time.
+
+E2M8: This was unnecessarily slow, I went through the wrong door and the 
+cyber ended up by the soulsphere somehow after I shoot myself with a rocket 
+and couldn't figure out which room the soulsphere was in.
+
+Still plenty of time that can be saved, but the first maps are no fun at all.

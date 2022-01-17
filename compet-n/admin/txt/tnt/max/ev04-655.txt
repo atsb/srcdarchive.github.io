@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV04-655.TXT
+
+ EV04-655.ZIP
+
+  EV04-655.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 04 - Wormhole
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  06:55
+                           -----
+
+
+Description: I kinda like this level. There's plenty of shells, you just have to
+             pick your route carefully (getting SSG early is nice). This is my
+             first succesful try after practising, so I guess < 5:00 could be
+             done by a good player with a better route.
+
+Author:      Maximiliano Di Dio
+
+E-mail:      mdidio@sion.com

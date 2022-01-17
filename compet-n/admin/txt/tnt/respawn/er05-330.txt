@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ER05-330.TXT
+
+ER05-330.ZIP
+
+ER05-330.LMP - Ultra-Violence -respawn
+
+Recorded using Doom 2 Version 1.9 !
+Doom2 -file tnt.wad -playdemo with Doom 2 Version 1.9
+
+Final Doom: TNT Evilution - Level 05 - Hanger
+      
+Kills      111%
+Items       45%
+Secrets    100%
+
+              ********
+  and Time -  * 3:30 *
+              ********
+
+
+Description:
+
+Xit Vono said in his er05-535:
+>>Should be easy to beat.
+
+I agree, so allow me to submit something a little bit sturdier.
+It's basically run and gun, but there's a cluster that likes to
+build up in the central area near the start, so you have to plow
+through them a few times.
+
+This was my second exit, spent 15 minutes on it so probably an
+easy map to take I'm sure. By the way, yes, that one box of
+bullets was vital to finishing ;) I sure the Soulsphere and
+blue armor can be skipped and still play aggressively. Probably
+sub 3-minutes is possible with enough luck and skipping said
+items.
+
+Funny thing here is, it's the first time that I can recall where
+music brought me to make a recording, and I was in a -respawn
+mood... the music in question is "Hung Like a Pinky" by The
+Orichalcon over at OverClocked Remix.
+
+
+Author:      Casey Alvis
+E-mail:      altimamantoid@gmail.com
+
+
+04.21.2012.

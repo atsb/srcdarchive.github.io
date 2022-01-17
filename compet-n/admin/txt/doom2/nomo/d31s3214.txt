@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+31s	32.14	And I wish I had the motivation to get 31s with and without monsters
+
+
+Author:		Looper

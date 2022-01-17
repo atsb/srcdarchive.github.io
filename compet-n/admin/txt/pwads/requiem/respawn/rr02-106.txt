@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR02-106.TXT
+
+ RR02-106.ZIP
+
+  RR02-106.LMP - Ultra Violence with respawn monsters!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 2 - Sacrificium
+
+  Kills    100%
+  (Items   100%)          *********
+  Secrets  100%  and Time *  1:06 *
+                          *********
+                          
+
+Description:  This equals UV max record.
+  
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz

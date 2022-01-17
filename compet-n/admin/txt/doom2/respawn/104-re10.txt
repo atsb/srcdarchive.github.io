@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+104-RE10.TXT
+
+ 104-RE10.ZIP
+
+  104-RE10.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills     35%
+  (Items    61)
+  Secrets   33%  and Time  02:39
+
+  Minimum Maximum Health = 104 %
+                           -----
+
+  Description :
+  This is just to show that the supercharge can be reached unhitten.
+  I've never done it before and you can see me acting extremely nervous.
+  So the final score of 104% is really bad, but I leave it to you to
+  optimize it to something like 150%. I don't think that's fun ...
+
+
+  Author : Rini (Steffen Udluft)
+
+  E-mail : rini@mppmu.mpg.de
+

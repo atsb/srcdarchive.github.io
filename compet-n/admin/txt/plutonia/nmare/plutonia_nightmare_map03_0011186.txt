@@ -1,0 +1,24 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : plutonia_speed_map03_0011186.lmp & .txt
+Date     : 2013-09-15 
+Game     : Final Doom - Plutonia
+Client   : cndoom.exe v2.0.2
+Category : Nightmare!
+Map(s)   : MAP03: Aztec
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+-------------------------------------------------
+Kills    : 30%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:01:11.86
+===================================
+Description :-)
+
+More stuff for those empty cndoom tables. Far from optimal as per usual.
+This map is pretty reasonable on nightmare, biggest problem with this
+route is getting past the archvile when returning from the blue key.

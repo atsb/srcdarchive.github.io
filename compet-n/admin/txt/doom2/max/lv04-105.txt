@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV04-105.TXT
+
+ LV04-105.ZIP
+
+  LV04-105.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 8 - "The Focus"
+
+  Kills   100%
+  Secrets 100%	and Time     01:05
+                             -----
+
+
+
+Description:
+
+This lmp was a long time in coming.  I've been playing this level
+for quite a while.  At one point I thought I made a new record at
+1:09, but Demonlord beat me to it.  Then I recently saw Henning's
+fantastic 1:07.  I looked at my 1:09, and knew that there was another
+3 seconds there in a faster route.  I made 1:07 three times, but
+I couldn't give up as they all looked improvable.
+
+At the start I kill the sarge, then turn left and kill the chaingunner,
+instead of going right for the switch.	This might be slower, I'm not sure.
+It is certainly safer!	Another change is that I go straight for the
+SSG, the theory being that I can kill the imps faster with it.	At the
+end I don't jump straight to the door, I take the teleporter because
+I often mess up the jump.  It's just too annoying to make a good
+run and then stumble at the final hurdle.
+
+
+Ian Sutton
+bx880@torfree.net
+
+

@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR30-140.TXT
+
+RR30-140.ZIP
+
+RR30-140.LMP - UV -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -file requiem.wad -PlayDemo with Version 1.9
+
+Requiem - Level 30 - Nevermore
+      
+Kills      107%
+Items       91%
+Secrets      0%
+
+              ********
+  and Time -  * 1:40 *
+              ********
+
+
+Description:
+
+This level still sucks, but I managed to have more health when I went
+into the end room, plus the "self-destructing Imps" as I call them
+(since they squish each other coming out of their teleporter cages)
+helped out on getting the 100% kills.
+
+This run wasn't nearly as aggravating as the Max I did for this level,
+and getting the Cacos and Hell Knights to crossfire went really well.
+
+On to something else, this maps a little aggravating now... >.<
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+15.02.2002

@@ -1,0 +1,48 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV10-038.TXT
+
+ LV10-038.ZIP
+
+  LV10-038.LMP - UltraViolence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills     14%
+  (Items    18)
+  Secrets   16%  and Time  00:38
+                           -----
+
+
+Description: B F G 9000 ! It helps a lot to open one door ;-)
+             DL said he would try to improve this level. So I improved it
+             first.
+             What could be made better:
+             1) The sergeant should fall with the 2nd shot (or with some
+                help) so you don't have to stop to get your shotgun.
+             2) I made it all the way round a spider -> 0.5 seconds
+             3) I didn't get the blue key through the door
+             4) The BFG released late
+             5) Missed the north wall and stepped back too much at the exit.
+
+             So who will make it in 0:36 ? Should take some days. When you
+             are REAL fast, the Cyberdemon will take care of you... Every
+             time! Believe me!
+
+             Think I will make an entry in /built for that level. Only have
+             to fire my DX33 with some coals :-)
+
+             Done! What time do you expect?
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle/       (just growing)
+
+

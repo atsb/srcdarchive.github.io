@@ -1,0 +1,29 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE20-542.TXT
+
+ RE20-542.ZIP
+
+  RE20-542.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 20 - "Gotcha!"
+
+  Kills    107%
+  (Items    53%)
+  Secrets  100%  and Time  05:42
+                           -----
+
+
+Description: getting 100% kills is the secret to
+             this one, and the 100% secrets too. :)
+             at the end i kill just another painie
+             and get almost killed by a respawning
+             chaingunner. initial effort.
+
+Author:      Thomas "Poeppy" Kroppen
+
+E-mail:      poeppy@aol.com

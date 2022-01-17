@@ -1,0 +1,47 @@
+This is a Doom .LMP "Competition" Entry
+
+ev18-133.txt
+ev18-133.zip
+
+ev18-133.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+TNT - Level 18 - Mill
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:33
+=--------------=
+
+We're having trouble running out
+of new tricks recently, it seems.
+I must say that I was very happy
+to have discovered this one for
+a couple of reasons.  First was
+simply figuring out that the trick
+was possible, since it's a rare
+situation where you have to actually
+change your direction in midair with
+a rocket to make a jump.  Second,
+I was quite pleased to see that
+there was also a new route available
+in this level that allowed this trick
+to be used.  The rocket launcher
+isn't too out of the way, and as
+such, I was able to remove nearly
+half a minute from the previous
+record.  Unfortunately, the run is a
+bit sloppy, since lately I've only
+had to the patience to finish a run
+with the trick, rather than smoothing
+out those little hiccups in movement
+and so on.  Anyway, enjoy watching
+this in slow-motion. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

@@ -1,0 +1,12 @@
+This is a   Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+authors:    Arno Slagboom        (Indigo)             <slagboom@cybercomm.nl>
+            Marko van der Want   (Green)
+
+game:       Doom ][
+
+category:   Coop Max
+
+level:      MAP01
+
+time:       0:49

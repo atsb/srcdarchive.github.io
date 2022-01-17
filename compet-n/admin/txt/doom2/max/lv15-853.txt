@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV15-853.TXT
+
+ LV15-853.ZIP
+
+  LV15-853.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 15 - Industrial zone
+
+  Kills    100%
+  (Items   100)
+  Secrets   90%  and Time  08:53
+                           -----
+
+
+Description: This is a real strange level, I can't find the last
+             10% secrets and I don't believe there is any either...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

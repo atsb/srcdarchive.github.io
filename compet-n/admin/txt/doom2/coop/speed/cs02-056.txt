@@ -1,0 +1,10 @@
+authors:    Vincent Catalaa    <peroxyd@wanadoo.fr>
+            Nicolas Gandou
+
+Game:       Doom2 v1.9
+         
+category:   Cooperative 2 players Speed
+
+map:        Map02   Underhalls
+
+time:       0:56

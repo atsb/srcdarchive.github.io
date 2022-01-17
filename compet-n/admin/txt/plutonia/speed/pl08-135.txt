@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry
+
+PL08-135.TXT
+PL08-135.ZIP
+
+PL08-135.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 08 - Realm
+
+Kills     43%
+Items     37%
+Secrets    0%  
+Time     1:35
+         ----
+
+Description:
+This is my first entry for compet-n, so I hope you enjoy watching it. :)
+
+This map was probably not a good choice for a first entry, but there was
+previously no entry for it, so I thought I would open the way for future
+runs here.  I plan to try improving it myself after it is uploaded.
+
+There is definitely room for improvement on this map, my performance at
+the blue key is the proof. :)
+
+It takes a lot of luck for the monsters to cooperate on this one, the
+mancubii hallway could have been faster, and it's also possible to dash
+to the switch in the room beyond the blue door without killing the
+cacodemons and pain elemental.  But, everytime I made it to that room 
+alive, I felt the risk was too high to try it.
+
+Author: stx-Vile (stx is the Stickmen, one of the best Quake 3 clans today.
+Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com (subject to change)
+

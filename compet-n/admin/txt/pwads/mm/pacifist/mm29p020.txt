@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM29p020.TXT
+
+ MM29p020.ZIP
+
+  MM29p0201.LMP - UV Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 29 - Island of Death
+
+  Kills        0%
+  Items       14%            
+  Secrets      0%  and Time: 0:20 
+                             ==== 
+
+  Description :-)
+
+  My first COMPET-N entry!
+
+  I was watching some MM pacifist runs today, and noticed an improvement 
+  was clearly possible here, so I loaded up old doom2.exe and an hour 
+  later, here we are... :-)
+
+  0:20 was as unexpected as it was welcome. ;-) I had two 0:21's at that 
+  time, but in both of those runs I got stuck at the demons, so I just 
+  wanted a clean 0:21 run... then this came along.
+
+  Note a slightly new tactic here, which is beneficial in UV pacifist runs 
+  as well as UV speedruns: I wake up the imp below the stairs early (by 
+  shooting the wall), which is extremely helpful, as that imp will often 
+  have moved out of my way as you reach that point. This demo is of course 
+  still slow, I completely missed the start for example. 0:19 will be easy 
+  for any good speedrunner. The optimal time for this map is at least 0:17, 
+  I think. 
+
+  Credits for the switch trick at the end should probably go to Michael 
+  "Migru" Grube, who used it in his demo of this map in the mmdemoup 
+  collection. That demo precedes Istvan's mmuvlmps-demo by several months.
+
+  Kristian Ronge
+  zuckuss@gmail.com

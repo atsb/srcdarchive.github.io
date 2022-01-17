@@ -1,0 +1,32 @@
+
+  This is my first try so don't laugh!
+
+  I recorded this on DOOM vs. 1.9 (UV of course)
+
+  If you've got 1.666 then just change the first byte of the
+  LMP from 6D to 6A.
+
+
+  Mission-Level        Time
+------------------------------
+  1-1                  0'49"
+  1-2                  1'36"
+  1-3                  3'57"
+  1-4                  2'08"
+  1-5                  4'27"
+  1-6                  6'06"
+  1-7                  5'55"
+  1-8                  ?'??"
+------------------------------
+  Total               24'58"
+
+
+  This time is very beatable, since I wasted some time looking around
+  for extra rockets.  Any comments?  E-mail me at gcauthon@umr.edu
+
+
+ Gary Cauthon
+
+ gcauthon@umr.edu
+
+

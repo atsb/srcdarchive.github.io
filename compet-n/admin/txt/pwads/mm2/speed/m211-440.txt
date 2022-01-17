@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M211-440.TXT
+
+M211-440.ZIP
+
+M211-440.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 11 - Sewer Shutdown
+
+Kills       52%
+Items       37%
+Secrets     12%
+
+              ********
+  and Time -  * 4:40 *
+              ********
+
+
+Description:
+
+Well, I needed to do something, haven't done a demo in a while, so I thought I'd
+try my luck with speedrunning again.
+
+While downloading the Max-Kill demos for Memento Mori 2, I'm starting to wonder
+if MM2 is as bad as I had originally said...anyway, I watched the Max for this
+and noticed it was one that could be fun to speedrun. ^_^
+
+My favorite part in this whole level is the last big room with all the poison.
+It's a nice room, and nicely layed out. I got kinda confused at the teleporter
+part even though I was sure I knew the route, but I just sorta forgot it at the
+time I went to go through them.
+
+Ammo...there's barely enough it seems on this map. Health is also a slight issue
+until you get to the end where you've got a Megasphere you can grab, but in this
+run by the time you get it, it's kinda...useless ^^'
+
+I grabbed a Rocket Launcher I didn't need, and I miss a few shots and lose some
+time, but all in all, this is a decent demo ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+28.07.2002

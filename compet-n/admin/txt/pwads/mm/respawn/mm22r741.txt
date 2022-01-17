@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm22r741.TXT
+
+ mm22r741.ZIP
+
+  mm22r741.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 22 – UV Respawn
+
+Again, same as Xit's former NM100S run, but a bit more risky. To be honest, it ended up being a lot harder than I thought it would be. The spiderdemon fight kinda sucked, I shot them enough to make them attack me instead of each other. Also the ending, I didn't see a chaingunner that teleported in and I didn't know who kept draining my health to 18% so I was very cautious at that point.
+
+Author: Revved

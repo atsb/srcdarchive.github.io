@@ -1,0 +1,27 @@
+[ This is a COMPET-N speed entry, played with pacifist style. ]
+
+E3M2-028.TXT
+
+ E3M2-028.ZIP
+
+  E3M2-028.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Ep.3 Mi.2 - Slough of Despair
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:28
+                           -----
+            ^^^
+  Who cares ...
+  This is a Speed Entry :-)
+
+ Done by Eelco de Vries
+ eelco.devries@kub.nl
+
+ D1M :-> d1m-edv.zip
+ at ftp.cdrom.com
+

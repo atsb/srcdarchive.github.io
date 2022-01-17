@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+MM14-121.TXT
+
+ MM14-121.ZIP
+
+  MM14-121.LMP - Ultra Violence!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+
+  Kills     ?%
+ (Items     ?%)          ********
+  Secrets   ?%  and Time * 1:21 *
+                          ********
+
+  Description : 
+
+  OK, no major fuckups this time. The running isn't very good though and there are
+  some minor annoyances like mancubi blocking me and some problems at the end
+  (I thought I was gonna die for sure when the arachnotron failed to distract the cyber).
+  This is probably the last word from me here unless someone cares about beating this run. 
+  
+  Erik Alm
+  erik_a80@hotmail.com

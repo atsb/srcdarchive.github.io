@@ -1,0 +1,39 @@
+************************************************************************
+LMP Title       	: Classic Episode map8 UV max run
+Filename                : clm8-711.lmp
+LMP Version             : 1.9
+Game                    : Ultimate Doom
+Pwad(s)                 : Class_Ep.wad
+Map Level(s)            : E2M8
+Skill                   : 4 (Ultra Violence)
+Length                  : 7:11
+
+Author                  : Anthony Soto
+Email Address           : neworderdatabase@hotmail.com
+Webpage                 : http://thefish.8m.com/
+************************************************************************
+
+Description             : Watching Doug's demo I was like:
+
+"What da hell is he doing ?? :D Too much wine on New Years for Doug!"
+
+Doug's demo actually had 99% kills as he missed one imp at the end.
+
+4 minutes and 17 seconds faster. This was my first successful run 
+through. Although compiling this episode and doing a few edits to
+the level and I know it like the back of my hand. 
+
+Really this level is about micro-management of health and ammo. In
+my opinion there is enough of each. Except, it's not always where
+you need it when you need it. Picking up the beserk at the right
+time is essential if your having health problems. 
+
+Nick really did a great job of redoing the final area. I fine tuned
+the battle area (for instance - originally Nick only had two ends 
+open for battle until I had the north wall lower). A great ending
+to the Classic Episode.
+
+Recorded on January 1st, 2001
+
+
+

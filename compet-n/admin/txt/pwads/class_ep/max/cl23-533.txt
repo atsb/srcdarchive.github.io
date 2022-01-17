@@ -1,0 +1,22 @@
+DooM SDA - October 2000 featured map
+Opulent Homepage
+http://www.goodnet.com/~opulent/sda/doom_sda.htm
+
+Pwad:      class_ep.wad
+Map:       e2m3
+Category:  UV Max Demo
+Exe:       Original Doom.exe
+
+Time:      5:33
+
+Comments:  Just 4 sec faster than Arno's run. But forget
+	   about this final time. I just wanted to
+	   use a slightly different strategy.
+	   Too many mistakes. If you want to see a
+	   better demo, take Arno's. 
+           
+
+Author:    Albert Valls
+Adress:    vrmr@wanadoo.es
+HP:	   http://www.newdoom.com/cyberdreams/
+

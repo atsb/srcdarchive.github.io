@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+RE23-157.TXT
+RE23-157.ZIP
+
+RE23-157.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O'Fun"
+
+Kills    100% 
+(Items    50)
+Secrets  100%  
+
+   ...and Time      01:57
+                    -----
+
+ 
+Description: Well Adam I think I'll go for under 2 min, it took me about
+	     30 min too do this, the hardest respawn to beat so far..:)
+		   
+Author:   Henning Skogsto
+E-mail:   hskogstoc2i.net 
+Doompage: http://home.sol.no/~doom/

@@ -1,0 +1,32 @@
+This is a Doom .LMP "Competition" Entry
+
+ps26-114.txt
+ps26-114.zip
+
+ps26-114.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP26 - Bunker
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets     75%
+
+Time       1:14
+=--------------=
+
+C-N entry #96.
+
+Yessir, I'm pretty much a table-filler
+now, but someone had to do it eventually..
+I hope these demos are appreciated anyway. :)
+
+75% secrets is the maximum here, the final
+secret is too thin to register (megasphere
+teleporter).
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

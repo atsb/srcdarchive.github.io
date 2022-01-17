@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM01-043.TXT
+
+ MM01-043.ZIP
+
+  MM01-043.LMP - Ultra Violence - Speed!
+
+  Memento Mori MAP01
+
+                       Time  00:43
+                             -----
+
+Description:
+
+I don't think Doug quite understands how this level works when he says his
+0:44 is 3-5 seconds from optimal. 0:43 is very, very close to optimal, in
+actual fact - i'm not sure if anyone will make 0:42, and i'm 99% sure no-one
+will get 0:41. Reason is simple - it's all to do with the 30 second trigger.
+The 30 second bars close just before you hit the first switch, so it doesn't
+matter how long you take killing imps and sergeants at all, as long as you
+get out with the bars still closed. The whole thing is nicely set up so you
+can kill imps and sarges and preserve your health, and still get out in time
+to have four shots for clearing up outside sarges and troopers. Then you have
+3 or 4 to kill the chaingunners before the bars open. Then you have to be
+*perfect* hitting the switch and running for the exit. The only two parts of
+the run that matter for your overall time are from start to first switch and
+from third switch to exit, and they have to be perfect. Only way you could
+get a decent improvement here is to figure out a better way of doing the exit
+(don't think there is one), or manage to not trigger the 30 second linedef,
+twice...
+
+Author : Adam Williamson
+E-Mail : adam.williamson1@btinternet.com

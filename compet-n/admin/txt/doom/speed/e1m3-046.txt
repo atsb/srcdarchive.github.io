@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M3-046.TXT
+
+ E1M3-046.ZIP
+
+  E1M3-046.LMP - Ultra Violence
+
+  Recorded using Ultimate DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 3 - Toxin Refinery
+
+  Kills      32%
+  (Items     10)
+  Secret      0%  and Time  00:46
+                            -----
+	
+Description:  Just thought I should improve that 0:49...Should be very
+              possible to get 45 or 44 here, but it will require lots
+              of luck. This map remines me of Underhalls, it has the 
+              same brutal rapid-fire.
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

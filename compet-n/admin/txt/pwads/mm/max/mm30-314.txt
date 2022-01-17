@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM30-314.TXT
+
+MM30-314.ZIP
+
+MM30-314.LMP - UV Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper by Milo Casali
+      
+Kills      104%
+Items       44%
+Secrets    100%
+
+              ********
+  and Time -  * 3:14 *
+              ********
+
+
+Description:
+
+This one is not my favorite MM's level. The maps that I like here are Nielsen's creations. Especially, The Stand and City Of The Unavenged. A bonus run - mm30-333.lmp. My first exit.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+
+04.01.2004

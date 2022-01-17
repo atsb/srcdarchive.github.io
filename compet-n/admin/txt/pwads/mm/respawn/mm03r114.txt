@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM03r114.TXT
+
+MM03r114.ZIP
+
+MM03r114.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 03 - Interlock
+      
+Kills      102%
+Items       66%
+Secrets    100%
+
+              ********
+  and Time -  * 1:14 *
+              ********
+
+
+Description:
+
+Hey, Jakub..."What now?" This is what, DooMerMan ^_~
+
+I still haven't figured out what causes the lift behind the red door to not work at
+certain points in the level...just a bug I can't quite figure out. It only happens on
+-respawn style as well....so... @.@'
+
+The time didn't come hard for me, but it's still improvable quite a bit I'm sure ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+29.01.2002

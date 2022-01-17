@@ -1,0 +1,16 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: NM-Speed
+Map: 25
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 37%
+Items    : 8%
+Secrets  : 0%
+Time     : 01:17.71
+
+Description: 
+pn25-216 by Adam Hegyi is quite an old record, since then there has been discovered a glide
+which allows you to skip quite a bit of the level. I was surprised nobody has improved this
+one before with the new route. I tried the UV-speed route before looking at pn-216, I figured
+I wouldn't waste my time on it, but the starting route of pn-216 is quite safe.

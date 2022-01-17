@@ -1,0 +1,29 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE191028.TXT
+
+ RE191028.ZIP
+
+  RE191028.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 19 - "The Citadel"
+
+  Kills    103%
+  (Items     8%)
+  Secrets  100%  and Time  10:28
+                           -----
+
+
+Description: initial effort. 9 secrets to visit and many
+             respawning monsters make for a harder map.
+             firing all ammo at the end was the right
+             choice (103% kills).
+
+
+Author:      Thomas "Poeppy" Kroppen
+
+E-mail:      poeppy@aol.com

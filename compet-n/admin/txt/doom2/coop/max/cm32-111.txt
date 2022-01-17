@@ -1,0 +1,17 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang/)
+
+authors:    Arno Slagboom <slagboom@cybercomm.nl>
+            Marko van der Want
+
+game:       DOOM2 version 1.9
+
+category:   Max
+            Coop 2 players
+
+level:      Map32  
+
+Time        1:11
+
+
+
+

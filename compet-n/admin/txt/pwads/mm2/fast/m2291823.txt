@@ -1,0 +1,42 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2291823.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP29 - Kings of Metal             |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    113%                            |
+            |      Items     75%           *********        |
+            |      Secrets  100%  and Time * 18:23 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| My previous demo in 25:50 was pretty bad, hence the idea of an         |
+| improvement. Still, I spent much less time on this -fast than on the   |
+| Max (10 times less?) and it shows. Forgetting about pressing switches  |
+| can be embarrassing :)                                                 |
+|                                                                        |
+| Favourite moment: @3:23                                                |
+|                                                                        |
+| OK, my first -fast demo on MAP29 was faster than George Bell's Max,    |
+| this one is faster than Andy Badorek's Max, so the next one should be  |
+| faster than Chrozoron's Max :-P                                        |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,68 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ25-042.TXT
+
+ RQ25-042.ZIP
+
+  RQ25-042.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 25 - Chaos Zone
+
+  Kills     11%
+  (Items    25%)          ********
+  Secrets    0%  and Time * 0:42 *
+                          ********
+                          
+  Description:
+  After watching Erik Alm's pacifist I realized the second section was
+  much easier leaving the chaingunners alone since the monsters that
+  teleport in won't wake up. I hold back on firing there until I get to
+  the blue key, at which point the extra chaos is more helpful (distracts
+  the archie) than harmful.
+  I had a slight bobble running for the armor, so I lost a second there.
+  Other elements of the run worth mentioning:
+  - At the start I open the door and slide to the left, so when I start
+  straferunning for the key the shotgunner will have moved to the
+  side.
+  - I stay a little bit to the left opening the second door, so the
+  chaingunner steps to the left so I can squeeze in to the right. Then
+  98% of the time the hell knights will move so I can run in on the
+  left side, and 80% of the time the chaingunner will nick at least
+  one of the hell knights, distracting him (which is important later).
+  I also take one shot when opening the lift to wake up the shotgunner
+  I meet shortly so he's positioned how I want him.
+  - When I get to the shotgunner he has hopefully moved so that I can
+  take him out without having to pick up his gun. Doom Guy will switch
+  to single shotgun which loses time, and I want to use my
+  double on the imps.
+  - Then I go back to the lift, at which point hopefully one or both
+  hell knights were distracted and aren't hanging about. If one is
+  there I can run past him to get him to turn around, then run back
+  and hit the lift just as this rises, but I can't always make this
+  consistently.
+  - When standing on the lift I stand on the left side so the
+  cacodemon moves to the left as well, so I can quickly slide in
+  on the right.
+  - The three next monsters I dodge by eye, although right-left-left
+  seems to work more often than usual.
+  - At this point you could skip going for the armor, except the
+  cacodemons and hell knight don't start any in-fighting and their
+  configuration makes going for the switch take more time than the
+  long route. (At least in my experience so far.) Plus, in this run,
+  armor is your friend. ;)
+  - After hitting the switch you can theoretically wallrun up to the
+  lift, but you still have to be conscious of the monsters lobbing
+  stuff at you.
+  - The archie & monster positioning at this point is mostly luck, from my
+  experience. Maybe someone has some insight on how to fix this
+  problem. 8-)
+  - If you manage to get out of all that with full or near to full
+  health with armor (which I did manage once, but on a poor time) you
+  might be able to archie jump to the island with the exit. I still
+  need to test this.
+
+  Jason Dyer
+  jdyer41@aol.com

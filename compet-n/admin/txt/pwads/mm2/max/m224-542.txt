@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m224-542.TXT
+
+m224-542.ZIP
+
+m224-542.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 24 - Io Lab by Sean Birkel
+      
+Kills      100%
+Items       40%
+Secrets    100%	and Time - 5:42 
+
+
+Description:
+
+I've skipped monsters in sector 83 and then come back with bfg. Sorry, I've not checked the map in an editor and missed the fifth secret sector location and lost several seconds. It's easy to beat this time. Beat it or beat other mm2_3 demopack maxes. Thanks Sean for the map. Peo and Miguel for the demos.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+14.03.2004

@@ -1,0 +1,12 @@
+author:         Juho Ruohonen
+game:           Ultimate DooM
+category:       nomonsters
+mission:        e1m1
+time:           0:08.97
+comments:       Thanks go to Dashiva for talking me into giving this a shot.
+This woulda bin impossible without strafe-50, of course. The time is not
+optimal, but it's neat enough to be the first player to make it under nine
+seconds - the feeling when I saw :08 on the intermission screen was very
+rewarding.
+
+

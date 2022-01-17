@@ -1,0 +1,73 @@
+=> This is a DooM .LMP Compet-N Entry <=
+
+CS10-025.TXT
+
+  CS10-025.ZIP
+
+    CS10O025.LMP - Ultra-Violence from player 1's perspective
+    CS10N025.LMP - Ultra-Violence from player 2's perspective
+
+    Recorded using Doom2 Version 1.9
+
+    doom2 -playdemo with version 1.9
+
+    Doom2 - Level 10 - "Refueling Base"
+  
+              Kills   Items    Secrets
+    Green     1%      18%      5%      ocelot
+    Indigo    4%       0%      0%      N.C.
+  
+       and Time: 00:25
+                 =====
+
+Comments:
+
+  [ ocelot: ]
+
+  When we were working on this, I was 90% of the time the one
+  whose fuckup ended the attempt. Thanks for bearing with me
+  N.C.
+
+  [ N.C.: ]
+
+  Well, this one took a bit longer to pull off than the map07
+  speedrun we recorded yesterday. We were obviously going for
+  a time faster than the single player map10 ultra-violence
+  speed record (26 sec), since anything else would have been
+  rather pointless; after all, a team is supposed to be faster
+  and more efficient than an individual, isn't it?
+
+  My role in this run was to help speed up Ocelot's running
+  by opening a couple of doors, as well as slaughtering as
+  much riff-raff as possible. As always, pure fun. This is,
+  by the way, a 6 second improvement on the previous record.
+
+  We played over an emulated IPX connection courtesy of the
+  MSN Gaming Zone, and our ping at the time was approximately
+  20 ms.
+
+  Technically, this really wasn't one of my better attempts
+  at this run, but at least it did do the trick; Ocelot made
+  it to the exit in 25.97 sec. Good thing I didn't hit Q after
+  I had...
+
+  1. accidentally bumped into a trooper,
+  2. had to fire my peashooter SIX times in order to kill a
+     sergeant,
+  3. missed an easy sg-shot,
+  4. missed a stimpack I intended to pick up (while I was run-
+     ning around with 67% health in a potentially quite lethal
+     environment indeed).
+
+  Enjoy.
+
+  Authors:
+
+  Juho Ruohonen
+  e-mail: ocelot_78@hotmail.com
+
+  Kim Lundqvist
+  e-mail: nc513@hotmail.com (always over quota)
+  ICQ#:   72686989
+  IRCnet: #nightmare
+

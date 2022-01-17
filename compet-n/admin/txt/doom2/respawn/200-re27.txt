@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+200-RE27.TXT
+
+ 200-RE27.ZIP
+
+  200-RE27.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 - "Monster Condo"
+
+  Kills      0%
+  (Items     2)
+  Secrets    0%  and Time  00:18
+
+  Minimum Maximum Health = 200 %
+                           -----
+
+  Description:  this is the superfast archvile route, and it
+                really can't go wrong. so this map has to be
+                one of the easiest -respawn maps, when not
+                going for 100% kills and secrets.
+
+                taking no damage at all is a different thing! :-)
+
+       Author:  Thomas "Poeppy" Kroppen
+
+       E-mail:  poeppy@aol.com

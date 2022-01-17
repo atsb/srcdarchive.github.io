@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+EV17-038.TXT
+EV17-038.ZIP
+
+EV17-038.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 17 - Processing Area
+
+Kills     16%
+Items     56%
+Secrets    0%  
+Time      :38
+         ----
+
+Description:
+My second compet-n entry, an improvement from Vincent's :41.
+
+I really liked Vincent's run here, very impressive stuff.  I skip the
+megaarmor but grabbed a shotgun from the start.  The real deciding factor
+is how the Archvile decides to behave once you get to the blue key.
+
+Unlike Vincent's demo, this is obviously not a pacifist entry. :)
+
+Author: stx-Vile (stx is the Stickmen, one of the best Quake 3 clans today.
+Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com (subject to change)
+

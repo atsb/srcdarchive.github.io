@@ -1,0 +1,73 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+authors:    Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+            Nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - I'm too young to die!
+            
+
+Green  (view) : Vincent
+Indigo        : Nicolas
+
+description: This one is a lot better and without deaths.
+
+         *-------*
+Time:    | 26:44 |
+         *-------*
+                             
+Levels                   Time    
+---------------------------------
+"Episode 1" :
+---------------------------------
+Entryway                 0:09
+Underhalls               0:41    
+The Gantlet              0:32    
+The Focus                0:27    
+The Waste Tunnels        0:30    
+The Crusher              1:05    
+Dead Simple              0:27    
+Tricks & Traps           0:29    
+The Pit                  0:57    
+Refueling Base           0:52    
+---------------------------------
+"Episode 2" :
+---------------------------------
+"O" Of Destruction       0:40
+The Factory              0:50    
+Downtown                 1:08
+The Inmost Dens          0:58    
+Industrial Zone          0:32
+Wolfenstein              0:34    
+Grosse                   0:31
+Suburbs                  0:33
+Tenements                2:10
+The Courtyard            0:33
+The Citadel              0:41
+Gotcha!                  0:42    
+---------------------------------
+"Episode 3" :
+---------------------------------
+Nirvana                  0:49
+The Catacombs            0:45    
+Barrels Of Fun           0:58    
+The Chasm                1:26
+Bloodfalls               0:46    
+The Abandoned Mines      1:00    
+Monster Condo            0:47
+The Spirit World         0:50    
+The Living End           2:24
+Icon Of Sin              0:58
+---------------------------------
+Total 32 levels         26:44  
+---------------------------------
+        
+
+
+
+------------------
+Admin note (Ralf):   More than seven minutes faster as before, lowest was
+                     health around 70%. And again: productive teamwork,
+                     you really have a plan about each players tasks.
+

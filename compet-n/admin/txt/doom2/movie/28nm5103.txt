@@ -1,0 +1,77 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+28NM5103.TXT
+
+ 28NM5103.ZIP
+
+  28NM5103.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 1 to Level 28 (died in 29 :)
+
+
+              Time
+
+  LV 01  -    0:12
+  LV 02  -    1:49
+  LV 03  -    0:54
+  LV 04  -    1:43
+  LV 05  -    1:18
+  LV 06  -    2:00
+  LV 07  -    2:05
+  LV 08  -    1:19
+  LV 09  -    2:20
+  LV 10  -    1:31
+  LV 11  -    1:38
+  LV 12  -    1:57
+  LV 13  -    2:16
+  LV 14  -    2:14
+  LV 15  -    1:06
+  LV 31  -    0:48
+  LV 32  -    0:42
+  LV 16  -    0:45
+  LV 17  -    3:10
+  LV 18  -    0:37
+  LV 19  -    1:30
+  LV 20  -    1:26
+  LV 21  -    1:29
+  LV 22  -    2:14
+  LV 23  -    2:10
+  LV 24  -    4:33
+  LV 25  -    2:07
+  LV 26  -    1:46
+  LV 27  -    1:58
+  LV 28  -    1:26
+
+ Total Time =  37:843
+               37+
+               14:03
+               ------
+ TOTAL TIME =  51:03
+              --------
+
+
+Description: A little jump for mankind...but a big jump for Panter (:
+
+             This morning I tried a bit and practised map 24...finally I got
+             a 24-30.lmp (dying in 30 :)
+             Well...at least THIS didn't happen again.
+
+             Credits again to Istvan for his BIG help in 24...
+             This is my LAST update...next stop D2S (:
+
+             Uhh...again sorry for that 5min pause right in the beginning of
+             map 15.
+
+
+             16.08.98 18:00 p.m CET
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/

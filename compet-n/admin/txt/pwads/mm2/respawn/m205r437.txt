@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M205R437.TXT
+
+ M205R437.ZIP
+
+  M205R437.LMP - UV respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 5 - Rites of Passage
+
+  Kills    103%
+  (Items    27%)          ********
+  Secrets  100%  and Time * 4:37 *
+                          ********
+                          
+
+  Description :-)
+  
+  I wanted to try something else besides nm, so I did
+  this respawn. It's only 2 sec faster than vdgg.
+
+  Xit Vono
+  xit_vono@yahoo.com

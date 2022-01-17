@@ -1,0 +1,33 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e1m9-211.lmp, e1m9-211.txt
+Date     : 2019-01-09
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max
+Map(s)   : E1M9: Military Base
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  44%
+Secrets  : 100%
+Time     : 00:02:11
+===================================
+Description:
+
+I just tweaked the use of rockets from the previous record. I thought 
+shooting rockets under stairs was slightly inefficient, so I used them 
+after going up stairs which were revealed by a switch with 4 barrels. 
+Of course, the previous record was not at all beaten easily only for 
+such tweaking. Good monster behaviors was necessary. I thought one or two 
+seconds improvement was a limt, so four seconds improvement was pretty nice.
+
+
+112th Compet-N Entry

@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rq24-041.zip
+ rq24-041.lmp
+ rq24-041.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file requiem.wad -playdemo rq24-041
+
+Requiem - Level 24 - Procrustes Chambers
+
+Category: UV Speed 
+
+Totals:
+
+Kills	  8%
+Items	  6%
+Secret	  0%
+
+Time    0:41
+
+
+Comments: 
+
+A new glide trick - not a hard run but very very annoying.
+The glide is easy BTW for anyone who wants to try their
+hand at pacifist ;-)
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+06/11/2006

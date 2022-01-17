@@ -1,0 +1,20 @@
+DooM Speed Demos Archive <http://www.goodnet.com/~opulent/sda/doom_sda.htm>
+
+Pwad:      class_ep.wad
+Level:     e2m7
+Category:  Ultra-Violence Max
+Exe:       Original Doom.exe
+
+Time:      7:27.25
+Kills:     122/122
+Secrets:   1/1
+
+Comment:   Thanks to Mike Toliver for discovering the hidden imp near
+           the exit, in his great Tyson demo.
+           If someone beats this I'll go for sub 7 minutes. 
+                  
+                  
+name:      Arno SlagDooM
+mailto:    arnoslag@bart.nl
+visit:     www.doomworld.com/publicdang
+

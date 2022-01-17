@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+pn19-053.txt
+pn19-053.zip
+
+pn19-053.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP19 - NME
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time        :53
+=--------------=
+
+C-N entry #88.
+
+This one was tough to make.  My direct
+attack on the cyberdemon is damn near
+suicidal, but the time was worth it. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

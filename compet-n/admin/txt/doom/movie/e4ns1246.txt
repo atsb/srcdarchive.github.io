@@ -1,0 +1,99 @@
+E4NS1246.TXT
+
+ E4NS1246.ZIP
+
+  E4NS1246.LMP - Nightmare with 100% secrets !
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+
+  DooM - Episode 4 - Thy Flesh Consumed
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  E4 M1  -     66%   80%  100%       1" 00      (15  62)
+  E4 M2  -     68%   50%  100%       1" 18      (70 156)
+  E4 M9  -     56%    7%  100%       1" 19      (70 140)
+  E4 M3  -     54%   40%   90%       1" 06     (131 175)
+  E4 M4  -     45%   65%  100%       1" 06     (200 143)
+  E4 M5  -     50%   10%  100%       1" 14     (153  21)
+  E4 M6  -    122%  100%  100%       4" 11      (96   0)
+  E4 M7  -     54%   77%   50%       1" 32     (172 174)
+  E4 M8  -     ??%   ??%  100%   [ Excluded... ]
+
+                     Total Time =   11" 106
+                                    11" +
+                                     1" 46
+                                    ------
+                     TOTAL TIME =   12" 46
+                                   --------
+
+
+  Description :-)
+
+  Well the first time this crazy idea got in my brain, when
+  John, Rini and Chris got the first three episodes in 
+  NightMare 100% secrets runs. I quickly checked the maps
+  for secrets and saw that there aren't actually many secrets.
+  But I didn't really have time for such a run until now,
+  actually I was trying a month or two ago, but couldn't even
+  finish E4M2. It was when I finally made E4M1-E4M2 a few days
+  ago, when I started to take it serious.
+  
+  This run is not much different from E4NM, the easy maps are
+  still easy, the hard maps are still hard... I was trying
+  for 4-5 days on this, routes ready in my head. Three times
+  I got to E4M6 and died... I also had some practice sessions
+  with FILLUP.WAD for the E4M6-E4M8 part, which helped me a lot.
+  
+  Map descriptions follow...
+
+  E4M1 (Hell Beneath):
+    This is still the barrier map in this run.
+    Play as fast as possible but making no mistakes. My run here
+    is a bit slower than usual, earlier I was doing around 0:55.
+    The only aim is to survive... (Keygrab by Istvan Pataki...)
+  E4M2 (Perfect Hatred):
+    After a bit of practice, this gets the same as normal exit,
+    just that you can't pick up the extra cells on this route.
+    I had to play this quite a lot so I got pretty good running
+    here. (Switch from slime by Robert Reevy...)
+  E4M9 (Fear):
+    This one should be easy but sometimes it's annoying as hell.
+    I fell down the ledges many times here, and sometimes the
+    baron can kiss your ass too...
+  E4M3 (Sever the Wicked):  
+    Easy. Never screwed this one up, just have to watch myself
+    at the secrets so that I get all of them (if you run too fast
+    over the stairs you might accidentally miss them).
+  E4M4 (Unruly Evil):
+    Easy. I screwed up a BFG shot right at the start but it didn't count.
+    Later, I had incredible luck with reaching the elevator (just watch).
+    I didn't hear the elevator lowering for some reason, so I kept
+    pressing the switch even though it was already down for a few
+    seconds. Strange things happen, sometimes...
+  E4M5 (They Will Repent):
+    I don't like this one but I can do it OK. The ending part is kinda
+    annoying, I really don't like it. Had to spare my plasma because
+    I wasted too much on E4M4, and I wanted to start high on E4M6.
+  E4M6 (Against Thee Wickedly):
+    Ah yeah... Even with BFG this map is a bitch. First part till about yellow
+    key is OK, I can do it any time, but the rest is just pain in the ass.
+    I think I was lucky to get through... Oh yeah and cyber was soooo nice
+    to me, pushed me off, but 2nd time there was no mercy...
+    (Red key grab by Esko Koskimaa...)
+  E4M7 (And Hell Followed):
+    This map I never managed to screw up, it's so easy. Just follow a safe
+    route and you'll end up over 150/150.
+  E4M8 (Unto the Cruel):
+    Quite easy since I made some adjustments over my old route in E4NM.
+    There's more cells and health in there than any of the previous levels...
+ 
+  By the way, this is my first Ultimate DOOM NM100S run in any episode...
+  1/4 of my D1SS (the hardest one) is now finished...
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

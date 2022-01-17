@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV31s034.TXT
+
+ LV31s034.ZIP
+
+  LV31s034.LMP - Ultra Violence (Secret Exit)
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills     14%
+ (Items      0%)           
+  Secrets   50%  and Time  ! 00:34 !
+                           
+
+Description: Sorry Humpert, but 00:34 are possible without "idclip" or some 
+             [ LMPC ] tool ((((: I HATE THAT 00:35-RUNS!
+             
+             Hey Demonlord or Panter! What about trying that Level?! 00:33 are
+             possible - but only with strafe50!!
+             
+             12.02.1998
+
+Author:      Patrick 'Baum' von Massow
+E-mail:      qoomduke@gmx.net

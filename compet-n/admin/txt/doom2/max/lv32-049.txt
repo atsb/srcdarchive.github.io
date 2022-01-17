@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV32-049.TXT
+
+ LV32-049.ZIP
+
+  LV32-049.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 32 - "Grosse"
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time   00:49
+                            -----
+
+
+Description: Quite a nice level with a lot of blue guys!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

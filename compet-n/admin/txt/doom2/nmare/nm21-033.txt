@@ -1,0 +1,36 @@
+  This is a DooM .LMP "Competition" Entry - Please forward it...
+(Isn't that like horribly ftp.cdrom.com out of date???)
+
+  NM21-033.TXT
+
+  NM21-033.ZIP
+
+  NM21-033.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 21
+
+  Kills     41%
+  Items     50%           +++++++++ 
+  Secrets    0%  and Time + 00:33 +
+                          +++++++++ 
+
+
+  Description : beats the record by 20 seconds... thanks
+		entirely to Rimmer's bar_slide.
+		I want to see a real player take this run.
+		I think Sedlo could drop it to :25 or so.
+		I think nm is impossible without the 666.
+
+		I have stayed 'up' after the slide, but
+		just once.  I think that would drive the uv
+		speed down to :20.
+
+		First Doom2 COMPET-N demo of the new Millenium!
+
+
+  Author: Doug 'Opulent' Merrill
+
+  E-mail: opulent@goodnet.com

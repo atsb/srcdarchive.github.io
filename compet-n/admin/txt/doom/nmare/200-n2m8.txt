@@ -1,0 +1,14 @@
+200-N2M8.LMP --> E2M8 on Nightmare
+----------------------------------
+
+  Kills   : 100%
+  Items   :  50%
+  Secrets :   0%
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: This LMP beats Zlatko's 100-n2m8 as he didn't pick up either of
+          the soulspheres. I think this was because the highest possible MMH 
+          was originally 100%, until it was made clear that it counted not 
+          from the start but from when you first take damage.

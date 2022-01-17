@@ -1,0 +1,37 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM19-106.TXT
+
+ NM19-106.ZIP
+
+  NM19-106.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 19 - "The Citadel"
+
+
+  Kills     3%
+  Items     0%             *********
+  Secrets  55%  and Time   * 01.06 *
+                           *********
+
+
+
+
+
+Description: Quite funny way Peo! Improved it a little leaving the
+             Invulenrability and also running through the crusher
+             without waiting, I use strafe50 for this it's quite
+             hard not getting stuck on the edges of the wall and 
+             loose speed..
+
+
+
+
+
+Author:	     Daniel "Demonlord" Lindgren 
+ 
+E-mail:	     akllin95@student.umu.se

@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+090-R4M1.TXT
+
+ 090-R4M1.ZIP
+
+  090-R4M1.LMP - UltraViolence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 1 - Hell Beneath
+
+  Kills     61%
+  (Items    52)
+  Secrets   50%  and Time  01:08
+
+  Maximum Minimum Health =   90 %
+
+  Description:  I played this while practising for my episode 4 -Respawn
+                recording. I take NO damage caused by monsters at all,
+                I just loose 10% health while passing the lava. This
+                can easily be done w/o loosing health (as you can see eg.
+                in 083-r4m1). So it is no joke -
+                you can play R4M1 completely unhit!
+
+                BTW:
+                I used Raymond Chi's Doom LMP Utility System Version 2.30
+                to remove pauses in E4M6 ...
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

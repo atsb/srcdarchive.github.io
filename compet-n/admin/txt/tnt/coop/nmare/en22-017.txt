@@ -1,0 +1,29 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+tc22-017.TXT
+
+ tc22-017.ZIP - NM SPEED
+
+  tc22x017.LMP - Xit Vono
+  tc22v017.LMP - Vincent
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: Evilution - Level 22 - Habitat
+
+     and Time * 00:17 *
+
+  Description :-)
+	
+	I'd not say it's optimal, with people like Sedlo and Ocelot hanging around you are
+        never sure about an optimal :)
+
+	The jump is by Altima/Ogre and the shotgun boost is by Dashiva. Both save some time.
+	The only things we added are some boost after getting the invul.
+
+ Authors:
+  
+P1: Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+P2: Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+

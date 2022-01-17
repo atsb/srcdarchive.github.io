@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+MM04F853.TXT
+
+ MM04F853.ZIP
+
+  MM04F853.LMP - UV Fast
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 04 - The Stand
+
+  Kills    100%
+  Items    100%            ********
+  Secrets  100%  and Time  * 8:53 *
+                           ********
+
+  Description :-)
+
+  Didn't work too hard on this one, just wanted to try some
+  -fast :)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

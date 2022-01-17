@@ -1,0 +1,29 @@
+This is a Doom .LMP "Competition" Entry
+
+m202p038.txt
+m202p038.zip
+
+m202p038.lmp 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm2.wad -playdemo with Version 1.9
+
+Memento Mori 2 - Level 02 - The Feeding Pit
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :38
+=--------------=
+
+C-N entry #67.
+
+Seemed like a popular run, so I gave it a shot.. the result was ugly, though.
+
+I tried to improve it until I learned about the chaotic nature of the yellow key elevator,
+which is a total luckfest (random loss of 3-4 seconds).  NO THANKS. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

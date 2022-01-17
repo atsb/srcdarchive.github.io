@@ -1,0 +1,51 @@
+PA19-052.TXT
+
+ PA19-052.ZIP
+
+  PA19-052.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - The Citadel
+
+  Secrets   33%  and Time  00:52
+                           -----
+
+
+  Description :-)
+
+Credit to Ilya Britvich for this trick, and Adam H for the exact method of
+using it. Only 1 sec faster than Adam H, a refining run...I only did it
+because I played for DANG and got a lot of 0:53s, which made me think 0:52
+was on. Absolute human optimal would be 0:50 I think, this is an easy run
+to get close to optimal. Before this run, I had another which I uploaded, it
+has been pointed out to me by Steffen 'Rini' Udluft that it wasn't pacifist -
+I shot a cacodemon near the start. It is actually hard to tell whether demos
+here are genuinely pacifist, due to the shot you fire to start the platform
+raising in the room you teleport to to get the red key - i'm pretty sure I
+didn't shoot any imps, playing this back in dosdoom at 800x600 i'm pretty
+sure I can see a bullet puff against a wall. If i'm wrong, correct me please,
+Rini (or anyone else :>).
+
+I declare here that I used ps2rate to make this run.
+ps2rate increases the sampling rate of the ps/2 port where you connect (some)
+mice, which means the movement of the mouse is checked, or "sampled", more
+times per second, which in turn means that the turning in Doom is smoother.
+I don't think this is cheating, because many of the high-end mice that are
+used by top players (in Quake more than Doom, I think), do exactly the same
+thing by default - I increased the rate from the Windows default of 80 to
+200hz, whereas some of these mice run as high as 1000hz sampling. I don't
+have a URL for the program any more, but I can mail a copy to anyone who wants
+one. In most cases the program makes very little difference to play, but in
+this case it makes the torch trick much easier to do. From the smoothness of
+the movement in Adam H's demo, I think he _may_ have used a similar utility,
+correct me if i'm wrong Adam :). Adam H tells me that he doesn't consider this
+cheating, but all the same I think it's best to mention it, then I can't be
+accused of not mentioning an advantage :). If anyone is interested in test
+driving this utility, mail me (or Adam H, who also has a copy). It only works
+on mice connected to ps/2 ports, I do believe there's an equivalent utility
+for serial port mice but I don't know its name.
+
+Adam Williamson
+adam.williamson1@btinternet.com

@@ -1,0 +1,30 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV21-348.TXT
+
+ LV21-348.ZIP
+
+  LV21-348.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.7
+  & Converted to Doom2 Version 1.9
+
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 21 - Nirvana
+
+  Kills    100%
+  (Items    72)
+  Secrets    0%  and Time  03:48  (Par = 04:00)
+                           -----
+
+
+Description:  Well, it took me a few hours to make this .LMP but
+              I'm very satisfied with the time.
+
+Author:       Daniel "Demonlord" Lindgren
+
+E-mail:       Akllin95@student.umu.se
+
+

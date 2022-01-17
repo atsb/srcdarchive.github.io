@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/doom/" Entry - Please forward it...
+
+E3M9-337.TXT
+
+ E3M9-337.ZIP
+
+  E3M9-337.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  Doom -playdemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  Episode 3 - Inferno
+  Mission 9 - Warrens
+
+  Kills    100%
+  (Items    75)
+  Secrets  100%  and Time  03:37
+                           -----
+
+
+Description: It's still not a good one. The best thing in this .LMP
+             was that I had 31 rockets left after the Cyberdemon.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin/~gazelle
+                                ~gazelle/doom.html
+                                ~gazelle/doomgif.html
+

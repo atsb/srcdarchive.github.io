@@ -1,0 +1,13 @@
+This is a Coop-N Demo
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr
+
+game:     doom2 v1.9
+category: coop speed
+level:    map06
+
+time:     1:06
+
+description: Big misunderstanding between me and Nicolas.
+             Nicolas did nothing interesting... and i did many mistakes...

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA28-333.TXT
+FA28-333.ZIP
+
+FA18-333.LMP - Ultra Violence & Fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 28 - The Spirit World
+
+Kills    100%
+(Items    48)
+Secrets  1007%  
+
+   ...and Time    03:33
+                  -----
+
+Description: Well, this could be done much faster, I didn't know you just
+	     could use the regular uv-max route....and as you can see I don't 
+             deal with -fast option very well. 
+
+	     Lets play some Quake2 now :-)
+	      
+
+Author:   Henning Skogsto    
+E-mail:   hskogsto@c2i.net    
+Doompage: http://home.sol.no/~doom/

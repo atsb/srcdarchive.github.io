@@ -1,0 +1,77 @@
+This is a Doom .LMP "Competition" Entry
+
+30nm3136.txt
+30nm3136.lmp 
+
+30nm3136.zip
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - Full game run on Nightmare skill!
+
+
+Map     	       Time  
+-----------------------------
+01 Entryway            0:06  
+02 Underhalls          1:03
+03 The Gantlet         0:35
+04 The Focus           0:39
+05 The Waste tunnels   0:43
+06 The Crusher         1:19
+07 Dead Simple         0:54
+08 Tricks and Traps    0:58
+09 The Pit	       0:58
+10 Refueling Base      0:44
+11 Circle of Death     0:45
+12 The Factory         1:12
+13 Downtown            1:24
+14 The Inmost Dens     1:02
+15 Industrial Zone     0:35
+
+31 Wolfenstein         0:35
+
+16 Suburbs	       0:44
+17 Tenements           2:19
+18 The Courtyard       0:35
+19 The Citadel         1:05
+20 Gotcha!	       0:43
+21 NIrvana             1:10 
+22 The Catacombs       1:20
+23 Barrels O' Fun      1:15
+24 The Chasm	       1:06
+25 Bloodfalls	       1:15
+26 The Abandoned Mines 1:19
+27 Monster Condo       1:01
+28 The Spirit World    0:58
+29 The Living End      2:28
+30 Icon Of Sin         0:46
+
+-----------------------------
+   ...and total time  31:36
+	  
+
+Description:
+
+Phew!!...Okay I know this isn't much of an improvement over Viles previous record run, 
+but here comes mine nevertheless :) Thanks to Vile for taking the effort into bringing 
+a new standard into the saga of 30nm running with he's 30nm3159!
+
+New things as of this run would be: 
+
+	- Skipped the 200cell-pack\rad-suit in the start of map20 
+	- Totaly new route for map28. 
+
+Gotta start beeing abit more carefull with cell usage if you do map20 like this, and be 
+sure to not forget the green armor before exiting map18. As for map28, the route cuts of at 
+least 25sec over the old one, and comes with minimal risk!. 
+
+I'd wish I could promote this in a "31maps under 31min" kind of way...not sure if thats gonna 
+be happening. Still perfectly possible, my screwups where in the maps 06\14\23\25\26\29..but hey
+who dosn't do screwups? ...if its not in say map14 it's in some other map the next time and so on. 
+Right now I think I'm gonna leave it ...for how long? ..who knows, could be days\months or years :) 
+
+
+
+Author: Henning Skogsto
+E-mail: skohen@hotmail.com

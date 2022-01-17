@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR311720.TXT
+
+ HR311720.ZIP
+
+  HR311720.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 31 - The Descent
+    
+  Kills    104%
+  (Items   100%)          *********
+  Secrets  100%  and Time * 17:20 *
+                          *********
+                          
+
+  Description :-)
+  
+  Yes, there is a trick to avoid fighting in the lift. But I didn't use it.
+  This is the way to do this level, fight it out in there. The ammo in the
+  start is essential if you start from scratch. It's easy to die because
+  there's no armor, but I wanted it to be hard. I leave through the secret
+  exit (jumping on the columns isn't easy).
+
+  Yonatan Donner
+  zem@planetquake.com

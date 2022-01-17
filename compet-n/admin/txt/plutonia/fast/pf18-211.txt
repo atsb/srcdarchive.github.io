@@ -1,0 +1,41 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PF18-211.ZIP
+
+ PF18-211.LMP
+
+  PF18-211.TXT -Ultra-Violence -FAST
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 18 - Neurosphere
+
+  Kills:  97 / 96 (101%)
+  Items:   5 / 17 (29%)            ********
+  Secrets: 1 / 1  (100%) and Time  * 2:11 *
+                                   ********
+  C-N entry #49.	Date: 12.03.2013
+
+  Description :)
+  Ehh, one second improvement. PR18-148 was a much better demo.
+  Anyways, under 2:00 is quite doable; I will improve this later.
+
+  PS: Can't beleive Revved's UV -RESPAWN run was slower than his
+  UV -FAST run.
+  								
+  								
+  By the way, COMPET-N record was 2:12 by Revved
+, timestamped:
+  Sunday, November 14, 2010, 7:35:00 AM.
+
+  Complete Historic COMPET-N Leaderboard:
+  PF18-418 - Yonatan Donner - 09.01.1997 [PLT18-GM]
+  PF18-212 - Revved
+         - 14.11.2010
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

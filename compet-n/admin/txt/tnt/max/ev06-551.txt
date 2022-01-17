@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+TN06-551.TXT
+
+ TN06-551.ZIP
+
+  TN06-551.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 06 - Open Season
+
+  Kills    101%
+  (Items   100)
+  Secrets  100%  and Time  05:51
+                           -----
+
+
+Description: I don't know what the crushers are for. Be careful not
+             to forget the Supercharge. Nice level, only problem is
+             that you have to run a way twice. And you don't get to
+             know what the yellow button is for (or was it the blue
+             key? :). The slime is easy... who balances on the edge
+             if there is a radiation suit ? Could have left without
+             killing the archvile, but I felt like I had to do that.
+             Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M210-237.TXT
+
+ M210-237.ZIP
+
+  M210-237.LMP - UV speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 10
+
+  Kills     58%
+  (Items     0%)          *********
+  Secrets   40%  and Time * 02:37 *
+                          *********
+                          
+
+  Description :-)
+  
+  This map is very crowded for speedrunning.  I use 2 tricks
+  here, the bars trick and the yellow keygrab.  There's also
+  a trick possible with the blue key but it is definitely not
+  practical with monsters.  You can jump from the stairs to 
+  the slime platform and grab the blue key there.
+  
+  Xit Vono
+  xit_vono@yahoo.com

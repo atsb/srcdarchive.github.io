@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+pn05-029.txt
+pn05-029.zip
+
+pn05-029.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP05 - Ghost Town
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time        :29
+=--------------=
+
+C-N entry #??.
+
+The end is a luckfest, hoping the archvile
+is not completely blocking the switch, but
+it's still fun to play.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

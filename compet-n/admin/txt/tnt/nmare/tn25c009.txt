@@ -1,0 +1,38 @@
+This is a "COMPET-N/tnt/coop/nmare" entry, please forward it.
+
+tn25c009.txt
+
+tn25c009.zip
+
+tn25a009.lmp
+tn25o009.lmp
+
+Recorded using Doom2 Version 1.9
+Doom2 -file tnt.wad -playdemo with Doom2 Version 1.9
+
+Final Doom: TNT Evilution - Map 25 - Baron's Den
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+Altima         0%       0%       0%
+OgreSlayR      0%       9%       0%
+
+            ********
+  Time:     * 0:09 *
+            ********
+
+
+Altima:  The text I wrote in ev25c008 should sum everything up. My view
+         is boring, as I stand in place, not moving at all. It's included.
+         for completion of the zip ;) I don't think a Coop demo is whole
+         without both LMPs...8 is possible but with those Specters, who
+         knows.... ^_^
+
+OgreSlayR:  pretty good..might be able to get 8 but those demons arent
+            cooperative
+
+     
+Green:      Casey "Altima" Alvis             (altima_mantoid@hotmail.com)
+Indigo:     Michael "OgreSlayR" Lastovica    (akira101@comcast.net)
+
+28.04.2003

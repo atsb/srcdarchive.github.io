@@ -1,0 +1,38 @@
+[ This is the description Kai-Uwe wrote as he did this map for the proposal
+  of the DHT6 pacifist title. ]
+
+E2M6-PCF.TXT
+
+ E2M6-PCF.ZIP
+
+  E2M6-PCF.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  Doom
+  Episode 2 - Shores of Hell
+  Map 6     - Hall of the Damned
+
+  Kills     22%
+  Items     17%
+  Secrets    0%
+  Time   10:41
+
+Description:    Much easier than I had expected. I could even change the order
+                I take the keys, normally the yellow one first. And you could
+                show you to the Baron, he will be stuck behind the Pigs :)
+                It's not as easy as a permanent Invulnerable map, but also not
+                that difficult. It's the 3rd attempt here, played it for less
+                than 1/2 hour to complete it. You need some luck at the red
+                key, but not much. Just plenty of health here, I wasted a lot
+                and survived anyway.
+               
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:    http://user.cs.tu-berlin.de/~gazelle
+
+IRC:    @#berlin        ( irc.uni-*.de / irc.funet.fi / irc.stealth.net )
+

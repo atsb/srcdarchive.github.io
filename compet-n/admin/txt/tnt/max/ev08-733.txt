@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV08-733.TXT
+
+ EV08-733.ZIP
+
+  EV08-733.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 08 - Metal
+
+  Kills    100%
+  Items     67%           *********
+  Secrets  100%  and Time *  7:33 *
+                          *********
+
+
+Description: 
+
+This demo has been on my hard disk for nearly two years but I never bothered to
+upload because I was sure someone would've done it faster.
+
+There's still plenty of room for improvement here, even for a moderate player...
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

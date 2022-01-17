@@ -1,0 +1,29 @@
+This is a DooM .LMP UV-speed "Competition" Entry - Please forward it...
+
+tc12-044.TXT
+
+ tc12-044.ZIP
+
+  tc12-044.LMP - uv speed
+
+  Recorded using doom2 1.9 -file tnt.wad ! 
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: evilution - Level 12
+
+      Kills     ?? %
+      Items     ?? %            
+      Secrets   ?? %                       
+              *********
+     and Time * 0:44  *
+	      *********
+
+   Descriptions
+
+   Method    (indigo): My st50 skill is not very good.
+     
+   Matej      (green):  Archie-----No problem :))
+
+                
+  Jakub "method_man" Razak <dale007@volny.cz>
+  Matej Razak              <matejR@seznam.cz>

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV29-436.TXT
+
+ LV29-436.ZIP
+
+  LV29-436.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 29 - "The Living End"
+
+  Kills   100%
+  (Items   80)             
+  Secrets   0%  and Time     04.36 
+                             -----
+
+
+
+Description:  A great map....Annoying imps in the "archi-tower". Besides from
+              some need of luck there, it can be tricky to have enough plasma 
+              for the end. The revenants better be dead when you climb the   
+              final hill, or else it can be hard to consentrate on the cybie.
+              Thanx to whoever came up with this route (think it was DL?)        
+	      04:30 would be very good here btw...
+
+Author:	     Anders Johnsen
+E-mail:	     gunjohns@online.no
+Doompage:    http://home.sol.no/~doom/

@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PF11-249.TXT
+
+ PF11-249.ZIP
+
+  PF11-249.LMP - Ultra Violence - FAST
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 11 - Hunted
+   
+  Kills     77%
+  (Items    75%)            
+  Secrets  100%  
+  
+              ... and Time   2:49 
+                            ------
+
+
+  Description: Playing -fast is probably easier on this map. I'm glad it's
+               3 seconds faster than UV max record.
+
+               (note. 77% kills is maximum)
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz

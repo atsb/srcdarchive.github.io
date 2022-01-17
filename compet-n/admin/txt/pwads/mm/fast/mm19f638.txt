@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm19f638.TXT
+
+ mm19f638.ZIP
+
+  mm19f638.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 19 – UV Fast
+
+I originally did this demo about four months ago, but I was too lazy to upload it until now. Decided to this to see how good I was, and it shows here. Yeah, there are some unnecessary weapon changes at points, but the total time is almost a minute faster than Tomas' time.
+
+Author: Revved

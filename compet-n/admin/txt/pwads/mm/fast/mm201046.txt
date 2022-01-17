@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM201046.TXT
+
+ MM201046.ZIP
+
+  MM201046.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 20 - Mountain Depot
+    
+  Kills     99%
+  (Items    63%)          
+  Secrets  100%  and Time = 10:46 
+                                                  
+
+  Description: This is another one that gave me trouble. 99% trouble. After
+               a few failed attempts I checked the level in a map editor.
+               Turns out there's a sargeant hidden in a sector of zero
+               height, so there's no way to get true 100% kills. There *is*
+               an Archvile, so you can get fake 100%, but what's the point
+               of that? 
+  
+  
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com

@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV31s036.TXT
+
+ LV31s036.ZIP
+
+  LV31s036.LMP - Ultra Violence (Secret Exit)
+
+  Recorded using Doom2 Version 1.666
+  & Converted to Doom2 Version 1.9
+  (hope it works) [ it does ]
+  So
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills     18%
+  (Items     0)
+  Secrets   50%  and Time  00:36
+                           -----
+
+
+Computer: 486DX33 ISA ;-) & :-(
+
+Comments: The secret exit is easier to reach than the normal.
+          You need around 30% less health ;-)
+
+          If anyone makes it in :35 - he will have set an un-
+          beatable time. Don't know if :36 could be improved.
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+
+

@@ -1,0 +1,37 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE08-520.TXT
+
+ RE08-520.ZIP
+
+  RE08-520.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 08 - "Tricks And Traps"
+
+  Kills    107%
+  (Items   100%)
+  Secrets  100%  and Time  05:20
+                           -----
+
+
+Description: in my 7:08 recording, i played it rather safe in
+             the rocket launcher area, where i chainsawed the
+             demons. this is now fixed, i'm rocketing my way to
+             the bfg. :-) looks better and it's alot faster.
+
+             this level is extreme hard with -respawn _and_
+             going for 100% kills and secrets, 'cause you have
+             to visit many rooms, and there are so many demons
+             and cacos that you can't just run by.
+
+             someone completely crazy could give it a try on
+             nightmare with 100% everything...
+             
+
+Author:      Thomas "Poeppy" Kroppen
+
+E-mail:      poeppy@aol.com

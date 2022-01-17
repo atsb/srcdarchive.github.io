@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M6-354.TXT
+
+ E1M6-354.ZIP
+
+  E1M6-354.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 6 - Central Processing
+
+  Kills    100%
+  (Items    41)
+  Secrets  100%    and Time  03:54
+			     -----
+
+Description:  Another map with top gameplay in episode 1. A great level from 
+              beginning to end (I even like the maze :). I don't think using 
+              the "door-trick" will shave of more than max two secs or so, and 
+              I'm just too lazy to use it :) The start of this recording went 
+              bad, fortunately it becoms better towards the end.
+    
+              Route-credits goes to Yonatan and Peo...
+  
+Author:     Anders Johnsen
+E-mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

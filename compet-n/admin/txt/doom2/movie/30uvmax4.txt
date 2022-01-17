@@ -1,0 +1,72 @@
+                           DOOM2 - HELL ON EARTH
+                           ---------------------              
+                      THE ULTRAVIOLENCE MAXKILL MOVIE 
+                      -------------------------------                                   
+
+ -------------------------------------------
+   Map        Time    Kills Secrets ParTime 
+ -------------------------------------------
+  LV 01  -   | 0:55 |  100%   100%    0:30         
+  LV 02  -   | 1:26 |  100%   100%    1:30        
+  LV 03  -   | 1:39 |  100%   100%    2:00        
+  LV 04  -   | 1:18 |  100%   100%    2:00        
+  LV 05  -   | 3:09 |  100%   100%    1:30       
+  LV 06  -   | 3:15 |  100%   100%    2:30        
+  LV 07  -   | 1:34 |  100%   100%    2:00      
+  LV 08  -   | 3:35 |  100%   100%    2:00      
+  LV 09  -   | 5:09 |  100%   100%    4:30     
+  LV 10  -   | 5:10 |  100%   100%    1:30      
+  LV 11  -   | 3:16 |  100%   100%    3:30      
+  LV 12  -   | 4:43 |  100%   100%    2:30      
+  LV 13  -   | 4:57 |  100%   100%    2:30      
+  LV 14  -   | 2:21 |  100%     0%    2:30        
+  LV 15  -   | 6:43 |  100%    90%    3:30       
+----------- 
+  LV 31  -   | 2:51 |  100%   100%    2:00         
+  LV 32  -   | 1:11 |  100%   100%    0:30         
+-----------
+  LV 16  -   | 3:25 |  100%   100%    2:30         
+  LV 17  -   | 5:38 |  100%   100%    7:00         
+  LV 18  -   | 3:56 |  100%   100%    2:30         
+  LV 19  -   | 4:49 |  100%   100%    3:30         
+  LV 20  -   | 4:32 |  100%   100%    2:30         
+  LV 21  -   | 3:03 |  100%     0%    4:00         
+  LV 22  -   | 1:49 |  100%   100%    2:30         
+  LV 23  -   | 3:02 |  100%   100%    3:00        
+  LV 24  -   | 6:57 |  100%   100%    2:30        
+  LV 25  -   | 2:34 |  100%   100%    2:30        
+  LV 26  -   | 3:58 |  100%   100%    5:00       
+  LV 27  -   | 5:03 |  100%    87%    5:30        
+  LV 28  -   | 3:51 |  100%   100%    7:00        
+  LV 29  -   | 6:02 |  100%     0%    5:00        
+  LV 30  -   | 1:27 | 1300%     0%    3:00       
+----------------------------------------------
+TOTAL TIME   113:18                                       
+----------------------------------------------
+
+
+
+Comments:
+---------
+   You might have expected this after seeing my episode2 run. I was working
+   on this about 1 week. Pity I didn't practise the third episode at all.
+   This demo contains some lucky parts (like I got down 2 Cybies in just
+   4 BFG shots) as well as some unlucky ones. I screwed up map17, map29 and
+   map30. I got to the wrong teleport in map17, it caused a lot of problems.
+   In map29 I couldn't remember the optimal route, so I just tried to kill
+   everything as soon as possible. And map30 ? Heh..the start was nice,
+   got on the lift, 2 rockets to the brain, but then got a bit nervous
+   (especially after Archie appeared) and couldn't finish it. I knew 
+   exactly what was going to happen when I shot the very last rocket. 
+   Yeah, you know, I just died, heh (very stylish end of the nearly 2 hour
+   max run IMO :). The other maps are more or less acceptable for me. Hope 
+   this run is still valid.
+   
+
+
+
+
+                                 Radek Pecka
+                              r.master@email.cz
+                         http://doomaniax.bonusweb.cz
+                              April 22nd - 2002

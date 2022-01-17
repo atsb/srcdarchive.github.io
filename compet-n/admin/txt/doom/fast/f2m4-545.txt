@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F2M4-545.TXT
+
+ F2M4-545.ZIP
+
+  F2M4-545.LMP - Ultra Violence -FAST
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 2 Mission 4 - Deimos Lab
+
+  Kills    100%
+  (Items    63%)
+  Secrets  100%    and Time  05:45
+			     -----
+
+Description: My first demo below 6 mins. I had problems with punching those
+             two Barons. I found out it's very hard to kill them when you
+             are using invisibility.
+
+
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz

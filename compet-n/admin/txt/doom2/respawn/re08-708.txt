@@ -1,0 +1,45 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE08-708.TXT
+
+ RE08-708.ZIP
+
+  RE08-708.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 08 - "Tricks And Traps"
+
+  Kills    108%
+  (Items   100%)
+  Secrets  100%  and Time  07:08
+                           -----
+
+
+Description: ugh, in nightmare, this is a very simple level, but
+             if you do it on ultraviolence and -respawn _and_
+             100% secrets and kills, it's really _ULTRA_violent.
+
+             you need some luck with the cyberdemon and also the
+             fighting between the other monsters has to work for
+             you. i found out, that the bfg-shot in the low-level
+             room with the 30 imps (no, i have not counted them :-) 
+             usually gives you the missing 10% kills. i found that
+             the kill-ratio is the real problem in this level,
+             because you never really know IF the fighting goes
+             on without you... but you can always take out another
+             50 demons with the good old chainsaw. takes some time
+             though. :-)
+
+             hm, i used to think that -respawn is quite dull, but
+             after THAT level, i think i have to change my mind.
+
+             hey rini, why don't you do it on skill 5 with 100%
+             everything? :-)
+
+
+Author:      Thomas "Poeppy" Kroppen
+
+E-mail:      poeppy@aol.com

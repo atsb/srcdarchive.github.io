@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV26-540.TXT
+
+ EV26-540.ZIP
+
+  EV26-540.LMP - UltraViolence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with The Doom2.Exe Version 1.9 - only!
+
+  The Final Doom: TNT: Evilution - Level 26 - Ballistyx
+
+  Kills    108%
+  (Items    37)
+  Secrets  100%  and Time  05:40
+                           -----
+
+
+Description:  It's a classic game, that. Ballistyx, I mean.
+
+              Well, this is under 6 min like Kai wanted. Nearly everything
+              went well, except for the blasted imp teleporting in from
+              who knows where, losing at least ten seconds there. I SSG
+              the spectres at the start - you've got just enough ammo,
+              and it saved heaps of time. Everything else is Kai's route,
+              except for the rockets used on the revenants at the end.
+              I was running out of shells at that point, had to do something.
+              This led to a very strange situation, where I apparently
+              killed, or nearly killed, one revenant with one rocket.
+              At least, both revenants went down with two rocket, and
+              one didn't seem to take much, if any, area damage from the
+              first rocket. It must have, though, cause even at max
+              damage a rocket can't take down a revenant like one SSG
+              blast can (thanks George Bell's Weapons Damage info).
+              Must have come close though...
+
+
+
+Author:  Chris "Ryback" Ratcliff
+
+E-Mail   ryback@fcmail.com
+
+
+
+

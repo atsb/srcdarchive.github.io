@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cn07-058.txt
+
+ cn07-058.zip
+
+  cn07v058.lmp  
+  cn07z058.lmp  Nightmare !
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP07
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim	
+
+  
+  Time:    0:58
+
+
+Selim   :  Why didn't u do 30sec adam ? :)
+Vincent :  This is an old demo we did the 1st time we met.
+           But since no one has uploaded anything for this, 
+           here is a NM entry for this map.
+
+Green:       Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:      Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+

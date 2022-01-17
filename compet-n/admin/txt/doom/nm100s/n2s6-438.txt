@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+N2S6-438.TXT
+
+ N2S6-438.ZIP
+
+  N2S6-438.LMP - Nightmare with all Secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 6 - Halls Of The Damned
+
+  Kills     72%
+  (Items    45)
+  Secrets  100%  and Time  04:38
+
+
+  Description:  I like styles where you really have to PLAY Nightmare -
+                not just run through. I'm not sure whether the 100%
+                secrets requirement is hard enough, propably it will end
+                as speedrunning category, just like ordinary nightmare.
+                Anyway, I did this nice map, before someone does,
+                who hates it and I enjoyed it. Hope you enjoy watching.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

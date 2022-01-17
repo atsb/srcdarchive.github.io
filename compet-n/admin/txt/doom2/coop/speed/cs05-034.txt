@@ -1,0 +1,17 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM ][
+Category:        Speed
+Map:             map05
+Players:         2
+
+Kills:           22%
+Secrets:         0%
+Time:            0:34
+
+Green:           Arno Slagboom
+Indigo:          Marko van der Want
+
+Comments:        Beat our own record here.
+                 We forgot about our old 0:36 and
+                 thought Adam&Tom had recorded it. :) 
+                 

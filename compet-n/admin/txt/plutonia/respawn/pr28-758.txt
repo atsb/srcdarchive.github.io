@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PR28-758.TXT
+
+ PR28-758.ZIP
+
+  PR28-758.LMP - Ultra Violence - Respawn
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 28 - The Sewers
+
+  Kills    110%
+  Items     88%                    
+  Secrets  100%  and Time = 7:58  
+                                   
+
+  Description: Ugly start, and I have no idea why that first
+               monster teleporter refused to work. Still, wasn't
+               difficult getting enough kills.
+
+ 
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

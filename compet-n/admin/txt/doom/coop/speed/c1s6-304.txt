@@ -1,0 +1,17 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang/)
+
+authors:    Arno Slagboom <slagboom@cybercomm.nl>
+            Marko van der Want
+
+game:       Ultimate DOOM
+
+category:   Speed
+            Coop 2 players
+
+level:      E1M6
+
+Time        3:04
+
+
+
+

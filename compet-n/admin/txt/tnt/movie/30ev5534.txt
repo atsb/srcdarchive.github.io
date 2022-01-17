@@ -1,0 +1,109 @@
+This is a DooM .LMP "Competition" Entry
+
+30EV5534.TXT
+30EV5534.ZIP
+
+30EV5534.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final DooM - TNT levels 1-30 on UV skill
+
+01 - system Control        -  :45
+02 - Human BBQ             - 1:25
+03 - Power Control         - 1:36
+04 - Wormhole              -  :27
+05 - Hangar                - 2:07
+06 - Open Season           - 2:47
+07 - Prison                - 1:03
+08 - Metal                 - 3:17
+09 - Stronghold            - 4:03
+10 - Redemption            - 1:52
+11 - storage Facility      -  :27
+12 - Crater                -  :47
+13 - Nukage Processing     - 1:28
+14 - Steel Works           - 2:20
+15 - Dead Zone             -  :36
+16 - Deepest Reaches       - 1:31
+17 - Processing Area       -  :58
+18 - Mill                  - 3:00
+19 - Shipping/Respawning   - 1:20
+20 - Central Processing    - 3:41
+21 - Administration Center - 3:32
+22 - Habitat               -  :29
+23 - Lunar Mining Project  -  :43
+24 - Quarry                -  :37
+25 - Baron's Den           - 2:22
+26 - Ballistyx             - 2:21
+27 - Mount Pain            - 3:14
+28 - Heck                  - 2:41
+29 - River Styx            - 2:14
+30 - Last Call             - 1:51
+
+Total - 55:34
+
+C-N entry #46, movie run #18.
+
+01: The awesome tyson-style start level. :)
+02: I still don't like this map much.
+03: I grew to like this map more during the 30ev recordings.  It plays similarly to
+    map09 with low level monsters in tight corridors.
+04: A very short level, just run up the stairs, run back down and exit.
+05: This map is OK.. at least nothing can go wrong here.
+06: Another corridor/weak-monster map, this one is also fun, IMO. :)
+07: Not a tough map, with some extra cells to be picked up here.
+08: My least favorite episode 1 map.. still, I ran it faster in this movie than I
+    ever did in my ev01 attempts. :)
+09: I love this map!  Probably my favorite from episode 1 after map01, it's just fun
+    to slice through armies of formerhumans/imps.
+10: I get a ton of cells here, which will pay off even a long time from now.
+11: A short level with a soulsphere!
+12: Another short level with.. nothing!  A whole lot of nothing.. that red key area
+    is waaaaay too empty.
+13: Another short level, only a bit tougher.  The end in particular can drain your
+    health quickly sometimes.
+14: A map similar in ugliness to map08, only with more slime.
+15: Damn, did something really stupid and owned myself with a barrel here.  I had
+    To find more health to make sure that I survived the beginning of map16.
+16: Not much trouble here, since a megasphere is just what I needed after map15. :)
+17: No troubles here, with a 200% armor and more cells for the taking.
+18: I lost an attempt at the end of this one when the cyberdemon sat on the exit
+    and fired continuously.. I take a short sidetrip to an invincibility to fix
+    that problem. :)
+19: Another map with a free megasphere for the taking.
+20: This map is long, but doesn't pose a problem unless I ended up having low
+    health at the end for some reason.
+21: Ouch, this map can be trouble.. I take a little time here to grab a megasphere
+    and make sure I get out alive. :)
+22: I like this map for the 240 free cells (and a soul sphere at the start if I
+    need it), but there's something about this level that just creeps me out..
+    Legend has it that the ghost of a doom god roams the poorly designed hallways
+    of this level.. some call it the "Dashiva," while others claim it's just a
+    crack-smoking monkey.. we'll never know for sure..
+23: An easy map unless something weird happens.. I actually ran right through the
+    exit in one attempt and got clawed by the baron on the other side. :)
+24: This map is short, but I take my time to kill the revenant at the blue key from
+    below, just in case.  He can actually punch you to death while you're waiting
+    for the elevator to rise sometimes.
+25: Ugh, ugly map with dark passageways.. but at least I finally get the BFG here.
+26: Ugh, an even worse map than 25.. I lost an attempt here because the level caused
+    the game to crash, so I got a little nervous while running through that one area.
+27: This might be the toughest map from the whole thing, since rushing it can result
+    in an agonizing death.  I take my time to clear out the hallways after the blue
+    key.
+28: This is the only episode 3 map that I like, it's design is interesting enough.
+    I lost an attempt at the red key, so I wake the revenants and let them move out
+    of the way first before running back out.
+29: An easy map, and the extra cells allowed me to take down the spiderdemon quicker
+    and handle the yellow key area more safely.
+30: Kinda stressful for an end map, even if it's easy.  I am never sure about the
+    beginning part, plus I almost get knocked into lava early on, but I finished
+    regardless. :)
+
+I'm pretty satisfied with the way this run turned out.  Not a lot went wrong and
+I didn't have to make too many side trips to stock up on health/ammo.  Enjoy the
+run, because I think at this point that I'm done with evilution. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+---------------------------------------------------------------
+
+  6154EV01.TXT
+  6154EV01.ZIP
+
+  6154EV01.LMP - TNT:Evilution / 1st Episode / UV Max movie
+
+  Recorded with the Final DOOM executable (DOOM2.EXE)
+
+  level                  | time | kills | items | secrets 
+  ---------------------------------------------------------
+  System Control (map01):  1:10   100%     66%    100%
+  Human BBQ      (map02):  4:49   100%    100%    100% 
+  Power Control  (map03):  4:13   100%    100%    100%
+  Wormhole       (map04):  8:21   102%     87%    100%
+  Hanger         (map05):  5:32   100%     45%    100%
+  Open Season    (map06):  5:23   100%    100%    100% 
+  Prison         (map07):  9:50   100%    100%    100%
+  Metal          (map08):  8:23   100%     67%    100%
+  Stronghold     (map09):  9:27   100%     68%    100%
+  Redemption     (map10):  4:46   100%     40%    100%
+
+  Total time: 1hr 1min 54sec
+
+  Description :-)
+
+  Nothing to write home to Mom about here =). Almost every map takes 
+  me at least two minutes more than the corresponding UV Max single 
+  level record. And if you expect some fancy strafe-50s or Arch Vile 
+  jumps, just fuggeddabuddit =). Still, you gotta start somewhere ...
+  and I can't help wondering why no one did this before.
+
+  Kudos to Xit Vono, whose staunch recordings are always an 
+  inspiration, and to stx-Vile for turning the Compet-N world upside 
+  down. Respects to both for living out the "it's nice to be important, 
+  but it's more important to be nice" line.
+
+
+  Serge "Never_Again" Marudov
+  tpoppins@juno.com

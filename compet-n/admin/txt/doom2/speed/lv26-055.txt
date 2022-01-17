@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV26-055.TXT
+
+ LV26-055.ZIP
+
+  LV26-055.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 26 - The Abandoned Mines
+
+  Kills     33%
+  Items     15%           ********
+  Secrets    0%  and Time * 0:55 *
+                          ********
+
+
+Description: Hey, Daniel, you should have improved my old record by more than
+	     1 second. Here is my answer: 6 seconds better than yours. I got
+	     fairly easy one with less then 1:00, but I thought I could improve
+	     it furthermore. There are some changes in details: I leave 2 of the
+	     first 3 heavy Weapon dudes without shooting them, and I use Chain-
+	     gun on the Baron, because it keeps him out of the way. Sometimes.
+	     And I had little luck to the teleporter (there was something down
+	     there), but much after teleporting, because there was no monster
+	     at all. I think I had 5 hours of recording now.
+	
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

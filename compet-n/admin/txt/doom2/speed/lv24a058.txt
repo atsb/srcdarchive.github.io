@@ -1,0 +1,37 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV24a058.TXT
+
+ LV24a058.ZIP
+
+  LV24a058.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 24 - The Chasm
+
+  Kills      0%
+  (Items     0)
+  Secrets    0%  and Time  00:58
+                           -----
+
+
+  Description:
+
+  Yep. Under one minute. That's what I wanted when I started
+  recording. I realized this to be possible, when I first
+  played with BFG instead of rockets. Strange to me is the
+  fact that from the first door to the teleporter, where I
+  enter the room with the pinkies, I'm almost 3 seconds faster
+  than Kai-Uwe. Well, this isn't the fastest .LMP for this
+  part, so there still should be room for some seconds.
+  Something for you, Kai-Uwe ??? Not for me, I really hate
+  this map (it makes me pretty nervous).
+
+
+ Anthe Kren
+
+ anthe.kren@telecom.at
+
+

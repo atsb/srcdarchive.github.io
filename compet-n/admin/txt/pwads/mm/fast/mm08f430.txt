@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM08F430.TXT
+
+ MM08F430.ZIP
+
+  MM08F430.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - And The Dead Shall Rise
+    
+  Kills    100%
+  (Items   100%)          
+  Secrets  100%  and Time = 04:30 
+                                                  
+
+  Description: Everything is okay up to the invuln, where I got massively
+               confused...
+  
+  
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com

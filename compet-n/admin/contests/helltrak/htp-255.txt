@@ -1,0 +1,19 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htp-255.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 2:55, UV pacifist
+
+Author                  : Adam Williamson
+Email Address           : adam.williamson1@btinternet.com
+
+Description             : Just an initial pacifist run, prove it's possible
+                          etc :)
+
+************************************************************************

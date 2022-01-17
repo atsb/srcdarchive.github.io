@@ -1,0 +1,23 @@
+[ Taken from Robert Reevy's D2P6 exam d2p6rr ]
+
+PA16-220.TXT
+
+ PA16-220.ZIP
+
+  PA16-220.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  02:20
+                           -----
+
+  Description:  
+           The hard part is getting the two spectres out of the way so you
+           can snatch the red key.
+  
+       Author:  Robert Reevy

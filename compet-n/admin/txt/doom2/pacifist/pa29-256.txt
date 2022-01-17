@@ -1,0 +1,95 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA29-256.TXT
+PA29-256.ZIP
+PA29-256.LMP - Pacifist ! 
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+Doom2 - Level 29 !
+
+Kills     25%
+Items     80%             +++++++++ 
+Secrets    0%  and Time   + 02:56 +
+                          +++++++++ 
+
+Description :
+
+Yes, we finally have 1st ever pacifist run of map29 !
+and it was my honour to do it, now I tell you how it 
+happened. I was just looking for some pacifist to play,
+there are four hard maps left to do 02/17/26/29. We already
+have some cheated lmps (TAS) that proves it isnt impossible
+to do it without cheating, but after a while of thinking
+about realizing map02 and map17 I left all the thoughts of
+trying it. So maps 26/29 are those I could try, map26 hinges
+at two hard points, getting thru the line of imps to the
+redkey and picking up the bluekey that is guarded by baron.
+Its real hell to do this map pacifist, by many other players
+is it also marked as impossible. Map29 seemed less hazardous
+to me so I started with trying - it was maybe one year ago !
+I found out that the start of the map is pretty fortuneous,
+and that is possible to reach the mancubi place with some low
+health. I never got farther than here before. This time I
+took it seriously and after about three hours of playing I
+firstly reached Archie place :P It took another days
+and another hours to get farther into "FJS room", there, I was
+lucky at everything except of FJS jump. Mancubi, being busy
+with shotgunners, left immediatelly the place for me, so the
+baron above the lift, then windowjump came so easy.
+Pity that I missed the last jump :( Ofcourse I kept on trying
+till today, after some failed attempts I reached there
+again. Though that the mancubi didnt leave the way and fired
+me I was lucky and I managed to get out of there alive.
+Then came that hard jump combination, I was nervous a bit I
+remember, but at last it happened good for me :P
+
+Here is a text by Selim "Bastard" Benabdelkhalek taken off his
+cheated pa29-530, I can agree with him and I like his text very
+much so I hope I could copy the text here ... 
+
+
+>I wanted too show that this level in Pacifist isn't impossible
+>at all; It's just extremely hard :) This perhaps could be done
+>on a normal recording, but it requires high monsters fighting
+>skills, a good slalom skill, and first of all incredible luck.
+>Well here are the main problems:
+>-getting back to the revenant room once you have pressed the
+> bridge switch. Not getting stuck by the chaingunner or an imp
+> requires (guess what?) luck.
+>-the monsters fighting that follows isn't really hard, but 
+> you can be hit on the back by a caco.
+>-finding your way to the mancubus switch is extremely hard.
+> These stupid monsters won't exit the room, so slaloming is 
+> the only solution here. I had incredible luck at my first try,
+> because the cacos moved right exactly at the same time. This 
+> is one one the hardest parts, and luck is required here too. 
+> (Hey, I do not punch the Pain E. at all ! ) 
+>-I think I chose the best route through the Archie's room 
+> (well, I think it's the only possible one :); I makes the
+> part not really difficult, eventhough you can get easily 
+> killed by a sergent. 
+>-well, the last room is the main problem here, I think, since
+> you have to "clean" your way to the switch by making the monsters
+> fight each others. It looks rather easy here, but, believe me,
+> the god damn mancubus can be a real pain in the ass.
+>The last REAL problem is the last two jumps. The FJS is a must
+> here, since it's impossible to find a way to the second switch
+> (or, at least, much too hard). I think my jump is needed too, 
+> otherwise you get easily stuck by the revenants. But doing these
+> two jumps on a normal recording is very hard, and almost impossible
+> if you have already played the whole map in pacifist style.
+>-the last hill can be a problem too, since you can get killed by one
+> of the chaingunners ( I died here once).
+>
+> So, if any of the compet-n monsters (I don't think they're human
+> beings:) wanna try it, good luck (you will need it!).
+>
+> Selim "Bastard" Benabdelkhalek 
+> wmrselim@hotmail.com
+
+btw. All the credits go to the people who discovered these cool
+jumps. Enjoy them ! (These jumps ofcourse, not the people :P)
+
+
+Author: Vaclav Kunes 
+E-mail: boltn1@hotmail.com

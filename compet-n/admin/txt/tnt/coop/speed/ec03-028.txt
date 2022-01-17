@@ -1,0 +1,36 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+ec03-028.TXT
+
+ ec03-028.ZIP - Coop UV Speed
+
+  ec03s028.LMP - Sergey - Green
+  ec03e028.LMP - Eugene - Indigo
+
+  Recorded using Doom2 Version 1.9 -file Tnt.wad
+
+  The Final Doom: Evilution - Level 03 Power Control
+
+Kills        0%
+Items        0%
+Secrets      0%	
+
+Kills        6%
+Items        33%
+Secrets      0%	
+
+and Time - 0:28
+
+
+Description:
+
+A nice map for coop run.
+
+Authors:	
+
+Sergey Kapustin
+ssggkk@ukr.net
+
+Eugene Kapustin
+egk@ukr.net
+08.01.2007

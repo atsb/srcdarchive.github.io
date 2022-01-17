@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M7-221.TXT
+
+ R3M7-221.ZIP
+
+  R3M7-221.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.3 Mi.7 - Limbo
+
+  Kills    102%
+  (Items    75)
+  Secrets  100%    and Time  02:21
+                             -----
+
+  Description:  After recording it in 2:48 on uv100/100, here it is
+                the re100/100 version. I am pracising strafe50 running
+                and I do it as often as I can in that recording.
+               
+                FastStrafe   3.24%   when strafing  7.78%
+
+                Well there's much to improve.
+                Btw:
+                I do not use any special tricks for strafe50. I just
+                press [StrafeRight] + [StrafeOn] + [TurnRight] at the
+                same time. Together with the [Move] and the [SpeedOn]
+                key this gives you six kay tu press altogether,
+                as long as you don't shoot ...
+
+                Btw:
+                Most of the time I end either with 97% or with > 110%
+                kills. This is the closest I ever reached.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+
+

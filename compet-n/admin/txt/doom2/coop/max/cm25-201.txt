@@ -1,0 +1,39 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV25NET2.TXT
+
+ UV25NET2.ZIP
+
+  UV25NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 25 - Bloodfalls
+
+           Kills    Items   Secrets
+
+  Green      40       50       50
+  Grey       45       50       50
+
+  Time:    2:01  Approx.
+
+
+Comment:        I kill the Pain Elemental, I've got the time as you can see.
+                Perhaps dasa could go for the cells after the blue door and
+                let me finish the monsters.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+
+-----------
+Admin note:   Time is actually 2:01.00 :)
+

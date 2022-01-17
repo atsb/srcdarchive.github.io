@@ -1,0 +1,275 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30NM4618.TXT
+
+ 30NM4618.ZIP
+
+  30NM4618.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+
+        Time     Par
+
+  MAP01 0:06	0:30
+  MAP02 1:23	1:30
+  MAP03 0:46	2:00
+  MAP04 1:26	2:00
+  MAP05 1:05	1:30
+  MAP06 1:58	2:30
+  MAP07 1:28	2:00
+  MAP08 1:16	2:00
+  MAP09 1:44	4:30
+  MAP10 1:04	1:30
+  MAP11 1:29	3:30
+  MAP12 1:49	2:30
+  MAP13 1:52	2:30
+  MAP14 1:54	2:30
+  MAP15 1:17	3:30
+  MAP31 0:37	2:00
+  MAP32 0:25	0:30
+  MAP16 0:46	2:30
+  MAP17 2:46	7:00
+  MAP18 0:38	2:30
+  MAP19 1:11	3:30
+  MAP20 1:14	2:30
+  MAP21 1:24	4:00
+  MAP22 1:40	2:30
+  MAP23 2:13	3:00
+  MAP24 2:04	2:30
+  MAP25 1:39	2:30
+  MAP26 1:32	5:00
+  MAP27 1:28	5:30
+  MAP28 1:19	7:00
+  MAP29 3:14	5:00
+  MAP30 1:31	3:00
+  ------------------
+  
+
+  Total Time =  31:918			Health low points:
+                31+			MAP09 32%
+                15:18			MAP13 41%
+               ------			MAP14 35%
+  TOTAL TIME =  46:18			MAP21 41%
+              --------			MAP25 49%
+					MAP29 23%
+
+					Maximum minimum health: 23%
+    
+  Description :-)
+  
+  YEAH, I finally did it... lots of trying and finally I managed.
+
+  I first tried this more than a year ago... I got to MAP22 after some trying,
+  and with some more tries I got to 25nm last year (44:50 my 25nm time
+  back then). After that I haven't really tried since this September, I had
+  lots of other challenges and D2S somehow I didn't really want to go for.
+
+  I started trying again about three or four weeks ago, for some time I was
+  doing around 54 minute pace, but after some talking with Henning and thinking
+  about my tries, I realized it would be quite lame to submit a run outside
+  50 minutes. So I made my pace faster, and that's how I managed my 2nd
+  25nm (38:48 this time). This was three days ago, after that I had a few
+  tries each day but most of them ended at MAP22/MAP23.
+  
+  It was yesterday when I had a really good run again, I reached MAP29 for the
+  first time but died near the exit (28nm4118). The folks at #nightmare witnessed
+  this as I reported, they cheered me as I was progressing but I wasn't prepared
+  enough for MAP29 so I didn't make it. After that run, I tried again in
+  the morning (I know I'm crazy yeah :) and I was surprised that I got
+  to MAP29 again and I made it! After that, I thought I made it, but I had
+  a terrible MAP30 and I died there (I had an archie and two PE's around).
+  I was totally down after that, thought of giving up the whole thing but
+  I got really pissed so I sat down again. Next try was a 22nm with dying
+  just before the mega. After that I started another try and that turned
+  out to be the successful run. I think I'm lucky that I made it with relative
+  few tries, but on the other hand getting to MAP22 is no problem for me
+  anymore (and I've been doing better and better in the last 10 maps lately).
+
+  This run is not too good if I look at it myself, the first 10 maps are miserably
+  slow even with my pace (12:16 compared to my normal 11 min runs). I think
+  I could do around 44 minutes with the routes I used here, and of course
+  lots of time can be spared with faster routes. As you can see I took safe
+  routes all the way, I got under 50% in only 6 maps so that shows that
+  health-wise the run went good.
+  
+  Anyway I'm happy overall, I'm the 4th player managing the D2S and the
+  2nd player managing the Superlightning (D2S with all maps under par).
+
+  Of course I'm keeping myself to the D2S habit, so this wasn't the
+  last 30nm from me!
+
+  Map descriptions:
+
+  MAP01: Well, 0:06 with 100% is easy... I press "Q" if the time is worse
+         or the health is bad.
+  
+  MAP02: I get SSG to make life easier on MAP03/MAP04. In my earlier tries
+         I was doing 1:35-1:40, but I realized I have to speed things up
+         if I want to have Superlightning. Still this map is quite easy
+         to do around 1:20.
+  
+  MAP03: A bit slow in this run... otherwise this map is quite easy, and
+         not too hard to finish with at least 100/100.
+         
+  MAP04: Nice map to do in the NM run... I think I never screwed up here.
+         Time is a bit slow because I was sloppy around the exit... normally
+         have 1:15 here.
+  
+  MAP05: First part I do slow and safe, then according to my health, I speed
+         up as much as I can. The hell knight part is the barrier here, it
+         rarely goes wrong but weird things can happen there... My time here
+         is OK.
+         
+  MAP06: Well, quite an embarrassing run here. I missed the first jump and
+         had a very nice rocket in my face near the end... Time is 15 seconds
+         slower than acceptable. Oh well...
+         
+  MAP07: Damn, lost 30 seconds here compared to my normal run. This rarely
+         happens to me, normally I'm between 0:55-1:05. Anyway I very rarely
+         screw here, and normally I press "Q" if the run is starting to suck.
+  
+  MAP08: Well, what to say... I use the standard route here, never screwed
+         up here... Best time is 1:08, this run is OK.
+         
+  MAP09: One of my favourite maps for NM... full of action gameplay and
+         still very easy to do with the right tactics. Quite a slow run
+         again, normally it's around 1:30...
+         
+  MAP10: I try to finish with 100/200 here so I take a safe approach normally.
+         Didn't work this time because I lost too much health, time is OK
+         though. Best time was 0:59.
+         
+  MAP11: First map with some challenge... Couple of things can go wrong
+         here: archie can have a surprise hit sometimes and cacos/PE's tend
+         to fly around annoyingly. I take the jump down to the cacos very
+         safe, I fell down many times before when I didn't kill the PE
+         there, so I adjusted my tactics and take a few seconds killing
+         the PE (the invul lasts enough). Not a favourite of mine...
+         
+  MAP12: Well, the end room is the only hard part in this map... I take it
+         very safe so it's never a problem for me... a place for some time
+         improvement later. BTW, had a dream run here, haven't been hit
+         in the end room!
+         
+  MAP13: Easy map with the right strategy... Sometimes the monsters block
+         the exit of the yellow key room, but that shouldn't be a big
+         problem...
+         
+  MAP14: Well, quite a long map with this route, luckily there's plenty of
+         health and armor to keep you fit. Much faster with Istvan's route,
+         but if you do a mistake there then you're busted (especially if
+         the door doesn't open for you after the first jump).
+  
+  MAP15: Not too hard but can be annoying sometimes... If I have more than
+         100% health leaving MAP14, I go for the slime part directly, if
+         I'm low on health I gather some health and the blue armor.
+         I jump on the radsuit/cellpack in the slime, that gives me
+         enough cells so I don't have to bother with them in MAP32.
+  
+  MAP31: What to say... easy map with invisibility. 0:37 my best time with
+         this route.
+         
+  MAP32: Hmmm, much easier to deal with cybie this way I think (shooting
+         rockets like a madman doesn't help guys, trust me). Shame that
+         I screwed up the exit room and didn't end up with 0:22 as I normally
+         do.
+         
+  MAP16: Easy, but sometimes archie can give you some tough moments. Gotta
+         hurry to the exit fast...
+         
+  MAP17: Wow, probably my nicest run I ever had on this map... Earlier I was
+         doing the old route in the arachnotron room but it's really a pain
+         to jump down, the spider blocks you at least 80% of the time.
+         Much easier with the jump from the side. The end is a bit harder
+         without the invisibility but health is more than enough.
+         
+  MAP18: Well, easy one even if the invul grab doesn't work. Can't really
+         screw up here.
+         
+  MAP19: Nice route this one, Ilya is a wizard :) I kill the caco behind
+         the door because it can be annoying when the invul runs out...
+         
+  MAP20: Easy... there can be some problems if the 2nd pain elemental
+         says hello when you're trying to fight the other one, but
+         that doesn't happen too many times...
+         
+  MAP21: Fun and relatively easy map... You just gotta watch your health
+         after you grabbed megasphere so you maximize your chances for
+         MAP22.
+         
+  MAP22: Yeah, this map is hard, things easily go wrong here and health
+         can disappear like crazy. I practiced here with FILLUP.WAD a few
+         times and I was doing nicely, which kept me relatively calm
+         in real NM run attempts... Last part is the hardest for me,
+         exiting health can be from 140% to 1% (or just dying). Under 30%
+         needs extreme luck in MAP23...
+         
+  MAP23: This map is damn annoying from start to finish, starting out
+         with the chaingunner row after the start, then the PE ledge
+         after the teleport (I just hate when they blow a barrel into my
+         face), and then the run to the megasphere (chaingunners are deadly
+         from any distance). Even the archie part near the end can have
+         some surprises (early respawning revenants). You need over 150%
+         here if you want to leave the mega in MAP24.
+  
+  MAP24: Hehe, this map is a real nerve-tester with this route. First map
+         where I really lost my control, first falling twice from the ledge,
+         getting flooded with lost souls; then accidentally stepping into
+         the demon room (bad idea) and managing to get out without much harm.
+         My normal time would be 1:40 with this route, but 2:04 is not so
+         bad after screwing up this bad...
+         
+  MAP25: Not any favourite of mine... many things can go wrong. Starting room
+         I take safe, not wasting too much cells (so I don't run out at the
+         end of MAP26), then I clear out the megasphere room as much as I can
+         before grabbing the mega. After that it's just running and trying
+         to stay healthy, 100/100 in the end is good. The revenant can be
+         a real pain if it starts shooting around, so I kill it with plasma.
+         
+  MAP26: This map can go wrong sometimes, especially if you are low on plasma
+         near the end. Cacos are a real pain, so much of them that you can't
+         kill all of them. My run here is great, a bit slow but high on health
+         in the exit.
+         
+  MAP27: Whew, nice map to relax after five hard maps. With 3 invuls things
+         can't really go wrong...
+         
+  MAP28: This one is very easy with so many invuls, but some surprising things
+         can happen and if you're not reacting well you can get into trouble.
+         It's really funny when the spider masterminds step on the invuls
+         and you are running out and get ventilated by their chaingun... NOT!!
+         Otherwise, the only important thing is to finish with 200/200 and 600
+         cells.
+         
+  MAP29: Yeah, this map is really evil... the longest and hardest map in the
+         NightMare run. Cacos can be a pain all the way from start to exit,
+         otherwise there aren't too many problem parts till the last area
+         (except if you fall down somewhere). The last part is a real bitch,
+         just when your hands are trembling the most, comes the hardest part
+         in the run :) I was lucky that the barons gathered on the right side
+         so I had a clear way to the teleporter, but for some reason I tried
+         to grab the medikit before teleporting. Bad idea -> down to 52% at
+         the teleport. The last hill is just luck, I lost 29% health this time
+         but sometimes even 100% is not enough... and if you get stuck while
+         going up then you're dead for sure.
+         
+  MAP30: Easy on the first look, but strange things happen sometimes. Arch-viles
+         and pain elementals are the main threat, but demons or revenants can
+         give you a hard time. My run went OK except that the revenant respawned
+         early and I had a spectre chewing my side...
+  
+  I gotta say thanks for all the people who played NightMare skill throughout the
+  years, I used a lot of their routes, ideas and tactics in this run. Special thanks
+  for the D2S people, Thomas "Panter" Pilger, Vincent Catalaa and Henning Skogsto
+  for their runs, I never could have done this without you folks.
+  
+  And thank you for watching my run!
+  
+  
+  Adam Hegyi D2S
+  ha211@hszk.bme.hu
+  23.09.2000. 07:38AM :))

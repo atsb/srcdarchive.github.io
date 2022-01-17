@@ -1,0 +1,28 @@
+[ Taken from Michal Svoboda's D2P6 exam d2p6ms ]
+                        
+PA28-131.TXT
+
+ PA28-131.ZIP
+
+  PA28-131.LMP - Pacifist style!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 28
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  01:31
+                           -----
+
+  Description:
+                          MAP28 - this is the easiest of the three. it took
+                                  me only few tries to find an effective
+                                  path and they hey presto! a lot of invul
+                                  spheres maked the job much easier. at the
+                                  end, an archville gave me a boost through
+                                  the exit linedef :)))
+ 
+       Author: Michal Svoboda
+

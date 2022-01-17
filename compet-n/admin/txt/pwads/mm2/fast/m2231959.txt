@@ -1,0 +1,50 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2231959.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP23 - No Way Out (Eric Sargent)  |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    101%                            |
+            |      Items     67%           *********        |
+            |      Secrets  100%  and Time * 19:59 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| For me this map has two memorable moments. The first one is that long  |
+| high ledge occupied by demons (seemingly harmless). The second one is  |
+| the moment when 10 floating monsters are released, forcing the player  |
+| to move forward, straight into chaingunners' fire.                     |
+|                                                                        |
+| I watched this demo and I have to say the first part is OK, but when I |
+| reached that PEs+cacos trap in the later part, I began to play like a  |
+| moron. I'd also like to explain why this demo features a seemingly     |
+| experimental use of the only invulnerability sphere. At first I tried  |
+| the "normal" usage, the one present in UV Max demos, where the invuln  |
+| belongs to the blue key area and the megasphere to the BFG area.       |
+| However, two times I was so badly beaten in the BFG area without being |
+| invulnerable that I had to change the plan (I mean, after picking up   |
+| the megasphere and clearing the BFG area I was left with 20%/20%       |
+| health/armor, which was obviously insufficient to complete the map).   |
+|                                                                        |
+| The overall time is pretty good (for me), so I'm leaving this 1st exit |
+| demo without further improvements.                                     |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV02-110.TXT
+
+ LV02-110.ZIP
+
+  LV02-110.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 2 - "Underhalls"
+
+  Kills    100%
+  (Items   40%)
+  Secrets  100%  and Time  01:10
+                           -----
+
+
+Description:  Radek wrote in his nice 1:12 :
+	      > Ok, i'm done with this one FOREVER, hehe......., at least i 
+              > hope. If anybody wants to beat it, i can just say GOOD LUCK,
+              > cuz he will need it much more than his skills.
+		
+	      Done with it forever? =) Nah, plenty of room for improvement 
+	      here. This one won't be optimized. Its not so much luck to get
+	      a time between 1:10 - 1:15 imo, just a so-so go where the	
+              monsters act as they do 50% of the time and someone who know
+	      how to use the ssg. A 1:05 would need luck tho, with barrels 
+	      and infights. A oneshot kill in the exit room is not too
+              hard to get here, and would save time. I might do another
+	      one if you bother to improve this one...we'll see. Took about
+	      one and a half hour to do, havn't really played doom since
+              the summer lan, got a bit of a overkill after two weeks of 
+              constant DM'ing and coop =) I hope to make an AV christmas 
+	      releas, almost nothing left to do before its done.
+	      
+              oh, btw Radek, thanks for the postcard, that was a cool 
+	      surprise hehe...:) Keep up that maxkilling btw, I always enjoy
+	      watching your latest demos over tnt and udoom, your style 
+	      is much more enjoyable to watch than mine for instance, I 
+	      never seem to get any smoother :) 
+
+Author:      Anders Johnsen
+E-mail:      andersjohnsen@hotmail.com

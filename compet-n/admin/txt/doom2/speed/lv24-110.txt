@@ -1,0 +1,55 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV24-110.TXT
+
+ LV24-110.ZIP
+
+  LV24-110.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 24 - The Chasm
+
+  Kills      5%
+  (Items     0)
+  Secrets    0%  and Time  01:10
+                           -----
+
+
+Description: Less than half PAR. Anyone else also?
+             Improved the record since the last update by 37 seconds now.
+             DL's old record was a 1:56 and he improved this with a 1:47.
+             Then I sent him a 1:30, and he replied it with a 1:17. Now,
+             here is my new time.
+             Had some luck with the lost souls, they need to look at the
+             wall instead of attacking you. This effect was better shown
+             seen in the LV24-130.LMP.
+             I was not able to make it with less than 10 rockets. ;-)
+             But without radiation suit, of course. (Lost 20% health).
+             Killing the first 4 pigs with 3 rockets is not bad. The last
+             pig escaped, but I've got 10 rockets. So 4 rockets for the 3
+             3 left pigs, 2 for the 2 pigs on the other side, and perhaps
+             one for the exit teleport pig, but there always seems to be
+             a gap. And if you use an additional rocket, you have to take
+             care not to be too close! Oh, if the pigs wouldn't block my
+             way, I would let them live, but they do :-(
+
+             [ Snip - S.;-) ]
+
+             Admin?
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+
+[  Admin. Note :-)  Not this time - except to say that the -NoMonsters
+   .LMP doesn't really fit in here so I'll save it for another area if
+   I ever get around to making one.
+
+S.;-) aka. The "Judge". ]
+
+

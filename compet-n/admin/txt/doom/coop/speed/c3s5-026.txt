@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c3s5-026.txt
+
+ c3s5-026.zip
+
+  c3s5p026.lmp
+  c3s5s026.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e3m5 - The Unholy Cathedral
+
+          Kills    Items   Secrets
+
+  Green      0%       2%       0%      SlagDooM
+  Indigo     4%       0%       0%      Python
+
+  Time:    0:26.74
+
+
+Comment:      Nothing special, just deleting an AdamW demo. :)
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

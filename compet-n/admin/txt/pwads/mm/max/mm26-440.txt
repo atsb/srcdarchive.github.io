@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM26-440.TXT
+
+ MM26-440.ZIP
+
+  MM26-440.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 26 - Between Scattered Corpses
+
+  Kills    102%
+  (Items   100%)                   
+  Secrets  100%  and Time = 04:40  
+                                   
+                          
+
+  Description: Incredibly easy level, it wasn't hard to pull out
+               a good improvement over Yonatan's original demo.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

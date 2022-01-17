@@ -1,0 +1,27 @@
+PA08-030.TXT
+
+ PA08-030.ZIP
+
+  PA08-030.LMP - Ultra Violence and Pacifist
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:30
+                           -----
+
+  Description:  
+		Map08 done in 0:30  Pacifist style
+		
+		I wanted to break the 30 seconds barrier but the
+		imps and the demon at the end were against it. 
+		
+		I was trying for more than an hour and I finally 
+		decided to do the red key section slow but safe. 
+
+       Author:  Andy Badorek
+       E-mail:  badorek@t-online.de

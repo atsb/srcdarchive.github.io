@@ -1,0 +1,54 @@
+Nightmare! - Episode Three
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9 
+
+       *-------*
+Time : | 22:16 | 
+       *-------*
+
+--------------
+   Times     : 	
+--------------
+          
+                     Exit                  
+  Level     Time  Hlth/armor  Comments
+------------------------------------------------------------
+  LV 21  -  1:36   200/200    Goals : grab the backpack and manage to exit with 200/200
+  LV 22  -  1:52    96/54     Not so hard if you know the right way... else death :)
+  LV 23  -  1:58   167/149    Good health to exit...
+  LV 24  -  3:13   124/124    Not too many errors
+  LV 25  -  2:06    84/77     Can be a bitch if you enter with less than 100/100
+  LV 26  -  1:55    30/21     Nearly died there...
+  LV 27  -  1:19   200/0      Some vacations...
+  LV 28  -  1:24   200/200    Some vacations... :)
+  LV 29  -  5:21    37/2      see below... :) 
+  LV 30  -  1:42   179/180    Had some probs at the beginning but after that everything went fine 
+--------------------------------------------------------------               
+  TOTAL      22:16   
+
+
+Map29 : I still can't undertstand how icould finsih it with sooo many errors...
+        Everytihng went fine until the revenant room. (entered with around 195/160)
+        Activated the middle switch...ok ... fine...
+        Then i wanted to activate the swith kept by the mancubus...
+        When i wanted to jump... he shot... i fell into the gap... I had to teleport
+        back right at the beginning ! Then i made all the way to revenant room...
+        Did many mistakes, fell many times, was out of cells... but i made it to the exit!
+       
+        That's the first time that happen... and that happens in a "real" try (i tried it 
+        many times with Fillup.wad by Istvan... thx Istvan:)
+
+	Maybe i'll do a better one ... map29 can 2min faster
+
+
+
+
+------------
+Misc. Info :
+------------
+
+Author  :    Vincent "PerOxyd" Catalaa
+
+E-mail  :    peroxyd@wanadoo.fr
+

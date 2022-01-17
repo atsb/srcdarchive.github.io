@@ -1,0 +1,17 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf171424.TXT
+
+ rf171424.ZIP
+
+  rf171424.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 17 – UV Fast
+
+Another table-filler. The yellow key part is hard without losing a lot of health, so I had to use the NM route where I get the blue and red keys first and then the yellow key, because I have a soul sphere. After that can be pretty hard, because there's no armor after the megaarmor and there's a bunch of imps
+and gunners that can screw around.
+
+Author: Revved

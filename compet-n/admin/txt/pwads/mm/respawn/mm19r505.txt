@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm19r505.TXT
+
+ mm19r505.ZIP
+
+  mm19r505.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 19 – UV Respawn
+
+I kept holding off this one for so long because for most of my attempts, I would be able to get out alive but then some damn monster would kill me at the very exit so I would lose hope through that. This one attempt however, does not suffer from that and manages to get out safely.
+
+Author: Revved

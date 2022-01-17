@@ -1,0 +1,60 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+game:       DOOM II - Hell On Earth - version 1.9
+
+category:   Ultra Violence - Movie - 100% Kills & Secrets
+            
+levels:     All 32 levels
+
+Player:     Vincent Catalaa <peroxyd@wanadoo.fr>
+            
+stats:      
+                                            UV Max
+              Time   Kills Secrets ParTime  Record   Comments
+------------------------------------------------------------------------------------------
+  LV 01  -    0:56   100%   100%    0:30     0:43    Good time for me...
+  LV 02  -    1:47   100%   100%    1:30     1:17    
+  LV 03  -    2:08   100%   100%    2:00     1:34    Slow slow slow.... 
+  LV 04  -    1:09   100%   100%    2:00     1:07    Never stormed a level like that!
+  LV 05  -    3:28   100%   100%    1:30     2:33
+  LV 06  -    3:34   100%   100%    2:30     2:53
+  LV 07  -    1:49   100%   100%    2:00     0:48    A good place to get some ammo.
+  LV 08  -    4:03   100%   100%    2:00     3:17
+  LV 09  -    5:45   100%   100%    4:30     5:41
+  LV 10  -    7:32   100%   100%    1:30     5:22    Easy to miss a monster here, no realy route
+  LV 11  -    3:58   101%   100%    3:30     2:48
+  LV 12  -    5:43   100%   100%    2:30     4:18
+  LV 13  -    7:05   100%   100%    2:30     5:24    Same as map10
+  LV 14  -    3:32   101%     0%    2:30     2:08
+  LV 15  -    8:49   100%    90%    3:30     5:42    Long and many places to visit
+  LV 31  -    3:30   100%   100%    2:00     2:18
+  LV 32  -    1:12   100%   100%    0:30     0:37    Cell collector
+  LV 16  -    5:08   100%   100%    2:30     2:56
+  LV 17  -    6:37   100%   100%    7:00     4:47
+  LV 18  -    5:24   100%   100%    2:30     3:20    Same as map18
+  LV 19  -    6:45   100%   100%    3:30     5:25    I hate this level, same as map10
+  LV 20  -    7:42   101%   100%    2:30     3:21
+  LV 21  -    3:22   100%     0%    4:00     2:46
+  LV 22  -    2:16   100%   100%    2:30     1:25
+  LV 23  -    5:23   100%   100%    3:00     2:48    Slow...
+  LV 24  -    8:24   100%   100%    2:30     5:52
+  LV 25  -    3:21   100%   100%    2:30     1:50
+  LV 26  -    5:08   100%   100%    5:00     3:41
+  LV 27  -    6:25   100%    75%    5:30     4:21    A secret missed... :(
+  LV 28  -    5:42   100%   100%    7:00     3:16
+  LV 29  -    6:01   100%     0%    5:00     4:36
+  LV 30  -    1:27  1200%     0%    3:00     0:30
+-------------------------------------------------------------------------------
+
+TOTAL TIME  145:05 = 2 hours 25 minutes and 5 seconds
+
+	I'm between Anders (133 min) and Demonlord (166 min).
+
+Description :-)
+
+	:(( Same error as DL i missed a secret in map27 (75% instead of 87%).     
+	But this is not the 30s secret, I think it's the room with two spiders
+	and a box of shotgun shells...I haven't stepped enough in it...
+
+	Anyway I'm happy to have done it!
+

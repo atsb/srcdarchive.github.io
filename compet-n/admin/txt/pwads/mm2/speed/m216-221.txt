@@ -1,0 +1,37 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m216-221.lmp
+Skill and Style: 4 (UV-Speed)
+Map Level: MAP16
+Exe/Port used: Doom2 1.9
+
+  Kills     45%
+  (Items    23%)          *********
+  Secrets   50%  and Time * 02:21 *
+                          *********
+
+
+==============================================
+
+Although I consider Eugene much better / much more experienced player than myself,
+I didn't like too much his m216-239 demo. What caught my attention at first were
+2 barons of hell (about 20 seconds spent on killing them). I think however that the
+biggest flaw of the Eugene's demo was the way he dealt with the teleporter room -
+another 20 seconds just to clear that area... which wasn't necessary.
+
+My demo is less crazy and slower than Eugene's but some minor route and tactic improvements
+allowed me to beat his time by a considerable margin.
+- grab the red key and skip the barons
+- skip plasma rifle
+- after getting the BK don't enter dark rooms with hitscanners, just return to the RK door
+- *CRUCIAL* - DON'T KILL ANYONE IN THE TELEPORTER ROOM, JUST GO TO THE TELEPORTER WHILE THE
+  STAIRCASE IS BEING RAISED
+
+OTOH, i "wasted" time on:
+- stimpacks
+- blue armor,
+which actually saved my life at the end.
+Enjoy the run!
+
+
+vdgg

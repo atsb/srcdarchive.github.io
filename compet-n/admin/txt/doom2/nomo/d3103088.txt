@@ -1,0 +1,22 @@
+author:         Marijo "Sedlo" Sedlic
+
+game:           Doom2
+category:       nomonsters
+mission:        map31 & map31s
+
+times:          map31 : 0:30.88
+                map31s: 0:33.82
+
+comments:      map31: I found out that you don't need second wall run.
+               Actually this way is even faster...pitty I didn't saw that
+               while I was doin' map31s...
+               I stucked a bit at exit door but anyway 30...cool...:)).
+               So this should be eazy to beat...go for it.
+
+               map31s: Msg. for Adam: "I rock more" :)))))))).
+
+               Note: Both demos are strafe40 only...that also counts for all
+               demos I uploaded yesterday. Strafe50 is stupid in this
+               nomo compet-n...hope you won't use it.
+
+                

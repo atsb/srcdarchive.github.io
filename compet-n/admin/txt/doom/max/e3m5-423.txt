@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+E3M5-423.TXT
+
+ E3M5-423.ZIP
+
+  E3M5-423.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 5 - Unholy Cathedral
+
+  Kills    100%
+  (Items    62%)
+  Secrets  100%  and Time  04:23
+                           -----
+
+  Description:  Searching for new routes is fun ...
+                Quite a big improvement I'd say.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

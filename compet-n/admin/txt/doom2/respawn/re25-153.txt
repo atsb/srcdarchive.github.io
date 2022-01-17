@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RE25-153.TXT
+
+RE25-153.ZIP
+
+  RE25-153.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - BloodFalls
+
+  Kills    100%
+  (Items    50)
+  Secrets  100%  and Time  01:53
+                           -----
+
+Description:	I know that this map can be done at least 3 seconds faster,
+		because Anders' max is 1:50.
+
+		Fun and easy map............ :)
+
+
+Author:   Jan Endre Jansen
+E-mail:   jejansen@uldals.vgs.no
+Doompage: http://home.sol.no/~doom/

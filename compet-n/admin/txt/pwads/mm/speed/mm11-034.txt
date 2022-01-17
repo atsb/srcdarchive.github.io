@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+MM11-034.TXT
+
+ MM11-034.ZIP
+
+  MM11-034.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 11 - Halls Of Insanity
+
+  Kills     11%
+  Items      0%
+  Secrets    0%  and Time  0:34
+                          ******
+
+  Description :-)
+
+  Table filling...
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

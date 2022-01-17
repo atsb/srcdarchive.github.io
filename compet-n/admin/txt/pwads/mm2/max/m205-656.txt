@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m205-656.TXT
+
+m205-656.ZIP
+
+m205-656.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 05 - Rites Of Passage by Paul Noble
+
+Kills     100%
+Items      33%
+Secrets   100%  and Time - 6:56
+
+Description:
+
+It's my first exit under Anders time. Credit goes to him for the route. I should not send a first exit's lmp, but I will have no time next days to improve my run.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+06.09.2004

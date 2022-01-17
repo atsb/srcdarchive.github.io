@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m2211248.TXT
+
+m2211248.ZIP
+
+m2211248.LMP - Ultra-Violence max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 21 - Sanctuary by Andy Badorek
+      
+Kills      100%
+Items       87%
+Secrets    100%	and Time - 12:48
+
+
+Description:
+
+I think that a time of maxrun for this map should be under m222 max time.
+
+Around 12 mins would be a great demo here.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+01.06.2010

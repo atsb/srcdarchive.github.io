@@ -1,0 +1,52 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2222608.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP22 - R.R.F.Refinary             |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    101%                            |
+            |      Items     50%           *********        |
+            |      Secrets  100%  and Time * 26:08 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| In my TXT describing MM MAP28 first exit I mentioned this map played   |
+| with -fast monsters. "Shitty weapons at the start" was a mistake,      |
+| there's a plasma rifle of course. I thought this map would be hard. It |
+| is, but only moderately - I don't fell like a hero after completing    |
+| this one.                                                              |
+|                                                                        |
+| The start is very difficult,of course; with chaingunners, PE, you need |
+| some luck. After that it's a matter of taking good care of Doomguy's   |
+| health. Almost 1 minute was lost (about 7:20 - 8:10) because I made    |
+| a long trip to get just one medikit! Luck was on my side in the BK     |
+| area (loooow health) and near the YK I think, as the barons could have |
+| been standing closer to each other and not let me in.                  |
+|                                                                        |
+| In case you're not familiar with this map at all. FAQ :)               |
+| Q. What happened to the cyberdemon?                                    |
+| A. It crossed an invisible line and teleported him/it self below four  |
+|    crushers, which I activated by flipping a switch near the biggest   |
+|    nukage pool.                                                        |
+|                                                                        |
+|(This was my question when I watched Henning's Max demo a few years ago)|
+|                                                                        |
++========================================================================+

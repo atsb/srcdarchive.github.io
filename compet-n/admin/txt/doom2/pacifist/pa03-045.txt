@@ -1,0 +1,18 @@
+PA03-045.TXT
+
+ PA03-045.ZIP
+
+  PA03-045.LMP - Ultra Violence and Pacifist
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 03
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:45
+                           -----
+
+  Description:  [ None received. ]
+           
+       Author:  Thomas Pilger

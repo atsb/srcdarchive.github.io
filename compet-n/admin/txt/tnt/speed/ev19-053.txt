@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+ev19-053.TXT
+
+ ev19-053.ZIP
+
+  ev19-053.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution
+
+  Kills     ??%
+  (Items    ??%)
+  Secrets    0%  and Time  00:53
+                           -----
+
+  Description :-)
+
+  I must admit that this one took a bit more time
+  than my usual TNT stuff...
+  Only trick here : i prevent the door (to red key)
+  from closing with staying under it, so that leaves 
+  some time for the cacos to go out and for me to take 
+  the key.
+
+
+  Vincent Catalaa
+  vincentDS@netcourrier.com

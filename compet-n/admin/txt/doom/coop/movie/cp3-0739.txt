@@ -1,0 +1,33 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang)
+
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+	    nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 	
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie - All levels including Secret Level
+            
+level:      Episode 3 - Inferno
+            
+stats:      
+
+   Level       Time   
+                        
+----------------------
+   E3M1        1:01     
+   E3M2        0:36
+   E3M3        0:44 
+   E3M4        1:17 
+   E3M5        0:38
+   E3M6        0:14
+   E3M9        1:32     
+   E3M7        1:27     
+----------------------
+   E3M8        0:10  
+----------------------
+   Total       7:39     
+
+
+	A lot slower than my recording in solo.
+	It have been done in 2 tries : one to show the route to nicolas, one to record the run.
+	That's why it can be easily improved.

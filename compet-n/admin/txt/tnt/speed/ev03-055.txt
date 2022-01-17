@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+  EV03-055.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 03
+
+  Kills     ??%
+  Items     ??%
+  Secrets    0%  and Time  00:55
+                           -----
+Description:
+
+Bolton > This map could be done in 55s or lower
+
+         yes it is :-) ... i forgot to hit Q
+         when the pig didn't want to teleport
+         (at the beginning), i lost 2-3 secs here.
+ 
+	 Else the run went quite well... the red key 
+         room could be better (the one with an archie 
+         in the middle)
+
+Author:      Vincent Catalaa
+E-mail:      vincentDS@netcourrier.com

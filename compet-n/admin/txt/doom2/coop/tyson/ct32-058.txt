@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom2/coop/tyson" entry, please forward it.
+
+CT32-058.TXT
+
+ CM32-058.ZIP
+
+  CM32R058.LMP
+  CM32M058.LMP
+
+  Recorded using DooM ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 32 - Grosse - UV Tyson
+  
+
+  Green   -   Method
+  Indigo  -   Radek
+
+
+  Time:    0:58
+          ******
+
+  Comments:
+
+  This was fun, we needed just a few tries to get it under 1min. 
+  Method's job was to keep Cybie busy and I was the puncher, pretty
+  simple.
+ 
+
+    
+Green:    Jakub "Method_Man" Razak    (dale007@volny.cz)
+Indigo:   Radek Pecka                 (r.master@email.cz)       
+  

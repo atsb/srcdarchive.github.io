@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+F3M7-326.TXT
+
+ F3M7-326.ZIP
+
+  F3M7-326.LMP - Ultra Violence -FAST
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    100%
+  (Items    37)
+  Secrets  100%    and Time  03:26
+                             -----
+
+Description:	I made this LMP because I wanted this level on all skills 
+		(except speed). This isn't a good LMP, mainly cause I'm the 
+                first to play it on -FAST. I hate making my one routes. 
+                I belive that some day, someone will create a better route. 
+
+     
+Author:    Jan Endre Jansen
+E-mail:    jejansen@uldals.vgs.no
+Doompage:  http://home.sol.no/~doom/

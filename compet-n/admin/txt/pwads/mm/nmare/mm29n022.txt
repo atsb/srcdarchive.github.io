@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM29n022.TXT
+
+MM29n022.ZIP
+
+MM29n022.LMP - Nightmare Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 29 - Island of Death
+
+Kills        ?%
+Items        ?%
+Secrets      ?%
+
+              ********
+  and Time -  * 0:22 *
+              ********
+
+
+Description:
+
+Just a quick improvement, :18 or :19 would probably be optimal. 
+Thanks to Sedlo and Altima for showing the route.
+
+Author:      Erik Alm
+E-mail:      erik_a80@hotmail.com
+
+ 

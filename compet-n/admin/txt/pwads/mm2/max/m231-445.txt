@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M231-445.TXT
+
+ M231-445.ZIP
+
+  M231-445.LMP - Ultra Violence Max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 31 - Deja Vu
+
+  Kills     99% (99% = max possible)
+  (Items    xx%) 
+  Secrets   100% 
+      
+      ..... and Time    4:45
+                        ----
+                          
+
+Description: Kind of had one of those revelatory coversations today with Anders
+	     Johnsen in IRC. I had set a goal of getting a cyber nomination for
+	     next years award. We talked about the feasibility of me getting 
+	     a max cat nod and the more I realized it was not very feasible. 
+	     After I completed m231-500 I singled out this map for a rigorous 
+	     optimization. I could go to extensive lengths to shave mere seconds
+	     off 1 map. As the discussion went on I realized that even if I could
+	     make it "fast" enough would it be smooth enough? And if I could do
+	     fast and smooth would the map be considered hard enough. Until 
+	     someone like Johnsen, Henna, Vile, etc. puts their time stamp on this
+	     map it won't get respect because I am basically competing against 
+	     myself (no benchmark). That is ok to a certain point. I have no 
+	     problem playing a map for fun. When there will be no distinction between
+	     me exiting with a 5:00, 4:45, 4:43, 4:31, or whatever then I think it
+	     is rather pointless, don't you? 
+
+	     So, it'd be nice to create a demo which everyone enjoys. Maybe by accident
+	     I'll create that demo by just having fun and steadily increasing my skill.
+	     I'm not going to play every day for hours though. Thats just not me and it 
+	     will never be. 
+
+
+Author:      Anthony Soto
+E-mail:	     neworderdatabase@hotmail.com
+WWW:	     http://thefish.8m.com/

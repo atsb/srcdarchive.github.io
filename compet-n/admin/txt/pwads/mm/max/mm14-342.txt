@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+MM14-342.TXT
+MM14-342.ZIP
+
+MM14-342.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm.wad -playdemo with Version 1.9
+
+Memento Mori - Level 14 - Aquaduct
+
+=--------------=
+Kills      100%
+Items       75%
+Secrets    100%
+
+Time       3:42
+=--------------=
+
+C-N entry #61.
+
+Thanks to Ryback for demonstrating the TAS route on this map.  It certainly did
+bring the time down a bit.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M2-205.TXT
+
+ E1M2-205.ZIP
+
+  E1M2-205.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 1 Mission 2 - Nuclear Plant
+
+  Kills    100%
+  (Items    42)         
+  Secrets  100%  and Time  02:05
+                           -----
+
+Description: Noticed I was coming close to this record when doing my 100/100
+episode runs, so I decided to have a go at it on its own. Used my own route
+through the maze, it's faster than the one Anders used as you can just go
+all the way around and all the remaining monsters collect handily in one
+place for you. I've done a 2:04 leaving one monster behind, and this demo
+could definitely still be improved. Imps at the end behaved nicely :).
+This beats Anders Johnsen's old 2:06 demo.
+
+Author:    Adam Williamson
+E-mail:    adam@scisoft.force9.co.uk       
+Doompage:  Nope :)

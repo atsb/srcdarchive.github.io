@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+LV12-359.TXT
+
+ LV12-359.ZIP
+
+  LV12-359.LMP - UV max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - The Factory
+
+  Kills    100%
+  (Items    80%)
+  Secrets  100%  
+
+            ... and Time   3:59
+                          -----
+
+  Description:
+
+  A good map for max.
+
+  Xit Vono
+  xit_vono@yahoo.com

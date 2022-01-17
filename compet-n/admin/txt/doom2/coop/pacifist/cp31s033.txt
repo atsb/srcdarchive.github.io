@@ -1,0 +1,13 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop pacifist
+mission:  map31
+
+time:     0:33
+
+comments: this is a couple months old but I realised it was paci as well ...
+          

@@ -1,0 +1,21 @@
+This is a   Compet-N doom2\Nm100s entry 
+
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+
+game:       DOOM2 version 1.9
+
+category:   Nightmare! with 100% secrets
+            
+level:      Map24 - the Chasm
+
+stats:      Time   2:38
+
+description: 
+
+            Hmm strange... it was really easy to beat Sedlo here ??? :)
+            Nearly 1:00	faster.... maybe he was ill ? :)
+
+            Still may mistakes... so under 2:30 (par) is really possible.
+
+
+       

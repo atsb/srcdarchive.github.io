@@ -1,0 +1,36 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE21-253.TXT
+
+ RE21-253.ZIP
+
+  RE21-253.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 21 - Nirvana
+
+  Kills    100% !
+  (Items    88%)
+  Secrets    0%  and Time  02:53
+                           -----
+
+  Description :
+  Just an initial efford - ok? This is my first successful try
+  therefore it's quite amazing that I've scored exactly 100%.
+  My estimation is that someday someone will play it well below 2 minutes.
+  Btw:
+  I like the -RESPAWN 100%/100% section, (have said this before:)
+  in most maps it's a bit harder than plain UV, with more action
+  and normaly it takes less time.
+ 
+  > "What's about the 100% secrets?"
+  Sorry, there are none.
+
+
+  Author: Rini (Steffen Udluft)
+
+  E-mail: rini@mppmu.mpg.de
+

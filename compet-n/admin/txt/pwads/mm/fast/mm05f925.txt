@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM05F925.TXT
+
+ MM05F925.ZIP
+
+  MM05F925.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 05 - Hell's Kitchen
+    
+  Kills    100%
+  (Items    97%)          
+  Secrets  100%  and Time = 09:25 
+                                                  
+
+  Description: Another nice one. It's best to lure the hellknights out of
+               their lair, even if it goes wrong here...
+  
+  
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com

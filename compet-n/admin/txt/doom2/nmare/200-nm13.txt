@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+200-NM13.TXT
+
+ 200-NM13.ZIP
+
+  200-NM13.LMP - NightMare
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - "Downtown"
+
+  Kills     38%
+  (Items    22)
+  Secrets   12%  and Time  03:09
+
+  Maximum Minimum Health =  200 %
+                           -----
+
+  Description:
+
+  A "real life" level - not as trivial as, like, MAP08, yet
+  completed with 200% health and untouched. Fine timed
+  usage of I.V. spheres makes it possible. Still you never
+  know how the things will go in the yellow key room.
+
+  I claim 200% because S.;-) has authorized that the
+  minimum health counts not from the beginning but
+  *from the moment you first get hurt*.
+
+ Anton V. Magleli
+
+ Magleli@asterix.eecs.wsu.edu
+
+
+[  Admin. Note :-)  Yep, " Maximum Minimum Health =  200 % "
+
+   Although the methods of "scoring" M.M.H may well change
+   from level to level ( depending on each of the maps ;-)
+
+   200% & NO Damage is a WIN - on any method - Well Done !
+
+S.;-) aka. The "Judge". ]
+
+

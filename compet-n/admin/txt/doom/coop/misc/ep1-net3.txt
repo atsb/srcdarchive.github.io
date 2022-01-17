@@ -1,0 +1,164 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+It's intended location is in:  ".../lmps/COMPET-N/DooM/Net-X"
+
+EP1-NET3.TXT
+
+ EP1-NET3.ZIP
+
+  EP1-NET3.LMP - Whole Episode on Ultra Violence
+
+  Introduction :-)
+
+  This is a Three-Player .NET'worked .LMP -Record'ing of the whole of
+  DooM Episode One. It was -Record'ed many moons ago, way back in the
+  days of Version 1.666, just before my team of "trained marines" got
+  disbanded. Sniff :-( Anyway, this still works with DooM Version 1.9
+  and also The Ultimate DooM - IF you use the included PWAD file :-)
+
+  Originally...
+
+  Recorded using DooM Version 1.666
+  And Converted to DooM Version 1.9
+
+  So
+  DooM -PlayDemo with DooM Ver. 1.9
+  By
+  GO-VER19.BAT
+  OR
+  DooM -PlayDemo with Ultimate DooM
+  IF
+  You also add "-File E1M1-REG.WAD"
+  By
+  GO-UDOOM.BAT
+
+  ie. Using the included PWAD file:
+
+  E1M1-REG.WAD
+
+
+  DooM - Episode 1 - Knee Deep in the Dead
+
+              Green :-)     Indigo :-)    Brown :-)
+
+              K - I - S     K - I - S     K - I - S   &  TIME!! - Approx!
+
+  E1 M1  -    20  18   0    17  47. 33    55. 18  66.     1" 50
+  E1 M2  -    37  52. 83.   48. 23   0    13   2  16      4" 30
+  E1 M3  -    35. 45. 57.   29  14  14    30  32  28      6" 30
+  E1 M4  -    37. 28.  0    29   2   0    21  28. 66.     4" 45
+  E1 M5  -    34. 55. 66.   19  17  22    37. 13  11      6" 00
+  E1 M6  -    33. 30. 75.   23  14  25    32. 29.  0      6" 30
+  E1 M7  -    22  22 100.   16  13   0    46. 54.  0      6" 45
+  E1 M8  -    ??  ??  ??    ??  ??  ??    ??  ??  ??      2" 30
+
+
+  There were NO deaths due to monster attacks but there was ONE team-
+  FRAG-ging - of Brown by Indigo on E1 M2 :-( so he did patiently lay
+  dead until "revived" on the next level. It was kind of like calling
+  in the, "reserve", fourth marine ;-) Reasons L8R...
+
+
+                                          Total Time =   35" 260
+                                                         35" +
+                                                          4" 20
+                                                         ------
+                                          TOTAL TIME =   39" 20   Approx!
+                                                        --------
+
+  These times were ESTIMATED by taking an F1 .PCX dump at the end of each
+  mission and comparing the time-stamps (right down to the seconds field)
+  and assuming that the wait between missions was about 20 seconds - BUT,
+  since the TOTAL playing time is just 38" 01 - "these times" were rather
+  OVER estimated...
+
+    [ 39:20 + 2:20 (waits) + 0:45 (at end) lots greater than  38" 01 ]
+
+  So, IGNORE the TIMES - This is just a DEMO.-nstation .LMP after all ;-)
+
+
+  Description :-)
+
+  ... Slow - But Good ...
+
+  The original intention in -Record'ing this .LMP was to have a good
+  run through of an entire DooM Episode with NO marine deaths at all
+  ie. Total Victory over all of those Demons :-) Anyway... We didn't
+  Quite make it... But it was SOOooo close!
+
+
+  This .LMP is Best re-Play-Demo'ed over a .NET'work - put a copy on
+  Each of three -Nodes already set up to play .Net DooM and run...
+
+  > IPXSETUP -Nodes 3 -DevParm -PlayDemo EP1-NET3
+
+  ... on each -Node. This way you get to see the interaction between
+  each of the players, and in "real" time :-)
+
+
+  OTHERWISE - Be sure to view this .LMP from *Each* one of the three
+  player's Point Of View. It is worth doing this as that is the only
+  way of viewing each players status bar and also *Hearing* the game
+  play from that player's position. (Using F12 is just plain silly).
+
+  Use some thing like Raymond Chi's most excellent "LMPUTIL -Viewer"
+  to switch between these different POV's. Hmm... Maybe I'll include
+  that particular utility in this package too.
+
+
+  This .LMP contains some pretty good and some pretty silly moments:
+
+  I could write a fairly full description of each marine's adventure
+  but I've probably written enough already - Just watch, OKay ;-)
+
+
+  The main "Mission Orders" were "Don't shoot each other - Share out
+  the power-ups - Stick to your routes - AND - Be careful with those
+  Damn Rockets !!!" - OKay!
+
+
+  Now then, it's time for a...
+
+  Challenge :-)
+
+  Can YOU put together a Crack Team of marines and record a Storming
+  of either Episodes Two or Three ?? That is, a complete -Record'ing
+  of the whole of an Episode, beginning to end, on -Skill 4, with as
+  few deaths as possible. If/when a player gets killed - then he (or
+  she ;-) Stays DEAD !! - Until "revived" on the next level. This is
+  kind of like being replaced by a "reserve" (living) marine...
+
+
+  The One Hard "Competition" Rule! - 1 of 1 :-
+  If the Time Taken Can NOT be Clearly Seen - It'll be DISqualified !!!
+  So,
+  Please wait 10 to 20 Seconds at each and every tally (or text) screen
+
+  Except for "Rule" 2 of "1" ;-) Please, - Absolutely NO "PAUSE-ing" !!
+  Modified to...
+  No excessive Pausing, any more than 1*3 or 3*1 min Pauses - Auto-DISq
+
+  AND now add...
+  "Rule" 3 of "1" ;-) ABSOLUTELY NO RESPAWNING! Auto-DISqualification !
+
+
+  The Next Challenge :-)
+
+  The next challenge, will be IPXSETUP (Multi-Player) -Record'ings of
+  DooM II... IPXSETUP -Nodes X [ -Skill 4 ] -Record'ings of DooM II -
+  Levels 01-10 (That should be easy enough) OR ANY single level above
+  10 (As that is where it begins to get really "tricky!" ;-) With the
+  same three "Rules" as above...
+
+  I'll start this of with a (lame? ;-) -Record'ing of Levels 01 - 10.
+
+  See the .DOC included in my "NET1UV01.ZIP" for this next challenge!
+
+
+ If you liked this .LMP - You could email me, and say so...
+
+ S.;-) Widlake
+
+ s.widlake@rl.ac.uk
+
+

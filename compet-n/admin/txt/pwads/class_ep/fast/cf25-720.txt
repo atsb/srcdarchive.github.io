@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CF25-720.TXT
+
+ CF25-720.ZIP
+      
+  CF25-720.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M5 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 07:20 
+                             
+                          
+
+  Description: Not so hard at all, really. But I still manage to fuck
+               up the ending as I usually do on this level.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

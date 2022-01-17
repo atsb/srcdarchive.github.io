@@ -1,0 +1,45 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+            _________________________________________________
+           /                                                 \
+           | PWAD: mm2.wad                                   |
+           | Author: Various                                 |
+           | Demo filename: m206-904.lmp                     |
+           | Category: UV Max                                |
+           | Map Level: MAP06 - Trapped (by Adam Williamson) |
+           | Exe/Port used: Doom2 1.9                        |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     44%           ********         |
+            |      Secrets  100%  and Time * 9:04 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I mostly agree with Peo Sjoblom and Andy Olivera (Visions of Doom      |
+| site). It is not the most exciting MM2 level, but please watch that    |
+| incredible NM run by Xit Vono if you haven't already. This Max is OK,  |
+| but nothing spectacular, just some training before another episode     |
+| UV Max Run attempt...                                                  |
+|                                                                        |
+| PS - A question to mappers: sector 13, the first door in the map       |
+| puzzles me. It is "open, wait close (also monsters)" type. With        |
+| -nomonsters mode, it behaves the way it should. With monsters present, |
+| it stays open all the time... until you activate the yellow key trap.  |
+| I sense the monsters trapped inside sector 152 somehow prevent the     |
+| door from closing, and when released, the door closes. Is it correct?  |
+| Aren't those monsters too far away from the door???                    |
+|                                                                        |
++========================================================================+

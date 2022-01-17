@@ -1,0 +1,41 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m206r719.lmp & m206r719.txt
+Date     : 2013-03-13 21:53
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map06: Trapped, by Adam Williamson
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 111%
+Items    :  44%
+Secrets  : 100%
+Time     : 00:07:19.74
+===================================
+Description:
+
+So, this is the first undone MM2 -respawn, when browsing from MAP01.
+I expected a big challenge, as there is no NM100 demo by Xit either.
+One obstacle are 2 secrets containing 4 shells each - pretty useless,
+and I have a tendency to spoil the jumps. The biggest issue is,
+however, the red key door - a chokepoint, just like in UV Speed,
+but more severe.
+
+It is a tough run, but not as much as I expected.
+
+At first it looked like a "slow, cautious UV Speed with some extra
+secrets on the way" approach would do. But when I finally got to the
+exit alive, the kills ratio was only 89%, so I had to "organize"
+myself more kills.
+
+This is the fifth time I reach the exit alive; too many kills
+indicate Archy could get 6:30 with his 100% kills accuracy.
+
+===================================

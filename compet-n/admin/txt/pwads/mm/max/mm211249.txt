@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+MM211249.TXT
+
+ MM211249.ZIP
+
+  MM211249.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 21 - Twilight Lab
+
+  Kills    100%
+  Items     xx%           ********
+  Secrets  100%  and Time *12:49 *
+                          ********
+
+  Description : 
+
+I'm really dissappointed with this time. Surveying this map and planning a
+new route I thought I could push the time below 10 minutes. Instead I found
+myself struggling to just beat Peo's old time. Perhaps my slightly altered
+route is slower but I can't imagine since I cut out redundant passes through 
+areas of the map. Maybe Peo has better cell usage, I don't know. 
+
+It also just irks me how, guaranteed (try yourself), if you let the first 
+sergeant hit you your health will go exactly to 91%. The route was 
+suprisingly easy to learn but my fustration with pulling a good improvement
+has forced me to move on to something else for now.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

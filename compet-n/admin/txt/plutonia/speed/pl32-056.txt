@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL32-056.TXT
+
+ PL32-056.ZIP
+
+  PL32-056.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 32
+
+  Kills     39%
+  (Items    66)            
+  Secrets  100%  and Time   00:56 
+                            ------
+
+Description: Umz, ok...I'm only uploading this cus those slow over 1 minute 
+	     entries here are just too bad. This was my first 15 minutes sesion
+	     survival lmp, and it looks like something a dog left behind on a 
+	     pavement. So maybe I should have saved myselfe the upload.		
+
+	     0:47/48(?) should be humanly possible with the same route, tho 
+	     speedrunning this map dosn't tempt me at all, its basically 
+	     unoptimizable and luckrelated and leave nothing to little
+	     of demo replay value (which basically is the only thing I'm 
+	     looking for these days...)
+                          
+             
+             [To playback this lmp, you'll have to run plutonia.wad 
+             together with Doom2.exe]
+
+Author:    Anders Johnsen
+E-Mail:    nfp7065@privat.cybercity.no
+Doompage:  http://www.geocities.com/Broadway/Booth/3568

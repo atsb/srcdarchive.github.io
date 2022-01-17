@@ -1,0 +1,12 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Marko van der Want (markowant@freemail.nl)
+Indigo:    Arno Slagboom (slagboom@cybercomm.nl)
+
+game:     ultimate doom
+category: coop speed
+mission:  e4m1
+
+time:     1:02
+
+comments: Quite easy in coop, if you're both careful!

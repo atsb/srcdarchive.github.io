@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+NM11-057.TXT
+
+ NM11-057.ZIP
+
+  NM11-057.LMP - Nightmare!
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 11 - O of Destruction / Circle of Death
+
+  Kills     ??%
+  Items      ?%           
+  Secrets    ?%  and Time  0:54 
+                          ------
+
+Description:	Well, I think Kai was right saying "You really need 
+armor/supercharge when you jump down." Nevertheless I didn't loss 
+health in cacodemons room.
+
+Ilya Britvich
+
+britvich_i@mx.ihep.su

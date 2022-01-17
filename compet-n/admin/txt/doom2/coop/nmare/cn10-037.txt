@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop nightmare
+mission:  map01
+
+time:     0:37
+
+Vincent: cool improvement over a CZ 1:30 :)
+
+xit-vono: Yeah not too bad.  Still improvable though.
+
+
+          

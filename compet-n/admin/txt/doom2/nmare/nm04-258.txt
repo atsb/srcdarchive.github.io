@@ -1,0 +1,52 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+NM04-258.TXT
+
+ NM04-258.ZIP
+
+  NM04-258.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 04 - The Focus
+
+  Kills    138%
+  (Items    50)
+  Secrets   33%  and Time  02:58
+                           -----
+
+
+Description: I think this is one of my best lmps. Have I proved now, that
+             I am a DooM-Hero ? [ Simon ? ] Or am I just the first who has
+             reached the exit? I tried for 4 days to complete this level !
+
+             I think 150 tries overall. Not bad, isn't it ? I know people,
+             who have tried for a long time and still have not yet made it
+             ( Anthe ? Is this a challenge ? Or do you try first to record
+             all the other levels in NightMare ? Or to make your D2S. Now,
+             where Steffen is out. <Sniff> )
+
+             For the dht-exams: I rate this level Ultra. Nobody who is not
+             insane should even consider to try it as an Out-of-Base level.
+             I want to see if some of these "Super-Doom-Heros" with tons of
+             titles (The only real ones are D?Schwarzenegger) can record a
+             little .lmp like this one. So, I think the COMPET-N site has
+             got the better .LMP's, even if Simon sometimes betrays it for
+             some D2I. Hey, Simon, try to make a record in your site ! ;-)
+             Don't know which one: Level 30 "maxkills" should be available.
+             Even Level 04 should be improvable. Watch the 1:33 and you'll
+             know that I lost around five seconds. And I would suggest you
+             update the current.tab even if the lmps are still not on the
+             site - Just to get to know the times - Or mail it personally.
+             This, or you give me a NM04-??? ;-) !
+
+             [ BTW, how long did it take to upload the 535kB 30uvnet2 ? ]
+
+
+Author:      Kai-Uwe Humpert, who is now very proud!
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

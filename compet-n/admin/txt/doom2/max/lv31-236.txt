@@ -1,0 +1,55 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV31-236.TXT
+LV31-236.ZIP
+
+LV31-236.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 31 - "Wolfenstein"
+
+Kills    100%
+(Items     1)          
+Secrets  100%  
+
+   ...and Time      02:36
+                    ------
+
+
+Description: This was supposed to be my first compet-n entry 7 months ago :)
+             Well, I did 02:59 back then and was about to upload it when I
+             saw a new map 31 in 02:48 by Adam.....
+   
+             There are still mistakes to correct here, but you need luck 
+             though. Some route modifications here and there, thats all
+             for now :) 
+
+             Hmm Think you all forgot the Rocket Luncher (why??), even
+             Daniel didn't use it in his 03:03 record (neither did Panter) 
+             I played awhile myself without the rockets.
+             IMO you can profit on the rockets by using them in the end.
+             But you may get a lucky shot elsewere w/o having to 
+             change to Chaingun...had many demos ranging 02:40 - 02:50. So I
+             was quit amazed when I saw 02:36 even though the Demo had lots
+             of mistakes. Probably 02:30 or even 02:29 is possible ???
+	     Well since (Super) Girlich got 0:29 in E1m1 then there are no 
+	     real limits :))
+
+             I just got to think of the plasma-gun, maybe it can help   
+             bringing this one below 02:30. haven't tried it yet....will
+             do so right away :-)
+ 
+PS!  This was my last compet-n doom2 max, I had a fun time recording them
+     all. My own favourite demos are probably lv04-107, lv15-542 and lv23-248.
+     All in all most of my demos can easily be beaten by all of you DOOM'ers
+     who have been playing some time :-) 
+     
+BTW  This map31 is also highly recommended in Tyson uv-mode.. I did a demo 
+     in Tyson myself in 04:50, not to boring to watch I hope :)
+           
+	     
+Author:      Henning Skogst›
+E-mail:      hskogsto@c2i.net
+Doompage:    (Soon :-)

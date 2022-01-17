@@ -1,0 +1,43 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+m2131102.txt
+
+m2131102.zip
+
+m2131102.lmp - Ultra-Violence with fast monsters
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file mm2.wad
+
+Memento Mori 2 - MAP 13 - Devils Paradise 
+
+
+================
+Kills      100%
+Items       75%
+Secrets    100%
+----------------
+Time      11:02
+================
+
+
+Description:
+
+This run was very tough. I was annoyed at the area after
+yellow key's door. When I reached there first time, I usually
+received terrible damage. Also, I was usually low health 
+when I reached there second time for getting a soul sphere,
+so I was often killed before getting it.
+In this demo, my health was only 13% when I returned to the
+start area. Because the lava causes the player 20% damage,
+I was afraid of death. Fortunately, I didn't take any damage.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+20 - Jun - 2010   57th Compet-N Entry

@@ -1,0 +1,45 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm.wad                                  |
+            | Filename: mm283759.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP28 - City Of The Unavenged      |
+            |                        (Jens Nielsen)         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    110%                            |
+            |      Items     81%           *********        |
+            |      Secrets  100%  and Time * 37:59 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Much easier than expected. Plenty of cover, ammo and even health.      |
+| If only it were easier to memorize :)                                  |
+|                                                                        |
+| I even tried to improve the time, but after dying at 20:00 and later   |
+| 30:00 I think the improvement must be postponed. A pity, because the   |
+| latter would last about 34 mins. and featured a recently popular       |
+| arch-vile-killed-in-3-SSG-shots. I'll return to this map one day :)    |
+|                                                                        |
+| I think MM2 MAP22 would be much more difficult (shitty weapons at the  |
+| start, no armor). I also tried MM2 MAP28 just for fun. It is 40 times  |
+| more difficult than this one :) If someone pulls that off, it would be |
+| fascinating to watch.                                                  |
+|                                                                        |
++========================================================================+

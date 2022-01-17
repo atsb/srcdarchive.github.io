@@ -1,0 +1,23 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m218-400.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAP18
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills     43%
+  Items     25%           ********
+  Secrets   66%  and Time * 4:00 *
+                          ********
+
+
+==============================================
+
+The idea was very simple - leave alone the SSG + soulsphere combo...
+It has been my most frustrating Doom experience ever. I include two
+failed runs which show why I'll never play this map "UV Speed" again
+and why I don't care whether the time is below 4:00 or not.
+
+m218fai1 would be 3:58, m218fai2 would be 3:51. After the second
+defeat I was roaring like a wounded lion.

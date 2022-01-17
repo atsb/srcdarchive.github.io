@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+cf28-854.TXT
+
+ cf28-854.ZIP
+
+  cf28-854.LMP 
+
+  Recorded using Doom Version 1.9
+  Doom -file class_ep.wad -playdemo with version 1.9
+
+  Classic Episode – E2M8 – UV Fast
+
+The first part requires a bit of luck because of no armor in the beginning. After that, you have a bit more control over what you are doing. The last part is a bit slow because I didn't want the cyber to get overwhelmed by the enemies and die early.
+
+Author: Revved

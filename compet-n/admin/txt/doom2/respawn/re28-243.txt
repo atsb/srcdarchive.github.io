@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE28-243.TXT
+RE28-243.ZIP
+
+RE28-243.LMP - Ultra Violence with -Respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 28 - The Spirit World
+
+Kills    101%
+(items    36)
+Secrets  100%  
+
+   ...and Time     02:43
+                   -----
+
+Description: Well Steffen your recording of this map wasn't that bad, still 
+             I think it could be done much faster........:)
+
+
+Author:   Henning Skogsto
+E-mail:   hskogsto@c2i.net 
+Doompage: http://home.sol.no/~doom/

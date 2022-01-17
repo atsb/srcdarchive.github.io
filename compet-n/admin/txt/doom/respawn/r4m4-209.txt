@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M4-209.TXT
+
+ R4M4-209.ZIP
+
+  R4M4-209.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  
+  DooM - Episode 4 Mission 4 - Unruly Evil
+
+  Kills    103%
+  (Items    82%)
+  Secrets  100%  and Time  02:09
+                           -----
+
+Description:    Hi Arno,
+
+                it's not that i'm so eager so take that half point from you or
+                something, just i recorded the respawn lmp for this map awhile
+                ago (Oct 31st to be exact :) and was just too lazy to upload it
+                :-)  Yep, quite hard to get 100% kills in short time, i ended 
+                most frequently with 75-85%, but i never count monsters, i just
+                go for the exit and hope :)
+
+                The time sucks compared to max so there's much room for
+                improvement
+
+Author:   Donatas Tamonis
+E-mail:   dtamonis@hotmail.com		

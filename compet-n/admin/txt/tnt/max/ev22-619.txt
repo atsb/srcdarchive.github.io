@@ -1,0 +1,59 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV22-619.TXT
+
+ EV22-619.ZIP
+
+  EV22-619.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 22 - Habitat
+
+  Kills    100%
+  Items     45%           *********
+  Secrets  100%  and Time *  6:19 *
+                          *********
+
+
+Description: A healthy 2:19 faster then my previous time! A good story behind it too...
+
+	     This time I employed new tactics:
+	     1) I skipped the first green armor down the long pathway
+	     2) I also realized that it would be much faster to attack the barons 
+		with the bfg. It would be essential to leave with two bfg shots
+		left - one for the archie at blue key door and one at the end.
+  	     3) SSG the invis demons not beserk them.
+
+	     Using these strategies I was able to obtain average times of around
+	     7:15 - 7:30. On one run I managed to get a 7:01 with 100/100%. The
+	     catch was - I got 100% kills only because the archie revived an enemy
+ 	     and as I exited I missed killing a demon with my super shotgun while
+	     running into the exit. Unsure if the demo was valid I asked both Adam
+	     Williamson and Heygi if it was - however, as I thought, it wasn't. I 
+	     was determined to get it under 7 minutes anyways. I added another
+	     tactic to my repoire: 
+
+	     4) I stopped the practice of heading down the hallways once to clear
+		them out and passing my way thru them a second time on my way back
+		to heading to the exit. Basically I streamlined it so I only went
+		down a path once.
+
+	     After about 5 runs I managed a 6:45 with 99% kills. The successful runs
+	     thereafter were very dissapointing - either I would get 99% kills or a
+	     time like 7:00. On this run I was amazed at how much lower the time was.
+	     It had come right after I ran exactly seven minutes flat. One of the 
+	     main differences is that I managed to kill all the barons and spare three
+	     bfg shots.
+
+	     BTW, if you are wondering why sometimes I spend a few seconds too long in
+	     the dark areas it's because I play with no sound. That's right, not one
+	     freaking SFX. It's because window fucks up my mouse sensitivity with DOOM
+	     so I play in DOS...except I can't get my Soundblaster Live to work in DOS.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com

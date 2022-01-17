@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ19-227.TXT
+
+ RQ19-227.ZIP
+
+  RQ19-227.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 19 - Skinny Puppy
+
+  Kills     58%
+  (Items    20%)          ********
+  Secrets    0%  and Time * 2:27 *
+                          ********
+                          
+  Description:
+
+  This has what I consider my final switch pattern at the end:
+    open all doors
+    release chaingunners, teleport left, move right
+    release mancubi, teleport left, move right
+    release pain elementals, teleport left, move right
+    release renevants, teleport left, spin around and teleport out
+
+  Jason Dyer
+  jdyer41@aol.com

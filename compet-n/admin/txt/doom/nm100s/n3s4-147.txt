@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+N3S4-147.TXT
+
+ N3S4-147.ZIP
+
+  N3S4-147.LMP - Nightmare with all Secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 4 - House of Pain
+
+  Kills     41%
+  (Items    31%)
+  Secrets  100%  and Time  01:47
+                           -----
+
+  Description:  > I think I have played that map often enough now.
+                That's surely right, but the endpart is really fun.
+               
+       Author:  Steffen "Rini" Udluft
+

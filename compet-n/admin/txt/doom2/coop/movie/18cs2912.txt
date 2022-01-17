@@ -1,0 +1,45 @@
+This is a Demo Archive of the Non Gods entry 
+
+authors:    Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+            Nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Ultra-Violence
+            
+
+Green  (view) : Vincent
+Indigo        : Nicolas
+
+         *-------*
+Time:    | 27:07 |  20 levels completed
+         *-------*
+                             
+Levels                   Time    
+---------------------------------
+"Episode 1" :
+---------------------------------
+Entryway                 0:10
+Underhalls               1:03    
+The Gantlet              0:49    
+The Focus                1:05    
+The Waste Tunnels        0:36    
+The Crusher              2:25    
+Dead Simple              1:13    
+Tricks & Traps           0:58    
+The Pit                  2:17    
+Refueling Base           1:09    
+---------------------------------
+"Episode 2" :
+---------------------------------
+"O" Of Destruction       2:34
+The Factory              2:20    
+Downtown                 1:42
+The Inmost Dens          2:02    
+Industrial Zone          1:02
+Wolfenstein              0:57    
+Grosse                   0:35
+Suburbs                  1:14
+Tenements                4:18
+The Courtyard            0:36
+The Citadel              ...

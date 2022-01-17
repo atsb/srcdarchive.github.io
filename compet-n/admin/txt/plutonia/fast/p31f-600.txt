@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P31F-600.TXT
+
+ P31F-600.ZIP
+
+  P31F-600.LMP - Ultra Violence -fast
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  Final Doom - Level 31 - "Cyberden" - Plutonia.wad
+
+  Kills   100%
+  (Items  100)            
+  Secrets 100%  and Time   6:00
+                           ----
+
+Description: Not much to say, except that this is my very first entry here at Compet-N.
+	     ...and probably there won't be many more, since I feel I'm not that talented to keep
+	     uploading demos here every now and then.
+	     Hope this record longs for at least some minutes... :)
+	     Most of the credits to Doug Merrill and his previous entry for this map.
+	     Oh, and to Adam Hegyi, for mantaining such a brilliant demo site.
+
+	     
+Author:    Albert Valls
+E-Mail:    vrmr@wanadoo.es
+Doompage:  http://www.newdoom.com/hosted/cyberdreams/

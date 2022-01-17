@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m202n055.TXT
+
+m202n055.ZIP
+
+m202n055.LMP - Nightmare!
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 02 - The Feeding Pit by David Davidson
+     
+ 
+Kills      62%
+Items      66%
+Secrets   100%	and Time - 0:55
+
+Description:
+
+First exit.
+
+Eugene Kapustin
+egk@ukr.net
+19.05.2007

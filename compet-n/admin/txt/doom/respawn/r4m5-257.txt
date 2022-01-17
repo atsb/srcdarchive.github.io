@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M5-257.TXT
+
+ R4M5-257.ZIP
+
+  R4M5-257.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 5 - They Will Repent
+
+  Kills    102%
+  (Items    27%)
+  Secrets  100%  and Time  02:57
+                           -----
+
+  Description:  > I was really surprised when i found no respawn entry for
+                > this map. So i made one...
+               
+                Hi, Donatas. There are still some DOOM -respawn 100/100 maps
+                missing - not because they are too hard, but because no one
+                planned a route and recorded them. The hardest maps for
+                DOOM -respawn 100/100 are r4m1 and r4m6, that's for sure.
+                But in some maps it's not too easy to figure out a good route.
+                r3m5 is one of them.
+
+         Date:  Oct 31 1998, 16:27 MEZ
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

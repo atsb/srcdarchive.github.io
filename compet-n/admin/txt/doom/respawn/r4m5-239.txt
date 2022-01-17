@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M5-239.TXT
+
+ R4M5-239.ZIP
+
+  R4M5-239.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 5 - They Will Repent
+
+  Kills    102%
+  (Items    20%)
+  Secrets  100%  and Time  02:39
+                           -----
+
+  Description:  I had to do this again, because the route in the end was
+                really stupid - teleporting to the yellow key and not taking
+                it ...
+                So I analysed the map in more detail (I never have played it
+                on max for real, only Velox, Incubus, Pacifist) and optimised
+                the route accordingly. I ended with a route very similar to
+                Donatas', but with a faster ending (no teleporting to the
+                yellow key).
+
+                It's a fun map!
+
+                Btw:
+                There are only two secrets in that map and 90 monsters.
+
+         Date:  Nov 01 1998, 12:30 MET
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

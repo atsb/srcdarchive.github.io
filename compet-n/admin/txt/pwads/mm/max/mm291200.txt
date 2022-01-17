@@ -1,0 +1,47 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm291200.lmp & mm291200.txt
+Date     : 2013-01-31 20:30
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : UV Max
+Map(s)   : Map29: Island of Death
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  71%
+Secrets  : 100%
+Time     : 00:12:00.94
+===================================
+Description:
+
+Inspired by "DWmegawad Club plays..." I tried Tysons on MAP20 and MAP29
+and they both should be easy. Then - what a stupid thought - I decided
+to try MAP29 Max.
+
+Pretty much what Anthony said... I'll say more or less the same using
+my own words, though...
+
+Design-wise the map is as if it were part of Obituary (obtic.wad). Then
+there are pathetic monster teleporters, so obviously the Moellers didn't
+learn anything after releasing obtic. Then, 2 monsters are unreachable
+and can only be killed by rocket launcher splash damage. Near the start
+you get a bonus red skull key, but if you step over it, a caco metal
+"cage" will not lower, so you won't reveal a baron needed for 100% kills.
+OTOH, if it lowers, it is possible to get trapped inside :-)
+
+Still I like this map as some areas are very, very nice.
+
+I think going for the BFG first is much faster than what Anthony did,
+but for most of the time you only have SSG and BFG to choose from,
+which may be inconvenient. The demo is bad, normally I would try to
+score something better, but there are one or two or three survivors...
+practically always. I perform some "magic" trying to stay for a longer
+while in certain areas, in which the monsters actually cross their
+teleporting linedefs, but usually it's not enough.

@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M2-140.TXT
+
+ R4M2-140.ZIP
+
+  R4M2-140.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 2 - Perfect Hatred
+
+  Kills    100%
+  (Items    27%)
+  Secrets  100%  and Time  01:40
+                           -----
+
+  Description:  Although it may look like I'd have a plan, I did not.
+                I improvise all the time and escaped very lucky with
+                exactely 100% kills. That's the right time to stop
+                trying - isn't it.
+
+                It will be hard to squeeze the time below 30 secs ;-)
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

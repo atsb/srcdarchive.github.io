@@ -1,0 +1,43 @@
+This is a DooM .LMP "COMPET-N/doom/speed" Entry - Please forward it...
+
+E2M8-039.TXT
+
+ E2M8-039.ZIP
+
+  E2M8-039.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  Episode 2 - "The Shores of Hell"
+
+  Map 8 - Tower of Babel
+
+  Kills    ???%
+  (Items    ??)
+  Secrets    ?%  and Time  00:39  approx.
+                           -----
+
+ [ The last movement was made at  00:39 ]
+
+
+Comments: Like Thomas said, if you want to relax, play some E2M8.
+          It is a good idea to take out the fist, you can see this way
+          when the Cyberdemon splashes. I changed to fist at 37,57 +/-
+          My last movement was in the 39's. And I did move until the end.
+          I've got 2 rockets left, often you have fired 50 and have to
+          look for another rocket box. I don't know how many rockets such
+          a Cyberdemon needs, but in this .LMP some of my rockets missed.
+          I think around 40. Let's play that in itytd.
+
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+          humpert@zib.de
+
+WWW:      http://www.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

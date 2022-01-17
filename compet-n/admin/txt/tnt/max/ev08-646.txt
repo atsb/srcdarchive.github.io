@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV08-646.TXT
+EV08-646.ZIP
+
+EV08-646.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 08 - Metal
+
+Kills    100%
+Items     57%           
+Secrets  100%  
+
+   ...and Time  6:46
+               ------
+
+
+Description: It's levels like this that makes TNT: Evilution look bad. By looks
+	     this is one step back from Doom2: Hell On Earth, but, believe it
+	     or not, heeeeere i coooome, just kidding, it's actually fun to
+	     play. There should've been a couple more stimpacks, you lose
+	     health pretty quickly with all those Chaingunners and almost no
+	     armor... Decent demo, but i don't feel like playing this map 
+	     anymore...
+	     
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

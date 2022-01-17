@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M8-130.TXT
+
+ N1M8-130.ZIP
+
+  N1M8-130.LMP - NightMare
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.1 Mi.8 - Phobos Anomaly
+
+  Kills      ?%
+  (Items     ?)
+  Secrets    ?%  and Time  01:30 approx.
+                           -----
+
+  Description:  Sorry Patrick, I did not watch your 1:47. But as you said
+		something about "Pacifist style" I guess my strategy is very
+		similar. The time depends very much on how fast the spectres
+		eat the barons, pure luck IMHO.
+		BTW:
+		This is my first COMPET-N lmp played with mouse.
+		Looks rather ugly, huh.
+
+		.. and for those who don't know "DooM - Pacifism"
+		check out:
+
+		http://www.cdrom.com/pub/idgames/lmps/pacifist
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

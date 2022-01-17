@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N2S7-328.TXT
+
+ N2S7-328.ZIP
+
+  N2S7-328.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with (Ultimate) DooM
+
+  DooM - Ep.2 Mi.7 - Nightmare hidey-holes
+
+  Kills         68%
+  Items         51%
+  Secrets       100%
+  Time          03:28
+                -----
+
+  Description :
+
+Owww...picked a hard one here :). The BIG problem is the demons at the start.
+Getting the berserk first might seem a strange way of doing things, but
+trust me, it's the best :). It makes the invuln last comparatively longer,
+and it's also very very very difficult to get to the berserk if you get the
+invuln first. It's easy once you get the blue key up until trying to get
+back out :). (The reason I go into the area which opens from the switch is
+to get the cells, essential for later on - I don't actually know if it's
+tagged secret, but you have to go there anyway :>). Getting out can be a
+BASTARD, and is only possible if you're a) very slow or b) very quick. If
+you're very quick, your invuln is still working while you punch your way out.
+If you're slow, like in this demo, you have a chance of dragging all the
+pinkies into the baron/caco area, thus allowing an easy passage back
+out. That's what happened here. I had to punch the two imps - if you don't,
+they have a nasty habit of ambushing you while you deal with the two pinkies
+from the start (well, in this demo, one pinkie, I haven't got a clue what
+happened to the other one :>). Doing the switch up the stairs behind the
+blue door before getting the second invuln is essential, or at least very
+hard to live without, because otherwise the second invuln runs out a bit
+too early - this _is_ an area for possible optimisation, however. The caco
+is very very nasty when you have the invisibility, you don't know where its
+shots are going to go...it's killed me lots of times, I got lucky here :).
+Messed up the outside a bit :). After getting the second invuln, it's pretty
+much plain sailing, although I once got killed by an imp in the teleporter
+room with the rocket launcher in it, and once by a spectre which trapped me
+with 5 cells on the way back out - DOH! A satisfying level to finish, though.
+
+Adam Williamson
+adam@scisoft.force9.co.uk

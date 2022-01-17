@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm30-229.TXT
+
+mm30-229.ZIP
+
+mm30-229.LMP - UV Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper by Milo Casali
+      
+  Kills    108%
+  Items     44%           
+  Secrets  100%  and Time  2:29 
+                         
+
+  Description
+
+
+First exit without missed cacos.
+
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+03.04.2008

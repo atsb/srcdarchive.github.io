@@ -1,0 +1,89 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1NM1444.TXT
+
+ E1NM1444.ZIP
+
+  E1NM1444.LMP
+
+  NightMare!  (The Way Doom Was Meant To Be Done)
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 ?
+
+  DooM - Ep.1 - "Knee Deep In The Dead"
+
+
+Mission    TIME     Health / Armor    Kills  Items  Secrets
+============================================================
+|  1    |  0:28 :-)  100   /  92      55%    7%     33%    |
+|  2    |  1:18 :-)  108   /  101     62%    11%    33%    |
+|  3    |  2:09 :-)  76    /  75      70%    15%    14%    |
+|  4    |  1:04 :-|  178   /  52      25%    31%    100%   |
+|  5    |  3:50 :-(  73    /  72      123%!  65%    77%    |
+|  6    |  3:08 :-|  130   /  90      72%    47%    100%   |
+|  7    |  2:47 :-)  98    /  115     88%    45%    75%    |
+============================================================
+| TOTAL : 12:164 :-)                                       |
+|         (12+2):(164-120)                                 |
+|         14:44                                            |
+============================================================
+
+
+  Description :-)
+
+Ok, if yer gonna watch my demo ya gotta read my preachings...forgive
+me if i ramble on, but i've been thinking of things to put here for
+about a week now...
+
+The true difficulty of nightmare lies not in the fast enemies, nor in
+them getting back up and shooting you again after you fill them full of
+lead.  No, what makes nightmare difficult is the absolute chaos and
+prevalence of randomness that you just don't see in a game at Ultra
+Violence.
+
+Once one gets used to fireballs that go faster than one can run, and
+sergeants reloading and firing faster than the marine can, one can
+really do some damage, especially if the skill level is 4 with simply
+the -fast parameter.  This is similar to tusing simply the -respawn option,
+and also with the combination of the two.  But what nobody really can get
+used to is being surprised every time we cross back over our own path.
+The enemy are already awake, so they get the jump on us, this time.  No
+more picking them off one by one, because chaos is already nipping at our
+heels.  Soon our swath of destruction will turn against us with mass
+respawns and chaotic enemy placements, quickly eating away our armor,
+quickly 
+
+Nightmare is a true test of reaction skills.  Adaption skills.  Tyson,
+another challenging method of playing, is neither harder nor easier, but
+rather different.  Tyson requires a whole other bag of tricks, like near
+perfect health management and flawless monster management.  Nightmare, on
+the other hand, tests the reflexes, and the brain's ability to think quickly,
+and to repair a route so easily completed in UltraViolence that was just
+ruined by a random soldier respawning.  Tyson in constance.  Nightmare is
+dexterity.  This is why I respect great players like Lindgren, and Peo...
+they have 2 of the most irreconcilable but also most necessary skills, and
+they combine them so well as to leave a lasting legacy upon the demo archives
+(DL is still what? 3rd, after about a year of Doom Retirement?)  A third
+skill, which I respect in a great many players, is the ability to learn
+a concrete route over many attempts -- such is seen in MAX or speed
+fast demos.  The play becomes extremely fast as the players learn exactly
+how the monsters are going to move, and how to best deal with that.  And
+a fourth skill which I frankly don't have, but is demonstrated by the best
+and fastest speedrunners, is ingenuity.  Rudy's e1m4 jump, Anders's e1m3
+nightmare pattern of just blazing through the hallway back from the blue
+key...these are the path finders, the ones who make doom possible so fast
+and so brilliant.  This is the skill I respect most, because it is one I
+just cannot for the life of me grasp.  I am merely the optimiser...I run
+the levels a million times to cut the last corner tighter, to shave off the
+thenths of a second, squeeze the last drop of speed out of the patterns that
+have already been invented.
+
+I would like to thank all you people who still do demos for Doom...
+especially those whose tricks and/or routes I borrowed.  Keep dooming, keep
+demoing, and most of all enjoy the lmp! :-)
+
+Andy Kempling aka Aurican
+kempling@challenger.net

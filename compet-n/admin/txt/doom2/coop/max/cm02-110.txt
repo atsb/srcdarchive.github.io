@@ -1,0 +1,12 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr)
+
+game:     doom2 v1.9
+category: coop max
+level:    map02
+
+time:     1:10
+
+descrption: Arno, Marko, It's your turn again! :)

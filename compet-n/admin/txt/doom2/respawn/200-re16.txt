@@ -1,0 +1,22 @@
+200-RE16.LMP --> MAP16 on UV with respawning
+--------------------------------------------
+
+  Kills   : 16%
+  Items   : 40%
+  Secrets : 50%
+  Time    : 1:55
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: Rini said this was theoretically possible, so I wanted to do it. 
+          This LMP was the result of about three hours work as many things 
+          can go wrong. Sometimes the imps in the room next to the MegaSphere
+          room awake and bother you. Then the main problem is getting the
+          blue key without being hurt in the slime or by the imps. Then if
+          you're careful you can easily get to the invulnerability without
+          being hit. From there the problem is making it last long enough
+          for you to raise the red block and walk onto the exit without 
+          being hit.
+
+Robert Reevy <drparadox@usa.net>

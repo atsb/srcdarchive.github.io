@@ -1,0 +1,33 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq09-528.lmp, rq09-528.txt
+Date     : 2013-10-20
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV-Max
+Map(s)   : MAP09: Deep Down Below
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :   4%
+Secrets  : 100%
+Time     : 00:05:28
+===================================
+Description:
+
+This map was so fun for max. I almost didn't have to be afraid of receiving 
+damage for a magasphere in the first secret. Credit for the route goes to 
+SAV88. His strategy is very great in rq09-530 which is non-Compet-N's demo, 
+so I used it without any minor tweakings. This demo is only 2 seconds faster 
+than SAV88's demo, so this is not remarkable one, except that this is a Compet-N 
+record.
+
+
+96th Comepet-N Entry

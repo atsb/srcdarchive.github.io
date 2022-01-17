@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM14-400.TXT
+
+ MM14-400.ZIP
+
+  MM14-400.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+  
+  Kills    100%
+  (Items    ??%)                   
+  Secrets  100%  and Time = 04:00  
+                                   
+                          
+
+  Description: After conversation with Anthony I decided to have a
+               go at this.
+
+               Hmm, pity this wasn't one second faster, eh?
+               This demo beats Vile's 4:22 because I use Yonatan's
+               faster TAS route. I know it can go faster, but this was
+               a second try and I was lucky with the infights, so
+               I'll leave improving it to someone else.
+
+  
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

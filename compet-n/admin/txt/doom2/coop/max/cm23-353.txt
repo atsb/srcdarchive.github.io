@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cm23-353.txt
+
+ cm23-353.zip
+
+  cm23-353.lmp  Ultra-Violence MAX
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP23
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Nicolas
+  Indigo    ??%      ??%      ??%      Vincent
+
+  Time:    3:53
+
+Comments: 
+
+	An easy point to relax a bit...
+
+
+
+Green:     Nicolas Gandou   (nicodv@netcourrier.com)
+Indigo:    Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+
+

@@ -1,0 +1,19 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2142027.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP14
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     10%           *********
+  Secrets  100%  and Time * 20:27 *
+                          *********
+
+
+==============================================
+
+For those who like infighting and -fast pinkies.
+There's a lame part with revenants (when two lifts lower),
+the rest is more or less OK for me.

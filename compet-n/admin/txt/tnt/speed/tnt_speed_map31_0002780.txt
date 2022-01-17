@@ -1,0 +1,27 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt_speed_map31_0002780.lmp
+Date     : 2013-09-11 19:35
+Game     : TnT 
+Category : Speed
+Map(s)   : MAP31
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Marijo Sedliæ
+Nickname : Sedlo
+Country  : Croatia
+Email    : msedlic@gmail.com
+WWW      
+-------------------------------------------------------------------------
+Kills    : 0%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:27.80
+===================================
+Description :-)
+
+I just wanted to break the 27 secs as initial demo on this map. There's still plenty 
+of room for improvements, not sure how low it can go exactly so I'm looking forward 
+to see someone replaying :).
+
+Cheers!

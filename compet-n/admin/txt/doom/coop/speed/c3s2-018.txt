@@ -1,0 +1,11 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+authors:  Arno Slagboom (slagboom@cybercomm.nl)
+          Marko van der Want                   
+
+game:     ultimate doom
+category: coop speed
+mission:  e3m2
+
+time:     0:18
+

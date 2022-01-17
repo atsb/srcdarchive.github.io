@@ -1,0 +1,21 @@
+Doom competition naming convention - 2013/01/01
+-------------------------------------------------------------------------
+Filename: game-category-map-hmmssms.lmp
+-------------------------------------------------------------------------
+GAME: doom1, doom2, plutonia, tnt          | av, hr, mm, mm2, requiem, ce
+CATEGORY: speed, nightmare, max            | speed-movie
+MAP: mapXY, eZmY, episodeZ, movie          | X: 0-3, Y: 1-9 Z: 1-4
+H MM SS MS: hours, minutes, seconds, tics  | example: 0000454
+-------------------------------------------------------------------------
+
+Example for Doom 2 movie nmare run done in 45:13 and 2 miliseconds (tics):
+doom2-nightmare-movie-0451302.lmp
+
+Example for Doom 1 E3M4 speed run done in 38:12:
+doom1-speed-e3m4-0003812.lmp
+
+Example for Plutonia episode 1 max run done in 12:34 and 16 miliseconds (tics):
+plutonia-episode1-max-0123416.lmp
+
+Example for TNT map23 max run done in 6:54 and 12 miliseconds (tics):
+tnt-map23-max-0065412.lmp

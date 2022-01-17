@@ -1,0 +1,40 @@
+This is a Doom LMP Entry
+
+PN22-141.ZIP
+
+	PN22-141.TXT
+	PN22-141.LMP - Nightmare Speed
+
+Recorded using Doom2 Version 1.9
+Plays back with Final Doom as well
+
+Plutonia Experiment - Level 22 - Impossible Mission
+
+=---+------+---=
+Kills        46%
+Items        35%
+Secrets      25%
+ 
+TIME        1:41	Old record: 2:32 by Drew "stx-Vile" DeVore
+PAR         2:30
+=---+------+---=
+
+Demo entry #14.
+
+Description:
+
+Anders Johnsen greatly extolled this map in the old Plutonia demopack. Yes, i
+think it's a very beautiful combination of technology and hell, with the
+atmosphere remindering me of some levels from Zen Intergalactic Ninja (one of
+the very best NES games, Konami, 1993). Even though there are some even better
+maps in Plutonia and Evilution.
+
+The blue key trap is a bomb with very random blast damage :) I got seriously
+hurt there, but saved some stimpacks to correct my health after it.
+
+I leave the NM Secrets demo to Vile, as it's stylish.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done October 5, 2007, 12:20:20

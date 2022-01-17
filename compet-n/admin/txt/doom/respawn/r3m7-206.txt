@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M7-206.TXT
+
+ R3M7-206.ZIP
+
+  R3M7-206.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    102%
+  (Items    75)
+  Secrets  100%    and Time  02:06
+                             -----
+
+Description: With three jumps, irritating demons
+             and blocking cacos, a lot can go wrong
+             in this level. For now, 2:06 is enough,
+             but with some extra hours playing I will
+             make this go under 2 minutes.
+             Only if needed of course. :)
+             
+ 
+Author:    Arno "SlagDooM" Slagboom
+Mailto:	   arnoslag@bart.nl
+Doompage:  http://members.xoom.com/publicdang

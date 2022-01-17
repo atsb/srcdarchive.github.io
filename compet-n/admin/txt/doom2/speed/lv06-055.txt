@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry
+
+LV06-055.TXT
+LV06-055.ZIP
+
+LV06-055.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 06 - The Crusher
+
+Kills     ??%
+(Items    ??%)
+Secrets   ??%  
+
+   ...and Time    00:55.97
+                  -----
+  
+Description: I have been running this map so much that I can't remember, maybe
+             more than anyone else. So it became natural for me to give it a  
+             try in the uv-speed cat. 
+
+             I really tried hard to push it down to 0:54....but after 
+             houers of playing I lost my concentration and gave up...
+             I did this with the singel shotgun only...I don't know if taking
+             the SSG will help you get a 0:54, my best attempt with the ssg is
+             0:56. Anyway you will only get advantage of the ssg in the end. 
+             Yes, I know it get's easier from that point but if you're lucky
+             enough you don't get stuck on your way up from the red-key area.
+             
+             I'm actually very upset by my performance here, I got a headache
+             after watching it. It isn't a demo that I could recommend 
+             watching.
+                   
+             All in all I think it's too hard beating D2dq here, maybe 
+             equalling could be done.
+
+
+Author: Henning Skogsto
+E-mail: hskogto@c2i.net

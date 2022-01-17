@@ -1,0 +1,42 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pn09-104.lmp & pn09-104.txt
+Date     : 2013-04-21 0:42
+Game     : Final Doom - Plutonia
+Client   : doom2.exe v1.9f
+Category : NM Speed
+Map(s)   : MAP09: Abattoire
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Name     : 
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 16%
+Items    : 25%
+Secrets  : 50%
+Time     : 00:01:04:83
+===================================
+Description :-)
+
+To fx: No slowdown or other tools were used in making of this run. Some 
+alcohol was though.
+
+To quote sedlos pn10-21.txt, "safe play on nm is kinda old already". This
+is about as unsafe is gets, I must have had close to 200 runs that got to
+the exit room, which in itself wasn't trivial, and this is the first (and 
+probably only) succesful one. Includes some weird stuff like me going nuts 
+before going for the glide since I only killed two spectres and was
+wondering where the other two were. Thankfully somewhere else, possibly
+stuck at the elevator or something. Unlike the first two (or three if you
+count that pn08 one) runs I posted I feel like this is actually "worthy" 
+for compet-n.
+
+So yeah, enjoj.
+
+(I included a savegame at the exit room so you, too, can feel the pain. 
+Or alternatively practice if you want to get the record... but please go
+for the nm 100% secrets one first) 
+

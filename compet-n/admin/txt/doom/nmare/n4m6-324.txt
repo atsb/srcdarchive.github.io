@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+N4M6-324.TXT
+
+ N4M6-324.ZIP
+
+  N4M6-324.LMP - Ultra Violence with -NightMare !!!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 4 Mission 6 - Against Thee Wickedly
+
+  Kills    108%
+  (Items    50)
+  Secrets   66%  and Time  03:24
+                           -----
+
+Description: Took me about two hours, the end dosn't look good at all.
+             I'm not doing this as to optimize, I'm practising for episode
+             4 NM-run. If anoyone have any sugestions or tips which could be 
+             helpfull, I'd be more than glad to hear from them.
+             Hmmm...next: N4M7...
+             Oh, and: This GREAT route I use here is Rini's TM :-) Although I
+             prefer BFG for the end-sequence... 
+           
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

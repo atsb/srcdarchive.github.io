@@ -1,0 +1,35 @@
+This is a Doom "COMPET-N/doom/speed" entry. Please forward it...
+
+E2M6-156.TXT
+
+ E2M6-156.ZIP
+
+  E2M6-156.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Map     6 - Halls Of The Damned
+
+  Kills     26%
+  (Items    12)
+  Secrets    0%  and Time  01:56
+                           -----
+
+
+Description: George Bell mailed me, that he has to complete this level for
+             his D1I. So I tried it a little bit in Nightmare!, but somehow
+             failed. Then I looked for some cells, but there aren't any...
+
+             Later I decided to just run through it [ on Ultra-Violence ].
+             I got the time, searched in current.tab for the old one, and I
+             was surprised how fast I was.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+

@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M215N650.TXT
+
+ M215N650.ZIP
+
+  M215N650.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 15 - The Devil's Coterie - Normal exit
+
+  Kills     98%
+  (Items    68%)          ********
+  Secrets   22%  and Time * 6:50 *
+                          ********
+                          
+
+  Description :-)
+  
+  The beginning is fairly luck based, but after that things settle
+  down a little bit. I realized at some point that the best way to
+  do the ending is to get the revenant to shoot the guy at the yellow
+  key, and then go pacifist up to the plasma. Then it is important to
+  preserve the invisibility up to the arachnotron. I had already done
+  a few sessions of this, and after deciding on a method for the ending,
+  I practiced for a while, and shortly afterward I was able to produce
+  this demo. Actually in this demo the method with the revenant didn't
+  work, so I had to risk getting shot by the chainer. Fortunately I
+  didn't take much damage so I had enough to run to the end. There
+  isn't much difference between a normal exit and secret exit run since
+  the exits are so close together, and health is not a problem at that
+  stage. I chose to do normal exit first, so I can consider a nightmare
+  secrets run to the secret exit.
+
+  Xit Vono
+  Xit_vono@yahoo.com

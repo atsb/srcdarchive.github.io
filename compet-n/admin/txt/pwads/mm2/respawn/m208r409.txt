@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M208R409.TXT
+
+ M208R409.ZIP
+
+  M208R409.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori II - Level 08 - Stigmata
+
+  Kills      101%
+  Items       43%            
+  Secrets    100%  and Time: 4:09 
+                             ==== 
+
+  Description :-)
+
+  The eighth level of Memento Mori II, Stigmata, takes you on a ride through an
+  underground slime processing facility.  What this has to do with the wounds
+  Jesus Christ suffered when he was crucified is a mystery.  Also a mystery is
+  how Denis Möller missed the painfully obvious HOM early on in the level.
+  Anyway, this demo was recorded due to the suggestion of vdgg, who,
+  unexpectedly, was inspired to appreciate UV -respawn demos because of my own.
+  (Specifically M226R545.LMP and MM12R304.LMP.)  I'm still not satisfied with
+  this demo, but I suspect any further attempts to improve it (it's my fourth
+  exit) will end in failure, so I'm submitting this one.  Hope you like it
+  anyway.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- August 20, 2009 -

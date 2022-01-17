@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+m222-613.TXT
+
+ m222-613.ZIP
+
+  m222-613.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 22 - Reactor Related Fuel Refinary by Thomas Moeller
+
+  Kills     53%
+  Items      0%           
+  Secrets   16%  and Time  6:13
+
+
+  Description
+
+Next demo should be under 6 minutes.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+19.04.2007

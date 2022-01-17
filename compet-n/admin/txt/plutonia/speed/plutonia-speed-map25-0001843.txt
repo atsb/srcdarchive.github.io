@@ -1,0 +1,14 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Speed
+Map: 25
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 0%
+Items    : 5%
+Secrets  : 0%
+Time     : 00:18.43
+
+Description: 
+Very fun map, SR50 jump followed by glide followed by rocket jump.
+Glide could have been faster so 17 seconds is possible.

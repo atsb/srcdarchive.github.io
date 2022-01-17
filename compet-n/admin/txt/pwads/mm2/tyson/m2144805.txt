@@ -1,0 +1,48 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2144805.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP14 - A Question of Time         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     23%           *********        |
+            |      Secrets  100%  and Time * 48:05 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| During my first assessments I rated this one as impossible (it has     |
+| berserk - so what? - how to get there?). Then I recorded a TAS in      |
+| 52:35, in which I spent like 8 minutes pressing these lion switches :) |
+| and... forgot about this Tyson. This year I became more certain I      |
+| could record it without tools. The first phase - killing all the imps  |
+| using the lone hell knight - is actually easy and not *that* boring    |
+| for the recorder (don't know about the watcher). What comes after      |
+| berserk looks easy, but it is not because your only blue armor doesn't |
+| last long, after that you have to rely on all those stimpacks.         |
+|                                                                        |
+| This first exit looks overcautious, but trust me, it was not an easy   |
+| map for me. I had enormous luck with berserk damage in critical        |
+| moments, such as dealing with the first caco in the red key area, or   |
+| the hell knight it his *extremely* tiny compartment - after 45 minutes |
+| of play! I guess the time can be improved by 10 minutes or so, but for |
+| me it'll suffice, I'm just happy to fill another hole in the tables.   |
+|                                                                        |
++========================================================================+

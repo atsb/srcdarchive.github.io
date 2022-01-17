@@ -1,0 +1,40 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: tnt.wad                                 |
+            | Filename: ev17-308.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP17 - Processing Area            |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    101%                            |
+            |      Items     69%           ********         |
+            |      Secrets  100%  and Time * 3:08 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I spent more time on this Max than on all my MM2 maxes *combined*      |
+| This means that:                                                       |
+| - the map is pretty good and fun to play                               |
+| - the previous record was pretty good, even if not valid               |
+|                                                                        |
+| I'm leaving lower times to better players :) Thanks to Hitherto. Your  |
+| barrel trick is mega cool, unfortunately it doesn't seem to save much  |
+| and I didn't used it this time...                                      |
+|                                                                        |
++========================================================================+

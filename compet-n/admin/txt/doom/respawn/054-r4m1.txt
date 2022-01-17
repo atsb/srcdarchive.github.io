@@ -1,0 +1,55 @@
+This is a DooM .LMP "Competition" Entry
+
+054-R4M1.TXT
+
+ 054-R4M1.ZIP
+
+  054-R4M1.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 1 - Hell Beneath
+
+  Kills     60%
+  (Items    90%)
+  Secrets   50%  and Time  01:24
+
+  Maximum Minimum Health =  54 %
+                           -----
+              
+  Description:  In my r1m7-301 I wrote:
+                > I got a new unbeatable MMH record (108-r2m1). If you
+                > guys don't hurry up you will need to play a 106-r4m1
+                > for an unbeatable MMH record - have fun with that ;-)
+                And Donatas gave it a try. Hey, 106-r4m1 was ment as a
+                joke, there are more important things to life than trying
+                that. Btw: There are nine potions and not just six
+                (that's why the map is so easy ;-), so I ment 109-r4m1
+                of course. Note: it is possible to take the rocketlauncher
+                w/o any damage. But anyway I guess 80% is the realistic
+                limit - who want's to try?
+
+                A specialty of this map is that it is the only map of
+                udoom/doom2 that cannot be played with 100% kills and
+                secrets on -RESPAWN. Try to proove me wrong, but don't
+                forget I'm not "Hunter" Hoof.
+
+      Comment:  Don't expect me to compete any more, I will have simply
+                no time to do that in the near future - maybe next year.
+              
+                If you got new pacifist lmps, mail them to me, do not
+                expect me to pick them out of incoming - I did this,
+                but I won't be able to do it anymore.
+
+                .. and for those who don't know "DooM - Pacifism"
+                check out:
+
+                http://www.cdrom.com/pub/idgames/lmps/pacifist
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

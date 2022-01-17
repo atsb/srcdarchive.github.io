@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+108-NM01.TXT
+
+ 108-NM01.ZIP
+
+  108-NM01.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 1 - "Entryway"
+
+  Kills     29%
+  (Items    88)
+  Secrets    0%  and Time  00:58
+
+  Maximum Minimum Health =  108 %
+                           -----
+
+  Introduction...
+
+  This is an Example for a New Category of NightMare! .LMP's...
+
+  "Maximum Minimum Health" - Complete each DooM and/or DooM II
+                             Level "safely" ie. as Far From 0%
+                             Health (Death) as possible ! :-)
+
+  Description:
+
+  Everyone can do it, but it's rather nice to finish with
+  Maximum health possible.
+
+
+ Anton V. Magleli
+
+ Magleli@asterix.eecs.wsu.edu
+
+

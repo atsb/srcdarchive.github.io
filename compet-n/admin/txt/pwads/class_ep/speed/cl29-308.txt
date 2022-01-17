@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL29-308.TXT
+
+ CL29-308.ZIP
+
+  CL29-308.LMP - Ultra Violence speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M9 - Dissension
+
+  Kills     57%           
+  (Items     0%)            
+  Secrets    0%        
+
+              ... and Time  03:08 
+                            -----  
+                          
+  Description:
+
+  Guys, this map is a killer...
+  
+
+  Radek Pecka
+  r.master@email.cz

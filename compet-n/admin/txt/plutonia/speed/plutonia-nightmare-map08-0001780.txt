@@ -1,0 +1,14 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: NM-Speed
+Map: 08
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 7%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:17.80
+
+Description: 
+This is 1 second faster than UV\pacifist run, thanks to arch-vile on nightmare 
+who is a lot more friendly. Glide could always be faster.

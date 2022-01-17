@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+LV20-036.TXT
+
+ LV20-036.ZIP
+
+  LV20-036.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - Gotcha !
+
+  Kills     12%
+  (Items     2%)
+  Secrets    0%  and Time  00:36
+                           -----
+  
+  Description :-)
+
+  Well... a little bit closer to perfection and equalling my D2dQ time...
+  I gotta say 0:35 with this route should be between very hard and
+  impossible...
+  
+  My run till the teleport is perfect... I never get 20% when doing the
+  jump earlier (1st GT turn). A little bit slow entering the 2nd teleport,
+  *very* lucky at the chaingunner+3 shotgunners scene (Okay, this is always
+  lucky if you survive this at all). Perfect at the imp, little bit stuck
+  on the 3rd teleporter. Perfect running till exit. Very close to 0:37.
+  Tip for 0:35 madmen: try leaving the plasma, just cross the line which
+  opens the teleporter and run back down the stairs. Interesting end scene
+  with shot/chaingun only :)
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

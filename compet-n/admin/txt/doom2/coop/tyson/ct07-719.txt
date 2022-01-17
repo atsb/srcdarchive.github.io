@@ -1,0 +1,19 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa    (vincentDS@netcourrier.com)
+           Green - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop tyson
+mission:  map07
+
+time:     2:53
+
+Vincent : Not much action for me in the manco part, then it gets more
+          fun with the spiders.  Our first coop.
+
+xit-vono : This is definitely a team effort so Vince gets as much
+           credit as I do.
+          
+Misc: Recorded on Lan at xit-vono's house
+          

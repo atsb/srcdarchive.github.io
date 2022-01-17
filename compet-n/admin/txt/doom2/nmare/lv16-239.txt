@@ -1,0 +1,30 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV16-239.TXT
+
+ LV16-239.ZIP
+
+  LV16-239.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.666
+  And Converted to Doom2 Version 1.9
+  So
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills     43%
+  (Items    40)
+  Secrets   50%  and Time  02:39
+                           -----
+
+
+Description: One of my favourite single player levels, it's real hard
+             to make it all the way in NightMare mode...
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

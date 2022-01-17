@@ -1,0 +1,37 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+P01F-302.TXT
+
+ P01F-302.ZIP
+
+  P01F-302.LMP - Ultra Violence - Fast Monsters!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 01 - Congo
+
+  Kills    102%
+  Items      0%            ********
+  Secrets  100%  and Time  * 3:02 *
+                           ********
+
+
+
+Description: Quite easy level, Revenents can however sometimes
+	     cause a lot of trouble, but I found out that they
+	     are way easier than in original UV mode, this is 
+	     because they shoot at the same moment they see you 
+	     (pillars blocks their shots) and therefore doesn't 
+	     get too close too quickly..
+	     Pretty satisfied with the time it's only about 30 
+	     secs from my UV record at 2.36.. Quite few monsters 
+	     and pretty linear makes it easier though....
+
+     
+	
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     
+

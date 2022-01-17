@@ -1,0 +1,37 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+N1S5-220.TXT
+
+ N1S5-220.ZIP
+
+  N1S5-220.LMP - Nightmare! with 100% secrets
+
+  Recorded using "The Ultimate Doom"
+
+  Doom -Playdemo with Ultimate Doom
+  OR
+  Doom -Playdemo with Doom ver. 1.9
+
+  Doom - Episode 1 Mission 5 - Phobos Lab
+  Kills     89%
+  (Items    68)
+  Secrets  100%  and Time  2:20
+                           ----
+
+Description:  After getting the nightmare record I decided to go for the 
+              nm100s. This was much easier for some reason, and I got this
+              after half an hour. Even with the secrets accounted for, this
+              is much slower than n1m5-150: at one point I forgot my route,
+              using the chaingun on the first line of soldiers/imps, then 
+              turning back to look for a nonexistent demon :( I think I 
+              slowed down a little after that.
+
+              Prediction: If everything works alright, this could go under 
+              two minutes.
+
+
+Author: Chris "Ryback" Ratcliff
+
+Email:  ryback@fcmail.com
+
+

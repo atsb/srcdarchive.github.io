@@ -1,0 +1,43 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm.wad                                  |
+            | Filename: mm131012.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP13 - The Inmost Dens II         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     62%           *********        |
+            |      Secrets  100%  and Time * 10:12 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| As I like this level very much, I decided to record another demo, this |
+| time with -fast monsters. Thankfully the stairs leading to the RK can  |
+| be raised by pressing a normal brick wall, so I left the demon/spectre |
+| horde until the end (plasma rifle is vital there). UV -fast plays      |
+| better on this map than UV Max, as there are no problems with 99% kill |
+| runs.                                                                  |
+| Compared to Revved's run, I obtain the SSG faster and use it on four   |
+| revenants and one of the sentinel hell knights, I get the soulsphere   |
+| right away ignoring my not-so-perfect health %, etc. Below 10 minutes? |
+| If only I had a plan what to do with the chaingunners guarding the     |
+| exit... I think a huge amount of time was wasted there.                |
+|                                                                        |
++========================================================================+

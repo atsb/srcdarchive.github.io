@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+MM05s119.TXT
+
+ MM05s119.ZIP
+
+  MM05s119.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 05 - Hell's Kitchen
+
+  Kills      ?%
+  Items      ?%             ********
+  Secrets    100%  and Time * 1:19 *
+                            ********
+
+  Description :-)
+
+  Just tablefilling... thanks Altima for showing me that first secret in your demo.
+    
+  Erik Alm
+  erik_a80@hotmail.com

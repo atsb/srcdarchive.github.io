@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+TY03-309.TXT
+
+ TY03-309.ZIP
+
+  TY03-309.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 03
+
+  Kills    100%
+  Secrets  100%  and Time  03:09
+                           -----
+
+After beating Demonlord's old 3:16 with a 3:12, I decided to try and optimise
+this map as far as possible, hopefully to under 3 mins. I think this route is
+more or less the best possible, but there's still lots of stuff that can go
+right or wrong in this run. I judge demos on this level on, mainly, how many
+bullets I have at certain points: on the lift to the big area, just before
+teleporting, and going up the last lift for the last time. On this run, I had
+54 at the first "checkpoint" (best is 66), 145 at the second (my best by a
+long way) and 60 at the third (my best by two or three). The most important
+things are the amount of monster infighting you get in the big area and also
+between the imps and demons/spectres at the end. There's still room for
+improvement here, especially at the start. Note that I pick up a chaingun
+without realising it as i'm running for the box of bullets and 25 health pack
+in the right-hand pit...i've watched the demo four or five times though, and
+i'm pretty sure I didn't fire anything with it.
+
+Adam Williamson
+adam@scisoft.force9.co.uk
+
+Adam Williamson
+adam@scisoft.force9.co.uk

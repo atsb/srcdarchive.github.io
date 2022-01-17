@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+MM06S255.TXT
+
+ MM06S255.ZIP
+
+  MM06S255.LMP - Nightmare with 100% Secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 6
+
+  Kills    60%
+  Items    22%            *********
+  Secrets  100%  and Time * 02:55 *
+                          *********
+                          
+
+  Description :-)
+  
+  It's alright.
+
+  Slade

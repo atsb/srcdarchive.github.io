@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/nmare" Entry - Please forward it...
+
+PL11-NMS.TXT
+
+ PL11-NMS.ZIP
+
+  PL11-NMS.LMP - NIGHTMARE!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  ( I think it's a speed entry for Nightmare :)
+
+  Kills      0%
+  Items     81%           ********
+  Secrets    0%  and Time * 0:58 *
+                          ********
+
+
+Description: Same as in the UV speed run. Maybe even easier, because the
+	     Archviles stay where they see you first and attack you. Some-
+	     times in the UV attempts it happend that I heard no Archvile
+	     awakening sound when I pressed the button and run out, if you
+	     managed to be that lucky you've got a map without monsters, all
+	     you have to do is to turn left after the start.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://user.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

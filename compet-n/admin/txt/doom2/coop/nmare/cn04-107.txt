@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cn04-107.txt
+
+ cn04-107.zip
+
+  cn04-107.lmp Nightmare! Speed
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP04
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    1:07
+
+
+Selim   : Vincent is right
+Vincent : table-filling entry. the time is better than i could expect.
+
+
+Green:     Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Indigo:    Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

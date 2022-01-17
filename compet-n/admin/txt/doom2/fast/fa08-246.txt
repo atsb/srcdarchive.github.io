@@ -1,0 +1,34 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : fa08-246.lmp, fa08-246.txt
+Date     : 2013-09-18
+Game     : Doom 2 - Hell on Earth
+Client   : doom2.exe v1.9
+Category : UV-Fast
+Map(s)   : MAP 8: Tricks and Traps
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  80%
+Secrets  : 100%
+Time     : 00:02:46
+===================================
+Description:
+
+This run depended on infighting in the cyber's room. It would have been 
+desirable to be a situation where the rest of enemies could be killed 
+with one shot of BFG, but the result of the infighting in this run was 
+not too bad. The monitor room had pain elementals and cacodemons was 
+crazy from lost souls. I dealt with the enemies with only three shots 
+of BFG. It was so smooth. I was a little upset by a lost soul before 
+the exit, but I managed to survive and get this good record. 
+
+
+86th Comepet-N Entry

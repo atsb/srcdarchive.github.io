@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N1S3-141.TXT
+
+ N1S3-141.ZIP
+
+  N1S3-141.LMP - NightMare!
+
+  Recorded using Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Doom - Episode 1 Map 3 - Toxin Refinery
+        
+  Kills     74%
+  (Items    42%)          *********
+  Secrets  100%  and Time * 01:41 *
+                          *********
+                          
+
+  Description :-)
+    
+  Could be better, could be worse. I missed some shots in the
+  supercharge room, and the pig blocked me which caused me to
+  not make it under the blue door. This is 8 seconds faster than
+  stx-vile mostly because I didn’t take the yellow key. There are
+  no secrets past the yellow door, so all you need to do is step 
+  in a little ways, which saves several seconds. It’s a little
+  harder to survive this way, especially if you want to take the
+  risk of leaving some shotgunners alive, in order to get back
+  before the blue door closes. Also, I use mostly chaingun while
+  stx-vile uses rockets. I don’t know which one is faster, but
+  using rockets looks super risky and seems somewhat
+  counterintuitive. Because of those time losses, I think a time
+  of around 1:37 would be quite possible.
+
+  Jim “Xit Vono” Leonard
+  xit_vono@yahoo.com

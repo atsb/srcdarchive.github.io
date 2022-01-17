@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RF26-038.TXT
+
+ RF26-038.ZIP
+
+  RF26-038.LMP - UV -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 26 - Excoriation
+
+  Kills    100%
+  Items      0%           +++++++++
+  Secrets  100%  and Time + 00:38 +
+                          +++++++++
+                          
+  Description:
+ 
+  Just copying the max route
+  First exit that I feel is good
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

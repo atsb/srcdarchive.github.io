@@ -1,0 +1,31 @@
+    
+      
+  **      			    ** 
+  * This is a DooM .LMP COOP-N entry *
+  ** 				    **
+     
+
+
+  Green:    Jakub "method_man" Razák  <dale007@volny.cz>  - cf03m107.lmp
+  Indigo:   Jakub "DooMerMan" Machata <kuba-m@seznam.cz>  - cf03d107.lmp   
+
+  game:         DooM ][ v1.9
+  category:     coop fast
+  level:        03
+
+                ********
+  time:         * 1:07 *
+                ********   
+
+  results:      kills      items      secrets
+    GREEN        23%         0%           0%    (method_man)
+    INDIGO       65%        20%         100%    (DooMerMan)
+
+
+  description  : I love this map. We play on ZONE,
+  (method_man) : such that excuse me my drops :-)
+
+  description  : It took as some about 10 minutes,
+  (DooMerMan)  : I have message for BFG - "thank you much!" :-)
+                 
+                            

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA10-028.TXT
+PA10-028.ZIP
+PA10-028.LMP - Pacifist style !
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 10
+
+Kills      5%
+Items     14%               +++++++++
+Secrets    5%  and Time     + 00:28 +
+                            +++++++++
+
+Description:
+
+Uff, needed luck, especially the exit part, installing monster
+teleports with Cybie here was not good idea really.
+
+I also included one more file into this zip, much interesting I
+think, is it map10 done pacifist, just watch the health during
+exiting/intermission - its RECHARGING ! :)) -> pa10cool.lmp !
+
+Author: Vaclav Kunes
+Email : boltn1@hotmail.com

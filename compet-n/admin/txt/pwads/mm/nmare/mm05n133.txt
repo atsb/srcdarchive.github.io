@@ -1,0 +1,57 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM05n133.TXT
+
+MM05n133.ZIP
+
+MM05n133.LMP - Nightmare Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 05 - Hell's Kitchen
+
+Kills       33%
+Items        8%
+Secrets     50%
+
+              ********
+  and Time -  * 1:33 *
+              ********
+
+
+Description:
+
+Heh, this one Erik Alm and I talked about, I think he decided to
+let me have the first shot at it though. Maybe because I begged?
+He still hasn't figured out how I get past the Demons and that
+Caco with no problems...I guess he'll find out won't he? ^_^
+
+Anyway, the run isn't that hard surprisingly enough. I made a
+last second decision to come back to the Megasphere, right as I
+would go into the Red room. Speaking of which, I always seemed
+to have trouble opening the bars. If I didn't have to actually
+"open" the bars I wouldn't be getting nailed by the Revenant
+behind me.
+
+I used the UV-speed trick, I think Oyvind Stenhaug found it, so
+I guess credit goes to him on the trick at the teleporter.
+
+The ending was basically the only place I died. I knew I needed
+a Chaingun and I totally forgot about the Chaingunner right
+outside the second Red room...those Arachnotrons always killed
+me. This is the first run I pick up a Chaingun...and my first
+successful run ^_^
+
+One thing I'm curious about...in my mm08s, I had a 1:52, and in
+my mm03s, I had a 1:52 on it. Then I did mm03n and got a 1:33,
+and now this with a 1:33....hmm....
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+25.04.2002

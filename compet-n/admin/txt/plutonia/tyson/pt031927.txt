@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PT031927.TXT
+
+ PT031927.ZIP
+
+  PT031927.LMP - Tyson!
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: Plutonia - Level 3 - Aztec
+
+  Kills      125%
+  (Items     100%)
+  Secrets    100%  and Time  19:27
+                             -----
+  Description :)
+
+  Ok, I gotta tell a story to go with this demo.  I fooled
+  around with savegames and found that this was not too bad,
+  so I decided I'd attempt it for real.  Then after a few
+  attempts I get a ok run that is 17:21, which is an ok time.
+  It was 100% kills, so I played back with timer to make sure
+  it says 0 alive, but then in the middle of the demo it starts
+  going crazy saying things like PAUSE and Green is Turbo.  If
+  you try to playback a TASdoom only demo with doom2 you'll know
+  what I'm talking about.  Then I tried timedemo, with the same
+  problem.  Then I just played back normally and it had the
+  problem too, so the lmp file must be bad.  Probably I ran out
+  of disk space while recording.  Anyways I was quite pissed
+  but I carried on and after a little while got this.
+
+  I had much luck in the red key area, getting the archie to
+  revive the same chainer at least 10 times without hurting
+  me or the archie, but finally I killed it.  Anyways I don't
+  think I would have any use for more bullets.  The blue key
+  area, as it usually is, was quite annoying in that the PE's
+  took a very long time to get around that wall so I could saw
+  them.  BTW, Timer plays correctly until you get near the end.
+  It will go down to 0 monsters alive, and then the player
+  falls down and wanders around until the demo is finished.
+  Enjoy! 
+  
+  Xit Vono
+  xit_vono@yahoo.com

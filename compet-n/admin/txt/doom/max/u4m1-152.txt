@@ -1,0 +1,31 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : u4m1-152, u4m1-152.txt
+Date     : 2013-09-27
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : Max
+Map(s)   : E4M1: Hell Beneath
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  61%
+Secrets  : 100%
+Time     : 00:01:52
+===================================
+Description:
+
+Ian's demo was very old but really strong. It was very rare that all five 
+barons gathered smoothly in front of a grate. I could get below 2 min mostly 
+if it occurred, but it was hard to beat his record. After some demos in 1:56 
+or 1:57, I obtained this record at last.
+
+
+88th Comepet-N Entry

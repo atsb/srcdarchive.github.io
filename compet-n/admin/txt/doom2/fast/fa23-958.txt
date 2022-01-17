@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA23-958.TXT
+
+ FA23-958.ZIP
+
+  FA23-958.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O' Fun"
+
+  With "-Skill 4 (and) -FAST"
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  09:58
+                           -----
+
+
+Description: This is somewhat harder than you might expect.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      Akllin95@student.umu.se
+
+

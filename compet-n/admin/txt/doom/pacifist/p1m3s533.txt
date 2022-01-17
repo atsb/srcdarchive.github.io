@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P1M3S533.TXT
+
+ P1M3S533.ZIP
+
+  P1M3S533.LMP - Pacifist!
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 1, Map 3 - Toxin Refinery - Secret Exit
+              
+  Kills       32%
+  (Items      49%)           ********
+  Secrets     71%  and Time  * 5:33 *
+                             ********
+  Description :)
+
+  I was looking for some stuff to do and thought I'd try this
+  one.  Not many people like to do these slow pacifist demos,
+  which is a shame because they're quite fun.  This demo is
+  far from optimal, but I think that a speedrun style demo
+  (under 1:30) would be a TAS only project.  I hope you enjoy
+  watching this as much as I did making it.
+
+  Xit Vono
+  xit_vono@yahoo.com

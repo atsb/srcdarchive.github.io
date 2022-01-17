@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL02-220.TXT
+
+ PL02-220.ZIP
+
+  PL02-220.LMP - Ultra Violence Max-kill
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Plutonia.wad -PlayDemo with Version 1.9
+
+  The Plutonia Experiment - Level 02 - Well of souls
+    
+  Kills    100%
+  (Items     0%)          
+  Secrets    0%  and Time  2:20 
+                        
+ 
+  Description:
+ 
+  Still room for improvement, especially at the ending. I guess 2:10
+  should be achievable if everything goes well.
+
+  Wim Vanrie
+  ElommolE@hotmail.com

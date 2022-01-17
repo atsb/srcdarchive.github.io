@@ -1,0 +1,19 @@
+PA21-114.TXT
+
+ PA21-114.ZIP
+
+  PA21-114.LMP - Pacifist style !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 21
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  01:14
+                           -----
+
+  Description:  [ None received. ]
+          
+       Author:  Thomas Pilger
+

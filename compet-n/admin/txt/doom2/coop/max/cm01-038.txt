@@ -1,0 +1,30 @@
+MA01NET2.TXT
+
+ MA01NET2.ZIP
+
+  2 players Cooperative - Ultra Violence - Max Kills & Secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - Entryway
+    
+            Kills Items Secrets
+
+  Green  -     44%   66%   60%
+  Indigo -     55%    0%   40%
+
+       and Time  0:38
+          ------------
+
+Description: Sorry Arno and Marko! This demo have been recorded 
+	     a few weeks ago but I didn't want to upload it.
+	     When I saw that our time is better...
+	     Nicolas is a little tired here. We certainly could grab
+             some seconds.
+
+Authors:     Green :  Vincent Catalaa
+                      peroxyd@wanadoo.fr
+
+             Indigo:  Nicolas Gandou
+		      ngandou@wanadoo.fr

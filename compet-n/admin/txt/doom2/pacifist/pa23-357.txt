@@ -1,0 +1,8 @@
+After a few dozen tries, I managed to finish MAP23 without killing
+a monster.  I did, however, punch a barrel that blocked the exit.
+Since the rules said nothing against punching/shooting barrels
+unless the explosion killed a monster, the lmp attached should
+be valid.
+
+Date  : 30.05.97
+Author: Patrick Martin (PM)

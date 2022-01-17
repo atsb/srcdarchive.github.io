@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV09-628.TXT
+
+ EV09-628.ZIP
+
+  EV09-628.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 09 - Stronghold
+
+  Kills    100%
+  Items     48%           
+  Secrets  100%  
+
+         ...and Time  6:28
+                     ------
+
+
+Description: It was easier than i expected. Maybe at the start is a bit 
+             harder, but then is it just fun. The optimal time could be
+             about 6:00 or so.
+            	     
+
+
+Author:  Radek Pecka
+E-mail:  r.master@email.cz
+

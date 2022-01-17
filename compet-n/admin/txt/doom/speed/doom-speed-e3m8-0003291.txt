@@ -1,0 +1,24 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom-speed-e3m8-0003291.lmp & doom-speed-e3m8-0003291.txt
+Date     : 2018-3-11
+Game     : Ultimate Doom
+Client   : Competition Doom V2.0.3.2
+Category : Speed
+Map(s)   : E3M8: Dis
+Skill    : 4 (Ultra-Violence)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 25%
+Items    : 0%
+Secrets  : 0% (No Secrets in Map)
+Time     : 32.91
+===================================
+Description: Gah, 2 seconds (sort of) beside Seldo's time, but funny enough, not shooting rockets behind got me a
+better time than my last attempts, then again, might be RNG damage and some slightly better straferunning that
+helped, otherwise, bah, guess I am not having the luck on me. I guess it can be worse, the time isn't so bad, but
+it can be much better even if by a few seconds.

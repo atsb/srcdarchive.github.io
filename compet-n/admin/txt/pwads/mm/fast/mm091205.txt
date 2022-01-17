@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+MM091205.TXT
+
+ MM091205.ZIP
+
+  MM091205.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 09 - High-Tech Grave
+
+  Kills    100%
+  Items     54%           *********
+  Secrets  100%  and Time * 12:05 *
+                          *********
+
+  Description :
+
+               The beggining can be hell if you want to do it fast on -fast.:) To get past                 the three Cacodemons is very luck dependent, the rest of the map is rather                  easy if you don't make big mistakes. That's funny because I wanted to record                for this map for a long time but allways thought that it's long and hard.                   Definately one of my favourites from ep1 so I'm happy that i could record the                first -fast demo for it.
+  
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

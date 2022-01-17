@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ02-030.TXT
+
+ RQ02-030.ZIP
+
+  RQ02-030.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 02 - Sacrificium
+        
+  Kills     30%
+  (Items   100%)          *********
+  Secrets    0%  and Time * 00:30 *
+                          *********
+                          
+
+  Description :-)
+  
+  Not a really good map for speedrunning...
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

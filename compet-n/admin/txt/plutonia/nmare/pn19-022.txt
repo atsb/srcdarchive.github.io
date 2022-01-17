@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+pn19-022.zip
+ pn19-022.lmp
+ pn19-022.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file plutonia.wad -playdemo pn19-022
+
+Plutonia - Level 19 - NME
+
+Category: Nightmare!
+
+Totals:
+
+Kills	  6%
+Items	  0%
+Secret	  0%
+
+Time    0:22
+
+
+Comments: 
+
+Same as UV but a second slower. It shouldn't really be 
+harder to play NM here, but the extra flack makes it
+more distracting. It seems a shame to replace Vile's
+incredible pn19-053 with a cheapshot glide, but the
+file will still be there for those who want it :-)
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+05/10/2006

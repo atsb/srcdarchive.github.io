@@ -1,0 +1,81 @@
+yThis is a Doom .LMP "Competition" Entry
+
+30nm3012.txt
+30nm3012.zip
+
+30nm3012.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - Full game on Nightmare! skill
+
+           Time  
+---------------------
+LV 01  -   0:06  
+LV 02  -   1:00  
+LV 03  -   0:35  
+LV 04  -   0:46  
+LV 05  -   0:39  
+LV 06  -   1:10  
+LV 07  -   0:57  
+LV 08  -   1:00  
+LV 09  -   1:00  
+LV 10  -   0:38  
+LV 11  -   0:46  
+LV 12  -   1:06  
+LV 13  -   1:34  
+LV 14  -   0:54  
+LV 15  -   0:37  
+LV 31  -   0:39  
+LV 16  -   0:44  
+LV 17  -   2:12  
+LV 18  -   0:32  
+LV 19  -   1:05  
+LV 20  -   0:42  
+LV 21  -   1:03  
+LV 22  -   1:16  
+LV 23  -   1:12  
+LV 24  -   1:00  
+LV 25  -   1:09  
+LV 26  -   1:11  
+LV 27  -   0:33  
+LV 28  -   0:53  
+LV 29  -   2:15  
+LV 30  -   0:58  
+---------------------
+Total     30:12  
+        ---------
+
+C-N entry #205, movie run #39.
+
+Under 30 mins is quite possible, as you can see.
+Had I gotten a faster map30 it would have happened.
+Oh well, it is guaranteed to happen eventually, so I'm
+already happy to have accomplished this much.  At
+least some time was shaved off from the previous run
+so this map30 doesn't look quite as ugly.  Now then,
+onto the real clincher for the sub-30 times: the new
+map27 route.
+
+It seems that even though the archvile will attack you
+immediately, he can still be coaxed into opening the
+door from outside the room if you're in the right
+position.  This tactic was even used in the earliest
+nightmare speed record using the archie trick.  So,
+go in, kill off the enemies, then teleport out.
+
+The real trick to this was knowing when the archie has
+opened the door... for me currently, it's impossible
+to tell directly until I get win98 and get sound back.
+However, when I practiced the route, I learned a good
+way to time it instead... from the moment I reach the
+corner to wait, I count off 7 seconds, then run for
+the exit.  I tried it on a whim this time and got lucky,
+and it payed off immensely.
+
+Anyway, perhaps the next 30nm you see, whether from me
+or Henning, will be past the mark. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

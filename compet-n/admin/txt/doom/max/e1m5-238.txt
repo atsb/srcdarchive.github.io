@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M5-238.TXT
+
+ E1M5-238.ZIP
+
+  E1M5-238.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+  
+  DooM - Episode 1 Mission 5 - Phobos Lab
+
+  Kills    100%
+  (Items    55%)
+  Secrets  100%    and Time  02:38
+                             -----
+
+Description: Well, i'm glad to see you here, John. I think, we could have
+             a good fight on this map. That's why i left a lot of space 
+             to improve for you. :)
+
+
+Author:   Radek "R.Master" Pecka
+E-Mail:   r.master@email.cz
+Doompage: http://doomers.zde.cz

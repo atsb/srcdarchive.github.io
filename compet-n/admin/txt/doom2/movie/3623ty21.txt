@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+3623TY21.TXT
+
+ 3623TY21.ZIP
+
+  3623TY21.LMP - I'm Too Young to Die (Damn right!)
+
+  This is a Compet-n/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - "Episode 3" - Levels 21 to 30
+                                                    Under
+                                              Par   /Over
+            Kills Items Secrets And  TIME!!   Time   Par   Diff:
+
+  LV 21  -     60%   72%    0%       2:20     4:00  Under  -1:40
+  LV 22  -     85%   16%   66%       2:24     2:30  Under  -0:06
+  LV 23  -     78%   65%   50%       3:02     3:00   Over  +0:02
+  LV 24  -     18%    0%    0%       3:26     2:30   Over  +0:56
+  LV 25  -     57%   50%    0%       2:06     2:30  Under  -0:24
+  LV 26  -     64%   46%    0%       3:28     5:00  Under  -1:32
+  LV 27  -     45%   16%   25%       4:49     5:30  Under  -0:41
+  LV 28  -     37%   50%   14%       2:56     7:00  Under  -4:04
+  LV 29  -     85%   84%    0%       8:21     5:00   Over  +3:21
+  LV 30  -   1600%   80%    0%       3:31     3:00   Over  +0:31
+
+                     Total Time =   32:263   38:120
+                                    32:+     38:+
+                                     4:23     2:00
+                                    -----    -----
+                     TOTAL TIME =   36:23    40:00  Under  -3:37
+                                   -------
+
+  Description :-)
+
+  There is a long pause at the beginning of level 29.  That was when
+  someone called. I had to go downstairs, pick up the phone and blow
+  the person off nicely. (Saying "Shut up, I'm playing DooM" isn't a
+  good excuse, at least not in the .US)
+
+ Steven Towle
+
+ stevet3@ix.netcom.com
+
+

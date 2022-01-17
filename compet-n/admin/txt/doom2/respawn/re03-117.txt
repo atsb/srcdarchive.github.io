@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE03-117.ZIP
+
+ RE03-117.LMP
+
+  RE03-117.TXT -Ultra-Violence -Respawn
+
+  Recorded using "DooM 2 v1.9" ! (Complevel 2)
+  DooM2 -PlayDemo with Version 1.9
+
+  Hell on Earth - Level 03 - The Gauntlet 
+
+  Kills:   78 / 78  (100%)
+  Items:    1 / 9   (11%)            ********
+  Secrets:  1 / 1   (100%) and Time  * 1:17 *
+                                     ********
+  C-N entry #47.	Date: 09.03.2013
+
+  Description :)
+  You know there's something wrong when the UV -respawn record only beats
+  the UV -fast record by one second and that's not even to mention that the
+  UV MAX record is 10 seconds faster. So much for "It was stupid for
+  respawn to be slower than max, so I had to change it."
+
+  No fx! I had to change it! Not you! I!
+    
+     
+  By the way, COMPET-N record was 1:29 by Zvonimir "fx" Buzanic, timestamped:
+  Tuesday, September 05, 2000, 5:13:58 AM.
+
+  Complete Historic COMPET-N Leaderboard:
+  RE03-307 - Thomas Kroppen   - 12.10.1997
+  RE03-207 - Thomas Pilger    - 12.01.1998
+  RE03-157 - Steffen Udluft   - 21.01.1998
+  RE03-144 - Thomas Pilger    - 08.03.1998
+  RE03-140 - Jan Endre Jansen - 21.09.1998
+  RE03-137 - Adam Williamson  - 08.07.1999
+  RE03-134 - Zvonimir Buzanic - 25.09.1999
+  RE03-133 - Henning Skogsto  - 04.09.1999
+  RE03-129 - Zvonimir Buzanic - 05.09.2000
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

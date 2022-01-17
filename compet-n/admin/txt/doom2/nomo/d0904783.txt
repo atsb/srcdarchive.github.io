@@ -1,0 +1,15 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map09
+Skill:		Ultra-Violence (if someone cares :-D)
+
+Time:           0:47.83
+
+
+Comments:       Heh funny... I remember back with the legacy source port, I grinded so bad for
+		49seconds, then I played with vanilla and I had problems with 49sec, about 2 months
+		ago. Today morning I woke up and first try: 48seconds. This evening I try again 
+		and 3rd exit is this (4th exit today). S40 only :)
+

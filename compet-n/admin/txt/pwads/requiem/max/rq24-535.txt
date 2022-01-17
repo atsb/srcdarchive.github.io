@@ -1,0 +1,39 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Filename: rq24-535.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP24 - Procrustes Chambers        |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     60%           ********         |
+            |      Secrets  100%  and Time * 5:35 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Things didn't went as planned... First, I picked up that chainsaw      |
+| accidentally, normally I don't use it. Second, I forgot to open the    |
+| door to the PE room to awaken them (at 2:14). They should form sort of |
+| blockade at the entrance and it is easy to punch them. Ugly ugly ugly  |
+| demo. Not happy with the looks, very happy with the time.              |
+| Thanks to skepticist for indirect inspiration. If you beat me by just  |
+| one second, please share your demo, this is ugliness...                |
+|                                                                        |
++========================================================================+

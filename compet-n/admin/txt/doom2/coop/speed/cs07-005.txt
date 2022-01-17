@@ -1,0 +1,61 @@
+=> This is a DooM .LMP Compet-N Entry <=
+
+CS07-005.TXT
+
+  CS07-005.ZIP
+
+    CS07O005.LMP - Ultra-Violence from player 1's perspective
+    CS07N005.LMP - Ultra-Violence from player 2's perspective
+
+    Recorded using Doom2 Version 1.9
+
+    doom2 -playdemo with version 1.9
+
+    Doom2 - Level 7 - "Dead Simple"
+  
+              Kills   Items    Secrets
+    Green     0%      14%      0%      ocelot
+    Indigo    0%       0%      0%      N.C.
+  
+       and Time: 00:05
+                 =====
+
+Comments:
+
+  [ ocelot: ]
+
+  Nice working with ya N.C., I'm looking forward to doing some more
+  coop stuff with you in the future.
+
+  [ N.C.: ]
+
+  Well, one late December evening (or early morning, perhaps more
+  precisely), Ocelot asked me if I was interested in trying to improve
+  a certain co-op record from a couple of years back. Since it turned
+  out that the run would need us to perform a trick, involving me
+  blasting Ocelot full force in the back with my SSG (I never get to
+  do that enough when deathmatching him), I decided it sounded like
+  fun. And it was.
+
+  This is, by the way, my very first Compet-N effort. When we might see
+  the next one, however, I really don't know...
+
+  Anyway... All in all, these lumps required about 45 minutes of work.
+  We started by taking a glance at AdamH's and Sedlo's 6 second effort,
+  then practised the run in -nomonsters for a while, after which we
+  moved on to the real deal. Eventually, we ended up with this 5.71 sec
+  run. We played over an emulated IPX connection courtesy of the MSN
+  Gaming Zone, and our ping at the time was approximately 20 ms.
+
+  Enjoy.
+
+  Authors:
+
+  Juho Ruohonen
+  e-mail: ocelot_78@hotmail.com
+
+  Kim Lundqvist
+  e-mail: nc513@hotmail.com (always over quota)
+  ICQ#:   72686989
+  IRCnet: #nightmare
+ 

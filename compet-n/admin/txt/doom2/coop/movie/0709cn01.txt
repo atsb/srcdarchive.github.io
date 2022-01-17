@@ -1,0 +1,27 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: episode 1 Nightmare! speed
+
+   Level       Time         
+--------------------
+   MAP01       0:10
+   MAP02       0:45
+   MAP03       0:42
+   MAP04       0:37
+   MAP05       0:38
+   MAP06       1:21
+   MAP07       0:30
+   MAP08       0:31
+   MAP09       1:09
+   MAP10       0:46
+-------------------
+   Total       7:09
+
+xit-vono : Vincent wanted me to get the medkit in map10.  If I knew it would
+           be this fast I would have skipped it.
+
+Vincent : hehe, just 2s faster than ocey, but he probably spend much more time doing his run.

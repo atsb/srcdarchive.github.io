@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF133316.TXT
+
+ HF133316.ZIP
+
+  HF133316.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 13 - Last Look At Eden
+
+  Kills    107%
+  (Items    69%)          
+  Secrets  100%  and Time = 33:16 
+                          
+                          
+  Description: This was not easy to get. Worst part is the start, where
+               you're a puny little weakling up against a pack of
+               schoolyard bullies. One mistake, or just bad luck, will
+               kill you. Fortunately they're very dumb and
+               will happily kill each other. I came up with a good
+               technique to get rid of the barons in the towers (the
+               cacos helped out nicely :) which makes the next bit not
+               so annoying.
+  
+
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com
+  

@@ -1,0 +1,13 @@
+Author:    Esko Koskimaa
+E-mail:    koskimaa@cs.helsinki.fi
+Skill:     5
+Category:  Nightmare!
+Game:      Doom ][
+Map:       9 (The Pit)
+Time:      03:08
+
+
+A nice map to play it on Nightmare, long enough to be challenging, but
+still very playable. Reaching the blue key can be a bit troublesome,
+also the pigs at the yellow key area are dangerous, but overall much
+easier than I had thought.

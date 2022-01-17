@@ -1,0 +1,24 @@
+This is a DooM "COMPET-N" entry.
+
+N1S7-218.TXT
+
+ N1S7-218.ZIP
+
+  N1S7-218.LMP - NightMare! with 100% secrets
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 1 - Mission 7 - Computer Station
+
+  Kills     89%
+  (Items    41)
+  Secrets  100%  and Time  02:18
+                           -----
+
+    Description:  One of my favorite maps.
+
+         Author:  Steffen "Rini" Udluft
+
+         E-mail:  rini@mppmu.mpg.de
+

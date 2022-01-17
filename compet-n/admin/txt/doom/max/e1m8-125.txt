@@ -1,0 +1,53 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E1M8-125.TXT
+
+ E1M8-125.ZIP
+
+  E1M8-125.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 1 - Knee Deep in the Dead
+
+  Mission 8 - Phobos Anomaly
+
+  Kills     ??% (100% except for end)
+  Items     ??%		   ********	
+  Secrets  100%  and Time  * 1:25 * (last movement but I
+			   ********  die some seconds later)
+
+
+Description: A fun map, and also a very famous one. Do you remember your first
+	     time you've met the Barons? I do, they scratched me even though I
+	     attacked them with Chainsaw!!! Incredible strong monsters! I died
+	     often when starting with pistol (rockets were easier :). Today,
+	     when people punch fast Cyberdemons (I don't, btw), it's just a
+	     a reminder that we all started with being scared by Imps :)
+	     I just wanted a time in the 1:30, PAR is 0:30, btw. Just to have
+	     some others play that map too. I think one could play this map
+	     about 10 seconds faster, when you only hit the Barons (maybe hide
+	     in their caves?) and kill all the Spectres while waiting for the
+	     stair to be built. The only secret is the Supercharge in this map.
+	     You know when you got it (unlike u4m1 :)
+	     Please feel free to play this map, that's why it's just an average
+	     to good time.
+	     There are 41 monsters in this map, 26 of the mare supposed to be
+	     killed. I got these 10 Spectres, 14 Demons and 2 Barons, there
+	     are 4 more Demons, 6 Sergeants and 5 Imps in the last room, at
+	     least two of the Sergeants died too. Anyone ever managed to kill
+	     them all?
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

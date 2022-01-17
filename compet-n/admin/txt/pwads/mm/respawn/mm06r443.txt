@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM06r443.TXT
+
+ MM06r443.ZIP
+
+  MM06r443.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 06 - The Powerstation
+
+  Kills      101%
+  Items       38%            
+  Secrets    100%  and Time: 4:43 
+                             ==== 
+
+  Description :-)
+
+  2nd COMPET-N entry.
+
+  "Memento Mori" is my very favourite WAD and this map is one of my 
+  favourite maps in "Memento Mori", so I loved making a demo for it! 
+  Even if it is purely table filler material... ;-)
+
+  This level is great fun to play, and it is one that "works" (sort 
+  of) with the -respawn parameter. You're better off concentrating on 
+  the packs of lightweight monsters, and just leaving most of the 
+  bigger monsters alone, since you pass over your steps numerous 
+  times. Played this one through from memory, pretty much...
+
+  I was aiming for a time below 5:00, which didn't take long, although 
+  I did have several attempts with better exit times (4:30-ish) but with 
+  less than 100% kills. When you leave as much behind as I do here 
+  you're bound to get only 9x% kills most of the time.
+
+  Kristian Ronge
+  zuckuss@gmail.com

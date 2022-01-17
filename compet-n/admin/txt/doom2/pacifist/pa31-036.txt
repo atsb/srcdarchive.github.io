@@ -1,0 +1,27 @@
+[ This is a COMPET-N speed entry played with pacifist style. ]
+
+LV31-036.TXT
+
+ LV31-036.ZIP
+
+  LV31-036.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - "Wolfenstein"
+
+  Kills     17%
+  (Items     0)
+  Secrets    0%  and Time  00:36
+                           -----
+
+
+Description: Just another entry...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

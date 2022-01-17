@@ -1,0 +1,29 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      10
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      18:12
+
+Author	   j4rio
+
+Yesh, I felt like
+putting up with dosbox
+again. Because there's
+so much honor in dealing
+with rocketscience of
+setting it up, distorted
+spinning at startup, 
+ocassional freezing up of 
+a frame or two and so on.
+Map sucks for this category,
+demo sucks partly because
+there's pretty much nothing
+exciting happenning and on
+top of all that I sucked 
+at playing it, although 
+it's still almost twice as 
+fast as previous tablefiller. 
+I even left with a truckload 
+of bullets. Blah.

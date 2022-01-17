@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM04-255.TXT
+
+MM04-255.ZIP
+
+MM04-255.LMP
+MM04GRAB.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 04 - The Stand
+      
+Kills       55%
+Items       20%
+Secrets     33%
+
+              ********
+  and Time -  * 2:55 *
+              ********
+
+
+Description:
+
+Under 3 minutes like I was aiming for. ^^
+
+Under 2:30 is possible, if you have everything go perfectly...it could go even
+faster than that I'm sure.
+
+I included a nice trick demo (mm04grab) using an SSG grab. I was doing it on
+accident on rare occasion. You have to walk along the edge and bump it just
+right. I was hoping that I could pull the grab off on a successful run, but
+that never happened as when I did it the Hell Knights would be blocking my
+access to the Blue Key and I'd die, or something else would happen and I'd
+screw up. Anyway, combining the SSG grab and a perfect run, as I said, it could
+go under 2:30, probably faster than that.
+
+Not much else to say really, other than I was working on this one for a few days
+to get a time that I liked. I also still like this map quite a bit. It's my
+favorite map of the three by Jens Neilsen ^_^
+
+Oh yeah...one more thing. Those Yellow Key Barons can be fatal ;)
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+16.02.2003

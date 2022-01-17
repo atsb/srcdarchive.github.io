@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV15-035.TXT
+
+ LV15-035.ZIP
+
+  LV15-035.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 (Only?) [ NOT ;-) ]
+
+  Doom2 - Level 15 - Industrial Zone
+
+  Kills      5%
+  (Items    12)
+  Secrets   18%  and Time  00:35
+                           -----
+
+
+Description: I think Yonatan Donner was the first who recorded the
+             button press that way (0:41). TZ did it in 0:38, and that was
+             a fairly good time. During this session I had around 6 times
+             the same time, then I decided to slightly change the location
+             I use the BFG. You have to wait until the Baron comes out and
+             hope that the Pain Elemental retires. No problems at the stair,
+             that's why I did it that way. And, of course, the Imp in the
+             secret passage way doesn't want to get in your way.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle (/doom.html)
+
+

@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+ES31-156.TXT
+
+ ES31-156.ZIP
+
+  ES31-156.LMP - Nightmare 100% Secrets
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM -file tnt31.wad
+
+  Final DooM - TNT Evilution - Level 31
+
+  Kills     ??%
+  (Items    ??%)
+  Secrets  100%  and Time  01:56
+                           -----
+
+  Description :-)
+
+	I got 2:01 with the soulsphere, but i noticed that it is not 
+        a secret. So that helped to break the 2:00. (althought under 2:00
+        is possible even with the sphere)
+       
+	I'd bet that 1:45 is possible. 
+	
+  Vincent Catalaa
+  vincentDS@netcourrier.com

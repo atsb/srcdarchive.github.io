@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm311732.TXT
+
+ mm311732.ZIP
+
+  mm311732.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 31 – UV Fast
+
+This demo is pretty slow. This is because there is practically no armor in the level and a bunch of hitscanners, so it's justifiable. A bunch of the strategies I use are taken from Xit Vono's NM Speeds of the level, so it can look a bit similar in places. I end up losing a bit of time because I miss a shotgunner (and know it) so I end up waiting for him to come out. After getting the soulsphere, I tried saving as much health as possible, so I could survive the 25-demon fight with practically no coverage. Everything's pretty easy after that, though. Still faster than Migru's max through the first half of the level.
+
+Author: Revved

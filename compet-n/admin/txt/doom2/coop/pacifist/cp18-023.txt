@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop pacifist
+mission:  map18
+
+time:     0:23
+
+Vincent:  nasty wimp on the way
+
+xit-vono: Pretty easy compared to 22 UV.
+
+
+          

@@ -1,0 +1,36 @@
+EP4-3945.TXT
+
+ EP4-3945.ZIP
+
+  EP4-3945.LMP - Episode 4 - Ultra Violence
+                   100% kills and secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only
+
+                            
+  Level    Kills  Items Secrets    Time   
+  -------------------------------------
+  e4m1  -   100%   100%   100%     3:50
+  e4m2  -   100%    63%   100%     5:09
+  e4m9  -   100%    57%   100%     5:22
+  e4m3  -   100%    80%    90%     5:37
+  e4m4  -   100%    69%   100%     2:14
+  e4m5  -   100%    41%   100%     4:51
+  e4m6  -   100%   100%   100%     7:59
+  e4m7  -   100%   100%    50%     4:43
+  -------------------------------------
+                     TOTAL TIME = 39:45
+                                  -----
+
+
+Description:
+
+Used a better selection of routes and managed to take off
+over 16 minutes off my previous time (and 7 of Ryback's).
+Made a bit of a mess of e4m6, lost time, almost died. E4m9
+was not too good. Relatively happy about the other times.
+
+
+Author: Joe Breen
+E-mail: joebreen@octa4.net.au

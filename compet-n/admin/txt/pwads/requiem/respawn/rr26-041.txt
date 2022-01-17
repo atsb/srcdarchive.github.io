@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rr26-041.txt
+
+rr26-041.zip
+
+rr26-041.lmp - Ultra violence with -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 26 - Excoriation by Adam Windsor
+
+Kills    100%
+(Items     0%)
+Secrets  100%  and Time  00:41
+
+
+
+Description:
+
+At least under the max time.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

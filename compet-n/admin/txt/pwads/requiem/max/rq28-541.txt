@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ28-541.TXT
+
+ RQ28-541.ZIP
+
+  RQ28-541.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 28 - Fetals' Remains
+    
+  Kills    100%
+  (Items    85%)          *********
+  Secrets  100%  and Time * 05:41 *
+                          *********
+                          
+
+  Description :-)
+  
+  This map is very similar to Map24, except that the armor appears even later 
+  (!) and the monsters are more varied (there are only 6 Revenants instead of 
+  29). Ammo is still a problem if you don't want to waste time collecting dead 
+  guys' shotguns. The hardest part is of course the Arachnotrons/Barons/
+  Arch-Vile room but I think I handled it pretty well.
+
+  Rudy Jurjako
+  rudyj@total.net

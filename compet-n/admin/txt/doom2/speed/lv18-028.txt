@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV18-028.TXT
+
+ LV18-028.ZIP
+
+  LV18-028.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 18 - "The Courtyard"
+
+  Kills      0%
+  (Items    21)
+  Secrets    0%  and Time  00:28
+                           -----
+
+
+Description: This is: One fast level!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

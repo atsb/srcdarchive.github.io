@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm221051.TXT
+
+ mm221051.ZIP
+
+  mm221051.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 22 – UV Fast
+
+Basically a mix of the Max and NM records of this map. The imp area can be a bit weird in places, however I did it here. I wasn't sure how I managed to survive the soul sphere secret, I guess it just depends on luck and how you dodge the fireballs.The ending is weird, this is actually the first time I did the last room in -fast so I didn't know where to go, but somehow I figured it out.
+
+Author: Revved

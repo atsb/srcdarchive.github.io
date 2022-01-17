@@ -1,0 +1,12 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      6
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      6:31
+
+Author	   j4rio
+
+Average attempt.
+5:XX is doable.

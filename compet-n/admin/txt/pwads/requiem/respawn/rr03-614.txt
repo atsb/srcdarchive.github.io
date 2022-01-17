@@ -1,0 +1,29 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rr03-614.lmp & rr03-614.txt
+Date     : 2014-08-31 15:13
+Game     : Doom 2 & Requiem
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : MAP03: Poison Processing
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 108%
+Items    : 100%
+Secrets  : 100%
+Time     : 00:06:14:20
+===================================
+Description :-)
+
+Hi there, I finally plugged my DOS/Doom PC and enjoyed real Doom!
+This was my first 100% exit, I had 6:04 with 98% kills so that's
+why I was killing everything on my way at the end. This map is true
+poison, you can die anywhere so I played safe this one just to show
+a little bit different tactic and heh I din't play for ages.
+This was really easy to achive but good time would be ~5:20.

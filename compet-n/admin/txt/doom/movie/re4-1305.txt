@@ -1,0 +1,41 @@
+
+RE4-1305.TXT
+
+ RE4-1305.ZIP - Ultra Violence
+
+  RE4-1305.LMP - Whole Episode on Ultra Violence with Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only !
+
+  DooM - Episode 4 - Thy Flesh Consumed
+
+            Kills Items Secrets      Time    Health Armour
+
+  E4 M1  -     66%   66%   50%       1" 24     ( 35  77)
+  E4 M2  -     61%   63%   66%       1" 52     (155 123)
+  E4 M3  -     46%   20%    4%       1" 31     ( 66 140)
+  E4 M4  -     36%   43%    0%       0" 52     (134 106)
+  E4 M5  -     45%   17%    0%       1" 24     (172  57)
+  E4 M6  -    116%   50%   66%       4" 21     (100   0)
+  E4 M7  -     57%   77%   25%       1" 41     (158  82)
+  E4 M8  -     ??%   ??%   ??%   [ Excluded! - App. 2" 17 ]
+
+                     Total Time =    9" 245
+                                     9" +
+                                     4" 05
+                                    ------
+                     TOTAL TIME =   13" 05
+                                   --------
+
+  Description: This is not ment to be fast, I made it because it looks too
+               hard on Nightmare. But I do not beleive that doing this
+               episode 4 on Nightmare is harder than doing all the 32 maps
+               of Doom2.
+               Who wants to give it a try ?
+
+       Author: Steffen "Rini" Udluft
+
+       E-mail: rini@mppmu.mpg.de
+
+

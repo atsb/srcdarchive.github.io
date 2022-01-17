@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV02-437.TXT
+
+ EV02-437.ZIP
+
+  EV02-437.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 02 - Human BBQ
+
+  Kills    100%
+  (Items   100%) 
+  Secrets  100%  and Time = 4:37
+                          
+
+
+Description: It's quite nice map. Time could be below 4:30, i think.
+             
+
+Author:   Radek "R.Master" Pecka
+E-mail:   r.master@email.cz
+Doompage: http://doomers.zde.cz
+

@@ -1,0 +1,10 @@
+author:         Adam Hegyi
+
+game:           Ultimate DooM
+category:       nomonsters
+mission:        e1m4
+
+time:           0:12.34
+
+
+comments:       I'm pretty satisfied with this one...

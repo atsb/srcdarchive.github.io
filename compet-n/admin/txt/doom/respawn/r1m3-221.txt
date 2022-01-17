@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R1M3-221.TXT
+
+ R1M3-221.ZIP
+
+  R1M3-221.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 3 - Toxin Refinery
+
+  Kills    103%
+  Items     45%
+  Secrets  100% and Time - 2:21
+
+  Description:
+
+  I bet you weren't expecting this, were you? ;)
+  
+  Early this year, I discovered I was just two videos away from the 200 videos
+  on my YouTube channel, so I decided that for my 200th video, I'd try to get
+  another record in the Compet-n -- on an IWAD!  And not just the Final Doom
+  IWADs, either; I would go for one on none other than The Ultimate Doom!  So
+  here I am, with a demo that beats a UV -respawn record from 2000.  How about
+  that?
+  
+  Alas, it's an ugly-looking demo; there are several errors here and there.
+  Watch me attack the wall with a rocket, trying to kill monsters on an elevator
+  who turn out not to be there at all!  Watch me run against a raised floor at
+  the end trying to get on it rather than backing up first!  And so on.
+  This, however, was the fastest demo I was able to pull off today.  Oh, well!
+  
+  Still, I was able to beat Radek Pecka's 11-year-old record by six seconds,
+  /and/ I made a demo three seconds faster than Xit Vono's UV max demo,
+  fulfilling my maxim that a UV -respawn demo should always be faster than a max
+  one.  I utilized strategies from that max demo while practicing for this one,
+  and hopefully, it's paid off.  Enjoy!
+
+  Author: Eric "The Green Herring" Baker
+  E-mail: eabaker@san.rr.com
+
+  16.02.2012
+  
+  P.S. Fun fact: I recorded this on my 25th birthday.  Happy birthday to me!

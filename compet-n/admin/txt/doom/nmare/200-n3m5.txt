@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry
+
+200-N3M5.TXT
+
+ 200-N3M5.ZIP
+
+  200-N3M5.LMP - Nightmare
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 5 - Unholy Cathedral
+
+  Kills     28%
+  (Items    14%)
+  Secrets   20%  and Time  1:40
+
+                          ******
+  Maximum Minimum Health = 200 %
+                          ******
+
+  Description:  In his 100-n3m5 Robert wrote:
+                > I don't know if this entry is beatable. There is a secret
+                > room containing a soul sphere in the main room but I have
+                > no idea where the yellow key is.
+                This made me curious. I watched Eelco's e3m5-520
+                (Hi, Eelco very nice to have the first COMPET-N player back
+                in buiseness) and suddenly reckogniced this route.
+              
+                ... and what a NICE route that is:
+                - no danger of taking damage
+                - a supercharge and
+                - a plasma rifle for free!
+
+      Comment:  Don't expect me to compete any more, I will have simply
+                no time to do that in the near future - maybe next year.
+            
+         Date:  Oct 25 1998, 0:56 MEZ
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

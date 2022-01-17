@@ -1,0 +1,23 @@
+﻿| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom-speed-episode1-062114.lmp, doom-speed-episode1-062114.txt
+Date     : 2015-25-10 15:36
+Game     : Ultimate Doom
+Client   : cndoom.exe v2.0.3.1
+Category : Speed
+Map(s)   : E2M1 - E2M8
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : Diego Cea
+Nickname : TheProteh
+Country  : Spain
+Email    : daproteh@gmail.com
+WWW      : N/A
+-------------------------------------------------------------------------
+Kills    : N/A
+Items    : N/A
+Secrets  : N/A
+Time     : 00:06:21.14
+===================================
+
+This is my current best time for the episode 2 of Ultimate Doom. 

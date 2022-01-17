@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ061006.TXT
+
+ RQ061006.ZIP
+
+  RQ061006.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 06 - Natas Ot Etubirt
+
+  Kills    100%
+  (Items    75%)          *********
+  Secrets  100%  and Time * 10:06 *
+                          *********
+                          
+
+  Description :-)
+  
+  A very nice map with a big problem. 9 out of 10 tries, 2 or 3 imps refuse
+  to teleport. I think what is happening is that they somehow pass the
+  teleporting line and cannot get back? Played it for many many hours, I got
+  100% kills only twice! Luckily for me I got it in my fastest lmp. Due to the
+  time I spent on it, this is probably my best lmp..
+
+  Peo Sjoblom
+  peo.s@telia.com

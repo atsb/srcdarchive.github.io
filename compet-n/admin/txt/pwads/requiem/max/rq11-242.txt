@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq11-242.lmp & rq11-242.txt
+Date     : 2013-02-14 18:19
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV Max
+Map(s)   : Map11: Rats in the Walls, by Adam Windsor
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 100%
+Secrets  : 100%
+Time     : 00:02:42.23
+===================================
+Description:
+
+:-)

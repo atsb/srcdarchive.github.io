@@ -1,0 +1,42 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV30-447.TXT
+
+ EV30-447.ZIP
+
+  EV30-447.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 30 - Last Call
+
+  Kills    106%
+  Items    100%           *********
+  Secrets  100%  and Time *  4:47 *
+                          *********
+
+
+Description: 
+
+I checked the compet-n records sheet for this map and found no maxkills entry
+so I made this. Later on I saw that there was a lmp in the max directory
+"ev30-238.zip". 
+
+I couldn't beleive the time. I know this lmp is beatable but by over two
+minutes??
+
+When I had a look I found it wasn't a real maxkills lmp. Here's what Yonatan
+said
+
+> Ah well, I'd love to see a 100/100 entry for this, since as I said,
+> I just ran through...
+
+Ok, its been a long time coming but here 'tis.
+
+The start is nice with the colour coded blocks but I prefer a map30 to have
+less preamble than this - you know collect the weapons and head for the
+main room. Maybe thats why other people just play this for speed?
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

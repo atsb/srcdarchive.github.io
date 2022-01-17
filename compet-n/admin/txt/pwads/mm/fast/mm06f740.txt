@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM06F740.TXT
+
+ MM06F740.ZIP
+
+  MM06F740.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 06 - The Powerstation
+    
+  Kills    100%
+  (Items    86%)          
+  Secrets  100%  and Time = 07:40 
+                                                  
+
+  Description: My first -fast demo:) Played it safe, was trying not to lose control since                  that would probably be fatal.
+  
+  
+  Author: Tomas "DeDo" Kollar
+  Email: kollarant@stonline.sk

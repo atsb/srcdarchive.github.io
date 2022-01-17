@@ -1,0 +1,39 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV08NET2.TXT
+
+ UV08NET2.ZIP
+
+  UV08NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 08 - Tricks and Traps
+
+           Kills    Items   Secrets
+
+  Green      34       60       14
+  Grey       53       20       85
+
+  Time:    3:39
+
+
+Comment:        You have never enough ammo. You should have for Cacos, Pigs
+                Imps, Pain Elementals and one for the Barons. Forgotten to
+                wake up the Pig at the end, it should have been telefragged.
+                Only some seconds faster than DL.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+-----------
+Admin note:   Time actually is 3:37.11 :)
+

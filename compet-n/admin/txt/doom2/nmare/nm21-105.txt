@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM21-105.TXT
+
+ NM21-105.ZIP
+
+  NM21-105.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 21 - "Nirvana"
+
+  Kills      ?%
+  (Items     ?)
+  Secrets    ?%  and Time  01:05
+                           -----
+
+Description:  
+ 
+After making this level pacifist style in 1:27 I thought that 1:21 is not such
+a good time. This lmp looks much better.
+
+ 
+Istvan Pataki
+
+deity@balu.sch.bme.hu

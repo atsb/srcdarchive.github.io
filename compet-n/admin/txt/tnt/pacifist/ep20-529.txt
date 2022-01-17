@@ -1,0 +1,39 @@
+This is a Doom .LMP "Competition" Entry
+
+ep20-529.txt
+ep20-529.zip
+
+ep20-529.lmp 
+
+Recorded using Final Doom Version 1.9
+
+TNT Evilution - Level 20 - Central Processing
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       5:29
+=--------------=
+
+C-N entry #185.
+
+Took a break from attempting tn09
+(which I'm now convinced is quite
+possible, though still very hard)
+to give this a try.  This was my
+first attempt making it past the
+red key area so expect a little
+slop to mesh with the play here.
+The yellow key area had me stumped
+for a minute or so because of the
+bunched up monsters, so watching
+that part will be boring.  After
+that it's just like the speedrun.
+Feel free to try the archvile jump
+in this run, I didn't bother in this
+first success. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

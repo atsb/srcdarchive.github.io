@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV06-108.TXT
+
+ LV06-108.ZIP
+
+  LV06-108.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 06 - The Crusher
+
+  Kills     25%
+  (Items     5)
+  Secrets   33%  and Time  01:08
+                           -----
+
+
+Computer: P100/16MB/AWE32/Matrox Millenium (dasa's)
+
+Comments: While dasa was assembling his mother's new P133,
+          there was some time for me to record this.
+          Nice level for running-tricks ;-)
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+
+

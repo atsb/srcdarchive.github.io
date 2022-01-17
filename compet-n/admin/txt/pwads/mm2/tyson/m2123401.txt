@@ -1,0 +1,91 @@
+
+
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2123401.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP12
+Exe/Port used: Doom2 1.9
+
+  Kills    100%
+  (Items    95%)          *********
+  Secrets  100%  and Time * 34:01 *
+                          *********
+
+
+==============================================
+
+WARNING NOTE: very unusual Tyson run. I call it "pacifist Tyson", since some monsters must not be killed
+too early (cacodemons and a baron). The beginning is fast, the monsters die like flies (there are only 94 of
+them, including 6 lost souls). But when there are about 20 monsters left, it's SLOOOOOOW.
+To really appreciate the demo. try to beat the level by yourself :)
+
+==============================================
+
+The inspiration came from the text file by Gusta which corresponds to his Nightmare 100% secrets run (m212s052.lmp)
+I though it would go like this: "Go as fast as possible to the exit, but don't quit the level yet; pick up
+the berserk pack and go through the level once again, killing everyone. It'd be easy since health items
+are lying everywhere." But I soon realized that it was not going THAT easy...
+
+The problem is, you won't kill every monster using fists. Your arms are too short too reach that revenant in the cage
+or a baron on the ledge. OK, how about bullets? 50 at the start, 20 from the chaingun, 40 in ammo clips,
+35 from dead former humans and 50 from dead chaingunners (as only 5 chainguns out of 8 can be picked up). 50+20+40+35+50=195.
+Now to kill the baron you need about 100 bullets, 30 for the revenant, 100 for tons of imps and 70 for the arch-vile
+(we'll discuss the arch-vile later). So, heavy infighting is needed, plus using the pistol only when necessary.
+Let's see what we can do with each "unreachable / problematic" monster?
+
+* 6 imps in a big cage in front of the first door. They can be killed by the cacos. Very easy, it happens nearly every time.
+
+* 1 chaingunner on the left high above. If he gets into infighting, he usually kills my precious cacos, so it's better to kill
+him with pistol.
+
+* 1 chaingunner and 1 imp. If health is low and ammo is high, they can be killed "manually". Otherwise, don't waste bullets!
+
+* 10 imps surrounding 2 barons. The barons cannot pass certain linedefs and the imps are too high to rely on them fighting with
+the barons (possible, but risky = much health is needed). I prefer to kill the barons and allow another baron to kill the
+imps, because he can walk more freely.
+
+* 2 mancubi. One of them cannot move, so there is no big deal. The other one CAN be killed with fists, but...  there is very
+little space to manoeuvre, so, to put it simple, it's best when he's dead. The nearby chaingunner can do the task, and I always
+help him (see the demo). To spice the things up, there is also a caco which loves to interfere ;)
+In case the mancubus kills the chainee, I call a baron for help later.
+
+* 3 sergeants (one of them cannot move). The one which cannot move or shoot is actually the only monster which theoretically
+cannot be killed by infighting. The other two sometimes shoot the caco and die.
+
+* 1 chaingunner -> see "2 mancubi". All in all, it's better if the chainnee survives than the mancubus (70 HP and not 600)
+
+* 3 sergeants high above, gathered together. In this demo they all died (I don't now who killed them). Sometimes 1 or 2 survive.
+
+* 1 revenant. To be killed by a baron or a caco, with preference to the baron.
+
+* 1 baron on the ledge with two torches. The bullet-waster. He rarely dies, but weakening him is essential and can be done
+with cacos or even imps (the baron is a short-sighted one and likes to miss). When he is already fighting, you can shoot him,
+so he can forget his last target for a while.
+
+* 1 arch-vile. He can take some imp balls and also kill those imps (which are reachable but tricky, health is needed to punch
+them). After > 400 tries I realized the arch-vile actually CAN be reach with fists, when he stands the closest he can to the
+player. This demo shows at least 2 successful punches.
+
+==============================================
+
+OK, now knowing now the theory, let's see how it worked in the demo.
+
+The sergeants did little damage (good). After picking up the yellow key I prefer to make my way through a very slim ledge,
+but I fell down. No big deal, there is a teleporter which brings me back, I just don't want to telefrag the baron by
+mistake. Before going through the yellow door I provoke a little infighting. Behind the yellow key door there is a typical
+manoeuvre to kill the mancubus. Watch it carefully! The mancubus died (good). The caco survived (good). The chainee survived
+(bad). Then, having obtained the blue key in the process, I run to the exit... erm, to the berserk pack.
+I kill the caco (it's possible to telefrag him, but it went wonderfully in the demo, since I punched him to death
+taking no damage! - it rarely happens). Then, another typical scene can be observed, "killing" the imps in the cage (at least
+some of them). All of a sudden, a caco performs a glide :) (going through that ultra-slim door). I punish him for that,
+because it's uneasy to bring him back to play. The next part is trying to kill the revenant and weaken the baron on the
+ledge, while killing everyone else. I got hit twice by the rev, but all is well that ends well, both tasks were accomplished.
+After clearing the area (more or less), I clear the area behind the yellow door as well, to invite the "mobile" baron
+there, so he cannot disturb me when I'm busy killing the other two barons... The rest is simple: there is an arch-vile left + 2
+barons + 1 baron + imps. I have plenty of ammo and health but, after many unsuccessful tries, I didn't want to press my luck.
+When my health dropped to 24% (any imp fireball could kill me), I even decided to kill the imps below the arch-vile
+by pistol. You can imagine how panicked I was. 
+
+So, the time sucks but the demo shows it is possible to beat this level Tyson-style.
+vdgg

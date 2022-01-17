@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL11-301.TXT
+
+ PL11-301.ZIP
+
+  PL11-301.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 11 - Hunted
+   
+  Kills     77%
+  Items     81%            ********
+  Secrets  100%  and Time  * 3:01 *
+                           ********
+
+
+  Description :-)
+
+  Another map I've played before (besides 10, 24 and 31). It was easier to
+  remember the maze than for the others to learn it. Tried different routes,
+  started with 30 seconds off my best time (-fast monsters ;), and wondered
+  even that I couldn't reach the my previous COMPET-N record. But the critical
+  point here is that you've got to kill _all_ Archviles from _closest_ range,
+  best at a corner, where you can show yourself, have them start firing at you,
+  and blast them out of your sight ;) Unfortunately I haven't hit any archvile
+  at the exit, and had still 100% at the exit, which takes much longer to 
+  die. But the second-to-last Archvile was too much irritated when I fired 
+  at him to make me jump.
+
+  Kai-Uwe Humpert
+  gazelle@cs.tu-berlin.de

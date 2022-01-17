@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ09-621.TXT
+
+ RQ09-621.ZIP
+
+  RQ09-621.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 09 - Deep Down Below
+
+  Kills    100%
+  (Items     4%)          *********
+  Secrets  100%  and Time * 06:21 *
+                          *********
+                          
+
+  Description :-)
+  
+  This map is very fun to play: it features some very original fights and areas,
+  like the Red Key chase. Unfortunately, it is plagued with 3 bugs or annoyances
+  which lessen the fun you can get of speed-running that map. First, my mildest 
+  gripe is that it is easy to forget a monster in the Tech Base area behind the 
+  Blue Key door. But with practice, this becomes less of a concern. Second
+  complaint: there is a bug in the Red Key area that prevents one of the bridge
+  from rising about 2 times out of 5. Specifically, it's the bridge activated by
+  the switch in the Imps room (the one with 2 Imps and a Demon). I've looked at
+  it with DCK but I couldn't figure out what caused it. And finally, another 2/5
+  of the time one of the 2 end Barons will not teleport. I know what this is
+  caused by (the first baron teleports then moves over the 2nd Baron's teleport
+  exit thus preventing him from teleporting), but that doesn't help very much as
+  Doom monsters are known for their randomness...
+
+  Rudy Jurjako
+  rudyj@total.net

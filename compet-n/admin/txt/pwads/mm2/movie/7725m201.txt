@@ -1,0 +1,61 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+7725m201.TXT
+
+ 7725m201.ZIP
+
+  7725m201.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad -playdemo with version 1.9
+
+  Memento Mori 2 – Episode 1 – UV Max
+
+Now this was a demo that was long overdue. I actually started plans sometime after the start of this year, but for some reason, I never had the courage to actually do it until now. I wasn't really playing in the most quiet environment, so I end up making some mistakes that could've been resolved had I recorded at another time.
+
+                            Time     Kills      Secrets 
+---------------------------------------------------------
+01 – Outpost                1:56      100%        100%
+02 – The Feeding Pit        1:20      100%        100%
+03 - ...And Hell Beneath    6:28      100%        100%
+04 – Ratamahatta            7:12      100%        100%
+05 – Rites of Passage       9:11      100%        100%
+06 – Trapped               12:20      100%        100%
+07 – Frustration            8:48      100%        100%
+08 – Stigmata               7:41      100%        100%
+09 – Sabbath Sewer         16:48      100%        100%
+10 – Clear For Death        5:41      100%        100%
+---------------------------------------------------------
+Total                    1:17:25
+
+01 – Outpost
+Basically, I try to go as fast as I can while still being safe to allow more chance of surviving. A nice casual start to an hour-long run.
+
+02 – The Feeding Pit
+This is better, however. Other than the tiny mistake here and there, I'm fine with this level.
+
+03 - ...And Hell Beneath
+These first few levels I try to go really fast on simply because at the time, I simply wanted the run to be over with, so I try to go my fastest. This means I don't kill all the imps when they teleport out of the pentagram, among other things.
+
+04 – Ratamahatta
+A part of the level reminds me of Downer from Requiem. That part happens to be the part with all the little stairs, which to me is really similar. There's also the crushers which make me a tad nervous, but I pulled through and made it out. I also made a mistake near the end where I fell off a platform and had to use a teleport to go back on.
+
+05 – Rites of Passage
+I end up wasting time simply to get ammo which I can use for the next level. I made the weird mistake of letting a couple of imps out before getting the red key and I struggle a bit. I also made a foolish mistake of going out to far to release cacodemons which infight with hell knights and end up going on the rising platform and they didn't really infight.
+
+06 – Trapped
+This is pretty easy for me now that I hold the -fast record for this level, but even easier in a consecutive playthrough. Because of this, I end up using riskier strategies, and I definitely have enough health to survive this time.
+
+07 – Frustration
+Finally, we get the rocket launcher in this level! That door can really be a pain. You just have to hope it raises high enough. One of the areas doesn't fully raise so I stumble around hoping I can open it, but thankfully, it happens. Other than that, the level goes fine.
+
+08 – Stigmata
+A nice level with a high population density. I end up going slow especially near the end when I wait for all the monsters to teleport in, as well as making sure all of them have teleported. There's also a set of barrels I end up shooting up high so I don't die.
+
+09 – Sabbath Sewer
+I hold the -fast record for this as well, so it's another breeze for me. Nothing that's really of note here, except for the yellow key part, where I end up with 12% health, thanks to a couple of revenants. Good thing there was a megasphere nearby. :) I also managed to punch a couple of barons to death thanks to the invulnerability.
+
+10 – Clear for Death
+A short, easy level. This is faster than the single-level record because of the arsenal I've acquired from the previous levels. I had a failed attempt here where I went too fast and ended up getting bit to death by the spectres so I had to be safe on the Pain Elementals this time, but I still made it.
+
+Author: Revved

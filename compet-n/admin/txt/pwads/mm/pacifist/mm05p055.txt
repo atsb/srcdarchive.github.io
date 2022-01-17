@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+MM05p055.TXT
+
+ MM05p055.ZIP
+
+  MM05p055.LMP - Pacifist Style!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 05 - Hell's Kitchen
+
+  Kills      ?%
+  Items      ?%            ********
+  Secrets    ?%  and Time  * 0:55 *
+                           ********
+
+  Description :-)
+
+   Oyvind wrote:
+  > I use the same route here as in mm05-050. Some more
+  > luck is needed with monster placement.
+  > I had a really good attempt where I was able to get
+  > past the first demons without getting stuck at all,
+  > but unfortunately the caco/arachnos in the final room
+  > wouldn't let me past (see mp05-103.lmp)
+  
+  As Oyvind said, this run is very dependant on monster cooperation,
+  I had five 0:59 runs before this one came along... it's mostly luck. I could probably
+  have stayed on the ledge for the switch from above trick to save another second 
+  or so.
+
+  Erik Alm
+  erik_a80@hotmail.com

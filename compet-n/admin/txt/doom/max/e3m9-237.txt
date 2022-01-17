@@ -1,0 +1,56 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E3M9-237.TXT
+
+ E3M9-237.ZIP
+
+  E3M9-237.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno
+
+  Mission 9 - Warrrens
+
+  Kills    100%
+  Items     66%		   ********	
+  Secrets  100%  and Time  * 2:37 *
+                           ********
+
+
+Description:	Because I had mentioned this map in e2m9-051.txt, I thought
+		I should see which time I would get today.
+		First I simply improved Peo's previous record with a 3:06.
+		Then I thought, why don't beat 3 minutes. I got a 2:59
+		with the 5th try, and wrote in the .txt that I'll leave it
+		to others to improve this further. But why not do that
+		myself? After 10 more tries I got the first better than 2:54,
+		this one. There are some lucky scenes: I leave the Cyberdemon
+		with 38 rockets, maybe because I missed only a few and most
+		of the rest hit him in the middle, at the Chainsaw one rocket
+		I thought I should fire to the second group of spectres hit
+		the 3rd group because of a sudden turn as I realized that the
+		2nd group is already dead, the Cacos at the Plasmagun took
+		only few rockets, but most important is that the 2 Cacos and
+		the two remaining Imps (the 3rd one was killed, you can here
+		the "awaken" sound of a Caco when I pass the door to the pigs)
+		I decided to do it my way in the Seargents area, I dunno which
+		one is better, Peo's or mine, but at least it looks fine to
+		have a lot of Seargents glowing green. Sometimes I need only
+		2 BFG for the Barons. I doubt that PAR will be possible, I
+		might try it if you give me BFG and extra 40 cells to kill the
+		Cyberdemon much faster :).
+		Last: This LMP is ONE minute faster than my old record!
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

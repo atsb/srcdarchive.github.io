@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M221-333.TXT
+
+M221-333.ZIP
+
+M221-333.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 26 - Sanctuary by Andy Badorek
+      
+Kills       25%
+Items       37%
+Secrets     16%	and Time - 3:33 
+
+
+Description:
+
+Couple days ago I saw the only speedrun demo for this level by Casey. It costs him near 40 seconds (if it counts from the maze entrance) to lower the platform with blue skullkey. But both the key and the switch is within player's sight. I've took a look around... damn, there're no viles! (joke)  At first I've tried to use "switch from slime". Then I've opened the map in zeth and... Thanks Andy for an invaluable trigger. I think that he made this intentionally. But who knows?
+
+It's my first exit, sorry. I've very not exactly known monsters placement. I've thought revenants's pack is over but they carry on attack me. In next weeks I'll have more free time and try redoing the run. I'm not sure that I can cut off more than 15 - 20 seconds.
+
+Thanks Casey for the route beyond first twin door.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net

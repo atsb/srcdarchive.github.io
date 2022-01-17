@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm01f118.TXT
+
+mm01f118.ZIP
+
+mm01f118.LMP - UV -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 01 - The Teleporter by Michiel Rutting and Denis Moeller
+      
+Kills      100%
+Items       17%
+Secrets    100%	and Time - 1:18
+     
+
+Description:
+
+I've got a dozen of faster exits with 98% kills including 1:12. This is my third exit after two 1:21 ones.  
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+15.02.2008

@@ -1,0 +1,11 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Mission:        map25
+Time:           38.71
+
+Comments:       I can't believe I got .71... this is my first 38.
+                I used to play with the legacy source port and
+                back then I thought 38 is impossible.
+
+
+Author:         Looper

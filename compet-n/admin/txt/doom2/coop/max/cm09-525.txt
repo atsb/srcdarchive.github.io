@@ -1,0 +1,38 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV09NET2.TXT
+
+ UV09NET2.ZIP
+
+  UV09NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 09 -The Pit
+
+           Kills    Items   Secrets
+
+  Green      40       36        0
+  Grey       49       55      100
+
+  Time:    5:27
+
+
+Comment:        Very short on ammo. Need the rocket launcher first. The Pain
+                Elementals still don't spit. So they are easy with chainsaw.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+
+-----------
+Admin note:   Time is actually 5:25.68 :)
+

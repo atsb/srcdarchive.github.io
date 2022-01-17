@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV20-634.TXT
+
+ LV20-634.ZIP
+
+  LV20-634.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 20 - "Gotcha!"
+
+  Kills    100%
+  (Items    80)
+  Secrets  100%  and Time  06:34
+                           -----
+
+
+Description: Lots of secrets on this level, gotta plan it well.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

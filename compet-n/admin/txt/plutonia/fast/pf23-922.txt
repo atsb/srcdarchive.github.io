@@ -1,0 +1,36 @@
+            _________________________________________________
+           /                                                 \
+           | IWAD: plutonia.wad                              |
+           | Author: Dario & Milo Casali                     |
+           | Demo filename: pf23-922.lmp                     |
+           | Category: UV -fast                              |
+           | Map Level: MAP23 - Tombstone                    |
+           | Exe/Port used: Doom2 1.9                        |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+            _________________________________________________
+           /                                                 \
+           |                                                 |
+           |      Kills    100%                              |
+           |      Items     73%           ********           |
+           |      Secrets  100%  and Time * 9:22 *           |
+           |                              ********           |
+           \_________________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I tried avoiding copying anyone, I believed Henning / stx-Vile UV Max  |
+| route was too difficult with -fast monsters, didn't try to learn it,   |
+| now I'm not so sure about its difficulty. The beginning was based on   |
+| George Bell's UV -fast demo, the rest is mine. Should be easily        |
+| improved by any other player with a critical eye, I don't feel like    |
+| inventing new routes here ATM.                                         |
+|                                                                        |
+| One of my two favourite Plutonia maps (the other one is MAP26).        |
+| Wonderful non-linearity, superb item placement, fantastic, non-orthodox|
+| texture choice, this map simply rocks.                                 |
+|                                                                        |
++========================================================================+

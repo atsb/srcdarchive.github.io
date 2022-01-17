@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+R2M3-312.TXT
+
+ R2M3-312.ZIP
+
+  R2M3-312.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 3 - Refinery
+
+  Kills    109%
+  (Items    67%)
+  Secrets  100%  and Time  03:12
+                           -----
+
+  Description:  Initial efford - OK?
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

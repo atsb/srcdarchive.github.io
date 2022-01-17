@@ -1,0 +1,76 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E2M9-051.TXT
+
+ E2M9-051.ZIP
+
+  E2M9-051.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 2 - Shores of Hell
+
+  Mission 9 - Fortress of Mystery
+
+  Kills    100%
+  Items     50%		   ********	
+  Secrets  100%  and Time  * 0:51 *
+                           ********
+
+
+Description:	Yeah! This is the result of 3 (three!) days work. I'll put
+		also all the other lmps equal or better than the previous
+		0:56 record on my page. I had a 0:54 after threee hours, the
+		next day another 0:54 and a 0:55, then I got the LMP of the
+		record, watched it and noticed what was different. He took
+		the keys much faster (I thought it doesn't matter, if I only
+		hit with the shots, and then stood for a while between Barons
+		and Cacos, to have both sides been hit even when they atttack
+		me. Very smart way. One of the 5 seconds advantage I get
+		because I open the door faster, the other four are hard, I
+		would say every second counts twice because you'll not get the
+		damage of monster fights for this time. It's important to
+		fire at least one, better two or three rockets at the Cacos,
+		best when they surround one Baron.
+		I got a 0:53, but a very low one (53,1), so I tried for hours
+		to get a 0:52, but I got none. Meanwhile I realized that the
+		time depends much on the shells I've got left, this is because
+		I hold down fire all the time from the first shot on. 28 shells
+		equals a 0:55-0:56, 24 a 1:00, 18 a 1:06 and so on. That's why
+		I tried too to get the keys as fast as possible, the more time
+		I waste there, the less shells I've got left, and the worse the
+		time will be. Also it's easier to escape the exit then, no
+		Cacos blocking you. 
+		I was really surprised that after all four Barons were dead,
+		only two Cacos had survived, lokk how much ammo I waste until
+		I realize that no pain sound means that noone is alive anymore.
+		It's also not easy to see monsters sometimes, the pit is damn
+		deep and the half tomatoes on the ground make it difficult to
+		see other tomatoes still alive.
+		Later, as I watched it with timedemo, I realized that the shot-
+		gon is really far a wy from the center of the screen, it's
+		more at the right side of the head. That's why some shots hit
+		totally different or miss half, that was not the intention.
+		Fortunately this effect disappeared when I took the rocket
+		launcher, or I would have punished all the walls and hurt
+		myself. Uhm, long text, hope I haven't missed anything.
+		Except for the name of the guy who forced me to play this map
+		again, but I like this beautiful map, if Peo hadn't set a
+		fine time in e3m9 and the first stage would be more fun e3m9
+		would be mine too after a week or two :). Like e4m2 still is.
+		Btw, might be one day this time will be improved further on
+		by using the yellow key trick, see the speed record for what
+		I mean. Dunno if it helps, but it could be worth a try.
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

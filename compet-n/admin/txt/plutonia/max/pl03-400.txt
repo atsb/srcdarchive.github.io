@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL03-400.TXT
+
+ PL03-400.ZIP
+
+  PL03-400.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 03 - Aztec
+
+  Kills    100%
+  Items     27%            ********
+  Secrets  100%  and Time  * 4:00 *
+                           ********
+
+
+  Description :-)
+
+  Shouldn't be part of Plutonia. Didn't have that many tries here, it's hard
+  to make it look good, especially the part with the invisible bridge. More 
+  rockets and less pain elementals would do it.......:)
+
+  Henning Skogsto
+  h-doom@frisurf.no

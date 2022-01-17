@@ -1,0 +1,21 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htp-d242.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 2:42, UV pacifist
+
+Author                  : Doug Merrill
+Email Address           : opulent.doom2@home.com
+
+Description             : No strafe50 for me, since I'd only use it on 
+			  the wallrun start area anyway...
+			  This isn't too hard, but all the other types
+			  look like they are way out of my ability.                 
+
+************************************************************************

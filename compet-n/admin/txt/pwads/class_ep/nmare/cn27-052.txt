@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CN27-052.TXT
+
+ CN27-052.ZIP
+
+  CN27-052.LMP - Nightmare!
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M7 - Deimos Anomaly
+
+  Kills     38%           
+  (Items    25%)          
+  Secrets    0%  
+       
+             ... and Time  0:52 
+                          ------  
+                          
+
+  Description:  Easy to get stuck and die.
+
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz

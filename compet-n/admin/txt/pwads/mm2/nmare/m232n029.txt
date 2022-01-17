@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+m232n029.txt
+m232n029.zip
+
+m232n029.lmp
+
+Recorded using Doom 2 Version 1.9
+
+Memento Mori 2 - Level 32 - Dances With Demons
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :29
+=--------------=
+
+C-N entry #107.
+
+Credit to Erik for the route, this one is
+a bit irritating with the demons that simply
+will not get out of my way, but it really is
+a nicely designed map.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

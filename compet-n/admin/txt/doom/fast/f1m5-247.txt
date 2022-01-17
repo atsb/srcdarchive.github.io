@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+f1m5-247.zip
+
+ f1m5-247.lmp -md5sum 2bec8ccba64e694532c5439af0f11fdd
+
+  f1m5-247.txt -Ultra-Violence -fast
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Episode One - Knee-Deep in the Dead - Phobos Lab
+
+  Kills:  131 / 131 (100%)
+  Items:   14 / 29  (48%)            ********
+  Secrets:  9 / 9   (100%) and Time  * 2:47 *
+                                     ********
+  C-N entry #59.	Date: 2015.08.14
+
+  Description :)
+  A little less ugly.
+    
+     
+  By the way, COMPET-N record was 2:54 by me, dated:
+  2015.08.14.
+
+  Complete Historic COMPET-N Leaderboard:
+  f1m5-831 - Andy Olivera   - 1996-06-04
+  f1m5-545 - Peo Sjoblom    - 1996-06-07
+  f1m5-346 - Peo Sjoblom    - 1997-03-27
+  f1m5-320 - Anders Johnsen - 1998-09-07
+  f1m5-312 - Anders Johnsen - 1999-04-04
+  f1m5-259 - Chris Ratcliff - 2000-11-02
+  f1m5-257 - Radek Pecka    - 2001-01-12
+  f1m5-254 - Archy          - 2015-08-14
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

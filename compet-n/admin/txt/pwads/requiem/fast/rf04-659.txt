@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RF04-659.TXT
+
+ RF04-659.ZIP
+
+  RF04-659.LMP - Ultra Violence with fast monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 04 - Fireworks
+
+  Kills    100%
+  (Items    20%)          *********
+  Secrets  100%  and Time *  6:59 *
+                          *********
+                          
+
+  Description :-)
+  
+  I was improving some requiem stuff and noticed that some
+  of these -fasts were way too slow.  Well, I think this is
+  quite a bit better.
+
+  Xit Vono
+  xit_vono@yahoo.com

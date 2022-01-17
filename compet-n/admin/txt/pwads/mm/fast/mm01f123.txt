@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm01f123.TXT
+
+mm01f123.ZIP
+
+mm01f123.LMP - UV -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 01 - The Teleporter by Michiel Rutting and Denis Moeller
+      
+Kills      100%
+Items       29%
+Secrets    100%	and Time - 1:23
+     
+
+Description:
+
+It's a result of my first doom session for two weeks. First exit with 100% kills.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+28.06.2007

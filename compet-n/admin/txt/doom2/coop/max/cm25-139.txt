@@ -1,0 +1,45 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV25-139.TXT
+
+ UV25-139.ZIP
+
+  UV25-139.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 25 - Bloodfalls
+
+           Kills    Items   Secrets
+
+  Green      51       00      100      Panter
+  Indigo     28       50       00      Baum
+
+  Time:    1:39
+
+
+Comment:     In contrast to K&D we had a real plan (:
+             hmmmm....ok there was a little problem in the end ):
+             We didn't kill 4 (5 but one was killed by another) monsters in
+             front of the blue door...
+             Archie helped us to reach 100%...This **** engine doesn't show
+             this but it would have been 100% for the maxkills category...
+             
+             CHECK IT if you don't belive us...(we analysed it for OVER AN
+             HOUR)
+             THIS IS DONE WITH 100% KILLS !
+
+
+             22.02.98 ca. 14:00 am CET
+
+
+  Author:    Thomas "Panter" Pilger       P187.5mmx, 32MB, Seagate 2.5GB
+             Patrick "Baum" von Massow    P133     , 16MB, Seagate 2GB
+  
+  E-mail:    Panter@uni.de
+             qoomduke@gmx.net
+
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/ 
+             Baum has still no HP ((-:
+

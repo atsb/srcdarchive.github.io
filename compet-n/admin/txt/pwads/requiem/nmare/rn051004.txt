@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN051004.TXT
+
+ RN051004.ZIP
+
+  RN051004.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 5 - The Canyon
+
+  Kills    122%
+  (Items    76%)          *********
+  Secrets   50%  and Time * 10:04 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is one of the maps in Requiem that I did a TAS for and
+  knew that it should be possible normally.  It starts out easy
+  but gets progressively harder, up until the very end.  Until
+  the blue door is not so hard.  I use some careful playing to
+  conserve health and stay alive.  It doesn't really get hard
+  until the outside area near the red key.  I found that it is
+  possible to get the red key and back without first getting
+  the soulsphere.  This helps a lot because there are lots of
+  stimpacks which would otherwise be wasted.  Then I go to the
+  other side to get the backpack and blue armor.  Once I ran out
+  of ammo at the cacos before I started taking the backpack.
+  The cacos required some practice but I found them not to
+  be too hard with the extra 150 health in the yellow door
+  secret.  I needed 6 tries for the cacos to reach the red door.
+  Then I thought the final bridge would be relatively easy, but
+  I found the chainers can really do lots of damage, and it's
+  hard to take care of them with so many imp fireballs around.
+  I needed 3 tries on the bridge, and in this one I barely made
+  it.
+
+  Xit Vono
+  Xit_vono@yahoo.com

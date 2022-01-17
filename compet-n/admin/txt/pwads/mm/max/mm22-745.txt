@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+MM22-745.TXT
+
+ MM22-745.ZIP
+
+  MM22-745.LMP - Ultra Violence Max
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 22 - The Escape
+
+  Kills    100%
+  Items     68%            ********
+  Secrets  100%  and Time  * 7:45 *
+                           ********
+
+  Description :-)
+
+  Not too fond of the maze at the end... Also, it can be hard
+  to get the masterminds to immediately start fighting.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ11-110.TXT
+
+ RQ11-110.ZIP
+
+  RQ11-110.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 11 - Rats In the Walls
+
+  Kills     38%
+  (Items     0%)          *********
+  Secrets   16%  and Time * 01:10 *
+                          *********
+                          
+
+  Description :-)
+  
+  This map is played at the pace of a normal speedrun, but
+  it is a pretty difficult map to run through.  I still think
+  it is possible to improve it though.  1:00 should be
+  possible.
+
+  Xit Vono
+  Xit_vono@yahoo.com

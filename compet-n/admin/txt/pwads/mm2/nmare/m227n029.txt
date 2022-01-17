@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M227n029.TXT
+
+M227n029.ZIP
+
+M227n029.LMP - Nightmare! Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos
+      
+Kills        3%
+Items        0%
+Secrets      0%
+
+              ********
+  and Time -  * 0:29 *
+              ********
+
+
+Description:
+
+Same as the Ultra-Violence speedrun done in 29 seconds.
+
+First exit as well....which surprises me. It took me a while to get :29 on UV...
+
+Time is 29.20 so I know :28 is possible ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+13.02.2002

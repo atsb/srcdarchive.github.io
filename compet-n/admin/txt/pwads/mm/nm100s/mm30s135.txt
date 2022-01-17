@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm30s135.TXT
+
+mm30s135.ZIP
+
+mm30s135.LMP - Nightmare with 100% secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper by Milo Casali
+      
+  Kills     85%
+  Items     33%           
+  Secrets  100%  and Time  1:35 
+                         
+
+  Description
+
+This lmp is result of my first try in nm style after I've recorded the respawn demo. Definitely my best first try demo. I think I could upload this one.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+
+18.03.2006

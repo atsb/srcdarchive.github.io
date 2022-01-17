@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M226-324.TXT
+
+M226-324.ZIP
+
+M226-324.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 26 - Base Exposure
+      
+Kills       46%
+Items       17%
+Secrets     14%	and Time - 3:24 
+
+
+Description:
+
+I was lucky, an archie is really helper. It's bottle neck of all my runs, mostly he boosted me only at second try. 
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net

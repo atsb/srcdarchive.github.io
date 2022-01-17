@@ -1,0 +1,19 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2291023.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP29
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    105%
+  Items     75%           *********
+  Secrets  100%  and Time * 10:23 *
+                          *********
+
+
+==============================================
+
+I once died in the last room because of bravado. It would be about 10:30,
+so it's nice to do it even faster this time. As for successful runs,
+I had 11:12, 11:03 and this one.

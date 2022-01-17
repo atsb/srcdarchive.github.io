@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV29-731.TXT
+EV29-731.ZIP
+
+EV29-731.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 29 - River Styx
+
+Kills    105%
+Items    ?? %           
+Secrets  100%  
+
+   ...and Time  7:31
+               ------
+
+
+Description: 
+
+
+
+
+Author: Jakub "method_man" Razak
+E-mail: dale007@volny.cz
+

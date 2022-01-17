@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA23-245.TXT
+
+ FA23-245.ZIP
+
+  FA23-804.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O' Fun"
+
+  Kills   100%
+  (Items  50%)
+  Secret  100%  
+
+   ...and Time       02:45
+                    -------
+
+Description: Well... I havn't been playing for a while. I probably should
+             play a different map. This one's very anoying to do with -fast.
+             A lot of things can go wrong, especially at the start.
+
+             Somehow I manage to fall into the lava but since it's rare to
+             get the Pain Elementals in the corner at the end I'll upload
+             this one.
+
+             Enjoy!
+
+Author:      Keene "Mutlee" Ho
+E-mail:      keene@suburbia.com.au

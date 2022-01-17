@@ -1,0 +1,22 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: NM-Speed
+Map: 09
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 16%
+Items    : 50%
+Secrets  : 0%
+Time     : 00:57.54
+
+Description: 
+My first nightmare demo.
+
+pn09-104 didn't grab the invurnability, I think you can save time by picking it up and
+using rockets instead of plasma on the 4 spectres + cacodemon. Even if you don't the 
+time loss would be very small and obviously it's much safer. I also used a triggerskip,
+because getting knocked off by mancubi directly after hitting switch was quite common when testing.
+
+So this was quite a safe route, glide could be faster too.
+
+Also, very annoying to do guideless glide with invurnability.

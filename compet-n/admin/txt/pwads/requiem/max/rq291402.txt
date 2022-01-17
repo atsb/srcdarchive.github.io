@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ291402.TXT
+
+ RQ291402.ZIP
+
+  RQ291402.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 29 - Downer
+    
+  Kills    100%
+  (Items    94%)          *********
+  Secrets   50%  and Time * 14:02 *
+                          *********
+                          
+
+  Description :-)
+  
+  A large, and pretty linear map. I'm not a big fan of the ROCKRED and SP_ROCK
+  textures, (these dominate the most of the level.) The overall impression was
+  still pretty good; smooth gameplay and all. You're never stuck in an area for
+  long, and almost constantly on your move through the rooms, (in general,
+  these are pretty large, with not too much monsters.) The level is still
+  pretty tough, (not too much health around.) It can be handled pretty
+  easily as long as you're careful... but I wasn't careful at all in my demo,
+  rather pretty reckless to be honest. :) Adam told me I should've taken the
+  route with the soulsphere first, so the BFG area wouldn't be so hard
+  afterwards. This seems like a good idea.
+
+  Oh and by the way, you can't get more than 50% secrets on this level
+
+  Jonas Feragen
+  odferage@online.no

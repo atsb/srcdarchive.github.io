@@ -1,0 +1,76 @@
+
+DOOM2 -NOMONSTERS LMP SET
+-------------------------
+
+Author: Adam Hegyi
+E-mail: ha211@hszk.bme.hu
+Recorded with DOOM2 v1.9
+
+ Map      Time
+ 
+MAP01   0:05.40
+MAP02   0:26.94
+MAP03   0:23.51
+MAP04   0:22.68
+MAP05   0:24.31
+MAP06   0:48.20
+MAP07   0:47.14 *
+MAP08   0:18.65
+MAP09   0:49.85
+MAP10   0:26.57
+MAP11   0:30.97
+MAP12   0:42.25
+MAP13   0:59.68
+MAP14   0:32.94
+MAP15   0:29.57
+MAP16   0:12.25
+MAP17   1:32.25
+MAP18   0:22.97
+MAP19   0:43.88
+MAP20   0:34.97
+MAP21   0:38.60
+MAP22   0:30.48
+MAP23   0:35.68
+MAP24   0:39.05
+MAP25   0:40.85
+MAP26   0:33.22
+MAP27   0:36.31
+MAP28   0:37.62
+MAP29   1:28.62
+MAP30   0:30.97
+MAP31   0:31.57
+MAP32   0:12.88 *
+       --------
+Total time taken:
+       19:10.83
+With all times rounded as DOOM2 displays them:
+       18:52
+
+*: best time with monsters
+
+General comments:
+-----------------
+
+I've been doing these LMPs for more than 2 years now, so I thought
+I take the chance and publish them now that DANG accepts -nomonsters
+runs. Besides that, I thought it's time to set the pace for everyone
+else, I'm curious how many people can do better than these.
+
+I admit my skills aren't the same over each map, so there are better
+and worse LMPs in these. E.g. don't take MAP19 too seriously (I don't
+want to bother too much with the jump), neither MAP24 (I suck here),
+or MAP21/MAP22 (no gliding).
+Some LMPs are pretty nice I think, personally I like MAP09 because
+of its different (and faster) ending part, MAP13 of its first ever
+non-cheated sub-1-min time (if I'm right), and MAP29 of its nice
+flying jump out of the first elevator.
+There are some hard-worked LMPs in there, if I remember well it
+was quite hard to do MAP02, MAP11 and MAP18 with those times.
+
+I give you people 2 challenges here:
+- beat my MAP02 time.
+- beat my total time of 18:52.
+Enjoy the LMPs and good luck! ;-)
+
+PS. Ralf: Put this into /misc or wherever, but don't make a player
+profile of me just because of this for Christ's sake! :)

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA25-207.TXT
+FA25-207.ZIP
+
+FA25-207.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+DooM II - Level 25 - Blood Falls
+
+With "-Skill 4 (and) -FAST"
+
+Kills    100%
+(Items    ??)
+Secrets  100%  
+
+   ...and Time        02:07
+                     -------
+
+Description: Hmmmm....quit fun to play it this way, under 2 min is certantly 
+             possible. But I-m wondering how close we can get to the actual 
+             max record by Anders, which is in amazingly 01:50.
+
+             Hmm well what do you say Vince ?
+             
+
+Author: Henning Skogsto
+E-mail: h-doom@frisurf.no

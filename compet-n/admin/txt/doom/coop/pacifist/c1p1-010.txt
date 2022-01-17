@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c1p1-010.txt
+
+ c1p1-010.zip
+
+  c1p1-010.lmp Pacifist
+
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E1M1
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Selim
+  Indigo    ??%      ??%      ??%      Vincent
+
+
+  Time:    0:10
+
+
+Selim   : Don't ask me to do 9s :P
+Vincent : Hmmmm.... 9s should be very hard since 
+	  the Panter start is impossible.
+
+
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

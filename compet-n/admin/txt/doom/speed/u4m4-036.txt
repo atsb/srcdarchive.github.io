@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+U4M4-036.TXT
+
+ U4M4-036.ZIP
+
+  U4M4-036.LMP - Ultra Violence
+
+  Recorded using The Ultimate Doom v. 1.9
+  DooM -PlayDemo with The Ultimate Doom v. 1.9 ONLY
+
+  DooM - Ep.4 Mi.4 - Unruly Evil
+
+  Kills     14%
+  (Items    47%)
+  Secrets    0%    and Time  00:36
+			     -----
+  
+  Description :-)
+
+  All right, I can make 2 jumps in one day, here's another one :-)
+  Actually there are 2 jumps here (identical to each other, watch
+  u4m4n035.lmp), both of them save 0.5 second. I left the second
+  one because it's blocked by the imps. However it's possible, I had
+  1-2 successful attempts in my tries. You can guess how much work
+  I did from the difference in the timestamps of the 2 LMPs.
+
+  Anders' time was 37.77, I made up 0.5 second by running, and 0.5
+  second by the jump, that gave me 36.77. So someone could end up
+  with 0:35 with both jumps done and even better running than me.
+
+  This beats DOOM Done Quick by 2 seconds.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu 

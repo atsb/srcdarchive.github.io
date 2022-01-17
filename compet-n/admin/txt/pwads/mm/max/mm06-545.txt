@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+MM06-545.TXT
+
+ MM06-545.ZIP
+
+  MM06-545.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 06 - The Powerstation
+
+  Kills    100%
+  Items     45%           ********
+  Secrets  100%  and Time * 5:45 *
+                          ********
+
+  Description :-)
+
+  More stuff that I did while I should be studying for my
+  exams :)
+  Much of the improvement over Peo's old 7:51 demo comes
+  from leaving the initial 5 cacos to kill with the ssg later,
+  instead of taking them out with the regular shotgun.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

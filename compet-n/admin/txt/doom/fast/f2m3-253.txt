@@ -1,0 +1,28 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : f2m3-253, f2m3-253.txt
+Date     : 2014-05-06
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Fast
+Map(s)   : E2M3: Refinery
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  64%
+Secrets  : 100%
+Time     : 00:02:53
+===================================
+Description:
+
+This is just warming up.
+
+
+90th Comepet-N Entry

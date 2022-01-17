@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+P1M5-523.TXT
+
+ P1M5-523.ZIP
+
+  P1M5-523.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Kills     40%
+  (Items    68%)
+  Secrets   77%  and Time  05:23
+                           -----
+
+  Description:  [ None received. ]
+
+       Author:  Andy Badorek
+
+       E-mail:  badorek@t-online.de
+
+
+

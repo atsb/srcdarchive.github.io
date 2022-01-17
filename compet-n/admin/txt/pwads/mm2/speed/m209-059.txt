@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+M209-059.TXT
+
+ M209-059.ZIP
+
+  M209-059.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 09 - Sabbath Sewer
+
+  Kills     10%
+  Items      2%           ********
+  Secrets   27%  and Time * 0:59 *
+                          ********
+
+  Description :-)
+  
+  New trick! This one's inspired by pl17, of course.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

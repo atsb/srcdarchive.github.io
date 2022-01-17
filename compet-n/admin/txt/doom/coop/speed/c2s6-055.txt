@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed
+mission:  e2m6
+
+time:     0:55
+
+Vincent: Nice to beat the 1:00. 
+
+xit-vono: I think this is a pretty good time here.
+
+
+          

@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PR16-216.ZIP
+
+ PR16-216.LMP
+
+  PR16-216.TXT - Ultra Violence with respawning monsters
+
+  Recorded with the Final DOOM executable (DOOM2.EXE v1.9),
+  but plays back fine with the DOOM ][ exec as well.
+
+  The Final Doom - Plutonia Experiment - Level 14 - Genesis
+
+  Kills      103%
+  Items      100%            ********
+  Secrets      0%  and Time  * 2:16 *
+                             ********
+  Description :)
+  
+  This is a nightmarish level on -respawn if you follow the
+  UV Max strategy. For three days I was banging my head on 
+  the wall, only to die twice next to the final teleporter. 
+  Once I managed to climb on the pillar next to it, but at 
+  the last moment slipped off. 
+
+  The longer you try a particular run, the more likely you are
+  to observe some weird s**t. Here I've seen both Arch-Viles 
+  teleporting to the Blue Key area, both Arch-Viles teleporting
+  to the Yellow Key area, and the last batch of Revenants and
+  Mancubuses altogether failing to teleport (twice).
+
+  Then today I saw the Yellow Key trick, and realized I was
+  trying to tear down an open door. Without the two Arch-Viles
+  in the open, this run is much easier. My first exit tonight 
+  was 2:43 and 112% kills; so I decided to tighten up the ending
+  and run fewer circles around the Rev+Manc horde. And at the 
+  very last moment I realized I wouldn't make it to the Red Key
+  switch, which imparts a comical flavor to the the last few
+  moments.
+
+  As for the secrets, there are none on this level.
+
+  Never_Again
+  tpoppins@juno.com

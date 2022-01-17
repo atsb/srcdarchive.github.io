@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN081027.TXT
+
+ RN081027.ZIP
+
+  RN081027.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 8 - The Reactor
+
+  Kills    104%
+  (Items    57%)          *********
+  Secrets  100%  and Time * 10:27 *
+                          *********
+                          
+
+  Description :-)
+  
+  This didn't take so long--only an afternoon. I think this
+  is a map that I should have done already, but never got
+  around to doing it. There's a couple of parts where I had
+  low health. Once by the pigs I was down to 1%. Around there
+  could be the hardest part of the map. Also, I was careless
+  and got hit by the revenant, but fortunately there was a
+  berzerk right there. There are 2 tricks in this demo: the
+  first is a jump after getting ther berzerk which cuts out
+  a decent part of the map. The second is a switch trick near
+  the end which probably doesn't make much difference. It's
+  also 100% secrets.
+
+  Xit Vono
+  Xit_vono@yahoo.com

@@ -1,0 +1,10 @@
+Competition:     Coop-N (members.xoom.com/coop-n)
+Game:            Ultimate DooM
+Category:        UV Tyson
+Map:             e1m1
+Players:         2
+
+Time:            0:36
+
+Player1:         Arno "SlagDooM" Slagboom
+Player2:         Marko "Python" van der Want

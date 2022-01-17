@@ -1,0 +1,26 @@
+| This is a COMPET-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : EV30-125.LMP and EV30-125.txt
+Date     : 2018-1-20
+Game     : TNT: Evilution (TNT.WAD)
+Client   : DOOM2.EXE (Final Doom)
+Category : Speed
+Map(s)   : MAP30: Last Call
+Skill    : 4 (Ultra-Violence)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 31%
+Items    : 50%
+Secrets  : 100%
+Time     : 1:25
+===================================
+Description: There isn't a whole lot to say about this run since it's really the same as my Nightmare Compet-N run
+only on Ultra-Violence and not as much pressure prior, although getting 1:25 again is easier said than done given
+how the autoaim doesn't always work in my favor against the Icon of Sin. Regardless, took a couple of attempts but
+I got the same time again. 1:24 could be possible but that would be assuming a run where everything goes well is
+happening, basically a perfect run. Eitherway, I am glad to get 1:25 on both Nightmare and Ultra-Violence, mostly
+the Nightmare one though.

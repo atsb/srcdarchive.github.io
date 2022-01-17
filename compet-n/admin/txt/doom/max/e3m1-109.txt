@@ -1,0 +1,42 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E3M1-109.TXT
+
+ E3M1-109.ZIP
+
+  E3M1-109.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno
+
+  Mission 1 - Hell Keep
+
+  Kills    100%
+  Items     33%		   ********	
+  Secrets  100%  and Time  * 1:09 *
+                           ********
+
+
+Description: The little brother of e3m9. I remember that I've played it long
+	     ago, fighting hard for a time around 1:30. Than Yonatan recorded
+	     an incredible 1:22, even though he said he lost still 7 seconds
+	     overall. Today I run first his way, got 1:19 twice. Then I
+	     tried to analyse the map, and decided to have a longer lasting
+	     monster fight. Already the second LMP was a 1:13! Two LMPs later
+	     I got a 1:11, which I uploaded. The next day I got this 1:09 and
+	     two 1:10, the following day my best was a 1:12, that's why I think
+	     that I should recording because it becomes too time expensive.
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

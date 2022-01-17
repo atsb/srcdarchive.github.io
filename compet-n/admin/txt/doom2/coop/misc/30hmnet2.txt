@@ -1,0 +1,68 @@
+This is a Demo Archive of the Non Gods entry 
+
+authors:    Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+            Nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Hurt Me Plenty
+            
+
+Green  (view) : Vincent
+Indigo        : Nicolas
+
+         *-------*
+Time:    | 41:05 |
+	 *-------*
+
+Damn slow, but almost all levels are coop now.
+some misunderstanding in some levels (map06, 18, 25...) 
+
+                             
+Levels                   Time     Cumulative Time
+--------------------------------------------------
+"Episode 1" :
+--------------------------------------------------
+Entryway                 0:11		0:11
+Underhalls               0:54		1:05
+The Gantlet              0:37   	1:42 
+The Focus                0:44    	2:26
+The Waste Tunnels        0:37    	3:03
+The Crusher              2:01    	5:04
+Dead Simple              0:57    	6:01
+Tricks & Traps           1:09    	7:10
+The Pit                  1:41    	8:51
+Refueling Base           1:00    	9:51
+--------------------------------------------------
+"Episode 2" :
+--------------------------------------------------
+"O" Of Destruction       1:25		11:16
+The Factory              1:27    	12:43
+Downtown                 1:32		14:15
+The Inmost Dens          1:13    	15:28
+Industrial Zone          0:29		15:57
+Wolfenstein              1:11    	17:08
+Grosse                   0:36		17:44
+Suburbs                  0:56		18:40
+Tenements                3:30		22:10
+The Courtyard            1:14		23:24
+The Citadel              1:19		24:43
+Gotcha!                  0:56    	25:39
+--------------------------------------------------
+"Episode 3" :
+--------------------------------------------------
+Nirvana                  1:00		26:39
+The Catacombs            1:28    	28:07
+Barrels Of Fun           1:40    	29:47
+The Chasm                1:46		30:33
+Bloodfalls               2:11    	32:44
+The Abandoned Mines      1:46    	34:30
+Monster Condo            1:36		36:06
+The Spirit World         1:17    	37:23
+The Living End           2:17		39:40
+Icon Of Sin              1:25		41:05
+--------------------------------------------------
+Total 32 levels         		41:05  
+--------------------------------------------------
+        
+

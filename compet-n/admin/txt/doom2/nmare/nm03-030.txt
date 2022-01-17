@@ -1,0 +1,30 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM03-030.TXT
+
+ NM03-030.ZIP
+
+  NM03-030.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 03 - The Gantlet
+
+  Kills    38%
+  Items    0%	         *********
+  Secrets  0%  and Time  * 00.30 *
+                         *********  
+
+
+
+
+Description: Quite hard to make it this way, almost every time
+	     you die when trying to cross the "bridge".........
+
+
+
+Author:	     Daniel "Demonlord" Lindgren 
+ 
+E-mail:	     akllin95@student.umu.se

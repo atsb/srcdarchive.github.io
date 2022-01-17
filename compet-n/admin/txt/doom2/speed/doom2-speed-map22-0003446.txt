@@ -1,0 +1,28 @@
+Runner: Zero-Master
+IWAD: DOOM2.wad
+Category: UV-Speed
+Map: 22
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 33%
+Items    : 14%
+Secrets  : 100%
+Time     : 00:34.46
+
+Description: I decided I would check out some doom 2 IL's, looking for
+the smallest detail that can help me in my 30uv runs. However, lv02-037
+did not use the glide so I figured from all the work I put into
+practicing 30uv I could try improve this one. The quality of this demo
+feels quite low, since this was my... 3rd or maybe 4th attempt, but
+since I got an instant glide and the jump from the middle platform to
+the exit area I figured it's enough for me. So, really shame about the
+terrible start with not hitting the candle switch and not switching to
+chaingun to deal with the chaingunner on the other side of the bars in
+RK area. Instead I wasted time trying to hit him with plasma. Also some
+time wasted on the chaingunners before the jump, but not as much as if
+I would fall down.
+
+So, maybe 1 minute spent on getting this demo, though lots of time spent
+practicing (with weapons for 30uv) and very lucky with the glide.
+Someone else should improve this even further as well as my lv02-036.
+

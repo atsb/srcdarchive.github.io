@@ -1,0 +1,36 @@
+This is a "COMPET-N/doom2/coop/speed" entry, please forward it.
+
+cs05-028.txt
+
+ cs05-028.zip
+
+  cs05d028.lmp
+  cs05s028.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 05 - The Waste Tunnels
+  
+           Kills    Items   Secrets
+
+  Green      8%      28%       0%      Slag
+  Indigo     6%       0%       0%      Df
+
+
+  Time:    0:28.51
+
+
+Slag:        Oh yeah, a point taken away from Vincent!
+             He only has 14712954124 points left now.
+             This time is not anywhere near the solo record.
+             AdamH did this alone in 0:25. But keep in mind that two halfgods can't
+             beat one Doomgod!
+                   
+      
+Df:          All went fine. :)
+
+     
+Green:       Arno "SlagDooM" Slagboom   (ajslagboom@chello.nl)
+Indigo:      Bjorn "df" Hamels          (bjorn@hamels.nl)       
+  

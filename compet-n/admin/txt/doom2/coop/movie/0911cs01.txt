@@ -1,0 +1,39 @@
+This is a Demo Archive of the Non Gods entry 
+
+authors:    Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+            Nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Episode One UV
+            
+
+Green  (view) : Vincent
+Indigo        : Nicolas
+
+                            
+Levels                   Time    
+---------------------------------
+"Episode 1" :
+---------------------------------
+Entryway                 0:17
+Underhalls               1:03    
+The Gantlet              0:41    
+The Focus                1:09    
+The Waste Tunnels        0:30    
+The Crusher              1:55    
+Dead Simple              0:51    
+Tricks & Traps           0:31    
+The Pit                  1:20    
+Refueling Base           0:54    
+---------------------------------
+Total 			 9:11
+
+
+
+------------------
+Admin note (Ralf):   Another fine movie, Nicolas gets better and better and
+                     uses his "spare time" to kill Barons and Spiders.
+
+
+

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M1-049.TXT
+
+ E2M1-049.ZIP
+
+  E2M1-049.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.2 Mi.1 - Deimos Anomaly
+
+  Kills     35%
+  Items      0)
+  Secrets    0%  and Time  00:49
+                           -----
+
+  Description :
+
+  This is my first try with "non-episode-one-levels".
+  The problem is the crowd of pink monsters. This is the
+  most time consuming part.
+
+
+ Uwe Girlich, 6 September 1995
+
+ girlich@aix520.informatik.uni-leipzig.de
+
+

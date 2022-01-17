@@ -1,0 +1,81 @@
+This is a Doom .LMP "Competition" Entry
+
+30nm3159.txt
+30nm3159.zip
+
+30nm3159.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - Full game on Nightmare! skill
+
+           Time  
+---------------------
+LV 01  -   0:06  
+LV 02  -   1:05  
+LV 03  -   0:33  
+LV 04  -   0:44  
+LV 05  -   0:40  
+LV 06  -   1:22  
+LV 07  -   0:59  
+LV 08  -   1:00  
+LV 09  -   0:58  
+LV 10  -   0:39  
+LV 11  -   0:46  
+LV 12  -   1:11  
+LV 13  -   1:27  
+LV 14  -   0:57  
+LV 15  -   0:37  
+LV 31  -   0:40  
+LV 16  -   0:42  
+LV 17  -   2:26  
+LV 18  -   0:39  
+LV 19  -   1:20  
+LV 20  -   0:51  
+LV 21  -   1:06  
+LV 22  -   1:21  
+LV 23  -   1:09  
+LV 24  -   1:06  
+LV 25  -   1:07  
+LV 26  -   1:07  
+LV 27  -   1:02  
+LV 28  -   1:17  
+LV 29  -   2:15  
+LV 30  -   0:47  
+---------------------
+Total     31:59  
+        ---------
+
+C-N entry #203, movie run #37.
+
+Well... I still don't believe this time.  I don't know
+what I did to deserve this time, but here's yet another
+step in the evolution of the 30nm route.  I had some new
+stuff in mind, sat down the first night to try them out..
+and got this run right away.  I would imagine I would
+have died on map12, map25, or map29 at least, but I've
+been given a new run immediately.  The map11 problem
+from the previous movie was removed, new routes on maps
+12/19/25, and lots of time shaved off on maps 23/29.
+Somehow, I skipped right over 32:xx... weeee!
+
+However, the following things can still kiss my ass:
+
+-> map06 jump screwed me again... seems to work fine in
+practice, otherwise I mess it up.
+
+-> map18 invuln grab... I should have just cut it out of
+the run, since it hardly works when I want it to.
+
+-> map19 glide trick was really stubborn this time... the
+new route (shown to me by Radek, so credits to him) would
+have shaved off more time, but I had to deal with a messy
+trick.  It happens sometimes, I just have to deal with it.
+
+Anyway, I hope you like the run, since I may be done for a
+good while.  I don't know what's next, if anything, but I'm
+taking a break. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

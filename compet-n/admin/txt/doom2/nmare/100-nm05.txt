@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+100-NM05.TXT
+
+ 100-NM05.ZIP
+
+  100-NM05.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 5 - "The Waste Tunnels"
+
+  Kills     45%
+  (Items    33)
+  Secrets    0%  and Time  02:23
+
+  Maximum Minimum Health =  100 %
+                           -----
+
+  Description:
+
+  I think it's possible to survive this level untouchable, but I
+  have no time to make it.
+
+  To survive above 100 % health is rather simple, as you can see...
+
+ Istvan Pataki
+
+ deity@balu.sch.bme.hu
+
+
+[  Admin. Note :-)  A claim for 148 % would have been accepted
+   and so - to beat this - that is what you need to aim for...
+
+   Don't worry about getting hit before taking the soulsphere,
+   just end with the most health.
+
+S.;-) aka. The "Judge". ]
+
+

@@ -1,0 +1,29 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pr12-425.lmp & pr12-425.txt
+Date     : 2013-04-19 21:52
+Game     : Plutonia
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map12: Speed, by Milo Casali
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 116%
+Items    :  56%
+Secrets  : 100%
+Time     : 00:04:25.09
+===================================
+Description:
+
+Is UV Max route quicker? I don't know, I didn't try it :-)
+It cost me more effort than previous ones, more than rr23, but it was
+worth it - I like the demo. About 3:30 is certainly possible with this
+route.
+
+===================================

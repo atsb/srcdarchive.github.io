@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RT02-324.TXT
+
+ RT02-324.ZIP
+
+  RT02-324.LMP - Ultra Violence, TYSON
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 02
+        
+                     Time   03:24 
+                          
+
+  Description :-)
+
+Didn't bother watching Erwin's run, but I guess he didn't get those pinkies
+done fast. They're affected by a bug that also crops up in MAP22, if you want
+to get them to attack you (so you can kill the fuckers quickly) just stand
+in a different sector. Pretty easy. First exit.
+
+Adam Williamson
+adam.williamson1@btinternet.com

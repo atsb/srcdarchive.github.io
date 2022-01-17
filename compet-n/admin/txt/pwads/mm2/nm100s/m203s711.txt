@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M203S711.TXT
+
+ M203S711.ZIP
+
+  M203S711.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 3 - ... and Hell Beneath
+
+  Kills    140%
+  (Items    55%)          ********
+  Secrets  100%  and Time * 7:11 *
+                          ********
+                          
+
+  Description :-)
+  
+  Well this is definitely an action packed map in nightmare.
+  I have enough practice in the beginning that I usually don't
+  need to take any of the 3 medikits near the beginning, so I
+  save them for later. Things start getting tough when you get
+  to the pentagram area. In particular there can be troubles
+  with the 6 respawning chainers in the cages. After getting up
+  the lift, I chose to take a different route from what I did
+  in my TAS demo. This time I go straight for the switch to the
+  SSG and red key, and then run back to the lift so I can get
+  the yellow key. This allows me to have more health for the
+  final teleport, which is crucial. The one drawback to this 
+  route is that when you go to the teleporter, there's a spot
+  where a monster can get stuck and block the bridge from
+  going up. This happened to me once, and if it does you
+  don't have much chance of finishing the map. When I enter
+  the teleport, I lose a lot of health right away, and I miss
+  the exit switch, so I was lucky that the hell knight didn't
+  kill me there.
+
+  Xit Vono
+  Xit_vono@yahoo.com

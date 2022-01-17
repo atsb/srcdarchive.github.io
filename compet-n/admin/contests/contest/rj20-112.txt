@@ -1,0 +1,17 @@
+Compet-N Contest #3 Entry
+=========================
+
+Description
+-----------
+Game    : Doom2 
+Skill   : 4
+Map     : 20 
+Style   : Speed Run
+Special : Spider Mastermind + Cyberdemon = death
+
+Player  : Rudy Jurjako, rudyj@total.net
+Time    : 1:12
+
+Comments
+--------
+After watching Opulent's demo, I thought I could use my time better while waiting for the 2 bosses to kill each other. Here's the first solution that I thought of. I wish I could get a better weapon to finish off the bosses, but as it turned out in this demo I wouldn't have needed it anyway.

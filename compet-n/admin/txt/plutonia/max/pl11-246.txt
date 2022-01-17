@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL11-246.ZIP
+
+ PL11-246.LMP
+
+  PL11-246.TXT -UV max
+
+  Recorded using The Final Doom Version 1.9 
+  Doom2 -PlayDemo with The Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills       77%
+  (Items      87%)           ********
+  Secrets    100%  and Time  * 2:46 *
+                             ********
+  C-N entry #1.
+
+  Description :)
+  
+  One of my favorite Plutonia maps, also thanks to tatsurdcacocaco
+  for telling me how to submit a C-N demo. Now of course this was 
+  not an easy run, however there is still much time for improvement
+  and i think it will be beaten again soon in the future. But i am
+  still proud of this one, after all this is my first Compet-N demo
+  :) 
+  [Btw, 77% kills is maximum on this map (in UV) with out -respawn.]
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

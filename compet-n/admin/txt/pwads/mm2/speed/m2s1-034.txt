@@ -1,0 +1,59 @@
+This is a DooM .LMP "COMPET-N/pwads/mm2/misc" entry - Please forward it...
+
+M2S1-034.TXT
+
+ M2S1-034.ZIP
+
+  M2S1-034.LMP - UV speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD MM2INFO.WAD -PlayDemo with Version 1.9
+
+  Memento Mori II (+ MM2INFO.WAD) - MAP01 - "Secret Operation 1" by Steve Towle
+
+  Kills     18%
+  Items     72%
+  Secrets    0% and Time - 0:34
+
+  Description:
+
+  This is my first Compet-N demo... and it's for the worst level in Memento Mori
+  II. ;) To view this demo, you must download both Memento Mori II and the
+  Memento Mori II Infopack.  Look for the file MM2INFO.DAT, and rename it to
+  "MM2INFO.WAD."  After that, load that file alongside MM2.WAD at the command
+  line, and the first two levels will be replaced by new ones, including a far
+  superior level by Thomas Möller ("Secret Operation 2.")  You'll need to load
+  them both if you want to watch this demo; otherwise, the game will load MAP01:
+  Outpost, instead, and it'll look like I'm a complete moron. ;) Because I'm not
+  sure if the two Secret Operation levels are eligible for competition here, I
+  have elected to upload this as a Misc demo, although it fits under UV speed
+  rules.
+
+  Believe it or not, it's really, really easy to miss the shotgun in the
+  beginning, because there's so little space to grab it, thanks to the hanging
+  corpse situated right above it.  A little luck is required, too, for the first
+  two Spectres to not block your path to glory (the elevator in the case of the
+  first.)  Besides that, this level isn't very hard to run.  After the elevator,
+  if you don't fire a shot at any time outside of the building, the monsters who
+  are supposed to teleport into the level never will, and thus, you'll have fewer
+  obstacles to deal with when you leave the building.  At the stairways, you can
+  lean against either one so the enemies on that side can't hit you, and then you
+  can safely dispatch the hellspawn on the other side.  After flipping the switch
+  that reveals the skull key, you can drop from the staircase, grab it, and then
+  zoom your way over to the exit with nothing standing in your way.  Whee!
+
+  In spite of this, there are still a few errors in this demo, mainly me getting
+  caught on stuff, as well as a slight hesitation (agh!) at the building's door.
+  Nevertheless, I don't think this will be boring to watch, in spite of the
+  level's poor quality. ;)
+
+  Prior to recording Doom demos, I did some usermap speedruns for Duke Nukem 3D.
+  Video versions can be seen on my YouTube channel at
+  http://youtube.com/profile?user=TheGreenHerring, and I hope to have a
+  "Speedruns" section up on my website at
+  http://disasterlabs.com/thegreenherring/ in the near future.
+
+  Author: Eric "The Green Herring" Baker
+  E-mail: eabaker@san.rr.com
+
+  26.05.2007 (demo recorded 25.05.2007)

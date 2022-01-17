@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M9-206.TXT
+
+ R4M9-206.ZIP
+
+  R4M9-206.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 9 - Fear
+
+  Kills    103%
+  (Items    55%)
+  Secrets  100%  and Time  02:06
+                           -----
+
+  Description:  This looked difficult, but then I came up with a new route.
+                It can easily go under 2:00 this way.
+
+Author:  Chris "Ryback" Ratcliff
+
+E-mail:  ryback@fcmail.com
+

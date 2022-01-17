@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE13-408.TXT
+RE13-408.ZIP
+
+RE13-408.LMP - Ultra Violence with -RESPAWN
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+DooM II - Level 13 - "Downtown"
+
+Kills    100%
+(Items      %)
+Secrets    0%  
+
+   ...and Time   04:08
+               ---------
+
+Description: This should be fairly easy to improve down to 3:xx...anyone ?
+ 	     
+
+	                              
+Author: Henning Skogsto
+E-mail: h-doom-frisurf.no

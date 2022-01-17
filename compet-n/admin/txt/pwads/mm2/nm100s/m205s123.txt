@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m205s123.txt
+
+m205s123.zip
+
+m205s123.lmp - Nightmare! 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 05 - Rites Of Passage by Paul Noble
+      
+Kills      10%
+Items      10%
+Secrets   100%	and Time - 1:23 
+
+
+Description:
+
+Easy to beat.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+29.08.2004

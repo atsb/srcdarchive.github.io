@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV30-049.TXT
+
+ LV30-049.ZIP
+
+  LV30-049.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.666
+  And Converted to Doom2 Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+  Kills    200%
+  (Items    33)
+  Secrets    0%  and Time  00:49  (Par 3:00)
+                           -----
+
+Computer: 486DX33 ISA with standard VGA and PC-Speaker ;-)
+
+Comments: Saw the 0:58. Thought I could improve it. But it's
+          not so easy to get onto this platform :-(. At least
+          if you have a DX33. Placed one rocket too low.
+          But I show you the way to make it faster. Watch the lmp.
+          Besides: Formerly I had problems simply to end the level.
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

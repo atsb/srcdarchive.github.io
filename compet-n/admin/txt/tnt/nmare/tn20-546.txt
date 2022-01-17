@@ -1,0 +1,33 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : TN20-546.LMP
+Date     : 2018-6-13
+Game     : TNT: Evilution
+Client   : DOOM2.EXE V1.9f
+Category : Speed (Also 100% Secrets)
+Map      : MAP20: Central Processing
+Skill    : 5 (Nightmare!)
+
+Player   : Erick "GuyNamedErick" Tenorio
+Country  : United States
+Email    : guynamederick@gmail.com
+
+Kills    : 72%
+Items    : 33%
+Secrets  : 100%
+Time     : 5:46
+
+Description: Rather crazy to think TNT: Evilution still has tons of things to improve on with its maps, some never
+maturing anywhere close to say certain maps like Habitat or the obviously easy first map. After watching Xit Vono's 
+demo, I noticed how in his run he had a lot of cell ammo to spare but didn't used the Plasma Rifle or BFG at some
+points to help clear out some hordes of monsters, which could have helped made the run faster. There was also that 
+he took his time in some places, and while there is a chance of dying by doing that, the second half of the map at
+least has enough power-ups (with conveniently placed secrets) to help make the rush to the end easier.
+
+Using the route that Kai have made (and Xit Vono have used), this run is to help fasten the route, although some of
+the mistakes could have been prevented, like not revealing a secret wall soon enough or getting blocked by an
+Arachnotron, though lucky me I survived that one. In the red room near the BFG, I tried to hug a crate near the exit
+door to get the monsters to move to one part of the hallway in order to blast them with a BFG. The attempts in
+doing that aren't always successful, though some luck makes it possible to get through with enough health. Getting
+past the first half was the hardest part, but afterwards it's fairly straightforward. The map is still hard
+nonetheless.

@@ -1,0 +1,72 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm201217.lmp & mm201217.txt
+Date     : 2016-07-02 10:40
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map20: Montain Depot, by Scott Lampert
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  46%
+Secrets  : 100%
+Time     : 00:12:17.94
+
+
+
+
+________________________________________________ _____________________
+| PWAD:          | mm                          | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | mm201217.lmp                | |  Items      46 %  |
+|________________|_____________________________| |___________________|
+| Category:      | Tyson                       | |  Secrets   100 %  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP20 - Mountain Depot      | |            _____  |
+|                |                             | |           /     \ |
+|________________|_____________________________| | and Time: |12:17| |
+| Exe/Port used: | Doom2 1.9                   | |           \_____/ |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 02.07.2016                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| I wrote in mm201812.txt: "It is possible to do it much faster if   |
+| the cyber gets stuck and eaten by demons." So here it is. I can    |
+| only hope that - while the demo is so-so speedy - getting a faster |
+| time *without* the cyberdemon getting stuck shall be too hard.     |
+|                                                                    |
+| Also, cyberdemon's "thing ID" = 19 and once again, one sergeant    |
+| cannot be killed, so this demo is valid.                           |
+|                                                                    |
+| Compet-N entry no. 145.                                            |
+|____________________________________________________________________|
+|             |       |                                              |
+| Old records | 18:12 | vdgg                                         |
+|             |       |                                              |
+|             | 14:20 | Cyberdemon531                                |
+|_____________|_______|______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| doom2 -file mm.wad mmus.wad -nomouse -skill 4 -warp 20 -record xxx |
+|                                                                    |
+| Playback with PrBoom+:                                             |
+| prboom-plus -file mmmus mm -playdemo mm201217                      |
+|                                                                    |
+| You may optionally type -trace_thingshealth 19 to watch cyber's    |
+| health...                                                          |
+|____________________________________________________________________|
+
+

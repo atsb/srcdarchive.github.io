@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+P25F2633.TXT
+
+ P25F2633.ZIP
+
+  P25F2633.LMP - Ultra Violence - Fast Monsters!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 25 - The Temple Of Darkness
+
+  Kills    100%
+  Items    100%            ********
+  Secrets  100%  and Time  * 26:33 *
+                           ********
+
+
+
+Description: One of the hardest levels I've ever played, and with
+	     -fast monsters...........it's HELL.
+	     In the Hell Knight room I found no good strategy at all,
+	     the only thing I noticed was that the Baron Of Hell do 
+	     not teleport if you never leave the platform, he can't 
+	     "telefrag" you, so this made him piece of cake. I have yet 
+	     no strategy on the remaining 6 Hell Knights, I try to kill at 
+	     least 2 before going to the "backside" with the Chaingunners, 
+	     but sometimes you die before you know whats going on...
+	     Left the Megasphere to the end, mainly because I thought
+	     that the Chainees would hurt me more than they did......
+     	     At last, if you want a real challenge try this with -fast
+	     monsters...........I had NightMares.
+	
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     
+

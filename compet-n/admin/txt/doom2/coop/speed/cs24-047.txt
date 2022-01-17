@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs24-047.txt
+
+ cs24-047.zip
+
+  cs24v047.lmp 
+  cs24z047.lmp - Ultra-violence
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP24
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:47
+
+
+Selim   : Table-filling again :)
+Vincent : I do the ledges even if Selim is faster
+          than me at that. But i can do them all the time,
+          whereas Selim falls quite often :)
+
+Green:    Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:   Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

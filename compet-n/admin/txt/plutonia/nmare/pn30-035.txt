@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN30-035.TXT
+
+ PN30-035.ZIP
+
+  PN30-035.LMP - Nightmare!
+
+  Recorded using "Final doom"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: The Plutonia Experiment - Level 30, "The gateway of hell"
+
+  Kills     68%
+  Items     25%            +++++++++
+  Secrets    0%  and Time  + 00:35 +
+                           +++++++++
+
+  #######################################################################################
+  # Description:  #  HIIIII :)  2 days ago I had 40 seconds on this level and I decided #
+  #################  to post it, and on the txt I wrote "I'd like to reach the optimal  #
+  # time in this level, which should be around 35 seconds, and I'll try :) " and here   #
+  # it is... yeahhh XD									#
+  # Maybe it's not optimal, 'cause I think it should be 32/33 s, (I killed the cyber    #
+  # slowly ) but I'm really proud of this because the old record on this level was      #
+  # made by Xit-Vono and he had 43, so I'm really happy.				# 
+  # Will I try this again?  eheh, you already know the answer :)   yeppppp		#
+  # Until then... see ya folks :)                                                       # 
+  #                   									#
+  #######################################################################################
+
+
+Author:    Red-XIII
+E-Mail:    silverdragon93@msn.com

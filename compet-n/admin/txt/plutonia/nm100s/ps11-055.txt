@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PS11-055.TXT
+
+ PS11-055.ZIP
+
+  PS11-055.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 11
+
+  Kills      0%
+  Items     81%            +++++++++
+  Secrets  100%  and Time  + 00:55 +
+                           +++++++++
+
+Description: 
+ 
+      This is my first Compet-N entry :)))))
+	  ... and hopefully it is valid now ;)
+      
+	  This demo has a short story:
+	  
+	  I made a 0:54 demo with prboom (I didn't know it wasn't
+	  valid) and uploaded to Compet-n. I was informed about
+	  my fault, so I had to give up with prboom and start playing 
+	  with the original doom2.exe. Lots of thanks go to Myk for 
+	  helping me to setup it. 
+	  
+	  
+	  Something about the demo:
+     
+ 	  Interesting that performing the switch trick (archies don't 
+	  release) successfully (u would meet just with 1-2 archie) has 
+	  been very rare in doom2.exe by me yet, despite in prboom I 
+	  could do it almost every time.
+	  
+	  Therefore I met a lot of arch viles, who really didn't want 
+	  me to finish the map. They always were in right PLACE in good 
+	  TIME to wreck my recordings, so sometimes i was very nervous.
+	  
+	  That was very very very rare, when actually NONE of them
+	  bothered me.
+	  
+	  So I needed much more time (more than double) to make this.
+	  I have to get familiar with doom2.exe :).
+	 
+	 
+Author:    Tamas Flamich
+E-Mail:    tamas@flamich.com

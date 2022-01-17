@@ -1,0 +1,23 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : R1M5-220.txt, R1M5-220.lmp
+Date     : 2014-7-06 17:35
+Game     : The Ultimate Doom
+Client   : doom.exe v1.9
+Category : Respawn
+Map(s)   : E1M5: Phobos Lab
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Laszlo Gere
+Nickname : Slade
+Country  : Hungary
+Email    : vertigodx@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 31%
+Secrets  : 100%
+Time     : 00:02:20
+===================================
+Description:
+-

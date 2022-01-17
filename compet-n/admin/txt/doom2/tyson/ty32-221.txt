@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ty32-221.TXT
+ty31-221.ZIP
+
+ty31-221.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 32 - "Grosse"
+
+Kills   100%
+(Items  100)
+Secret   16%  
+
+   ...and Time       02:21
+                    -------
+
+Description: First I saw Andy Kemplings 02:35, and noticed that he didn't 
+             exit with 100 secret. Well when playing tyson I thought you had
+             to get 100 secret, so I'll included one with 100% secret and
+             one without it :-) Both LMPs are added into this zip-file.
+             
+            
+
+
+Author:   Henning Skogsto 
+E-mail:   Hskogsto@c2i.net
+Doompage: hmmm

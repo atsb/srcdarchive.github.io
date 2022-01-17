@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ12-948.TXT
+
+ RQ12-948.ZIP
+
+  RQ12-948.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 12 - Militant Reprisal
+
+  Kills    100%
+  (Items    53%)          *********
+  Secrets   86%  and Time * 09:48 *
+                          *********
+                          
+
+  Description :-)
+
+  Ugh!  'Nuff said.  There are WAY too many secrets in this level (27 I believe),
+  some of which aren't accessable.  The level itself is way too large (Adam W.
+  says that this level was originally larger than what it is now... yikes),
+  it weighs in at about 550K.  This is probably the least impressive map in
+  Requiem.  Also, it's very common to have a lone chaingunner or imp to stay
+  behind and make you drop to 99% kills...
+  
+  Mike "prower" Reid
+  prower@frad.org

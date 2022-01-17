@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+E2NS1407.TXT
+E2NS1407.ZIP
+
+E2NS1407.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Ultimate DooM - "The Shores of Hell" on Nightmare! skill w/ 100% secrets
+
+E2M1 - Deimos Anomaly      - 1:09 
+E2M2 - Containment Area    - 2:18
+E2M3 - Refinery            - 1:00
+E2M4 - Deimos Lab          - 2:12
+E2M5 - Command Center      - 2:12(heh)
+E2M9 - Fortress of Mystery -  :22
+E2M6 - Halls of the Damned - 2:13
+E2M7 - Spawning Vats       - 2:41
+E2M8 - Tower of Babel      - excluded
+
+Total - 14:07
+
+C-N entry #29 and my third movie run. :)
+
+This run looked like a lot more fun than the vanilla nightmare run and much easier than
+E1NS.  Special thanks to Vincent Catalaa for his route and time of 16:58, as well as
+Chris "Ryback" Ratcliff for some of his individual nm100s routes for the later levels
+(e2m5, e2m7).  Only needed about an hour to get this time.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

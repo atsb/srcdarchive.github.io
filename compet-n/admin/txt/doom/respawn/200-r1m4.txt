@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry
+
+200-R1M4.TXT
+
+ 200-R1M4.ZIP
+
+  200-R1M4.LMP - UltraViolence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 4 - Command Control
+
+  Kills     42%
+  (Items    20)
+  Secrets  100%  and Time  02:04
+
+                           ******
+  Maximum Minimum Health =  200 %
+                           ******
+
+  Description:  Unbeatable ;-)
+
+     Comments:  In my 100-r1m4 entry I wrote:
+               
+                > To get the soul-sphere you've got to pass the lava.
+                > That costs up to 10% as S. ;-) showed in his 090-r1m4.
+               
+                That's not quite true as Ralf Schreivogel pointed out.
+               
+                > If someone is able to pass the lava without any loss,
+                > he will propably score something like 190% ...
+
+                Well, again that's not quite true - because nowadays we
+                know Rudy's rail (Ralf Schreivogel has discovered it
+                simultaneously). So this was very easy, I just figured
+                out some foolproof techniques to pass the lava and to
+                jump on the "Rudy-Ralf" rail in the first try. In fact it
+                has been so easy, one should try it on nightmare too.
+
+      Credits:  Big thanx to Ralf, who mailed me his discovery and ordered
+                a 200-r1m4 from me. Here it is ;-)
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

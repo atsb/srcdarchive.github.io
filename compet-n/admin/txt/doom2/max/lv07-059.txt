@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV07-059.TXT
+
+ LV07-059.ZIP
+
+  LV07-059.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - Dead Simple
+
+  Kills    100%
+  (Items    83)
+  Secrets  100%  and Time  00:59
+                           -----
+
+
+Description: So it was after all possible to beat my old 01:01 record.
+             I didn't think it would be possible when I completed that
+             .LMP, but Kai-Uwe showed that it could be done...
+
+             So I had to "work" some more to beat his 01:00 entry...
+             This took me some hours but I got the record.
+
+             I think it's almost impossible to beat 00:59, I had four
+             tries at 01:00.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

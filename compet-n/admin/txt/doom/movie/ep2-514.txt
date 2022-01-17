@@ -1,0 +1,67 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP2-514.TXT
+
+ EP2-514.ZIP
+
+  EP2-514.LMP - Whole Episode on Ultra Violence
+         
+  Recorded using The Ultimate DooM Version 1.9
+
+  DooM -PlayDemo with The Ultimate DooM Version 1.9
+ 
+ 
+
+  DooM - Episode 1 - Knee Deep In the Dead
+
+            TIME!!  COMPET-N record  
+
+  E2 M1  -  0:42    0:38
+  E2 M2  -  0:17    0:15
+  E2 M3  -  0:36    0:31
+  E2 M4  -  0:48    0:42
+  E2 M5  -  0:37    0:30
+  E2 M6  -  1:31    1:13
+  E2 M7  -  0:43    0:40
+  E2 M8  -  [EXCLUDED]
+
+                     Total Time =   1" 254
+                                    1" +
+                                    4 " 14
+                                    ------
+                     TOTAL TIME =   5" 14
+                                    ------
+
+
+Comments:
+
+YEAHHHHHH! I knew I could beat Anders' record...after many many tries, and
+lots of really weird ways of screwing up, I finally got it...by 1 second! :)
+Individual level comments:
+
+E2M1 - Bit slow, but if I stuck around trying to get :41 and :40s here i'd
+       be here forever...:). Personal best is 0:40.
+E2M2 - Standard run. In episode runs I tend to go a bit too far along the wall
+       and work my way back to make _sure_ I hit the switch. PB is 0:17.
+E2M3 - VERY pleased with this one. Only problem is I used a little too much
+       plasma, but E2M6 and E2M7 worked out ok. Don't normally do this well
+       in an episode run. PB is 0:35 from scratch, but you don't need the
+       blue armour on a single level run. This really IS the best place to
+       get armour on an episode speedrun. Trust me. :)
+E2M4 - Hmmmmm...a bit slow. I've done 0:45 in an episode run. PB from scratch
+       is 0:42.
+E2M5 - Damn, this was slow :(. Only really bad level in the demo. I was too
+       low on health so had to be careful with the imps, then messed the
+       running up a bit :(. I get 0:33 here quite often...that's my PB also.
+E2M6 - Yeah. Got this done very very well again. Closing the door behind you
+       going into the red key area is a very good tactic...you lose a couple
+       of seconds but it puts the success rate on this level up to about 80%       
+       instead of about 30% :)       
+E2M7 - Got a pretty good one here! Good running up to the yellow key, bit
+       slow afterwards. I much prefer to have more cells left here, to use
+       on the demons that tend to queue up behind the door to the exit room,
+       but it worked out just about OK.
+E2M8 - took this one pretty carefully, seeing as time doesn't matter :).
+       Toyed with doing it with shotgun only - which pretty much makes dying
+       impossible - but decided against it in the end :)
+

@@ -1,0 +1,16 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop max
+mission:  map24
+
+time:     4:10
+
+Vincent:  :/
+
+xit-vono: First ever so we didn't really try too hard.
+
+          

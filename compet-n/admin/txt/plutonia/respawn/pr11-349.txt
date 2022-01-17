@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PR11-349.TXT
+
+ PR11-349.ZIP
+
+  PR11-349.LMP - Ultra Violence - RESPAWN
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 11 - Hunted
+   
+  Kills    100%
+  (Items    81%)           
+  Secrets  100%  
+
+               ... and Time   3:49
+                             ------
+
+
+  Description: My first exit, table filling.....
+                
+
+  
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz

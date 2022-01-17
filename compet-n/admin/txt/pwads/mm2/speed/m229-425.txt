@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+m229-425.TXT
+
+ m229-425.ZIP
+
+  m229-425.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 29 - Kings Of Metal by Jens Nielsen
+
+
+  Kills     47%
+  Items     25%           
+  Secrets   25%  and Time  4:25
+                         
+
+  Description
+
+My last demo for the pack. I've tried more risky route but never survive near yellow key door.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+28.05.2005

@@ -1,0 +1,19 @@
+PA16-045.TXT
+
+ PA16-045.ZIP
+
+  PA16-045.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:45
+                           -----
+
+  Description:  [ None received. ]
+
+       Author:  Thomas Pilger

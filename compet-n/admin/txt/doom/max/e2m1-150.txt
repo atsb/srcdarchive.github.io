@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M1-150.TXT
+
+ E2M1-150.ZIP
+
+  E2M1-150.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+  OR
+  DooM -PlayDemo on Ultimate DooM
+
+  DooM - Ep.2 Mi.1 - Deimos Anomaly
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  01:50
+                           -----
+
+  Description :-) Took me many tries to improve, it might look simple
+  but there are some things that must really work if it is going to be
+  under 2 minutes, like for instance the troopers who must be "online" :)
+  so one shot results in multiple deaths, it helps if the imp and the
+  2 sergeants fight the pigs and weaken them while being eaten up. I
+  was also a lucky that one sergeant shot the invisible pig in the back
+  and my next shot killed both. Unfortunately I was too eager at the exit
+  and wasted some plasma at the retracting wall, otherwise it had been
+  under 1:50. Well, you cannot win them all! :) This will be my last ever
+  Compet-n entry unless being a part of a coop team. I do not like any
+  other Doom1/Ultimate map..
+
+
+  Peo Sjoblom
+
+  peo.sjoblom@mbox300.swipnet.se

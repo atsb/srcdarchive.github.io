@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ES22-155.TXT
+
+ES22-155.ZIP
+
+ES22-155.LMP - Nightmare! 100% Secrets
+
+Recorded using Final Doom's doom2.exe
+Doom2 -file tnt.wad -playdemo with Final Doom
+
+Final Doom: TNT Evilution - Level 22 - Habitat
+
+Kills     38%
+Items     45%
+Secrets  100%
+
+              ********
+  and Time -  * 1:55 *
+              ********
+
+
+Description :
+
+13 seconds faster than Chris "Dashiva" Laverdure. I must say, he had quite
+an impressive demo, but there was room for improvement ^_^
+
+My improvements come from a nice little trick with the BFG. I grab it and
+get out before that little lift goes back up. Secondly, with all that
+extra plasma I have from not killing the Imps, I can completely roam those
+ugly halls with the Plasma Rifle and not need the Super Shotgun for it at
+all. Also...I make smart use of my cells. ^^
+
+I DO lose some time however, when for some reason my Plasma Rifle key gets
+stuck. So I couldn't change to the BFG like I normally could. I fixed it
+by pressing the Plasma Rifle key again and then make the switch and clear
+out that stupid Demon-filled secret room.
+
+This map didn't get any prettier though, that flat error popped up when I
+was recording...but I found a way around it. ^_^
+
+Under 2 minutes...you minute barrier people will like this.
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+28.06.2002.

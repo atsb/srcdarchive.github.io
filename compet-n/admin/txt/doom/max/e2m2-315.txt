@@ -1,0 +1,30 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e2m2-315.txt, e2m2-315.lmp
+Date     : 2013-06-02 2:32
+Game     : Doom
+Client   : doom.exe v1.9
+Category : Max
+Map(s)   : E2M2: Containment Area
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Drew DeVore
+Nickname : Vile
+Country  : USA
+Email    : dadevore83@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 58%
+Secrets  : 100%
+Time     : 00:03:15
+===================================
+Description:
+A one second improvement, though again, not a mark of laziness.  I usually
+don't care for one second improvements when investing time in runs like these
+but Doom records have reached that point where I can appreciate having gained
+any sort of ground.  This wasn't a bad run, as much of the route hinges on
+monsters grouping favorably, particularly in and around the area with the
+rocket launcher.  I miss a few punches here and there but the variable damage
+output of berserk punches may have required another one or two punches to KO
+an imp so I won't let it get to me that much.  Enjoy. :)

@@ -1,0 +1,47 @@
+lv29-138.TXT
+
+ lv29-138.ZIP
+
+  lv29-138.LMP - Ultra Violence Speed
+
+  Recorded using Doom2.exe v1.9
+
+  DooM ][ - Level 29 : The Living End
+
+  Kills    38%
+  (Items   80%)            ------
+  Secret   100%  and Time  |1:38|
+                           ------
+Description:
+ 
+First, I have to thank Vincent (Peroxyd) for all the help. Really. Thank Vincent.
+
+Then, JC for beating my old 2:16 on CFD-N. As this is my favorite map, I tried
+again and got 1:59. Then 1:48, with a lot of mistakes. So i thought under 1:43
+would be possible for me. After some hours, finally I got it :)
+This isn't optimal, I think 1:35 would be nice on this map. I wonder why no one
+dit that before me... Such a great map...
+Anyway, I hope you will like it!
+
+Here is an overview of the whole map
+-Start : I don't know if taking the shotgun would be faster. I didn't tried with.
+ But this brings a problem, as you will be forced to take it after... And not in
+ the best conditions.
+-Revenant + imps : I couldn't get through it like Jango's demo. This could be a
+ possible improvement. After the switch, you don't have to have a perfect playing, 
+ as you will have to wait for the bridge anyway (if you are fast enough).
+-Blue room : this is where I screwed... Erm, where cacos+fat guy screwed most of
+ my attempts. I don't have a precise strategy here, though in this demo I was
+ quite lucky. They let me go without trouble. However, I lost about a second at
+ the switch, because I went over the mancubus.
+-Arch-Vile room : here, a jump like map06 would be possible, but too hard and
+ not enough time-saving to be worth the trouble. This time, archie was kind with
+ me :)
+-Baron room : once, a caco was there, and it had already opened the door. Once.
+-Last but one room : I lost about a second here, aiming to make the bitchiest jump
+ of this game. The very last hard thing you have to do here. I've screwed too much
+ nice demos because of it.
+-Final stairs : just run, and hope that cacos and PE won't bother you...
+
+Laurent "Squonk" Sebellin
+<squonk@free.fr>

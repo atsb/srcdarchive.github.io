@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE16-211.TXT
+RE16-211.ZIP
+
+RE16-211.LMP - Ultra Violence with -RESPAWN
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+DooM II - Level 16 - ""
+
+Kills    101%
+(Items      %)
+Secrets  100%  
+
+   ...and Time   02:11
+               ---------
+
+Description: Took alot more time than I expected, mainly because the map is
+	     is a mess in 100\100 speeding.... It was a true nightmare to get 
+	     100% kills..I used to follow Sedlo's route for 30min or so but 
+	     using his method I only got 8x% kills. So I had to change it abit.
+	     This way it's slower but more safe. 
+ 	     	                             
+Author: Henning Skogsto
+E-mail: h-doom-frisurf.no

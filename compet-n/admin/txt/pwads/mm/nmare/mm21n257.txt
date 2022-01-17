@@ -1,0 +1,43 @@
+This is a Doom LMP Entry
+
+MM21N257.ZIP
+
+	MM21N257.TXT
+	MM21N257.LMP - Nightmare Speed
+
+Recorded using Doom2 Version 1.9
+
+Memento Mori - Level 21 - Twilight Lab
+
+=---+------+---=
+Kills        33%
+Items        15%
+Secrets      40%
+ 
+TIME     2:57.00	Old record: 3:57 by Jim "Xit Vono" Leonard
+=---+------+---=
+
+Demo entry #6.
+
+Description:
+
+This level is designed more like Duke3D than Doom! It also somehow reminders me
+of New Year.
+
+Nice start of my new dooming year. In spring of 2006 I reached 3:56 with a long
+detour to the supercharger and megaarmor early in the run. But on 05.01.2007,
+Vono uploaded his 3:57 entry (without that detour), and I felt that an one
+second improvement sucks! So I decided to skip those two powerups that take half
+a minute to get, and run like hell past all those gunners etc.
+
+It didn't take too long to succeed. I had a horrible load of unluck in the end,
+and running from death into the exit was a miracle for me. A hot scene, IMO.
+
+Oyvind Stenhaug had 3:26 in a regular speedrun because he didn't know the right
+route. Also double cell ammo helped me to reach my full speed. On UV, Kristian
+Ronge's rocket jump allows for a run below 2:30.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done February 14 (wow), 2007, 21:44:42

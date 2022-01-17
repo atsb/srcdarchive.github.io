@@ -1,0 +1,22 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+author:   Arno Slagboom (slagboom@cybercomm.nl)
+          Marko van der Want                   
+
+game:     doom2 v1.9
+category: coop max
+level:    map02
+
+time:     1:17
+
+comments: The stats screen showed only 86% kills,
+          but there really isn't a single monster left
+          alive. If you see any alive monster, tell us and
+          we will kill him next time. But be sure the time
+          is faster then!
+
+
+-----
+Admin note (Ralf):   Yep, all monsters seem to be dead only the counter is
+                     a bit out of order, I never saw such a low kill count
+                     in a coop demo.

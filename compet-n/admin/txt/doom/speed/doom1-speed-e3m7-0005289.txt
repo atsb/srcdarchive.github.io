@@ -1,0 +1,13 @@
+Runner: Hi Jango
+IWAD: DOOM.wad
+Category: UV-Speed
+Map: e3m7
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 5%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:52.89
+
+Description: 
+This one can probably go at least one second faster but it would greatly depend on how the monsters decide to move around the map :)

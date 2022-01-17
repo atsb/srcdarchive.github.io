@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+093-RE02.TXT
+
+ 093-RE02.ZIP
+
+  093-RE02.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02 - "Underhalls"
+
+  Kills     86%
+  (Items    65%)
+  Secrets  100%  and Time  02:16
+
+  Minimum Maximum Health = 093 %
+                           -----
+
+  Description:  it's unbelievable how my health never dropped below
+                93%, but i was alway able to restore to 100% before
+                the next hit. :-)
+
+                i think i took at least 10 hits in this demo, so i'd
+                love to see someone playing this -respawn without
+                taking any damage at all. that person must be the
+                ultimate cornerinspector! :-)
+
+
+       Author:  Thomas "Poeppy" Kroppen
+
+       E-mail:  poeppy@aol.com

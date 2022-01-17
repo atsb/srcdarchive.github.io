@@ -1,0 +1,40 @@
+    
+      
+  **      	              ** 
+  * This is a COOP-N entry lmp *
+  ** 			      **
+     
+
+
+        category - coop speed (slow is better)
+   Hell Revealed - Level 04 - Garden Terminal
+
+
+                ********
+  time:         * 0:42 *
+                ********   
+
+  results:      kills      items      secrets
+    GREEN        32%         7%          50%    (McRocet)
+    INDIGO       55%        89%          50%    (DooMerMan)
+  infights       13%
+
+
+  : NOTE :
+
+
+  [ McRocet   ]
+  My second entry...
+
+
+  [ DooMerMan ]
+  First we tried combination - me do archiejump and all the level :)
+  and McRocet do that he don´t died by Cybie´s hand.
+  But after 3 succesfull archiejumps and 3 Green marines down - we
+  did nontrick keys combination, safes about 1 or 2 seconds but if
+  it do someone without any errors. So :34 would be possible. 
+  My first entry was hr04-041, so ... Enjoy odd demo from McRocet´s
+  view :)
+
+   Green:        Petr "McRocet" Urban  <unknown@email>  - hc04m042.lmp
+  Indigo:   Jakub "DooMerMan" Machata <DMrM@seznam.cz>  - hc04d042.lmp  

@@ -1,0 +1,16 @@
+This is a   Compet-N doom2\nm100s  entry 
+
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+
+game:       DOOM2 version 1.9
+
+category:   Nightmare! with 100% secrets
+            
+level:      Map18
+
+stats:      Time   1:58
+
+description: 
+	
+            Maybe Sedlo and Henning were not in good mood when 
+            they did their 2:05 and 2:04 :))

@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM07-051.TXT
+
+ NM07-051.ZIP
+
+  NM07-051.LMP - Nightmare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - Dead Simple
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time  00:51
+                           -----
+
+  Description :-)
+  
+  I was thinking that my last NM07 was good but not quite enough,
+  plus I saw some improvements to my old route, which made me try
+  this again. I made the mancubi part much faster than last time,
+  and I used rockets for the arachnotrons, as many as possible.
+  This helped my do a 0:52 after some dozens of hours :) but later
+  I did a run where I died in the exit and if I pressed the switch
+  one gametic earlier it would have been a 0:51. This made me very
+  angry and I tried more and more. This one came quite hard, I had
+  another 0:52 and a 0:53 meanwhile.
+ 
+  Finally this run, I'm satisfied with it now, although there is
+  still room for improvement. 0:50 is definately possible, even
+  0:49, but the latter needs more luck than usual.
+  
+  I don't think I'll go for these times, think this 0:51 will prevent
+  anyone from trying. Even though the mancubi can help you and you
+  have more ammo, don't even think NM is easier than UV!
+  It's not -- anyone under 1:00 in NM can receive my handshake.
+
+  Now my 0:54 with -fast is the slowest of MAP07, as it should be,
+  because UV -fast is the hardest way to play this map. Maybe I'll
+  improve that one some time, because it seems slow compared to
+  the other times.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu  

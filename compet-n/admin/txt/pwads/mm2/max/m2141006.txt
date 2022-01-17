@@ -1,0 +1,47 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2141006.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP14 - A Question Of Time         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     23%           *********        |
+            |      Secrets  100%  and Time * 10:06 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I watched m2141034 and I didn't like it - Peo's demo was better even   |
+| if marginally slower. This time I concentrated myself on virtues of    |
+| this map, trying to forget about bugs. It worked, this was more fun    |
+| than frustration present.                                              |
+|                                                                        |
+| I'm glad I discovered a few time savers in this simple, SSG oriented   |
+| level. Kimo Xvirus should be able to get 9:40, judging from his UAC    |
+| Ultra MAP02 performance ;)                                             |
+|                                                                        |
+| Time "lost" in this demo: 1.beginning (BK can be picked up at least 7  |
+| seconds earlier), 2.punching revenants (no luck with berserk damage),  |
+| 3.chaingunner in the red brick area (I thought there was a chaingunner |
+| / caco infight, I lost health and spent time on an additional medikit).|
+| Time "gained": 1.pain elementals, 2.instant mancubus/baron infighting  |
+| before the arch-vile section.                                          |
+|                                                                        |
++========================================================================+

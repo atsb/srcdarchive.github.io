@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ23-633.TXT
+
+ RQ23-633.ZIP
+
+  RQ23-633.LMP - Max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 23 - Hatred
+
+  Kills    106%
+  (Items    20%)          ********
+  Secrets   50%  and Time * 6:33 *
+                          ********
+                          
+
+  Description :-)
+  
+  I think Adam's maxdemo here was probably the best demo in the
+  requiem demopack.  I especially liked the way he killed all
+  the nazis, although I used a different method which I believe
+  to be better.  This is definitely a unique map which was fun
+  to play.  I did a 6:46 but prboom showed too many monsters
+  alive before the boss started shooting, even though I couldn't
+  find them wandering around when I watched with iddt.  There
+  should be 2 monsters alive at that point: a baron in front
+  of the boss, and an arch-vile which can't be killed.  Also,
+  50% secrets is the maximum here.
+
+  Xit Vono
+  Xit_vono@yahoo.com

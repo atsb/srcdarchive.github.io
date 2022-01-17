@@ -1,0 +1,36 @@
+This is a Doom .LMP "Competition" Entry
+
+mm05n054.txt
+mm05n054.zip
+
+mm05n054.lmp
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm.wad -playdemo with Version 1.9
+
+Memento Mori - Level 05 - Hell's Kitchen
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :54
+=--------------=
+
+C-N entry #81.
+
+Something closer to :50 is possible with better
+monster cooperation, but I'm not interested in
+doing so.
+
+Thanks to Casey for pointing out that invuln.,
+even after doing several movie runs for the wad
+I never noticed it. :)
+
+Also thanks to Erik for his :56 WITHOUT the
+invuln, a very cool watch.  This record won't
+last long once he sees it. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

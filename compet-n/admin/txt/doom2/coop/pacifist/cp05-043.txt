@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ ***** CP05-043.ZIP - Coop. UV pacifist *****
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+ Level 05 - THE WASTE TUNNELS
+         
+           *********
+           * 00:43 *
+           *********
+                   
+			     KILLS  ITEMS  SECRET 
+
+ ***** Twister - Green *****   0%     14%     0%
+
+
+
+ ***** MeThOd - Indigo *****   0%     28%     0%
+
+	
+ Description: Demo was recorded at 17.4. 2003 in Prag.
+
+	Twister: One of first exit. Good finish met, do you remember?:)
+	MeTh0d : This map is great for pacifist.
+
+
+   David "mr.twister" Ficenec <mr.twister@gamezone.cz>
+   Jakub "method_man" Razak <dale007@volny.cz>

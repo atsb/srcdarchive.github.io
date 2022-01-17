@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ24-651.TXT
+
+ RQ24-651.ZIP
+
+  RQ24-651.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 24 - Proscrustes Chambers
+    
+  Kills    100%
+  (Items    86%)          *********
+  Secrets  100%  and Time * 06:51 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is one of my favourite maps of the lot, finally a map that actually
+  requires you to *think* about the way you'll take care of the baddies instead
+  of just giving you a SSG and a shitload of shells. Oh, and the architecture is
+  top-notch, too :). There are 2 things that make this map look much harder than
+  it actually is: first, the hardest part is right at the beginning, which is
+  slipping in and out of the Blue Key area alive and with the key, preferably :).
+  Second, everything, and I mean *everything* (weapons, ammo, health, armor), is
+  in secret areas. So the first time you play this you may find yourself a
+  little overwhelmed, to say the least, but after a long look with DCK despair
+  may slowly turn to hope :). Another thing: even with all the secret stuff
+  there's not enough ammo to kill everyone. I solve that by berseck-punching a
+  few revenants.
+
+  Note: No, I don't have any idea what happened in the stairs before the Yellow
+  door... 
+
+  Rudy Jurjako
+  rudyj@total.net

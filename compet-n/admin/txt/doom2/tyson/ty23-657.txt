@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+TY23-657.TXT
+
+ TY23-657.ZIP
+
+  TY23-657.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - Barrels O' Fun
+
+  Kills    100%
+  (Items    81%)
+  Secrets  100%  
+
+            ... and Time   6:57
+                          -----
+
+  Description:
+
+  I remembered this was difficult last time but
+  now it wasn't too bad.  You need good infights
+  at the yellow key and at the bfg.
+
+  Xit Vono
+  xit_vono@yahoo.com

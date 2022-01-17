@@ -1,0 +1,37 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Author: Various                               |
+            | Demo filename: m232t725.lmp                   |
+            | Category: Tyson                               |
+            | Map Level: MAP32 - Dances With Demons         |
+            |                   (by David Kuykendall)       |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     50%           ********         |
+            |      Secrets    0%  and Time * 7:25 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Probably my best demo ever.                                            |
+|                                                                        |
+| PrBoom+ users, you may watch this with " -trace_thingshealth 146 147 " |
+| and cyberdemons' health will be shown if HUD is activated.             |
+|                                                                        |
++========================================================================+

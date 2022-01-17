@@ -1,0 +1,18 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2171358.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP17
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     79%           *********
+  Secrets  100%  and Time * 13:58 *
+                          *********
+
+
+==============================================
+
+Slow in a few parts, but still my best -fast demo so far.
+Unlike in MAP14 -fast .lmp, this crazy route was intended in 100%.

@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV08-612.TXT
+
+ EV08-612.ZIP
+
+  EV08-612.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 08 - Metal
+
+  Kills    100%
+  (Items    56%)           
+  Secrets  100%  
+
+          ...and Time  5:45
+                      ------
+
+
+Description: One minute and one second faster than Gemini's run. Still
+             loads of room for improvement.
+             
+            	     
+
+
+Author:    Radek Pecka
+E-mail:    r.master@email.cz
+

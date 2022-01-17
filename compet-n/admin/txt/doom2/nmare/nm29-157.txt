@@ -1,0 +1,32 @@
+This is a Doom .LMP "Competition" Entry
+
+nm29-157.txt
+nm29-157.zip
+
+nm29-157.lmp 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2 - Level 29 - The Living End
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets      0%
+
+Time       1:57
+=--------------=
+
+C-N entry #132.
+
+Thanks to Henning for strategy in his
+2:08 run, I used much of them for this
+one.  One of the few maps from doom2 I
+truly like, my goal here was simply for
+a run under 2 minutes.  Naturally I goof
+up briefly somewhere (the archvile switch)
+but nothing serious.  Enjoy. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

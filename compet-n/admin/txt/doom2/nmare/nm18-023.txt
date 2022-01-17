@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM18-023.TXT
+
+ NM18-023.ZIP
+
+  NM18-023.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 18 - "The Courtyard"
+
+  Kills     ??%
+  (Items    ??)
+  Secrets   ??%  and Time  00:23
+                           -----
+
+Description: 
+
+Panter wrote :
+
+   > 24 seconds aren't possible when not using Strafe 50, said FJS...
+   > but I did it w/o, and consequently a 23sec. should be possible
+   > with Strafe 50.
+
+Yeah you are right Panter... 23 is impossible without Strafe50.
+So I did like adam for lv30-030... i used Strafe50 for the long straight lines.
+There are only 2 lines : - to grab the yellow key
+                         - coming back to the blue door
+Consequently each line saves 0.5 sec. => 0:22 might be possible on UV. 
+   
+
+
+
+  Author:    Vincent Catalaa
+
+  E-mail:    peroxyd@wanadoo.fr

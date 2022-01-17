@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PT10-354.TXT
+
+ PT10-354.ZIP
+
+  PT10-354.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 10 - Onslaught
+
+  Kills    105%
+  Items    100%           ********
+  Secrets  100%  and Time * 3:54 *
+                          ********
+
+
+Description: The trick with the red key and more important the SSG helps here.
+	     I even managed to jump through the other window and had plasmagun
+	     then. This is an every-monster-dead entry, the time for a 100/100
+	     could be improved by maybe 1/2 minutes. At least, you don't have
+	     to check for chaingunners left. I had very many rockets (27) at
+	     the exit room, maybe I should have used them on the crowd at the
+	     yellow door. But there isn't that much space, you can hurt yourself
+	     easily there. If you don't like to jump to the red key, you can
+	     also wait for a Dude to open it, since the other side is a normal
+	     door. Think you should kill the monsters outside first then :)
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

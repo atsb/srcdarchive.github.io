@@ -1,0 +1,9 @@
+Author: Esko Koskimaa
+E-mail: koskimaa@cs.helsinki.fi
+Skill:  4 with -fast monsters
+Game:   Ultimate Doom
+Map:    u4m2 (Perfect Hatred)
+Time:   02:57
+
+Get to the BFG as quickly as you can and kill those nasty Cacos
+before they kill you.

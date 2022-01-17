@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV27-046.TXT
+
+ LV27-046.ZIP
+
+  LV27-046.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 - Monster Condo
+
+  Kills      7%
+  (Items     3)
+  Secrets    0%  and Time  00:46
+                           -----
+
+
+Description: Any idea how to improve this?
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

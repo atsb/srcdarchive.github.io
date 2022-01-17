@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV29-148.TXT
+LV29-148.ZIP
+
+LV29-148.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 29 - "The Living End"
+
+Kills     xx%
+(Items    xx%)
+Secrets   xx%  
+
+   ...and Time     01:48
+                  -------
+
+
+Description: Oki Bolton, 2 sec's faster than you....now I'm expecting at least
+	     01:45 from you....                                                            
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net

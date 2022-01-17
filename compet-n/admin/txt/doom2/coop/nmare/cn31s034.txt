@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop NM speed
+mission:  map31 - Secret Exit
+
+time:     0:34
+
+Vincent:  heh
+
+xit-vono: Just an easy point.
+
+
+          

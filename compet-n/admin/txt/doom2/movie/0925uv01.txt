@@ -1,0 +1,59 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+0925UV01.TXT
+
+ 0925UV01.ZIP
+
+  0925UV01.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1" - Levels 01 thru' 10
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      0%    0%    0%       0" 08    (100   0)
+  LV 02  -     60%   45%  100%       1" 07    ( 43 117)
+  LV 03  -     29%   22%  100%       0" 41    (110 154)
+  LV 04  -     56%   55%   33%       0" 57    ( 31   4)
+  LV 05  -     22%   33%    0%       0" 47    ( 20  94)
+  LV 06  -     36%    5%   66%       1" 31    ( 69  85)
+  LV 07  -    100%   66%  100%       1" 11    ( 85  73)
+  LV 08  -     24%   60%    0%       0" 47    (185  75)
+  LV 09  -     35%   23%    0%       1" 33    ( 92  99)
+  LV 10  -     10%   19%   16%       0" 43    ( 14  21)
+
+                     Total Time =    4" 325
+                                     4" +
+                                     5" 25
+                                    ------
+                     TOTAL TIME =   09" 25
+                                   --------
+
+  Description :-)
+
+  Some weeks ago I said I won't give a 'under-10-minutes' LMP a try.
+  But as usual (after being beaten by Daniel), I tried and tried and
+  after some days I made this LMP. I compared it with Daniel's 10LVS
+  run and I guess after 5 levels the time is equal - one second here,
+  another there. Our times always differ by seconds, depending on how
+  "risky" the levels are played, what weapons, and how much ammo are
+  used. My clear advantage was level 9. I played it 8 seconds faster
+  than Daniel. Anyway I'm sure that Daniel will also give it another
+  try. ( And I, of course, will be back. :-) At the time of writing
+  this, there's a LV06-111 (!!) entry in the incoming directory. Me,
+  I am capable of playing level 6 in 1:21 - I thought 1:15 would be
+  possible) So maybe there will be a LMP under 9 (!) minutes, by one
+  (or both) of us.
+
+  (OOf, what a long .TXT :-)
+
+ Anthe
+
+ anthe.kren@telecom.at
+
+

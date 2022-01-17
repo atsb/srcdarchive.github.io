@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TN16-120.TXT
+
+ TN16-120.ZIP
+
+  TN16-120.LMP -Nightmare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9
+
+  The Final Doom: TNT: Evilution - Level 16 - Deepest Reaches
+
+  Kills       36%
+  (Items       8%)
+  Secrets     50%  and Time  01:20
+                             -----
+  Description :)
+
+  I think this one turned out to be a bit easier than ev16-119,
+  but I think part of it is I already had the practice on this
+  map.  That megasphere grab can be very frustrating for me so
+  I didn't get many chances to beat the record with it.  I also
+  have a 1:22 that doesn't use the grab, which I was quite
+  surprised to see.  I think on a very fast run it may be
+  possible to beat this without the grab but you will probably
+  need the grab to beat this.  This demo will also play back
+  perfectly with final doom.
+
+  Xit Vono
+  xit_vono@yahoo.com

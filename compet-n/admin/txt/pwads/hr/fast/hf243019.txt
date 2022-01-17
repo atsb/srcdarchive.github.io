@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF243019.TXT
+
+ HF243019.ZIP
+
+  HF243019.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 24 - Post Mortem
+  
+  Kills    116%
+  (Items    94%)
+  Secrets  100%  and Time = 30:19
+                          
+
+  Description: Well, somebody was going to do this sooner or later.
+               The key is to quickly get somewhere you can easily
+               defend. For this level, the best place is the long ledge
+               with all the demons. Thereafter it's mop-up time. It also
+               helps to get the BFG straight-off. Made sure all the monsters
+               teleported in - but I don't know where that chaingunner
+               came from...
+  
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

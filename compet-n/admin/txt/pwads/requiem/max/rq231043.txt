@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ231043.TXT
+
+ RQ231043.ZIP
+
+  RQ231043.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 23 - Hatred
+  
+  Kills    104%
+  (Items    67%)          *********
+  Secrets   50%  and Time * 10:43 *
+                          *********
+                          
+
+  Description :-)
+  
+  This map was made by one of the famous Plutonia brothers. I expected that this
+  map would not contain ammo problems, and I didn't find such problems at all.
+  Well designed map with some special effects, like ghost monsters who can walk 
+  through walls and invisible sectors...  
+  Only one (little) mistake is that 100% secrets are not possible, the door to
+  the second secret area is just too low, I couldn't fit through, maybe I'm too
+  fat ;-))
+
+  Istvan Pataki
+  deity@sch.bme.hu

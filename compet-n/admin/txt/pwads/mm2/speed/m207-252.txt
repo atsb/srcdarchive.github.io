@@ -1,0 +1,38 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m207-252.lmp                        |
+            | Category: UV Speed                            |
+            | Map Level: MAP07 - Frustration                |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     43%                            |
+            |      Items     45%           ********         |
+            |      Secrets   20%  and Time * 2:52 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Both m207-315 and m207-259 have their flaws, still both are fantastic  |
+| demos IMO (Eugene skips both blue armors and a pair of revenants, Xit  |
+| Vono presses a switch "through" a hell knight). My run was based       |
+| mainly on m207-259. I don't know if Xit Vono will bother with such an  |
+| inferior category as UV Speed (it's only skill 4 after all), but I'd   |
+| love to see some non-Nightmare! demos from him sometimes ;)            |
+|                                                                        |
++========================================================================+

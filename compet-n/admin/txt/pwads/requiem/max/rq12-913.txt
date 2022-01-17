@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ12-913.TXT
+
+ RQ12-913.ZIP
+
+  RQ12-913.LMP - UV Max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 12 - Militant Reprisal
+
+  Kills    100%
+  (Items    33%)          *********
+  Secrets   86%  and Time * 09:13 *
+                          *********
+                          
+
+  Description :-)
+  
+  I like this map, so I thought I'd do a max-kill for it.
+  There are a few faults with it though.  The first is that a
+  potion and a dead shotgunner does not make a good secret.
+  Also Prower says some secrets are inaccessable, so I 
+  got 86%, same as he did.  I also got a visplane near the
+  rl, but that's pretty rare.
+
+  Xit Vono
+  Xit_vono@yahoo.com

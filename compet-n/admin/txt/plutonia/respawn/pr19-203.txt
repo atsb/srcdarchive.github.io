@@ -1,0 +1,22 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+pr19-203.TXT
+
+ pr19-203.ZIP
+
+  pr19-203.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file plutonia.wad -playdemo with version 1.9
+
+  Plutonia – Map 19 – UV Respawn
+
+Comments:
+Here's a typical session of attempts:
+“Dammit, you archie! Why couldn't you die in one blast?”
+“Goddamn revenants!”
+“About to kill the cyber—fock!”
+“Shut the hell up!”
+“The platform is way too frigging crowded!”
+
+Author: Revved

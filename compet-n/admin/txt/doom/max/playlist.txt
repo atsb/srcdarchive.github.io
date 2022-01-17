@@ -1,0 +1,88 @@
+DOOM I   100% kills and secrets
+
+LEVEL                           TIME            AUTHOR
+1-1 : Hangar                    0:33 !          Uwe Gurlich
+1-2 : Nuclear Plant             2:26            Kai-Uwe Humpert
+1-3 : Toxic Refinery            3:25            Thomas Zajick
+1-4 : Command Control           2:41            Wade Cayton
+1-5 : Phobos Lab                3:28            Wade Cayton
+1-6 : Central Processing        5:09            Wade Cayton                         
+1-7 : Computer Station          3:51            Wade Cayton            
+1-8 : Phobos Anamoly            2:10            Simon Widlake
+1-9 : Military Base             3:40            Michael Kren          
+
+2-1 : Deimos Anamoly            2:05            Kai-Uwe Humpert
+2-2 : Containment Area          5:16 !          Michael Greenslade
+2-3 : Refinery                  4:19            Kai-Uwe Humpert
+2-4 : Deimos Lab                7:14            Kai-Uwe Humpert
+2-5 : Command Centre            8:05            Kai-Uwe Humpert
+2-6 : Halls Of The Damned       8:09            Kai-Uwe Humpert
+2-7 : Spawning Vats             5:44            Wade Cayton
+2-8 : Tower Of Babel            0:54            Michael Greenslade
+2-9 : Fortress Of Mystery       1:13 !          Kai-Uwe Humpert
+
+3-1 : Hell Keep                 1:33            Kai-Uwe Humpert
+3-2 : Slough Of Despair         3:39            Kai-Uwe Humpert
+3-3 : Pandemonium               3:30            Wade Cayton
+3-4 : House Of Pain             8:15            Kai-Uwe Humpert
+3-5 : Unholy Cathedral          6:34            Kai-Uwe Humpert
+3-6 : Mt. Erebus                6:00            Michael Greenslade
+3-7 : Gate To Limbo             4:31            Blake Cole
+3-8 : Dis                       1:37            Eelco de Vries
+3-9 : Warrens                   3:45            Kai-Uwe Humpert
+
+4-1 : Hell Beneath              3:42            Kai-Uwe Humpert
+4-2 : Perfect Hatred            3:48            Kai-Uwe Humpert
+4-3 : Sever The Wicked          4:24            Wade Cayton
+4-4 : Unruly Evil               2:27            Wade Cayton
+4-5 : They Will Repent          3:57            Wade Cayton
+4-6 : Against Thee Wickedly     5:21            Wade Cayton
+4-7 : And Hell Followed         4:40            Michael Greenslade
+4-8 : Unto The Cruel            4:34            Michael Greenslade
+4-9 : Fear                      5:39            Michael Greenslade
+
+Movies   (Fast)
+Knee Deep In The Dead (UV)      7:41            Steffen Winterfeldt      
+The Shores Of Hell (UV)         6:15 !          Steffen Winterfeldt
+Inferno (UV)                    4:46 !          Uwe Gurlich
+Thy Flesh Consumed (UV)         8:48            Steffen Winterfeldt
+
+
+DOOM II    100% kills and secrets      
+LEVEL                           TIME            AUTHOR
+Level 1 - Entryway              0:49            Kai-Uwe Humpert
+Level 2 - Underhalls            1:28 !          Daniel Lindgren
+Level 3 - The Gantlet           1:53 !          Daniel Lindgren
+Level 4 - The Focus             1:23 !          Kai-Uwe Humpert
+Level 5 - The Waste Tunnels     3:06            Daniel Lindgren
+Level 6 - The Crusher           4:03            Kai-Uwe Humpert
+Level 7 - Dead Simple           0:55 !          Vincent Smith
+Level 8 - Tricks N Traps        4:08            Daniel Lindgren
+Level 9 - The Pit               8:19            Daniel Lindgren
+Level 10 - Refueling Base       8:59            Daniel Lindgren
+Level 11 - Circle Of Death      3:40            Daniel Lindgren
+Level 12 - The Factory          6:11 !          Daniel Lindgren
+Level 13 - Downtown             6:22            Daniel Lindgren
+Level 14 - The Inmost Dens      3:41            Daniel Lindgren
+Level 15 - Industrial Zone      7:14            Daniel Lindgren
+Level 16 - Suburbs              3:58 !          Daniel Lindgren
+Level 17 - Tenements            7:52            Daniel Lindgren
+Level 18 - The Courtyard        5:10            Daniel Lindgren
+Level 19 - The Citadel          7:58            Daniel Lindgren
+Level 20 - Gotcha!              6:34            Daniel Lindgren
+Level 21 - Nirvana              3:48            Daniel Lindgren
+Level 22 - The Catacombs        1:34 !          Daniel Lindgren
+Level 23 - Barrels 'O' Fun      3:13            Daniel Lindgren
+Level 24 - The Chasm            6:57            Daniel Lindgren
+Level 25 - Bloodfalls           2:11            Daniel Lindgren
+Level 26 - The Abandoned Mines  5:35            Daniel Lindgren
+Level 27 - Monster Condo        7:53            Eric Mullins
+Level 28 - The Spirit World     3:37            Daniel Lindgren
+Level 29 - The Living End       6:51 !          Daniel Lindgren
+Level 30 - Icon Of Sin          0:32 !          Kai-Uwe Humpert
+Level 31 - Wolfenstein          3:03            Daniel Lindgren
+Level 32 - Grosse               0:43            Kai-Uwe Humpert
+
+Movies   (Fast)
+Levels 1-30 UV                 38:44 !          Daniel Lindgren                                 
+Levels 1-30 NMare              65:20 !          Steffen Winterfeldt

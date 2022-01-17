@@ -1,0 +1,35 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : u4m6-247.lmp, u4m6-247.txt
+Date     : 2015-02-26
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max
+Map(s)   : E4M6: Against Thee Wickedly
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  50%
+Secrets  : 100%
+Time     : 00:02:47
+===================================
+Description:
+
+Memfis suggested some new tactics in his e4m6-301. The record itself was 
+5 seconds slower than Vile's compet-N record (2:56), but his route had 
+a good potential of improving max record. His uses of rockets and cells 
+were effective, then he did not pick up a soul sphere. I used his route 
+with some tweaking for more effective use of weapons. I got 2:55 early, 
+then below 2:50 seemed to be possible but it was very hard target. 
+This run is pretty smooth, excluding not killing the cyberdemon with 
+two shot of BFG. I was satisfied this record.
+
+
+104th Compet-N Entry

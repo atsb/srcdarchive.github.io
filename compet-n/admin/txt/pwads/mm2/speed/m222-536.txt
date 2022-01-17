@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+________________________________________________ _____________________
+| PWAD:          | mm2.wad                     | |  Kills      46 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | m222-536.lmp                | |  Items       0 %  |
+|________________|_____________________________| |___________________|
+| Category:      | UV Speed                    | |  Secrets    16 %  |
+|________________|_____________________________| |___________________|
+| Map Level:     | MAP22 - R.R.F.Refinary,     | |            ______ |
+|                |       by Thomas Moeller     | |           /      \|
+|________________|_____________________________| | and Time: | 5:36 ||
+| Exe/Port used: | Doom2 1.9                   | |           \______/|
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 1.10.2012                   | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| > Time under 5:30 should be not a problem for this level.          |
+|                                                                    |
+| Sorry, not this time. I even had 5:04 with a few saves, no         |
+| spectacular play, as well as a *real* 5:44 in which I reached the  |
+| blue door 10 seconds earlier (can be much earlier still).          |
+|                                                                    |
+| My main new invention here is what I do with the pigs and archvile |
+| area, this was after a meticulous study in DB2, I was examining    |
+| all the "Block Sound" linedefs. My previous strategy (1+3 BFG      |
+| shots instead of 2+2) can be seen in the aforementioned 5:44 demo. |
+|____________________________________________________________________|

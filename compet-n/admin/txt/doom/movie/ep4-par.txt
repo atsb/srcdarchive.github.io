@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+EP4-PAR.TXT
+
+ EP4-PAR.ZIP
+
+  EP4-PAR.LMP - All levels under par
+
+  Recorded using The Ultimate DooM Version 1.9
+
+  DooM - Episode 4 - Thy Flesh Consumed
+
+
+  Description: It IS possible to play e4m6 under par in a multilevel
+               recording - that's what I wanted to proof by making this LMP.
+               The performance is quite bad, many fall downs and other stupid
+               things. But anyway the episode 4 lightning is POSSIBLE
+               (and by far easier than I had expected).
+
+  Map	 Time	 PAR	Comments
+  --------------------------------------------------------------------------
+  E4 M1	 1:11	1:30	The key trick makes it much easier
+  E4 M2	 1:57	2:00	Very close to PAR because of two stupid fall downs
+  E4 M9	 1:01	1:30	Plenty of time in here, the backpack is very useful
+  E4 M3	 1:30	2:00	I should have used the high PAR time better
+  E4 M4	 1:04	1:30	
+  E4 M5	 1:43	2:30	Extremely high PAR time
+  E4 M6	 1:58	2:00	Very short PAR time, makes it extremely dangerous
+  E4 M7	 1:31	2:00	Use a slow and safe route here
+  E4 M8			No time given
+
+       Author: STeffen "Rini" Udluft
+
+         Date: Nov 12 1997
+
+       E-mail: rini@mppmu.mpg.de
+

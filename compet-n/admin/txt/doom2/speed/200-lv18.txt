@@ -1,0 +1,11 @@
+200-LV18.LMP --> MAP18 on UltraViolence
+---------------------------------------
+
+  Kills   : 14%
+  Items   : 48%
+  Secrets :  0%
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Robert Reevy <drparadox@usa.net>

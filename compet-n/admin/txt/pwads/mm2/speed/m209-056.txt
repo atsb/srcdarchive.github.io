@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+M209-056.TXT
+
+ M209-056.ZIP
+
+  M209-056.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 09 - Sabbath Sewer
+
+  Kills      8%
+  Items      0%           ********
+  Secrets   27%  and Time * 0:56 *
+                          ********
+
+  Description :
+  
+  Really bad demo!
+  
+
+  Jakub "method_man" Razak
+  dale007@volny.cz

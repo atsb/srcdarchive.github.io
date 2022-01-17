@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL32-NM.TXT
+
+ PL32-NM.ZIP
+
+  PL32-NM.LMP - Skill 5 - Nightmare!
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 32
+
+  Kills     86%
+  (Items    66)
+  Secrets  100%  and Time  02:25
+                           -----
+
+Description: I've wanted to nail this one on skill 5 before. Couldn't do
+             it 8 months ago, but that's an ocean of Dooming since :)
+             I know it dosn't look that good- or hard. But belive me, its
+             *hard*.             
+
+             Note: Cause Final Doom's exe cant handle the joyb_speed31, I
+             used the originall Doom2.exe (1.9). So, to get a correct
+             playback of this lmp, you'll have to run plutonia.wad 
+             together with Doom2's exe...got it? :)
+
+Author:    Anders Johnsen
+E-Mail:    gunjohns@online.no 
+Doompage:  http://home.sol.no/~doom/

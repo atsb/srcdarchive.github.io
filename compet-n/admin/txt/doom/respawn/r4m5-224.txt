@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M5-224.TXT
+
+ R4M5-224.ZIP
+
+  R4M5-224.LMP - Ultra Violence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+
+  DooM - Episode 4 Mission 5 - They Will Repent
+
+  Kills    100%
+  (Items    41%)
+  Secrets  100%  and Time  02:24
+                           -----
+
+Description:  And it's finally below the max time. I changed Ole's route a
+              fair bit, this just seemed the logical way. There's a few
+              mistakes at the end, so this should be easily improvable.
+              
+
+Author:  Chris "Ryback" Ratcliff
+
+E-mail:  ryback@fcmail.com
+

@@ -1,0 +1,15 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM 
+Category:        UV Pacifist
+Map:             e2m9	
+Players:         2
+
+Kills:           0%
+Secrets:         100%
+Time:            0:08
+
+Green:           Arno "SlagDooM" Slagboom
+Indigo:          Marko "Python" van der Want
+
+Comments:        While Marko was grabbing the yellow key,
+                 Arno was catching a caco ball. Real coop!  ;))

@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF25-838.TXT
+         
+ EF25-838.ZIP
+
+  EF25-838.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 25 - Baron's Den
+
+  Kills    100%
+  Items     77%                   
+  Secrets  100%  and Time = 8:38  
+                                  
+
+
+Description: This level is a bit tougher with -fast. Basically the whole
+             demo is an improvisation.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

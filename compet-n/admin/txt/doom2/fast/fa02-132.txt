@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA02-132.TXT
+
+ FA02-132.ZIP
+
+  FA02-132.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only ?
+
+  Doom2 - Level 02 - Underhalls
+
+  "With -Skill 4 (and) -Fast"
+
+  Kills    100%
+  (Items    25)
+  Secrets  100%  and Time  01:32
+                           -----
+
+  Description :-)
+
+  Same route as my LV02-132  -  which most of you won't know, as it
+  never made its way to ftp.cdrom.com actually ...  found out about
+  Daniel's LV02-128 in the latest CURRENT.TAB (LATEST??! It's dated
+  31/May, file date 13/Jun, and it was d/l-able only on 03/Jul!! Oh
+  well, I guess my  "fragging moaning"  won't help much either. ;-)
+  Anyway ... "Thank you, Daniel!" :-)
+
+  So what's this LV02-!!! all about then? Well, I decided to put it
+  into the .ZIP as a "bonus track"  -  it's a nice bug that occured
+  during my LV02 session, and I have NO idea what happened.  All of
+  a sudden, *everything*  (ie. me & the monsters) went NoClip ... I
+  couldn't press switches or open doors anymore,  and the monsters'
+  far attacks didn't do any damage to me  -  near attacks still did
+  though. Sadly enough, none of  *my*  attacks could hurt a monster
+  either :-( so I finally got ripped to shreds by an imp or two.
+
+  [ .BAT stuff snipped for briefness - it was getting old anyway! ]
+
+
+ Thomas aka ZlatkO ThE GoDFatheR
+
+ thomas_zajic@hp-austria-om1.om.hp.com
+
+

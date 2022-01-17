@@ -1,0 +1,39 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV28-045.TXT
+
+ LV28-045.ZIP
+
+  LV28-045.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 28 - Spirit World
+
+  Kills      9%
+  (Items     0)		   ********
+  Secrets    0%  and Time  * 0:45 *
+                           ********
+
+Comments: Peo recorded this map in Nightmare! and 50 seconds, and suggested to
+	  improve the speed record. I got a low 47, and thought that 46 will be
+	  okay. But the 46 was a 46,1. Damn, now I was forced to play until I
+	  get 45 seconds (Laszlo was right [lv28-045.txt]). I'm still stuck for
+	  a few monents in this map, e.g. in the Spider room and it took three
+	  shots to pass the hidden pigs. This time can be improved, I've got a
+	  LMP where I reach the yellow door about 1,8 seconds earlier. The
+	  problem is always that the more pigs you kill on your way to the
+	  yellow door the less you're stuck when you return. BFG would be nice,
+	  but no time to take it :-/. Let's play some Quake ][. I wonder why
+	  they don't sell it here in Germany ...
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+
+WWW:	  http://user.cs.tu-berlin.de/~gazelle
+
+IRC(NET): @#berlin
+
+Member of the German Doom ][ League (currently at 6th place)

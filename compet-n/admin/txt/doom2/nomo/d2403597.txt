@@ -1,0 +1,15 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Mission:        map24
+Time:           0:35.97
+
+Comments:       I was wondering if this is possible with S50 because sedlo did 36s with S40.
+                So I started working with S40 only and got 36sec after 2 hours. Then I tried
+                with S50 and I fell all the time. Previous times: 36.09 x2, 36.06 x3, 36.03 x2
+                and once 36.00 :) (and of course lot of 36.10+). Took me about 20hours
+                with S50. I hope you enjoy :)
+
+                (btw, 32seconds is possible with the jump trick)
+           
+
+Author:         Looper

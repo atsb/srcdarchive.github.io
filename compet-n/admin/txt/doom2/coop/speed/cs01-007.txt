@@ -1,0 +1,15 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou
+
+game:     doom2 v1.9
+category: coop speed
+level:    map01
+
+time:     0:07
+
+descrption: sorry Arno but we've already done 0:07 
+	    0:06 is possible
+
+

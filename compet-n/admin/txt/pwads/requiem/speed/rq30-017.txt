@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ30-017.TXT
+
+ RQ30-017.ZIP
+
+  RQ30-017.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 30 - Nevermore
+        
+  Kills     22%
+  (Items    16%)          *********
+  Secrets    0%  and Time * 00:17 *
+                          *********
+                          
+
+  Description :-)
+  
+  Interesting MAP30 variant...
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

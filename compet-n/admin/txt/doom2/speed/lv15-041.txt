@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV15-041.TXT
+
+ LV15-041.ZIP
+
+  LV15-041.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 15 - Industrial Zone
+
+  Kills      2%
+  (Items    12)
+  Secrets   18%  and Time  00:41
+                           -----
+
+  Description :-)
+
+  This demo isn't very good. I also have many 0:42's and 0:43's that aren't
+  good either. But the new route I discovered makes up for the bad
+  performance. Watch it and see!
+
+  I used DKS in this recording to quickly turn. I hope it's OK, since it's
+  possible to do this with the mouse too (?). If not, ignore this .LMP and
+  take LV15-043.LMP, included in this .ZIP, as the right one.
+
+  Admin.: Is it ok to use DKS? A note perhaps?
+
+  PLEASE give me feedback!! I'll be very happy to get some!
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+
+[  Admin. Note :-)  It *is* OKay to use DKS (the/a DooM Keyboard [or mouse]
+   Spinner) as it is just a "configuration device" and therefore *not* seen
+   as cheating. The only(?) "method" that would be seen as blatant cheating
+   would be hacking the DOOM.EXE...
+
+S.;-) aka. The "Judge". ]
+
+

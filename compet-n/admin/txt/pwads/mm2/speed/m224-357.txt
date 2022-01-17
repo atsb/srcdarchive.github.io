@@ -1,0 +1,17 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m224-357.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAP24
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills     65%
+  Items     31%           ********
+  Secrets    0%  and Time * 3:57 *
+                          ********
+
+
+==============================================
+
+Aparentemente no capte la broma sobre la fuente :-P

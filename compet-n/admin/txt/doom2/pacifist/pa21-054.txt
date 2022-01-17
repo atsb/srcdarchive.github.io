@@ -1,0 +1,33 @@
+This is a DooM .Lmp "Competition" entry - Please forward it...
+
+pa21-054.txt
+
+ pa21-054.zip
+
+  pa21-054.lmp - Ultra violence + pacifist
+
+ Recording Doom2 version 1.9 !
+ Playdemo with version 1.9 - Only
+
+ DooM2 - Level 21 - Nirvana
+  Kills      31%
+  Items      38%                 ********
+  Secrets     0%  and the time : * 0:54 *
+                                 ********
+ Description:
+
+  I saw Sedloïs 59 and I thought, that faster route is with megasphere, so I 
+  try it, but a lot of runs ended by the barrel or by chaingunners. I had luck
+  in this one, that the imps shoot the barrel so quickly:). I think I can beat 
+  Sedlo with the same route, but i had no luck with the barrel. I lost there 
+  allways 4 or 5s and I did times around 1:02 - 1:05s. 
+   I try it with -nomonsters and I got with megasphere 48 and by Sedloïs route
+  52. So it is both 6s difference between nomonsters and yesmonsters:))). So I 
+  think the time is O.K.
+
+ Author: jaromir "jacih" cihak
+ Email : jacih@email.cz
+ HP    : http://doomaniax.bonusweb.cz
+                                        
+
+

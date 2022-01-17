@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry
+
+PN31-518.TXT
+PN31-518.ZIP
+
+PN31-518.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 31 - Cyberden
+
+Kills     85%
+Items    100%
+Secrets  100%
+Time     5:18
+         ----
+
+Description:
+Entry #26, this improved time came on the third try, to my amazement.
+
+I wrote previously: This is not the greatest performance by me, but it was by
+                    far the hardest.  Playing this map on nightmare took its
+                    toll on my nerves.
+
+                    It takes more strategy than one would expect to play this
+                    one on nightmare, mostly to guide the cyberdemons to the
+                    right places so you can safely go about your business.
+                    Overall performance can be considered messy, and there was
+                    one point after I grab the yellow key where I should have
+                    ate a rocket.  You'll know it when you see it. :)
+
+The primary reason I redid this level is because Vince brought to my attention
+a secret that I overlooked.  It's not a major secret, but the teleport in the 4th
+cyber room counts as one.  I pick that up in this demo, so this one also counts as
+a nm100s demo.  Not only that, but it looks better, too. :)
+
+A big thanks goes out to Vince for pointing that out. :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TN211105.TXT
+
+ TN211105.ZIP
+
+  TN211105.LMP
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 21
+                       Administration Center
+              
+  Kills       89%
+  (Items      66%)
+  Secrets      0%  and Time  11:05
+                           -----
+  This map is a lot more frustrating than it looks from
+  watching Peo's TAS demo.  There are a lot of places
+  where you should be able to do it without taking a hit
+  but sometimes it is hard to avoid getting hit and there
+  is not a whole lot of health on the level.  It gets
+  much easier once you reach the megasphere.  I screwed up
+  at then end and I think I took more than a full circle.
+
+  Xit Vono
+  xit_vono@yahoo.com

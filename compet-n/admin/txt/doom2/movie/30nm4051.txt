@@ -1,0 +1,70 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30NM4051.TXT
+
+ 30NM4051.ZIP
+
+  30NM4051.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+
+        Time     
+      
+  MAP01  0:07
+  MAP02  1:31	       
+  MAP03  0:43	
+  MAP04  0:54	
+  MAP05  0:56	
+  MAP06  1:54  :((  ... 30s lost	
+  MAP07  1:30  :((  ... 30s lost
+  MAP08  1:20	
+  MAP09  1:19	
+  MAP10  0:43	
+  MAP11  0:54	
+  MAP12  1:20	
+  MAP13  1:34	
+  MAP14  1:12	
+  MAP15  0:36	
+  MAP31  0:38	
+  MAP32  0:31	
+  MAP16  0:43	
+  MAP17  2:53	:(
+  MAP18  0:43	
+  MAP19  1:07	
+  MAP20  0:52	
+  MAP21  1:13	
+  MAP22  1:49	
+  MAP23  1:34	
+  MAP24  1:16	
+  MAP25  1:50	
+  MAP26  1:26	
+  MAP27  1:40	:(( ... (awful) 40s lost
+  MAP28  1:26	
+  MAP29  2:43	
+  MAP30  1:54	:(( ... (awful) 1min lost
+  --------------
+  
+              --------			
+  TOTAL TIME =  40:51			
+              --------			    
+
+
+  Description:
+ 
+  My second 30nm run. I'm glad I did it, but i'm not happy what it looks
+  like. My movements are not good in this movie, probably because it's 
+  still the morning and this is my first try today. I made some really
+  horrible mistakes (map27) and was very close to death couple of times
+  (8% health in map22). I also managed to screw up the last map, I think
+  I finished the run at the very last possible moment, there wouldn't have
+  been any more chances to do anything there. After all, it's still a 
+  valid run and each 30nm counts. ;)          
+    
+ 
+  Radek Pecka D2S
+  r.master@email.cz  
+  http://doomaniax.bonusweb.cz

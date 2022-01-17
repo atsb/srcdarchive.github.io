@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c1s3s035.txt
+
+ c1s3s035.zip
+
+  c1s3p035.lmp
+  c1s3s035.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e1m3 - Toxin Refinery - secret exit
+
+              Kills    Items   Secrets
+
+  SlagDooM     16%      11%      42%      
+  Python        9%       9%      14%      
+
+  Time:    0:35
+
+
+Comment:      Beating Vincent/Nicolas by 20 seconds.
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

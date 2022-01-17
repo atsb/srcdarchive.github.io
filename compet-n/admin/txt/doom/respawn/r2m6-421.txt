@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+R2M6-421.TXT
+
+ R2M6-421.ZIP
+
+  R2M6-421.LMP - UltraViolence with -Respawn
+
+  Recorded using The Ultimate DooM v. 1.9
+  DooM -PlayDemo with The Ultimate DooM v. 1.9
+
+  DooM - Episode 2 Mission 6 - Halls of the Damned
+
+  Kills    101%
+  (Items    35%)
+  Secrets  100%    and Time  04:21
+                             -----
+
+  Description:  This map looks like labyrinth. Many corridors, many doors.
+                The main problem could be on the back way to the exit, 
+                'cause those two Barons of hell killed me a few times.
+
+
+Author:    Radek "R.Master" Pecka
+E-mail:    r.master@email.cz
+Doompage:  http://www.igames.cz/rmaster or http://doomers.zde.cz
+

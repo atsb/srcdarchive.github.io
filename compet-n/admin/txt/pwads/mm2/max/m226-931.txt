@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m226-931.TXT
+
+m226-931.ZIP
+
+m226-931.LMP - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 26 - Base Exposure by Eric Sargent
+      
+Kills     100%
+Items      82%
+Secrets    85%	and Time - 9:31
+
+Description:
+
+A tiny improvement in this pretty ugly run. I guess I should try harder for one of my favorite map in whole megawad. I wish I had more spare time in my hands.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+27.01.2015

@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL09-412.TXT
+
+ PL09-412.ZIP
+
+  PL09-412.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 09 - Abattoire 
+   
+  Kills    100%
+  Items    100%            ********
+  Secrets  100%  and Time  * 4:12 *
+                           ********
+
+
+  Description :-)
+
+  Not a favourite Plutonia map. Some good parts, and some awefully bad planned.
+  The end is hard if you speed, I did it pretty slow in this demo. The rest
+  went OK. I don't know if my route here is the best. In contrast to the 
+  old Compet-N demo of this map, I return to the blue-key room twice. This
+  because you won't have to wait for the monsters to teleport, and also cause
+  you will get the imps aligned when you return to the main room.
+
+  Anders Johnsen
+  nfp7065@privat.cybercity.no

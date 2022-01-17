@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+PL14-021.TXT
+PL14-021.ZIP
+
+PL14-021.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 14 - Genesis
+
+Kills      3%
+Items      0%
+Secrets    0%
+Time      :21
+         ----
+
+Description:
+My 9th entry, cutting the original time in half.
+
+The trick I use at the yellow key is new, I assume, and it's a lot harder
+to pull off than it looks. :)
+
+After that, pray that the revenants let you pass..
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com
+
+P.S. Adam Hegyi sent me an email requesting that I use my real name, so
+that's what I'll do from now on.  Sorry for the inconvenience, Adam. :)

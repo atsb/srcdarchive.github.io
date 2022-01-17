@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+T1M4-535.TXT
+
+ T1M4-535.ZIP
+
+  T1M4-535.LMP - Ultra Violence - TYSON
+
+  Recorded using Ultimate DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 4 - Command Control
+
+  Kills      100%
+  (Items      75%)
+  Secret     100%  and Time  05:35
+                             -----
+	
+Description:  Great map for everything, maybe berserk could help in Tyson
+              style. I did this time on first attempt, so there is still
+              something for improvement, of course.
+              
+
+Author:    Radek "R.Master" Pecka
+E-mail:    r.master@email.cz
+Doompage:  http://doomers.zde.cz

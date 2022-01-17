@@ -1,0 +1,11 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map04
+Skill:		Ultra-Violence
+
+Time:           0:20.89
+
+
+Comments:       Yay! 20seconds :)

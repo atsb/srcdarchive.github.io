@@ -1,0 +1,395 @@
+This is not just another a DooM .LMP "Competition" Entry... :)
+
+30NM5253.TXT
+
+ 30NM5253.ZIP
+
+  30NM5253.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+
+          Time     Par
+
+  MAP01   0:07    0:30
+  MAP02   1:31    1:30
+  MAP03   0:47    2:00
+  MAP04   1:22    2:00
+  MAP05   1:10    1:30
+  MAP06   1:57    2:30
+  MAP07   1:22    2:00
+  MAP08   1:31    2:00
+  MAP09   1:46    4:30
+  MAP10   1:45    1:30
+  MAP11   1:22    3:30
+  MAP12   2:07    2:30
+  MAP13   1:38    2:30
+  MAP14   2:00    2:30
+  MAP15   1:07    3:30
+  MAP31   0:44    2:00
+  MAP32   0:36    0:30
+  MAP16   0:47    2:30
+  MAP17   3:31    7:00
+  MAP18   0:56    2:30
+  MAP19   1:46    3:30
+  MAP20   1:04    2:30
+  MAP21   2:15    4:00
+  MAP22   2:03    2:30
+  MAP23   1:58    3:00
+  MAP24   3:39    2:30
+  MAP25   1:53    2:30
+  MAP26   1:45    5:00
+  MAP27   1:27    5:30
+  MAP28   1:26    7:00
+  MAP29   3:24    5:00
+  MAP30   2:05    3:00
+  --------------------
+  
+
+  Total Time =  37:953                  
+                37+                     
+                15:53                   
+               -------                   
+  TOTAL TIME =  52:53                   
+              --------                  
+                                        
+                                        
+    
+  Description:
+
+  Here's a story. It's a long one, I'm sorry :)
+
+  The first Compet-N demo I ever saw was Panter's first D2S run. Somehow
+  I'd found my way to Doomworld, where there was a news item about
+  the demo. When I actually got the chance to watch it, I was completely
+  taken aback by how fast and furious it was. My first thought was that
+  I didn't know you were allowed to play Doom that way; the second was
+  that there was no way I'd ever be able to do something like that.
+
+  But I watched some more Compet-N demos, and practised my playing more,
+  and about eighteen months later I found myself recording demos
+  and submitting them. Steffen "Rini" Udluft suggested to me that I
+  might like to play for DANG, and I started sending stuff there too.
+
+  At about this time I was thinking about trying to do some Doom2 nightmare
+  demos. On 27-12-1999 I first tried to record an nm run from scratch. Made
+  it as far as map04, found that to be as tough as advertised, and left
+  it all alone. (Just watched that demo again. Uuuugly.)
+
+  Five months later I was on a big DANG tablefilling binge, and I decided
+  to give the nightmare slot another go. After some work I got a demo
+  dying on map05 (17-05-2000), then an hour later one dying on map07,
+  and finally that day a full Ep1 run. At the end of map10 I hit q
+  rather than try and go on, as I had no idea how to play the next set
+  of levels. To get around that, I started practising the second episode.
+  The first try I have was made on 12-06-2000. Six days later I made
+  it.
+
+  At this point I sat back and sort of idly wondered about doing the
+  third episode. map22 looked impossible, but I started recording anyway.
+  A couple of hours after finishing the second episode, I managed a
+  try passing map22. It kept going. Somehow I found myself on map29.
+  After some baffled, experimental playing, I made it to the final staircase,
+  and died at the top.
+
+  This decided me: I was going to go for the D2S. I started recording
+  from scratch again, and five days later I had a run dying on map22.
+  (Istvan's keyboard nightmare demos were a big help at this point,
+  particularly his two 21nm runs.) Then I tried to get past that point,
+  and it was just impossibly hard. Over the next four months I collected
+  another four Ep3 runs dying on map29, and made it to map22 again *twice*.
+  There were a lot of strange deaths on early maps. The real problem,
+  though, was that I just wasn't skilled enough for the task.
+
+  On 26-10-2000, I finally made it past map22, dying on the next map.
+  It was a big psychological barrier since I didn't know of any
+  keyboarder demos that had gotten to this point. But I was so exhausted
+  and frustrated with recording nightmare demos that I immediately
+  stopped recording. I didn't try again for six months, and when I
+  did all I was able to do was get to map21 (28-06-2001), slower than
+  my previous tries, and die there. It all seemed too difficult, and I
+  didn't try again for another two years.
+
+  For some reason, in July this year I started again. I didn't think I
+  had much chance at doing map29, but I'd always thought I could get
+  demo at least running through to map28. I must have gotten better in
+  the meantime, because now things went a lot faster. On 22-07-2003,
+  I made it past map23 for the first time, dying on map25. A few weeks
+  later (19-08-2003), I got my first 28nm. The next day I tried another
+  time and again made it to map29. 
+
+  Vincent suggested to me that I should do Ep3 first before trying to get
+  a full 30nm. On 09-09-2003 I completed Episode 3. Eleven days later
+  I had a try dying on map30.
+
+  That was disheartening, and I didn't record for two weeks. But when I
+  eventually came back to the computer, I got this :)
+
+  Obviously a D2S is a much different achievement nowadays compared to 1997,
+  or even 2000. It's much easier, for one thing. Hardly something to brag
+  about. Still, it's always nice to complete a task you set yourself
+  several years beforehand :)
+
+
+  Map descriptions:
+
+  MAP01: I'm not a mouser, so 0:06 is out of the question. 0:07 is
+         very easy to get though. Good health shouldn't be any trouble
+         either, though I'm not picky... anything above 70% will get me
+         to the next level.
+  
+  MAP02: I've only recently started playing this one fairly fast - my usual
+         times were in the 1:45-1:55 range, but there's no reason to
+         play so cautious this early on in the run. A couple of respawns
+         and some messiness knock the time outside par.
+  
+  MAP03: It's a real lottery early on as to how much health you'll
+         lose, it's rarely a danger for map04 though. Couldn't make a
+         fast exit because the pigs were in my way at the end. Sometimes
+         they'll block you, sometimes they won't.
+         
+  MAP04: This is one of those maps you think is impossible in the beginning,
+         but after practise it becomes very easy. No real tricks or
+         speeding efforts on this route, just basic nightmare playing.
+  
+  MAP05: The route I use here is pretty slow, but it worked well enough
+         for me and I wasn't impatient enough to try to make it faster :)
+         Low health can theoretically do you in, but there shouldn't be
+         any surprises here.
+         
+  MAP06: I can't do most of the fancy jumps on this level, so at
+         at the start I take my frustrations out on an innocent group
+         of nearby pigs, then get the Spider fighting imps, which distracts
+         her long enough for me to take the supercharge and plasma.
+         Now I'm set for the rest of the level.
+         Later on I take the cell pack, and the end is done the id-intended
+         manner. Like all levels to this point, time is average.
+         
+  MAP07: I love this level. Even when you're losing it's still a blast
+         to fire through. One spider respawned this time, but he was
+         quickly taken care of.
+  
+  MAP08: First really bad time of the demo. This is a level that's almost
+         impossible to screw up, but I do it easily, first getting trapped
+         in the yellow key room, then inexplicably using pistol on a
+         demon between me and the BFG. Some bad SSG shots later, the
+         invuln's run out and I'm far far away from the exit. Luckily
+         there wasn't anything in my way as I ran to the exit.
+
+         Lost maybe 20seconds, all up.
+
+  MAP09: Strategic BFG shots and quick running make this map very easy
+         and great to run through. One of my favourites. Unfortunately
+         I made a couple of dumb falldowns at the start, lost
+         about ten seconds there. The rest goes well up to the
+         end, where a Mancubus catches me with an ENORMOUS blast.
+         I lost something like 90% health at once....
+         
+  MAP10: Played a little slower than usual because of low initial health,
+         everything goes okay although I use too much cell ammo at the
+         end. This variation of the steffen-route was done by Vincent,
+         I think, and the extra invuln time makes it almost impossible
+         *not* to leave with a full complement of health. If you're wondering
+         what the theme behind the routes I've selected is, it's Health
+         Maximisation :)
+         
+  MAP11: This map isn't much of a challenge with all the health from map10.
+         The supercharge can be left until you come back with the blue key,
+         and from there the standard route shouldn't give you
+         any trouble. I'm particularly well off in this demo, exiting with
+         164/136 :)
+
+  MAP12: Played the start here a little more cautious, as I wanted to save
+         all that nice health for the end room. Said end room isn't too hard
+         with the Hungarian route... so that's what I use. Everything is
+         fairly standard in this run.
+         
+  MAP13: Time is fast for this level. Everything should be okay up
+         until the yellow key - getting out of that building is
+         occasionally tough. But you can pretty much play through in
+         your sleep.
+         
+  MAP14: I thought about taking Istvan's route, but a single mistake
+         can leave you stranded. And this way you can keep your cell
+         supplies up. Watch out for some bad jumps and bizarre weapons
+         changes, though :)
+         Also lost a lot more health at the end than usual.
+  
+  MAP15: Some low health forced a short detour, otherwise things went
+         okay. IMO there's no need to bother with the blue armor/radsuit:
+         if you've got lots of health you won't need them, and if
+         not they cost health to get and you'll be jumping to hit
+         the switch so there's no need for the radsuit anyway.
+  
+  MAP31: Just run and shoot. Excellent map for BFG practice. If I got here
+         with no armor I sometimes went for the megasphere.
+         
+  MAP32: A quick 'Don't Argue' from my trusty SSG and Cybie gets right
+         out of the way :) Sometimes strange things happen in the Keen
+         room, but not this time.
+         
+  MAP16: You can sometimes take a big hit before snatching the invuln.
+         But as it doesn't matter much what health you take to map17, there's
+         no stress.
+
+  MAP17: Stuffed up the jump early on, releasing the cacos. This doesn't
+         make the level harder, but it does give proceedings a bit
+         more spice :) I use Vince's excellent trick of rocketing the spider
+         from above, unfortunately I couldn't hear the game audio at this
+         point so I dropped down a bit early... fortunately she was well
+         out of the way. Rest went as usual, a long constant battle
+         with not many hard points.
+         
+  MAP18: Yeah I know, wimpiest route ever. What can I say. It's nice to
+         have one level you know for a certainty will never kill you,
+         and I haven't died here once :)
+         
+  MAP19: I can't take the Ilya route (keyboarder, etc, you know). But there
+         are other ways of finishing this level. I particularly like
+         this route, which has a very low probability of surprise and
+         no hard tricks in it. Taking the yellow instead of blue key
+         is yet another Vince innovation, which gives more time to
+         use the invuln. Very easy to leave this level with 200/200.
+         
+  MAP20: Another recent route change. I used to take the slower route that
+         telefrags the first PE, but with so much starting health
+         there's no reason for it. The second PE can be difficult,
+         so just play that section cautiously. Everything went to plan
+         here.
+         
+  MAP21: DISASTER. I don't like this map in any case - you're always losing
+         health and respawns pop up everywhere - but everything was going
+         okay, until I missed the red key. And I noticed that I'd missed
+         it one second too late, forcing me to run and get it again.
+         This meant the invuln would run out before I got to the exit.
+         Then I compounded the error by mistiming the platform rise and
+         getting hammered by hellknight and imp fireballs. Somehow I
+         got my shit together and managed to exit the second time.
+
+         Exit health: 99/101. And I was lucky to have that.
+
+  MAP22: Used to be a big barrier map for me, but now I have better
+         than even odds of making it through.
+         I was in a tight situation after the adventures of the last
+         level, but it's not so important that you have health here
+         as long as you keep your armor levels up. Actually this
+         level isn't too bad as long as you don't get unexpected
+         respawns in the central area or the demons by the red key.
+         Luck was with me on this run and neither of these events happened.
+         At the red key I use rockets rather than BFG on the central area,
+         which I don't think I've seen in any other demo and can
+         work really well.
+
+         Lots of practice with FILLUP.WAD really helps you get to grips
+         with this level.
+         
+  MAP23: You really can't relax anywhere on this level, even after getting
+         the megasphere you can still run out of ammo or have a respawning
+         monster pummeling your back. As happens here...
+  
+  MAP24: The toughest part of this level is teleporting into a room full
+         of hostile lost skulls. I use BFG to clear one side, then plasma
+         on the other. SSG takes too long IMO, and it's far from pleasant
+         being knocked off the ledges by a skull :)
+
+         Red key area usually goes smoothly, but an awkward respawn
+         forced me to waste some cells. Fortunately health stayed high...
+         
+  MAP25: Much harder than it looks. It's possible to lose lots of health
+         very quickly in the central area, through no fault of your own,
+         and that revenant must be a specially bred long-range revenant,
+         he can hit you from miles away :)
+
+         Start is best played slow, clear enemies out from in front of
+         you and use rocket splash damage. Then run and hope for bad aim...
+         It worked well this time, exit stats 106/115.
+         
+  MAP26: DISASTER #2. I hadn't had much trouble with this map up till
+         now, but unbeknownst to me Hell had decided to replace a regular
+         Baron with a Super-Baron, who took 2 BFG blasts, 2 rockets,
+         a SSG blast, and not only stayed upright but managed to severely
+         maul me in the process. When you see me switch to pistol you
+         know I'm somewhat at a loss :) Then chaingunners respawned,
+         the cacos gave me trouble, and shortly I was at 2% health
+         running across lava.
+
+         SOMEHOW, I survived. Wasn't sure if I had enough health for the
+         yellow key, and it dropped down to 24% again. For some reason
+         I wasn't that excited by all this. In fact this whole run up till
+         map30 was done in a very calm state. Perhaps that's how I made
+         it...
+         
+  MAP27: Vacation time. Moment of insanity at the chaingunners, but
+         I fortunately found the invuln in time.
+         
+  MAP28: Even easier. You can make up your own route here, this one didn't
+         take long to decide on and hasn't failed me yet. You can see I'm
+         still having sound difficulties, but they're not of importance
+         here.
+         
+  MAP29: It's tough and you've got to plan ahead. I watched a lot of demos
+         and played FILLUP sessions and eventually decided to take Vince's
+         way. I made one modification to the route - BFG the hellknights
+         and lower the short barrier, this loses some time but makes
+         some maneuvers much easier and helps keep the stress levels
+         down. Vince's route also calls for leaving the soulsphere to the
+         end, but my clumsy hands on the controls made me pick it up
+         straight away. Took the cacos out fairly well, but one
+         got me from behind as I ran to the first room. On the caco/PE
+         room I used a BFG route I hadn't tried before (and what a
+         perfect time to experiment, right? :) but it didn't harm me that
+         much. Lost more health at the sargeants, and ended up
+         going into the final room at 100/115 or thereabouts.
+
+         The final room *looked* like it was going to be hard, but it wasn't.
+         There were very few respawns, the cacos stayed away, and there was
+         enough health to keep me hovering at 100. BFG on the Barons worked
+         well, and as I ran up the final hill I don't think I was even
+         worried...
+
+         I've made it to this level four times in a D2S movie. First time
+         I died in the last room, second I died on the hill, the third
+         and fourth I finished it. Maybe this level's reputation for
+         toughness is undeserved...
+         
+  MAP30: Since dying here on my last attempt, I've had a dread of this level.
+         Revenant survived the BFG blast - not good. Rockets took him out,
+         but the pulse was starting to rise. I had a PE spawn, but he was
+         right in front and easy to take out. Then I go for the first shot.
+         Rocket misses and revenant respawns. Pulse rising. But I got the
+         radsuit. Kill revenant and go for second shot. A couple of manc
+         and rev blasts knock me down to 124%. But rocket goes in! Third
+         shot misses, but I jump and this one goes in. Two blasts, one to
+         go. I lower the platform, aim, and... it misses. Pulse definitely
+         rising now. I take another shot. Revenant respawns. Shot misses.
+         Pulse pounding. BFG to clear room, lower platform, steady nerves,
+         shoot.
+
+         FATALITY.
+
+         And a cheeky little dance at the end too :)
+
+
+  And so it's done! And I might be too, at least with Compet-N. I haven't
+  been very active of late anyway, and the desire to record competitive
+  demos is pretty much gone now.
+
+  But, I'll stick around anyway. Can't leave all these great demos :)
+
+  Some people do deserve thanks at this point. Firstly Adam Hegyi, for
+  maintaining Compet-N, and Ralf Schrievogel and Arno Slagboom, for
+  maintaining DANG. Istvan Pataki's FILLUP utility was invaluable for
+  practice. Of all the D2S demos that have been recorded, Panter's,
+  Henning's and Vincent's were of particular inspiration. And I have
+  to thank Vincent, Anders, Henning and Radek for their support and
+  encouragement as I finally went for it.
+
+  It's been great. Later.
+
+  
+  Chris "Ryback" Ratcliff D2S
+  jaranbue@yahoo.com.au
+  1.10.2003

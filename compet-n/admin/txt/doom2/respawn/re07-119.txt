@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+RE07-119.TXT
+
+ RE07-119.ZIP
+
+  RE07-119.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 7 - Dead Simple
+
+  Kills    110%
+  (Items    83%)
+  Secrets  100%  and Time  01:19
+                           -----
+
+Description: My first try in my D2-hate-map...quite good if you ask me (:
+
+
+             22.04.98  20:10  pm CET
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/           

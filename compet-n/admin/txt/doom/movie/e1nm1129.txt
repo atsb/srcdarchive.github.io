@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1NM1129.TXT
+
+ E1NM1129.ZIP - NightMare!
+
+  E1NM1129.LMP - Whole Episode on NightMare!
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 1 - Knee Deep in the dead
+
+
+  Map:       Kills: Items: Secrets:   Time:  
+  -----------------------------------------
+  E1M1   -     37%    5%   33%        0:16    
+  E1M2   -     41%    4%   33%        0:53    
+  E1M3   -     70%   16%    0%        1:39   
+  E1M4   -     23%   26%  100%        0:46     
+  E1M5   -    112%   58%   77%        3:06    
+  E1M6   -     57%   30%  100%        2:37    
+  E1M7   -     81%   41%   75%        2:12   
+  E1M8   -     ??%   ??%   ??%         **   
+  ---------------------------------------- 
+  And, of course, total time:        11:29                                    
+  ----------------------------------------
+
+Note:  I'm still not keeping this one for a very long time, 
+       damn that door in e1m6...
+       
+
+Author:     Anders Johnsen
+E-Mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

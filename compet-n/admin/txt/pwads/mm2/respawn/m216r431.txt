@@ -1,0 +1,34 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m216r431.lmp & m216r431.txt
+Date     : 2013-03-28 18:42
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map16: The Nephilim, by Denis Moeller
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 109%
+Items    :  34%
+Secrets  : 100%
+Time     : 00:04:31.46
+===================================
+Description:
+
+It wasn't ridiculously hard, but the blue and yellow key areas aren't
+a walk in the park and the recording process made me appreciate NM100
+demo even more. This follows the NM100 path, I don't worry about kills %,
+I *should* have over 100% anyway (in other words, I never exited with
+less than 100%).
+
+Third exit. Not shown in this demo, but I discovered that one may grab
+two stimpacks through the wall (from the room near the blue key).
+
+
+===================================

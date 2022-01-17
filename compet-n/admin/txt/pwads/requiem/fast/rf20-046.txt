@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RF20-046.TXT
+
+ RF20-046.ZIP
+
+  RF20-046.LMP - Ultra Violence with fast monsters!
+
+requiem.wad - Map 20  - The Forsaken Hall
+UV-Fast
+
+=--------------=
+Kills      100%
+Items       ?%
+Secrets    100%
+
+Time       0:46
+=--------------=
+
+C-N Entry #5
+Description: This level is much harder than one would expect on -fast.
+
+Author: Kyle McAwesome
+E-mail: kylemccl@comcast.net
+Date: 1/21/2012

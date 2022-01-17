@@ -1,0 +1,49 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV19NET2.TXT
+
+ UV19NET2.ZIP
+
+  UV19NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 19 - The Citadel
+
+           Kills    Items   Secrets
+
+  Green      47       18       00      gazelle
+  Grey       44       29      100      dasa
+
+  Time:    4:18
+
+
+Comment:        A bonus Cyberdemon, heh. Nothing to worry about.
+                The BFG and the Rocket Launcher are fairly far away,
+                and the SSG too. Dasa had to hurry with the Invunerable
+                somewhat :). We meet as usual at the exit, nice huh?
+                First we were afraid that it will not be a good time in
+                coop for this level, but as you can see, there is always a
+                way to make a short .lmp in DooM ][. Most of the Megawads
+                don't support that, eg. because monster teleport somewhere
+                one by one (and in your back?), they run straight to the
+                other corner of the map... Maps > 15 minutes are somewhat
+                boring. And if you have to awake 95% of the monsters to
+                have a weapon >= 5 or SSG, it's not the way I like it.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+-----------
+Admin note:   Time is actually 4:16.11 but unfortunatly you forgot to kill
+              quite a few demons.  So no Max point but it is a valid Speed
+              demo.
+

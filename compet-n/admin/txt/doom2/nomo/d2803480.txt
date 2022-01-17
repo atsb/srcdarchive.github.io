@@ -1,0 +1,8 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Mission:        map28
+Time:           34.80
+
+Comments:       Kinda fun map for nomonsters.
+
+Author:         Looper

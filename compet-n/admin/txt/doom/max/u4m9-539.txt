@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+U4M9-539.TXT
+
+ U4M9-539.ZIP
+
+  U4M9-539.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  Doom -PlayDemo with Ultimate DooM - Only
+
+  Episode 4 - Thy Flesh Consumed
+
+  Mission 9 - Fear
+
+  Kills    100%
+  (Items    71)
+  Secrets  100%  and Time  05:39
+                           -----
+
+
+Description: This stage is very hard. Its taken me numerous times to finish.
+             Often, enemies come from the southern part up towards you, and
+             you easily forget them, and finish with 97-98% kills. Climbing
+             up those boxes at the start is annoying while everything shoots
+             at you, and it can be helpful if you can teleport onto the Baron.
+             This demo may look a bit krusty but I use a 486-66 and it all
+             runs dog slow at the start - have to shrink screen 3 times. A
+             similar thing occurs when you play E4M2.
+
+
+Author: Michael Greenslade (Zorro) - 28th September
+
+E-mail: 9506025m@levels.unisa.edu.au (til December 1996)
+
+

@@ -1,0 +1,82 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1758UV21.TXT
+
+ 1758UV21.ZIP
+
+  1758UV21.LMP - Ultra Violence
+
+  This is a Compet-n/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 3" - Levels 21 to 30
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 21  -     55%  100%    0%       2" 01     (112 118)
+  LV 22  -     66%   85%   66%       1" 42     (158 102)
+  LV 23  -     41%   31%   50%       1" 23     (195 195)
+  LV 24  -      5%    0%    0%       1" 37     (102 105)
+  LV 25  -     48%   50%    0%       1" 02     (100 106)
+  LV 26  -     40%   24%   50%       1" 21     (180 182)
+  LV 27  -     36%    7%   12%       2" 20     (180 100)
+  LV 28  -     36%   20%   28%       1" 15     (200 200)
+  LV 29  -     80%   88%    0%       4" 05     ( 66  67)
+  LV 30  -    900%   33%    0%       1" 12     (  0   0)
+
+                     Total Time =   15" 178
+                                    15" +
+                                     2" 58
+                                    ------
+                     TOTAL TIME =   17" 58   (gross time: 20" 54)
+                                   --------
+
+  Description :
+
+  After my full 32 level recording it doesn't make much sense to record
+  "only one episode!. But the time goes by and I found some better ways
+  to complete some of the maps - It is much easier to practise just ten
+  maps than the full 32.
+
+
+  Some remarks on the recording (mostly self-criticism):
+
+  21 (nirvana):
+    I run too fast towards a dead machine gun dude so I get his machine gun
+    before the last gunner is dead. This costs me the weapon change time.
+    Directly afterwards a hell knight blocks my way. A very rare case.
+
+  23 (barrels o'fun):
+    A variant: don't get all the rockets behind the imps. Stepping in - out
+    is enough to open the door to the spiders. But I need the rockets...
+
+  24 (the chasm):
+    I fight against the skulls only with my super shotgun. Maybe I should
+    try another weapon (195/195 -> 102/105 in a 10 seconds).
+    At the end I run into the side of the red door. Stupid mistake.
+
+  27 (monster condo):
+    I'm not sure if it was necessary to kill all the revenants around the red
+    key. Only I'm there with invulnerability.
+
+  29 (the living end):
+    I miss an imp on the stairs and the arch-vile.
+
+  30 (icon of sin):
+    At the end I intentionally commit suicide. The game ends as usual,
+    the ending screen says something about "begin the long trek back home";
+    what a very strange behaviour.
+
+
+  I dedicate this recording to the guys from id software who 2 years ago
+  gave us this wonderful piece of software for a complete waste of time.
+
+
+ Uwe Girlich,            30 November 1995
+
+ girlich@aix520.informatik.uni-leipzig.de
+
+

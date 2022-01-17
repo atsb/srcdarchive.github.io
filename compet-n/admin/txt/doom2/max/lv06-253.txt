@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV06-253.TXT
+LV06-253.ZIP
+
+LV06-253.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 06 - The Crusher
+
+ Kills    100%
+ (Items    47)            
+ Secrets  100%  
+
+      and Time     02:53 
+                   -----
+
+Description: Beating DL's 03.01 wasn't that hard, still I think it's possible
+	     to be more lucky (take the fist part with the lift for instance)
+	     I leave this one for know but I'll do it over later on, I know It's
+	     possible to do this one below 02:50, maybe somewhere around 02:40
+	     should be more like it..? 	
+	     
+
+Author:	     Henning skogsto 
+E-mail:	     hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

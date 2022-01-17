@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PT04-528.TXT
+
+ PT04-528.ZIP
+
+  PT04-528.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment- Level 04 - Caged
+
+  Kills    100%
+  Items     86%           ********
+  Secrets  100%  and Time * 5:28 *
+                          ********
+
+
+Description: Lots of monsters at the start, that's ok, but the rest is a long
+	     run through a maze. I really don't know where to turn :)
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+NM14-052.TXT
+NM14-052.ZIP
+
+NM14-052.LMP - Nightmare !
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 14 - The Inmost Dens
+
+Kills     33%
+(Items    50%)
+Secrets    0%  
+
+   ...and Time       00:52
+                     ------
+  
+Description:                                                  
+             Okay, I tried what Adam H suggested and didn't have much luck. 
+             I only tried the arhie jump invented by Anders once...it is 
+             very easy. But every time I had decent health I skipped the 
+             invisibility. But I think if the archie trick actually
+             works you will have quit good chances of survival towards the end, assuming you
+             got the invisibility ofcourse. 
+
+             So the next challanger should do something like that
+             I think. 
+
+Author: Henning Skogsto
+E-mail: h-doom@frisurf.no

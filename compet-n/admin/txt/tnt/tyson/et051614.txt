@@ -1,0 +1,15 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      5
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      16:14
+
+Author	   j4rio
+
+Hmm, I'd be honestly
+surprised if this gets
+beaten outside TAS.
+Outstanding monster
+cooperation.

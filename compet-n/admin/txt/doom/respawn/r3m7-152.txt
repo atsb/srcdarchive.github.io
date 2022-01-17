@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M7-152.TXT
+
+ R3M7-152.ZIP
+
+  R3M7-152.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    102%
+  Secrets  100%    and Time  01:52
+                             -----
+
+Description: This is not meant to be my final demo.
+             Under 1:50 would be nicer...
+             
+
+Author:    Arno "SlagDooM" Slagboom
+Mailto:	   arnoslag@bart.nl
+Doompage:  http://members.xoom.com/publicdang

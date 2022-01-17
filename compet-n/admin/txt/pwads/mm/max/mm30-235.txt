@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM30-235.TXT
+
+MM30-235.ZIP
+
+MM30-235.LMP - UV Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper by Milo Casali
+      
+  Kills    108%
+  Items     44%           
+  Secrets  100%  and Time  2:35 
+                         
+
+  Description
+
+Today I decided to pay some MM. I tried nmare run on map01 and then I entered map30. I've tried nmare run 15-20 times. Then I decided to try max. I was shot in time two years ago and gave up in our competition with Casey. Today my literally first try was ended when I missed rising platform at 2:29. See mm30fst.lmp. I had 2:28 with a lost caco after almost twenty minutes. (I've included mm30-228 with a lost caco into the archive.) I had 2:36 and 2:37 iwth one live caco from level's line up and 2:33 with two lost cacos. First legitimate exit takes almost an hour and half. The demo time should be under 2:25 so if no one beat my time I may return to this map sometimes. 
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+
+25.02.2006

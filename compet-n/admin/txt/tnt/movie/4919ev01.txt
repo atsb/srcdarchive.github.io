@@ -1,0 +1,181 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+---------------------------------------------------------------
+
+  4919EV01.TXT
+  4919EV01.ZIP
+
+  4919EV01.LMP - TNT:Evilution / 1st Episode / UV Max movie
+
+  Recorded with the Final DOOM executable (DOOM2.EXE),
+  desyncs with the DOOM II exec on MAP06.
+
+  level                  | time | 5445EV01 | 6154EV01 | par
+  ----------------------------------------------------------
+  System Control (MAP01):  1:02   1:20       1:10       0:46
+  Human BBQ      (MAP02):  3:51   4:33       4:49       3:10
+  Power Control  (MAP03):  3:25   3:49       4:13       2:36
+  Wormhole       (MAP04):  6:04   6:34       8:21       6:07
+  Hanger         (MAP05):  4:30   5:43       5:32       3:18
+  Open Season    (MAP06):  4:27   4:24       5:23       3:16
+  Prison         (MAP07):  8:16   9:17       9:50       7:22
+  Metal          (MAP08):  6:35   7:42       8:23       5:12
+  Stronghold     (MAP09):  7:13   7:41       9:27       5:50
+  Redemption     (MAP10):  3:56   3:42       4:46       2:39
+  ----------------------------------------------------------
+  Total time:             49:19  54:45      61:54      40:16
+
+  "5445EV01" is DeDo's max run from last month
+  "6154EV01" is my original entry from 2003
+  "par" is current Compet-N UV max record
+  all maps 100% kills and secrets, except MAP04 101% kills
+
+  Description :-)
+
+  DeDo expressed regret at failing to get the time under 
+  54 min, so I thought he'd be pleased to see it done under 50.
+  Besides, it's nice to have this entry back. =)
+
+  A few days ago I resumed my perennial attempts at the TNT 
+  max movie. One of the sessions was going pretty well, when I
+  had to abort after MAP11 because of a missed secret. Playing 
+  it back  with prBoom+ (god bless e6y!) revealed that it was 
+  the lift with two barrels on it and more importantly, total 
+  time for 1st episode - 50:22. Until then I had been doubtful
+  that I could do it faster than 50 min, but this was close 
+  enough for me to consider trying.
+  
+  MAP01
+  A pretty good run. I've had 0:59, and a couple of times 0:57
+  but with a missed monstar. Anything under 1:06 is OK with me; 
+  my lousy strafe50 technique leaves me out of contention for 
+  speedrunning laurels on pretty much any map.
+ 
+  MAP02
+  Vince says he cannot do MAP30 reliably, but like DeDo, I find
+  this and the first map the hardest. On MAP01 I'm constantly 
+  reminded of Pecka's record and the huge gap between it and 
+  what the tally screen tells me. Here it is the numerous 
+  "jumps": to the staircase, where a Demon can block you any 
+  time or you simply don't make it just because; to the Blue 
+  Armor secret (don't laugh :); back to the ledge from the Soul 
+  Sphere ...
+  I've run through and aborted hundreds of runs on this map, 
+  and the fact that I still think it pretty cool must mean it 
+  probably is. Once I even managed to get the two Hell Knights 
+  by the exit to fight over who set off the barrel! I include
+  that .lmp (KNIGHTSF), if anyone wants to see it. Use prBoom+
+  and "-skipsec 300" to go straight to the meat.
+  
+  Time under 4min was completely unexpected, usually it's 
+  4:11-4:25. This was a great encouragement to make the best 
+  of this run. At the same time the thought of fscking up after
+  such a good start kept haunting me until the end.
+  Here I opted for chaingunning all the pigs at close quarters 
+  early on rather than  trying to nail them with the double 
+  barrel from high on the ledge later. It looks like the Hell 
+  Knight decided to to give me a hand with the Cacos, as well.
+
+  MAP03
+  DeDo shall take the credit for making me play this more
+  aggressively. I used to be content with 4:something here. 
+  As Surgeon General warns, extra speed may lead to health 
+  problems; and I often had times longer than DeDo's because 
+  I had to pay for my carelessness with a trip to the Berserk
+  pack at the end. Here I was happy to keep the Skeletons' 
+  missiles out of my face for the most part.
+
+  MAP04
+  The class of my play starts to be felt. =) Missed the fake 
+  exit trigger twice! The Archie managed to resurrect a Pinky 
+  and an  Imp but I was so pissed I didn't even notice until 
+  the replay.  It's  a wonder how I got under par here; no 
+  doubt the extra ammo and  the RL from the previous levels 
+  help.  Could be that my route is  the most natural as well, 
+  even though no one ever uses it (which is a reason enough 
+  for me to stick with it. :P
+  
+  MAP05
+  Uncharacteristically, the Revenants-and-Barons stew didn't
+  go  down too well. I look at it now and just can't believe 
+  I wasted ten rox on the Skeletons. Happy with the time 
+  though, it used to be around 5:00 not so long ago.
+  
+  MAP06
+  A simple, straightforward level where it's hard to fsck up. 
+  Which makes it all the more puzzling why I consistently get
+  worse times than anyone else. Perhaps rushing to the Blue 
+  Key and leaving the  Mancubus room for later is the right 
+  strategy, but here I did accomplish the nearly impossible 
+  and managed to fall off the walkway to the Yellow Key. In 
+  my defence I must point out that I only fell once. =) I 
+  guess it would be false modesty if I failed to mention 
+  another highlight: blowing up a rocket into my face and
+  half the health points with it ...  Oh yeah, and the Archie
+  at the exit lift gave me a lift. I'm sure you can't wait
+  to see the demo if you haven't already, at this point. :D
+
+  Intermission screen
+  I almost always let the text roll to the end. I feel it 
+  is only proper, and what's the hurry, anyway? If you are 
+  ready to give up an hour of your life to see this demo, 
+  surely another ten seconds doesn't make a difference?
+  Besides it'sa handy opportunity to stretch back in the
+  chair and pat yourself on the back for half the job well
+  done. If  the text is sitting still with nothing happening,
+  that means the tea mug needed a refill, sorry.
+  Now that I read Roger Zelazny's "For a Breath I Tarry", I 
+  think I know why I feel the compulsion to sit through the 
+  the message of the intermission screen. Read it and you 
+  may know, too. Even though the story has nothing to do 
+  with DOOM, it's a fascinating blend of sci-fi and the 
+  biblical.
+ 
+  MAP07
+  This may be the first episode's 99% kills champ, but that 
+  somehow never bothered me. I only had them here once or 
+  twice. On the positive side, I've been known to miss the 
+  jump to the  first teleporter on occasion. =) Also falling
+  off it when  checking for teleported baddies later on, but
+  that not often.
+  Early on for a while there it looks like the demo is going 
+  out of sync. Don't hit the F10 yet, it's just my mad skillz.
+  Later I forgot to check that teleporter and almost had the
+  dreaded 99%, as some nosey sumbitch found his way there 
+  despite me doing my best to make a thorough sweep outside.
+  What else? Just to make sure there is room for improvement
+  for the next run, I fell off the walkway to exit. That one
+  is gonna be hard to beat.
+
+  MAP08
+  Knowing how lousy my timing is, I always feel a huge wave
+  of relief wash over me when I make the first rising pillar
+  in that huge chamber on the first attempt. As you will see,
+  the feeling was a bit premature in this case. I also spent 
+  three rockets too many on the last Arachnotron, but you're
+  probably not surprised at this point.
+
+  MAP09
+  This level is best appreciated after you tried it on NM!
+  or -respawn. Here, for the first time ever, I got stuck 
+  at the plated glass window with two Sarges through pressing
+  the buttons in the wrong sequence or something and raising
+  the glass instead of lowering it. By now you are probably 
+  thinking that I did this and the hundred other dumb things
+  in this demo on purpose, just to show how lame a valid 
+  Compet-N entry could be while beating the previous record
+  speed-wise; but I assure you that that's just the way I
+  play every day.
+
+  MAP10
+  I didn't miss the opportunity to put the fate of the 
+  whole run in danger by letting my health slide down into
+  single digits at one point. This section also features
+  a befuddled search for something that was not there. It's
+  in the Red Key area, see if you can spot it. I'm also proud
+  to say I had more than a hundred cells at the exit - the old
+  compulsive hoarding aka cheap ass syndrome. I promise to do
+  something about it within another five years.
+  
+
+  Never_Again
+  tpoppins@juno.com

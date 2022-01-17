@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N" Entry - Please forward it...
+
+LV13-635.TXT
+
+ LV13-635.ZIP
+
+  LV13-635.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - Downtown
+
+  Kills    100%
+  (Items    45)
+  Secrets  100%  and Time  06:35
+                           -----
+
+
+Description: A little improvement.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

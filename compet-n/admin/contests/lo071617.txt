@@ -1,0 +1,24 @@
+Compet-N Contest #7 Entry
+
+Map07 LOW.exe
+=========================
+
+Description
+-----------
+Game    : Doom2 -Low.exe dehacked
+Skill   : 4
+Map     : 7
+Style   : Max
+Special : dehacked monsters to 1 hp
+
+Player  : Doug Merrill - opulent@goodnet.com
+Time    : 0:16.17
+
+Comments
+--------
+got this relatively early in my attempts.
+got 2 other 16's too.
+lots of flexibility with LOW recordings --
+I see a 12 or 13 as probable.
+
+I look forward to Adam's HIGH entry...

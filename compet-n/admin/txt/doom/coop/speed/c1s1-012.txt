@@ -1,0 +1,13 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+authors:  Arno Slagboom (slagboom@cybercomm.nl)
+          Marko van der Want                   
+
+game:     ultimate doom
+category: coop speed
+mission:  e1m1
+
+time:     0:12
+
+comments: A very cheap point...  :)
+     

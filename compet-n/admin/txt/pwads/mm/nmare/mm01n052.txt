@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM01N052.TXT
+MM01N052.ZIP
+MM01N052.LMP - Nightmare
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - MAP01
+
+Kills     70%
+Items      0%
+Secrets  100%
+              .... and Time   0:52
+                             ------
+                          
+Description: 
+
+This map is quite difficult in Nightmare
+I had very tough moments trying to beat it...
+
+I shouldn't have shot that imp at the end.
+I would have saved 2-3 seconds Argh!!!
+      
+
+
+Author:   Kimo Xvirus
+E-Mail:   kimo_xvirus@hotmail.com

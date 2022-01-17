@@ -1,0 +1,35 @@
+    
+      
+  **      			    ** 
+  * This is a DooM .LMP COOP-N entry *
+  ** 				    **
+     
+
+
+  Green:    Jakub "method_man" Razák  <dale007@volny.cz>  - cf04m136.lmp
+  Indigo:   Jakub "DooMerMan" Machata <kuba-m@seznam.cz>  - cf04d136.lmp   
+
+  game:         DooM ][ v1.9
+  category:     coop fast
+  level:        04
+
+                ********
+  time:         * 1:36 *
+                ********   
+
+  results:      kills      items      secrets
+    GREEN        23%        42%          66%    (method_man)
+    INDIGO       56%        40%          33%    (DooMerMan)
+
+
+  description  : time is *censored* :), but I´am happy, if we
+  (method_man) : played it!
+
+  description  : time can be better, but it´s as first exit.
+  (DooMerMan)  : method, thank you that I near fell (your worth) 
+                 on my way to red keycard (or skullkey?).
+
+       Btw.: team ALIMens wish Merry Christmas! (this lmp recorded at 20th December)
+              
+                 
+                            

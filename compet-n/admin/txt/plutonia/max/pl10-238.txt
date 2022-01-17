@@ -1,0 +1,32 @@
+This is a Doom .LMP "Competition" Entry
+
+pl10-238.txt
+pl10-238.zip
+
+pl10-238.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP10 - Onslaught
+
+=--------------=
+Kills      104%
+Items      100%
+Secrets    100%
+
+Time       2:38
+=--------------=
+
+C-N entry #113.
+
+Thanks to Adam Hegyi for a nice route here.
+This level was fun for a while, but became
+irritating once it got down to squeezing
+seconds away from the time.  As he says, the
+skulls are always there to help you destroy
+yourself once the time comes to clean up the
+hordes near the yellow door.  The AVS don't
+teleport sometimes, either.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,57 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV13-151.TXT
+
+ LV13-151.ZIP
+
+  LV13-151.LMP - UltraViolence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - "DownTown"
+
+  Kills     20%
+  (Items    16)
+  Secrets    0%  and Time  01:51  (Par 2:30)
+                           -----
+
+  Description :-)
+
+  DooM II - Level 13 - Just FAST - II
+
+  Ian Egle suggested I try this Map for my D2SG Free and it is
+  up on the DHT system at 2:07 (D2SG-MGP.ZIP) so this is my go
+  at it for COMPET-N.  I think it might be possible to go into
+  the low to mid 1:40s with this route, but to go into the 1:30s
+  will probably take a new idea or variation.
+
+  My plan: Get the blur sphere, get the bezerk, get the blue key,
+  get the plazma rifle, go invernerable & teleport to the top of
+  the building to make the jump to the blue door, get the second
+  invernerable, teleport to the red key, get the yellow key and
+  exit.  The plazma rifle is not required but for some reason
+  the revenants are never in the way if I grab it.  Same with
+  the blur, leave it and I may (not always) get tangled up with
+  a Caco on the jump.
+
+  I spurn the rocket launcher because it takes longer to get, is
+  more dangerous to use in close quarters and it requires ammo.
+  On the plus side the rocket launcher has greater range and is
+  more generally useful.  However, in this limited setting these
+  advantages go mostly unused.
+
+  Special thanks to Simon for the effort in maintaining COMPET-N.
+  He may not always have the best LMPs, but he always has the best
+  .TXT files by far and away.  Also thanks to Steffen, Anthe, Blake,
+  Tom, Ian, Ashley, Matthew, Jeff, Jonathan, Nicholas, Jesper, Josh
+  and all the other DHT toughs for their fine LMPs.
+
+
+  Mike Pratt
+
+  mgp@cbemg.cb.att.com
+  mgp@fuwutai.wh.att.com
+  mpratt@infinet.com
+
+

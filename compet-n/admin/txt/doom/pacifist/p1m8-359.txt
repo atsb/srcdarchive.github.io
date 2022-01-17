@@ -1,0 +1,28 @@
+[ Taken from Mike Toliver's D1P6 exam d1p6met ]
+
+P1M8-359.TXT
+
+ P1M8-359.ZIP
+
+  P1M8-359.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.1 Mi.8
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  03:59
+                         -----
+
+  Description:
+       This is a pretty amazing lmp.  One Baron kills another!
+       Really - watch it and see (I checked the lmp with IDDT -
+       sure enough it's two barons duking it out)!  Sure helped
+       me out.  I didn't even have to lure the remaining baron
+       into the barrel trap at the beginning to do him in -
+       the demons did that for me.
+
+  Author:  Mike Toliver
+

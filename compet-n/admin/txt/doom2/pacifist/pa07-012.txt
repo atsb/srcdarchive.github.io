@@ -1,0 +1,24 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+pa07-012.zip
+ pa07-012.lmp
+ pa07-012.txt
+
+Recorded using Doom2 Version 1.9
+
+Doom2 - MAP 07 - Dead simple
+Pacifist
+================
+Kills		  0%
+Items		 50%
+Secrets		  0%
+----------------
+Time		0:12
+================
+Description:
+A little update for Vile's pacifist. I took Looper's jump but for me it's more luck than it should.
+It's a month old but I promised to release it with our other demos when we get them done. Maybe 11s
+isn't too hard but I'm fine with this.
+
+Author: xepop
+19 - Dec - 2010   14th Compet-N Entry

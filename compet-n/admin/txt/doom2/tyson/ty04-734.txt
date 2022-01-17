@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ty04-734.TXT
+ty04-734.ZIP
+
+ty04-734.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 04 - "The Focus"
+
+Kills    100%
+Items     52%           
+Secrets  100%  
+
+   ...and Time    07.34 
+                 --------       
+
+
+Description: This would have been the perfect tyson map if there was a berserk 
+             in it. Anyway this was actually the first time I exit so I might
+             improve it. Somewere around 6 min isn't that hard.
+
+             
+                                
+
+Author:	  Henning Skogsto 
+E-mail:	  hskogsto@c2i.net
+doompage: hmm

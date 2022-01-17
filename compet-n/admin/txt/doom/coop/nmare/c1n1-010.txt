@@ -1,0 +1,33 @@
+ This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c1n1-010.txt
+
+ c1n1-010.zip
+
+  c1n1-010.lmp Nightmare! Speed
+
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E1M1
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Selim
+  Indigo    ??%      ??%      ??%      Vincent
+
+
+  Time:    0:10
+
+
+Vincent : A walk in the park with Selim...
+Selim   : Yeah ... he forgot to mention that sometimes there is something
+          in the way :)
+
+note : the 0:09 is the doom coop table is wrong, it's actually a 0:11.
+
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

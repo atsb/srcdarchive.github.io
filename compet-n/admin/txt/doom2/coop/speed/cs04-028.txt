@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs04-028.txt
+
+ cs04-028.zip
+
+  cs04-028.lmp  Speed
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Map04
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Radek
+  Indigo    ??%      ??%      ??%      method
+
+
+  Time:    0:28
+
+
+Radek  : I kinda retook this from Gusta. He was trying it with Method for
+         some time, but didn't have luck to survive the first part.
+
+method : Nice work by Radek!!!
+
+
+Radek Pecka              <r.master@email.cz>
+Jakub "method_man" Razak <dale007@volny.cz>
+
+

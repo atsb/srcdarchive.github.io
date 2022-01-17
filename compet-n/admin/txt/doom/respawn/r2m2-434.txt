@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+R2M2-434.TXT
+
+ R2M2-434.ZIP
+
+  R2M2-434.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 2 - Containment Area
+
+  Kills    110%
+  (Items    50%)
+  Secrets  100%  and Time  04:34
+                           -----
+
+  Description:  Funny to play it this way.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

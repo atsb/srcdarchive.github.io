@@ -1,0 +1,28 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm16f850.lmp, mm16f850.txt
+Date     : 2014-12-31
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : UV-Fast
+Map(s)   : MAP16: Stoned
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  55%
+Secrets  : 100%
+Time     : 00:08:50
+===================================
+Description:
+
+Just for a break, but sub 9 min is not too bad.
+
+
+102th Compet-N Entry

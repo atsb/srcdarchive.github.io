@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV23-232.TXT
+LV23-232.ZIP
+
+LV23-232.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 23 - "Barrels O' Fun"
+
+Kills     100%
+(Items    45%)           
+Secrets   100%
+
+   ...and Time  2:32
+               ------
+
+Description: First of all...great idea by Keene to use the barrels in the 
+             main room to kill the pains with. But it makes things a bit messy.
+             I also decided to use a diffrent tactic at the spider scene,
+             leaving him and see how many of the little ones he had killed 
+             when I returned. But most of the times he get-s killed and there 
+             are some 3 or 4 archons left, but I have experienced only one 
+             left :) So if you-re really lucky, time can come down to 02:10-15
+             that-s my guess at least. Adam W also used the "barrel jump" 
+             I personaly don-t think it-s worth the trouble. 
+             If you can-t keep the barrels in the main room inntakt it-s not
+             much trouble restarting IMO.
+            
+             
+              
+Author: Henning Skogsto
+E-mail: h-doom-frisurf.no

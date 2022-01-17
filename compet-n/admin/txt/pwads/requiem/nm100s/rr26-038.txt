@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rr26-038.txt
+
+rr26-038.zip
+
+rr26-038.lmp - Ultra violence with -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 26 - Excoriation by Adam Windsor
+
+Kills    100%
+(Items     0%)
+Secrets  100%  and Time  00:38
+
+
+
+Description:
+
+Hmm, this is my first session in doom2.exe for a really long
+time, and it shows :P I have no sound and a very choppy mouse 
+which usually refuses to turn when I try to. Pure luck run, nothing
+good about it. 
+
+Author: Erik Alm
+E-mail: erik_a80@hotmail.com

@@ -1,0 +1,101 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: 2320m201.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAPS 01-10
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    n/a
+  Items    n/a          *********
+  Secrets  n/a and Time * 23:20 *
+                        *********
+
+
+==============================================
+
+I thought the difficulty would be more or less the same as for the second
+episode, but this is easier. Fourth exit actually. A very bad run, but I find
+my mistakes quite amusing.
+
+Note: if I were responsible to set the rules for episode runs, I would not
+allow deaths. I think I'm not alone with the feeling that dying (especially
+in episodes) is "not quite right". For example, after a couple of suicide rocket
+jumps in a czech speedrunning contest, the organizer, Mr.Twister, disallowed
+exiting with 0% health. Here, in MM2, I think using a traditional route for
+MAP09 gives a lot more fun (playing through MAP10 with the rocket launcher is
+very cool). But this way is undoubtly slower. Thus, my attitude is not very
+consistent - I kill myself (I kinda betrayed myself). If I ever finish the whole
+UV run for MM2, it will be done without deaths.
+
+      +--------------------------+-----------------+
+      |        Single level      |  Cummulatively  |
++-----+--------+--------/========+========\--------+
+|     | Pistol |   My   |        |        |   My   |
+|Level|  start |  best  |  This  |  This  |  best  |
+|     | record |  time  |   run  |   run  |  time  |
++-----+--------+--------|--------+--------|--------+
+|  1  |   :21  |   :35  |   :40  |   :40  |   :35  |
+|  2  |   :35  |   :46  |   :49  |  1:29  |  1:28  |
+|  3  |  2:52  |  3:06  |  3:12  |  4:41  |  4:41  |
+|  4  |   :59  |  2:03  |  2:08  |  6:49  |  6:49  |
+|  5  |   :55  |  1:08  |  1:21  |  8:10  |  8:07  |
+|  6  |  2:26  |  3:23  |  3:30  | 11:40  | 11:38  |
+|  7  |  2:59  |  3:44  |  4:26  | 16:06  | 15:26  |
+|  8  |  1:28  |  2:00  |  2:22  | 18:28  | 17:35  |
+|  9  |   :56  |   :20  |   :20  | 18:48  | 18:09  |
+| 10  |  2:37  |  4:13  |  4:32  | 23:20  | 23:20  |
++-----+--------+--------\========+========/--------+
+
+MAP01 Difficulty: medium/hard, performance: :)
+
+First off, about the difficulty. One can rush through this map Adam Williamson/Kimo Xvirus
+style - in such case the difficulty is "impossible" (plus, just pressing the exit switch
+is not enough - some health is needed for the sergeants in MAP02). One can kill most of the
+hitscanners and three imps before the exit - then it is rather easy. I opt for a risky
+route which nevertheless gives me more than 15 exits in 100 tries.
+
+MAP02 Luck based :)
+
+Harded than it looks (when speeding). This time I finished with unusually high health
+percentage.
+
+MAP03 Medium :)
+
+The first amusing error is here in this map, at the beginning. I miss an imp 3 times
+in a row from a close distance. The final time is rather good for me.
+
+MAP04 Hard :|
+
+Again, a good time, but I cannot rate it as :) because I play this map it as if I were drunk!
+
+MAP05 Easiest :(
+
+Some problems with the jump at the start...
+
+MAP06 Hard :)
+
+The beginning was very fast (and lucky: look at that first chaingunner which survived
+an SSG shot). Overall, another good time despite some problems in the YK area and with
+a few more chaingunners.
+
+MAP07 Medium :(
+
+DISASTER! I hope you'll find this portion of the demo amusing. I missed the red key...
+
+MAP08 Medium :(
+
+Very badly played, in the arachnotron area and later on.
+
+MAP09 Easy :)
+
+Easy run, but the time is very good (my personal record).
+
+MAP10 Hard :|
+
+One cacodemon did not teleport in. It happened quite often in my m210 max runs. In the
+speed movie it was the first time - it is an advantage, of course. The things go really
+bad after opening the yellow key door. I even thought the chaingunners would kill me.
+
+
+

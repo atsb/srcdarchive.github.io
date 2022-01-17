@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CT21-443.TXT
+
+ CT21-443.ZIP
+
+  CT21-443.LMP
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M1 - Tyson Style
+
+  Kills    100%           
+  (Items    78%)          
+  Secrets   50%  and Time =  4:43 
+                            
+  Description: 
+
+  Hmmm, this level really can be difficult sometimes, but
+  with practice and a good strategy it's not too bad.
+  Laura:  Just because I took your point doesn't mean I want
+  you to quit recording.  I thought this could be an
+  interesting challenge.  If you want to keep your points
+  then I suggest flooding the pwads with tablefillers.
+  Just look at the Requiem tables to see what I mean.
+
+  Xit Vono
+  xit_vono@yahoo.com

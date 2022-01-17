@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV05-031.TXT
+
+ LV05-031.ZIP
+
+  LV05-031.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 5 - "The Waste Tunnels"
+
+  Kills     15%
+  (Items    33)
+  Secrets    0%  and Time  00:31
+                           -----
+
+
+Description: Quite a nice level. This route is a lot faster!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

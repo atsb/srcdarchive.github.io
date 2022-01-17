@@ -1,0 +1,277 @@
+This is a DooM .LMP "COMPET-N/Doom2/Net-X/" Entry, Please forward it.
+
+30UbNET2.TXT
+
+ 30UbNET2.ZIP
+
+  COOPUV30.LMP - Ultra Violence - 2 Players - Cooperative !
+
+
+[  Admin. Notes :-)
+
+   [ Copied from 30UVNET2.TXT - It is such a very similar story... ]
+
+   First of all this Recording takes over _TWO_HOURS_ to -PlayDemo !
+
+   Because it is so long you may have trouble getting Doom2 to start
+   but if you only have a total of 8 Mb of RAM, it will NOT all load
+   load into the -PlayDemo buffer, though you CAN still watch levels
+   COOP1-XX _IF_ you can somehow split this .LMP at offset 2,083,957 *
+   and add an end-of-game byte (decimal 128 - 80 hex), such that the
+   .LMP is 2,083,958 bytes long...
+
+   [ * plus or minus (+/-) X * 8 bytes (for however many gametics) ]
+
+   Don't forget this end-of-game byte "€" or else your savegames may
+   get overwritten if a -PlayDemo misses one and crashes at the very
+   end... You have been warned.
+
+     Copy /B SplitLMP.LMP + €  COOP1-XX.LMP  [ Del SplitLMP.LMP ]
+
+   Also if you think that a co-operative recording of Doom2 would be
+   boring to watch [ OKay it is a bit, to begin with ] then you have
+   obviously not tried it... You can only pick up a Rocket-Launcher,
+   Plasma Rifle, BFG9000 or Super Shotgun ONCE - unless you die - it
+   is difficult NOT to frag each other AND there are MORE bigger and
+   badder .NET monseters on maps 11, 12, 13... 15... 17... 19, 20...
+   We're talking CyberDemon "cross-fire" here !
+
+   If you do not really want to watch the initial, ten or so, levels
+   but would like to see some of the later better levels - you could
+   start the .LMP from the beginning (the only way), and go away for
+   a while... eat something, watch some TV ( not much difference ;-)
+   or whatever... then return [ ~30 minutes ] for the later action !
+
+   Finally, if you want to "beat" this [ as if ] I would like to see
+   it done FASTER - miss out all of the the non-vital areas - and do
+   not ALL get killed on a level as simple as 24 ? ;-) But remember:
+   -*> NO Respawning <*- !!! - If (or when) you die, you stay DEAD !
+
+   Really lastly, the/my prefered table format is to be found in the
+   file "07UVNET2.TXT" though all the stats given here are even more
+   detailed so they've been left as they were/are :-)
+
+
+   Well done to Demonlord and Stefan too !
+
+
+S,;-) aka. The "Judge". ]
+
+
+COOPUV30.TXT
+
+ COOPUV30.ZIP
+
+  COOPUV30.LMP - Ultra Violence - 2 Players - Cooperative !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  ALL 32 Levels of DooM II - All Secrets ! - Without Dying Once !
+  TWO-Player UltraViolence - 100% Kills & Secrets !
+
+
+Authors:        Daniel "Demonlord" Lindgren
+                Stefan Larsson
+
+e-mail:         akllin95@student.umu.se
+                stefan.larsson@ukfdata.umea.se
+
+
+Statistics:
+
+Ammo & health statistics
+------------------------
+
+Green   (Daniel)
+Indigo  (Stefan)
+------------------------
+
+
+  Level      Health    Armour     Kills    Items    Secrets     Time
+ -------    --------  --------   -------  -------  ---------   ------
+   1           88         0        74         0        60       0.34
+              106       100        25        66        40
+
+   2          144       145        64        52       100       1.13
+               99        73        28        9          0
+
+   3           89        93        62        20       100       1.19
+              190       163        28        10         0
+
+   4          154       190        70        54        66       1.06
+              169       157        25        34        33
+
+   5           88        96        70        71        66       2.24
+              188       110        26        14        33
+
+   6          143       148        59        29        66       2.55
+              159       164        35        17        33
+
+   7          200       200        68        42       100       0.59
+              177       178        31        28         0
+
+   8          165       129        62       100        85       3.04
+              139       140        30         0        14
+
+   9          195       188        61        61        66       4.54
+              123       100        32         2        33
+
+  10          200       187        55        63        72       5.47
+              157       159        40        32        27
+
+  11          100       119        76        77       100       4.11
+              200       122        23         4         0
+
+  12          100       100        47        40        50       5.00
+              182        35        50        60        50
+
+  13          101       153        71        31        62       5.34
+              195         0        28        31        37
+
+  14          168       172        56        50         0       2.21
+              123         0        41         0         0
+
+  15          182       182        56        77        81       7.36
+               93        87        31        22         9
+
+  31          200       118        66        18       100       2.49
+               67        20        20         6         0
+
+  32          194       112        51        66        66       0:52
+              164       167        24        33        33
+
+  16          200       200        63        80       100       3:56
+              121       124        17         0         0
+
+  17          197       200        59        77       100       6:17
+              104        62        30        17         0
+
+  18          200       200        60        48        75       4:42
+              104        92        28        25        25
+
+  19          181       172        68        18       100       6:00
+              133       200        30        62         0
+
+  20          131       140        84        73       100       5:00
+              180       181         9         2         0
+
+  21          192       194        63        61         0       2:47
+              179       174        16        38         0
+
+  22          117       117        75        12       100       1:43
+              195        85        19        75         0
+
+  23           96        66        52        50       100       3:48
+              200       100        17        45         0
+
+  24          103        99        84        83       100       7:58
+              179       186        15        10         0
+
+  25           37        27        57        50        50       3:06
+              140       154        23         0        50
+
+  26          189       192        73        63        75       5:08
+              100       107        23        22        25
+
+  27          200       133        69        89        75       8:07
+              100        77        22         8        12
+
+  28          198       148        65        92       100       4:31
+              100       100        24         0         0
+
+  29           97        58        72        96         0       5:56
+              100        82        17         0         0
+
+  30          200       200       600        33         0       0:40
+              159       163       100        22         0
+
+ -------    --------  --------   -------  -------  ---------   ------
+  Level      Health    Armour     Kills    Items    Secrets     Time
+
+
+The percent value is (Ep-run single/Our) a measurement of "how effective"
+the coop really is (should, if optimal, be 200!) compared to best single
+player time starting with pistol only... And also "100/100" episode runs
+for a single player...
+
+
+                |Starting  |Best    |Our   |Per- |Comments...
+                |w. Pistol |time in |Time  |cent.|
+                |Single    |Ep-run  |this  |     |
+                |Best...   |single. |coop. |     |
+                |          |Mine... |      |     |
+"Episode 1" :   |          |        |      |     |
+                |          |        |      |     |
+Entryway            0:49      0:53    0:34   156   Not that hard to plan...
+Underhalls          1:22      1:28    1:13   121   Should be better...
+The Gantlet         1:42      1:43    1:19   130   Hmmm...
+The Focus           1:18      1:22    1:06   124   Very bad planning... none.
+The Waste Tunnels   3:06      3:00    2:24   125   A little better...
+The Crusher         3:20      3:04    2:55   105   Indigo has no key!
+Dead Simple         0:54      1:08    0:59   115   Not a good time.
+Tricks & Traps      4:08      4:25    3:04   144   Damn Cyber! Refuses to die!
+The Pit             8:19      7:13    4:54   147   Not good...
+Refueling Base      7:03      7:31    5:47   130   Hmm. Have to work on this.
+------------------------------------------------------------------------------
+                    32:01     31:47   24:15  131   Should be a lot better !!!
+
+"Episode 2" :
+
+"O" Of Destruction  2:51      3:31    4:11    84   Trapped him on the bridge!
+The Factory         6:11      5:53    5:00   118   Very bad...
+Downtown            6:01      5:31    5:34    99   Should be under 4:30.
+The Inmost Dens     2:36      2:41    2:21   114   Good plan! Run more!
+Industrial Zone     7:14      8:07    7:36   107   Not good enough...
+Suburbs             3:45      3:31    3:56    89   Saved plasma for Cyber.
+Tenements           6:37      5:56    6:17    94   Very hard Cyber...
+The Courtyard       5:10      5:16    4:42   112   Not good...
+The Citadel         7:58      6:58    6:00   116   Very complex level...
+Gotcha!             6:34      5:57    5:00   119   Trapped BW Arch and Cybie!
+-----------------------------------------------------------------------------
+                    54:57     53:21   50:37  105   NOT good enough......
+
+"Episode 3" :
+
+Nirvana             3:48      3:29    2:47   125   Indigo !!!!!!
+The Catacombs       1:34      1:53    1:43   110   Quite nice! No good plan.
+Barrels Of Fun      3:13      3:48    3:48   100!  Dangerous...
+The Chasm           6:57      7:50    7:58    98   Complex. Better single!
+Bloodfalls          2:11      2:51    3:06    92   A lot of people...
+The Abandoned Mines 5:35      5:23    5:08   105   Hard Cyber - Played safe.
+Monster Condo       6:10      8:09    8:07   100   Secrets !!!
+The Spirit World    3:37      4:38    4:31   103   Incredible! Indigo 3% !!??
+The Living End      5:30      7:08    5:56   120   Hard Cyber - Q. easy now.
+Icon Of Sin         0:32      1:24    0:40   210!  This is COOP !!!!!!
+-----------------------------------------------------------------------------
+                    39:07     46:33   43:44  106   Hmm... Not good at all...
+Secret Levels:
+
+Wolfenstein         3:03      2:57    2:49   105   No plan at all...
+Grosse              0:39      1:00    0:52   115   Same here...
+-----------------------------------------------------------------------------
+                    3:42      3:57    3:41   107
+
+
+Overall  01-32    137:36    135:38  122:17   111   Tried as good as possible
+                                                   but without a good plan
+                                                   at each level...
+
+
+Final Comments:     We tried to beat Kai and Sven's "Coop1-30" and
+                    we made it about 20 minutes faster...
+
+                    The Cyberdemons are really hard and especially
+                    the ones at levels 17, 26 and 29 are VERY hard
+                    Think the time could quite easily be pushed to
+                    around 1.40-1.50 (?). This is however our best
+                    attempt so far...
+
+                    Never thought co-op could be that much fun !
+
+
+Author:         Daniel "Demonlord" Lindgren
+
+e-mail:         akllin95@student.umu.se
+
+

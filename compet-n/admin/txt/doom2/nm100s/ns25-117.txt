@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+  NS25-117.TXT
+
+  NS25-117.ZIP
+
+  NS25-117.LMP - Nightmare! --Secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - Bloodfalls
+
+  Kills       76%
+  (Items    50%)
+  Secrets100%  and Time   1:17
+======================================================
+This is a   Public DANG   entry (members.xoom.com/publicdang/)
+
+author:     Doug Merrill -- opulent@goodnet.com
+
+game:       DOOM2 version 1.9
+
+category:   Nightmare! Secrets
+
+level:      Map25
+
+stats:      Kills        76%
+               Items      50%
+               Secrets 100%   and Time   1:17
+
+comments:   Not very hard.
+=====================================================
+comments:  Uhh.. I don't know what to say.
+
+Sedlic must have been recording en masse that day.
+This will be beaten easily... but it is too cool for me.  =D
+
+It isn't very hard; I haven't even looked at it in an editor to see
+where the secret sector tags are.
+
+Oh yeah, plug me page:
+http://www.goodnet.com/~opulent/doom2.htm
+It DOES have the largest Doom2 single-player demo archive on 
+the net.  =)

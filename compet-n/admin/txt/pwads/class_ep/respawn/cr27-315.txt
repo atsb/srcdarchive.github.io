@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CR27-315.TXT
+
+ CR27-315.ZIP
+
+  CR27-315.LMP - Ultra Violence - Respawn      
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M7 - Deimos Anomaly
+
+  Kills    103%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 03:15 
+                            
+                          
+
+  Description: Yep, it's even good for respawn. Probably it would be
+               safer to just head for the exit and pick off the respawns,
+               but this way is quicker.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

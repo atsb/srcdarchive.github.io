@@ -1,0 +1,51 @@
+This is a DooM "COMPET-N" entry.
+
+N1S7-256.TXT
+
+ N1S7-256.ZIP
+
+  N1S7-256.LMP - NightMare! with 100% secrets
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 1 - Mission 7 - Computer Station
+
+  Kills     94%
+  (Items    47)
+  Secrets  100%  and Time  02:56
+                           -----
+
+    Description:  Do you know the problem of nightmare LMPs?
+                  They are the more entertaining the longer they are -
+                  and in COMPET-N everybody tries to make them as short
+                  as possible.
+                  The 100% secret idea is a try to make nighmare recordings
+                  as entertaining as the old pioneer recordings have been,
+                  where the issue has been not to be fast, but just to
+                  survive. Thanx to Anthe for those wonderful, stylish
+                  recordings.
+                  My opinion is that the 100% secret requirement is not
+                  sufficient, to make the recordings as entertaining as
+                  they have been. There are a couple of exceptions though -
+                  but those recordings will be replaced by much faster ones,
+                  which will make nightmare look easy again -
+                  even with 100% secrets.
+                  One of my suggestions is to implement AdamH's
+                  "weapon collector" idea. In this particular map you would
+                  need to get the rocketlauncher and the chainsaw as well
+                  and taking the chainsaw would make quite a difference here.
+                  Speaking of nightmare 100% secret and "weapon collector"
+                  I suggest to try map 26. 100% secrets is a joke there, but
+                  the "weapon collector" needs to play all parts of that map.
+                  I have to mention Panters very interesting idea of dedicated
+                  missions instead of new categories, which differ only in
+                  some (few) maps.
+                  Anyway I think we should give more emphasis to the MMH
+                  categories, I'm pretty sure that these categories are well
+                  suited to produce nice and entertaining LMPs.
+
+         Author:  Steffen Udluft
+
+         E-mail:  rini@mppmu.mpg.de
+

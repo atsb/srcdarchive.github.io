@@ -1,0 +1,48 @@
+This is a "COMPET-N/doom/coop/nm100s" entry, please forward it.
+
+c3x7-112.txt
+
+c3x7-112.zip
+
+c3x7a112.lmp
+c3x7o112.lmp - Nightmare! 100% Secrets, 2-player Cooperative
+
+Recorded using Ultimate Doom Version 1.9
+Doom -PlayDemo with Version 1.9
+
+Ultimate Doom: Episode 3 Mission 7 - Limbo
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+Altima         18%      0%      25%
+OgreSlayR      34%     75%      75%
+
+            ********
+  Time:     * 1:12 *
+            ********
+
+
+Altima:  After 2 days of work on this demo, I think we can both say that this
+         has been the funniest coop demo session we've ever had. Just...how
+         many times did I die at the start anyway? Dunno...could've been at
+         least 50 times ^^' Anyway, under Hegyi's NM100S time is great =) We
+         had one exit that was 1:15 but Ogre missed the armor secret. Luckily
+         we picked up everything this time. His route is more important here,
+         as he picks up more secrets. And his is harder, dodging all the demons
+         and such...but hey, at least we got a successful exit!
+
+         We included a few bonus demos for our frustrating (but funny) work ;)
+         And I swear...I have to have killed Ogre more in this recording session
+         than I have in deathmatch playing! Enjoy ^_^
+
+OgreSlayR:  Wow, finally damnit! God I cant count how many fuck ups we've had.
+            This isn't the best looking demo or fastest, but I'm sure Altima
+            and myself aren't too concerned with that. Specially because all
+            the fuck ups but the bloopers were funny. :)
+
+This demo was recorded over Microsoft Gaming Zone's IPX-Zonelan.
+     
+Green:      Casey "Altima" Alvis             (altima_mantoid@hotmail.com)
+Indigo:     Michael "OgreSlayR" Lastovica    (akira101@comcast.net)
+
+27.05.2003

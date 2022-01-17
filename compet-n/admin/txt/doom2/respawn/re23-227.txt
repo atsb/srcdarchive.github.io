@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+RE23-227.TXT
+
+ RE23-227.ZIP
+
+  RE23-227.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O'Fun"
+
+  Kills    100% (!)
+  (Items    54%)
+  Secrets  100%  and Time  02:27
+                           -----
+
+  Description:  all right! took me quite some time to
+                beat rinis 2:45, but i did it by 18
+                seconds. rini is right, the slower you
+                play this map, the harder it gets. had
+                some luck at the horde of demons and got
+                the jump-secret first try.
+
+       Author:  Thomas "Poeppy" Kroppen
+
+       E-mail:  poeppy@aol.com

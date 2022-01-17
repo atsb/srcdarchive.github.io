@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN15S028.TXT
+
+ PN15S028.ZIP
+
+  PN15S028.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 15 secret exit
+
+  Kills      ??%
+  Items      ??%            +++++++++
+  Secrets    ??%  and Time  + 00:28 +
+                            +++++++++
+
+Description: 
+             
+Hmm, easier than I expected. Hardest part of the run is from the teleport
+after hitting yellow key switches to the megasphere, just too many chainguns.
+
+Author:    Adam Williamson
+E-Mail:    adam.williamson1@btinternet.com

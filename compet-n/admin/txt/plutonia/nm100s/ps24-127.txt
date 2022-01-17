@@ -1,0 +1,37 @@
+This is a Doom .LMP "Competition" Entry
+
+ps24-127.txt
+ps24-127.zip
+
+ps24-127.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP24 - The Final Frontier
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       1:27
+=--------------=
+
+C-N entry #94.
+
+This run is irritating for a number of reasons,
+but mostly because some secrets are rather
+stubborn about registering.  The final two
+secrets also give the monsters plenty of time
+to weaken you for the teleport to the cyberdemon,
+but luckily he was distracted and didn't see me. :)
+
+I think the secret to watch out is after the hidden
+teleporter (the revenant room with the 200% armor,
+ammo, and soulsphere).  There are actually two
+secret sectors there, and the one surrounding
+the teleport pad may have been the troublemaker.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

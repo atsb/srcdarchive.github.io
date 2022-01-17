@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS15-950.TXT
+
+ RS15-950.ZIP
+
+  RS15-950.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 15 - Last Resort
+
+  Kills     87%
+  (Items    60%)          ********
+  Secrets  100%  and Time * 9:50 *
+                          ********
+                          
+
+  Description :-)
+  
+  Well, I probably should have done this nightmare secrets
+  demo in the first place instead of doing the secret exit run
+  first. It turns out the armor secret is quite easy to get and
+  even helps get past the blue key and gunner areas. In this
+  demo I thought I would try to get all the secrets and then
+  proceed to the normal exit. Instead what happened is when
+  I did the archie jump first I went to the teleporter, got
+  lost a bit and then got hit again, so I decided that it was
+  best to simply take the secret exit. Also, at the red key
+  area I got stuck so I went around and killed the pain
+  elementals before dealing with the baron. This seems to work
+  better than just making a run for it. Oh, and the pigs didn't
+  come in at the end, so that was fortunate.
+
+  Xit Vono
+  Xit_vono@yahoo.com

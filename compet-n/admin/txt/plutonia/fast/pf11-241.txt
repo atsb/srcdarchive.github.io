@@ -1,0 +1,63 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PF11-241.ZIP
+
+ PF11-241.LMP
+
+  PF11-241.TXT -UV FAST
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills       77%
+  (Items     I don't care!)  ********
+  Secrets    100%  and Time  * 2:41 *
+                             ********
+  C-N entry #10.	Date:05/29/2011
+
+  Description :)
+  I made this demo on Saturday, May 21, 2011, but was to depressed to submit
+  it. Life's been sad now that ive lost My Olivia girl. But anyways, back to
+  My DOOM life. So, I know ive been playing this level like crazy and so
+  here's another entry... but since ive been playing this level like a drug
+  addict, to cure my addiction im now playing all of Ultimate DOOM's levels
+  maxing each one out and then after that, ill do DOOM II's... maybey ill
+  brake some records... I don't know, proballly not as I'm not realy a DOOM
+  expert, just a Hunted expert.
+  PS: wow, it's a good thing the first time I was writting this it faled to
+  save and I had to start all over... I was angry as hell and was cussing
+  and everything when I first did this. But anyways, this demo is pretty
+  ugly so if you don't like bleeding eyes, watch PF11-242... and yes I know
+  this is full of missspellings but I'm tired and lazy and I'm not gonna
+  put any extra enerjy into anything right now so ya. Have a good day :)
+
+  PF11-242 Description:
+  Just like my last demo but with less SR50, I guess it's about time I learn
+  that slow and steady wins the race...
+
+  PF11-244 Description:
+  Wow it's been a long time since I broke a C-N record, and it's been a long
+  time since Ive played Doom. Since my last entry in April 2010 I haven't been
+  playing much of anything, but today I decided to play some and, after two
+  hours I did what I had given up on a long time ago. I don't think I'll be
+  making any more demos, but I don't know. I still love Doom but braking
+  records isn't really important to me anymore, now that I know so much more
+  about this crazy world. But I wont get into that, just enjoy the demo :)
+
+  [Btw, 77% kills is maximum on this map (in UV) with out going to the exit on
+  the right and with out the "-respawn" parameter.]
+
+  
+  By the way, COMPET-N record was 2:42 by me.
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+N3S4-304.TXT
+
+ N3S4-304.ZIP
+
+  N3S4-304.LMP - Nightmare with all Secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 4 - House of Pain
+
+  Kills     61%
+  (Items    45%)
+  Secrets  100%  and Time  03:04
+                           -----
+
+  Description:  A very nice map for the nm100s cat. I get all secrets,
+                take all keys and end with all weapons (afaik).
+                Ok, it would be more stylish to take the initial
+                shotgun from the small hidden room and not from a
+                dead sergeant. (IMO you have to take the initial
+                weapons to be a real weapon-collector)
+
+                This is my first successful try and I hope you enjoy
+                watching me running without too much of a plan.
+
+                To speed up that map one propably will leave the chaingun,
+                make better use of the BFG, leave the soulsphere and finally
+                perform Adam's key trick.
+              
+       Author:  Steffen "Rini" Udluft
+

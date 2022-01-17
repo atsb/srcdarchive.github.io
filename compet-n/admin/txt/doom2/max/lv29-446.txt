@@ -1,0 +1,37 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV29-446.TXT
+
+ LV29-446.ZIP
+
+  LV29-446.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 29 - "The Living End"
+
+  Kills   100%
+  Items    92%             ********* 
+  Secrets   0%  and Time   * 04.46 *
+                           *********
+
+
+
+
+Description: Cyber is quite easy and hopefully the Mancubus+Revenants
+             kill each other. This level is in my opinion very hard,
+             when speeding 100/100 simply because there are a lot of 
+             badies and slime/poison everywhere.....................
+             It's hard to save the plasma for the Cyber, I decided
+             to use some for killing the Mancubus by the switch, this
+             was because of my health status..
+
+
+
+
+
+Author:	     Daniel "Demonlord" Lindgren 
+ 
+E-mail:	     akllin95@student.umu.se

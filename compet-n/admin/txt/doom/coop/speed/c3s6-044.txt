@@ -1,0 +1,11 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+authors:   Arno Slagboom (slagboom@cybercomm.nl)
+           Marko van der Want (markowant@freemail.nl)
+
+game:     ultimate doom
+category: coop speed
+mission:  e3m6
+
+time:     0:44
+

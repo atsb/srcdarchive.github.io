@@ -1,0 +1,32 @@
+E1M1-024.TXT
+
+ E1M1NET2.ZIP
+
+  E1M1-024.LMP
+                                
+  Recorded using Doom Version 1.9 !
+  Doom -PlayDemo with Version 1.9 - Only
+
+  Episode 1 - Level 1 - Hangar on Ultra-Violence 
+
+                Kills    Items   Secrets
+   
+  Green          48%       7%       33%
+  Gray           41%       2%       66%
+
+            *------*
+Time     :  | 0:24 |          LMPC gives 0:24.62
+            *------*
+
+View     :  Gray
+
+
+Comments :  Now we have 100% secrets!
+            And I've verified that there is no sergeant after the lift.
+            You can certainly do 0:23 or less.     
+      	                 
+Authors  :  Vincent "PerOxyd" Catalaa   
+            Nicolas Gandou
+ 
+
+E-mail   :  bernard.catalaa@wanadoo.fr

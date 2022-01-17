@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM25-059.TXT
+
+ NM25-059.ZIP
+
+  NM25-059.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - "Bloodfalls"
+
+  Kills     55%
+  (Items    50)
+  Secrets    0%  and Time  00:59
+                           -----
+
+
+Description: Made it with my new P166, 32MB RAM, WD1.6, Matrox 2Mb.
+             It's easier than you might think to get to the Mega-
+             sphere without the green armor!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

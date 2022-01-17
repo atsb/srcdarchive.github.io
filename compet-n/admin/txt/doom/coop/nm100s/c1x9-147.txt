@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop NM secrets
+mission:  e1m9
+
+time:     1:47
+
+xit-vono: This was pretty hard.
+
+Vincent: 
+
+
+          

@@ -1,0 +1,22 @@
+This is a DooM .LMP "Competition" Entry
+
+EV17-030.TXT
+ EV17-030.ZIP
+  EV17-030.LMP 
+
+Recorded using DooM Version 1.9
+
+TNT Evilution - Level 17 - Processing Area
+
+Kills     17%
+Items      4%
+Secrets    0%  
+Time     0:30
+         ----
+
+Description:
+Ugly run. I tried under 30 but this is ok.
+Atleast the next record will be under 30 :)
+With luck one can go exit pacifist style (and very fast).
+
+Author: Looper

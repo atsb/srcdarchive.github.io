@@ -1,0 +1,19 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+authors:   Arno Slagboom (slagboom@cybercomm.nl)
+           Marko van der Want (markowant@freemail.nl)
+
+game:     ultimate doom
+category: coop speed
+mission:  e3m5
+
+time:     0:31
+
+
+
+
+------------------
+Admin note (Ralf):   Hehey, nice short-cut.  I don't know if it saves time
+                     but it certainly reduces trouble. Thanks for that one,
+                     I just improved my own time by 4 secs :).         .ac.
+

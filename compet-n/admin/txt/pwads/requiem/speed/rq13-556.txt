@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ13-556.TXT
+
+ RQ13-556.ZIP
+
+  RQ13-556.LMP - Ultra Violence speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 13 - Town of the Dead
+
+  Kills     71%
+  (Items    36%)          *********
+  Secrets  100%  and Time *  5:56 *
+                          *********
+                          
+
+  Description :-)
+  
+  Iikka maps are hard to speedrun, not because they are so
+  difficult in general, but because lots of monsters are
+  simply blocking your way, and must be killed.  This looks
+  more like a maxkills run than a speedrun.
+  
+  Xit Vono
+  xit_vono@yahoo.com

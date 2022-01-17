@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV12-052.TXT
+
+ LV12-052.ZIP
+
+  LV12-052.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - "The Factory"
+
+  Kills      1%
+  (Items    20)
+  Secrets    0%  and Time  00:52
+                           -----
+
+
+ Description: Well... this can be quite tricky in NightMare...
+
+
+ Author:      Daniel "Demonlord" Lindgren
+
+ E-mail:      akllin95@student.umu.se
+
+

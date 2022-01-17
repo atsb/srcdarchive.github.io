@@ -1,0 +1,53 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL30-107.TXT
+
+PL30-107.ZIP
+
+PL30-107.LMP - Ultra-Violence Max-Kill
+PL30x116.LMP
+
+Recorded using Doom II version 1.9
+Doom2 -file plutonia.wad -playdemo with Doom II version 1.9
+
+Final Doom: Plutonia Experiment - Level 30 - 
+
+Kills    105%
+Items     25%
+Secrets    0%
+
+              ********
+  and Time -  * 1:07 *
+              ********
+
+
+Description :
+
+Yay! My first Plutonia Max-Kill demo! =)
+
+While going back and re-downloading all of the current Plutonia Max-Kill
+records, I noticed that for a Hegyi map 30, this one just seemed...slow.
+It was still a nice demo, however, and you should go watch it =) I thought
+I'd give it a try.
+
+15 minutes, and had a 1 second improvement which sucked...so I decided to
+make a better looking one than that one was. After changing the route,
+and leaving the Cyberdemon for the end (seems to have a higher success
+rate of killing him this way...), and 3 hours or so of playing, I get
+this, and I'm proud of it ^_^
+
+Route credits go to Adam Hegyi, who had a great demo before me.
+
+Oh yeah! I thought I'd include this 1:16 exit that I had...I swear, this
+WAD was doing ANYTHING it could to make sure I didn't exit that time!
+
+Enjoy!
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+13.05.2003

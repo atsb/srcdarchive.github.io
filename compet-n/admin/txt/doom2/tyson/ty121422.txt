@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TY121422.TXT
+
+ TY121422.ZIP
+
+  TY121422.LMP - Tyson!
+
+  Recorded using The Doom2 Version 1.9!
+  Doom2 -PlayDemo with The Version 1.9 - Only
+
+  Doom2 - Hell on Earth - level 12 - Factory
+  
+  Kills      100%
+  (Items      80%)
+  Secrets    100%  and Time  14:22
+                             -----
+  Description :)
+
+  Well I gotta say this is a pretty cool level, one of the
+  few that I like from doom2.  I remember ranexeron saying
+  something about Esko doing some 20 minute run, so it's
+  nice to have a clear record.  Things went pretty well here,
+  as you can see by the time.  I had an attempt ending at
+  around 15:30 because I forgot to use -maxdemo.  There were
+  only 3 cacos left anyways, but I don't think maxdemo was
+  needed for this one.
+
+  PS:  Sedlo, I'd love to see a speedrun on this map.
+
+  Xit Vono
+  xit_vono@yahoo.com

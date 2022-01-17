@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+TY05-416.TXT
+
+ TY05-416.ZIP
+
+  TY05-416.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills    100%
+  (Items   100%)
+  Secrets   66%  
+
+            ... and Time   4:16
+                          -----
+
+  Description:
+
+  I think it's important to conserve health in
+  the begnining because you will need to keep
+  it all the way to the imp traps.  It helps a
+  lot to get a clean pass to the berzerk.
+
+  Xit Vono
+  xit_vono@yahoo.com

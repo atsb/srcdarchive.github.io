@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE14-243.TXT
+
+ RE14-243.ZIP
+
+  RE14-243.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 14 - "The Inmost Dens"
+
+  Kills    111%
+  (Items    50)
+  Secrets    0% and Time  02:43
+                          -----
+
+Decription:	In this map it's hard to tell when you aproach 100% kills.
+		Either you manage to get final kills in the 90% category,
+		or else its around 110%-120% kills...
+
+		Fun map........... :)
+
+Author:	   Jan Endre Jansen
+E-mail:    jejansen@uldals.vgs.no
+Doompage:  http://home.sol.no/~doom/

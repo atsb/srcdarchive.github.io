@@ -1,0 +1,63 @@
+﻿
+This is a Doom .LMP "Competition" Entry
+
+9226rq21.TXT
+
+ 9226rq21.ZIP
+
+  9226rq21.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad req21.wad -playdemo with version 1.9
+
+  Requiem – Episode 3 – UV Max
+
+Sometimes you start thinking about doing a demo, saying that it will never happen, but then you do it and realize what an idiot you were for saying it's impossible. Same thing happened with this demo. All in all, it's pretty good. Of course, somebody like Xit Vono could probably work this out in a 70:xx-80:xx demo, but this is good for now. 
+
+                            Time     Kills      Secrets 
+---------------------------------------------------------
+21 - Den of the Skull      11:04      100%         88%
+22 - Arachnophobia          8:48      100%        100%
+23 - Hatred                11:12      107%         50%
+24 - Procrustes Chambers    6:23      100%        100%
+25 - Chaos Zone             3:45      104%        100%
+26 - Excoriation            1:07      104%        100%
+27 - Cursed Kingdom        20:23      100%        100%
+28 - Fetals' Remains        7:57      100%        100%
+29 - Downer                19:49      100%         50%
+30 - Nevermore              1:58      107%        100%
+---------------------------------------------------------
+Total                    1:32:26
+
+21 - Den of the Skull
+Because of the notorious problem this level has, you will need req21_competn.wad to play it. It's a good thing this map is at the start of the episode, because there is a problem: one of the imps usually teleports too late. This one imp can go unnoticed by me and I end up wasting the rest of the demo trying to complete it only to realize it's not valid because I forgot to kill one of the imps. However, I managed to kill them all this time. Somehow I managed to fall one of the bridges, and end up wasting some time because of it. Because the sector is too small, the last secret cannot be registered, so you can only get 8/9 secrets.
+
+22 - Arachnophobia
+Not too bad here. For some reason, I just love the sector where you nobody attacks you. Punching a spider simply feels so good. The reason why I didn't get the soul sphere secret immediately was because I already had enough health, so I decided to get it after. The ending kind of sucks, though. I only have 49% health when I end the stage, so I'm tense for the next level.
+
+23 - Hatred
+I had a notorious -fast demo where I didn't kill all the SS ghosts. However, they came out here, and hopefully I got them all. I'm kind of ashamed to admit I used the same technique here as the -fast run. However, considering this is a movie run, something like this is to be expected. I had a premature end to one attempt where I was picking up rockets while the final boss was forming and it ended in a visplane overflow. Also, the ending is a bit of a surprise. You'll know what it is.
+
+24 - Procrustes Chamber
+A pretty trivial level. This level is plagued with low ammo issues. However, the ammo that I had gotten before in the last stages really helped out. I was pretty slow with killing the 3 barons because I didn't want the lost souls to get in the way. 
+
+25- Chaos Zone
+A fun little level with lots of enemies. Sometimes it can really be a pain, but thankfully, not here. I had another premature end to an attempt where I was going to kill a cacodemon after the last wave of enemies on the lift, but it ended in a "no more visplanes" error.
+
+26 - Excoriation
+Another trivial, filler level. A nice, enjoyable level. Really short, too, especially when compared to the next map.
+
+27 - Cursed Kingdom
+Ok, the longest level in the WAD. Also, it's the longest time I took to do any level in any demo I made. I'm not usually into doing stuff like this, but I decided to  just try to memorize the level to the best of my ability and I got what this attempt right here. Good thing the level's pretty linear as well. On the first baron on the lift, I used the BFG too early, so I had to punch him instead. :(  The cyber fight went pretty good, especially considering how I handled it with only 63% health. However, the second half just plagued me with low health, the lowest being 14%! The reason I went back to the yellow key area after I killed the arch-vile is because in Jonas' 16:24 demo, just before the arch-vile teleported out, he resurrected an imp in that area and he missed it, and now it isn't the official record anymore.
+
+28 - Fetals' Remains
+Even slower than the -fast demo, I just wanted to get some good infights so that I wouldn't waste too much ammo. The arch-vile was nice with me and decided not to do anything harmful while I was blasting my plasma at him.
+
+29 - Downer
+The second longest level in the WAD, and another pain for me. In the room leading to the red key area, I had two options. Go the slow way and kill the arch-vile with rockets and other weapons or crush him and risk losing damage. I decided to take the former way, considering how far into the demo this is, but then I just get pummeled by revenants soon after. I stare excessively at one of the torches because that's where some demons and a baron teleport, and I wanted them to because I had a failed attempt where the baron didn't, so I wanted to make sure. Those crushers leading to the yellow key area used to scare me, but now they don't since I had a strategy for them. The spiderdemon fight was obviously played safe, but that didn't stop me from ending it boringly.
+
+30 - Nevermore
+Last level. I know I was bit wimpy in the rocket launcher area, but looking on it in retrospect, I think it was a good thing. I ended up with 14% health because I was crowded with enemies! However, I managed a smooth, clean fight against the final boss and I couldn't have asked for anything better.
+
+Author: Revved
+

@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL16-237.TXT
+
+ PL16-237.ZIP
+
+  PL16-237.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 16 - The Omen
+   
+  Kills    100%
+  Items    100%            ********
+  Secrets    0%  and Time  * 2:37 *
+                           ********
+
+
+  Description :-)
+
+  A very small map with lots of action. I spent quite a lot of work on it,
+  because the faster you go the more you'll die. My route is totally different
+  from Daniel's old one, I really recommend you to watch his demo first before
+  you see mine. Still some mistakes in it, but I had luck with the elevators
+  all the time... The arch-viles can cause much pain too.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

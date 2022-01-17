@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM14F858.TXT
+
+ MM14F858.ZIP
+
+  MM14F858.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aqueduct
+    
+  Kills    100%
+  (Items    50%)          
+  Secrets  100%  and Time = 08:58 
+                                                  
+
+  Description: Aarg, this is NOT easy. The big problem is the chaingunners
+               far away, they leach your health quite efficiently and there
+               not much around at the start. The level is okay, but there's
+               a bit of an ammo imbalance: I exit with 407 cells!             
+
+  
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com

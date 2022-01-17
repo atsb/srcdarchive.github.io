@@ -1,0 +1,33 @@
+This is a Doom .LMP "Competition" Entry
+
+pl08-351.txt
+pl08-351.zip
+
+pl08-351.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP08 - Realm
+
+=--------------=
+Kills      100%
+Items       72%
+Secrets    100%
+
+Time       3:51
+=--------------=
+
+C-N entry #112.
+
+Thanks go to Andy for his demo here;
+I used his strategy for the blue key
+chaingunners.  I wanted to try this
+one after doing the nightmare run, and
+it seems the basic idea doesn't change:
+without armor, a single mistake can be
+enough to end the run.  I totally miss
+with the SSG twice, but the end went
+well enough to compensate, I suppose.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

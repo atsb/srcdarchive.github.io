@@ -1,0 +1,25 @@
+This is a Final DooM .LMP "Competition" Entry - Please forward it...
+
+PN02-226.TXT
+
+ PN02-226.ZIP
+
+   PN02-226.LMP - Nightmare!
+
+   Recorded using Doom2.exe Version 1.9
+   DooM2 -PlayDemo with Version 1.9
+
+   Final DooM - The Plutonia Experiment - Level 02 
+
+   Kills     61%
+   (Items    00%)
+   Secrets   00%  ...and Time = 2:26
+                                ----
+                                  
+Description:  Mostly Anthe's route, except I run past most enemies rather
+              than pick them off. Plenty of optimising potential left.
+
+
+Author: Chris "Ryback" Ratcliff
+
+Email: ryback@fcmail.com

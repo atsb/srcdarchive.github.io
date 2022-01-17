@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R2M4-343.ZIP
+
+ R2M4-343.LMP
+
+  R2M4-343.TXT -UV RESPAWN
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Episode Two - The Shores of Hell - Deimos Lab
+
+  Kills:   73 / 69  (105%)
+  Items:   17 / 46  (36%)            ********
+  Secrets: 10 / 10  (100%) and Time  * 3:43 *
+                                     ********
+  C-N entry #21.	Date:02/17/2012
+
+  Description :)
+  Before I did e2re2838, I researched all the E2 -RESPAWN records and
+  saw quite a few amazing runs but when I watched Radek Pecka's R2M4-348,
+  I was unimpressed. What's even sadder is that this level when it comes
+  to -RESPAWN entries only has 2 entries, 2 entries on a 1993 wad???
+  
+  Hopefully competn.mancubus.net (the website where I get my Adam Hegyi
+  & pre-Hegyi C-N records from) just hasn't mirrored really old demos and
+  there are indeed older entries for R2M4-xxx. Maybe even on
+  pre-Ultimate Doom versions of doom.wad/doom.exe.
+
+  Also, vdgg, this file along with R2M4-343.lmp is NOT read-only :p
+
+  Hmm, does vdgg have anything to do with the Van der Graaf Generator band?
+  								
+  								
+  By the way, COMPET-N record was 3:48 by Radek Pecka, timestamped:
+  Monday, August 26, 1996, 5:00:26 PM (WTF, This can't be right, what
+  the hell does Radek do to his timestampes? Maybe playing on a dead
+  or lagging system timer? Or is Steffen at fault and wanted to go
+  into the future a few years just to see if anyone noticed?)
+
+  Complete Historic COMPET-N Leaderboard:
+  R2M4-418 - Steffen Udluft - 07/21/1998
+  R2M4-348 - Radek Pecka    - 08/26/1996
+  
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

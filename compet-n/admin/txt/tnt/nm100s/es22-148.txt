@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ES22-148.TXT
+
+ ES22-148.ZIP
+
+  ES22-148.LMP -NM secrets
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 22
+
+  Kills       ??%
+  (Items      ??%)
+  Secrets    100%  and Time  01:48
+                             -----
+  Description :)
+  
+  Yeah that plat error thing is really annoying.  I have no
+  idea what causes it or how it can be prevented.  Altima said
+  that using final doom instead of doom2 (with tnt as a pwad)
+  fixes the problem, but it didn't seem to work for me.
+
+  Xit Vono
+  xit_vono@yahoo.com

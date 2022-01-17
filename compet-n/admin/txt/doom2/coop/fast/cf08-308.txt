@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop fast
+mission:  map08
+
+time:     3:08
+
+Vincent:  like all other demos, table filling ... also part of practice for 30fa
+
+xit-vono: We played this one a bit safe i think.
+
+
+          

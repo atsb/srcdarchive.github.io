@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN291057.TXT
+
+ RN291057.ZIP
+
+  RN291057.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 29 - Downer
+
+  Kills     83%
+  (Items    47%)          *********
+  Secrets   50%  and Time * 10:57 *
+                          *********
+                          
+
+  Description :-)
+  
+  Well, this is the second to last map in Requiem to be done
+  in nightmare. The last one, rn14, should be extremely difficult
+  if not impossible for normal play. Anyways, this one was a good
+  challenge, although things get quite a bit easier after taking
+  the yellow key. In fact this is the 4'th time I got the yellow
+  key. The first time the archvile and mancubus killed me (at the
+  very end). The second time I got killed by the revenant by the
+  switch (the one with a shotgunner and a pain elemental), and the
+  third time I died after I got back to the blue door. After that
+  first time with the yellow key I knew that I had to practice the
+  ending, and came up with this method of killing the arch-vile
+  before opening the red door. The most frustrating part of this
+  demo is the blue key. 192 unit gaps always seem to be a bit of
+  a crapshoot. Also cacos after the blue door are quite annoying
+  as they can appear out of nowhere and shoot fireballs down at
+  you.
+
+  Xit Vono
+  Xit_vono@yahoo.com

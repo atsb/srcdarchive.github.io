@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV21-246.TXT
+
+ LV21-246.ZIP
+
+  LV21-246.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 21 - Nirvana
+
+  Kills    100%
+  (items    46)
+  Secrets    0%  and Time   02:46
+                            -----
+
+
+Description:  Either I was lucky with this one, or it was easy, cause it
+              took only a couple of tries. Route-credits goes to DL
+              and Ian Sutton...
+
+
+Author:      Anders Johnsen
+E-mail:      gunjohns@online.no
+Doompage:    http://home.sol.no/~doom/

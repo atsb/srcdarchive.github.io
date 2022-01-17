@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M5-037.TXT
+
+ E2M5-037.ZIP
+
+  E2M5-037.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.2 Mi.5 - Command Center
+
+  Kills      0%
+  (Items     2)
+  Secrets    0%  and Time  00:34
+                           -----
+
+  Description :-)
+
+  Okay, here goes another cheap one ... I've done 0:33 as well, but
+  that was with the -NoMonsters switch. I leave it up to Anthe, Uwe
+  or Steffen to prove it can be done WITH monsters as well ...  ;-)
+
+  I *did* include a .BAT with this, 'coz  S.;-)  takes good care of
+  all the newbies out there. :-)  However, I'm convinced that every
+  serious LMP'er (like Anthe and me) has a highly-sophisticated one
+  of his own to handle this stuff - right? ;-)
+
+ Thomas aka ZlatkO ThE GoDFatheR
+
+ thomas_zajic@non-hp-austria-om1.om.hp.com
+
+

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m2211215.TXT
+
+m2211215.ZIP
+
+m2211215.LMP - Ultra-Violence max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 21 - Sanctuary by Andy Badorek
+
+Kills      100%
+Items      100%
+Secrets    100% and Time - 12:15
+
+
+Description:
+
+The first part is simply horrible.
+
+I guess one day I should try to get a demo under 12 mins.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+11.06.2010

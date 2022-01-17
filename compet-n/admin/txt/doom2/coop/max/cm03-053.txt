@@ -1,0 +1,37 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV03NET2.TXT
+
+ UV03NET2.ZIP
+
+  UV03NET2.LMP
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Level 03 - The Focus
+
+           Kills    Items   Secrets
+
+  Green      38       14      100
+  Grey       55       60        0
+
+  Time:    0:54
+
+
+Comment:        Nice Dude teleported in the BFG. Dasa wasted time at the end.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+
+-----------
+Admin note:   Time is actually 0:53.60
+

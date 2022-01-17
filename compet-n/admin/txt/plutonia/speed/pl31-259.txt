@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL31-259.TXT
+
+ PL31-259.ZIP
+
+  PL31-259.LMP  - Ultra Violence !
+
+  Recorded using Doom2 v1.9 -FILE Plutonia.wad
+  DooM2 -FILE Plutonia.wad -PlayDemo with Version 1.9
+
+  The Final Doom: Plutonia - Level 31 - Cyberden
+
+  Kills       42%
+  (Items     100%)          ********
+  Secrets      0%  and Time * 2:59 *
+                            ********
+  Description :-)
+
+  Dedicated to Claudio and Xit Vono. Without your bugging,
+  this demo wouldn't exist ;-)
+  
+  Wanted to do it under 3 minutes, this was my 2nd success
+  (first was 3:01, bleh).
+  
+  Normally baron and mancubi cages go much better than this,
+  so it doesn't look very good, hope you enjoy anyway.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

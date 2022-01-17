@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL20-349.TXT
+
+ PL20-349.ZIP
+
+  PL20-349.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 20 - The Death Domain
+   
+  Kills    101%
+  Items     87%            ********
+  Secrets  100%  and Time  * 3:49 *
+                           ********
+
+
+  Description :-)
+
+  Another extremely well designed map with great gameplay. I really like the
+  baron's room and the cages with revenants. The only bad thing while playing
+  is that sometimes the second arch-vile teleports away from the
+  main area and then you can restart the whole thing. Actually that's the biggest
+  problem, once you finish that arch-vile it's pretty easy to the end.
+  The only thing you'll have to pay attention is your rockets supply, don't run
+  out of them till the exit because the revenant cages become very tough without
+  them!
+
+  Adam Hegyi
+  ha211@hszk.bme.hu
+  

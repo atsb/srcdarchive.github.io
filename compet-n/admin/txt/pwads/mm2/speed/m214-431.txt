@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M214-431.TXT
+
+ M214-431.ZIP
+
+  M214-431.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 14 - A Question of Time
+
+  Kills     35%
+  (Items     3%)          *********
+  Secrets   14%  and Time *  4:31 *
+                          *********
+                          
+
+  Description :
+  
+  The blue key switch grabs are not that hard if you know the right angle. Just face
+about 40 to 50 degrees towards the switch. Have it just barely in view and make sure
+you can see at least part of the switch face. Sometimes using the midbars3 texture as
+a frame of reference can throw you off - because the left side does not match the 
+right side. 
+
+  The GR switch grabs are somewhat random. Switch to SSG and make sure there are no
+enemies in view or it will autotarget. Then you shoot and hope one of the bullets 
+strays north. After opening the doors you've got to be careful not to let the demons
+block the teleporter jump. In this demo I had to draw them away. 
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

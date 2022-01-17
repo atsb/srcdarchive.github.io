@@ -1,0 +1,48 @@
+This is a DooM .LMP Competition Entry - Please forward it...
+
+EC01-024.TXT
+
+EC01-024.ZIP
+
+EC01E024.LMP EC01M024.LMP - coop ultra-violence speed
+
+Recorded using final doom evilution v1.9
+doom2 -playdemo with final doom evilution exe
+
+evilution map01
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:24 *
+              ********
+
+
+Description:
+
+player 1: mummi
+player 2: ethh
+
+
+Recorded at DooM BelgienLAN 2004
+            28-29 august, 2004
+            Brussels, Belgium
+
+
+Comments:
+
+Mummi:        I hate TeamTNT. Fucking linedefs are bullshit. Time for some more
+              deathmatch.
+
+ethh:         raider and methodman's run looked easy to beat, but it was not.  
+              we took lots of runs to get our teamplay together, then broke  
+              the 25 seconds line eventually ...  
+  
+
+Authors:      Ranjo "Mummi" Kahluff
+	      "ethh" ethhoack ethandphi exbeess
+
+E-mails:      egypt@gmx.net
+	      dimethyl@pandora.be

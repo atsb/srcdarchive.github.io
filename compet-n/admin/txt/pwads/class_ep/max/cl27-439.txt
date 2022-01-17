@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL27-439.TXT
+
+ CL27-439.ZIP
+
+  CL27-439.LMP - Ultra Violence !
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M7 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 04:39 
+                            
+                          
+
+  Description: Excellent level, I really like this one. Maybe there's
+               better ways of using the BFG, but I think this route
+               is pretty fast.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

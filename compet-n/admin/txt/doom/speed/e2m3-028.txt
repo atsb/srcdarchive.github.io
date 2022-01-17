@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M3-028.TXT
+
+ E2M3-028.ZIP
+
+  E2M3-028.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.2 Mi.3 - Refinery
+
+  Kills      6%  
+  Items     16%            
+  Secrets   33%  and Time  00:28
+                           -----
+
+  Description :-)
+
+  Last time I wrote:
+  
+  > i'm not sure if 0:28 is possible...
+
+  Well, that's finally proven wrong...
+  What's more, I'm pretty sure 0:27 is
+  possible, if the exit is left open when
+  you get there.
+  
+  This beats DOOM Done Quicker by 1 second.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

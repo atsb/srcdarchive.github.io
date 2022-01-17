@@ -1,0 +1,307 @@
+This is not just another DooM .LMP "Competition" Entry...(:
+
+30NM5405.TXT
+
+30NM5405.ZIP
+
+30NM5405.LMP - NightMare!
+
+This is a Compet-N/Doom2/MOVIE/D2S/Entry...((:
+
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+
+                             Nm-speed       Number of   
+              Time   ParTime  Record         Deaths   
+
+  LV 01  -    0:09    0:30    0:05     :(     x   
+  LV 02  -    1:33    1:30    0:49     :(     x  
+  LV 03  -    0:53    2:00    0:25     :(     x  
+  LV 04  -    1:16    2:00    1:02     :)     x  
+  LV 05  -    1:07    1:30    0:31     :)     x  
+  LV 06  -    1:57    2:30    0:56     :(     x  
+  LV 07  -    2:55    2:00    0:51     :((   44 !!!! 
+  LV 08  -    1:30    2:00    0:22     :(    11
+  LV 09  -    1:56    4:30    1:42     :)    10
+  LV 10  -    0:59    1:30    0:36     :|     8 
+  LV 11  -    1:36    3:30    0:47     :|    13
+  LV 12  -    2:30    2:30    1:21     :((   24
+  LV 13  -    2:01    2:30    1:13     :(     7
+  LV 14  -    2:10    2:30    0:53     :)     7
+  LV 15  -    1:18    3:30    0:47     :)     2
+  LV 31  -    0:47    2:00    0:35     :|     0 :)
+  LV 32  -    0:40    0:30    0:13     :|     0 :)
+  LV 16  -    0:43    2:30    0:12     :)     1
+  LV 17  -    3:46    7:00    2:50     :|     4
+  LV 18  -    0:57    2:30    0:24     :(     0 :)
+  LV 19  -    1:24    3:30    0:54     :|     2
+  LV 20  -    1:27    2:30    0:43     :(     2
+  LV 21  -    1:41    4:00    0:53     :|     1
+  LV 22  -    1:54    2:30    0:51     :)    10 
+  LV 23  -    1:52    3:00    0:58     :)     2
+  LV 24  -    3:05    2:30    0:59     :)     1
+  LV 25  -    2:20    2:30    0:57     :|     0 :)
+  LV 26  -    1:46    5:00    0:52     :)     1 
+  LV 27  -    1:32    5:30    0:18     :|     0 :) 
+  LV 28  -    1:17    7:00    0:45     :)     0 :)
+  LV 29  -    3:29    5:00    2:12     :))))  2
+  LV 30  -    1:45    0:30    0:30     :)     0 :)
+-------------------------------------------------------------------------------
+Total        54:05   95:00
+
+         :( = More problems than usual, time is very slow.
+         :| = Usual problems, usual time.
+         :) = Quite nice playing...happy to finish the level.
+
+
+Description: YAHOO!!! :) ...needed hours and hours of trying...
+             about 8 monthes ago I started this ...and now it's done :)
+
+             The second Doom 2-NM-run through all 32 maps.
+
+	     Everything started when i did a 03nm for PublicDANG.
+             Patrick "BauM" von Massow watched it in the pages of 
+             DANG site and almost forced me to finish map04 !
+             A few days later (2 may 1999) i got a 04nm (i still have the demo:)
+             then 2 hours later i reached map07... and died...
+             3 days later (5 may 1999) i finished map07 for the first time
+             and even reached map10 in the same lump !!! Map09 is considered 
+             as a very hard nm map ... in fact i rarely have problems there...
+             I died in map10 cause i wasted too much cells in map09.. :(
+             The 10 may 1999 i die in map19 with a stupid route error....
+             
+             Then a big break of two months to get my first 21nm at the
+             of june. I was really not prepared for map22... so 
+             I practised a lot with fillup.wad (thx Istvan) and a few days
+             later i got a 22nm which was upload to Compet-N. (6 july 1999)
+  
+             Again, after a break of one month i managed to die in map29 ! (7 aug 1999)
+             I did it as a free interpretation for my Doom2 Incubus exam...
+             It was really slow and full of mistakes so i didn't upload.
+
+             Then i stopped trying for 30nm for three months... I practised 
+             map29 with fillup.wad and managed to find a quite safe route... 
+             so i tried again and got a new 28nm dying at the top of the hill !!! (07 nov 1999)
+             Then i knew i could do the 30nm... so... like Panter... i tried to do e3nm
+             which i achieved the 14 nov 1999. 
+
+             Then i got this on nov the 27th 1999 :) map29 went perfectly...
+             but many maps went quite wrong... grrr... :( I think i could be
+             close to Panter's 49:xx.
+
+             I kept all the demos that reach map07... I added the number of death
+             in each level from 7 to 30 since I started until i got this 30nm. You can see 
+             that the biggest barrier is map07 followed by map12 then map22. 
+             Map29 wasn't really a barrier since i practised it a lot for Compet-N 
+             and with Fillup.wad (thx again and again Istvan!!!).
+
+	     I dunno if i'll retry to do the whole thing like Panter....         
+          
+	     
+LEVEL  1: Hmmm, 0:09 .... rarely happens but i don't want to restart 10-20 times
+          like Panter or Sedlo to get 90-100 % in 0:05 or 0:06. My only goal
+          is to get 100% for map02.
+          Also, I never tried to get the green armor, IMO too much time is lost.
+	  And, hmmm.... :), maybe Sedlo is right i'm a lamer... I've never managed 
+          to do 0:05 here... even on UV.. :(( 
+
+LEVEL  2: Like Panter i'm quite angry with the time... usual around 1:20...
+          I did many stupid things...          
+          But that's my first try of the day so i was not really "warm" :(
+          
+LEVEL  3: Another bad level.... i fall one time cause of an imp...
+          and i missed the jump to the blu switch... something that happens
+          "very" rarely... :( usual 0:42
+
+LEVEL  4: This one went quite well... I try the pacifist combination 
+          in the end room only with >90% health.
+          Else .... nothing can really go wrong if you know what to do.
+          I managed to do it manytimes with about 50% of start health.    
+
+LEVEL  5: Quite good time here (for me)... I used to have many probs with that
+          last room in my nightmare beginnings...
+
+LEVEL  6: Three jumps to perform for a safe route :
+             - the first is rarely a prob
+             - the jump to the megasphere is never a prob
+             - but the jump to the yellow door is quite hard for me
+               here i did it at third try  
+          And i lost to many times to kill the specters
+          I had a 1:35 one time.
+
+LEVEL  7: The worst scenario occcured.... I've nearly pressed Q... :)
+          But i decided to fight to the death....:) and the monsters
+          had it in their ass... 189% kills !
+          That's what i call a fight ! :) This rarely happen
+          I usually get 1:25-1:30 here... I had a lot of probs here in
+          my nightmare beginnings. In my last tries i almost made it at 
+          every try... in this one shit happened.
+          I died 44 times here before getting this 30nm... (44 x 06nm)
+
+LEVEL  8: Some stupid errors here... first i awaked a caco by opening the
+          wrong door so he always got in my way :-( then i forgot to open the
+          one door to the BFG room => 10s lost to my usual time.
+          And cause of that caco i fell down to 99% for map09.... not perfect :(
+
+LEVEL  9: Not very good to start with 99% health here.
+          So i played very safe and made without too much pain.          
+
+LEVEL 10: An very easy level... I dunno why i have killed Cybie...
+          => 15s lost...
+          I never take the Soulsphere unless i have <75%.
+
+LEVEL 11: Sometimes i have probs here... mostly at the cacos+spiders zone
+          after getting the invul nothing can go wrong.
+
+LEVEL 12: A tough map... i often have probs here...
+          but this time i did a really stupid error... down to 14% 
+          cause of one of my rockets while entering the last room.....
+          I left the place to grab some medikits and come back.
+          When back i used the safe "hungarian" method to get rid of 6 cacos.
+          Then with some BFG evertyhing went quite well.
+          My method here is to hide in th hole to be out of sight of the cacos
+          then i rush off the hole with my hungry BFG ! :)
+          Best : 1:25     Usual : 1:40
+ 
+LEVEL 13: Not a lot of things can go wrong here...
+          Died a few times here... mostly cause the blue key teleporter didn't work 
+          and the mancogot me easily... and sometimes cause an imp respwaned at the 
+          bad place and i missed my jump to the yellow key.
+          In this one i missed the jump to the blue door two times but that's not 
+          really annoying cause the invul lasts quite long.
+
+LEVEL 14: Only the archie scene can go wrong here.
+
+LEVEL 15: My route is quite long... blue armor and jump to the switch.
+          Anyway quite easy level.
+
+LEVEL 31: Never died here... who can die here ? :)
+
+LEVEL 32: idem.... :) cell collector for the rest of the game
+
+LEVEL 16: just run.... :) 
+          Died only one time here... stuck by archie....:(
+
+LEVEL 17: Long map but not very hard... you only have to know what to do.
+          One error... forgot to activate the switch in the blue room...
+          and something quite funny... the blue room spider got a bullet
+          from a zombie and she couldn't kill him... so she didn't care about me :)
+          I could grab the yellow very easily :))))).
+          Else what to say ? Don't miss the jumps that release the cacos.
+
+LEVEL 18: Completely screwed up my route ! 
+
+LEVEL 19: That pole-trick is really not my thing :)
+          The end specters tends to block me but my BFG say them "Hello!" 
+
+LEVEL 20: The PE scene can go wrong... using plasma here helps a lot.
+          I had one time the teleporter bug... really annoying after 19 levels :(
+          Here i missed the megasphere... 0:15s lost ?
+
+LEVEL 21: My goal here is to get out with 200/200... that happens sometimes...
+          hmm not in this one :( 150/151...
+          2 bad things can happen here...
+          Activate the 4 switches slowly else you're stuck :(
+          The yellow key teleporter does not work... like in this one... :(
+
+LEVEL 22: Did some errors but nothing really went wrong... :) 
+          cool ! 84% while exiting !
+
+LEVEL 23: Some probs may occur here...
+              - some skulls hit some barrels that explode on your face
+              - the pigs block you and bite you to death
+              - archie or the revenants respawn while killing the pigs
+          Here i nearly got killed by the pigs => down to 22%. 
+
+LEVEL 24: My golden rule :) ... don't fall ! :)
+          The pig room and the skulls scene can go wrong.
+          The pig room must be done quickly so that you can escape with 
+          200/200... like in this run :)))
+
+LEVEL 25: I only died one time in this. IMO that's not an easy level
+          if you start with less than 120/120...
+          I think that my route is quite safe... I use rockets from above in the blue key room
+          to kill the spider and most of the pigs.
+
+LEVEL 26: A very hard level for me... better hurry if you don't want the cacos to respawn and block
+          the way to the exit.
+          In this one everything went really well... except that last caco
+          blocking the last door.
+
+LEVEL 27: very easy....
+          I followed Panter's route... 
+          
+LEVEL 28: Safest route that allows to be invulnerable 90% of the time :)
+          Exit with 200/200 and 600 cells.
+          Without such a level map29 would be hell.
+
+LEVEL 29: Here is my route... :)
+          I think it's the safest possible (for me of course) without using
+          the FJS jump. I don't kill the cacos, and while waiting for the bridge 
+          to raise i sit down on the teleport point of the cacos so that the cacos 
+          can't teleport and annoy me :).
+          Then when i reach the revenants room i activate the middle switch first
+          (revenant+cell pack) then i go for the switch with the manco.
+          This way one or two of the barons are often on the right side of the 
+          teleporter. I don't activate the left switch, i use the little brother
+          of the FJS jump... so you can hide from the baron's shot while you shit 
+          him with the BFG.... worked perfect here :).
+          This time the hill was not hard to climb with so much health ! :)
+          I managed to exit with 96%.
+
+LEVEL 30: How much luck i had !!!
+          I got two PEs on my way ! Hopefully no Archies ! :)
+          The first wasn't really a prob.
+          But the second spawned many many heads everywhere !
+          I exited RL in hands surrounded with heads !
+
+
+
+
+          For this I want to thank some people :
+ 
+          BauM :
+          The starter of the whole thing... I had a lame 03nm and he
+          had at this time a 11nm... He gave me a many advice...
+          and he encouraged me many times while i wanted to stop :)
+          A BIG thanks to BauM, a great Nightmare player...
+          Baum plz... do a 30nm... it seems that you've stopped to play
+          Doom2 these last days... too bad :(
+             
+          Istvan :
+          For his great utility > FILLUP.WAD which helped me to find safe routes
+          and practise levels... a thousand thanks for Istvan...
+          Without him i couldn't have done this.
+
+          Daniel "Demonlord" Lindgren : 
+          He did make me start playing doom when i saw his great demos in 
+          ftp.Cdrom.com... 
+          Don't forget that he did a 21nm in 1996 !!!!
+ 
+          Thomas "PanterD2S" Pilger :
+          Obviously for his 30nm4949... :) and the advice he gave me.
+          Hmmm....  you've lost your bet that i won't do the 30nm before
+          Adam... :)
+
+          Andreas "Anthe" Kren :
+          By prooving that all doom2 maps can be done on nightmare skill.
+
+          All the people that worked on the routes :
+          Anthe, Panter, Istvan, Peo, Siebers, BauM, Ilya... there are so many  
+
+
+
+
+       For those who are interested i can make (and i have) fillup demos 
+       showing my routes for any levels.
+
+
+          
+
+  Author:    Vincent "PerOxyd" Catalaa D2S
+
+  E-mail:    peroxyd@wanadoo.fr
+Homepage:    none
+ ICQ-UIN:    14712188

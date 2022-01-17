@@ -1,0 +1,15 @@
+Runner: Zero-Master
+IWAD: DOOM2.wad
+Category: UV-Speed
+Map: 02
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 43%
+Items    : 15%
+Secrets  : 0%
+Time     : 00:36.23
+
+Description: Believe it or not, it only took me 10 minutes of attempts to get this time.
+I've practiced this map for Doom 2 All run, I have no idea why I decided to try an IL speedrun, but I did and this is the result. 
+Maybe I should say I worked hard for this time instead, so nobody will realize you can easily get at least below 36 seconds.
+This is an improvment of 3 seconds over previous record, I'm sure this can go further.

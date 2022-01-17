@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+MM211904.TXT
+
+ MM211904.ZIP
+
+  MM211904.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 21 - Twilight Lab
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 19:04 
+                                 
+
+  Description: A tough level on -fast, I tried to get it when I was doing
+               all those mm -fast recordings last year, but gave up.
+               Doing the max record got me trying again. Most of the level
+               is tight but not hard, the problem area is the caco/PE trap.
+               I thought of several strategies for this area, then came
+               up with what I thought was a perfectly safe method.
+               It was only in this demo that I realised it didn't work :)
+               So on to plan B. Health took a hit, but I made it, and the
+               rest of the level is simple.
+
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com
+

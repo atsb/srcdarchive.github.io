@@ -1,0 +1,30 @@
+This is a Doom .LMP "Competition" Entry
+
+N1S6-127.TXT
+N1S6-127.ZIP
+
+N1S6-127.LMP - NightMare! with 100% secrets
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M6 - Central Processing
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets    100%
+
+ Time       1:27
+)---------------(
+
+Another ugly demo by me.
+
+I only win time at the end, ignoring the 
+sergeants/pigs who are not in the way.
+
+I guess 1:25 is possible with better skills.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

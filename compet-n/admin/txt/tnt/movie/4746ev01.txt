@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+---------------------------------------------------------------
+
+  4746EV01.TXT
+  4746EV01.ZIP
+
+  4746EV01.LMP - TNT:Evilution / 1st Episode / UV Max movie
+
+  Recorded with the Final DOOM executable (DOOM2.EXE),
+  desyncs with the DOOM II exec on MAP06.
+
+  level                  | time | 4919EV01
+  ----------------------------------------
+  System Control (MAP01):  1:02    1:02
+  Human BBQ      (MAP02):  4:01    3:51
+  Power Control  (MAP03):  3:36    3:25
+  Wormhole       (MAP04):  6:04    6:04
+  Hanger         (MAP05):  4:20    4:30
+  Open Season    (MAP06):  4:15    4:27
+  Prison         (MAP07):  7:47    8:16
+  Metal          (MAP08):  5:55    6:35
+  Stronghold     (MAP09):  7:07    7:13
+  Redemption     (MAP10):  3:39    3:56
+  ----------------------------------------
+  Total time:             47:46   49:19
+
+  "4919EV01" is my previous entry (March 2008)
+  All maps 100% kills and secrets
+
+  Description :-)
+
+  Cleaner than my previous run, even though maps 2 and 3 are 
+  a bit slower.  OTOH, maps 7 and 8 are personal records. 
+  BTW, this is from an aborted TNT Max run.
+  
+
+  Never_Again
+  tpoppins@juno.com

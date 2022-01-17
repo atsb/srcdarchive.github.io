@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CF23-802.TXT
+
+ CF23-802.ZIP
+
+  CF23-802.LMP - Ultra Violence with -fast
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M3 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 08:02 
+                            
+                          
+
+  Description: Lots of shotgunners, not much health, pretty much forces
+               the pace for -fast. Not so hard when you go slow.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry
+
+181-N1M8.TXT
+
+ 181-N1M8.ZIP
+
+  181-N1M8.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 8 - Phobos Anomaly
+
+  Kills     ??%
+  (Items    ??%)
+  Secrets  100%  and Time  who cares?
+
+  Maximum Minimum Health = 181 %
+                           -----
+  Description:  This map is another candidate for 200% MMH. I don't have the
+                time to go for this task, but you can see from my recording
+                in which I take damage in only two occasions (both well
+                avoidable), that it is possible to end with 200%.
+                The last room, in which you must nearly die to end the
+                level is of course exculded - agreed?
+
+      Comment:  Don't expect me to compete any more, I will have simply
+                no time to do that in the near future - maybe next year.
+               
+                If you got new pacifist lmps, mail them to me, do not
+                expect me to pick them out of incoming - I did this,
+                but I won't be able to do it anymore.
+
+                .. and for those who don't know "DooM - Pacifism"
+                check out:
+
+                http://www.cdrom.com/pub/idgames/lmps/pacifist
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

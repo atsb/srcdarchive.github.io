@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS06-856.TXT
+
+ RS06-856.ZIP
+
+  RS06-856.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 6 - Natas Ot Etubirt
+
+  Kills    108%
+  (Items    95%)          ********
+  Secrets  100%  and Time * 8:56 *
+                          ********
+                          
+
+  Description :-)
+  
+  This was pretty cool to make considering I did the TAS
+  demo for this one and considered it to be impossible.
+  After watching the TAS demo I can see why I thought it
+  impossible. It's a fairly difficult demo, and very
+  intense. I think it feels easier than rp04, although
+  I probably spent about the same amount of time on it.
+  Reaching the first teleport after the yellow key is
+  not difficult, and after that is where things get
+  tough. After hitting the switch to raise the stairs,
+  it is difficult to kill the hell knight or pass him
+  safely because a caco or chainer can come in and cause
+  trouble. After that it's difficult to deal with the
+  baron of hell while pigs and imps respawn, and the
+  occasional caco may wander in as well. After that
+  things get simpler. It's important to manage ammo
+  because there are places you can run out such as the
+  pigs before the blue key. It turns out that there are
+  only 3 secrets so this is a nightmare secrets demo.
+  It's also the nightmare speed record of course.
+
+  Xit Vono
+  Xit_vono@yahoo.com

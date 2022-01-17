@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF13-700.TXT
+         
+ EF13-700.ZIP
+
+  EF13-700.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - only!
+
+  Final Doom - TNT Evilution - Level 13 - Nukage Processing
+
+  Kills    100%
+  Items     45%                   
+  Secrets  100%  and Time = 7:00  
+                                  
+
+
+Description: Pretty good, except for having to go kill a revenant.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

@@ -1,0 +1,36 @@
+This is a "COMPET-N/doom/coop/max" entry, please forward it.
+
+c2m2-212.txt
+
+ c2m2-212.zip
+
+  c2m2m212.lmp
+  c2m2r212.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E2M2 - Containement Area
+  
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Radek
+  Indigo    ??%      ??%      ??%      Method
+
+
+  Time:    2:12
+
+
+Radek:  It was my idea to play this, I wanted to beat Vincent here :) We also
+        wanted to get it under 2mins, which shouldnt be that hard. We actually
+        had some demos a bit above 2mins where I didn't make the last jump :(
+        Anyway, enjoy our team work. 
+
+
+Method: Nice UVmax demo :)) 
+ 
+    
+
+     
+Green:    Radek Pecka              <r.master@email.cz>   
+Indigo:   Jakub "method_man" Razak <dale007@volny.cz>

@@ -1,0 +1,12 @@
+author:         Selim "Bastard" Benabdelhalek	
+
+game:           Doom2
+category:       nomonsters
+mission:        map24
+
+time:           0:40.05
+
+
+comments:      Just cause Arno asked me to try the new incoming :)
+                
+                

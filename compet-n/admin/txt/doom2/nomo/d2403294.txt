@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+24	32.94	My very first (and my only) 32s nomo. Was practicing for lv24-032
+
+
+Author:		Looper

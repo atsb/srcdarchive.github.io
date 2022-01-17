@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN07-959.TXT
+
+ TN07-959.ZIP
+
+  TN07-959.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 07 - Prison
+
+  Kills    100%
+  Items     80%           ********
+  Secrets  100%  and Time * 9:59 *
+                          ********
+
+
+Description: Heh, first I thought it is a large level, because Peo has recorded
+	     it in 28 minutes. Now it is under 10 minutes, as every single
+	     player one level .lmp should be.
+	     You can kill the first few monsters before teleporting, but usually
+	     you have to return to kill(most of the time telefrag) a monster 
+	     there. You only need the red key, and don't have to raise the
+	     bridge, as you can see. And I like SSG more, You have a supercharge
+	     and the monsters take care of each other. The only problems are
+	     guided Revenant missiles (sometimes).
+	     Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

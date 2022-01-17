@@ -1,0 +1,36 @@
+This is a Doom .LMP "Competition" Entry
+
+rq31-148.txt
+rq31-148.zip
+
+rq31-148.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Requiem - Level 31 - Doorway to Quake
+
+=--------------=
+Kills      100%
+Items       50%
+Secrets    100%
+
+Time       1:48
+=--------------=
+
+C-N entry #126.
+
+This level is pure genius, so thanks to
+Iikka for creating it (and bringing back
+some fond memories as well :).  Also thanks
+to Yonatan and Adam for showing how this
+level should be played.
+
+This demo went about as well as I could have
+wanted.  I had several bits of luck going here,
+including some generous alignment kills and no
+respawned monsters from the archviles, who were
+behaving quite nicely for once. ;)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

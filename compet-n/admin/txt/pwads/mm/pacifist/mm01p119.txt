@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm01p119.TXT
+
+mm01p119.ZIP
+
+mm01p119.LMP - Ultra-Violence pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 01 - The Teleporter by Michiel Rutting and Denis Moeller
+      
+Kills       28%
+Items       29%
+Secrets    100%	and Time - 1:19
+
+
+Description:
+
+I tried pacifist on this map soon after I completed m201p run. I tried to push out a pinkie from the exit room then. No luck though.
+
+I get a demo extremely easy this time. I've spend literally 15 minutes on this demo. I'm still not sure if it's possible to push out a pinkie in reasonable time. However the last two demons is another story.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+03.06.2007

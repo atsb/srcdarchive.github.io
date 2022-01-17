@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV23-248.TXT
+LV23-248.ZIP
+
+LV23-248.LMP - Ultra Violence  
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 23 - "Barrels O' Fun"
+
+
+Kills    100%
+(Items    72)            
+Secrets  100%  
+                     
+   ...and time         02.48                 
+                       ------
+
+
+Description: I'm starting to hate this one now. Once you get the megaspere 
+             it's easy. Carefull with your rocket ammo, let the spiders fry
+	     the big one......   
+	     
+	     I ended up with 99% and 98% kills all the time, so I was very 
+	     angry at the moment I made this one :)
+	     	
+
+
+Author:	     Henning Skogsto 
+E-mail:	     hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

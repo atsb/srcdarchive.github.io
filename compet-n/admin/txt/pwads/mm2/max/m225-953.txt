@@ -1,0 +1,70 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+            _________________________________________________
+           /                                                 \
+           | PWAD: mm2.wad                                   |
+           | Author: Various                                 |
+           | Demo filename: m225-953.lmp                     |
+           | Category: UV Max                                |
+           | Map Level: MAP25 - Forgotten Town               |
+           |                    (by Denis Moeller)           |
+           | Exe/Port used: Doom2 1.9                        |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     54%           ********         |
+            |      Secrets  100%  and Time * 9:53 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| For some reason, Ancalagon had mercy and didn't try (or record, or     |
+| just upload) this one. This 9:53 is kind of bad compared to 9:58 on    |
+| MAP21 or 9:57 on MAP28, but hey, it's me! I had several missed         |
+| opportunities which would end in 9:4x or even 9:3x, let's say this map |
+| is still too hard for me. In short:                                    |
+| - I die anywhere before the RK door: sergeants, revenants, chainees... |
+| - I kill every monster there but miss the jump to the edge leading to  |
+|   the berserk                                                          |
+| - My health drops to 0% before the backpack/armor secret. Especially   |
+|   when I drop to the rocket launcher area                              |
+| - Blue key area: revenants own me or I just forget to collect the key  |
+| - Various death types afterwards (cacos/imps/arch-vile...)             |
+| - Cyberdemon. I made a great progress and I win about 60% of the time. |
+|   Still, dying after getting this far sucks...                         |
+| - Arch-vile and baron combo. Sometimes. Not that this time I used two  |
+|   BFG shots, effectively "wasting" one BFG shot.                       |
+| - Missing the computer area jump or missing a monster somewhere        |
+|                                                                        |
+| So there, enjoy this first ever below 10:00 on this map, OK?           |
+|                                                                        |
+| Complete Historic COMPET-N Leaderboard (old records) - this is         |
+| something SAV88 and Archy include in their text files which I think    |
+| is a great idea. I didn't do this before since mainly I just fill the  |
+| holes in the C-N tables.                                               |
+|                                                                        |
+| 26:21 by George Bell. Slow as the rest in the demo pack. Still well    |
+|       done by George as he finished the hardest maps.                  |
+| 19:25 by Migru. Less "what to do now?" moments. Saving cells for the   |
+|       cyber and then wasting many, many BFG shots on it, which I found |
+|       hilarious.                                                       |
+| 12:02 by Anders Johnsen. First really speedy performance. First time   |
+|       killing the cyber in the tiny YK room.                           |
+| 10:47 by Anthony Soto. Improvements on weapon usage. Great demo.       |
+|       Unfortunately, Anthony missed two monsters.                      |
+| 10:38 by me. This was an astonishing achievement back then, one of my  |
+|       first Compet-N entries. I improved the route which compensated   |
+|       my skill inferior to Anthony's.                                  |
+|                                                                        |
++========================================================================+

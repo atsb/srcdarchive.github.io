@@ -1,0 +1,28 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+	    nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 	
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie - All levels including Secret Level
+            
+level:      Episode 2 - The Shores Of Hell
+            
+stats:      
+
+   Level       Time   
+                        
+----------------------
+   E2M1        0:45     
+   E2M2        0:43
+   E2M3        0:46 
+   E2M4        1:10 
+   E2M5        0:42
+   E2M9        0:21
+   E2M6        1:36     
+   E2M7        0:54     
+----------------------
+   E2M8        0:57  
+----------------------
+   Total       7:54     

@@ -1,0 +1,113 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+2538UV01.TXT
+
+ 2538UV01.ZIP
+
+  2538UV01.LMP - Ultra-Violence!
+
+  This is a Compet-n/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1" - Levels 01 to 10
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      7%    0%    0%       0" 11     (100   0)
+  LV 02  -    100%   50%  100%       2" 11     ( 90 116)
+  LV 03  -     74%   22%  100%       2" 24     ( 82  95)
+  LV 04  -     98%   55%   66%       2" 27     ( 92  16)
+  LV 05  -     74%   66%   66%       3" 57     ( 67 167)
+  LV 06  -     83%   35%   33%       4" 52     (200 200)
+  LV 07  -    100%   83%  100%       1" 15     (200 200)
+  LV 08  -     13%   60%    0%       0" 56     (200 200)
+  LV 09  -     60%   21%   50%       6" 04     (194  69)
+  LV 10  -     19%   24%   22%       1" 21     ( 84   5)
+
+                     Total Time =   21" 278
+                                    21" +
+                                     4" 38
+                                    ======
+                     TOTAL TIME =   25" 38
+
+
+  Serious errors:
+
+    - played level 3 like a moron... I should just grab the
+      chaingun and walk off BEFORE letting the imps scratch
+      me to heck... :)
+    - forgot the rocket ammo near the blue door on level 5
+    - I forgot about the "easy" megasphere and went for the
+      one farther from the exit instead.  That cost about
+      30 seconds.
+    - not really serious, but I should have made an attempt
+      to beat 1:00 on level 7 since I had the ammo to do it
+    - I ought to be able to improve on level 9 by more than
+      a minute.  I played it poorly.
+
+  Comments:
+
+  This was the first time I completed the "episode" and my
+  5th attempt.  I had never made it to level 10 prior to
+  this attempt, so I paused a while longer than normal in
+  order to plan my attack of level 10.
+
+  I doubt if I'll compete in this category again; I truly
+  detest ending a level without killing everything.  Why
+  I went this far is beyond me.  Just watching the demo (to
+  get the health/armor values) made me cringe every time I
+  by-passed a monster.
+
+  Who is to say what "Acceptable" times are for various levels
+  in a 10 level entry?  Just because you took longer on a level
+  does not make it unacceptable - provided you used that time
+  to get better equipped for the next level.  It's the final
+  time that counts, so don't invalidate an entry just because
+  one level was done poorly (or differently).
+
+  (BTW, does it count if I get my friend to watch a coop game
+  of me wasting level 11 alone? :)  If not, I'll try to get
+  him to work with me on the level instead.  He's pretty good,
+  and we've deathmatched on the level for hours)
+
+
+ Eric Mullins
+
+ Email pending  (I'll be forced to get a real account soon - my
+                current access will terminate on Sept. 11, 1995)
+
+
+[  Admin. Note :-) Since I can not Email Eric directly, I'll address
+   Eric's "comments" here ...
+
+   So it took you five whole attempts to complete this "episode" ;-)
+   I had that (level 10) trouble too - to begin with, anyway.
+
+   Do I detect a little lie there - "I doubt" - Addictive isn't it ?
+
+   I believe that you are referring to my own 3644UV01 "example" LMP
+   here. Well, the "Acceptable" times were acceptable to just ME, in
+   MY own personal aim to break through MY (40 min.) "barrier" - and
+   that's all - "It's the final (cumulative) time that counts" ! :-)
+
+   The [ one (of 2 ;-) "no pausing" - and ] only "hard rule" is that
+   each of the level times MUST be clearly visable for any "episode"
+   to count. If they are NOT :-( Auto DisQualification ! That's All.
+
+   (YES ! If "you" (plus a mate (or even two or three)) can complete
+   Level 11 (or a higher level) ... ".LMP - Give!" ... I'll take it!
+   New (sub-)category coming soon. If you have no mates around, try:
+
+   > IPXSetup -Nodes 1 -Skill 4 -Warp 11 -MaxDemo ? -Record STAR-LMP
+
+   The only new [ third (of 1 ;-) ] "rule" will be "NO Respawning !"
+   If your "mate" gets killed s/he stays dead. If "you" can complete
+   this monumental task - YES ! ... ".LMP - Give!" :-)))
+
+S.;-) aka. The "Judge". ]
+
+

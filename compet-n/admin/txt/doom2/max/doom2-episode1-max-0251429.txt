@@ -1,0 +1,26 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom2-episode1-max-0251429.lmp & .txt
+Date     : 2015-09-09 19:17
+Game     : Doom 2 - Hell on Earth
+Client   : cndoom.exe v2.0.3.2
+Category : max
+Map(s)   : episode 1
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : Derek Baker
+Nickname : Konceptz
+Country  : USA
+Email    : Konceptzofdeath@yahoo.com
+WWW      : 
+-------------------------------------------------
+Kills    : 100%
+Secrets  : 100%
+Time     : 00:25:14.29
+===================================
+
+Finally got a better time than Pecka's in compet-n episode 1 of doom 2. Lots of mistakes though,
+like falling off the bridge at the end of waste tunnels and somehow missing the hell knight switch in
+the pit. If playing better, I could easily see this going sub-25.
+
+-Konceptz

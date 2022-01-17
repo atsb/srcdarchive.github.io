@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV07-830.TXT
+
+ EV07-830.ZIP
+
+  EV07-830.LMP - Ultra Violence
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Doom2.Exe Version 1.9 - Only!
+
+  Final Doom - TNT Evilution - Level 07 - Prison
+
+  Kills    100%
+  Items     91%           
+  Secrets  100%  and Time ... 7:50 
+                              ----
+
+
+Description: This is quite a large map and it wasn't easy to learn the route.
+             As you can see, sometimes i didn't know where i shall go. 
+             Anyway, it's below 8 mins now. I'd like to thank to Chris Ratcliff
+             for his route.
+             
+
+Author:  Radek Pecka
+E-Mail:  r.master@email.cz

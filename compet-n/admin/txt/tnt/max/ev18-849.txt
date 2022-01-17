@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV18-849.TXT
+EV18-849.ZIP
+
+EV18-849.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 18 - Mill
+
+Kills    100%
+Items     50%           
+Secrets  100%  
+
+   ...and Time  8:49
+               ------
+
+
+Description: Another nice map, with good playability. Fun to play, although
+	     it gets damn annoying some times, especially in the red-key area.
+	     The time could be improved a bit, maybe even below 8 minutes...            	     
+	     I didn't handle the first Pain Elementals too great, nor the
+	     Arachnotrons, or the last part... but oh well...:)
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

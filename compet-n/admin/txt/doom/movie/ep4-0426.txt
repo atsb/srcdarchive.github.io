@@ -1,0 +1,55 @@
+This is a DooM .LMP "Competition" Entry
+
+ep4-0426.txt
+ep4-0426.zip
+
+ep4-0426.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Ultimate Doom -playdemo with Version 1.9
+
+Ultimate Doom - "Thy Flesh Consumed" on UV skill
+
+E4M1 - Hell Beneath          -  :41
+E4M2 - Perfect Hatred        -  :25
+E4M3 - Sever The Wicked      -  :47
+E4M4 - Unruly Evil           -  :47
+E4M5 - They Will Repent      -  :37
+E4M6 - Against Thee Wickedly -  :50
+E4M7 - And Hell Followed     -  :19
+E4M8 - Unto The Cruel        - excluded
+
+Total - 4:26
+
+C-N entry #142, movie run #28.
+
+E4M1: Smooth run, OK time.
+
+E4M2: Slower than Adam, I make sure to grab all cells from the last
+      room.
+
+E4M3: Picking up the backpack makes a difference later (lots of cells).
+
+E4M4: The demons slowed me down at the start, OK time.
+
+E4M5: Another demon slows me down here, almost overshot the exit jump.
+
+E4M6: MUCH easier than the nightmare run, with the BFG the cyberdemon
+      is easy to take down.
+
+E4M7: The only reason this run was improved was getting the exit jump
+      on the first try.  Adam, I feel your pain: a few previous movies
+      had me missing the final jump 3-4 times, even though I nailed it
+      every time when I practiced. :)
+
+E4M8: I didn't slow down for much here, I was much less nervous here
+      than for the e4nm, so I thought it would help make the movie nice.
+
+Adam asked me to consider this one a long time ago, and xit did recently
+after I uploaded the e4nm.  I didn't invest a lot of time in this, so maybe
+it could see another improvement from another player with some more time.
+Also, I'm sorry, but the same teleport on e4m1 makes this demo desynch in
+PrBoom.  Maybe this will be worked out eventually, but if not, sorry. :(
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

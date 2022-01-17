@@ -1,0 +1,90 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30UV4948.TXT
+
+ 30UV4948.ZIP
+
+  30UV4948.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom II - ALL levels 01-32 - "Compet-N/Doom2/Movie"
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      0%    0%    0%          08     (100   0)
+  LV 02  -     66%   45%  100%       1" 17     ( 51 148)
+  LV 03  -     30%   22%  100%          45     (115 144)
+  LV 04  -     67%   61%   66%          59     ( 95  97)
+  LV 05  -     25%   33%    0%          50     (148  58)
+  LV 06  -     43%    5%   66%       1" 39     (148 156)
+  LV 07  -    100%  100%  100%       1" 17     ( 57   2)
+  LV 08  -     23%   60%    0%       1" 02     (157   2)
+  LV 09  -     39%   23%    0%       2" 00     ( 67  81)
+  LV 10  -     12%   22%   16%          54     ( 71  52)
+  LV 11  -     74%   47%   66%       2" 18     ( 45 100)
+  LV 12  -     12%   20%    0%       1" 26     ( 49  59)
+  LV 13  -     30%   19%    0%       2" 10     (100  38)
+  LV 14  -     61%   50%    0%       2" 03     ( 86  70)
+  LV 15  -     11%   12%   18%          56     (100  61)
+  LV 31  -     28%    1%   50%          44     ( 83  45)
+  LV 32  -     54%  100%   33%          23     (197 197)
+  LV 16  -     16%   20%    0%          55     ( 69  74)
+  LV 17  -     80%   51%    0%       4" 07     ( 62  58)
+  LV 18  -      2%   40%    0%          39     (200 126)
+  LV 19  -     12%    5%   22%       1" 16     (134 100)
+  LV 20  -     30%   28%   28%       1" 18     (167 174)
+  LV 21  -     65%   50%    0%       1" 41     (149 158)
+  LV 22  -     85%   85%   66%       1" 49     (100  61)
+  LV 23  -     53%   27%  100%       1" 43     (146 144)
+  LV 24  -     10%    0%    0%       1" 55     (124 124)
+  LV 25  -     61%   50%   50%       1" 12     ( 68  82)
+  LV 26  -     52%   34%   50%       1" 54     (110 114)
+  LV 27  -     47%   21%   12%       2" 58     (110   0)
+  LV 28  -     45%   36%   28%       1" 37     (200 200)
+  LV 29  -     63%   96%    0%       4" 24     ( 83 138)
+  LV 30  -   1500%   50%    0%       1" 29     (107 109)
+
+                     Total Time =   33" 1008
+                                    33" +
+                                    16" 48
+                                    ------
+                     TOTAL TIME =   49" 48   claimed (?)
+
+
+Description: Well I have completed a new Doom2 Lightning and this
+             one is a lot faster.
+             I don't have the time to comment all the levels, but
+             it is possible to complete some of the levels faster
+             than I did.
+             The reason I completed this .LMP was because "some"
+             people thought my old entry (lightn32) was too slow
+             and, with this .LMP, I also beat the other 57 mins.
+             something entry.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+
+[  Admin. Note :-)  Firstly, these filenames have been changed...
+   "4948UV01 --> 30UV4948" [ Levels one to 30 - UV - in: 49" 48 ]
+
+   Secondly, I have _NOT_ reviewed this -Record'ing, and so these
+   table values ( And many thanks for providing this data :-) are
+   taken as correct. This was done in favour of a "30UV4525" .LMP
+   [ same author ] which is a better -Record'ing as the "winning"
+   (so far) entry. The only ( ? ;-) important values in this .LMP
+   would have been the very BEST time for each of the levels, but
+   ( with 30UV4525 :-) none (NOT even ONE) of them would qualify.
+
+   Next. ( "Demonlord" .LMP... :-) And thanks ( ? ;-)
+
+S.;-) aka. The "Judge". ]
+
+

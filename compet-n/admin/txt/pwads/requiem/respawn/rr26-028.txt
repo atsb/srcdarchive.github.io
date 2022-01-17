@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR26-028.TXT
+
+ RR26-028.ZIP
+
+  RR26-028.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 26 - Excoriation
+
+  Kills    100%
+  Items      0%           +++++++++
+  Secrets  100%  and Time + 00:28 +
+                          +++++++++
+                          
+  Description:
+ 
+  first 100% exit and I got this pretty fast =)
+  Arch-vile revived 3 imps which compensate for 
+  the pain elemental, baron and arch-vile itself
+  I guess it was faster to kill imps ;)
+  I'm starting to like -respawn btw =)
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

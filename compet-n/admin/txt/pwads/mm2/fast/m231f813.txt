@@ -1,0 +1,15 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m231f813.TXT
+
+ m231f813.ZIP
+
+  m231f813.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad mm2info.wad -playdemo with version 1.9
+
+  Memento Mori 2– Map 31 – UV Fast
+
+Filling this slot wasn't easy. There were so many demons everywhere, that killing them with a rocket launcher was dangerous. I really screwed up the ending. This could really be improved on.
+Author: Revved

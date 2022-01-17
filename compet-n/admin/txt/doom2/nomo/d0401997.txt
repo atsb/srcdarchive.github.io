@@ -1,0 +1,11 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map04
+Skill:		Ultra-Violence
+
+Time:           19.97
+
+
+Comments:       Phew! This was quite difficult. The first door is really annoying.

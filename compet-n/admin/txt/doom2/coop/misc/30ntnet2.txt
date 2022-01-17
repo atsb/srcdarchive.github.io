@@ -1,0 +1,65 @@
+This is a Demo Archive of the Non Gods entry 
+
+authors:    Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+            Nicolas "Dupre" Gandou <ngandou@wanadoo.fr> 
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Hey Not Too Rough!
+            
+
+Green  (view) : Vincent
+Indigo        : Nicolas
+
+
+         *-------*
+Time:    | 29:27 |
+         *-------*
+                             
+Levels                   Time    
+---------------------------------
+"Episode 1" :
+---------------------------------
+Entryway                 0:09
+Underhalls               0:47    
+The Gantlet              0:30    
+The Focus                0:31    
+The Waste Tunnels        0:29    
+The Crusher              1:07    
+Dead Simple              0:27    
+Tricks & Traps           0:36    
+The Pit                  1:18    
+Refueling Base           0:36    
+---------------------------------
+"Episode 2" :
+---------------------------------
+"O" Of Destruction       0:37
+The Factory              1:43 :((( Both players must take the yellow key   
+Downtown                 1:19
+The Inmost Dens          0:59    
+Industrial Zone          0:29
+Wolfenstein              0:42    
+Grosse                   0:38
+Suburbs                  0:42
+Tenements                2:16
+The Courtyard            0:27
+The Citadel              0:40
+Gotcha!                  0:44    
+---------------------------------
+"Episode 3" :
+---------------------------------
+Nirvana                  0:49
+The Catacombs            0:44    
+Barrels Of Fun           1:14    
+The Chasm                1:26
+Bloodfalls               1:06    
+The Abandoned Mines      1:00    
+Monster Condo            1:04
+The Spirit World         0:49    
+The Living End           2:27
+Icon Of Sin              1:02
+---------------------------------
+Total 32 levels         29:27
+---------------------------------
+        
+

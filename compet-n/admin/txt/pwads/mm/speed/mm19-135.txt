@@ -1,0 +1,66 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM19-135.TXT
+
+ MM19-135.ZIP
+
+  MM19-135.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 19 - Maltraiter
+
+  Kills       41%
+  Items        4%            
+  Secrets      0%  and Time: 1:35 
+                             ==== 
+
+  Description :-)
+
+  7th COMPET-N entry.
+
+  As of this demo, "Memento Mori" has a full UV speed table! So 
+  naturally I want to dedicate this one to Casey Alvis, who, in 
+  his mm12-437.txt, wrote:
+  "I've been trying to get help on finishing up the UV-Speedrun 
+   tables for Memento Mori and Hell Revealed, any help would be 
+   greatly appreciated you guys! I'd love to see them all 
+   completed!! Thanks! ^_^"
+
+  You're welcome. :-)
+
+  This map isn't very interesting, but it's still fun to play (in 
+  spite of the style changing every 20 seconds, heh). For such a 
+  small map, there's a surprising amount of things to do.
+
+  I struggled hard to get a good and quick demo, mostly because 
+  this one wasn't built with speedrunning in mind: tight passages 
+  filled with monsters, ugh! Having to pass over your steps a 
+  couple of times doesn't help, either. And I really, really, came 
+  to hate those marble stairways... Speeding through them without 
+  getting stuck on the walls is just impossible.
+
+  Anyway, I played this in a kind of safe manner (e.g. clearing out 
+  some monsters with the rocket launcher, taking the soulsphere). 
+  Sorry for the "max style" playing prior to taking the soulpshere... 
+  I'm just not crazy enough to charge through everything. ;-)
+
+  Even so, the attempts wherein I got to the exit were few and far 
+  between. There's so much that can go wrong here. I nearly screwed 
+  it up in this attempt, too -- that Baron at the end got me, and I 
+  got stuck in the final room, so the ending came quite close.
+
+  I want to thank Drew "stx-Vile" DeVore for some route ideas; I 
+  studied his movie runs over this map, and pretty much played 
+  copycat for the last half of the map (with just a little bolder 
+  playing). Some ideas are my own, though -- for example the shotgun 
+  shot at the start makes the imps at the yellow key door move out 
+  of the way.
+
+  If you're dead set on trying to improve this (can't see why, it's 
+  such an unrewarding run), I wish you the best of luck -- you're 
+  going to need it!
+
+  Kristian Ronge
+  zuckuss@gmail.com

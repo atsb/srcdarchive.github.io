@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV03-315.TXT
+
+ EV03-315.ZIP
+
+  EV03-315.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 03 - Power Control
+
+  Kills    100%
+  Items    100%           
+  Secrets  100%  and Time    3:15
+                             ----
+
+
+Description: Hey John, you made up very good route, thx for it. 
+           
+
+
+Author:    Radek "R.Master" Pecka
+E-mail:	   r.master@email.cz
+Doompage:  http://doomers.zde.cz
+

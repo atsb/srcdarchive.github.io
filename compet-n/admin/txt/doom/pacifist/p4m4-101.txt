@@ -1,0 +1,26 @@
+[ Taken from Michal Svoboda's D1P6 exam d1p6ms ]
+                       
+P4M4-101.TXT
+
+ P4M4-101.ZIP
+
+  P4M4-101.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.4 Mi.4
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  01:01
+                         -----
+
+  Description:
+       wow, 4th episode, wow, 4th level, wow 4th
+       skill :) -- this is very easy, i got it on
+       the 2nd try, the only problem is that monsters
+       can surround you like skinheads...
+
+  Author:  Michal Svoboda
+

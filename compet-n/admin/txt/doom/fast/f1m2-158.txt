@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F1M2-158.TXT
+
+ F1M2-158.ZIP
+
+  F1M2-158.LMP - Ultra Violence with -FAST 
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 1 Mission 2 - Nuclear Plant
+
+  Kills    100%
+  Secrets  100%  and Time  01:58
+                           -----
+
+Beats my last record by 5 seconds. This demo shows off a pretty neat new
+route that I reckon can save 1-2 secs over a normal time, more if you get
+really lucky (if the trooper triggers the lift at exactly the right time,
+you can kill one imp, three troopers, go down the lift, kills the imp and
+the two troopers, come straight up without having to wait and kill the imp..
+but that doesn't happen often :>). Knowing Adam H's luck he'll do it first
+time and get a 1:48...<mumble, curse, mumble...>
+                           
+Author:    Adam Williamson
+E-mail:    adam@scisoft.force9.co.uk
+Doompage:  Nope :)

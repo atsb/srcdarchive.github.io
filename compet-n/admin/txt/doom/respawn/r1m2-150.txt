@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R1M2-150.TXT
+
+ R1M2-150.ZIP
+
+  R1M2-150.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 1 Mission 2 - Nuclear Plant
+
+  Kills    105%
+  Secrets  100%  and Time  01:50
+                           -----
+A very interesting level with -respawn, much fun to play :). I made a 1:56
+of this map originally when the record was 2:05, but Adam told me that
+Aurican had set a 1:54, so I made a couple of changes and beat it. Main
+time saving here is avoiding a lot of the time consuming stuff in the maze.
+I avoid the dead end with the imp and trooper in it, and only go half way
+up towards the chainsaw (high enough to get the secret armour room), going
+back into the red room to kill some enemies to compensate. As you can see,
+I could have skipped some enemies in this demo and gone even faster, but
+kills ratings tend to come anywhere between 96% and 107% on this map so
+I play quite safe to make sure I get enough.
+
+Author:    Adam Williamson
+E-mail:    adam@scisoft.force9.co.uk
+Doompage:  Nope :)

@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+RE12-717.TXT
+
+ RE12-717.ZIP
+
+  RE12-717.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - The Factory
+
+  Kills    115%
+  (Items   100%)
+  Secrets  100%  and Time  07:17
+                           -----
+
+  Description:  This one has been much harder than I had expected.
+                The time is very bad, because I killed by far too
+                much monsters, but I don't like to record it again -
+                maybe I will redo it when the collection of re100/100
+                maps is completed.
+                Btw:
+                Surely all my -respawn 100/100 records will be beaten, it
+                may take a real champ only one day to beat them all. Then
+                you might say "poor little rini", but that's ok for me -
+                I had a good time playing ...
+                and I definitely will enjoy to watch these new records ;-)
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

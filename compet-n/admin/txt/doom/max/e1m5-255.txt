@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M5-255.TXT
+
+ E1M5-255.ZIP
+
+  E1M5-255.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+  
+  DooM - Episode 1 Mission 5 - Phobos Lab
+
+  Kills    100%
+  (Items    44)
+  Secrets  100%    and Time  02:55
+                             -----
+
+Description: My goal was to get below 03:00, I agree Peo- par should be 
+             possible. This was my first recording better than your 03:01.
+             
+
+Author:    Anders Johnsen
+E-Mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

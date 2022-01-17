@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE31-235.TXT
+RE31-235.ZIP
+
+RE31-235.LMP - Ultra Violence with -Respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 31 - "Wolfenstein"
+
+Kills    101%
+items      7%
+Secrets  100%  
+
+   ...and Time     02:35
+                   -----
+
+Description: OKay now that we have tried the Rocket Luncher which I promised
+             earlier today, I conclude with the fact that you can save quit 
+             some time spending them like I did in the End....
+ 
+             And if you dislike my solution you can just do it better :-)
+                
+
+Author:   Henning Skogsto 
+E-mail:   hskogsto@c2i.net 
+Doompage: (Coming Soon :)

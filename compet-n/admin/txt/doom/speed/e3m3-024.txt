@@ -1,0 +1,49 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+E3M3-024.TXT
+
+ E3M3-024.ZIP
+
+  E3M3-024.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM ver. 1.9
+
+  DooM - Ep.3 Mi.3. - Pandemonium
+
+                     Time  00:24
+                           -----
+
+  Description :-)
+
+Fuck, this run is _nuts_. I discovered this difficult trick when I was using
+the other route. I used to work out how good my blue key grab was by listening
+for the sound of the lift rising and comparing it to when i hit the switch
+for the raising platform. I realised that occasionally i did it so quickly it
+was quite a while before I heard the lift rise, and i wondered if it might
+be possible to get back to it before it rose. Well, it is - JUST. There are
+three parts just of the run from the lift to the blue key and back. First,
+you need a flying jump off the top - if you hit a wall on the way down, no
+go. You need a fast drop down the stairs, and you need to avoid hitting any
+walls on the way back. I think it's probably about as hard as the MAP19 jump
+on nomonsters...not as hard as doing it with monsters though. If this was the
+only problem on the level, then, it'd be okay. But it isn't. First, about
+3/4 of the time you make the lift, the spectre will block your run out. I
+was very lucky here, it just got out of the way completely. Then, sometimes,
+a pinky will block you at the bottom of the stairs. Then you've got to get
+past the pinkie behind the imp quickly, and then you've got to make the exit
+room run work...you can't even eliminate this by taking the shotgun, because
+it takes too long to get to it on this route. All in all, this is probably
+the most insanely difficult run i've ever done, so i'm happy to have finished
+it :). This run is both the pacifist and the speedrun record, it beats DDQ
+by 3 seconds, and the route is all mine, dammit :). I think the optimum time
+for this route would be 0:23, but you'd have to be nuts to try. This is
+0:24.88. I'm fairly sure 0:25 is human-optimal for the other route, 0:24 could
+probably be done with TAS, but everything would have to be _perfect_. Damn,
+I have a habit of writing these huge text files don't i? :)
+
+Adam Williamson
+adam@scisoft.force9.co.uk

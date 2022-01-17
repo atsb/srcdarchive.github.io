@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M7-207.TXT
+
+ R4M7-207.ZIP
+
+  R4M7-207.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 7 - And Hell Followed
+
+  Kills    108%
+  (Items    83%)
+  Secrets   50%  and Time  02:07
+                           -----
+
+  Description:  It always has been annoying to end with less than 100% kills
+                in max and respawn. The exit jump introduces the opportunity
+                for an even more annying end.
+                This would definitely be more fun w/o the jump.
+                I don't blame Daniel, I blame iD.
+
+         Note:  Only 50% are reachable.
+
+           PS:  Anybody going for tyson here?
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

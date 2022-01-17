@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA14-035.TXT
+
+ PA14-035.ZIP
+
+  PA14-035.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 14 - "The Inmost Dens"
+
+       ********
+  Time * 0:35 *
+       ********
+               
+
+
+ Description: 
+              
+        In fact the archie jump is not so.... the only hard points
+        is to have enough health... :
+                  - obviously to survive the jump :)
+                  - and to finish the level
+
+        I did the jump around 20 times with only one success ! 
+        Exit under fire ! (down to 1% when exiting).
+        The main problem is that chaingunner on the lift... here 
+        i try to make him shoot the imps... it works some time...
+        but he didn't => 2-3 sec lost ?? 
+        
+  Author:    Vincent Catalaà
+
+  E-mail:    peroxyd@wanadoo.fr

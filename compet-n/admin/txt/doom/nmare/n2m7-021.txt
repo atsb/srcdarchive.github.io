@@ -1,0 +1,25 @@
+N2M7-021.TXT
+
+ N2M7-021.ZIP
+
+  N2M7-021.LMP - Nightmare!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.2 Mi.7 - Spawning Vats
+
+  Kills     ?%
+  (Items    ?%)
+  Secrets   ?%  and Time  0:21
+                           ----
+  Description: 
+
+  Trickier than the UV to start with, but the extra rocket
+  ammo makes getting away from the demons much easier. It
+  could be reduced to at least 0:20, but a 0:19 would nicer.
+
+  Jonathan Rimmer
+  jon@rimmer.demon.co.uk

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m201f143.TXT
+
+m201f143.ZIP
+
+m201f143.LMP - Ultra-Violence -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 01 - Outpost by Denis Moeller
+      
+Kills      100%
+Items       48%
+Secrets    100%	and Time - 1:43
+
+
+Description:
+
+My first exit was 1:44. This time comes then. Heh, too many missed shots and timer shows 1:43:02. Philip should beat it easy with his prboomish 1:39.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+03.01.2007

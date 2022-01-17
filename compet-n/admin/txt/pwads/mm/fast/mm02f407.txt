@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM02F407.TXT
+
+ MM02F407.ZIP
+
+  MM02F407.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 02 - The Bridge
+    
+  Kills    100%
+  (Items    89%)          
+  Secrets  100%  and Time = 04:07 
+                                                  
+
+  Description: First try.
+  
+  
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com

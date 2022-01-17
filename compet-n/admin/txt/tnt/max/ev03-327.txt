@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV03-327.TXT
+
+ EV03-327.ZIP
+
+  EV03-327.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 03 - Power Control
+
+  Kills    100%
+  Items    100%           *********
+  Secrets  100%  and Time *  3:27 *
+                          *********
+
+
+Description: 
+
+In his ev03-348 entry Maximiliano Di Dio said
+
+> Good max players could maybe get this under 3:30.
+
+Well that was too much of a temptation, and I didn't want to lose the record
+after only one month. I had another look at the route and my previous demo
+and saw how much time I wasted because I wasn't clear in my mind where the 
+next door was. This is a much tighter effort but there is still some slack.
+
+2:59 anyone ?
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

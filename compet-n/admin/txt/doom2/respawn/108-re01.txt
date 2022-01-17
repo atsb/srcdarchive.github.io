@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+108-RE01.TXT
+
+ 108-RE01.ZIP
+
+  108-RE01.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - "Entryway"
+
+  Kills     29%
+  (Items    88
+  Secrets    0%  and Time  00:22
+
+  Minimum Maximum Health = 108 %
+                           -----
+
+  Description:  never hit.
+                under par.
+                max health.
+                1st try.
+                ...now going for map 29! :-)
+
+       Author:  Thomas "Poeppy" Kroppen
+
+       E-mail:  poeppy@aol.com

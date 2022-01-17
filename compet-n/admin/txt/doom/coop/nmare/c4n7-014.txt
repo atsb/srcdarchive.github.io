@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom/coop/nightmare" entry, please forward it.
+
+c4n7-014.txt
+
+ c4n7-014.zip
+
+  c4n7p014.lmp
+  c4n7s014.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m7 - And Hell Followed
+
+              Kills    Items   Secrets
+
+  SlagDooM      4%       5%       0%      
+  Python        6%       0%       0%      
+
+  Time:    0:14.40
+
+
+Python:       PURE strafe 40 jump! no sr50 when not needed like others!
+
+SlagDooM:     Beating AdamH by 1 second. ;)
+     
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

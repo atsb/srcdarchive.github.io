@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV01-056.TXT
+
+ LV01-056.ZIP
+
+  LV01-056.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - EntryWay
+
+  Kills    100%
+  (Items    44)
+  Secrets  100%  and Time  00:56
+                           -----
+
+  Description:
+
+        Best so far, just lost a second at the secret.
+        Pentium aiming rulez!
+
+        (The best stock deathmatch level!)
+
+ Sven Huth
+
+ dasa@cs.tu-berlin.de
+
+

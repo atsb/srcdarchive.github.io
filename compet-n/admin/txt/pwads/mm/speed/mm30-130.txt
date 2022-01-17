@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM30-130.TXT
+
+MM30-130.ZIP
+
+MM30-130.LMP - UV Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper by Milo Casali
+      
+Kills       55%
+Items       33%
+Secrets    100%
+
+              ********
+  and Time -  * 1:30 *
+              ********
+
+
+Description:
+I've promised to try max but then HR and MM2 pass off me. Seems speedy players can catch rising platform and get time 1:1x.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+28.02.2004

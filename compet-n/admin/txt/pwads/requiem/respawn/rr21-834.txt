@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rr21-834.TXT
+
+ rr21-834.ZIP
+
+  rr21-834.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad req21_competn.wad -playdemo with version 1.9
+
+  Requiem – Map 21 – UV Respawn
+
+Basically, this run is the same as Xit's NM run except this is more reckless due to UV being easier than NM. Since most of the level is pretty linear, most of the kills are pretty necessary, since you can't really rack up kills of hordes of enemies with BFG here. One thing I found pretty awesome is that I somehow managed to get 2 revenants stuck on lifts so they couldn't go anywhere. I had to kill one of them to proceed, though. I had a 8:39 before, but that only got 77% secrets due to the first blue armor secret not registering. Probably good, too, because that run, I fell through the bridge again like in the Episode 3 run.
+
+Author: Revved

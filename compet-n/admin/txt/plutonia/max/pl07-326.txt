@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+PL07-326.TXT
+
+ PL07-326.ZIP
+
+  PL07-326.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - Plutonia Expt - Level 07 - Caughtyard
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  03:26
+                           -----
+
+
+Description: I like this one: right weapons and a lot of monsters around
+             you. Except for that exit hallway. The way I made it is not
+             that healthy. Don't like that arachnotron there.
+             Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+3849PL01.TXT
+3849PL01.ZIP
+
+3849PL01.LMP 
+
+Recorded using DooM 2 Version 1.9
+DooM2 -PlayDemo with Version 1.9 -file plutonia.wad
+
+Final DooM - Plutonia levels 1-32 on UV Max skill
+
+#  - Level                  - Time  -  Comment 
+
+01 - Congo                  - 2:35  -  Good time
+02 - Well of Souls          - 2:40  -  so-so, got a few 2:2x
+03 - Aztec                  - 3:52  -  close to PB :))
+04 - Caged                  - 4:48  -  :|
+05 - Ghost Town             - 3:22  -  so-so
+06 - Baron's Lair           - 4:34  -  good time
+07 - Caughtyard             - 2:37  -  can get non teleporting hell knight if I block his teleport spot
+08 - Realm                  - 4:20  -  rather easy when you have a back pack filled with ammo :)
+09 - Abbattoire             - 6:00  -  my PB :) end room can be bitch 
+10 - Onslaught              - 4:01  -  probably my PB too :)
+
+Total - 38 mins 49 secs
+
+	The previous run has a monster alive in map08 (Pointed out by Andery Budko)
+         
+        Nice to beat the 40 mins :)        
+
+Author: Vincent Catalaa aka PerOxyd
+E-mail: vincentds@netcourrier.com

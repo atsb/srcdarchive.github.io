@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+PL05-027.TXT
+PL05-027.ZIP
+
+PL05-027.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 05 - Ghost Town
+
+Kills     11%
+Items     47%
+Secrets    0%  
+Time      :27
+         ----
+
+Description:
+Entry #12, I hate letting maps go already. :)
+
+Another 1 second improvement, I am slowed down at the final stairs, but
+I don't think I lost any time because I managed to kill the chaingunners
+before I get there.
+
+(I don't know how to check demos to 0.01 seconds, like I've seen some
+people do at compet-n)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com
+

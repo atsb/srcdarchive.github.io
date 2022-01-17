@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M221-529.TXT
+
+M221-529.ZIP
+
+M221-529.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 21 - Sanctuary
+      
+Kills       30%
+Items       56%
+Secrets     16%
+
+              ********
+  and Time -  * 5:29 *
+              ********
+
+
+Description:
+
+This level is one of those that's hard to speed, but yet somehow a fun one to
+work on. This didn't take too long to get this time, and I'd say it's easily
+improvable ^_^
+
+It's still a shame that most of Memento Mori 2 is just...blah... >.<
+
+Oh well, it could be worse. There are a few good maps on Memento Mori 2, but
+they are few and far between.
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+01.05.2002

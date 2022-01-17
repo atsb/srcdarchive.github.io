@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+cs32-013.txt
+
+ cs32-013.zip
+
+  cs32a013.lmp
+  cs32m013.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 32 - Grosse
+
+           Kills    Items   Secrets
+
+  Green      6%      33%       0%      Marko
+  Indigo     6%       0%       0%      Arno
+
+  Time:    0:13
+
+
+Marko:   our old 0:14 was just too damn easy. :)
+
+Arno:    We are not Hegyi, so here is the best possible time for 2 humans. :)
+
+   
+Green:       Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:      Arno SlagDooM                (arnoslag@bart.nl)
+  

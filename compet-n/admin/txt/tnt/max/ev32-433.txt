@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-433.TXT
+
+ EV32-433.ZIP
+
+  EV32-433.LMP - UV Max
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 32 - Caribbean
+
+  Kills    100%
+  Items     14%           
+  Secrets  100%  
+
+     ...and Time  4:33
+                 ------
+ 
+  Description: 
+
+  Oh, I'm so glad I finally beat this, prolly the best Gemini's
+  demo and it took me some time to get it. The demo is quite ok,
+  altho the cave part can be done faster.
+       
+  
+  Radek Pecka
+  r.master@email.cz

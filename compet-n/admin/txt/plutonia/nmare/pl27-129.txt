@@ -1,0 +1,14 @@
+PL27-129.LMP --> PL27 on Nightmare
+----------------------------------
+
+  Kills   : 63%
+  Items   : 43%
+  Secrets : 33%
+  TIME    : 01:29
+
+Comments: The hard part is jumping for the 2nd Invuln. I'm pretty sure this
+          is quicker than Istvan's lmp, in which he misses the invuln on the
+          first try. I myself was very lucky in this lmp. Like PL01-218, I
+          made this lmp a while ago.
+
+Robert Reevy <drparadox@usa.net>

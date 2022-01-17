@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR04-217.TXT
+
+ HR04-217.ZIP
+
+  HR04-217.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 04 - The Garden Terminal
+
+  Kills    100%           
+  (Items    14%)          *********
+  Secrets  100%  and Time * 02:17 *
+                          *********
+                          
+
+  Description :-)
+  
+  My part of the map is the garden (the start of the level), Haggay's part is
+  The Terminal (the area after you teleport). It's very easy.
+
+  Yonatan Donner
+  zem@planetquake.com

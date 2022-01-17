@@ -1,0 +1,14 @@
+Author: Peo Sjoblom
+E-mail: peo.sjoblom@mbox300.swipnet.se
+Skill:  5
+Game:   Ultimate Doom
+Map:    E4M7
+Time:   0:21
+
+The pacifist lmp by Yonatan and the speed lmp by Daniel gave me the idea to
+try their route on NM as well. It worked although I fumbled a bit with the
+hidden exit switch (I died there earlier). I hoped I could do it faster but
+compared to on UV you really have to kill all sergeants at the start and find
+a clear path between the pigs to do the strafe on jump (it can actually be
+done with a normal strafe jump but then it must be a perfect one)..
+

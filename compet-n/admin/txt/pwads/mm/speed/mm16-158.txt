@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+MM16-158.TXT
+
+ MM16-158.ZIP
+
+  MM16-158.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 16 - Stoned
+
+  Kills     15%
+  Items      3%           ********
+  Secrets    0%  and Time * 1:58 *
+                          ********
+
+  Description :-)
+  
+  "Gusta"'s old demo was pretty good, so I had to work for
+  a while to get a decent improvement. I basically use his
+  route, though some time is saved by rushing in the
+  shotgun guy room to start the building stairs before
+  killing them off.
+
+  Some luck is required (or as in my case, dozens of retries)
+  to get past the pain elemental without being blocked and
+  at the same time get the run-over-teleport-linedef-without-
+  triggering-it trick on first attempt.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

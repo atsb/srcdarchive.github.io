@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm05-144.txt
+
+ cm05-144.zip
+
+  cm05r144.lmp
+  cm05m144.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 05 - The Waste Tunnels
+  
+              Kills    Secrets
+
+  Method       49%       66%      
+  Radek        47%       33%      
+
+  Time:    1:44
+          ****** 
+
+  Comments:
+
+  Good map for Coop max, we enjoyed playing it.
+
+            
+     
+Green:     Jakub "Method_Man" Razak      (dale007@volny.cz)
+Indigo:    Radek Pecka                   (r.master@email.cz)
+  

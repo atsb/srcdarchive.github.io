@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM24-346.TXT
+
+ MM24-346.ZIP
+
+  MM24-346.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 24 - Diehard
+
+  Kills    102%
+  (Items    33%)          *********
+  Secrets  100%  and Time * 03:46 *
+                          *********
+                          
+
+  Description :-)
+
+  A nice Living-End-style map, but Dario did them better in Plutonia :-) So
+  many cells for so little monsters, you nearly have enough to kill the whole
+  map twice with only cells! (I calculated it with DMTHA, so I don't
+  exaggerate here) I ran to the BFG as soon as possible and then fired, fired,
+  fired...
+
+  Yonatan Donner
+  zem@planetquake.com

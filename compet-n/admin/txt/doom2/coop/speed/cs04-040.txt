@@ -1,0 +1,14 @@
+This is a Coop-N Demo
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr
+
+game:     doom2 v1.9
+category: coop speed
+level:    map04
+
+time:     0:40
+
+description: Easier on coop...
+	     But the end room could be a lot faster...
+

@@ -1,0 +1,40 @@
+  This is a DooM .LMP "Competition" Entry - Please forward it...
+
+  NS15-350.TXT
+
+  NS15-350.ZIP
+
+  NS15-350.LMP - Nightmare! with 100% secrets
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 15
+
+  Kills     ??%
+  Items     ??%           +++++++++ 
+  Secrets   90%  and Time + 03:50 +
+                          +++++++++ 
+
+
+  Description : 
+	Nice route Sedlo, I had some problems with it though. I've compared 
+	your route shown in 4:23 with this in nomonsters and it's a little bit 
+	faster than this one (3 secs), but I've found this lot easier, it's 
+	much more precalculable, using the teleport to get behind the red door, 
+	always resulted some totally random things (usually bad things) for me: 
+	the shotgunner and zombieman stood in front of the elevetor blocking my 
+	way to jump down to use the teleport, when I entered the teleport with 
+	plasmagun no imps were in front of me, but when I used bfg, there was.
+	Using the red door is a bit slower, but LOT more safer... 
+
+	I've recorded this at work, no sound, and win nt server with dynamic 
+	mouse sensitivity in dos prompt, the most annoying is when you start
+	the map, and you'll make the first turn, you'll end with a random 
+	direction, you can see at the beginning what I'm talking about, that 
+	mad turning nonsense is because this nice feature. :/
+
+
+  Author: Istvan Pataki
+
+  E-mail: deity@sch.bme.hu

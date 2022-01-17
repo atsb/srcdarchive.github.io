@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m2271300.TXT
+
+m2271300.ZIP
+
+m2271300.LMP - Ultra-Violence -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos by Paul Noble
+      
+Kills      100%
+Items       66%
+Secrets     87%	and Time - 13:00
+
+Description:
+
+First exit without missed monsters.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+12.06.2007

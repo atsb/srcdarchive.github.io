@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RF32-156.TXT
+RF32-156.ZIP
+RF32-156.LMP - Ultra-Violence -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -file requiem.wad -PlayDemo with Version 1.9
+
+Requiem - Level 32
+      
+Kills      100%
+Items       ?%
+Secrets    100%
+
+              
+and Time - 1:56
+
+
+Description:
+
+I use the same route as Erik but optimize a bit.
+
+Author:      Esa "Espi" Repo
+E-mail:      esa.repo@phnet.fi
+
+27.04.2002

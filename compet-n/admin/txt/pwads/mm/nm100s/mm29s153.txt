@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+mm29s153.TXT
+
+ mm29s153.ZIP
+
+  mm29s153.LMP - Nightmare 100% Secrets
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 29 -Island Of Death by Thomas Moeller
+
+  Kills     16%
+  Items     28%
+  Secrets  100%  and Time 1:53
+
+  Description
+
+First exit under 2 minutes.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+13.06.2007

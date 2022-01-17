@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+MM07-355.TXT
+
+ MM07-355.ZIP
+
+  MM07-355.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 07 - Not That Simple
+
+  Kills     77%
+  Items     73%           ********
+  Secrets   28%  and Time * 3:55 *
+                          ********
+
+  Description :-)
+
+  It's technically possible to do an archvile jump to the
+  yellow key, but I gave up on it since the AV has to be
+  guided past the elevator and up the stairs, and he seems
+  more interested in reviving stuff than attacking me...
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

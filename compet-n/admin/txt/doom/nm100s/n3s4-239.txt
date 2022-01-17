@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+N3S4-239.TXT
+
+ N3S4-239.ZIP
+
+  N3S4-239.LMP - Nightmare with all Secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 4 - House of Pain
+
+  Kills     55%
+  (Items    25%)
+  Secrets  100%  and Time  02:39
+                           -----
+
+  Description:  Very funny, Adam did the map at the same time I did,
+                and I was my recording was ONE second faster.
+                Sorry, Adam, I had no time to watch your recording yet,
+                and I did not reach the 2:30. But at least I followed
+                my plan and skipped the chaingun and the soulsphere.
+                Unfortunately the map gets less interesting w/o the
+                soulsphere, as the BFG-soulsphere rom is the most
+                interesting one in that map when doing nm100s.
+                I got very nervous at the end with a demon biting my
+                back - see my shaky hands ;-)
+             
+       Author:  Steffen "Rini" Udluft
+

@@ -1,0 +1,34 @@
+| This is a COMPET-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ES27-256.lmp & ES27-256
+Date     : 2018-1-16
+Game     : TNT: Evilution (TNT.WAD)
+Client   : DOOM2.EXE V1.9 (Final Doom)
+Category : 100% Secrets
+Map(s)   : MAP27: Mount Pain
+Skill    : 5 (Nightmare)
+-------------------------------------------------------------------------
+Player1  : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 38%
+Items    : 18%
+Secrets  : 10%
+Time     : 2:56
+===================================
+Description: My first ever Compet-N entry and I have to say, I felt like I achieved something in my time playing
+Doom, especially seeing that a lot of the IWAD records have already been set on stone that it seems impossible
+to beat any of them. However, I find that MAP27: Mount Pain wasn't really beaten the best way possible, in fact
+the previous best record was 4:00, with my time beating it by a whole minute. My best time on PrBoom+ was 3:06
+(that is for 100% Secrets, without I got 2:55), and to beat it by 10 seconds is just astounding to me since I
+thought it would be too difficult to go faster.
+
+Nevertheless, I decided to do a more suicidal strategy of just
+when going for the yellow keycard, with some luck since I did died many times there. The tunnel part is nothing
+I'm unfamiliar with, it's basically just rushing through it while having enough health to take a bit of risk
+later (even if I died many times there because of my misfortune). I could have done better if I have not made some
+mistakes that costed me a couple of seconds, though maybe I can redo this another time? I am not exactly fond of
+playing on DOSBox but well I can adapt to it. Eitherway, a nearly 10 year old record for possibly the most
+infamous TNT map has been broken!

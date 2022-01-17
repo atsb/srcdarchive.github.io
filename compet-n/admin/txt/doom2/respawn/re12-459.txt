@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+RE12-459.TXT
+
+ RE12-459.ZIP
+
+  RE12-459.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - The Factory
+
+  Kills    105%
+  (Items    80)
+  Secrets  100%  and Time  04:59
+                           -----
+
+Description:	This LMP took me longer to do than I had expected, it just
+		didn't work for me :(
+
+Author:    Jan Endre Jansen
+E-mail:    jejansen@uldals.vgs.no
+Doompage:  http://home.sol.no/~doom/

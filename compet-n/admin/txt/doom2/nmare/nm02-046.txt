@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+nm02-046.txt
+nm02-046.ZIP
+
+nm02-046.LMP - Nightmare
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 02 - "Underhalls" 
+
+Kills       %
+(Items    ??%)
+Secrets     %  
+
+   ...and Time  00:46
+               -------
+
+Description: Not very nice looking style of playing, but I'll blame it on my own rustyness =)
+	     It can easily go 1(2?) sec's faster with some patience and luck. Got 0:47 after 
+             10min so 45sec should be a nice challange to take on, or how about it 
+             Drew?, btw nice going with that nm02-048, great to see how other 
+             fps players discover the art of doom =)
+             
+             
+
+
+Date: 19.11.2001
+	 
+Author: Henning Skogsto 
+E-mail: skohen@dph.no      

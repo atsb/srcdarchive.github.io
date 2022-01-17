@@ -1,0 +1,36 @@
+This is a "COMPET-N/doom/coop/max" entry, please forward it.
+
+c2m1-113.txt
+
+ c2m1-113.zip
+
+  c2m1d113.lmp
+  c2m1s113.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e2m1 - Deimos Lab
+  
+           Kills    Items   Secrets
+
+  Green     50%       0%      50%      SlagDooM
+  Indigo    40%      93%      50%      Dark Friday
+
+
+  Time:    1:13.11
+
+
+Dark Friday: This is the 4th demo of the 2-sept. day, well, it's ok. In the
+             beginning i jump into the imp-mass, to pull a switch, not my
+             playstyle, but hey, slag needed that switch fast to continue his
+             part. And at the end i'm lucky that slag is a patient doomer :)
+             I strafed in front of his SG 3 times i guess :) If the roles were
+             inverted, i would have hit him 3 times :)
+      
+SlagDooM:    Old record improved by 40 seconds. :)  
+
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Bjorn "Dark Friday" Hamels       (bjorn@hamels.nl)       
+  

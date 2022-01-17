@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA12-512.TXT
+
+ FA12-512.ZIP
+
+  FA12-512.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 12 - The Waste Tunnels
+  
+  Kills    100%
+  (Items   100)
+  Secrets  100%  
+
+      ...and Time    05:12
+                    -------
+
+
+  Description: 
+
+  I tried to use BFG on the spiders instead of Imps and it
+  didn't save much time I guess (if any). Lot of room for
+  improvements still.
+             
+
+  Radek Pecka 
+  r.master@email.cz
+

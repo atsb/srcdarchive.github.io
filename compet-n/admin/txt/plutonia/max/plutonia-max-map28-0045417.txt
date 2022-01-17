@@ -1,0 +1,27 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Max
+Map: 28
+Source Port: Competition Doom v2.0.3.2
+
+Kills    : 100%
+Items    :  11%
+Secrets  : 100%
+Time     : 04:54.17
+
+Description: 
+Monsters not teleporting in is by far the most annoying thing about this map.
+
+Too many exits with 98% and 99% kills.
+
+Some changes to the route, I grab RL earlier, use my cells a bit differenlty.
+
+You can also grab a rocket through the wall at the first switch you press.
+It only happened once (by accident), but it could be useful for the mega 
+armor room (where I lost 1-2 seconds because demon survived and I didn't manage 
+to grab the armor).
+
+I also tried to do a trigger skip using a rocket boost, makes the BK room easier 
+to clear when you go back, though I have no idea how the monster teleports can be 
+affected. I might have wasted a BFG in the second to last room, not sure, but using
+the BFG twice there might help with getting everything to teleport, I have no idea.

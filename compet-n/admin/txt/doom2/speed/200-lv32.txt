@@ -1,0 +1,10 @@
+200-LV32.LMP --> MAP32 on UltraViolence
+---------------------------------------
+
+  Kills   :  63%
+  Items   : 100%
+  Secrets :  33%
+  
+  Maximum Minimum Health = 200%
+
+Robert Reevy <drparadox@usa.net>

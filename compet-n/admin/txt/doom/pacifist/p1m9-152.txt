@@ -1,0 +1,17 @@
+
+  UltraViolence - Pacifist
+
+  E1M9
+
+  Description :  This map is really fun to play on pacifist. I tried to
+		 follow Yonatan's route (if you haven't seen his fantastic 
+		 recording p1m9----.lmp, watch it NOW), but in more than 20
+		 tries in which I reached the switch leading to the blue key,
+		 I never was able to run through that crowd of demons like
+		 Yonatan did. So I changed the the strategy and lure the 
+		 demons away from the blue key. The maps isn't too hard if you
+		 play it this way.
+
+         Date :  Nov 27 1998
+       Author :  Steffen "Rini" Udluft
+

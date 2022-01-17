@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ19-238.TXT
+
+ RQ19-238.ZIP
+
+  RQ19-238.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 19 - Skinny Puppy
+
+  Kills     58%
+  (Items    35%)          ********
+  Secrets   50%  and Time * 2:38 *
+                          ********
+                          
+  Description:
+
+  One second isn't much of an improvement here, but I thought I'd
+  start the opening volley. 8-)
+
+  Things got weird around the archie. I miss the gap and end up being
+  archie-jumped where I want to be.
+
+  Thanks to Xit for his route. The order of keys definitely should keep
+  the same, although the order of buttons to push at the end isn't
+  as definite. Xit starts by releasing the renevants, but I find myself
+  routinely getting creamed in the attempt, so I take a safer order:
+  release the chaingunners and kill them, then do mancubi, pain
+  elementals, and finally the renevants. Pausing to kill the
+  chain gunners loses quite a bit of time, though. Possibly ideal
+  would be first mancubi, then pain elementals, then renevants,
+  and finally chain gunners. Much experimentation still to be done.
+
+  Jason Dyer
+  jdyer41@aol.com

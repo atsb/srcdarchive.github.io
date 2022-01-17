@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rr25-231.TXT
+
+ rr25-231.ZIP
+
+  rr25-231.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 25 – UV Respawn
+
+The first part is pretty easy, except for maybe the hell knights. The technique is to use the spawners in the red and orange key areas to rack up kills. The last part is pretty tough, you have to survive all the oncoming enemies in thin areas. Thankfully, the arch-vile was easy to kill because he never flamed me.  After that, it was a race to the exit, which I successfully did.
+
+Author: Revved

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ14-423.TXT
+
+ RQ14-423.ZIP
+
+  RQ14-423.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 14 - The Portal
+
+  Kills     81%
+  (Items    23%)          *********
+  Secrets   20%  and Time *  4:23 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is a very tough map for speedrunning.  The problem is
+  it's very easy to die while picking up the rocket launcher.
+  I played a pretty safe route here by killing most of the
+  monsters in the various corridors.  I also discovered a
+  trick where you don't have to wait for the lift to get back
+  on the bridge.
+
+  Xit Vono
+  xit_vono@yahoo.com

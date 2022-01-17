@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ21-838.TXT
+
+ RQ21-838.ZIP
+
+  RQ21-838.LMP - UV max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD REQ21FIX.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 21 - Den of the Skull
+
+  Kills    100%
+  (Items    61%)          *********
+  Secrets   88%  and Time *  8:38 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is certainly the buggiest level in Requiem.  Besides
+  what Rudy already mentioned, it's really hard to kill all
+  the monsters because monsters won't teleport in.
+
+  Xit Vono
+  Xit_vono@yahoo.com

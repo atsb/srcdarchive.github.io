@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+M205-058.TXT
+
+ M205-058.ZIP
+
+  M205-058.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 05 - Rites Of Passage
+
+  Kills      0 %
+  Items      2 %           ********
+  Secrets    0 %  and Time * 0:58 *
+                           ********
+
+  Description :-)
+  
+  After hundreds of tries, most of which ended in a too slow keygrab,
+  I was quite surprised that this one clocked in at :58.
+
+  I'm reasonably satisfied with this demo, though, I managed to do some
+  wallrunning by the imps, and the switch trick near the exit is reasonably
+  fast.
+
+  This is also a Pacifist entry.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

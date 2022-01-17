@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+04NM0454.TXT
+
+ 04NM0454.ZIP
+
+  04NM0454.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Levels 01 thru' 04 - "NightMare"
+
+  Level     Time     Kills     Items     Secrets     Health     Armor
+ -------   ------   -------   -------   ---------   --------   -------
+   1        0.23      25%       0%         20%        100%       89%
+   2        1.54      100%      80%        100%       63%        120%
+   3        0.51      50%       22%        100%       100%       90%
+   4        1.46      118%      58%        33%        51%        0%
+
+
+ Total time:  4 min.  54 sec.  (04.54)
+
+
+ Description: I still don't like NightMare...
+
+
+ Author:      Daniel "Demonlord" Lindgren
+
+ E-mail:      akllin95@student.umu.se
+
+
+[  Admin. Note :-)  I don't know why Daniel submitted this entry since
+   it doesn't really count for anything... unless being faster(?) than
+   than the previous entry for just 04 levels is the point... Is it ?
+   Anyway, (thanks for the [ odd ] data table but) NOT reviewed.
+
+S.;-) aka. The "Judge". ]
+
+

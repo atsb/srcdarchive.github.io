@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL01-214.TXT
+
+ PL01-214.ZIP
+
+  PL01-214.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 01 - Congo
+
+  Kills    100%
+  Items      0%            ********
+  Secrets  100%  and Time  * 2:14 *
+                           ********
+
+
+
+Description:  Hope this time I really killed them all. The optimal time
+              could be about 2:05, I think.
+
+
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz
+	     
+

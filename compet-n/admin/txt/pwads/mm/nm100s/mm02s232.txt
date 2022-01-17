@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM02s232.TXT
+
+MM02s232.ZIP
+
+MM02s232.LMP - Nightmare! Speedrun/Nightmare! 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 2 - The Bridge
+
+Kills       85%
+Items       21%
+Secrets    100%
+
+              ********
+  and Time -  * 2:32 *
+              ********
+
+
+Description:
+
+Difficult map to play on Nightmare, in my opinion. Those demons really knew
+how to screw me over quite a lot, especially at the Red Key.
+
+I kinda changed my route at the last second in the Red Key room. Originally
+I was going to clean out the Specters and Shotgunners, then flip the switch
+and clear out a path to the key. But that never worked for me, as I'd run
+out of bullet, and a demon from outside would come up beside me and chomp
+on me >.< So I just decided I'd grab the key and get out as quickly as
+possible. And it worked on the first try too!
+
+While I was at it, I decided to get 100% secrets by grabbing the Soul Sphere
+for the exit room, seeing as it can be pretty bad at times ^^' Luckily the
+enemies didn't block my access back up that quick lift, or I might've been
+ripped to pieces >.<'
+
+I do like this map though! Nice design and architecture ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+29.03.2003

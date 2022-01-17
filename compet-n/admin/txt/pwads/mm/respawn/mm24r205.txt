@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/MM/" Entry - Please forward it...
+
+MM24R205.ZIP
+
+ MM24R205.LMP
+
+  MM24R205.TXT -UV RESPAWN
+
+  Recorded using "DooM 2 v1.9 - Memento Mori" ! (Complevel 2)
+  DooM2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori  - Level Twenty-four - Diehard by Dario Casali
+
+  Kills: 132 / 130 (101%)
+  Items:   4 / 18  (22%)            ********
+  Secrets: 2 / 2   (100%) and Time  * 2:05 *
+                                    ********
+  C-N entry #17.	Date:02/04/2012
+
+  Description :)
+  Damn, 3 COMPET-N entries in a week?? :O But anyways, I love the
+  ending to this, I rush to the exit because I'm about to die, not
+  because I think I've reached 100% kills yet. And I must say, I
+  didn't put much effort into it either, 1:4x is definitely possible.
+  								
+  								
+  By the way, COMPET-N record was 2:27 by Revved, timestamped:
+  Thursday, May 06, 2010, 10:25:18 PM.
+  
+  Note: Since this demo was recorded with MM.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/674/mm_allup.zip
+        and pick it up if you havn't already :) 
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

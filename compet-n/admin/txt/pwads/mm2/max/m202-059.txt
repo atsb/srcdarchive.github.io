@@ -1,0 +1,24 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m202-059.txt, m202-059.lmp
+Date     : 2013-6-22 2:00
+Game     : Memento Mori 2
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP02: The Feeding Pit
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Drew DeVore
+Nickname : Vile
+Country  : USA
+Email    : dadevore83@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 77%
+Secrets  : 100%
+Time     : 00:00:59
+===================================
+Description:
+This was a fun little map to max run.  I think the beginning of this run
+was slower but I must have made up for it later on.

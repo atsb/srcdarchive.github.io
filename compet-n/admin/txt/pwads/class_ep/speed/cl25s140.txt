@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL25S140.TXT
+
+ CL25S140.ZIP
+
+  CL25S140.LMP - Ultra Violence speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M5 - secret exit
+
+  Kills     49%           
+  (Items    33%)             +++++++++
+  Secrets   16%        Time: + 01:40 +
+                             +++++++++
+                          
+  Description :-)
+
+Most of the class_ep levels are way too violent for speedrunning,
+but this one was actually fairly good.  That berzerk is very tasty.
+
+Author:   Xit Vono
+E-Mail:   xit_vono@yahoo.com

@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ04-203.TXT
+
+ RQ04-203.ZIP
+
+  RQ04-203.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 04 - Fireworks
+
+  Kills     50%
+  Items      0%           ********
+  Secrets   50%  and Time * 2:03 *
+                          ********
+
+  Description :-)
+
+  I was able to leave most of the yellow key room monsters
+  behind this time, luring them away instead of taking them
+  out with the single-barreled shotgun.
+  
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

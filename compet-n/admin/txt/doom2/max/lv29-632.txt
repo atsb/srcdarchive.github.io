@@ -1,0 +1,90 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV29-632.TXT
+
+ LV29-632.ZIP
+
+  LV29-632.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 29 - The Living End
+
+  Kills    100%
+  (Items    96)
+  Secrets    0%  and Time  06:32  (Par = 05:00)
+                           -----
+
+  Description :-)
+
+  It seems people don't like writing long COMPET-N text files. However I do.
+  So if you don't want to read it, don't, but otherwise, I'll bore you to
+  hell!
+
+  I'll split this text file to comments about the different aspects of this
+  entry as it is quite an unusual one.
+
+  Comments about me
+  -----------------
+  It seems I disappeared a bit from COMPET-N... I was focused on The Final
+  DooM and Quake, sorry... Anyway I felt it's time to do this entry and that
+  I did.
+
+  This is my first try so the demo is very imperfect - I don't know the
+  route too good and I do stupid stuff etc.. Also near the beginning two
+  friends came, that's the pause though I ran unpause on this lmp to remove
+  most of it. It's not even near a second so I hope it doesn't disqualify
+  this entry.
+
+  Anyway they also disturbed me in some other parts resulting in stupid
+  mistakes.
+
+  Comments about the level
+  ------------------------
+  This is an awesome level, definitely my favorite in Doom2 maybe with 2 or
+  3 more levels. It is built really great, full of action, lots of fun and
+  even a fun challenge. So it's not completely by chance that I picked this
+  level.
+
+  Comments about the route
+  ------------------------
+  Ok, this is the main thing. I would have never beaten Daniel's excellent
+  entry lv29-651 with this pathetic lmp that's a 1st try without this huge
+  route improvement. What is it? you ask. Well, I use Jonathan Hoof's
+  cyberdeath method to save about a minute from the lmp by not killing the
+  cyberdemon and killing the same sergeant three times instead. Before you
+  start calling me "chicken" etc., note that in dm2full.zip, my DooM 2 lmp
+  collection, I killed the cyberdemon the way real men do it, on the
+  platform, no skipping, no tricks, no nothing. This route is just to save
+  time and plasma.
+
+  Since this route is like pressing switches from below etc., and since
+  levels like e2m2 have two entries - one for the normal route and one for
+  switch-tricks, I would suggest that Daniel's entry of 6:51 will still
+  remain 1st and this one will be counted as an alternative route, since
+  frankly I don't think this one is better than lv29-651.
+
+  If you still think I'm a chicken, watch my lv29 lmp from dm2full.
+
+  Comments about the lmp
+  ----------------------
+  It is not a good lmp. I don't deny it. It's the first time I played DooM
+  today and there are some serious screwups, also the health goes up and
+  down very quickly, which can be amusing by itself... naah.
+
+  Anyway go ahead and do better than that. You won't find it difficult.
+
+  Special thanks
+  --------------
+  To Peo Sjoblom for bringing this level to my attention...
+
+  Request
+  -------
+  If you think you can do Final DooM lmps, contact me.
+
+ Yonatan Donner
+
+ yonatan.donner@tbu.excellnet.co.il
+
+

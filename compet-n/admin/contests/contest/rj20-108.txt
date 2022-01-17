@@ -1,0 +1,17 @@
+Compet-N Contest #3 Entry
+=========================
+
+Description
+-----------
+Game    : Doom2 
+Skill   : 4
+Map     : 20 
+Style   : Speed Run
+Special : Spider Mastermind + Cyberdemon = death
+
+Player  : Rudy Jurjako, rudyj@total.net
+Time    : 1:08
+
+Comments
+--------
+A great run if I may say so myself :). Almost everything went perfectly, the bosses died right on cue, I didn't get stuck too often, etc. I guess I could have saved some time by not killing the Archie, but then he would probably have distracted me at the end.

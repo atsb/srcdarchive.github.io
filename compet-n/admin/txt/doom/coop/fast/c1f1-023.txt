@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c1f1-023.TXT
+
+c1f1-023.ZIP - Coop UV -fast
+
+c1f1e023.LMP - Eugene - Green
+c1f1s023.LMP - Sergey - Indigo
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 1, Map 1 - Hangar
+      
+Kills       48%
+Items       7%
+Secrets    33%	
+
+Kills       41%
+Items       2%
+Secrets     66%	
+
+and Time - 0:23
+
+
+Description:
+
+Green:
+
+It's pain to kill quickly both sergeants near green armor on -fast.
+
+Indigo:
+
+We've got this time only after some efforts.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+20.12.2006

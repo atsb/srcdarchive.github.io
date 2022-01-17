@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV31NET2.TXT
+
+ UV31NET2.ZIP
+
+  UV31NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 31 - Wolfenstein
+
+           Kills    Items   Secrets
+
+  Green      48        1      100
+  Grey       38        9        0
+
+  Time:    2:13
+
+
+Comment:        Very much running a way twice.
+                Hope dasa has killed all the soldiers I left behind.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+

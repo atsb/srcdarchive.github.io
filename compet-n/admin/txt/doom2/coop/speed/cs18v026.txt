@@ -1,0 +1,16 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr
+
+game:     doom2 v1.9
+category: coop speed
+level:    map18
+
+time:     0:26
+
+description: Nicolas kill all the imps so I'm not blocked when I
+	     come back to open the exit door.
+
+
+

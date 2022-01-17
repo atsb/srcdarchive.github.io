@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm161142.TXT
+
+ mm161142.ZIP
+
+  mm161142.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 16 – UV Fast
+
+A good demo, to be honest. I had thought about doing this some time ago simply to make a valid -fast demo for this level, but I never expected myself to beat Ryback by 3 minutes. This is made possible by using more aggressive strats like in the twin arch-vile area.
+
+Author: Revved

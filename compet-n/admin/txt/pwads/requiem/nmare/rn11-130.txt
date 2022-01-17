@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN11-130.TXT
+
+ RN11-130.ZIP
+
+  RN11-130.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 11 - Rats in the Walls
+
+  Kills     46%
+  (Items    50%)          ********
+  Secrets   16%  and Time * 1:30 *
+                          ********
+                          
+
+  Description :-)
+  
+  Getting to the exit area is pretty easy, but then
+  the difficult part is to get the red key and get
+  back.  I use a trick where a monster keeps the
+  bars open while I run under them.  It's not the
+  first time the trick has done, but I think this
+  is the first time it's been used in a compet-n demo.
+  I found the most reliable method is to leave the
+  imp by the switch alive and lure the revenant under
+  the bars.  With this method I was able to do this
+  without too many tries.  Earlier I had tried this
+  but given up.  I've also tried on the long route
+  but I think that is very difficult and requires
+  a lot of luck.  In UV I don't think it would
+  work as well to use a revenant because he would
+  probably move between shots, so there you would
+  want to use a chainer or imp.
+  
+  Xit Vono
+  Xit_vono@yahoo.com

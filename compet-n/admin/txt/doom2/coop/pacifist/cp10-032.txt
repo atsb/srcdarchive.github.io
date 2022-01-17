@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ ***** CP10-037.ZIP - Coop. UV Pacifist *****
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+ Level 10 - Refueling Base
+         
+           *********
+           * 00:32*
+           *********
+			     KILLS  ITEMS  SECRET 
+
+ ***** Hokis   - Green  ***    0%    19%    0%
+ ***** Twister - Indigo ***    0%     3%    0%
+
+	
+ Description: Demo was recorded 31.5. 2003 at DooM open 2oo3 in Prag.
+
+   Twister: Next time we must improve it, it´s fairly lame:)
+   Hokis  : It´s my first demo in compet-n.
+
+ Authors: The members of Predators DooM clan
+
+ ** David "mr.twister" Ficenec 
+ ** Adam "Hokis" Hochmann

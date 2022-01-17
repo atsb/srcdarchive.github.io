@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM05R353.TXT
+
+ MM05R353.ZIP
+
+  MM05R353.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 05 - Hell's Kitchen
+
+  Kills      109%
+  Items       93%
+  Secrets    100%  and Time: 3:53 
+                             ==== 
+
+  Description :-)
+
+  Another Memento Mori UV -respawn demo, but this time, it's an
+  improvement to an older demo.  Casey Alvis's UV -respawn record on
+  this level was 5:54, while Xit Vono's UV max record is 4:52.  My
+  general belief regarding -respawn demos is that a level's UV
+  -respawn demo should never, under any circumstance, be slower than
+  its max demo.  And so, I set out to break Casey's record.  In
+  retrospect, the fact that I managed to do so isn't surprising.  What
+  /is/ surprising is that I set out to get an exit under the max time,
+  and instead ended up getting a first exit under 4:00.  I would have
+  resumed recording to see how many seconds I could pare off my time,
+  and to see if I could make a better-looking demo, but given the
+  circumstances, I decided to let it stand.
+
+  In case you're wondering what the hell I'm doing at the red bars,
+  I'm activating as many red-keyed sides as I can in a short time.
+  This is to prevent a spechits overflow from occurring (resulting
+  from a cacodemon or pain elemental floating beneath them,) which
+  would cause the demo to become unplayable unless the source port
+  used to play it specifically emulates that behavior.
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- August 9, 2009 -
+
+P.S. Good God, the hidden sergeants at the start are annoying!

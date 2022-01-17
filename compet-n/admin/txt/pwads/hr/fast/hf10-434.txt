@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF10-434.TXT
+
+ HF10-434.ZIP
+
+  HF10-434.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 10 - Chambers of War
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 4:34
+
+                          
+  Description:  Another Anders' copy, though it's surprising how much
+                more enjoyable this level gets when you go for speed.
+                Only problem is those spectres in the maze.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

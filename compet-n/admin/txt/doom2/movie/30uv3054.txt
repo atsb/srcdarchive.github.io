@@ -1,0 +1,198 @@
+[ Text file base borrowed from 30NM4949... ]
+
+30UV3054.TXT
+
+30UV3054.ZIP
+
+30UV3054.LMP - Ultra Violence
+
+This is a Compet-N/Doom2/MOVIE and Superlightning entry...
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+                                                 UV Speed
+              Time   Kills Items Secrets ParTime  Record
+
+  LV 01  -    0:06     7%    0%    0%    0:30     0:05  :|
+  LV 02  -    0:55    62%   35%  100%    1:30     0:44  :)
+  LV 03  -    0:41    32%   22%  100%    2:00     0:26  :|
+  LV 04  -    0:47    45%   50%    0%    2:00     0:36  :(
+  LV 05  -    0:30    20%   33%    0%    1:30     0:27  :)
+  LV 06  -    1:03    28%    5%   33%    2:30     0:58  :)
+  LV 07  -    0:59   100%   50%  100%    2:00     0:48  :|
+  LV 08  -    0:30    11%   40%    0%    2:00     0:25  :)
+  LV 09  -    1:08    19%   19%    0%    4:30     1:09  :)
+  LV 10  -    0:50     9%   26%   16%    1:30     0:29  :(
+  LV 11  -    1:09    30%    4%   33%    3:30     0:39  :|
+  LV 12  -    0:56     6%   20%    0%    2:30     0:45  :)
+  LV 13  -    1:20    22%    8%    0%    2:30     1:09  :)
+  LV 14  -    1:11    42%   50%    0%    2:30     0:33  :|
+  LV 15  -    0:41     4%   12%   18%    3:30     0:33  :|
+  LV 31  -    0:38    28%    1%   50%    2:00     0:34  :|
+  LV 32  -    0:17    33%  100%   33%    0:30     0:12  :)
+  LV 16  -    0:39    15%   20%    0%    2:30     0:32  :)
+  LV 17  -    2:21    60%   33%    0%    7:00     2:09  :)
+  LV 18  -    0:26     1%   23%    0%    2:30     0:24  :|
+  LV 19  -    1:00    11%    6%   33%    3:30     0:41  :|
+  LV 20  -    0:48    14%   20%   14%    2:30     0:37  :)
+  LV 21  -    0:49    38%   44%    0%    4:00     0:43  :)
+  LV 22  -    0:58    55%   14%  100%    2:30     0:44  :)
+  LV 23  -    1:03    42%   31%   50%    3:00     0:47  :)
+  LV 24  -    1:25     7%    0%    0%    2:30     0:40  :(
+  LV 25  -    1:02    54%   50%   50%    2:30     0:44  :)
+  LV 26  -    1:00    41%   13%    0%    5:00     0:51  :|
+  LV 27  -    1:16    25%    8%    0%    5:30     0:13  :(
+  LV 28  -    1:07    30%   40%    0%    7:00     0:44  :(
+  LV 29  -    2:22    51%   88%    0%    5:00     2:12  :)
+  LV 30  -    0:57   200%   16%    0%    3:00     0:31  :)
+-------------------------------------------------------------------------------
+Total        30:54   35.7% 27.5% 21.8%  95:00    23:04 :))
+
+Some more statistics:
+
+              Adam       DL   Record
+
+  01-10  -    7:29     8:55     7:08
+  11-20  -   11:26    13:09    10:30
+  21-30  -   11:59    14:05    11:42
+
+ Total Time =  16:894                :( = More problems than usual, time is
+               36+                        very slow.
+               14:54                 :| = Usual problems, usual time.
+               ------                :) = Quite nice playing... time is really
+ TOTAL TIME =  30:54                      good.
+              --------
+
+
+Description :-)
+
+YEAH... finished at last :)
+5 MINUTES AND 15 SECONDS FASTER...
+
+Thought of doing this after I snatched the 01-10 and 11-20 run
+records... I didn't have the slightest idea what time I would get...
+DL's 36:09 seemed so fast and perfect as I remembered.
+I tried hard and got to the end one time... this was actually the
+first time ever that I played through DOOM2 non-stop without savegames/dying...
+calculated the time and surprisingly it was 32:11... it felt really
+good to beat DL's time by such a margin. However I had two reasons
+why I didn't upload. MAP29 was awful, fell down twice in the last
+room and time was a miserable 2:43. I found out that with better running
+I could've done under 32 minutes... Which was very tempting, 32 maps
+under 32 mins :)
+
+I had to try a lot to get this run. This was the 2nd time ever reached
+MAP30. I'm a dying type of guy, my times are good but I always die :)
+I died in nearly all the maps in nearly all ways, but from each death
+I learned something.
+
+Now about this run. First 10 maps came excellent, just 21 seconds shy
+of the record time. Don't think I could improve on this by much.
+Next 10 (12 rather) maps, time is good and steady. No real problems.
+The last (and hardest part), time seems okay, only 17 seconds off
+the record time. However I had serious trouble here and I guess this
+is the part which can be improved most.
+All in all I was faster than DL in 26 maps, in 3 I equalled him, and
+only 3 where I was slower. Think this is cool ;)
+
+Well I really hope I don't get beaten by another 5 mins 15 secs :)
+Under 30 mins would be more thoughtful to aim at... it's definately
+possible.
+
+I wanna thank all the COMPET-N players who provided routes/tricks
+over the years which I used. Very special thanks to Daniel Lindgren
+for all the runs he made. This demo is dedicated to him. 
+
+Some info on the maps:
+
+MAP01 (Entryway):
+  Exact time is 6.14... :)
+MAP02 (Underhalls):
+  I decided that I don't go for fast times here because this
+  map isn't so important here as in 10-level runs. Time is
+  surprisingly good though...
+MAP03 (The Gantlet):
+  Really annoying piece of map to play.
+MAP04 (The Focus):
+  Time is very slow, I was sloppy at the elevator...
+MAP05 (The Waste Tunnels):
+  Quite nice time. The end part is my usual dying place :)
+MAP06 (The Crusher):
+  Some damn hard jumps in this one, times can range from
+  1:00 to 1:30... Very satisfied with this run.
+MAP07 (Dead Simple):
+  My favourite DOOM2 map. Time is a bit slow. My best in a
+  run was 0:53, but on the other hand I never got outside
+  1:10.
+MAP08 (Tricks and Traps):
+  Another "luck" map. Time is good.
+MAP09 (The Pit):
+  Time is good, I was a bit sloppy at the demons though.
+  I thought about leaving some cells for MAP10 and I had
+  to use SSG... maybe not the best solution.
+MAP10 (Refueling Base):
+  That's it about those cells... they didn't really help.
+  Damn cyber got in the way...
+MAP11 (Circle of Death):
+  Quite the usual.
+MAP12 (The Factory):
+  Uhhh.... nearly died here. Down to 11%... think I was lucky
+  in there :)
+MAP13 (Downtown):
+  Nothing really special here...
+MAP14 (The Inmost Dens):
+  Very good time, had some health problems though...
+MAP15 (Industrial Zone):
+  Time is casual, bit worried about the 100/6 health/armor
+  ending...
+MAP31 (Wolfenstein):
+  ...no need to worry though, only lost 30%.
+MAP32 (Grosse):
+  Superb time.
+MAP16 (Suburbs):
+  Nearly flawless run.
+MAP17 (Tenements):
+  Lost 5-6 secs because of that damn revenant, otherwise good.
+  Very happy that both hard jumps were succesful on first try.
+MAP18 (The Courtyard):
+  No problems.
+MAP19 (The Citadel):
+  Yeah well, what happened here? My mouse went crazy.... it
+  happens sometimes, guess my mousedriver has some problems...
+MAP20 (Gotcha!):
+  Good and safe run.
+MAP21 (Nirvana):
+  Guess this is the optimal time using the megasphere route...
+MAP22 (The Catacombs):
+  Very good run till the baron... all sorts of problems
+  afterwards... BFG shot wasted.... wrong weapon etc.
+  Think I was lucky to get out with good health.
+MAP23 (Barrels o' Fun):
+  A very problematic map. Died here many times. Both time and
+  health excellent in this run.
+MAP24 (The Chasm):
+  Everyone's favourite map :)
+  Got in trouble with the demons... should've changed to BFG...
+  Fool!... 10 secs lost there.
+MAP25 (Bloodfalls):
+  Another problem map. Hate the megasphere/arachnotron room...
+  another favourite dying place. No problems this time.
+MAP26 (The Abandoned Mines):
+  A very cell-consuming map. 3 BFG shots and some extra cells
+  fired. I should've used BFG on the caco...
+MAP27 (Monster Condo):
+  Argh what a run.... nearly died there, think I was quite
+  unlucky. Another extremely foolish weapon change in the end...
+MAP28 (The Spirit World):
+  Uhhhhhhhhh.... from 200/200 down to 28/31 in two secs :(
+  I gave myself 1% chance to survive MAP29 at this point...
+MAP29 (The Living End):
+  The mid part was the fight of my life... very exciting stuff
+  to watch :) The end part was surprisingly easy in comparison.
+MAP30 (Icon of Sin):
+  Dunno how I could stay so cool and get those rockets in after
+  31 nerve-wrecking levels...
+
+Adam Hegyi
+ha211@hszk.bme.hu            

@@ -1,0 +1,14 @@
+Engine: 	DooM v1.9
+Wad:		Doom II
+Category: 	Nomonsters
+Level:		17
+
+Time:		1:25.94
+
+Description:	I didn't take the teleport after red key because it's about
+                2 ticks slower with S40 and even slower with S50 of course.
+                I hope somebody likes it because it was not easy, just try
+                it yourself! Done with strafe40 only.
+                
+
+Author: 	Looper

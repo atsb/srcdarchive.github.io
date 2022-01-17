@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF14-749.TXT
+         
+ EF14-749.ZIP
+
+  EF14-749.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - only!
+
+  Final Doom - TNT Evilution - Level 14 - Steel Works
+
+  Kills    100%
+  Items     62%                   
+  Secrets  100%  and Time = 7:49  
+                                  
+
+
+Description: Boring map. I forgot a chaingunner but who wants to do this
+             again.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

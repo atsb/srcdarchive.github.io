@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M7-311.TXT
+
+ R1M7-311.ZIP
+
+  R1M7-311.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    100%
+  (Items    38%)
+  Secrets  100%  and Time  03:11
+                           -----
+
+  Description:  Hi Donatas Tamonis!
+                This map is fun. The more challenging thing I played
+                today was n4m1-132, too slow for COMPET-N, but a big
+                achievement anyway.
+  
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

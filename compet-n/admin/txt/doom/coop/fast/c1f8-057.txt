@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c1f8-057.TXT
+
+c1f8-057.TXT - Coop UV -fast
+
+c1f1e057.LMP - Eugene - Green
+c1f1s057.LMP - Sergey - Indigo
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 1, Map 8 - Phobos Anamaly
+      
+Kills       19%
+Items        0%
+Secrets      0%	
+
+Kills       21%
+Items       33%
+Secrets    100%	
+
+and Time - 0:57
+
+
+Description:
+
+Green:
+
+Should be faster than maxkill.
+We have 0:54 lmp with one lost pinkie.
+
+Indigo:
+
+The last shot helped save time. Really precise finish. 
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+24.12.2006

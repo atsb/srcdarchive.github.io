@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M2-200.TXT
+
+ R4M2-200.ZIP
+
+  R4M2-200.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 2 - Perfect Hatred
+
+  Kills    103%
+  (Items    50%)
+  Secrets  100%  and Time  02:00
+                           -----
+
+  Description:  Initial efford - OK?
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

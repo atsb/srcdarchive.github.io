@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ26-038.TXT
+
+ RQ26-038.ZIP
+
+  RQ26-038.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 26 - Excoriation
+
+  Kills    100%
+  (Items     0%)          *********
+  Secrets  100%  and Time * 00:38 *
+                          *********
+                          
+  Description:
+ 
+  Very small map, but not easy at all with this route.
+  I wanted the time under 40s, so I'm done here.
+
+  
+  Radek Pecka
+  r.master@email.cz

@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ26-042.TXT
+
+ RQ26-042.ZIP
+
+  RQ26-042.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 26 - Excoriation
+    
+  Kills    104%
+  (Items     0%)          *********
+  Secrets  100%  and Time * 00:42 *
+                          *********
+                          
+
+  Description :-)
+  
+  Great action-packed map, another one of my favourites. It is hard to speed-run,
+  mainly because of the arch-vile, but as it is very short you have no time to
+  get frustrated. Don't be fooled by the easiness with which I seemingly kill
+  everyone: 95% of the time the monsters didn't place themselves "correctly"
+  (from my point-of-view, that is, surely not theirs :) and I had to run around
+  looking for them. They finally took pity of me, that's all, and this demo is
+  the result.
+
+  Rudy Jurjako
+  rudyj@total.net

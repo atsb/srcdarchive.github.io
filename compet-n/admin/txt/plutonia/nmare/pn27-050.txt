@@ -1,0 +1,33 @@
+This is a Doom .LMP "Competition" Entry
+
+pn27-050.txt
+pn27-050.zip
+
+pn27-050.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP27 - Anti-Christ
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :50
+=--------------=
+
+C-N entry #97.
+
+Credit to Adam Hegyi for his trick to
+skip the yellow key here; it brought the
+time within 1 second of the UV record.
+
+I fall off the ledges towards the end
+due to the skulls, but while the end
+platform is rising you can goof off for
+however long you wish. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

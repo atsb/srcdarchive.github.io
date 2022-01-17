@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV26-341.TXT
+LV26-341.ZIP
+
+LV26-341.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 26 - "The Abandoned Mines"
+
+
+Kills   100%
+(Items    67)
+Secrets 100%  
+
+   ...and Time           03.41 
+		         -----
+
+Description: Guess what, I HATE lost-souls, they almost killed me many times 
+	     in this lmp. It was very hard beating DL's 03.44 it took me 
+	     houers.
+	     
+	     Still this map is quit easy, you just have to save some plasma 
+             and rockets for the yellow key area..... 
+
+
+	      
+Author:	      Henning Skogsto 
+E-mail:	      hskogsto@c2i.net
+Doompage:     http://home.sol.no/~doom/

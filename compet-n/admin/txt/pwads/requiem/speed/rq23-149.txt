@@ -1,0 +1,25 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+rq23-149.zip
+ rq23-149.lmp
+ rq23fail.lmp
+ rq23-149.txt
+
+Recorded using Doom2 Version 1.9
+
+Requiem - MAP 23 - Hatred
+Ultra Violence Speed
+================
+Kills       29%
+Items        8%
+Secrets      0%
+----------------
+Time       1:49
+================
+Description:
+I wasn't satisfied with Xit Vono's view on this map, so I had to record it myself. I got 1:59 quickly, but it was so horrible I couldn't show it to anyone.
+After that it tooks many hours and thousands of tries before I got this reasonably good run. In the end it's just 10 seconds though.
+Included one fail run where I run the way I wanted but the usual death from behind happens.
+
+Author: xepop
+8 - Aug - 2010   9th Compet-N Entry

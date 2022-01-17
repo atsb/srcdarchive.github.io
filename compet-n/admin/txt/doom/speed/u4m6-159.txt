@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+U4M6-159.TXT
+
+ U4M6-159.ZIP
+
+  U4M6-159.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.4 Mi.6 - Against Thee Wickedly
+
+  Kills     60%
+  (Items    25)
+  Secrets   33%    and Time  01:59
+                             -----
+
+  Description:  Ugly lmp, though it shows a route-improvement since
+                Steffen "Mini" Udlufts 2:48...I wasted a BFG right
+                before exiting, looks really lame- I know.
+                This only required very few tries, but I'll defend it if
+                someone els tries to get it. Sorry "Mini", but this is my
+                favourite map too ;) 
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/
+

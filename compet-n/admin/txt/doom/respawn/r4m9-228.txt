@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M9-228.TXT
+
+ R4M9-228.ZIP
+
+  R4M9-228.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 9 - Fear
+
+  Kills    100%
+  (Items    35%)
+  Secrets  100%  and Time  02:28
+                           -----
+
+  Description:  With respawning monsters this map is pure chaos.
+                One of the more challenging maps of DOOM 1 I would
+                say, try it, it's fun.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

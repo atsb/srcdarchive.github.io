@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N" Entry - Please forward it...
+
+LV32-043.TXT
+
+ LV32-043.ZIP
+
+  LV32-043.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 32 - Grosse
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:43
+                           -----
+
+
+Description: Missed the Megasphere somehow... ;-)
+             And it doesn't look so well at the exit.
+             Kind of PANIC, when KEEN is in the way.
+             0:42 is possible, but not for everyone.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+
+Performance: Timed 1978 gametics in 1086 realtics.
+             (Uh-oh, the first shot at the Cyberdemon slowed it down ;-)
+
+

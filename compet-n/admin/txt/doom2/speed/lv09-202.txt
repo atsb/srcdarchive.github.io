@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV09-202.TXT
+
+ LV09-202.ZIP
+
+  LV09-202.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 09 - The Pit
+
+  Kills     25%
+  (Items    31)
+  Secrets    0%  and Time  02:02
+                           -----
+
+
+Description: Never thought it would be possible to make
+             it through with single shotgun only...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

@@ -1,0 +1,25 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : TN21-409.LMP
+Game     : TNT: Evilution
+
+Map      : MAP21: Administration Center
+Category : Nightmare-Speed
+Client   : DOOM2.EXE V1.9f
+
+Player   : GuyNamedErick
+Email    : guynamederick@gmail.com
+
+Time     : 4:09
+Date     : 6-1-2018
+
+Description: Used Ancalagon's route for MAP21 on Nightmare in his EP3
+demo, which was basically a pistol start for the map really. Skipped
+the blue armor secret and some other bits, pressed the switch to skip
+that pit, and used rockets effectively. My heart pounded for a second
+knowing I somehow made it outside with just 1% health to spare. I am
+also glad not too many monsters entered that teleporter into the room,
+that can be a problem.
+
+This can also help for a 100% Secrets run, just that there's the BFG
+secret and that room with two medkits to keep in mind.

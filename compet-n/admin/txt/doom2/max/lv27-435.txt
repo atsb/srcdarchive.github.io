@@ -1,0 +1,36 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV27-435.TXT
+
+ LV27-435.ZIP
+
+  LV27-435.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 27 - "Monster Condo"
+
+  Kills   100%
+  Items    69%            *********
+  Secrets  87%  and Time  * 04.35 *
+                          *********
+
+
+
+
+
+Description: Hmmm... Quite nice level can be somewhat annoying      
+             sometimes however. As always you must count every 
+             rocket and plasma. The last secret is impossible
+             to get by design, so 87% is the maximum, compare
+             with level 15 90%..
+
+
+
+
+
+Author:	     Daniel "Demonlord" Lindgren 
+ 
+E-mail:	     akllin95@student.umu.se

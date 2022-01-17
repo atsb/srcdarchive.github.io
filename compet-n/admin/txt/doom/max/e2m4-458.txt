@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M4-458.TXT
+
+ E2M4-458.ZIP
+
+  E2M4-458.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 2 Mission 4 - Deimos Lab
+
+  Kills    100%
+  (Items    52)
+  Secrets  100%    and Time  04:58
+			     -----
+
+Description: I followd the knocking-master's (Peo's :) route here. Took me
+             aprox 50-60 mins to make this one...NOBODY knocks like Peo (see 
+             how he handels those cacos for instance), I think most time was 
+             gained in the end cause I get the monsters less spread by leaving 
+             them behind for a while. Btw Peo: The reason why you had problems 
+             with that last super-charge is cause the first bridge must be 
+             raised entirely before you activate the second one.
+            
+             This lmp has its share of faults, still I'm glad I broke the
+             5 mins barrier...:-)
+        
+             Hmmm...I can't stand the thought of e2m2, I'll take that one
+             out last in epis2. Lets move on to e2m5. But that's a Kai-entry(!)
+             isn't it...should mean trouble :)
+
+Author:     Anders Johnsen
+E-mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

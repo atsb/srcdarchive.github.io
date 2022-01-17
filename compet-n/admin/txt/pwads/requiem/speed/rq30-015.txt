@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ30-015.TXT
+
+ RQ30-015.ZIP
+
+  RQ30-015.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 30 - Nevermore
+
+  Kills      7%
+  Items     21%           +++++++++
+  Secrets    0%  and Time + 00:15 +
+                          +++++++++
+                          
+  Description:
+ 
+  First I tried to get 16 on the older rl route
+  I got 16 after a while which I think is nice demo
+  Then I suddenly remembered that the plasmagun damages
+  the icon in this map too...
+  Not getting rl maybe saves around 3 secs but you can only
+  'target' the icon with plasmagun when the red thing is
+  fully opened and that could waste about 2 secs, so in
+  the end the plasmagun route is about 1 second faster
+  
+  With the plasmagun route. The damage on the icon greatly
+  varies. I of course got many 16s with the plasmagun
+  route. What was frustrating me the most was if I give up
+  Would I post the 16s rl demo or a 16s plasma demo.
+  The lowest 16 I checked is 16.23, then when I thought I
+  had 15, it tuned out to be another 16.23 >_<
+  
+  At this point I decided to use little sr50 in the run. Not that
+  it'll be of much use but I guessed that I'll need perfection to
+  get 15s or close to it
+
+  Shortly after I started to use sr50, I got this run I was very
+  'surprised' how fast the icon died and thought that it could
+  be 15 regardless of the flaws I did. Turned out to be 15s heh
+  I waited too much at the first door and I got stucked 2 times
+  with zombiemen =|
+  
+  Oh yeah, the intermission is long, I was just pissed off at the    map :P This run doesn't deserve 15, I had lots of good looking
+  runs just not lucky enough =/
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

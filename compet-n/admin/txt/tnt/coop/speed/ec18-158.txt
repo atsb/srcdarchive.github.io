@@ -1,0 +1,43 @@
+This is a "COMPET-N/tnt/coop/speed" entry, please forward it.
+
+ec18-158.txt
+
+ec18-158.zip
+
+ec18v158.lmp
+ec18a158.lmp - Ultra-Violence Speed
+
+PerOxyd's demo recorded using Final Doom Version 1.9
+Altima's demo recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+(Please note, both demos play back with either .exe) ;)
+
+
+Final Doom: TNT Evilution - Map 18 - The Mill
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+PerOxyd        6%      12%      40%
+Altima         5%      12%       0%
+
+            ********
+  Time:     * 1:58 *
+            ********
+
+
+PerOxyd:  Some lag, but the cooperation worked well between us. Thx for this
+          coop Altima.
+
+Altima:  This map is awesome for Coop, in my opinion. Vince had low health for
+         the entire demo, but we got out this time, despite that evil Cyberdemon
+         he has to get by. Our ping was around 180 - 200 and I have some sloppy
+         parts due to that. The switch trick is a little harder for me due to the
+         lag, but it's not terrible ^^ Anyway, enjoy ;)
+
+
+Green:      Vincent "PerOxyd" Catalaà        (vincentDS@netcourrier.com)
+Indigo:     Casey "Altima" Alvis             (altima_mantoid@hotmail.com)
+
+This demo was recorded over Microsoft Gaming Zone
+
+21.07.2003

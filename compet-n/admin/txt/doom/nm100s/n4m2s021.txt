@@ -1,0 +1,29 @@
+This is a Doom .LMP "Competition" Entry
+
+N4M2S021.TXT
+N4M2S021.ZIP
+
+N4M2S021.LMP - NightMare! Secret Exit
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M2 - Perfect Hatred
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :21
+)---------------(
+
+Same route as in Nightmare. 
+
+I don't know how the hell I got the BFG grab here.
+The running sucks a bit but i think :20 would be 
+quite hard.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

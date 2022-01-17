@@ -1,0 +1,45 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2282951.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP28 - Corporate Hell             |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     72%           *********        |
+            |      Secrets  100%  and Time * 29:51 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| At first it looked like an impossible task. Surviving the start        |
+| requires some unconventional routes. The way I do it in this demo is   |
+| pretty reliable, 33% survival rate. Then in the tower I clear the      |
+| first floor first (no pun intended, US = second floor). This is        |
+| because if some cacos enter the lift, you're in SERIOUS trouble.       |
+| Then I do everything in a very strange order, but keeping in mind my   |
+| health. I need lots of health for: 1. invulnerability area, 2. blue    |
+| key area with many cacos, 3. top floor with chainees, hell knights and |
+| an arch-vile. I need at least 100/100% (green armor is enough) for:    |
+| 4. chaingunner staircase. I lost much time at the end because          |
+| something told me there were stragglers, but I was wrong. Now that you |
+| get the idea how to do it, feel free to improve. 30 minutes does not   |
+| look good...                                                           |
+|                                                                        |
++========================================================================+

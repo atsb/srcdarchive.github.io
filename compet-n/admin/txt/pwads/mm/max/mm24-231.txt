@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+MM24-231.TXT
+MM24-231.ZIP
+
+MM24-231.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm.wad -playdemo with Version 1.9
+
+Memento Mori - Level 24 - Diehard
+
+=--------------=
+Kills      100%
+Items       27%
+Secrets    100%
+
+Time       2:31
+=--------------=
+
+C-N entry #55.
+
+I thought that the time cut (1:02) from the previous record was somewhat
+substantial, considering the size of the map.  Thanks to Brad Spencer for
+his 3:33 run here.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

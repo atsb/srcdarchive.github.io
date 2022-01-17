@@ -1,0 +1,35 @@
+This is a .LMP "COMPET-N/Table filler" Entry - Please forward it...
+
+M205F844.ZIP
+
+ M205F844.LMP
+
+  M205F844.TXT -UV FAST!
+
+  Recorded using "DooM 2 v1.9 - Memento Mori 2" ! (Complevel 2)
+  DooM2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9 -Only!
+
+  Memento Mori 2 - Level 5 - Rites of Passage
+
+  Kills:     100%
+  (Items: WHO CARES!)        ********
+  Secrets:   100%  and Time  * 8:44 *
+                             ********
+  [C-N entry #2. (Table filler) Date:12/09/2009 (when demo was 
+  recorded, not submited!).]
+
+  Description :)
+  2 hours of work here, one of my favorite Maps of mm2 and I was 
+  surprised that no one has done this beautiful map on -FASt yet...
+  But anways, hard map do to the lighting but I need to mention 
+  that this is a Complevel 2 ONLY demo so you PrBOOM(-plus) users 
+  out there need the "-Complevel 2" command to play this properly.							  
+  Oh and btw, this was my 3rd exit and HAPPY BIRTH DAY DOOM!!!								
+								
+  Note: Since this demo was recorded with MM2.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/675/mm2.zip
+        and pick it up if you havn't already :) 		
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

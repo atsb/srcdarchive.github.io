@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M227n025.TXT
+
+M227n025.ZIP
+
+M227n025.LMP - Nightmare! Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos
+      
+Kills        3%
+Items        0%
+Secrets      0%
+
+              ***********
+  and Time -  * 0:25.02 *
+              ***********
+
+
+Description:
+
+Where do I start ?! This run ends in tragedy :(((
+Yesterday I looked for some short unoptimized runs to conquer and I saw
+Sedlo's UV 24secs run in this map, I checked the NM record which was 29
+by Casey, I said it should be easy to beat, my first exit was 28 secs
+then in just 1 hour I got 25 secs then I said, I will go for 24 secs,
+it should be impressive! I've got seven 25sec runs! This one was the
+fastest. I was very lucky with the 2nd switch, I activated it very fast,
+then I looked back to see if the imp moved away and he did, I said I
+shouldn't waste this chance! I ran to exit and when I activated the
+switch I expected 24 secs, but It was 25, I was very furious I exited
+fast to check the exact time and it was just 2 tics away...
+Still I think this one is harder than UV, cause of the luck needed to
+survive arch-viles & archanatrons, and also I guess that imp on top
+moves less often in Nightmare.
+Anyway Enjoy!
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

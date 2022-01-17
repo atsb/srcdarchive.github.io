@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM311413.TXT
+
+ MM311413.ZIP
+
+  MM311413.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 31 - Technology Base
+
+  Kills    100%
+  (Items    60%)          *********
+  Secrets  100%  and Time * 14:13 *
+                          *********
+                          
+
+  Description :-)
+
+  This is a coop optimized level, you may ask how could I get 100% kills?
+  The answer is a tricky jump, with that you can get in the coop area and kill
+  the monsters out there. The jump could be done easily from the teleport, just 
+  turn to right a little bit and simply walk (not run!) and you will land in 
+  the second player's area. But you need some luck to finish with 100% kills
+  because there are some monsters who sometimes doesn't teleport in. I got some 
+  tries with 99% kills and almost 2 mins faster than this lmp ;-((  
+  I hate these monster teleport tricks.
+
+  Istvan Pataki
+  deity@sch.bme.hu

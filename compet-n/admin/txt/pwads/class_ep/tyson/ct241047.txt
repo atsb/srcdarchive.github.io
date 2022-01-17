@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CT241047.TXT
+
+ CT241047.ZIP
+
+  CT241047.LMP
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M4 - Tyson Style
+
+  Kills    100%           
+  (Items    87%)          
+  Secrets  100% 
+
+            ... and Time 10:47
+                         -----   
+                          
+  Description: 
+
+  I died couple of times at the start due to my impatient playing,
+  but always managed to exit if I reached the berzerk room.
+   
+  
+  Radek Pecka
+  r.master@email.cz

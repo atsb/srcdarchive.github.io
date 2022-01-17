@@ -1,0 +1,35 @@
+This is a Doom .LMP "Competition" Entry
+
+N4M6-157.TXT
+N4M6-157.ZIP
+
+N4M6-157.LMP 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M6 - Against Thee Wickedly
+
+=--------------=
+Kills       72%
+Items       50%
+Secrets    100%
+
+Time       1:57
+=--------------=
+
+C-N entry #60.
+
+I think that I'm the first to use the DDQ route in a nightmare run, which
+also brings this run closer to the UV record.  The entire run from the
+beginning to the red key is quite easy with practice, but the end scene
+is a huge leap of faith.  It's quite entertaining. :)
+
+Still, I am disappointed with the way the rest of the demo looks.. I know
+I could have run this much better, but unfortunately, I tried for several
+hours (and several days) after getting this demo and never succeeded. So,
+good luck to anyone who tries this one.  Time to get back to practicing for
+30nm..
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

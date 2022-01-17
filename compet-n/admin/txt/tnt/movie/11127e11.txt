@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+---------------------------------------------------------------
+
+  11127E11.TXT
+  11127E11.ZIP
+
+  11127EV11.LMP - TNT:Evilution / 2nd Episode / UV Max movie
+
+  Recorded with the Final DOOM executable (DOOM2.EXE), with
+  the TNT31.WAD loaded
+
+  level                      | time | kills | items | secrets 
+  -----------------------------------------------------------
+  Storage Facility    (MAP11):  5:18   104%     28%    100%
+  Crater              (MAP12):  6:27   100%     66%    100% 
+  Nukage Processing   (MAP13):  7:04   100%     45%    100%
+  Steel Works         (MAP14):  8:16   100%     72%    100%
+  Dead Zone           (MAP15):  7:47   102%*    86%    100%
+  Pharao              (MAP31): 11:47   101%     96%    100% 
+  Caribbean           (MAP32):  9:09   100%     94%    100%
+  Deepest Reaches     (MAP16):  9:58   100%    100%    100%
+  Processing Area     (MAP17):  5:53   105%     73%    100%
+  Mill                (MAP18): 13:48   100%    100%    100%
+  Shipping/Respawning (MAP19):  9:40   101%    100%    100%
+  Central Processing  (MAP20): 16:20   100%     68%    100%
+  
+  Total time: 1hr 51min 27sec
+
+  Description :-)
+
+  This is a by-product of my TNT 32max sessions.  Now there is
+  only one episode left undone - the third one. Let's hope it 
+  won't take another four years; TNT ain't that bad, is it? :)
+
+  *Getting 100% kills on MAP15 is theoretically possible, but 
+  in practice is very unlikely. The two unreachable monstars 
+  are the Caco and the Pain Elemental behind the north-eastern 
+  wall. They never get a chance to see you, that's the problem.
+  It _may_ be possible to maneuver another Caco or a Lost Soul
+  near them and hope to wake the sleepers with a blast wave off
+  the maneuvered floater; in theory, yes. To get something up 
+  there to the right height and just the right place without
+  killing it in the process would take a lot of time and patience.
+  In a single-level run, maybe, and (quite likely) with a little 
+  help from TAS.
+ 
+  Update: this is a re-upload to correct the total time and the 
+  filenames - the original listed 1:11:27 and was named 7127EV11.
+  Update 2: filenames shortened to comply with the 8+3 DOS limit.
+
+  Serge "Never_Again" Marudov
+  tpoppins@juno.com

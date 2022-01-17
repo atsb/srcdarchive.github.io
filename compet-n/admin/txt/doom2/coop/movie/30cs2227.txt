@@ -1,0 +1,83 @@
+This is a Compet-N entry 
+
+authors:    Radek Pecka <r.master@email.cz>
+            Vincent Catalaa <vincentDS@netcourrier.com>
+            
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - UV Speed
+            
+Green   : Vincent
+Indigo  : Radek
+
+         *-------*
+Time:    | 22:27 |
+	 *-------*
+                             
+Levels                   Time     
+----------------------------------
+"Episode 1" :
+----------------------------------
+Entryway                 0:08
+Underhalls               0:40		
+The Gantlet              0:37   	
+The Focus                0:31
+The Waste Tunnels        0:33    	
+The Crusher              0:56    	
+Dead Simple              0:21    
+Tricks & Traps           0:34    
+The Pit                  0:56    
+Refueling Base           0:35
+---------------------------------
+"Episode 2" :
+----------------------------------
+"O" Of Destruction       0:40		
+The Factory              0:39   
+Downtown                 1:10	
+The Inmost Dens          0:42   
+Industrial Zone          0:22	
+Wolfenstein              0:34   
+Suburbs                  0:37	
+Tenements                1:10	
+The Courtyard            0:26	
+The Citadel              0:37	
+Gotcha!                  0:44
+----------------------------------
+"Episode 3" :
+----------------------------------
+Nirvana                  0:29    
+The Catacombs            0:44  
+Barrels Of Fun           0:53  
+The Chasm                0:49  
+Bloodfalls               0:47  
+The Abandoned Mines      0:53  
+Monster Condo            0:43  
+The Spirit World         0:52  
+The Living End           1:46  
+Icon Of Sin              0:29
+----------------------------------
+Total                   22:27		
+----------------------------------
+        
+Description : 
+
+Radek :
+  It was a big pleasure for me to join Vincent and make this demo. It took us some while, be 
+  sure it wasnt that easy. We worked on it about a week or so, mostly in the evenings. Started
+  off with times slightly over 25mins, but we got better by every run we recorded. We had 24min
+  demo soon, 23min came quick as well. We both knew we had to do it under 23min, it wouldnt have
+  let us sleep in peace otherwise. Breaking the 23min barrier was a great challenge for both of 
+  us I believe. Dont forget we recorded it playing over Inet with ping around 100ms. That makes 
+  me even more happy. I think the demo is definitely the best one we did. I mean, no big fuck-ups
+  and we implemented all tricks we wanted to, except of map27 archie trick, on the other hand 
+  map30 went perfect for instance. I wanna thank Vince for his effort in this movie, he made an 
+  awesome job. It's the best coop player Ive ever played. Thats it, enjoy!
+
+Vincent :
+  That was a kinda fun and interesting adventure. We got the routes set up pretty quickly and 
+  then improved a few things here there as we played more. This is by far our best run, no real
+  major mistakes, a lot of small ones here there though :) I was glad to make the glide in 21 
+  and not to fall in 24 (which happened quite often:) Radek played great all along.
+  Our original goal was to get below 24 mins, but it quickly changed to below 23 mins. Note that 
+  this is the only time we got below 23 mins, and it's even below 22:30 :)))
+  Thanks Radek for giving me the opportunity to do this run with such a great player. 

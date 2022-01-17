@@ -1,0 +1,20 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htp-242.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 2:42, UV pacifist
+
+Author                  : Adam Williamson
+Email Address           : adam.williamson1@btinternet.com
+
+Description             : Improved pacifist time. Note this run features
+                          heavy use of strafe50 - it seems silly not to use
+                          it, this map is so ideally setup for it.                          
+
+************************************************************************

@@ -1,0 +1,51 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : re09-331.txt, re09-331.lmp
+Date     : 2013-9-08 
+Game     : Doom II
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : MAP09: The Pit
+Skill    : 4 (UV Respawn)
+-------------------------------------------------------------------------
+Name     : Chris Ratcliff
+Nickname : Ryback
+Country  : Australia
+Email    : ryback@gmail.com
+WWW      : youtube.com/user/rybacksda
+-------------------------------------------------------------------------
+Kills    : 101%
+Items    : 42%
+Secrets  : 100%
+Time     : 00:03:31
+===================================
+Description:
+By now you'd think all the IWAD records are more or less well-optimised,
+the result of half a dozen or more top-level players stretching each 
+other's skill to the limit. But take this level. We've got one initial 
+tablefiller from Rini Udlift, from 1997, and an Anders update nearly
+a year later. And that's it. For some reason nobody came back to update
+this one, even though Anders' record predates the introduction of the 
+nm100s category, which gave us much better routes for tackling this level. 
+Somehow this half point always got overlooked.
+
+Can't say I knew about it either. I only found this at random, watching some 
+old Compet-n demos for nostalgia's sake. Anders' play was hard fought and 
+skilful as usual, but the route was extremely inefficient and it was obvious 
+he hadn't wasted much time on the recording. And there was an unusal focus 
+on safety, with some monster packs ignored entirely. So my goal in this run 
+was to get the more dangerous weapons earlier, activate every monster trap
+even if I didn't kill everything, and just in general try to treat this
+like a nm100s run rather than a UV run. First exit was 4:18, then a 3:52. 
+Breaking 4 minutes felt like an achievement but it wasn't a great run, so 
+after coming back for a second session I managed this run. There's still some 
+errors here - I miss the jump to the rocket launcher,  and somehow missed the 
+switch by the blue key. But the monster fighting bits went well and it's a 
+good time overall, so I'm happy with this. An IWAD single-level record beaten 
+by 1:53, in 2013. That feels pretty good :)
+
+
+
+Previous records:
+RE09-923 - Steffen Udluft - 12.10.1997
+RE09-524 - Anders Johnsen - 27.09.1998

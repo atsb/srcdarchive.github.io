@@ -1,0 +1,52 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+PC01-005.TXT
+
+PC01-005.ZIP
+
+PC01-005.LMP - Ultra Violence
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+The Final Doom: The Plutonia Experiment - Level 01
+
+         Kills    Items   Secrets
+
+Green      1%       0%       0%      JC
+Indigo     0%       0%       0%      Dislogical
+
+	   ***********
+Time :     * 0:05.91 *
+	   ***********
+
+Description :
+
+NB : this is a re-run. We did 5 seconds a couple of days ago, but later realized that we did not mention "-skill 4" in the command line, so that first run was recorded in skill 3. 
+We're sorry about that, this one's the final run, enjoy =)
+
+[ JC : ]
+
+yeah !! 5 seconds ! Two days to get this result ! our lowest time was 6.11 so we had to do better !
+a very good teammate ! =)
+
+[ Dislogical : ]
+
+Pretty hard run, took us some time to finally get 5 seconds (after several tries clocking at 00:06). 
+Thing-run at the beginning was crucial to get this time.
+
+
+Authors:
+
+JC
+superjc@free.fr
+13th Compet-N Entry
+
+Stéphane "Dislogical" Petit
+dislogical@hotmail.fr
+1st Compet-N Entry
+
+France
+2013/08/04
+
+Admin note: pacifist too

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL27-044.TXT
+
+ CL27-044.ZIP
+
+  CL27-044.LMP - Ultra Violence !
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M7 - Deimos Anomaly
+
+  Kills     ??%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 0:44 
+                            
+                          
+
+  Description: Fun speed level, it's a bit of a lottery but you don't
+               have to do much...
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

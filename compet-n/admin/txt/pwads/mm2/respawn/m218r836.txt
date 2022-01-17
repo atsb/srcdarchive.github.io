@@ -1,0 +1,41 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m218r836.lmp                        |
+            | Category: Respawn                             |
+            | Map Level: MAP18 - Regulate                   |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    115%                            |
+            |      Items     25%           ********         |
+            |      Secrets  100%  and Time * 8:36 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Table-filler. This map has no NM + 100% Secrets demo, and with "slow   |
+| monsters" (respawn) was already quite challenging for me. First exit.  |
+|                                                                        |
+| Apart from the obvious red key grab trick, I used a blue key grab as   |
+| well (I mean, even though the BK is easily accessible, you may pick it |
+| up *without* releasing two extra revenants). Finally, for the first    |
+| time in my life I had the final linedef skip with monsters. This       |
+| surprised me a lot, hence my very strange movements in the last two    |
+| seconds of the demo :)                                                 |
+|                                                                        |
++========================================================================+

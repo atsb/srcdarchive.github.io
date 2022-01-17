@@ -1,0 +1,60 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1428UV11.TXT
+
+ 1428UV11.ZIP
+
+  1428UV11.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 2" - Levels 11 thru' 20  (Inc. LV 31 & LV 32)
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 11  -     46%    4%   33%       1" 26     (100  14)
+  LV 12  -      7%   20%    0%          59 !   (100  94)
+  LV 13  -     28%    9%    0%       1" 45 !   (101  96)
+  LV 14  -     46%   50%    0%       1" 28     (100  92)
+  LV 15  -     10%   12%   18%          53     (100  68)
+  LV 31  -     25%    1%   50%          42     ( 72  42)
+  LV 32  -     51%  100%   50%          24     (197 197)
+  LV 16  -     14%    0%    0%          43 !   (141 144)
+  LV 17  -     74%   55%    0%       3" 38     (158  78)
+  LV 18  -      1%   32%    0%          30 !   (200 100)
+  LV 19  -     11%    3%   22%       1" 06     (145 100)
+  LV 20  -     16%   15%   14%          54 !   (136 143)
+
+                     Total Time =    7" 448
+                                     7" +
+                                     7" 28
+                                    ------
+                     TOTAL TIME =   14" 28
+                                   --------
+
+
+  Description: This recording is about 1:30 faster than my
+               old entry at 15:52.
+
+               Level 11 is average.
+               Level 12 is very good, especially the end,
+                        taking no damage at all.
+               Level 13 missed the...... jump.
+               Level 14 quite ok.
+               Level 15 ok.
+               Level 31 and 32, too easy.
+               Level 16 monsters got in the way all the time...
+               Level 17 is rather good.
+               Level 18 ok.
+               Level 19 alright.
+               Level 20 I know I probably could have left the Sphere.
+
+
+  Author:      Daniel "Demonlord" Lindgren
+
+  E-mail:      akllin95@student.umu.se
+

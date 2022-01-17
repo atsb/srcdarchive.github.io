@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm291839.TXT
+
+ mm291839.ZIP
+
+  mm291839.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 29 – UV Fast
+
+The last map to be completed on UV Fast as of yet, and I finally did it. The first part with a switch that opens a door with shotgunners, I was lucky as a gunner was under the door as it was closing, so it opened up again. At the soul sphere part, I ended up having too much propulsion and missed it. Also, in the tiny hallway leading to the room with the megasphere secret, a cacodemon blocked my way, so I had to use a rocket to get rid of the blockage. Optimal would probably be 16:xx.
+
+Author: Revved

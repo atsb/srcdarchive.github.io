@@ -1,0 +1,40 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+mm25-511.txt
+
+mm25-511.zip
+
+mm25-511.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file mm.wad
+
+Memento Mori - MAP 25 - Cesspool
+
+
+================
+Kills      100%
+Items       80%
+Secrets    100%
+----------------
+Time       5:11
+================
+
+
+Description:
+
+This map is pretty easy. This is because there are a lot of spheres,
+and you can kill The Spider Mastermind safely for some reason or other.
+At first, I would enter a 5:21 demo in Compet-N. However, I got a 5:23
+UV-fast demo in this map, so I tried UV-Max again and got it.
+Btw, I like the map's mus (BGM) very much!
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+27 - Dec - 2008   10th Comepet-N Entry

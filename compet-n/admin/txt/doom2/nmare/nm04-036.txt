@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+nm04-036.txt
+nm04-036.zip
+
+nm04-036.lmp 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2 - Level 04 - The Focus
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       0:36
+=--------------=
+
+C-N entry #206.
+
+Apparently 19 seconds faster than the record...
+uh... guess nobody enjoys this run.  Feel free
+to beat it.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,150 @@
+Runner: Zero-Master
+Date: 2017-03-09
+IWAD: DOOM2.WAD
+Category: UV-Speed
+Map: Movie 1-30
+Source Port: Competition Doom v2.0.3.2
+Time: 19:28 (19:39.03)
+
+Map	Time	
+01	00:06	:)
+02	00:38	:)
+03	00:31	:)
+04	00:28	:))
+05	00:30	:((
+06	00:57	:|
+07	00:15	:(
+08	00:24	:))
+09	00:56	:)
+10	00:32	:))
+11	00:35	:)
+12	00:44	:))
+13	01:04	:))
+14	00:19	:)
+15	00:33	:|
+31	00:32	:(
+16	00:15	:)
+17	01:44	:)
+18	00:25	:)
+19	00:43	:|
+20	00:36	:)
+21	00:11	:))
+22	00:31	:|
+23	00:42	:)
+24	00:41	:)
+25	00:44	:)
+26	00:42	:(
+27	00:21	:)
+28	00:44	:(
+29	01:33	:)
+30	00:32	:)
+
+Description:
+This was a lot of work, took 3 months to go from 19:36 to 19:28.
+
+A very solid run, the biggest single time loss was just a revenant block on map 22.
+I think the changes to the route since 30uv1959 saves about 25 seconds, I also increased my
+mouse sensitivity a while ago which helped a great deal with movement and being a bit
+quicker at finding the correct angles for certain tricks. 
+
+There's a couple of more things that could be included to save time, the biggest
+being going for the glide on map 02 without killing the hitscanners. However, 
+using some very "exact" calculations I concluded that it would take me more time to get
+under 19:30 if I accounted for how often it fails, so even though there are still 
+improvements it might not help with getting a faster time.
+
+As always thanks to elim and looper!
+
+Map 01: I could increase my chances of getting 5 seconds by doing things slightly different,
+but that would also increase the chance of getting 7 seconds, so I just go for 6 seconds.
+
+Map 02: Decent time, perfect luck with the barrels for once!
+
+Map 03: Good time here as well, always nice to get the chaingun before skipping the blue key,
+since I don't have to rely on the shotgun killing the chaingunner in a single hit.
+
+Map 04: Really good time, I only use 1 rocket on this map now since I think overall it's a bit 
+faster and easier if I use 1 on map 03.
+
+Map 05: Bad movement at the start of the map, really bad time here, usually I get 26-28 here.
+
+Map 06: I rarely do well on this map, usually I lose a second to my safer strategy of 
+doing the jump to yellow key door, but I failed it so often before that it's worth it.
+
+Map 07: Slightly different start, better manipulation of the mancubi.
+SL40 -> MF50 SL50, so I had to do the setup for RJ again as I need to hit MF50 SL50 on first tic.
+Usually I get 12 seconds here, 11 seconds if the setup is really quick. 
+
+Map 08: Really lucky here, while the cyberdemon shooting right away is usually bad luck, it turned out to 
+be quicker as I managed to get through. I also had enough rockets so I could ignore the second 5 rocket
+pack. 
+
+Map 09: Good time here, everything went well, also managed to keep mega armor for the next map
+which is really nice.
+
+Map 10: Went very well, managed to get the blue key through the wall and didn't get blocked too badly.
+5:17 total matches current e1 record, I have a few seconds faster somewhere in all the failed attempts.
+
+Map 11: I was planning to activate the other switch at the start here since it's faster 
+(it can easily cost 2 seconds instead if I don't active the second switch in time), 
+but it's only 1 second faster than the usual switch if I ignore the chaingunner first.
+
+Map 12: Managed to do the yellow key grab through the wall, I use a setup for that now so it works
+every time if it's done correctly. A bit unlucky with the elevator in the bottom left corner not 
+going upwards straight away, but the rest was perfect so I got a really good time here.
+
+Map 13: Only once have I telefragged the archnotron so I wasn't sure what was going to happen
+when dropping down (you might build up too much momentum and fail the jump I think). Everything
+went ok and I got lucky with the elevator going down straight away (if it doesn't I lose 3 seconds).
+
+Map 14: Chaingunner survived my first SSG shot, if I lower the elevator while he is on the other side 
+then I would waste a lot of time so I always kill him before lowering it. Usually I get 17-18 seconds here.
+
+Map 15: Here's what happened at yellow key:
+"I should pick up the health behind the pain elemental" 
+"No, it's faster to grab it later" 
+"Wait, was that the yellow key?"
+Wasted 2 seconds on that, never missed the yellow key like that before.
+
+Map 31: Bad movement cost me at least a second.
+
+Map 16: Not the best health and the run was decent enough that I went for the health, time is ok.
+
+Map 17: I'll never be happy with this map, but everything went well here except for missing
+the chaingunner near the end, could possibly have been a 1:42 which would be amazing.
+
+Map 18: Bad movement, usually I get 24 seconds here.
+
+Map 19: Not the best time, but I'm happy to make it through. 
+It is very common to bounce back when colliding with the key bars on this map.
+
+Map 20: Not too difficult to get 35 seconds here.
+
+Map 21: The second glide was almost instant, really lucky here as that one can be dangerous.
+
+Map 22: A bit slow with the glide, for some reason I couldn't move a bit too the right once I was in the gap.
+Unfortunately the damn revenant survived both BFG's and got a perfect position to block me.
+
+Map 23: To me it looked like the mancubus was just about to fire, so I grabbed the green armor. 
+Couldn't hear any barrels exploding so I could run across the barrels, PE almost blocking me though.
+Almost missed the BFG afterward too, but 42 seconds is decent considering the bad start.
+
+Map 24: A bit slow, I figured my time was decent so I get a bit nervous on those damn ledges and I slow
+down a bit too much.
+
+Map 25: Annoying amounts of damage before blue key door, but everything went well.
+
+Map 26: Awful luck getting blocked by the cacodemon, managed to get past him quickly, but he blocked me again later.
+Everything a bit too slow, missed the teleporter after YK so bad time.
+
+Map 27: 21 seconds is good enough, I had 16 seconds the last time I was there but that is very rare.
+
+Map 28: Awful time, blocked a bit too much. However I got lucky I didn't get blasted by a vile at the end.
+
+Map 29: At this point I was still convinced my time would be good enough for sub 19:30, so I chose to use
+plasma to kill the first revenant to make sure I don't lose my run to something really stupid. This probably
+cost me 2 seconds and considering another 2 seconds would have made this worthless :)
+
+Map 30: No bullshit spawns from the IoS or insane damage rolls like a previous attempt where 
+I was hit by 2x80 damage from the revenant and 15,20,40,15,30,25,25 from an arachnontron in the back,
+which was enough to push me off the platform (would have been 19:26).

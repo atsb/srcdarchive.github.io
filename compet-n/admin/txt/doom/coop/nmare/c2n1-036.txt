@@ -1,0 +1,52 @@
+This is a "COMPET-N/doom/coop" entry, please forward it.
+
+c2n1-036.txt
+
+c2n1-036.zip
+
+c2n1c036.lmp - Coop Nightmare!
+c2n1j036.lmp
+
+
+Recorded using Ultimate Doom Version 1.9
+Doom -PlayDemo with Version 1.9
+
+Ultimate Doom : Episode 2, Mission 1 - Deimos Anomaly
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+JC            25%       0%      0%
+Ch0wW         11%      87%     25%
+
+
+            ********
+  Time:     * 0:36 *
+            ********
+
+
+Description :
+  
+
+[ JC : ] 
+
+I noticed that there was no demo on this map in this category, so we tried :p
+Movements of demons are really hard to predict ...
+
+[ Ch0Ww : ]
+  
+Omg, those monsters are... MASSIVE aimbotters ! 
+I never felt myself so lucky by going through the blue door ! thank GOD !
+ 
+
+Authors :
+
+JC
+superjc@free.fr
+20th Compet-N Entry
+
+Maëllig "Ch0wW"' Desmottes
+Ch0wW@baseq.fr
+8th Compet-N Entry
+
+France
+2013/06/27

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+NM12-108.TXT
+
+ NM12-108.ZIP
+
+  NM12-108.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - The Factory
+
+  Kills     18%
+  (Items    20%)          ********
+  Secrets   25%  and Time * 1:08 *
+                          ********
+                          
+  Description:
+
+  I'd say this one went OK. There's room
+  for improvement in the ending room.
+
+  Xit Vono
+  xit_vono@yahoo.com

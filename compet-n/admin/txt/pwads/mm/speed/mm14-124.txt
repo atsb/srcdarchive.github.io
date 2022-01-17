@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+MM14-124.TXT
+
+ MM14-124.ZIP
+
+  MM14-124.LMP - Ultra Violence!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+
+  Kills     ?%
+ (Items     ?%)          ********
+  Secrets   ?%  and Time * 1:24 *
+                          ********
+
+  Description : 
+
+  I can't believe what happened at the red key... I tried to beat this time, but no luck.
+  Damn, damn, damn.
+  
+  Erik Alm
+  erik_a80@hotmail.com

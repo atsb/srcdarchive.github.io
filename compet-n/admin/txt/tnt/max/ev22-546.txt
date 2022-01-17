@@ -1,0 +1,43 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV22-546.TXT
+
+ EV22-546.ZIP
+
+  EV22-546.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 22 - Habitat
+
+  Kills    100%
+  Items     45%           *********
+  Secrets  100%  and Time *  5:46 *
+                          *********
+
+
+Description: 33 seconds faster then my previous record. I take another new 
+	     approach at the beginning. This time I get the ssg immediately
+	     and catch the lift back up. This makes the bfg and blue key 
+	     area much easier to finish quicker.
+
+	     I clocked my exact time as 5:46.00 so I guess this demo can be
+	     improved by at least one more second. ;-) Under 5 minutes is 
+	     very likely with better weapon handling (esp. BFG) and using 
+	     wall-running in those long hallways. Perhaps I'd suggest a 
+	     few small changes to the route also.
+
+	     I've been trying two new improvements. I've tried to save cell
+	     ammo from the blue key battle so that I would have 4 bfg shots.
+	     This allows me to bfg the demons in one shot. I've also tried 
+	     to delay the bfg lift by interfering with it reaching the top
+	     and then riding it back up. It saves time but it's hard for me
+             to do. Neither of these tactics are in this demo but I'm trying
+	     to get it together.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

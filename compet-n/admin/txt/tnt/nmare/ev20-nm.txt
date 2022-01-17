@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/evilution/nmare" Entry - Please forward it...
+
+EV20-NM.TXT
+
+ EV20-NM.ZIP
+
+  EV20-NM.LMP - Nightmare!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 20 - Central Processing
+
+  Kills     88%
+  Items     70%           ********
+  Secrets  100%  and Time * 8:31 *
+                          ********
+
+
+Description:	That LMP looks like it should. Fortunately I killed that Pain
+		Elemental. That damn Archvile made it exciting at the end. The
+		middle part from the Berserk to the Supercharge is very easy.
+		Okay, every map is easy with Invulnerables :) It's my last LMP
+		for the next 2 weeks, I've got to sit down and learn for my
+		exam. Doom on! I've got 2 other LMPs with times like 8:43 and
+		8:33. I think not much went wrong here, so it's a good time.
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

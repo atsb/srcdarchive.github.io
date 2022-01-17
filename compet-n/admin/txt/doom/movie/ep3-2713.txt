@@ -1,0 +1,55 @@
+This is a   Compet-N entry
+
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie - 100% Kills & Secrets
+            
+level:      Episode 3 - Inferno
+            
+stats:      
+
+   Level       Time    Kills   Secrets   
+-----------------------------------------
+   E3M1        1:38    100%     100%    
+   E3M2        2:57    100%     100%    
+   E3M3        3:00    100%     100%    
+   E3M4        5:16    100%     100%    
+   E3M5        5:01    100%     100%    
+   E3M6        4:45    100%     100%    
+   E3M9        2:16    100%     100%    
+   E3M7        2:20    100%     100%    
+-----------------------------------------
+   E3M8     [excluded]  (0:28)
+-----------------------------------------
+   Total      27:13
+
+comments:
+		
+E3M1 - A quite tough level, Kai's time seems unreachable.
+
+E3M2 - I hate this level, sometimes a pig got stuck in the maze.
+
+E3M3 - I heard a pig, i had to seek it... 20s lost ? 
+
+E3M4 - The first big level
+
+E3M5 - Easy to get lost with the teleporters
+
+E3M6 - I lose some time to check if all monsters are dead
+
+E3M9 - This one came really well ! nearly under  par !  
+
+E3M7 - very easy level compared to the others
+
+E3M7 - no probs with the Spider
+
+
+I'm not a good max player. I wanted to do a max run for PublicDANG 
+and i realized that i've beaten Michael Greenslade's run but about 
+7:00 !
+
+Under 25:00 is really possible
+
+

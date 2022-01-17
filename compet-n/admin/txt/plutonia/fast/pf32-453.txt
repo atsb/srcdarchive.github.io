@@ -1,0 +1,19 @@
+Iwad: plutonia.wad
+Iwad name: Plutonia
+Map      32
+Skill     4
+Category  UV-fast
+Exe       Doom2v1.9f
+Time      4:53
+
+Author	   j4rio
+
+Pf32-505 with prboom took 
+me days, this demo with 
+vanilla took me around 
+10 minutes. I wasn't even 
+100% familliar with the 
+route. But to be honest,
+this demo is bad. Like, 
+really bad. At least
+it beats my prboom demo.

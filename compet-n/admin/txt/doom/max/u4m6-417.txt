@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+U4M6-417.TXT
+
+ U4M6-417.ZIP
+
+  U4M6-417.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.4 Mi.6 - Against Thee Wickedly
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%    and Time  04:17
+                             -----
+
+  Description:  A medium good lmp of the best map in Ultimate Doom...
+                I'm sure its possible to get 3.59 here, but there are more
+                maps waiting.
+
+
+Author:   Anders Johnsen
+E-mail:   gunjohns@online.no
+Doompage: http://home.sol.no/~doom/
+

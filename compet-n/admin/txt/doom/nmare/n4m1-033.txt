@@ -1,0 +1,47 @@
+This is a Doom .LMP "Competition" Entry
+
+N4M1-033.TXT
+N4M1-033.ZIP
+
+N4M1-033.LMP
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M1 - Hell Beneath
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :33
+)---------------(
+
+I knew I would beat Vile with this route but
+I didn't expect to beat him by 2 seconds.
+
+The start technique consists of simply backing
+off after having woken up the sergeants who
+will start some infights and then shooting
+at the right platform to kill the remaining
+ones when going for the elevator. After that,
+I use the same route expect for the blue key
+room where I prefer to use the RL which is
+faster, i guess.
+
+The ending is always really tense, because
+you never know how many monsters will be in
+your way, and if you miss the last SG shot on
+that annoying sergeant you just about screw
+the whole run.
+
+I had a far better looking demo which was
+recorded on prboom. I started using 1.9 after
+I got it and didn't how to turn vert sens off.
+Now it's done but it sucked big time to play
+with it.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

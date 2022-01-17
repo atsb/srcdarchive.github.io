@@ -1,0 +1,55 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV03-152.TXT
+
+ LV03-152.ZIP
+
+  LV03-152.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 03 - The Gantlet
+
+  Kills    100%
+  (Items    88)
+  Secrets  100%  and Time  01:52  (Par = 02:00)
+                           -----
+
+  Description :-)
+
+  OK, I feel like writing a long text file, what with Quake and The Final
+  Doom coming out and all, so I'll write a long text file. Apart from that
+  I like writing long text files.
+
+  This level is very easy and it seems I now have 3 records in it (LV03-029,
+  LV03-152 and FA03-154). This LMP is still not very good but I didn't work
+  much on it (I don't think more than 30 minutes). There are still things
+  that should be improved (Demonlord?).
+
+  I'd like to thank Peo Sjoblom for his feedback on my LV03-202, without him
+  I wouldn't have done this LMP.
+
+  The ending looks ridiculous, I'm bumping into the ending switch but
+  sometimes you have a good beginning but a bad ending.
+
+  Admin.: My last LV03-202 was in history.log as a level *2* entry and my
+  name didn't appear there at all, only my email. Please put this as a level
+  3 entry both in history.log and current.tab and put my full name there if
+  possible!
+
+  Oh well, it wasn't very long. Never mind.
+
+  PLEASE give me feedback!! I promise I'll answer!
+
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+
+[  Admin. Note ;-)  Thanks for the corrections - will do !
+
+S.;-) aka. The "Judge". ]
+
+

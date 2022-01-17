@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M220-044.TXT
+
+ M220-044.ZIP
+
+  M220-044.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 20 - The Experiment
+      
+  Kills        9%
+  Items        0%           ++++++++
+  Secrets      0%  and Time + 0:44 +
+                            ++++++++             
+
+
+
+  Description:
+
+  I got this pretty fast but I tried for some time to improve it
+  untill I realised how chaotic the ending really is
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

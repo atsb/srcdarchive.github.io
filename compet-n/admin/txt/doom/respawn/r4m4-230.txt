@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M4-230.TXT
+
+ R4M4-230.ZIP
+
+  R4M4-230.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  
+  DooM - Episode 4 Mission 4 - Unruly Evil
+
+  Kills    106%
+  (Items    78%)
+  Secrets  100%  and Time  02:30
+                           -----
+
+Description:    Before today I never had a clue how to get 100%
+                kills in a respawn demo. But this morning, I knew it:
+                just count every monster you shoot and go to the exit
+                when you have shot enough of them. 
+                
+                I want to say thanks to my friend Ralf Schreivogel,
+                who showed me the empty places in the Compet-n list
+                and also to Anders Johnson for not trying r4m4 yet. 
+
+
+Author:   Arno Slagboom
+E-mail:   slagboom@cybercomm.nl		
+Homepage: www.cybercomm.nl/~slagboom

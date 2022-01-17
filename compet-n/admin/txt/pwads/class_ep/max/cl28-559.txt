@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL28-559.TXT
+
+ CL28-559.ZIP
+
+  CL28-559.LMP - Ultra Violence max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M8
+
+  Kills    100%           
+  (Items    ??%)             +++++++++
+  Secrets  100%        Time: +  5:59 +
+                             +++++++++
+                          
+  Description :-)
+
+  Fish's run here was too casual again, so I made a few improvements.
+  First of all I used fist in a few places, and also I lose less time
+  shooting the hogs in the slime.  I like the way Fish managed the
+  cyber scene though.  Checked with timer.exe to show that no monsters
+  were alive, as well as to get the time.  Damn that's a nice program,
+  thanks Adam.
+  
+  Author:   Xit Vono
+  E-Mail:   xit_vono@yahoo.com

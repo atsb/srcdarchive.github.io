@@ -1,0 +1,17 @@
+Compet-N Contest #3 Entry
+=========================
+
+Description
+-----------
+Game    : Doom2 
+Skill   : 4
+Map     : 20 
+Style   : Speed Run
+Special : Spider Mastermind + Cyberdemon = death
+
+Player  : Rudy Jurjako, rudyj@total.net
+Time    : 1:11
+
+Comments
+--------
+Not much of an improvement, but I optimized some little bits here and there. In the end, whether the time is good or not only depends on how badly the Cyber and the Spider have hurt each other by the time you're ready to finish them off.

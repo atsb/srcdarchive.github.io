@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+pl13-233.txt
+pl13-233.zip
+
+pl13-233.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP13 - The Crypt
+
+=--------------=
+Kills      103%
+Items      100%
+Secrets    100%
+
+Time       2:33
+=--------------=
+
+C-N entry #114.
+
+Thanks to Henning for his strategy.  This
+demo resulted from a fairly lucky attempt,
+afterwards I had a hard time just getting
+below 2:40.  I thought my performance at
+the end scene was messy, as I demonstrate
+exactly why I hate the PE (the monster I
+favor the least from any doom game. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

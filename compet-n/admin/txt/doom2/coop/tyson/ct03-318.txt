@@ -1,0 +1,20 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Michael "OgreSlayR" Lastovica    (Akira101@comcast.net)
+           Green - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+
+game:     doom2
+category: coop tyson
+mission:  map03
+
+time:     3:18
+
+
+
+OgreSlayer : Pretty fun map overall for tyson. his was mainly for fun and 
+             not trying to get absolute best time.
+
+Vincent : A bit slower than solo, but we made that for fun...
+          
+Recorded using Kahn with a ping of 160 ms.
+          

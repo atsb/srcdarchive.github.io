@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/speed" Entry - Please forward it...
+
+PL11-057.TXT
+
+ PL11-057.ZIP
+
+  PL11-057.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills      0%
+  Items     81%           ********
+  Secrets    0%  and Time * 0:57 *
+                          ********
+
+
+Description: Sorry guys, I never thought it would be possible, but it was.
+	     Take the red key and leave the area without waiting. 2 seconds
+	     advantage. Maybe this map could be done one second faster, but
+	     I spent 2 hours on it and don't want no more. Archviles DON'T
+	     trigger the lines to open the doors, btw. So may way should be
+	     the fastest indeed.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://user.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

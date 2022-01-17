@@ -1,0 +1,19 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      14
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      12:53
+
+Author	   j4rio
+
+Another particularly
+unintersting map for
+this. It's all just
+hitscan luck whether
+you live through. I
+think time is rather
+nice. Even PE decided
+to suicide, which
+happenned very rarely.

@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop fast
+mission:  map07
+
+time:     0:46
+
+Vincent:  hmm ... a table filler
+
+xit-vono: This map is a bit nasty with all those mancubus fireballs and stuff.
+
+
+          

@@ -1,0 +1,35 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m224-339.lmp                        |
+            | Category: UV Speed                            |
+            | Map Level: MAP24 - Io Lab                     |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     70%                            |
+            |      Items     46%           ********         |
+            |      Secrets    0%  and Time * 3:39 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I hoped myk would return to/enter competitive demoing upon seeing my   |
+| obviously beatable 3:57 demo :) Anyway, I gave this map another try    |
+| and got 6 exits. This is the fastest, 2nd best was 3:48.               |
+|                                                                        |
++========================================================================+

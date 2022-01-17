@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV16-023.TXT
+   
+ LV16-023.ZIP
+
+  LV16-023.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills      2%               
+  (Items     0%)                    !!!!!!!!!!!!!!!!!!!!!
+  Secrets    0%  and Time: 00:23!   !! NEW TRICK ALERT !!
+                           ------   !!!!!!!!!!!!!!!!!!!!!
+                             
+
+Description: Ohhhhhhhhhh YES!
+
+Yes thats right, 23 seconds, due to my brand new and pretty
+damn cool trick.  This is the trick's history:
+
+I had downloaded ZDoom V1.18 and was messing around with it.
+I started playing throught the levels on Godmode looking at
+potential shortcuts you could take using Zdoom's features
+(jumping and standing on monster's heads).  Anyhow I reached
+level 16 and when I reached the exit, wondered if it was
+possible to squeeze through the final bars.  I tried for a
+a couple of minutes without sucess and seemed it wasn't going
+to work.  Then without warning it did!  I glided between
+the bars and completed the level.
+I immediately loaded up normal Doom 2 and started trying to
+repeat it, and managed to do it after about three minutes
+trying.  After that it took four hours of refinement and practice
+to get 23 seconds.   The trick is difficult at first,
+but if you get the right tactics it becomes easy enough in
+-nomonsters.  In UV, the trick is much harder due to the number
+of imps around.   In this demo my execution of the trick isn't
+very fast and I've no idea why I start shooting.  In my practice
+sessions I managed to get through the gap almost instantly a
+couple of times.
+
+Anyway, 0:23 isn't even close to the optimum, My fastest -nomonsters
+was 0:17 and that wasn't perfect.  If you skipped the ssg
+and did the trick instantly, you might be able to get 0:15.
+So basically I've left plenty of room for you people to
+improve upon this and I expect to see some results damnit! :)
+
+Jonathan Rimmer
+jon@rimmer.demon.co.uk

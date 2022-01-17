@@ -1,0 +1,27 @@
+This is a Final Doom .LMP "Competition" Entry - Please forward it...
+
+PN19-119.TXT
+PN19-119.ZIP
+
+PN19-119.LMP - Nightmare!
+
+Recorded using plain old Doom2.exe Version 1.9 - desynchs with Final Doom
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - The Plutonia Experiment - Level 19
+
+Kills     43%
+(Items   100%)
+Secrets  100%  
+
+   ...and Time     01:19
+                   -----
+
+Description: This is all Anthe's route. I tried to get the Cyber fighting
+             someone else so I could BFG him from close range, but didn't
+             have any luck with this...
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+6039RQ01.TXT
+6039RQ01.ZIP
+
+6039RQ01.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file requiem.wad reqmus.wad -playdemo with version 1.9
+
+Doom2: Requiem - Episode 1 - UV-MAX
+
+
+                                 Time     Kills     Secrets
+------------------------------------------------------------------------
+01 - THE GATEWAY                  0:59      100%      100%
+02 - SACRIFICIUM                  1:21      100%      100%
+03 - POISON PROCESSING            6:21      100%      100%
+04 - FIREWORKS                    5:15      100%      100%
+05 - THE CANYON                  10:54      100%      100%
+06 - NATAS OT ETUBIRT             9:57      100%      100%
+07 - HELL´S GIFT                  4:33      100%      100%
+08 - THE REACTOR                  9:09      100%      100%
+09 - DEEP DOWN BELOW              7:31      100%      100%
+10 - THE BLACK GATE               4:39      100%      100%
+
+Total                            60:39
+
+
+Description:
+            Well what have we here. I finally got through map07 with 100% kills.:) I wanted             to do this later this year but I couldn't get it out of my mind after the                   Memento Mori movie so here it is. While I enjoyed doing the mm movie, here,                 after 5 maps I got nervous and couldn't concentrate fully on the run. That's                typical for me. The mm run was easier than this but maybe only because I know               the mm ep.1 maps better. Oh and PLEASE someone do a Alien Vendetta max movie or             some other max movie so I can just sit and enjoy it and not criticize the whole             time how I screwed up that and that... :)))
+
+01: I don't like this map mainly because the tyson start. Below 1min. is acceptable for me.
+
+02: A good map.
+
+03: Finally this is one of the few lucky runs where the last blue door imp teleports in when     I still can kill him without a major time loss or 99% kills at end.
+
+04: The standart "get the SSG" map. :) Never try to fire a weapon that is out of ammunition     especially when facing two Chaingunners!!! If this was -fast i wouldn't be writing this.     Not awaking the last Cacodemons on first crossing the bridge really helped. 
+
+05: Got a bit confused sometimes as I forgot the route a few times. Used the -fast technique     which is safe but slow in the 2PE 2HK room mainly because I died quite a few times here.     It relly isn't the same while practicing and then going live.
+
+06: When aproaching the blue key and bumped the Baron I thought I'm dead. Then in the trap      room I tried not to hit the "un-trap" switch because when you hit it without all imps       teleported in it's "Q" -you can't get 100% kills when that hapens. Then a Caco almost       survived, luckilly he made me know that he's there. A very good map.
+
+07: The "one Arachnotron not teleporting in" bug didn't happen once since I release them        without being by the yellow key. Coincidence? Maybe, maybe not who knows. Lost some time     by healing but I wanted to start map08 healthy should something go wrong.
+
+08: Best music in ep.1 imo. Behold the Killer imp killing a Cacodemon with only one             fireball (previous SSG involvement doesn't count in :)). Great map.
+ 
+09: Behold the Return of the Killer imp!! Poor Mancubus. Except this nothing unusual happed     here but I was forced to "q" a few times in the past when only one Cacodemon teleported     in by the red key.
+
+10: This movie just would't be complete without a rocket in the face now would it.:) 
+
+Author: Tomas "DeDo" Kollar 
+E-mail: akollar@edoma.sk
+
+5.5.2004

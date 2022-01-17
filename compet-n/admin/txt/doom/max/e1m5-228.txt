@@ -1,0 +1,36 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m5-228.txt
+e1m5-228.zip
+
+e1m5-228.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M5 - Phobos Lab
+
+=--------------=
+Kills      100%
+Items       48%
+Secrets    100%
+
+Time       2:28
+=--------------=
+
+C-N entry #128.
+
+I followed Radek's lead with this one.. a fun
+level to play through, but being thorough at
+areas like the circular yellow room is tough
+with monsters milling wherever they please,
+so it got old faster.  Something interesting
+also happens later on at the blue key, but I
+had to watch the demo in slowmo to figure it
+out.. it seems like my rocket goes through a
+trooper and explodes in the center of the room
+(good fortune) but he just gets killed by enemy
+fire milliseconds before the rocket hits. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

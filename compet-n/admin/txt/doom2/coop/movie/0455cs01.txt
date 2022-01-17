@@ -1,0 +1,51 @@
+This is a Compet-N entry
+
+authors:	xepop
+			Looper
+            
+game:		DOOM2 version 1.9
+
+category:	Cooperative 2 players - Movie - Episode 1 - UV Speed
+
+Green	:	Looper
+Indigo	:	xepop
+
+		*------*
+Time:	| 4:55 |
+		*------*
+
+Levels					Time
+-----------------------------
+"Episode 1" :
+-----------------------------
+Entryway				0:07
+Underhalls				0:32
+The Gantlet				0:25
+The Focus				0:25
+The Waste Tunnels		0:28
+The Crusher				0:53
+Dead Simple				0:17
+Tricks & Traps			0:24
+The Pit					0:54
+Refueling Base			0:30
+-----------------------------
+Total					4:55
+-----------------------------
+
+Description :
+
+xepop :
+We set 4:59 for our goal. I thought it's ambitious goal, but possible 
+indeed. Our routes are heavily based on Radek and Vincent's coop runs 
+and the coop speed records for individual maps but with some of our 
+preferences. I think the next ones to run this episode probably needs to 
+come up something faster for Map07. That and better running in maps 06, 
+09 and 10 should yield 10-20 seconds. Funny moment in map06 though I'm 
+sure Looper cursed me couple times for that when playing :) 
+
+
+Looper :
+It was hard to get under 5mins but we did it! Some little mistakes here 
+and there but this time should be hard enough to beat. 
+
+08 - Oct - 2010

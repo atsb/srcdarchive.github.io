@@ -1,0 +1,37 @@
+This is a Doom .LMP "Competition" Entry
+
+lv05-023.txt
+lv05-023.zip
+
+lv05-023.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2 - Level 05 - The Waste Tunnels
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       0:23
+=--------------=
+
+Another implementation of the thing
+glide that seems to be popular recently.
+This is traditionally a trick specific to
+TAS movies, since the RL is required, but
+with enough luck, a monster glide can
+apparently suffice.  Even so... yes, this
+run is rather rough, so it's probably still
+not optimal, but it's still amusing. :o
+
+I included Sedlo's lv05-024, which is simply
+amazing and I hate to see it bumped from the
+tables because of this lucky+ugly run.  We'll
+see if that situation can be improved in the
+future.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

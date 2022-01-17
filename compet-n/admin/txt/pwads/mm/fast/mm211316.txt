@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm211316.TXT
+
+ mm211316.ZIP
+
+  mm211316.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 21 – UV Fast
+
+After seeing SAV88's max run on this map, I decided to try out a UV -Fast run, and it actually turned out better than I originally thought. I used some of his tactics (for example, the start) and then after that, I decided to fuse a bit of both of his and my strategies together and I get a time that's almost 6 minutes faster than Ryback's run.
+
+Author: Revved

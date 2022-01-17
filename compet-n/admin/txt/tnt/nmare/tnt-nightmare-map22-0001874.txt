@@ -1,0 +1,26 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt-nightmare-map22-0001874.lmp & tnt-nightmare-map22-0001874.txt
+Date     : 2018-3-11
+Game     : TNT: Evilution
+Client   : Competition Doom V2.0.3.2
+Category : Speed
+Map(s)   : MAP22: Habitat
+Skill    : 5 (Nightmare!)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 0%
+Items    : 5%
+Secrets  : 0%
+Time     : 18.74
+===================================
+Description: Suprised nobody thought of doing a run on this map given how short and easy it is. Oh sure beating the
+world record is pretty much impossible, but CNDoom doesn't really require beating the Compet-N record, so if
+anything, finishing this map under 20 seconds is still something. I'll be honest, I find this map to be a guilty
+pleasure for me, even despite the bad qualities. Although I will admit, it is dumb that you can finish the map just
+like this, seriously I don't think any other official map in the Doom series just lets you skip any form of
+challenge like this.

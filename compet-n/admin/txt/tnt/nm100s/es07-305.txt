@@ -1,0 +1,35 @@
+This is a Doom .LMP "Competition" Entry
+
+es07-305.txt
+es07-305.zip
+
+es07-305.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+TNT - Level 07 - Prison
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       3:05
+=--------------=
+
+C-N entry #131.
+
+Another undone bites the dust.  This
+one was a constant struggle, but the
+secrets all have the right items to
+keep you alive.  Tougher than es04,
+imho.  Enjoy. :)
+
+PS: Andreas' tn29 is also an es29, so
+that's also been done, but it needs to
+be changed in the database.  That leaves
+2, 8, 9, and 21 undone.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,26 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom-nightmare-e3m8-0001963.lmp and doom-nightmare-e3m8-0001963.txt
+Date     : 2018-2-19
+Game     : Ultimate Doom
+Client   : Competition Doom V2.0.3.2
+Category : Speed
+Map(s)   : E3M8: Dis
+Skill    : 5 (Nightmare!)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 25%
+Items    : 0%
+Secrets  : 0% (No Secrets in Map)
+Time     : 19.63
+===================================
+Description: I have to say, Adam really struck quite a gold run on this map. And then Kimo Xvirus came in with 18.97
+in time and that was perhaps the most luckiest RNG run for a boss map in Doom. Maybe some day someone will get 29
+seconds on E2M8 but well that would be assuming someone has the luck and patience to try that. I gotten 20-22
+seconds dozens of time until suddenly now I am at around 19 seconds. Well assuming anybody wants to beat this in the
+miliseconds, well go ahead. Though if you really want to go further, try below 19 seconds, now that is really just
+pushing your luck.

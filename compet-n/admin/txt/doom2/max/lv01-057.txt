@@ -1,0 +1,28 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV01-057.TXT
+
+ LV01-057.ZIP
+
+  LV01-057.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 01 - "Entryway"
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:57
+                           -----
+
+
+Description: It's real hard to make it with 100% kills and 100% secrets
+             under 01:00.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

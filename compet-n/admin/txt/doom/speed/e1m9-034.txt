@@ -1,0 +1,65 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+E1M9-034.TXT
+
+ E1M9-034.ZIP
+
+  E1M9-034.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM ver. 1.9
+
+  DooM - Ep.1 Mi.9. - Military Base
+
+  Kills     23%
+  (Items     6%)
+  Secrets    0%  and Time  00:34
+                           -----
+
+  Description :-)
+
+  This demo is more or less okay except for the scene with the
+  shotgunner in the red door room. I lost 1 sec there...
+  Anyway it's 3 seconds faster so I don't think it's that bad.
+  
+  I had some incredible tries, as 37.05 twice, then 36.34 then 36.14...
+  so 34.94 sounds great to me.
+
+  I think this level is quite a bitch when speedrunning. Even a player
+  with the best skills can do nothing here if luck isn't on his side.
+  Still, I think skill is needed, especially the first 10 seconds
+  is very important. As they say in Hungary: "Only the skilled have luck".
+  
+  I changed a few things to get a better run.
+  I changed the place where I get my shotgun, I think it's safer and
+  faster this way (because I can shoot the soldier while running).
+  I also have 2 very important shots when going back to the yellow door.
+  If these shots are successful, you can enter the yellow door with good
+  (>70%) health. I follow Anders' route there, until the red door.
+  There I chose to follow DL's tactics with blowing up the barrel in the
+  middle, then the barrels which guard the stairs and lastly the barrels
+  in front of the switch. I know the switch can be pressed through the
+  barrels, but sometimes it doesn't want to work for me, so I went for
+  the safe method. Another place of possible improvement.
+  From then it's just run and hope. For a good time, you need to get through
+  the demons with no timeloss and get the exit jump fast as well.
+  
+  I really don't know if there is an optimum time for this level, with a
+  healthy start one could go more aggressive and end up with a reasonably
+  better time. Somewhere around the 0:30 mark I suppose.
+  
+  I think this map is a very good challenge of speedrunning even if it's
+  annoying at times (MAP02 is similar). You need some good moves and basically
+  10 shots are enough to finish the level, but these 10 shots have to be
+  very well aimed.
+  
+  Hmmm, normally I don't write such long texts but recently I really hated
+  this map, and as I started doing it I began to like it. I don't worry
+  if someone comes and beats my time saying "Hey this was easy" because
+  I know there are better Episode 1 runners than myself.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

@@ -1,0 +1,37 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV26-627.TXT
+
+ EV26-627.ZIP
+
+  EV26-627.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 26 - Ballistyx
+
+  Kills    100%
+  Items     95%           ********
+  Secrets  100%  and Time * 6:27 *
+                          ********
+
+
+Description: Just the 3rd try I guess, so maybe the time is not that fantastic.
+	     I like that map, even if it is dark. Unlike with fast monsters
+	     you've got now the possibility to berserk the Spectres, and don't
+	     have to teleport at the backpack for the 20 shells. Maybe you
+	     should use that teleporter only if the Archvile teleports away,
+	     and you don't want to meet him in the open area. Or you telefrag
+	     him, even better. The yellow key is now a peace of cake, try to
+	     get it with fast monsters, it's hell then. Had no time for iddt,
+	     so I had to lizzen for Imps wandering around there. Maybe I played
+	     that map too much like I did with fast monsters, dunno. If you
+	     feel like you have to improve that time, do so. Less than 6:00?
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://user.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

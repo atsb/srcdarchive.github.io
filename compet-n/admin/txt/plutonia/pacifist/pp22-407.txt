@@ -1,0 +1,106 @@
+This is a Doom .LMP "Competition" Entry
+
+pp22-407.txt
+pp22-407.zip
+
+pp22-407.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP22 - Impossible Mission
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       4:07
+=--------------=
+
+C-N entry #208.
+
+Without a doubt, this is the most painful pacifist
+run I've ever done.  It was long known to be possible
+technically, but attempting this bastard just invites
+self-torture and anguish.  The way I even started my
+attempts with this run were completely random... that
+recent 30pl max run by Vince got me looking at the
+plutonia tables again for some reason.  I decided to
+mess around with map22 max, again, "for some reason"
+that I don't know.  Finally, I just decided to look at
+this run again, since Kristian Ronge recently finished
+a TAS run of it.  Anyway, my route here could probably
+benefit from some explanation, so here we go.
+
+I didn't have a foolproof method of approaching this
+level, since the route I finally stuck with has some
+very hairy situations late in the run, which is avoided
+if it can be helped.  The yellow key is grabbed last, so
+you can imagine that there must be some better method
+of handling this run... regardless, here it is step by
+step:
+
+1.  Get the blue key.  Before actually getting the key,
+I briefly stop over in the chaingunner maze and wake a
+few of them up.  This way, when I'm actually going for
+the key, they won't be in my way when I return later.
+Getting the key itself is easy, but must be done first
+for the route to work.
+
+2.  Run the maze.  This is the first lucky bit, since
+the final chaingunner can either choose to get distracted
+by chaingun fire, or simply stop in the doorway and wreck
+the run.  Either way, once past the maze, activate the
+switch and go through the teleport.
+
+3.  Red key room.  As soon as you arrive, make an attempt
+to grab the key.  If the archvile starts firing right
+away, bail and jump into the slime, since you can try it
+again later once you get the yellow key.  Health well
+above 100% is more important, IMO.  Anyway, once here,
+what needs to be done is to have all the enemies teleporting
+onto the pad killed, so you won't telefrag them when you
+return later.  Basically, you just have to wait around until
+no more appear.  Secondly, what causes the most boring part
+of the run... the archvile has to die so he won't be trouble
+once you return for the red key (assuming you missed it) AND
+so he doesn't revive any monsters that are on the teleport pad
+so you don't frag them when you return.  This is just a huge
+snorefest... but has to be done.
+
+4.  Yellow key run.  I really REALLY hated doing this late
+in the run, but for this route, I didn't have much choice.
+At least I had the most possible health, AND I had a chance
+to grab the green armor from the chaingunner maze first.
+Running to the key is not hard... but waiting for the ledge
+back home to clear out is rough.  You have to make sure its
+absolutely clear before you teleport up, or you'll invalidate
+the run due to telefrags.  This is a complete luck fest, since
+getting back out of the room is also tricky due to chaingunners
+following you from the maze and blocking the way out.  However,
+if all goes well, the way will be partially clear, so you can
+escape via the red key teleport.
+
+5.  The final rooms.  I screwed up the plan here but I'll explain
+it anyway.  Basically, I was going to hit the second switch from
+the bottom to open up the secret areas in the back.  This provides
+some health kits and more room to dodge the imps while waiting
+for the revenants to move away from the switch ledge.  I missed
+the switch completely, but still lived through the experience. :)
+
+Anyway, once switched, run like hell for the exit.  Even the exit
+scenario can be a pain because if you wait too long, the revenants
+milling around the exit teleporter will come into the alcove and
+block your path, and won't move backwards for ANYTHING.  I almost
+got blocked in by the revenants here but narrowly squeaked by.
+
+
+So, hope that clears things up, being my longest text file for a
+single level run.  Thanks to all the monsters who cooperated at
+the same time at long last, since now I can finally get back to work
+on school stuff... the run kept nagging me to come back whenever I
+got close. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

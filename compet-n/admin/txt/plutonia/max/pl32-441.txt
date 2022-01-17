@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL32-441.TXT
+
+ PL32-441.ZIP
+
+  PL32-441.LMP - Ultra Violence 
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  Final Doom - Level 32 - "Go 2 It" - Plutonia.wad
+
+  Kills   115%
+  (Items  100)            
+  Secrets 100%  and Time   04:41
+                           -----
+
+Description: Nice...Thanx Goes to Adam Hegyi for the cell-tips. Maby I can
+             return to D2-Max now? :)
+
+             Note: Cause Final Doom's exe cant handle the joyb_speed31, I
+             used the originall Doom2.exe (1.9). So, to get a correct
+             playback of this lmp, you'll have to run plutonia.wad 
+             together with Doom2's exe...got it? :)
+
+Author:    Anders Johnsen
+E-Mail:    gunjohns@online.no 
+Doompage:  http://home.sol.no/~doom/

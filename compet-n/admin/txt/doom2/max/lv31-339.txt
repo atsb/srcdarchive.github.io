@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N" Entry - Please forward it...
+
+LV31-339.TXT
+
+ LV31-339.ZIP
+
+  LV31-339.LMP - Ultra Violence (Secret Exit)
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills    100%
+  (Items     4)
+  Secrets  100%  and Time  03:39
+                           -----
+
+
+Description: Now I know what they shout: "Schutzstaffel" (SS)
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

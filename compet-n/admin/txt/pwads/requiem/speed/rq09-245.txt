@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ09-245.TXT
+
+ RQ09-245.ZIP
+
+  RQ09-245.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 09 - Deep Down Below
+
+  Kills     37%
+  Items      2%           ********
+  Secrets   20%  and Time * 2:45 *
+                          ********
+
+  Description :-)
+
+  Those jumps across the poison are nice, I didn't think it was
+  possible to get over.
+  However, I think I have an improvement for the red key room.
+  This keygrab that I found some time ago seems to be slightly
+  quicker than running below the wall and waiting for the raising
+  walkway. Seems it takes some luck to do the grab on first try,
+  though.
+
+  (Update: Seems Xit Vono also discovered the grab, according to
+  his Nightmare entry. He used another technique for UV speed though,
+  which I think looks slower)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

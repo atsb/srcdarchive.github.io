@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+MM14-246.TXT
+
+ MM14-246.ZIP
+
+  MM14-246.LMP - Ultra Violence!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+
+  Kills     50%
+ (Items     52%)          ********
+  Secrets  100%  and Time * 2:46 *
+                          ********
+
+  Description : 
+
+  Shaving yet more time off my previous record. I managed to do this
+  run in 2:36 when I was casually going through the mm maps, looking 
+  for what to do next. Because of the casual nature of that attempt,
+  I guess I was more relaxed and focused or something, but I also
+  wasn't recording. Just my luck...
+
+  Dan "SpinSpyder" Crowley
+  crow1126@bolt.com

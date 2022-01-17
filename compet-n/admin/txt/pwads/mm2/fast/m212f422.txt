@@ -1,0 +1,24 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m212f422.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP12
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     65%           ********
+  Secrets  100%  and Time * 4:22 *
+                          ********
+
+
+==============================================
+
+About a year ago I submitted my first C-N demo and
+changed my default difficulty setting from HMP to UV.
+Playing on -fast is a new thing to me, so I chose
+this easy map first and I wouldn't be surprised
+if someone called this demo "lame".
+
+Curious thing: a mancubus which is stuck on UV
+fires his missiles perfectly with a -fast setting.

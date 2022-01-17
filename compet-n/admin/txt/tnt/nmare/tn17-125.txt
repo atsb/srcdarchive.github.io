@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN17-125.TXT
+
+ TN17-125.ZIP
+
+  TN17-125.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 
+
+  Final Doom - TNT Evilution - Level 17 - Processing Area
+
+  Kills     43%
+  Items     60%           
+  Secrets   25%  and Time = 1:25 
+                          
+
+
+Description: Vincent wrote:
+             >should be possible under 1:30 w/o too much pain
+
+             And he's quite right too :) Health can be a problem at the
+             start this way, but once you've got the yellow key there's
+             only respawning to worry about. End was still a bit tense,
+             I started worrying when I missed the invuln...
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

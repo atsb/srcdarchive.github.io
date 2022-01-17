@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N &(!) Speed" Entry - Please forward it...
+
+LV30-032.TXT
+
+ LV30-032.ZIP
+
+  LV30-032.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+  Kills    100%
+  (Items    16)
+  Secrets    0%  and Time  00:32
+                           -----
+
+
+Description: Nobody beats me on this one ;-)
+             NOBODY !
+
+             Wondering why I run so slow at the end ?
+             I have forgotten to press <Space> again. ;-)
+
+             I wait long enough at the end so you can let
+             the monsters shoot and kill them for doing that.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

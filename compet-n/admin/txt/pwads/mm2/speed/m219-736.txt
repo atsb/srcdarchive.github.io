@@ -1,0 +1,50 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m219-736.lmp                        |
+            | Category: UV Speed                            |
+            | Map Level: MAP19 - The Shaft                  |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     52%                            |
+            |      Items     40%           ********         |
+            |      Secrets   40%  and Time * 7:36 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Lots of fun with this one! First, some checkpoints:                    |
+|                                                                        |
+|                 Me (8:37)    Xit Vono (7:57)   Me (7:36)               |
+|                                                                        |
+| Yellow key         :50           :41              :43                  |
+| Baron dead        3:06          2:36             2:29                  |
+| Red key           4:26          3:38             3:33                  |
+| "Mine" total time  :19           :24              :16                  |
+| "Lift" TT         1:33          1:26             1:29                  |
+| RL part TT         :45          1:06              :39 :)               |
+| "Church" TT        :55           :44             1:02                  |
+|                                                                        |
+| As you can see, all 3 runs have some moments of glory and some screw-  |
+| -ups. By listeting to the music I knew my YK pickup time was good.     |
+| Then I wait quite a long time for the main lift, so I wanted a spec-   |
+| tacular "stroller"-style entering the lift. Of course, I missed it :)) |
+| Somehow I convinced myself to continue the run. The biggest time saver |
+| is letting the 1st arch-vile alive and pray so he does not follow you. |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop speed
+mission:  map23
+
+time:     0:51
+
+Vincent:  no need to look a my view ;P that's not a coop map
+
+xit-vono: Basically I run and do my own thing.  The demo is ok.
+
+
+          

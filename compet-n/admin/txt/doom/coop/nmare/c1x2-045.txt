@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        NM Secrets
+Map:             e1m2
+Players:         2
+
+Kills:           30%
+Secrets:         100% 
+Time:            0:45
+
+Green:           Marko "Python" van der Want
+Indigo:          Arno "SlagDooM" Slagboom
+
+Comments:        A bit harder than HideOuts, but still quite easy.

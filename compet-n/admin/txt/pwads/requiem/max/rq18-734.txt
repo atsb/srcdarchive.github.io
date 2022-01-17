@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ18-734.TXT
+
+ RQ18-734.ZIP
+
+  RQ18-734.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 18 - Base of Thorn
+
+  Kills    100%
+  (Items    83%)          *********
+  Secrets  100%  and Time * 07:34 *
+                          *********
+                          
+
+  Description :-)
+  
+  Uneven spreading of armor and health. I made a safer version without the
+  mistake of running into the teleporter in the red key area. I think this
+  version makes it more interesting to watch.
+
+  Peo Sjoblom
+  peo.s@telia.com

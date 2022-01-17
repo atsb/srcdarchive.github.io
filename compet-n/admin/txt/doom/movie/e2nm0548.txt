@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2NM0548.TXT
+
+ E2NM0548 ZIP - Nightmare!
+
+  E2NM0548.LMP - Whole Episode on Nightmare!
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 2 - The shores of Hell
+
+
+Map:   Vince's Time:       My Time:
+-------------------------------------------
+E2M1   -   0:51              0:49
+E2M2   -   0:17              0:17
+E2M3   -   0:54              0:53
+E2M4   -   0:50              0:50
+E2M5   -   0:39              0:39
+E2M6   -   1:35              1:34
+E2M7   -   0:47              0:46 
+E2M8   -[Excluded]        [Excluded]
+-------------------------------------------- 
+total  :   5:53              5:48                      
+--------------------------------------------
+
+Comments:
+*********
+
+   A few days ago Vincent told me on mIrc he had no 
+   DooM inspiration at the moment. This could help him
+   a little bit. My run is just 5 secs faster than
+   his one, but I'm happy for anything below 6mins
+   since i'm not good in speedrunning. Anyway, I was 
+   hoping for better time in e2m6, but it's kinda hard
+   to not awake all those pigs. Pity I can't do the
+   rocket jump in e2m7, maybe AdamH wants to step in 
+   now ? ;)
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz 
+Doompage:  http://doomaniax.bonusweb.cz

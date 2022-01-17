@@ -1,0 +1,44 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+            _________________________________________________
+           /                                                 \
+           | PWAD: requiem.wad                               |
+           | Author: Various                                 |
+           | Demo filename: rf03-851.lmp                     |
+           | Category: UV -fast                              |
+           | Map Level: MAP03 - Poison Processing            |
+           |                    (by Iikka Keranen)           |
+           | Exe/Port used: Doom2 1.9                        |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     50%           ********         |
+            |      Secrets  100%  and Time * 8:51 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| A demo you'll soon forget about - it's so unspectacular. I got tired   |
+| of too challenging challenges and noticed this record was rather slow  |
+| compared to UV Max. Now I know why :) It may have something to do with |
+| being a 2001 demo by Xit, but more with how this map plays. You may    |
+| successfully use berserk agains hordes of spectres or against cacos    |
+| under normal circumstances, but with -fast monsters it's asking for    |
+| trouble, if lack of health was not troublesome enough for you.         |
+|                                                                        |
+| PS  Unfortunately, the "one out of nine imps not teleporting" problem, |
+| plaguing Max demos, happens sometimes with -fast monsters, too...      |
+| I had 8:35 with 99% kills.                                             |
+|                                                                        |
++========================================================================+

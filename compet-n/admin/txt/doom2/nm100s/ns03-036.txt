@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM03-036.TXT
+
+ NM03-036.ZIP
+
+  NM03-036.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 03 - "The Gantlet"
+
+  Kills     35%
+  Items     22%
+  Secrets  100%  and Time  00:36
+                           -----
+
+
+Description: I played this level as a free.lmp for my Doom2 Incubus.
+	I wanted to beat the 45sec of Andreas "Anthe" Kren from his
+	old Doom2 Master free.lmp. (Anthe´s lmps have inspired me to
+	seriously play Doom.) I made it with 40sec and I was happy.
+
+	One day later I downloaded the record in the Compet-N from
+	Yonatan "Paranoid Android" Donner with 37sec:
+	    "...so here it is, 0:37, not too good but
+		        	  who cares, it was very easy so..."
+	Hahaha. This wasn´t very easy or my new record will be beaten
+	in a few days. I will see it then.
+	My record was hard and I had many tries. Almost every part of
+	my lmp can be optimized, but a lmp must	be done in one piece.
+	This is the hard thing.
+
+	Hello to all Doom-players and bye bye!
+
+Author:      Frank "Jesus" Siebers
+
+16.08.1997
+
+E-Mail:   siebers@metronet.de
+
+Homepage: http://members.aol.com/siebers/doom.htm

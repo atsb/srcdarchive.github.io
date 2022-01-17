@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M207R410.TXT
+
+ M207R410.TXT
+
+  M207R410.TXT - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 7 - Frustration
+        
+  Kills    105%
+  (Items    63%)          ********
+  Secrets  100%  and Time * 4:10 *
+                          ********
+                          
+
+  Description :-)
+    
+  First exit. This was quite fun to do actually. I should
+  probably make more -respawn demos.
+
+  Jim “Xit Vono” Leonard
+  xit_vono@yahoo.com

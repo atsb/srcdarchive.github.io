@@ -1,0 +1,27 @@
+| This is a COMPET-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : TN30-125.LMP and TN30-125.txt
+Date     : 2018-1-19
+Game     : TNT: Evilution (TNT.WAD)
+Client   : DOOM2.EXE (Final Doom)
+Category : Speed
+Map(s)   : MAP30: Last Call
+Skill    : 5 (Nightmare)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 45%
+Items    : 50%
+Secrets  : 100%
+Time     : 1:25
+===================================
+Description: I thought going under 1:29 would be impossible, but instead, I went even further than that, 1:25 on
+Nightmare for this map! I was confident I had enough health so I skipped the second Soulsphere and Megaarmor of the
+map, to which it did saved some time seeing that I wouldn't have to worry so much over my health as it is. And to
+my best luck, I have killed the Icon of Sin quickly as it is, and even more crazy, I did a run faster than the
+UV-Speed COMPET-N record (by 1 second that is anyways). Pretty much there is no other strategy than to rush and hope
+you can kill that Icon of Sin faster than you can hear your character scream and die. And well, I did died but
+so did the Icon of Sin, and with the time I have gotten, I can't feel any happier. :)

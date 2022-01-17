@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM16-212.TXT
+
+ MM16-212.ZIP
+
+  MM16-212.LMP - Ultra Violence Speed! by Gusta
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 16 - Stoned 
+
+  Kills     28%
+  (Items     9%)          
+  Secrets    0%  and Time  2:12 
+                          
+                          
+  Description:
+
+  My 5th Compet-N Entry...  
+
+  Thanks to Spinspider for teleport-bug trick. It probably depends only 
+  on player's luck. In this demo I have one bad attempt. I still haven't 
+  managed to do the level without mistake :-((( so this is my best
+  time. I changed the route, instead of taking plasma and megasphere
+  I must survive the way to the supercharge in lava. Sometimes it's
+  frustrating, ecspecially the elemental and lost souls blocking the lift
+  are very annoying.     
+
+Author: Adolf "Gusta" Vojta
+E-Mail: hita@seznam.cz
+ 

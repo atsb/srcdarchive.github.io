@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM29p023.TXT
+
+ MM29p023.ZIP
+
+  MM29p023.LMP - Pacifist Style!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 29 - Island of Death
+
+  Kills        ?%
+  Items        ?%            ********
+  Secrets      ?%  and Time  * 0:22 *
+                             ********
+
+  Description :-)
+
+  I actually did this before the weekend, so I
+  haven't had the chance to see Altima and Erik's
+  demos yet...
+
+  I don't know if anyone else is aware of that
+  last hidden switch, but it might be helpful if
+  anyone is going for the speed record. I think
+  I saw it in an old Max demo, so credits should
+  probably go to Istvan.
+ 
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

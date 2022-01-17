@@ -1,0 +1,112 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+21NM4613.TXT
+
+ 21NM4613.ZIP
+
+  21NM4613.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 1 to Level 21
+
+
+
+
+			Kills  Secrets	TIME   Added
+
+LV  1 Entryway            11%     0%    0:12    0:12
+LV  2 Underhalls          92%   100%    1:57    2:09
+LV  3 The Gantlet         48%   100%    0:46    2:55
+LV  4 The Focus          121%    33%    1:53    4:48
+LV  5 The Waste Tunnels   36%     0%    1:16	6:04
+LV  6 The Crusher         80%    66%    3:17    9:21
+LV  7 Dead Simple        110%   100%    1:42   11:03
+LV  8 Tricks and Traps    66%    28%    1:34   12:37
+LV  9 The Pit             53%     0%    2:29   15:06
+LV 10 Refueling Base      44%    33%    2:14   17:20
+LV 11 O Of Death	  74%	 66%	2:00   19:20
+LV 12 The Factory         22%     0%    1:58   21:18
+LV 13 Downtown            43%    25%    3:05   24:23  
+LV 14 The Inmost Dens    112%     0%    3:18   27:41
+LV 15 Industrial Zone     23%    18%    1:07   28:47
+LV 31 Wolfenstein         55%    75%    1:24   30:11
+LV 32 Grosse              48%    33%    0:31   30:42
+LV 16 Suburbs             36%     0%    1:29   32:11
+LV 17 Tenements           98%     0%    4:42   36:53
+LV 18 The Courtyard       31%     0%    1:00   37:53
+LV 19 The Citadel         27%    66%    3:12   41:05
+LV 20 Gotcha!             42%    57%    2:25   43:30
+LV 21 Nirvana             91%     0%    2:43   46:13
+LV 22 The Catacombs      - almost reached the red door -
+ 
+			Total time:   46:13
+
+Description :)
+
+ Finally I got it...
+
+ Some words about the levels
+ -level  7: This time it's looks quite easy, but it's not for me...
+            It made me a lot of pain. 
+ -level 10: When I got my first invuln. I have 157% health, when I got
+            my second ... so not such a big deal here!
+ -level 12: One of the hardest maps for me... thanks goes to Gabor for 
+            the route, the rockets makes it way easier.
+ -level 17: The tricks invented by Daniel and Anthe helped me a lot... 
+            but I still made some mistakes there. Watch Steffen's 19nm
+            to find how hard it is without these tricks.
+ -level 19: The real nightmare for me begun here... This map is one of
+            my favorite maps, I like it... but this time the pink's made
+            me some surprises, maybe they learned my route, and want to
+            made me angry :))  ( loosing here 1 minute)
+ -level 20: This map is quite easy... but after such 19, I tought I 
+            better take a rather safe and slow route... :( 
+            (loosing 1 minute again)
+ -level 21: I had before this recording some other 20nm recordings (3 of
+            them), 
+            first I've tried Anthe's route -> dieing in yellow key room
+            then Steffen's route -> dieing in front of the switch which
+				    lowers the red key platform
+	    3rd I pressed some buttons too fast and the doom engine 
+            stucked me... :(
+	    So this time... Anthe's route again,it become rather close,
+            and a silly mistake made the end harder :) 
+	    Interesting, when I practiced this level, no mistakes at all.
+ 	    The problem is when I record I become very very excited :( 
+
+ -level 22: Died there,  but I think I had a real chance to do it...
+	    During the practice session I made it in quite good ratio.
+
+ 
+  My aim was to beat Daniel's 21nm recording, it's done! The time was no 
+  problem for me, but that bloody level 21 made me some pain. I got a 
+  20nm recording which is even faster than Steffen's split time in his 
+  30nm recording, this time I loosed about 3 minutes in my last 3 maps,
+  but the lower maps (I mean bellow 13) played quite well, so I'm satis-
+  fied with this recording. I was prepared even for level 23, but it  
+  depends on health, way lower chance there, level 24 is a nightmare for
+  me... I'll never make it!
+
+  Many thanks to Steffen, Daniel, Anthe for their wonderfull recordings,
+  my work was only to choose one of the routes, and practice it.
+
+  Thanks goes to Laci, and Gabor for being my partners in coop run, and
+  helping me a lot with their ideas and tips. 
+  ( it's a secret but Gabor is trying too, his current best is a 13nm, 
+    soon you can watch another great nm run )
+
+  Big hi to Yonatan, because he is a keyboarder like me, keep on good
+  work, we can save the keyboarder's reputation :) 
+
+  Hope you'll enjoy it!
+
+
+          	
+ Istvan Pataki
+
+ deity@balu.sch.bme.hu
+

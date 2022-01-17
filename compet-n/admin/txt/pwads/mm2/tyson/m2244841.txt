@@ -1,0 +1,99 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m2244841.lmp & m2244841.txt
+Date     : 2016-07-06 00:34
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map24: Io Lab, by Sean Birkel
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  96%
+Secrets  :  60%
+Time     : 00:48:41.83
+
+
+
+
+________________________________________________ _____________________
+| PWAD:          | mm2                         | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | m2244841.lmp                | |  Items      96 %  |
+|________________|_____________________________| |___________________|
+| Category:      | Tyson                       | |  Secrets    60 %  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP24 - Io Lab              | |            _____  |
+|                |                             | |           /     \ |
+|________________|_____________________________| | and Time: |48:41| |
+| Exe/Port used: | Doom2 1.9                   | |           \_____/ |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 06.07.2016                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| Oh this is very boring. On the way to the YK there are 4 revenants |
+| and a mancubus. First, I clear the initial room which later will   |
+| serve as a "monster storage". Monsters can only enter through one  |
+| opening (room exit) and I unlikely to get out, whereas the player  |
+| has three entrances / exits at his disposal. "Block Monster Lines",|
+| hehe. I lure the revenants, sometimes there are many imps, I use   |
+| one to clear the imps and then I punch it to death. Anyway, I only |
+| need the ammo for the mancubus, though I use it on lost souls or   |
+| sergeants or imps as well, I don't have patience to conserve every |
+| bullet.                                                            |
+|                                                                    |
+| I open one of the YK doors, the one without chaingunners. The      |
+| barons sometimes follow me straight away, I try to make them       |
+| infight against the revenants. The barons should win and stay      |
+| quite healthy, because I will need them again... Anyway, I can     |
+| pick up the only armor and slowly make my way onto the RK.         |
+|                                                                    |
+| Then there is the baron <-> cacodemon infighting, the satisfactory |
+| result is that the winning side has almost no HP left. Then there  |
+| is the dreaded fight against 2 pain elementals, which in my        |
+| practice runs cost me time, health and ammo. I decided to go for   |
+| the blur sphere and charge, this way I killed at least one of      |
+| them. As you can see, I could not sit patiently behind windows     |
+| and after some waiting I tried to kill the second one quickly as   |
+| well, and my health dropped from 191% to 39% and I almost did no   |
+| harm to the PE.                                                    |
+|                                                                    |
+| The BK is guarded by some hit point meatshields for which I need   |
+| the ammo. At the end I had revenants and barons, so I tried to     |
+| organize some more infighting, however one baron got to the acid   |
+| area, from which it could not get out... But anyway, I had just    |
+| enough bullets.                                                    |
+|                                                                    |
+| Highlight moments (the rest is zzzzzZzzZzzz...):                   |
+| 21:20 Super lucky. Both baron and spectre caught me by surprise,   |
+|       they "shoudn't be there..."                                  |
+| 29:43 Releasing pain elementals                                    |
+|                                                                    | 
+| Compet-N entry no. 148.                                            |
+|____________________________________________________________________|
+|             |      |                                               |
+| Old records | none |                                               |
+|_____________|______|_______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| doom2 -file mm2.wad mm2mus.wad -nomouse -skill 4 -warp 24          |
+| -maxdemo 999 -record xxx                                           |
+|                                                                    |
+| Playback with PrBoom+:                                             |
+| prboom-plus -file mm2mus mm2 -playdemo m2244841                    |
+|                                                                    |
+|____________________________________________________________________|
+
+

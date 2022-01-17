@@ -1,0 +1,17 @@
+Compet-N Contest #3 Entry
+=========================
+
+Description
+-----------
+Game    : Doom2 
+Skill   : 4
+Map     : 20 
+Style   : Speed Run
+Special : Spider Mastermind + Cyberdemon = death
+
+Player  : Rudy Jurjako, rudyj@total.net
+Time    : 1:04
+
+Comments
+--------
+Same route as Adam except I don't kill the sergeant at the beginning. It took me a long time to get this, I got *three* 1:05 along the way but it took me ~3 hours to get 1:04.

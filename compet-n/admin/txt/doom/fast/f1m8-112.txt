@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F1M8-112.TXT
+
+ F1M8-112.ZIP
+
+  F1M8-112.LMP - Ultra Violence WITH -FAST
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 8 - Phobos Anomaly
+
+  Kills     ??%
+  (Items    ??)
+  Secrets  100%    and Time  01:12
+                             -----
+            
+Description:	I don't enjoy playing this map, because there are so many
+		things that must work - how many pigs you manage to kill in the
+		beginning (whit the barrels), and it will help if the Spectres
+		and the Demons kill each other in the end.
+
+		This is not an optimised LMP, I wasted to mutch time killing
+		the pigs in the beginning, and killing the Spectres and the
+	        Demons in the end.
+		
+Author:    Jan Endre "Curly" Jansen
+E-mail:    gunjohns@online.no (temporary]
+Doompage:  http://home.sol.no/~doom/

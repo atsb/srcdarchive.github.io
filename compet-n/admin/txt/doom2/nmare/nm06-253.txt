@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV06-253.TXT
+
+ LV06-253.ZIP
+
+  LV06-253.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 6 - "The Crusher"
+
+  Kills     73%
+  (Items    11)
+  Secrets   56%  and Time  02.56 [ -:03 ]
+                           -----
+
+
+Description: This level is quite hard on nightmare,
+             the megaspheres makes it easier though.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

@@ -1,0 +1,93 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M3-NM1.TXT
+
+ E2M3-NM1.ZIP
+
+  N2M3-247.LMP \
+  N2M3-252.LMP - NightMare! ( CAN handle it! :-)
+  N2M3-256.LMP /
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 !
+
+  DooM - Ep.2 Mi.3 - Refinery
+
+  Kills     43%   48%   48%
+  (Items    61%   61%   61)
+  Secrets   66%   66%   66%  and Times  03:00  Tops ;-)
+                                        -----
+
+  Description :-)
+
+  A long time ago, Nicholas Spampata put in a request for a D1I DHT
+  exam and while he waiting for it he did E3M2-NM for the Compet-N.
+  Anyway, he got assigned E2M3-NM as the "hard" level for his title
+  (lucky sod ;-) see D1I-NRS.ZIP for that. Anyway again, I saw that
+  E2M3-NM still hadn't been completed for the Compet-N so I thought
+  I'd try to take this for an "easy" point - I completed it without
+  any real problems and thought... "So what's so hard about that...
+  That's NOT hard !!!" Here are three .LMP's that show that it does
+  not belong in the DooM (1) Incubus hard set.
+
+  Step 1: Run around the imps taking little or NO damage. Grab some
+  shells and go partially invisible. Run across the ooze and grab a
+  shotgun. Blast the skulls into oblivion - This helps clear a path
+  for later (Dead skulls don't -Respawn ;-) Now get the mega-armour
+  as it's there and it helps right the way through 'til the end :-)
+  Turn around and go for the plasma gun. Two more skulls to waste !
+  I like to save my cells for later, so shotgun the barrel and frag
+  the pinkoes. Some of the time I hold back with my shotgun when an
+  other pinkoe opens the door - this is to avoid the attention of a
+  waiting baron. On the third run it came in, but I ain't afraid of
+  these guys esp. not on E1M8-NM. Next, try to remember to get that
+  blue key [ I forgot this, twice, after the first run... hence the
+  time gap ;-) ] Now carry my trusty shotgun round to the blue door
+  and pick up any available health should I need it. Next, it's THE
+  time to unload some cells... Open up the blue door and don't take
+  ANY prisoners - Kill them ALL ! :-) Shotgun yet more imps/pinkoes
+  and take the invisibility. Now, shotgun or plasma ? It depends...
+  Anyway, I've got my route through the maze sorted - it may not be
+  the best but, "what shalls" (I don't give a rat's... ;-) Last bit
+  is to get the rad. suit, soul-sphere plus cells, then terminate a
+  cacodemon, plus the rest, and finish it. NO wocking furries ! :-)
+
+  Now you may still be wondering: "Why are there THREE .LMP's ?"...
+  Well, check out the date-and-time stamps - they were completed in
+  the same 20 minute session. The times are REAL. The only "fixing"
+  that has been done to them is that the waits at the end have been
+  set to 30 seconds...
+
+          N2M3-247 LMP     27534 18/04/96   12:44
+          N2M3-252 LMP     28166 18/04/96   12:55
+          N2M3-256 LMP     28734 18/04/96   12:59
+
+  So, three .LMP's of a D1I "hard" level completed over and over...
+
+  To Me, this says that it is either NOT hard OR I, MYSELF, am such
+  a bloody good Incubus player... ? What do YOU think ? ;-)
+
+  OKay, it's NOT hard. Many of the "medium" levels, eg. E1M6-NM and
+  E1M7-NM, are MUCH more difficult. This just goes to show that D1I
+  had become a lottery regarding which of the "hard" levels you got
+  assigned, but since it is now almost closed [ C'mon Uwe G. ! ] it
+  doesn't really matter - BUT regarding the D2I title... See ONE of
+  my NM13-???.ZIP files for comments ! Basically, this has become a
+  stupid race to get a damn exam...
+
+  F---R---A---N---K---!!!  [ Don't get TOO mad - I warned him ;-) ]
+
+
+  Now, I wonder... E2M3 on NM *AND* Under Par... I already know the
+  answer to this ! ;-) I'll do a much shorter .TXT for that one :-)
+
+
+ S.;-)  D1I  [ TWO ! Out-of-Base levels completed :-| ]
+
+ S. Widlake
+
+ s.widlake@rl.ac.uk
+
+

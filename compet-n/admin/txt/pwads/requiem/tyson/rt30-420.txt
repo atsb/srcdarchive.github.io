@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+________________________________________________ _____________________
+| PWAD:          | requiem.wad                 | |  Kills     366 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | rt30-420.lmp                | |  Items      94 %  |
+|________________|_____________________________| |___________________|
+| Category:      | Tyson                       | |  Secrets     0 %  |
+|________________|_____________________________| |___________________|
+| Map Level:     | MAP30 - Nevermore,          | |             ____  |
+|                |      by Adam Windsor        | |            /    \ |
+|________________|_____________________________| | and Time:  |4:20| |
+| Exe/Port used: | Doom2 1.9                   | |            \____/ |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 2.11.2012                   | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| I'm happy to have accomplished this. This is one of my best demos  |
+| in 2012. Credits to Altima Mantoid, I found some old thoughts of   |
+| him in the old Compet-N forums (waybackmachine.org)...             |
+|                                                                    |
+| Of course, it is 10000 times easier than ty30, but for me it'll    |
+| suffice.                                                           |
+|                                                                    |
+| Also, probably my first MAP30 demo ever :-P                        |
+|____________________________________________________________________|

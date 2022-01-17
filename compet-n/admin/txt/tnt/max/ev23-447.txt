@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV23-447.TXT
+
+ EV23-447.ZIP
+
+  EV23-447.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 23 - Lunar Mining Center
+
+  Kills    101%
+  Items    100%           *********
+  Secrets  100%  and Time *  4:47 *
+                          *********
+
+
+Description: 
+
+I recorded this at the end of October and didn't even notice it was a
+record until today. Should be easy to beat.
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

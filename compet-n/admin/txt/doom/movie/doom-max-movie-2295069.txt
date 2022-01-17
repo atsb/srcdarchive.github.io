@@ -1,0 +1,281 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom-max-movie-2295069.lmp and doom-max-movie-2295069.txt
+Date     : 2018-2-11
+Game     : Ultimate Doom
+Client   : Competition Doom V2.0.3.2
+Category : Max
+Map(s)   : Movie (E1M1-E4M9)
+Skill    : 4 (Ultra-Violence)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+*For Kills, Items, and Secrets on each individual map, scroll down below for the statistics.
+Time     : 2:29:50.69
+===================================
+Description: Decided to do another full Movie run of Ultimate Doom, of course going for Max with all kills and
+secrets. A pretty big cut in time compared to my last run, almost 23 minutes of time shorter than my previous run,
+and I didn't took a break or anything in this run, goodie. Of course I still had moments of slowing down such as
+with some of the Episode 2 and 4 levels, especially E4M3 and E4M6, where in E4M3 I almost got killed by just a lone
+Baron in a corridor and E4M6 where I blasted myself with a rocket and could have gotten myself killed. And being as
+far as I was, I was not willing to start over again, so slowing down a bit in favor of staying alive was preferable.
+I should really improve on the Episode 2 and 4 levels seeing that with Episode 1 it's pretty self-explanatory and
+Episode 3 there really isn't many ways to fail, but well that's for whenever I do another Movie Max run anyways.
+Really after E4M6 there's no excuse to fail as it is. Kind of wish the skybox wasn't so broken though on CNDoom when
+recording, since when not recording its fine, but when recording it's always the Episode 1 skybox. Maybe when CNDoom
+V3.0 ever comes, probably or probably not.
+
+### E1M1 ######################################
+#                                             #
+#   Time:  00:55.00       Kills:    29/29     #
+#  Items:    12/38      Secrets:     3/3      #
+#                                             #
+################### Total time: 00:00:55.00 ###
+
+### E1M2 ######################################
+#                                             #
+#   Time:  02:27.03       Kills:    79/79     #
+#  Items:    19/42      Secrets:     6/6      #
+#                                             #
+################### Total time: 00:03:22.03 ###
+
+### E1M3 ######################################
+#                                             #
+#   Time:  03:36.57       Kills:   131/131    #
+#  Items:    57/95      Secrets:     7/7      #
+#                                             #
+################### Total time: 00:06:58.60 ###
+
+### E1M9 ######################################
+#                                             #
+#   Time:  03:09.00       Kills:   103/103    #
+#  Items:    15/43      Secrets:     2/2      #
+#                                             #
+################### Total time: 00:10:07.60 ###
+
+### E1M4 ######################################
+#                                             #
+#   Time:  02:50.80       Kills:    85/85     #
+#  Items:    17/45      Secrets:     3/3      #
+#                                             #
+################### Total time: 00:12:58.40 ###
+
+### E1M5 ######################################
+#                                             #
+#   Time:  03:37.54       Kills:   131/131    #
+#  Items:    18/29      Secrets:     9/9      #
+#                                             #
+################### Total time: 00:16:35.94 ###
+
+### E1M6 ######################################
+#                                             #
+#   Time:  05:37.77       Kills:   177/177    #
+#  Items:    79/113     Secrets:     4/4      #
+#                                             #
+################### Total time: 00:22:13.71 ###
+
+### E1M7 ######################################
+#                                             #
+#   Time:  04:33.40       Kills:   150/150    #
+#  Items:    61/84      Secrets:     4/4      #
+#                                             #
+################### Total time: 00:26:47.11 ###
+
+### E1M8 ######################################
+#                                             #
+#   Time:  01:32.91       Kills:    32/41     #
+#  Items:     2/3       Secrets:     1/1      #
+#                                             #
+################### Total time: 00:28:20.03 ###
+
+### E2M1 ######################################
+#                                             #
+#   Time:  02:05.63       Kills:    54/54     #
+#  Items:    16/16      Secrets:     4/4      #
+#                                             #
+################### Total time: 00:30:25.66 ###
+
+### E2M2 ######################################
+#                                             #
+#   Time:  06:00.29       Kills:   103/103    #
+#  Items:    32/48      Secrets:    12/12     #
+#                                             #
+################### Total time: 00:36:25.94 ###
+
+### E2M3 ######################################
+#                                             #
+#   Time:  03:59.91       Kills:    72/72     #
+#  Items:    29/31      Secrets:     6/6      #
+#                                             #
+################### Total time: 00:40:25.86 ###
+
+### E2M4 ######################################
+#                                             #
+#   Time:  06:58.51       Kills:    69/69     #
+#  Items:    43/46      Secrets:    10/10     #
+#                                             #
+################### Total time: 00:47:24.37 ###
+
+### E2M5 ######################################
+#                                             #
+#   Time:  06:40.97       Kills:   112/112    #
+#  Items:    37/40      Secrets:    10/10     #
+#                                             #
+################### Total time: 00:54:05.34 ###
+
+### E2M9 ######################################
+#                                             #
+#   Time:  02:15.51       Kills:    14/14     #
+#  Items:     2/2       Secrets:     1/1      #
+#                                             #
+################### Total time: 00:56:20.86 ###
+
+### E2M6 ######################################
+#                                             #
+#   Time:  08:14.06       Kills:   111/111    #
+#  Items:    28/31      Secrets:     3/3      #
+#                                             #
+################### Total time: 01:04:34.91 ###
+
+### E2M7 ######################################
+#                                             #
+#   Time:  05:50.23       Kills:    95/95     #
+#  Items:    24/27      Secrets:     6/6      #
+#                                             #
+################### Total time: 01:10:25.14 ###
+
+### E2M8 ######################################
+#                                             #
+#   Time:  00:45.26       Kills:     1/1      #
+#  Items:     1/2       Secrets:     0/0      #
+#                                             #
+################### Total time: 01:11:10.40 ###
+
+### E3M1 ######################################
+#                                             #
+#   Time:  01:08.20       Kills:    26/26     #
+#  Items:     4/6       Secrets:     1/1      #
+#                                             #
+################### Total time: 01:12:18.60 ###
+
+### E3M2 ######################################
+#                                             #
+#   Time:  03:56.94       Kills:    44/44     #
+#  Items:     8/15      Secrets:     3/3      #
+#                                             #
+################### Total time: 01:16:15.54 ###
+
+### E3M3 ######################################
+#                                             #
+#   Time:  04:29.94       Kills:    57/57     #
+#  Items:     7/7       Secrets:     6/6      #
+#                                             #
+################### Total time: 01:20:45.49 ###
+
+### E3M4 ######################################
+#                                             #
+#   Time:  06:08.29       Kills:   140/140    #
+#  Items:    44/48      Secrets:     4/4      #
+#                                             #
+################### Total time: 01:26:53.77 ###
+
+### E3M5 ######################################
+#                                             #
+#   Time:  05:48.00       Kills:    81/81     #
+#  Items:    34/35      Secrets:    10/10     #
+#                                             #
+################### Total time: 01:32:41.77 ###
+
+### E3M6 ######################################
+#                                             #
+#   Time:  05:15.37       Kills:    94/94     #
+#  Items:    20/24      Secrets:     4/4      #
+#                                             #
+################### Total time: 01:37:57.14 ###
+
+### E3M9 ######################################
+#                                             #
+#   Time:  03:26.69       Kills:    84/84     #
+#  Items:    12/12      Secrets:     1/1      #
+#                                             #
+################### Total time: 01:41:23.83 ###
+
+### E3M7 ######################################
+#                                             #
+#   Time:  03:43.69       Kills:    38/38     #
+#  Items:     8/8       Secrets:     4/4      #
+#                                             #
+################### Total time: 01:45:07.51 ###
+
+### E3M8 ######################################
+#                                             #
+#   Time:  00:58.69       Kills:     4/4      #
+#  Items:     0/0       Secrets:     0/0      #
+#                                             #
+################### Total time: 01:46:06.20 ###
+
+### E4M1 ######################################
+#                                             #
+#   Time:  03:19.49       Kills:    63/63     #
+#  Items:    21/21      Secrets:     2/2      #
+#                                             #
+################### Total time: 01:49:25.69 ###
+
+### E4M2 ######################################
+#                                             #
+#   Time:  04:54.14       Kills:    76/76     #
+#  Items:    21/22      Secrets:     3/3      #
+#                                             #
+################### Total time: 01:54:19.83 ###
+
+### E4M9 ######################################
+#                                             #
+#   Time:  04:38.17       Kills:    85/85     #
+#  Items:    14/14      Secrets:     2/2      #
+#                                             #
+################### Total time: 01:58:58.00 ###
+
+### E4M3 ######################################
+#                                             #
+#   Time:  05:49.63       Kills:   140/140    #
+#  Items:     5/5       Secrets:    20/22     #
+#                                             #
+################### Total time: 02:04:47.63 ###
+
+### E4M4 ######################################
+#                                             #
+#   Time:  02:26.37       Kills:    60/60     #
+#  Items:    22/23      Secrets:     2/2      #
+#                                             #
+################### Total time: 02:07:14.00 ###
+
+### E4M5 ######################################
+#                                             #
+#   Time:  05:18.80       Kills:    73/73     #
+#  Items:    21/29      Secrets:     2/2      #
+#                                             #
+################### Total time: 02:12:32.80 ###
+
+### E4M6 ######################################
+#                                             #
+#   Time:  07:35.54       Kills:    97/97     #
+#  Items:     4/4       Secrets:     3/3      #
+#                                             #
+################### Total time: 02:20:08.34 ###
+
+### E4M7 ######################################
+#                                             #
+#   Time:  05:36.69       Kills:    97/97     #
+#  Items:    18/18      Secrets:     2/4      #
+#                                             #
+################### Total time: 02:25:45.03 ###
+
+### E4M8 ######################################
+#                                             #
+#   Time:  04:05.66       Kills:   106/106    #
+#  Items:     6/6       Secrets:     1/1      #
+#                                             #
+################### Total time: 02:29:50.69 ###

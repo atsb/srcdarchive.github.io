@@ -1,0 +1,38 @@
+This is a Doom "COMPET-N/doom" entry. Please forward it...
+
+E2M7-628.TXT
+
+ E2M7-628.ZIP
+
+  E2M7-628.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Map     7 - Spawning Vats
+
+  Kills    100%
+  (Items    70)
+  Secrets  100%  and Time  06:28
+                           -----
+
+
+Description: Silly design of the map. The silliest thing is the supercharge
+             hidden at the start plus the 100 cell box - Completely useless.
+             Then you can furthermore decide to run to the berserk or to go
+             for rocket launcher and plasma gun. If the second, you have to
+             run all the way back to the blue key. It's a level that looks
+             like, if you wanna make it fast, you have to use plasma on the
+             pigs (instead of berserk), and the result is an uninteresting
+             recording.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

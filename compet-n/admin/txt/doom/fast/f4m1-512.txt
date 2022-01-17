@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F4M1-512.TXT
+
+ F4M1-512.ZIP
+
+  F4M1-512.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  DooM - Episode 4 Mission 1 - Hell Beneath
+
+  With the -Fast option
+
+  Kills    100%
+  (Items    95)
+  Secrets  100%  and Time  05:12
+                           -----
+
+  Description:	This is infact a fun level to play. There is only one, or
+		shall I say two problems:
+			1. - Low on health
+			2. - Low on ammo
+		These two problems forces you to play the level a bit slow and
+                chicken like.
+
+		When watched it may look easy, but problem one and two 
+                make this level hard on -fast. So, at some stages I play 
+                safe and slow...
+		
+Author:     Jan Endre "Curly" Jansen
+E-mail:     gunjohns@online.no (temporary)
+Doompage:   http://home.sol.no/~doom/

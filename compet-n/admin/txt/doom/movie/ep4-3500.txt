@@ -1,0 +1,57 @@
+EP4-3500.TXT
+
+ EP4-3500.ZIP
+
+  EP4-3500.LMP - Episode 4 - Ultra Violence
+                   100% kills and secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only
+
+                            
+  Level    Kills  Items Secrets    Time   
+  -------------------------------------
+  e4m1  -   100%    66%   100%     3:21
+  e4m2  -   100%    68%   100%     4:31
+  e4m9  -   100%    57%   100%     3:59
+  e4m3  -   100%    80%    90%     5:26
+  e4m4  -   100%    47%   100%     2:15
+  e4m5  -   100%    34%   100%     3:39
+  e4m6  -   100%   100%   100%     6:39
+  e4m7  -   100%    88%    50%     5:10
+  -------------------------------------
+                     TOTAL TIME = 35:00
+                                  -----
+
+
+Description:
+
+Redid this because the levels I messed up last time were annoying me and I
+wanted to get the entire episode (including e4m8) under 40 minutes. I messed
+up e4m7 in a major way but other than that I was happy. 
+
+E4M1 (Hell Beneath)
+  Hardest level of the lot, down to 11 health.
+E4M2 (Perfect Hatred)
+  Under three times the compet-n record :)
+E4M9 (Fear)
+  Gained over a minute on my last time
+E4M3 (Sever the Wicked)
+  Rocket launchers at point blank range are not smart.
+E4M4 (Unruly Evil)
+  Lost a second here :-(
+E4M5 (They Will Repent)
+  Good time, nearly missed an zombie (it wandered onto a lift lowered by a
+  lost soul, leaving the area where it should be), luckily it came to get me.
+  The cacodemon at the start kindly appeared when I wanted it to.
+E4M6 (Against Thee Wickedly)
+  Fixed this one up, decent time.
+E4M7 (And Hell Followed)
+  STUPID! Forgot to pickup the blue key, wasted 30 secs retrieving it. Later
+  I thought I heard something so ran around hunting a non existant monster.
+E4M8 (Unto the Cruel)
+  ~3:45, taking total to 38:45.
+
+
+Author: Joe Breen
+E-mail: joebreen@octa4.net.au

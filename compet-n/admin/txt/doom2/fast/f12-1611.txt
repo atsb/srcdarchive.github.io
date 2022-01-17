@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F12-1611.TXT
+
+ F12-1611.ZIP
+
+  F12-1611.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 12 - "The factory"
+
+  With "-Skill 4 (and) -FAST"
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  16:11
+                           -----
+
+  Description :-)
+
+                   Another pain the butt map with -Fast on.
+  I tried a few times with the regular uv style to no avail
+  (ammo shortage), so I had to do it reasonable safe but not
+  "too long".
+
+
+ Peo Sjoblom
+
+ peo.sjoblom@mbox300.swipnet.se
+
+

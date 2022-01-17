@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PP28-141.TXT
+
+ PP28-141.ZIP
+
+  PP28-141.LMP - Pacifist Style
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  Final Doom - Plutonia Experiment - Level 28 - Sewers
+
+  Kills      ?%
+  Items      ?%
+  Secrets    ?%  and Time = 1:41
+                              
+
+  Description:  there are 3 annoyances in this map.
+		1 - getting the yellow key fast enough so the elevator doesn't trap you.
+		2 - surviving the 2 chaingunners when pushing that switch and on the way back.
+		3 - getting past the baron by the narrow corridor.
+
+ 		The arachnotron by the mega also screwed up one good run by blocking me.
+
+		this demo is far from perfect, crappy running and I even forgot
+  		the route at one point. The only improvements over Ryback's route
+ 		are skipping the rad suit and the (mostly useless) mega.
+
+  Erik Alm
+  erik_a80@hotmail.com

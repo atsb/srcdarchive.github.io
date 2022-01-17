@@ -1,0 +1,29 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV08-408.TXT
+
+ LV08-408.ZIP
+
+  LV08-408.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08 - Tricks and Traps
+
+  Kills    100%
+  (Items    80)
+  Secrets  100%  and Time  04:08
+                           -----
+
+
+Description: This level is really a pain in the...
+             You gotta have some luck with the Cyberdemon, he must
+             destroy most of the barons of hell or you will get a hell.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

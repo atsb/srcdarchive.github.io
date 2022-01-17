@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+F3M1-124.TXT
+
+ F3M1-124.ZIP
+
+  F3M1-124.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno
+
+  Mission 1 - Hell Keep
+
+  Kills    100%
+  Items     33%		   ********	
+  Secrets  100%  and Time  * 1:24 *
+                           ********
+
+
+Description: Much less problems with ammo, but difficult to escape the
+	     room with the Imps. Could be improved (how much?).
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

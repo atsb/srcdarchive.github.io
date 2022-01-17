@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM24F406.ZIP
+
+ MM24F4066.LMP
+
+  MM24F406.TXT -UV FAST
+
+  Recorded using "DooM 2 v1.9 - Memento Mori" ! (Complevel 2 ONLY!)
+  DooM2 -file MM.wad MMMUS.wad -PlayDemo with Version 1.9*
+
+  Memento Mori - Level 24 -Diehard by Dario Casali
+
+  Kills      100%
+  (Items      27%)           ********
+  Secrets    100%  and Time  * 4:06 *
+                             ********
+  C-N entry #5.		Date:04/10/2010 
+
+  Description :)
+  Sorry for not making many demos or youtube videos lately,
+  my main computer crashed and could hardly handle DOSBox with out
+  extreme lag, and fraps was to week to even launch properly.
+  But now I have a new computer so more demos will come shortly!
+  By! :)								  
+								
+								
+  By the way, COMPET-N record was 4:28 by Revved.
+
+  Note: Since this demo was recorded with MM.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/674/mm_allup.zip
+        and pick it up if you havn't already. Also, IMO this
+        map sounds better with MM2MUS.wad instead of MMMUS.wad
+        so pick up MM2MUS.wad at http://doomedsda.us/lmps/675/mm2.zip
+        Thank you :) 
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  *Recorded with just MM.WAD but then played back with both MM.WAD and
+   MMMUS.WAD. [DOSBox(version 0.73) used]		
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

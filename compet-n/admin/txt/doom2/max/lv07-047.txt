@@ -1,0 +1,79 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV07-047.TXT
+
+ LV07-047.ZIP
+
+  LV07-047.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - Dead Simple
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time   00:47
+                            -----
+
+
+  Description :-)
+  
+  Well... what to say here.
+  
+  Ever since I got that 0:48 last July, I had the idea
+  of this LMP in mind. There were two main reasons for that:
+  a, My time was 48.17 and it was so close,
+  b, I wasn't the first one to get it, Evgeniy Kaidalov
+  did it back in 1997, but his LMP was rejected because it
+  contained multiple attempts.
+
+  Since that day of July 1998, I've been trying to get this
+  run. It wasn't a pain -- everybody knows I love this map.
+  I never took trying seriously, just had fun playing, and
+  kept the better times I had. And the better times came,
+  one by one, but every single run had something I wasn't
+  satisfied it. I collected a few 0:48's too... but still
+  I wasn't able to beat my initial 48.17 time.
+  
+  I wouldn't say I played more in the last two days than
+  usual -- maybe one hour each day. But, there were some
+  signs. I got two 0:48's, but I didn't really feel like
+  I was going that fast. I also got a 0:50, where I ended
+  up the mancubus part with 6 rockets -- the only time I've
+  ever managed that (but I blew the ending).
+
+  Now something about this run. I'm quite satisfied with
+  it -- there are no major mistakes. It's not perfect
+  though, but on this map there is no such a word.
+  The mancubi part goes well. No missed rockets, 4 rockets
+  remaining, which is quite nice. The wall lowers faster
+  than usual (you can gain nearly a second on that).
+  Then 4 rockets kill 2 arachnotrons, this is really
+  exceptional. The plasma part goes great: I rarely miss
+  any plasma. Even the exit goes as planned, the Lee Killough
+  trick works. I have a little problem finding the exit switch,
+  but luckily I do and press it just in time. 47.94, huh.
+  
+  It's funny that the exit part reminds me of another LMP
+  (if you saw it you surely remember, check for uv7s4t49.lmp).
+  Too bad that LMP is thought somewhat "suspicious".
+
+  Anyway, if anyone cares, I'll put all my 51-sec or better
+  MAP07 demos on the Web somewhere. Get them if you're interested.
+
+  A few times I thought I'm done with this map, but I always
+  found something to do. If anyone wishes to beat my times, I wish
+  him good luck.
+  
+  As you might've noticed, I have been less active as a player
+  in the past few months. There are a few reasons to that, most
+  importantly I'd like to spend more time with Real Life than with
+  the virtual world. That doesn't mean I'm retiring, or I'm done
+  with DOOM or COMPET-N; it just means I only play if it feels
+  fun.  
+
+  Keep on DOOMing!
+
+  Adam Hegyi
+  ha211@hszk.bme.hu  

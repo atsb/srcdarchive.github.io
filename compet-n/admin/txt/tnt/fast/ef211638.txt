@@ -1,0 +1,114 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ EF211638.LMP
+
+ Final DOOM - TNT: Evilution - MAP21 - Administration Center
+ Ultra Violence with fast monsters!
+
+  Recorded using the Final DOOM DOOM2.EXE v1.9
+  but plays back fine with the DOOM][ executable as well
+
+  Kills      100%
+  Items       72%
+  Secrets    100%
+  ---------------
+  Time      16:38
+ 
+  Another by-product of my TNT UV Max movie project, and this one is
+  a by-by-product, actually. =) After getting to MAP23, I suddenly 
+  realized that I don't know the later levels all that well, so it 
+  seemed like a good idea to secure a max run of the third episode
+  first. As every death brings you back to this level, I got quite a
+  play out of it.
+  When I got bored dying at the end of Mount Pain, I started to look
+  for an excuse to do something else. Sometimes boredom is a good 
+  thing (without it there would have been no NM demo of !PIPE!.WAD),
+  and here I had a good excuse: the only -fast demo on this map dates
+  back to the Final DOOM GM demopack. The reason the record has stood
+  for almost 11 years is probably explained by the map's reputation
+  as one of TNT's biggest and ugliest, on par with the above-mentioned
+  Mount Pain (MAP27). Well, having run through it several dozen times,
+  I can second Xit Vono's opinion that this reputation is largely 
+  undeserved and the map is eminently playable, though it is more fun
+  on -fast than plain UV.
+
+  Kai-Uwe Humpert provided some insightful notes with the original
+  TNT21-GM.LMP (BTW, what happened to that good old-school tradition
+  of extensive descriptions detailing routes and recording sessions?
+  I really love reading those, even for maps I don't much care for. 
+  In fact, a good TXT can make you take another look at something
+  that everybody says sucks, and see it in another light.) So yeah,
+  Kai's notes are interesting, and it is clear that he didn't like
+  the map at all ("Style: 2 - Just don't play it."). IMO, however,
+  that is in large part because of *the way he played* it, not 
+  because the map is so bad. Not that I want to diminish Kai's 
+  achievement - after all he bravely took up all the maps noone else
+  on the team wanted to record, including that little gem with the 
+  pretty mountain at the end) - but in demo recording the approach
+  is as important as the map itself. If you don't enjoy the recording,
+  if you only cower around the corners, cursing the map between taking
+  potshots, just wishing the whole damn thing was over already, you 
+  can't really expect the viewer to be thrilled either. So I set 
+  myself a goal of making a going-all-out-with-guns-blazing demo, even
+  if I   had to die a hundred times in the process. To paraphrase 
+  the immortal words of Private Hicks from Aliens, I wanted a stand-up
+  fight, not another bug hunt. :P
+
+ *** SPOILERS AHEAD - better watch the demo first! =) ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The very first thing I decided to do different is the beginning. 
+  There is no urgent need to go all around the the map killing the
+  Chaingunners and Imps in the alcoves. That looks (and plays) awful
+  tedious, and they don't really bother anybody. The ones in the 
+  immediate vicinity can be dealt with quickly enough, saving you
+  the precious ammo that is scarce at the start for more important 
+  things, like securing the Red Key and getting on with the route.
+  The map is rather linear early on, and any route you pick later, 
+  you will have to pass by those alcoves anyway.
+  There are few shortcuts, but I did manage to dig up something I'd 
+  never seen done on this map - I won't spoil it for you, but it's in 
+  the Rocket Launcher chamber :). As usual with TNT levels, there is 
+  much running around to be done, but that can be kept to the minimum
+  with an efficient route. The one I finally settled on is largely my
+  own; a player with a better skill might not need the one or two
+  side trips to replenish health that I had to take, though.
+  The BFG room must be the critical juncture. If you don't dispatch 
+  the PE quickly, it is easy to get entangled in the sea of Lost Souls
+  and the mad crossfire of Imps' fireballs and Skeletons' rockets. 
+  I hope that this demo proves that "Hide" is not the only solution to
+  this challenge, however. =) In fact, it's possible to do it without
+  the Megasphere, saving it for the exit area. I had mixed results with
+  that, though, and in the end decided that the Cyber at the end was
+  not half as bad as the BFG room. In fact, I could have cut the demo
+  by a minute or so, but I just couldn't resist the temptation of 
+  baiting the Cybie with the Imps' volleys and finishing him off with
+  just two BFG shots right up the ass - and you don't even need the 
+  Invul for that, heheh.
+  
+  Damn, I hope I didn't spoil all the fun; you did watch the demo first,
+  didn't you? ;)
+
+  Never_Again
+  tpoppins@juno.com
+
+  P.S. I dedicate this demo to the memory of Bobby Fischer, the 
+  uncompromising fighter on and off the chessboard who passed away
+  yesterday. R.I.P., Crazy Diamond in Caissa's tiara.

@@ -1,0 +1,30 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+NM32-011.TXT
+
+ NM32-011.ZIP
+
+  NM32-011.LMP - Nightmare !
+
+  Recorded using Doom2 Version 1.9 !
+
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 32 - Grosse
+
+  Kills     24%
+  (Items    33%)          *********
+  Secrets    0%  and Time * 00:11 *
+                          *********
+
+  Description :-)
+
+  This is slightly easier than UV, having 4 rockets
+  you don't need the cyber to take out 2 keens (which
+  is very rare), however having to shoot one more rocket
+  means more time is spent in the exit room, so the running
+  has to be perfect.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu 
+

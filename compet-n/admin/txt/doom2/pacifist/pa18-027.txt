@@ -1,0 +1,19 @@
+PA18-027.TXT
+
+ PA18-027.ZIP
+
+  PA18-027.LMP - Ultra Violence and Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 18
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:27
+                           -----
+
+  Description:  [ None received. ]
+          
+       Author:  Istvan Pataki
+

@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV03-625.TXT
+
+ EV03-625.ZIP
+
+  EV03-625.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 03 - Power Control
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  06:25
+                           -----
+
+
+Description: Mh, as usual I don't know all the secrets, that's why I
+             teleport to every corner house there is. Not a nice level
+             but small enough to be played.
+             Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

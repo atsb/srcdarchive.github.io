@@ -1,0 +1,42 @@
+This is a Doom .LMP "Competition" Entry
+
+ps27-054.txt
+ps27-054.zip
+
+ps27-054.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP27 - Anti-Christ
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time        :54
+=--------------=
+
+C-N entry #98.
+
+As with pn27, credit goes to Adam Hegyi
+for the yellow door trick.
+
+You get a whole minute of invincibility
+for this run, so the only trick is to tag
+the sectors and run to the end. :)
+
+BTW, my table-filling, demo-recording
+frenzy is over for now.  I will try to
+attempt the last of the ps runs (12,23,25)
+but the chances of any of them getting done
+are still a question of time..
+
+Also, Sedlo said he might attempt pn12 with
+the trick jumps, since several people have
+asked him to do it.  That would finally
+complete the plutonia nightmare speed table!
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,32 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm191815.lmp & mm191815.txt
+Date     : 2013-10-04 12:08
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map20: Montain Depot, by Scott Lampert
+Skill    : 4
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 104%
+Items    :  46%
+Secrets  :  66%
+Time     : 00:18:15.14
+===================================
+Description:
+
+Reminder: One sergeant cannot be killed, so this demo is valid,
+at least in terms of kills %.
+
+It is possible to do it much faster if the cyber gets stuck and eaten
+by demons.
+
+Cyberdemon's things ID = 19.
+
+===================================

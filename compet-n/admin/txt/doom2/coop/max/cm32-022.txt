@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CM32-022.TXT
+
+ CM32-022.ZIP
+
+  CM32-022.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 32 - "Grosse"
+
+           Kills    Items   Secrets
+
+  Green     27%      33%      33%      Adam
+  Indigo    60%      33%      66%      Waldon
+
+
+              *********
+     and Time * 00:22 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+  
+  Adam could finish this map very quickly,
+  and I had to grow up to his speed. Fast
+  kills, and a good cooperating route was
+  needed for me. His part was perfect, but
+  what did you expect from the ruler of Map32? :)
+ 
+  [ Adam : ]
+  
+  Gotta say I really love this map :)
+    
+  Authors:
+  
+  Laszlo Vecsei
+  waldon@matavnet.hu
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

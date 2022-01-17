@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+PN31-539.TXT
+PN31-539.ZIP
+
+PN31-539.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 31 - Cyberden
+
+Kills     87%
+Items    100%
+Secrets    0%
+Time     5:39
+         ----
+
+Description:
+Entry #25, and I had no idea what I was getting myself into with this one.
+
+This is not the greatest performance by me, but it was by far the hardest.
+Playing this map on nightmare took its toll on my nerves.
+
+It takes more strategy than one would expect to play this one on nightmare,
+mostly to guide the cyberdemons to the right places so you can safely go about
+your business.  Overall performance can be considered messy, and there was
+one point after I grab the yellow key where I should have ate a rocket.  You'll
+know it when you see it. :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

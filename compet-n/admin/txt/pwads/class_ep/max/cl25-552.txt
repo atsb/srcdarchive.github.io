@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL25-552.TXT
+
+ CL25-552.ZIP
+      
+  CL25-552.LMP - Ultra Violence !
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M5 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 05:52 
+                             
+                          
+
+  Description: I like this one, lots of weaponry and secrets. Doesn't
+               take too long to work out where to go, still there's
+               probably lots of optimisations I missed. Run is fine up
+               until the end, where I got myself in trouble...
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

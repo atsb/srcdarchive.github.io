@@ -1,0 +1,65 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M232-028.TXT
+
+ M232-028.ZIP
+
+  M232-028.LMP - Ultra Violence !  Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 32 - Dances With Demons
+      
+  Kills      6%
+  (Items    25%)          *********
+  Secrets    0%  and Time * 00:28 *
+                          *********
+                          
+
+  Description :-)
+  
+  Well, this demo has a pretty funny background story,
+  which you probably won't find half as funny as I did,
+  but I don't care and I'll tell anyway (heh).
+  
+  This all happened a few days ago as I downloaded the
+  latest batch from /incoming. I checked out the text files
+  as I usually do, then left watching them for later. Then
+  some days later I was checking them out again, and saw
+  Opulent has a m232r116, and I thought "Woah, Anders did
+  a Max in some 2 minutes, big improvement let's see how
+  it's done", so I watched his run and decided that this
+  level could be pretty good for speedrunning. So I loaded
+  up the editor with MM2.WAD and checked out MAP32, wandered
+  out for a few minutes in the editor trying to figure out
+  the way to the exit (it's pretty damn confusing when you
+  watch a maxkill demo and don't know which switch does what).
+  So I sat down playing and quickly realized the cyber scene
+  is pretty much the key scene, and somewhat later I got my
+  first exit of 0:45. I thought, well that's not bad compared
+  to Opulent's 1:16 -respawn, and it's a first exit anyway
+  why not uploaded it. So I went back to my directory of the
+  new demos (D:\incoming\tmp29\ - for no logical reason),
+  and wanted to borrow one of Opulent's text files (usually do
+  that to spare some writing). So I was kind of shocked when
+  I realized Opulent already recorded this map in a speedrun,
+  and his time of 0:35 pretty much makes my time look like
+  a newbie finish. So I thought, "He damn better use a different
+  route or I'm gonna eat my hat", so I went to check out his
+  demo, and if you'd been sitting besides me then, you would've
+  heard me go "Aaaaaah! Aha! Hmmmmmm...", etc.
+  
+  So I quickly decided I should give it another go :)
+  
+  So here it is, I didn't improve much on the route except that
+  you don't need the rocket launcher, I wanted to have a megasphere,
+  but the mancubus also wanted it and I didn't want to argue with him,
+  also not shooting is a pretty good idea because it doesn't wake
+  up the teleporting monsters, in fact I ended up so well in not
+  shooting anyone that it became a pacifist run, that's pretty nice.
+  It's a pretty low 0:28 and some bad moments here and there so
+  feel free to improve.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

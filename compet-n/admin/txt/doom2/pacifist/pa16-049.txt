@@ -1,0 +1,14 @@
+PA16-049 --> LV16 on Pacifist
+-----------------------------
+
+Kills   :  5%
+Items   : 20%
+Secrets :  0%
+TIME    : 00:49
+
+Comments: The previous time on Rini's Pacifist Collection was very slow.
+          The first time I tried this I got 1:11 but I was sure I could do
+          better. The second time I skipped the Megasphere and moved very
+          fast and got this.
+
+Robert J. Reevy <iudex@usa.net>

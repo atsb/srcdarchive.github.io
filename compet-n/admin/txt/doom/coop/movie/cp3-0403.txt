@@ -1,0 +1,32 @@
+This is a   COOP-N ENTRY .lmp 
+
+players:    Jakub "method_man" Razak <dale007@volny.cz> - Indigo
+	    Ondrej "RaideR" Vosatka <raiderr@email.cz>  - Green
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie 
+            
+level:      Episode 3 - Inferno
+            
+stats:      
+
+   Level       Time        
+                        
+---------------------------------
+   E3M1        0:36  Shit cacodemons     
+   E3M2        0:15  normal
+   E3M3        0:29  Cool,blue armor :)
+   E3M4        0:49  Yellow key grab=no problem
+   E3M5        0:28  Raiderr did a lot of work here ;)
+   E3M6        0:28  OK
+   E3M7        0:58  ..damn dark red labyrinth..  
+   E3M8        -:-- (Excluded)        
+---------------------------------
+  ******************
+  *Total       4:03*
+  ******************             
+  
+  Raiderr&method.spol.lol:
+  We did the demo in quite little time..finally, all levels under one    minute..It would be faster.
+  

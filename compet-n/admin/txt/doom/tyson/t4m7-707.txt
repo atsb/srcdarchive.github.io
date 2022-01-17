@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+T4M7-707.TXT
+
+ T4M7-707.ZIP
+
+  T4M7-707.LMP - Ultra Violence - TYSON
+
+  Recorded using Ultimate DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 4 Mission 7 - And Hell Followed
+  
+  Kills      100 %
+  Items      100 %           ********
+  Secrets     25 %  and Time * 7:07 *
+                             ********
+	
+
+  Description :-)
+
+  Some more route improvements, internal monster
+  fights, and telefragging a caco...
+
+  I almost deleted this before it occured to me
+  that max secrets might not be required in Tyson
+  style... (thanks to vincent and henning for
+  confirming this)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA01-046.TXT
+
+ FA01-046.ZIP
+
+  FA01-046.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 1 - "Entryway"
+
+  With "-Skill 4 (and) -FAST"
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time  00:46
+                           -----
+
+  
+  Description :
+
+  Not bad.
+  
+  Ian Sabourin
+  iansabourin@sympatico.ca

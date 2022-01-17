@@ -1,0 +1,83 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1943UV11.TXT
+
+ 1943UV11.ZIP
+
+  1943UV11.LMP - Ultra Violence
+
+  This is a Compet-n/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 2" - Levels 11 to 20 (inc. 31 and 32)
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 11        73%   52%   66%       2" 17     (125 156)
+  LV 12        14%   20%    0%       1" 44     ( 85 105)
+  LV 13        31%   16%    0%       2" 07     (101  24)
+  LV 14        66%   50%    0%       2" 00     ( 64  41)
+  LV 15        11%   12%   18%          57     (100  21)
+  LV 31        39%    4%  100%       1" 20     (200 171)
+  LV 32        27%   66%   16%          23     (176 150)
+  LV 16        16%   20%    0%          51     (173 148)
+  LV 17        82%   56%    0%       4" 30     (129 135)
+  LV 18         5%   41%    0%          43     (186 153)
+  LV 19        17%    1%   22%       1" 32     (134 107)
+  LV 20        28%   11%    0%       1" 19     ( 95 110)
+
+                     Total Time =   14" 343
+                                    14" +
+                                     5" 43
+                                    ------
+                     TOTAL TIME =   19" 43
+                                   --------
+
+
+Description: About the levels:
+
+             Level 11 Is a pain in the ... not because it's hard but because
+             of the pain elemental near the end, he's blocking your
+             way (just before the room with the caco-demons) and you simply
+             can't get passed him (you will fall down at the poison floor
+             and you have to rerun the whole thing, takes too much time),
+             only with a great deal of luck can you run by him, I did, but
+             I tried severel times. The time is very good, almost
+             perfect. Though I believe you could leave the Invunarability.
+
+             Level 12 I took the Super Shotgun cause I don't know how to play
+             without it (In speed mode that is). Time is average.
+
+             Level 13 I'm satisfied with this level, the time is good.
+
+             Level 14 Rather easy level if you plan it well, I'm satisfied
+             with the time.
+
+             Level 15 Very fast level this one, the time is good.
+
+             Level 31 Very easy level. Maybe you shouldn't take the things
+             beyond the demon-room...
+
+             Level 32 Just run and fire rockets.
+
+             Level 16 Rather easy level and very fast, time is very good.
+
+             Level 17 This is a real slow level, a lot of weapon changing
+             is the main reason for that. The time is rather good.
+
+             Level 18 Not much to say, just run and use BFG.
+
+             Level 19 I still can't understand the door-button thing...
+
+             Level 20 Rather good time, though I walked back into the
+             teleporter.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

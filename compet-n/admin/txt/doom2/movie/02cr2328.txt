@@ -1,0 +1,82 @@
+This is a DooM .LMP "Competition/misc" Entry
+
+02CR2328.TXT
+
+ 02CR2328.ZIP
+
+  02CR2328.LMP - Limited weapons multi-level speedrun
+                 using only weapon 1&&5
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Description: What's the weakest combination of weapons that still is
+               sufficient to do all DOOM/DOOM2 episodes?
+               Yes it's (C)hainsaw/fist && (R)ocketlauncher. This is a very
+               nice combination imo.
+               This shows episode 2 of DOOM2, which is really fun to play.
+               I recommend to try this. If this is too easy for you,
+               go ahead and record UDOOM episode 4.
+               In some maps which are impossible (or extremely hard) in
+               pacifist style, the CR style is fun for single level
+               recordings too.
+                  
+                           TIME
+                  Map 11   1:56
+                  Map 12   1:25
+                  Map 13   3:02
+                  Map 14   4:12
+                  Map 15   1:08
+                  Map 31   0:43
+                  Map 32   0:34
+                  Map 16   1:08
+                  Map 17   5:06
+                  Map 18   0:42
+                  Map 19   2:11
+                  Map 20   1:27
+                              
+                     Total Time =    19" 268
+                                     19" +
+                                      4" 28
+                                     ------
+                     TOTAL TIME =    23" 28
+                                    --------
+
+               Some comments on the levels:
+
+               Level 11: The most challenging map in this run, and great
+                         fun too.
+
+               Level 12: The rocketlauncher makes things easy.
+                       
+               Level 13: I take the chainsaw and collect lots of rockets.
+                         Besides this I telefrag the mancubus - just for
+                         fun.
+
+               Level 14: Uups got a rocket in the face here.
+
+               Level 15: Taking the secret exit and running out of rockets.
+             
+               Level 31: Just run through.
+             
+               Level 32: Don't like to waste rockets here.
+            
+               Level 16: Got hit by the archvile again.
+                       
+               Level 17: This is much easier than expected -
+                         as long as you safe three rockets for the last
+                         spider ...
+                       
+               Level 18: See why we need weapon 1 too?
+
+               Level 19: This can be tricky, if you get trapped
+                         by the spectres. That's why I open the main exit
+                         first. Some rockets are missing at the red key
+                         spider though.
+                       
+               Level 20: No big difference to normal gameplay.
+
+       Author: Steffen "Rini" Udluft
+
+       E-mail: rini@mppmu.mpg.de
+

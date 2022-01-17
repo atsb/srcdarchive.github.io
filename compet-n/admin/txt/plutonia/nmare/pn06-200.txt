@@ -1,0 +1,28 @@
+This is a Final Doom .LMP "Competition" Entry - Please forward it...
+
+PN06-200.TXT
+PN06-200.ZIP
+
+PN06-200.LMP - Nightmare!
+
+Recorded using plain old Doom2.exe Version 1.9 - desynchs with Final Doom
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - The Plutonia Experiment - Level 06
+
+Kills     60%
+(Items    25%)
+Secrets   16%  
+
+   ...and Time     02:00
+                   -----
+
+Description: Nearly five minutes improvement over Istvan's original demo.
+             It really wasn't hard, don't know why it's been a record
+             for so long. This was my second try on this route...
+             Things can still go faster, especially at the start.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

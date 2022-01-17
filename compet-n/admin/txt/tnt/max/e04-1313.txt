@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+E04-1313.TXT  (restricted to an 8 byte name from: EV04-1313 :)
+
+ E04-1313.ZIP
+
+  E04-1313.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 04 - Wormhole
+
+  Kills    103%
+  (Items   100)
+  Secrets  100%  and Time  13:13
+                           -----
+
+
+Description: Ok, it's a large level, and there is a lack of ammo, if
+             you don't use chainsaw at the beginning. Sometimes you
+             have to saw on Cacos - it works, so anyone cares? If you
+             miss often, then this level is not yours. I like it.
+             Except for that once-teleporter.
+             Only an initial entry, hope there will be improvements.
+             Less than 10:00 ??? Hope so !
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rf26-117.txt
+
+rf26-117.zip
+
+rf26-117.lmp - Ultra violence with -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 26 - Excoriation by Adam Windsor
+
+Kills    109%
+(Items     0%)          
+Secrets  100%  and Time  01:17 
+                          
+                          
+
+Description:
+  
+A fun map for fast.  
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

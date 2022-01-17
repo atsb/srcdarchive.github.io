@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/f-doom" entry - Please forward it...
+
+EV07-104.TXT
+
+ EV07-104.ZIP
+
+  EV07-104.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 07 - Prison
+
+  Kills     16%
+  (Items     2)
+  Secrets   25%  and Time  01:04
+                           -----
+
+
+  Description: I think it can be improved in the room where we can 
+	       get the red key. I certainly lose a second because 
+               of the imp i missed in the stairs
+	       	 
+
+  Author:      Vincent "PerOxyd" Catalaa
+
+  E-mail:      bernard.catalaa@wanadoo.fr
+

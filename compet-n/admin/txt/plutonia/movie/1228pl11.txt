@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry
+
+1228PL11.TXT
+1228PL11.ZIP
+
+1228PL11.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final DooM - Plutonia levels 11-20 on UV skill
+
+11 - Hunted           -  :59
+12 - Speed            - 2:47
+13 - The Crypt        - 1:25
+14 - Genesis          - 1:00
+15 - The Twilight     - 1:04
+16 - The Omen         -  :25
+17 - Compound         - 1:42
+18 - Neurosphere      -  :27
+19 - NME              - 1:26
+20 - The Death Domain - 1:13
+
+Total - 12:28
+
+C-N entry #38, movie run #12.
+
+11: An easy start level, just don't wake the viles and get out.
+12: This map is cruel, but at least it's early in the movie.  Too bad
+    Sedlo's jumps aren't easier, but I impliment another jump to the exit.
+13: This one is tough to speed run because of cramped spaces.. that
+    megasphere at the end is great for map14.
+14: Can't perform my own trick here, it's too risky. :(
+15: Easy to run, this is an excellent fillup level.
+16: Managed the archvile jump at the end, for once. :)
+17: Can't perform the trick here because it breaks the rules. :)
+18: Easy level, just do the archvile jump right away. :)
+19: A large cell supply makes this level quite fun.  The cyberdemon just
+    gets in the way here.
+20: This level can be tough if the jump to the blue key goes wrong, since
+    fighting your way up to the top would most likely wake the revenants
+    and the archvile.
+
+Of the 3 plutonia episodes, this one is the toughest to speedrun, IMO.
+The times before this were 17:28, 15:49 and 14:08.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

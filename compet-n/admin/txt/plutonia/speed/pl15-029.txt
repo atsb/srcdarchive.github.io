@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL15-029.TXT
+
+ PL15-029.ZIP
+
+  PL15-029.LMP - Ultra Violence 
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  The Final Doom - The Plutonia Experiment - Level 15 - The Twilight
+
+  Kills     18%
+  Items      3%            *********
+  Secrets    0%  and Time  * 00:29 *
+                           *********
+
+
+
+
+
+Description:  It was possible without taking the Invulnarability..
+	      However a lot of times the monsters block your way
+	      and you just can't run through..
+	     
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     

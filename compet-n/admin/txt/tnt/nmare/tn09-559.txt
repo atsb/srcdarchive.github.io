@@ -1,0 +1,115 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TN09-559.TXT
+
+ TN09-559.ZIP
+
+  TN09-559.LMP - Nightmare!
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9
+
+  The Final Doom: TNT: Evilution - Level 9 - Stronghold
+
+  Kills    137%
+  (Items    48%)          ********
+  Secrets   45%  and Time * 5:59 *
+                          ********
+                          
+
+  Description :-)
+  
+  Well, finally the last hole in final doom falls. It's one
+  that for a long time I had assumed impossible, but eventually
+  I heard that Stx-Vile was trying it and that he claimed that
+  it was definitely possible. Well, Stx-Vile never got around
+  to finishing it, so finally I have the chance to do it after
+  filling in holes in Requiem and Memento Mori 1 and 2. It is
+  understandable why Stx-Vile didn't finish it. I found this to
+  be extremely difficult. I'm not saying that I don't think
+  Stx-Vile could have done it. Stx-Vile is a great player and
+  I'm sure he's capable of something like this. I think he just
+  got tired of it and moved on, like I have done on a few
+  occasions. He did mention something about it being problematic
+  to try this without sound, so perhaps without this problem
+  we would have a tn09 already. Anyways, I expected this to be
+  not too difficult, well perhaps somewhat easier than m206 since
+  when I tried it with savegames I had few difficulties and many
+  of those difficulties can be overcome by practicing certain
+  key points.
+	Well, as for the run in general and this demo, I would say
+  that my demo got off to somewhat of a bad start. For example, I
+  needlessly got shot by a seargent before the first switch. Also,
+  it looks stupid for me to wander up to the dead chainer when I
+  should have known the stimpack was gone already. There's also
+  some movement errors up near the red switch. However, I had good
+  luck in that area, and managed to maintain most of my health up
+  to the blue key. The red switch area is of course a key point.
+  Excellent chaingun may be necessary to avoid getting stuck or
+  being damaged by respawning monsters. Even so a little bit of
+  luck is required. The next key area is down below the blue key.
+  I try to get through the previous rooms quickly so that the
+  invisibility lasts up to this key area. It helps to have good
+  SSG use and it's really nice to be able to leave the medikit
+  as it can come in handy later and also moving in that direction
+  makes it harder to kill monsters in the next room, as staying
+  to the right allows them to be bunched up and to mostly have to
+  ignore the left while blasting them with SSG. Also, taking the
+  medikit costs time which means the invisibility may run out
+  before the barrels are blown up. My method for below the blue
+  key is to take the stimpack in the small room, then to try to
+  blow up the barrels with a skillful SSG shot, then to kill the
+  chainer and one seargent up above with hopefully one SSG shot,
+  although using more than one is fine as well. Then I run up
+  the crates and shoot the remaning chainer, as the other will
+  usually be shooting at imps and is not considered dangerous.
+  Then I quickly back up over the crates and proceed with the
+  doors. The next key part starts with the backpack which when
+  approached opens many doors. I kill as many monsters as possible
+  before taking the backpack, then using chaingun, shoot the
+  remaining seargent, and shoot at the imps for a while before
+  the monsters released can damage me. There is usually a chainer
+  at the top which can be somewhat helpful as he damages imps for
+  you. Then after clearing up the top I drop down and take the
+  berzerk. In this demo, I still had much health so I could 
+  start blasting with SSG for a while beforehand. Unfortunately
+  I took some damage from up above which meant that I had low
+  health for the next area. Fortunatly I had saved my medikit,
+  and I had excellent luck with the blue switch area so I could
+  take the medikit at the switch which opens the exit and have
+  excellent health for the next key part, which is a run to the
+  blue door. At this point there are really too many monsters
+  to clear everything safely, in particular there are monsters
+  from near the very first switch. I try to clear out the room
+  that I need to run through, then hide in the corner where
+  I won't be attacked by monsters behind me, clear the monsters
+  near the blue door, and make a run for it. If possible I close
+  the door behind me as that permanently shuts out all the
+  previous monsters. I had good luck for that run and managed
+  to make it to this point with over 50 health, which is usually
+  good enough to finish. However, this was the fourth time I reached
+  this point, each time with enough health to have a good chance
+  at the ending. Unfortunately, Adrenalin starts to kick in around
+  here and it becomes nearly impossible to shoot accurately which
+  means that I had 3 failed demos due to my inability to play with
+  a cool head. This time my nerves were only slightly better but
+  I managed to finish this map without any major fuckups. My method
+  of going in the secret to take a stimpack and to safely clear out
+  the exit room makes things manageable.
+	This demo is of course not nightmare secrets, although it
+  may be possible to do it while taking all the secrets. The problem
+  secret would be the berzerk secret, as that involves quite a lot of
+  fighting, however I think it ought to be possible, and of course
+  the berzerk should help somewhat. There are some secrets near the
+  end which I skipped over that I believe are not really problematic.
+  If you do this part you will get a rocket launcher, which might come
+  in handy for the rest of the map. However, with the potential to
+  blow myself up and also some possible damage taken to get there I
+  opted to skip this part.
+  	For those who are curious, I was listening to Beethoven's
+  7'th symphony while recording this. The second movement ended
+  just as I reached the ending which starts after the blue door.
+  
+
+  Xit Vono
+  Xit_vono@yahoo.com

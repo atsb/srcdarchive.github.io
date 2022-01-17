@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+m203-300.TXT
+
+ m203-300.ZIP
+
+  m203-300.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - - Level 03 - ... And Hell Beneath by Matthias Worch
+
+
+  Kills     54%
+  Items     38%           
+  Secrets   20%  and Time  3:00 
+                         
+
+  Description
+
+The jump was found by my brother back in 2003. 
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+23.05.2005
+

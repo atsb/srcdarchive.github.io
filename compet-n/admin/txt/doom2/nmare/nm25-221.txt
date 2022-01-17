@@ -1,0 +1,74 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+NM25-221.TXT
+
+ NM25-221.ZIP
+
+  NM25-221.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - Bloodfalls
+
+  Kills     89%
+  (Items   100)
+  Secrets   50%  and Time  02:21  (Par 2:30)
+                           -----
+
+
+Description: Simon refused this level for his D2I challenge, ...
+                   ^^^^^^^
+[ Hold on right there ! I already explained in my D2I-SYW.TXT that I had
+  to make it QUICK (rather than GREAT ;-) because I knew I had to get it
+  uploaded FAST - before all SIX (!) (of my) possible Out-of-Base levels
+  would be gone, forever... That's why I "refused" it. I might have made
+  another for this Compet-N, but there's not much point if you are going
+  to make my efforts look pathetic even before I try - You may continue: ]
+
+             ... but it is not that hard. The tricks:
+             1) The first shot to wake up the sergeants.
+             2) The barrel
+             3) Take the left side when you run through the room.
+                Pass the revenant close.
+             4) Do what you want in the dark, I hate the candle-things and
+                wanna finish it fast there. But you can also take out the
+                monsters one by one.
+             5) Take a breather after teleporting.
+                Clean the sweat from your mouse.
+             6) Hurry so as not to be blocked. Take care of the barrel.
+             7) If you wanna have a title, do your dance at the cells.
+             8) Run straight after teleporting, or kill them. Depends on
+                how much %%% kills you wanna have.
+             9) You have enough health -> don't panic.
+            10) Behind the blue doors NO mancubus, they're only in netganes
+                Disadvantage: No BFG/Cells, but who needs them.
+            11) Take the left Pain Elemental.
+            12) Press the button and Exit.
+
+            With these hints you should be able to complete this level in
+            less than 10 tries. I had 15, but I had to find the way. It's
+            like climbing in the mountains. The first one is without that
+            much safety, the others have got a rope. As you can see, less
+            than PAR is possible. Besides: Which level is not ? NM04 ?
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+
+[  Admin. Note ;-)  See above !!!
+
+   D1I-GIB.TXT backs up my own views on DHT "race conditions" to get our
+   advanced titles completed and uploaded as soon as we possibly could -
+   before our chosen Out-of-Base levels are gone. While it's true that I
+   can be proud to get the title, I am *not* particularly proud of those
+   .LMP's because I could do a *lot* better - given the time to do so...
+
+   S.;-)  D1I and D2I  no more, no less.
+
+S.;-) aka. The "Judge". ]
+
+

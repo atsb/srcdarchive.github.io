@@ -1,0 +1,38 @@
+This is a Doom .LMP "COMPET-N/doom/speed" Entry - Please forward it...
+
+E2M9-010.TXT
+
+ E2M9-010.ZIP
+
+  E2M9-010.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  Doom -playdemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 ?
+
+  Episode 2 - Shores of Hell
+
+  Map 9 - Fortress of Mystery
+
+  Kills      0%
+  (Items     0)
+  Secrets  100%  and Time  00:10
+                           -----
+
+
+Description: I hate those "unbeatable" records like 0:12
+             Have played the level for 100/100 (1:13), and now I think
+             this record is mine. Has anybody got a .LMP with less
+             keys or less tries ?
+             Besides: Look at the time I recorded it ;-)
+
+Doom bugs are ugly, but if they help...
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+

@@ -1,0 +1,590 @@
+This is not just another DooM .LMP "Competition" Entry...(:
+
+30NM4949.TXT
+
+30NM4949.ZIP
+
+30NM4949.LMP - NightMare!
+
+This is a Compet-N/Doom2/MOVIE/D2S/Entry...((:
+
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+
+                                                 NM-Speed
+              Time   Kills Items Secrets ParTime  Record
+
+  LV 01  -    0:06     3%    0%    0%    0:30     0:05  |:
+  LV 02  -    1:32    90%   45%  100%    1:30     1:00  ):
+  LV 03  -    0:41    32%   22%  100%    2:00     0:27  |:
+  LV 04  -    1:21   103%   67%    0%    2:00     1:19  ):
+  LV 05  -    1:13    40%   33%    0%    1:30     0:31  |:
+  LV 06  -    1:49    66%   11%   66%    2:30     1:05  (:
+  LV 07  -    1:27   121%  100%  100%    2:00     0:54  |:
+  LV 08  -    1:16    57%   60%   28%    2:00     0:23  |:
+  LV 09  -    2:09    52%   36%    0%    4:30     1:54  ):
+  LV 10  -    1:13    27%   31%   16%    1:30     0:41  |:
+  LV 11  -    1:24    64%    9%   66%    3:30     0:51  (:
+  LV 12  -    1:30    27%   40%    0%    2:30     1:26  (:
+  LV 13  -    1:53    30%   24%   12%    2:30     1:17  (:
+  LV 14  -    1:58    91%   50%    0%    2:30     1:01  (:
+  LV 15  -    0:52    21%   12%   18%    3:30     0:43  (:
+  LV 31  -    0:44    44%    3%   75%    2:00     0:37  |:
+  LV 32  -    0:34    63%  100%   50%    0:30     0:13  (:
+  LV 16  -    0:41    21%   20%    0%    2:30     0:39  |:
+  LV 17  -    2:54    72%   51%    0%    7:00     2:50  (:
+  LV 18  -    0:35     5%   22%    0%    2:30     0:24  (:
+  LV 19  -    1:17    15%   12%   44%    3:30     0:54  |:
+  LV 20  -    1:17    22%   22%   42%    2:30     0:43  |:
+  LV 21  -    1:32    62%   50%    0%    4:00     0:58  |:
+  LV 22  -    1:44   116%   71%   66%    2:30     0:51  ((:
+  LV 23  -    2:00    78%   36%  100%    3:00     0:59  |:
+  LV 24  -    4:10    28%   32%   25%    2:30     1:11  |:
+  LV 25  -    1:54    82%  100%   50%    2:30     0:57  |:
+  LV 26  -    2:05    65%   34%   50%    5:00     1:08  ):
+  LV 27  -    1:28    34%   22%    0%    5:30     0:18  (:
+  LV 28  -    1:23    23%   36%   28%    7:00     0:47  |:
+  LV 29  -    3:38    83%   88%    0%    5:00     4:51  ):
+  LV 30  -    1:29  1400%   33%    0%    3:00     0:31  |:
+-------------------------------------------------------------------------------
+Total        49:49 101.2% 39.8% 32.4%   95:00    32:28  (((((((:
+
+ Total Time =  34:949                ): = More problems than usual, time is
+               34+                        very slow.
+               15:49                 |: = Usual problems, usual time.
+               ------
+ TOTAL TIME =  49:49                 (: = Quite nice playing...time is really
+              --------                    good.
+
+
+/----------\ /----------\ |\         | -----Â------ /----------- /----------\
+|          | |          | | \        |      |       |            |          |
+|          | |          | |  \       |      |       |            |          |
+|          | |          | |   \      |      |       |            |          |
+|----------/ |----------´ |    \     |      |       Ã----------- Ã----------/
+|            |          | |     \    |      |       |            | \
+|            |          | |      \   |      |       |            |   \
+|            |          | |       \  |      |       |            |     \
+|            |          | |        \ |      |       \----------- |       \
+
+             ========================= \\                    //
+                        |||             \\                  //
+                        |||              \\                //
+                        |||               \\              //
+                        |||                \\            //
+                        |||                 \\          //
+                        |||                  \\        //
+                        |||                   \\      //
+                        |||                    \\    //
+                        |||                     \\  //
+                        |||                       \=/ 
+
+                          PROUDLY           PRESENTS
+
+
+
+                             DOOM II - THE MOVIE 
+                       LEVEL 1 TO LEVEL 30 NIGHTMARE!   
+
+
+
+                                 Starring:
+
+
+                 Thomas "Panter" Pilger - Doom Marine
+
+                            John Romero - Head on a stick
+
+                                 Archie - Himself
+
+
+
+
+Description: YEAH...It's finally done folks...hours and hours of trying...
+             1 year ago I started this journey...and now it's completed...
+
+             [ Sorry to interrupt... But you said you'd like to read some     ]
+             [ admin comments... I thought if that's your only wish, then     ]
+             [ why not? ;-)                                                   ]
+
+             The first Doom 2-NM-run through all 32 maps.
+
+             Ok...actually it's not really the first. As far as I know there
+             are two cheated ones. One done by S.W. and one done by Esko (but
+             he didn't upload :)
+
+             Anyway...this time w/o any damn cheats.
+
+             As I already said...I started this 1 year ago and I've to thank
+             many people.
+             First there was Frank "Jesus" Siebers. At this time I thought
+             "Wow..I can get to map4" (: ... I had lots of mails with him and
+             he was my first big motivation. We discussed every little step and
+             finally we both got to map10 and died at the yellow-key-demons
+             because we forgot to take BFG in 8. (:
+             Then there was a big pause until Summer '98. When holidays
+             started I thought again about this task and surprisingly I managed
+             the following maps very quick..
+             I choosed and practised the nm-speed routes and optimized them a
+             bit to get the maximum safety.
+             At the 23th of July I got my first 21nm-run.
+
+             [ Remember that was nearly three months ago folks!               ]
+                 
+             But at this point the same problem occured Anthe, Istvan and DL
+             had...22 (followed by 23 :) seemed impossible.
+             BIG THX to Istvan...he helped me out of this situation and mailed
+             me some REALLY exact route-descriptions for 22,23 & 24.
+             In this .lmp 22 worked just perfect. (Well...but not 23 & 24 :)
+
+             So in the last month I got the remaining maps up to 29...
+             Hmmm...some interesting things happened at that point.
+             I got about 5 29nm.lmps all dying in that last room...that last
+             jump was my main problem here...
+             On the one hand I couldn't kill that two Barons 'cause there is
+             just too much trouble...all this respawning soldiers, revenants
+             and Caco's prevented .me from killing them by Rockets or BFG.
+             On the other hand I tried to run beside them...but this didn't
+             help too...always one of the barons pushed me into the lava.
+             But then Rini came up with a VERY good idea...He said I should
+             try to get that rad. suit and then kill them from within the lava
+             with BFG...hmm...this worked quite nice in some fillup.wad (Hi
+             Istvan) sessions...but in 2018nm21 and in this .lmp the barons
+             suddenly moved to the right side, making it easy to reach the
+             teleporter.
+             And so...after some more month of practising I got this run.
+             No...I din't practise this for about 5hours a day (as I did to get
+             some of the harder single level recordings, i.e. nm29)
+             Maybe 7hours a week. IMO thats the right amount of time to get
+             used to this...it just doesn't help to practise this all night and
+             day...I did this once and died a million times in maps like 2, 3,
+             5 and 7 just because I wanted to get through them fast..
+             You just forget how to play Nightmare...
+             My english skills are not too good (I always use the same words :)
+             ...I can't explain it the way the reader deserves to read it.
+             Thats why I want to give you a little quotation out of one of the
+             best .txt I've ever read. 
+             Unfortunately the author of e1nm1444.txt Andy Kempling got
+             disqualified so that .zip does not exist for Compet-n anymore.
+             (Hope it's ok for you Andy)
+             
+             [ Have to make a correction there... e1nm1444 IS part of         ]
+             [ COMPET-N, it just got bettered by Anders. Let's not talk about ]
+             [ the other .LMPs on this great day of COMPET-N...               ] 
+   
+             "The true difficulty of nightmare lies not in the fast enemies,
+             nor in them getting back up and shooting you again after you fill
+             them full of lead.  No, what makes nightmare difficult is the
+             absolute chaos and prevalence of randomness that you just don't
+             see in a game at Ultra Violence........"
+             "But what nobody really can get used to is being surprised every
+             time we cross back over our own path. The enemy are already awake,
+             so they get the jump on us, this time.  No more picking them off
+             one by one, because chaos is already nipping at our heels. Soon
+             our swath of destruction will turn against us with mass respawns
+             and chaotic enemy placements, quickly eating away our armor,
+             quickly.........."
+             "I am merely the optimiser...I run the levels a million times to
+             cut the last corner tighter, to shave off the thenths of a second,
+             squeeze the last drop of speed out of the patterns that have
+             already been invented.........."
+             "I would like to thank all you people who still do demos for
+             Doom...especially those whose tricks and/or routes I borrowed"
+
+
+             Yepp...thats the point...all this routes are just taken from
+             another player..and w/o them I'd have never done this...
+
+             Now some notes about the maps...but what to write here ?
+             Hmmm...do you want to hear some things that happened in this
+             particular .lmp..? maybe yes...but I already did them a million
+             times before...all this routes and problems that happen here
+             are quite normal (for me).
+             Thats why I try to explain some things that can easily happen,
+             (as a kind of guide for the ones who want to beat the time :)
+             why I chosed that route instead of another, who invented that
+             route and my thoughts and feelings in this .lmp at certain points.
+             Btw: Most route credits go to Anthe anyway...he did most of
+             the maps for the first time and showed they're possible.
+
+LEVEL  1: In my first movies I tried to get out with 100/90 just to make
+          it easier in map 2...soom I noticed it's just wasted time to spent
+          30sec on this map. Ok it's a bit harder to reach blue armour then.
+          So I tried to get (at least :) 6sec and >90% at the end...and thats
+          not that easy !...sometimes you've to restart about 10-20 times.
+          It's a 6.45 although it looks better.
+
+LEVEL  2: Hmmm...normally this map causes the most trouble out of the first 6 
+          maps.....shotgunners all the time mkaing it hard to stay healthy.
+          That 1:32 here is miserable...I had much better runnings...
+          (<1:10 with getting SSG and >60% health in the end)
+          but I had to slow down because of health problems.
+
+          Anyway...I chosed the fastest route here as well...(by not killing
+          the first seargants & staying in front of that lil' house that the
+          shotgunners can kill themselves.)
+          It's NOT faster to leave SSG !..it saves about 10s here but you'll
+          lose about 10s in map4 (and it gets a lot harder)
+          I'm a bit angry about the time 'cause it's normally under Par...
+
+LEVEL  3: Should be an easy one...but in the last month I died here more often
+          than in map4.
+          I was a bit afraid of not shooting that Chaingunner and then run
+          through that pit...Sometimes I lost 100-150% there because I changed
+          weapons while some spectres ripped me off.
+          Sometimes I tried that jump to the raising bridge here...and it even
+          worked 1 out of 10 times (:
+
+LEVEL  4: Hmmm...the 2nd really Nightmarish level...As I said...you've to get
+          used to Nightmare or you've got no chance.
+          But as soon as you get it and you know your route...then it's a
+          easy one. There is not much that can go wrong...stay healthy in the
+          beginning because you've to survive your way back to the red door.
+          That yellow-key Demon didn't want to die...in earlier .lmps I got
+          killed because I teleported up w/o killing it.
+
+LEVEL  5: Here are also two routes possible...I chosed to not see that souls.
+          why should I kill them when there's nothing alive behind me..?
+          Nevertheless two things can happen here...
+          Maybe that HellKnight doesn't want to cooperate and shot at you
+          instead of Chaini. And you can easily get ripped off in that last
+          room if you don't play carefully.
+
+LEVEL  6: Another straight map...some little tricks help to survive this
+          w/o bunches of monsters. (don't triggering linedefs i.e.)
+          and there are 3 jumps you've to learn...they never work all in one
+          run.
+          It's important to leave this one with AT LEAST 100/100.
+
+          YOU HAVE ENTER (Hmmm..bad english Mr. Romero :)
+
+LEVEL  7: There are 3 or 4 unfair maps in D2...this is one of them.
+          You can't kill 3 or 4 Spiders and move on (like in other maps)
+          You've to kill 12 Spiders until they respawn...thats why you can't
+          play carefully here..throw away your Nightmareability, blaze through
+          this one and hope you don't get killed.
+          Adam and FJS showed this in a nearly perfect time...even with full
+          weapons I'm 10s slower in my very best attempt here...
+
+LEVEL  8: Should be one of the easiest maps...but you need to get BFG...and
+          sometimes the 2 Invuls. are just not enough.
+          Oh...and from time to time I catch one of Cybies rockets...He misses
+          a Baron and I fall down in front of the Invul (:
+
+LEVEL  9: One of the 3 longest levels...you've to visit a lot of different
+          places here (like in 17 & 29).
+          A lot of shit can happen here...i.e. a soldier opens the door leading
+          to the HellKnight...this awakens him and you can't kill him that
+          easily anymore...
+          Anyway....this level would be MUCH harder with shooting PE's.
+
+LEVEL 10: I have to have 150% to take the short route...w/o that amount of
+          health I've to take that additional Soulsphere...The Steffen-route is
+          not my thing...I don't like this route. (also it's probably one
+          of the safest if you want to leave with >150%)
+
+
+LEVEL 11: Here I started to play a bit faster...route credits go to Anthe.
+          More or less I used the same route as he did in the very first
+          nm-lmp of this map.
+
+          YOU HAVE WON! (So...why can't we stop here ?)
+
+          [ Maybe you would know if you would have read the whole text? ;-)   ]
+
+LEVEL 12: The most difficult map out of the first 2 episodes...ok...80% of this
+          map are done very quick w/o problems...it's just that Cacoroom 
+          where you have to have some luck.
+          Adam suggested to use the "Hungarian route" here..(RL to kill some
+          Cacos from outside)
+          Hmmm...maybe he's right...
+          My solution isn't perfect at this point...I died often here...
+          (and I've one .lmp where I exit with 140% :)
+          but I just don't want to learn new routes.
+
+LEVEL 13: At this point some kind of "easy living" starts...11 runthrough maps
+          are following.
+          You've to do more than one mistake to die now.
+          13 is some point to relax a bit...ok you've to keep an eye on your
+          invul-management here...and sometimes some monsters want to say
+          "hello" in the yellow key room.
+          Anyway...you get a reward for the first 12 maps...I just love this
+          long north-wall along spiders and imps shooting at you. IMO the
+          funniest scene in D2.
+
+LEVEL 14: Can be hard if you waste lots of health in the beginning...
+          Move slowly, kill every monster and you've got no problems.
+
+LEVEL 15: Hmm...IMO the hardest one up to 22...you just have to get that jump.
+          If you miss you're dead...When I'm on low health I'll try to get
+          that 50% and green armour around the corner.
+
+          CONGRATULATIONS, (Thx)
+
+LEVEL 31: Died here exactly one time...(was it Istvan who said my route is a
+          bit risky ?:). I'll get 600 cells in 32 so why should I save some ?
+          BFG only, running through that map..
+
+          CONGRATULATIONS, (Thx again)
+
+LEVEL 32: IMO the easiest map of D2...you'll get tons of cells and health
+          wherever you go. Thats why did that rocketjump in front of the
+          megasphere (:
+
+          [ Which became a trademark of Panter's NightMare! Runs...           ]
+
+LEVEL 16: In spite of that short and easy mentality of this map some problems
+          may occur...that Invul is perfect if you run fast enough.
+          But there are lots of places where you can get stucked.
+          Btw: NEVER shot when you've lowered the last lift (:
+
+LEVEL 17: The 2nd longest map...hmmm...the end can get a bit tricky sometimes.
+          I had some luck when I shot that last soul here...I had EXACTLY the
+          same scene some days before and died because the soul was a bit
+          faster (:
+
+LEVEL 18: Was it Adam who asked why I didn't try to take that middle Invul ?
+
+          [ No I guess it was Istvan, I know because he asked me too... :-)   ]
+
+          This saves some more time and I didn't get in contact to the pinkies.
+          It doesn't work that nice every time.
+          Anyway this is one of the easiest maps...Invul all the hard time...
+          making it easy to exit with 200/120.
+
+LEVEL 19: This level is completely ruled by Ilya's ideas...I follow one of his
+          routes exactly...it's possible to leave this one untouched and
+          pacifist (I had this a 21nmrun !)
+          Big Thx to Ilya.
+          Hmm...ok you've to hurry a bit with Invul., the end can get a bit
+          chaotic, and you've to get through the sticks in the beginning.
+          In this .lmp I got them at the same moment as I wanted to turn back
+          to kill that damn imp (:
+
+LEVEL 20: I always wondered why I never died here...ok I had that teleporter
+          bug once...but I never got stuck by a soul while jumping to the PE.
+          This happened a lot in my single level attempts...hmmm...
+          Anyway...this time w/o that usual last hit from a revenant. (:
+
+          YOU ARE AT THE (err...yes)
+
+LEVEL 21: Only one problem here..I HAVE to get out with at least 150/150...
+          this is needed by Istvan's route in 22.
+
+LEVEL 22: All that health I collected during the last 4 maps usually gets
+          destroyed here. But Istvan's route makes it possible to get out
+          with 110%...(best exit health was 140%)
+          Thats the solution DL & Anthe would have needed at that point.
+
+LEVEL 23: Lost a lot of health in the beginning...
+          but normally I don't have THAT much here...sometimes I've less
+          than 40% and then I need to get that Beserk first (at least it's
+          better than running the chaingun-row :)
+
+LEVEL 24: One of the really hard maps...ok in the beginning it's just a
+          normal "run-through" map...health doesn't matter (as long as it is
+          >0% :)
+          Thats why I didn't care much about that falling downs and misguided
+          rockets (:
+
+          [ We were thinking that it was the same as in MAP32...              ]
+          [ Just kidding...                                                   ]
+
+          But after getting the Mega it's a map that doesn't permit ANY
+          mistake. Everything just has to work perfect or you're dead.
+          First you need the Invul. or that Soulroom gets nearly impossible
+          (You've to run through this part then)
+          Then you've to hurry a lot in the demonroom and you can't allow a
+          single mistake on the ledges.
+          Funny things can happen here...for instance a Caco that teleports in
+          when you're on the ledges (:
+          That Souls went on my nerves...normally it's not THAT hectic here.
+
+LEVEL 25: I only died one time in this and including the next 3maps...
+          IMO thy are not THAT easy...but I always managed to get through.
+
+LEVEL 26: Uhhh...big mistake...the worst scene to fall down (:
+          I thought "it's over now" but luckily I had enough health to run
+          up that hill twice.
+
+LEVEL 27: Easy if everything works perfect (like in this .lmp)
+          But I died here once because of no Invul. at the 3 Revenants.
+          Sometimes that Baron doesn't want to keep that door open -> loosing
+          15sec. and some cells.
+          The oldest .lmp with more or less the same route is done by Istvan.
+
+LEVEL 28: At this point I knew "This time I'll make it". Thats why I got
+          a bit nervous at this point...
+          Normally I'm diverted by some TV...and this works really great.
+          I play much better when I don't think while playing.
+          But here I turned off the TV 'cause it didn't help anymore.(:
+          I chosed the safest route with the most Invuls to pick. 
+          This time I wanted to get with REALLY full weapons to 29...sorry
+          about that chainsaw move (:
+
+
+LEVEL 29: Anthe was the first one who did this hell of a map..but I changed
+          his route so often that I can say, up to that last room I had my
+          own route.
+          But I just had no solution for this room...OK I already told the
+          story in my description.
+          Some said I play this a bit too risky. And maybe they are right
+          because I had big problems throughout this map this time.
+          In fact I played really silly at some points...loosing health up to
+          44%, got nearly killed by a respawning Caco. But both situations
+          are cleared exactly the right way.
+          I could have killed that Caco (outside) first...but I would have lost
+          much time and probably get killed by another respawning Caco.
+          I noticed this first when I watched the .lmp a 2nd time. I was
+          really lucky here...
+
+
+LEVEL 30: Hehe...this time Romero had no chance...
+          No Archie or PE in my back making this a lot easier...ok one PE...
+          but it appeared at the best teleporting point available..(:
+          You'll see lots of shaking here...I just coudn't aim anymore.
+
+          [ Hmmm yes.... rockets for the PE on NightMare! skill...            ]
+          [ No comment...                                                     ]
+
+          Ok...that superfast route isn't possible here..So you've lot of time
+          to kill every teleporting monster and then hope for the best.
+          The last time I did this, one of the first teleporting monsters was
+          a PE (and I didn't see it)...you can't survive this..
+          This time most things went perfect here.
+          Maybe I should take some blood pressure reducing medicaments first
+          the next time...I could feel my pulse while playing (=
+          Hmmm...theres no "funky stuff" in the end...I was just to nervous.
+          maybe next time..
+
+          And a 'lil victory-dance in the end....(-8
+
+
+          Originally I wanted to watch every oldest nmspeed entry until I get
+          to the route I used..(to give you the name of the inventor).
+          Soon...after watching several (VERY) old .lmps I noticed, more or
+          less THERE`S ONLY ONE ROUTE POSSIBLE...ok there are slight
+          differences because of less firepower, but in maps like 17 or 26
+          (the first ones I watched) theres is no difference. Other players
+          just added one or two better weapon-usages or left some monsters.
+          So I came to the conclusion, its worthless to say after every
+          leveldecription "Anthe/Istvan/DL showed this first". (you know
+          this much better when watching your own lmp archive)
+          Anyway...I'd REALLY like to thank this 3 players because they were
+          the first ones who showed NM is possible...They did the first step
+          and made this .lmp possible..
+
+          Especially Anthe who did "impossible maps" (22,29,e1m3,e1m5) even w/o
+          knowing if a certain map is possible or not...
+
+
+          I played the first 10 and the last 7 maps not the way as I do usually
+          ...lots of things went wrong..but the complete time is ok.
+          I really blazed through the middle episode (4mins faster than the
+          episode recording).
+          All in all I'm still >1min faster than all 3 episode recordings
+          together. (And only 8mins away from a 2nd place UV32run :)
+          Only 4 Over-Par-times..(thats one more than usual)..but
+          Superlightning isn't possible because of 24 & 30 IMO.
+
+          [ Khrm... MAP30-PAR is 3:00, you were easily inside that. That      ]
+          [ makes three over-par-times.                                       ]
+
+          So I'm quite happy with the 49:49 as the total time. (Gross time is
+          51:40)
+
+          I collected 30 nm>21runs so far...this is number 31.
+
+
+          Maybe some TV-show needs some really crazy guy for a
+          guest-appearance...just gimme a mail ((:
+
+          Uhh..just some more things for Adam....
+          Plz add a D2S...I just changed my name (: (Hey...I just have
+          to be proud of this) 
+          maybe you want to add some Administration comments now ?....
+
+          [ Here you have them... :-)                                         ] 
+
+          and...how about a new form ? (:
+
+          [ Okay, I told you can get a new one if you complete 30NM ;-)       ]
+
+          Finally I want to thank everyone who mailed me comments, help, or
+          just his very own thoughts.
+          Here's a short uncommented (funny) excerpt
+          (Hope nobody is against this)
+
+
+          Istvan (help for map 30):
+          That hole is kinda big, so it's easy to find a good shot.
+          Good luck, and NO PAUSE PLS :)
+
+          Gunnar Johnsen (after 28nm):
+          Just saw -the- ultimate NM recording ever :) Ok, I knew you where
+          damn good...but this is insane. I've been climbing the walls through
+          the entire run, man- when you died in the end of 29, I almost felt
+          like hitting something :)) If that were me, I would have gotten
+          nutcase (not that I'll ever get past map04 on NM :)
+
+          Adam (statement):
+          So, main barriers when everything works out nice: 5,7,12,14,17.
+          22 needs LUCK, 23 is not hard if you start over 40%, 24 is just
+          annoying not hard.
+
+          [ What's funny in this? OK, I wrote this quite a while ago...       ]
+
+          Steffen Winterfeldt (translated statement):
+          To say something constructive for a change:
+          The really hard level is 22 (If I remember properly). The other two
+          are quite easy. I had no solution for 22 at this time too.
+          Just tried and tried again and had occasional some luck
+          But there were LMPs after mine, who did better;
+          From Anthe Kren I think. He should have completed all in a row too.
+          (He worked for D2S too).
+
+          Steffen "Rini" Udluft (translated help for map 29 after 28nm)
+          Well, IMO you wasted a lot of plasma before this, you should be a bit
+          more economical, besides you left in 28 a cell box and entered lv29
+          with 560 instead of 600 cells
+
+          and finally.
+          Peo Sjoblom (statement after 29nm)
+          So from all of my heart:
+          I wish you luck with the D2S because you certainly deserve it and I
+          also hope that you'll be the first to make it honestly and that no
+          cheaters will make it.
+
+
+
+          THX to you all....you've been my motivation, inspiration and you
+          helped out of all the problems I had.
+
+          [ Okay... some more words from your admin...                        ]
+          [ First, congratulations to Panter! A wonderful demo, surely it'll  ]
+          [ be on my favourites list...                                       ]
+          [ This thing has been on the wish-list since COMPET-N started...    ]
+          [ Many people tried it and so they got closer and closer to         ]
+          [ completing the whole thing. And none managed... until NOW.        ]
+          [ I checked and it's interesting that the Maximum Minimum Health of ]
+          [ this .LMP is 31% on MAP24... which is very good considering the   ]
+          [ speed Panter plays throughout the run.                            ]
+          [ So, the last big task of DOOM2 is now done.                       ]
+          [ Happy birthday to DOOM2, what a way to celebrate!                 ]
+          [ (it was released 10.10.94 in case you didn't know)                ]
+          [ I wonder if the last big task of DOOM will ever be done?          ] 
+          [                                                                   ]
+          [ I have an idea... let's mail Romero with this... ;-))))           ]
+          [                                                                   ]
+          [ Admin                                                             ]
+
+             15.10.98 20:33.40 p.m CET
+
+  Author:    Thomas "Panter" Pilger D2S
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/
+ ICQ-UIN:    2215218

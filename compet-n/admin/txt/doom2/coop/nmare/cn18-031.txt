@@ -1,0 +1,17 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM2
+Category:        nightmare speed
+Map:             18
+Players:         2
+
+Kills:           1%
+Secrets:         0%
+Time:            0:31
+Green:           Selim "Zamel" Benabdelkhalek
+Indigo:          Ethhoack Ethandphi Exbeess
+
+Comments:        ethh gets yellow key, opens yellow door; selim fetches blue
+                 key, and finishes the level.
+
+                 we recorded it at slag's on a august 2000 lan party.
+

@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+MM23-133.TXT
+
+ MM23-133.ZIP
+
+  MM23-133.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 23 - Showdown
+
+  Kills     36%
+  Items     37%           ********
+  Secrets    0%  and Time * 1:33 *
+                          ********
+
+  Description :-)
+
+  Ahh Nostoglia! Memento Mori is the first PWAD I ever played. I first played it
+  3 years ago, I wasn't as good as now :P, I remember having real trouble with this
+  map, I beat it with lots of saves, then I downloaded the UV-Max run for this and
+  I was shocked, it's the 2nd or 3rd demo I've ever seen IIRC
+  This map still holds a special place in my heart, I love it and the suicide exit
+  makes it awesome, I wanted to do it hehe
+  Very Weird story with this run, my first exit was 1:37, then my 2nd one was 1:36,
+  then I got 1:35 then 1:34 :o after that I said, yeah! next one would be 1:33
+  But it wasn't I got 1:35 next, then 1:34 then finally 1:33!
+  I'm including Oyvind's run because my run isn't really a lot better than his,
+  both runs have different strong points, watch them and compare !
+  
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

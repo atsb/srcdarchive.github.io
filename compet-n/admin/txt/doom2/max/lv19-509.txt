@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV19-509.TXT
+ 
+ LV19-509.ZIP
+
+  LV19-509.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 19 - "The Citadel"
+
+  Kills   100%
+  (Items   46%)
+  Secrets 100%  
+              
+           ... and time  05:09 
+                         -----
+
+  Description:  
+  
+  Henning had a really long-standing demo here, I recall I coudln't
+  beat it two years ago. Today I could. I didn't expect the time,
+  my best so far was 5:21 with 98% kills. Spider helped me out at last,
+  which was always the main problem. Anyway, I'm quite dissapointed
+  I screwed up the running under crusher, something always must
+  go wrong.
+	     
+
+  Radek Pecka
+  r.master@email.cz

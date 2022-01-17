@@ -1,0 +1,33 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+lv03-018.zip
+ lv03-018.lmp
+ lv03-019.lmp
+ lv03-018.txt
+
+Recorded using Doom2 Version 1.9
+
+Doom2 - MAP 03 - The Gantlet
+Ultra Violence Speed
+================
+Kills       14%
+Items	    0%
+Secrets     100%
+----------------
+Time		0:18
+================
+Description:
+Thanks dew for pointing out that 18 is possible. I gave this a try
+every now and then, just to take a break for month or two because
+of low 19. I thought this would be easy and I still think it is, but
+I never gave a serious thought for the three pinkies in the ledge and
+relied on luck instead. Well, of course, luck failed me. Just moments
+ago I tried something else and it seemed to work reliable enough.
+First 19.11 and then this.
+
+I included a 19.00 demo showing 18 was possible without a rocket, too.
+That was much better run anyway. If I just wouldn't have failed to
+press exit button...
+
+Author: xepop
+23 - Jan - 2012

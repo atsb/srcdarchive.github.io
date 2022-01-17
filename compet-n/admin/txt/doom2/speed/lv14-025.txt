@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+LV14-025.TXT
+
+ LV14-025.ZIP
+
+  LV14-025.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 14 - The Inmost Dens
+
+  Kills      1%
+  (Items     0%)
+  Secrets    0%  and Time  00:25
+                           -----
+  
+  Description :-)
+
+  This trick is not new, it's a Jonathan Rimmer
+  rocketjump of course and has been around in
+  /misc and also in the Nostalgic tricks section.
+  
+  However this is the first speedrun of it,
+  mainly coming from the idea that you can substitute
+  the soulsphere for a megaarmor (duh) and still pull
+  off the jump.
+  
+  Oh yeah, and this one is Pacifist too :-)
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu  

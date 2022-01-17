@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM16r639.TXT
+
+ MM16r639.ZIP
+
+  MM16r639.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 16 - Stoned
+
+  Kills      104%
+  Items       48%            
+  Secrets    100%  and Time: 6:39 
+                             ==== 
+
+  Description :-)
+
+  4th COMPET-N entry.
+
+  More table filler material here. A beautiful and incredibly 
+  fun map to play. There are plenty of good traps and cool 
+  sequences in this stone/brick base with gigantic halls.
+
+  The vast amounts of ammo and powerups make the level a breeze 
+  in UV, but with the -respawn parameter, you still have to get 
+  a move on at some points, or else your health will begin 
+  dropping in an alarming rate. :-)
+
+  Again, it's wise to leave most of the bigger monsters alone 
+  and concentrate on the smaller ones. I especially like not 
+  having to kill all those Barons at the end (that's a very 
+  tedious and pointless fight!).
+
+  This run is merely a first (valid) exit, so it's pretty rough 
+  around the edges. I just kept screwing up in various ways, so 
+  I've had enough of this run for now. ;-)
+ 
+  Luckily, I didn't goof around too much during this attempt, 
+  though perhaps I shouldn't have switched weapons at all after 
+  getting my hands on the plasma rifle. As Drew said in his 
+  30mm8356.txt, it's just impossible to run out of cells here! 
+  
+  I chose to stay a while at the start, killing some respawning 
+  monsters, to make sure I got the necessary amount of kills.
+
+  Kristian Ronge
+  zuckuss@gmail.com

@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E3M6-506.TXT
+
+ E3M6-506.ZIP
+
+  E3M6-506.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  Doom -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  Episode 3 - Inferno
+
+  Mission 6 - Mt Erebus
+
+  Kills    100%
+  Items     52%
+  Secrets  100%  and Time  05:06
+                           -----
+
+
+Description: One of my favourite stages. Very important to conserve powerful
+             ammo in this stage. Rockets are sparse, but theres always plenty
+             of shotgun shells. Leaving the lost souls is a big help here,
+             timewise - but can be very annoying, and deadly.
+
+
+Author: Michael Greenslade - 14th January 1997
+
+E-mail: 9506025m@levels.unisa.edu.au
+
+

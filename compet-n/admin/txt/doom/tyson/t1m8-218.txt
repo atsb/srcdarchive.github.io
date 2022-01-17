@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+T1M8-218.TXT
+
+ T1M8-218.ZIP
+
+  T1M8-218.LMP - Ultra Violence, Tyson style
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Doom - Episode 1 Mission 8 - Phobos Anomaly
+
+  Kills    ??? % 
+  Items    ??? %            ********
+  Secrets  ??? %  and Time  * 2:18 *
+			    ********
+
+  Description :-)
+
+  I didn't make the exit jump in this demo, so I really
+  didn't expect the time to be this good.
+
+  The only other sub-2:30 attempt I've had was a 2:21.91,
+  the -exact- same time as AdamH's old demo :)
+
+  (btw, sorry about the few gametics after strafing right at the
+  end, I  guess I was sloppy with moving in the endroom because
+  I thought it was a sucky time)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

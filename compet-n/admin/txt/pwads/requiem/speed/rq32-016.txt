@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ32-016.TXT
+
+ RQ32-016.ZIP
+
+  RQ32-016.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 32 - Bitter Herb 
+         
+  Kills      6%
+  (Items     7%)          *********
+  Secrets    0%  and Time * 00:16 *
+                          *********
+                          
+
+  Description :-)
+  
+  Now this is an annoying map for speedrun.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

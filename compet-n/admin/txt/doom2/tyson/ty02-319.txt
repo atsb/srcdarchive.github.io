@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+TY02-319.TXT
+
+ TY02-319.ZIP
+
+  TY02-319.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02 - Underhalls
+
+  Kills    100%
+  (Items    80%)
+  Secrets  100%  
+
+            ... and Time  03:19
+                          -----
+
+  Description:
+
+  This one came pretty quick, it's second exit actually.
+  Not a big improvement over Anders' demo, I just played
+  the room with Sergants before jumping to blue key area
+  a little bit more risky.
+  
+
+  Radek Pecka
+  r.master@email.cz

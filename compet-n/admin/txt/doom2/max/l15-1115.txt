@@ -1,0 +1,35 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+L15-1115.TXT
+
+ L15-1115.ZIP
+
+  L15-1115.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 15 - Industrial zone
+
+  Kills    100%
+  (Items   100)
+  Secrets   90%  and Time  11:15
+                           -----
+
+
+Description: A very big level with alot of monsters, I don't understand
+             why the secret rate is only 90% - I don't believe there's
+             anything more to get.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+
+[ Admin. Note ;-)  Even DooM II has got some bugs in it ;-(  90% is the
+  maximum possible secrets score... This one counts - Thanks for it :-)
+
+S.;-) aka. The "Judge". ]
+
+

@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-450.TXT
+EV32-450.ZIP
+
+EV32-450.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 32 - Caribbean
+
+Kills    100%
+Items     11%           
+Secrets  100%  
+
+   ...and Time  4:50
+               ------
+
+
+Description: Finally, after 3 hours of Dooming heh. I dunno how the hell i got
+	     this time though, the demo is filled with mistakes and bad moves.
+	     I might try to make a better demo, if Henning comes up with a 
+	     better time...:)
+	     
+
+
+Author: Yashar Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

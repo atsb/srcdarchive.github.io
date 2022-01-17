@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM21-028.TXT
+
+ NM21-028.ZIP
+
+  NM21-028.LMP - NightMare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 21 - "Nirvana"
+
+  Kills     39%
+  (Items    50%)
+  Secrets    0%  and Time  00:28
+                           -----
+
+
+  Description ;-)
+
+  There is a way for getting the invul and not lose time at all.
+  Just go for the imps' elevator first, then go for the invul
+  and run back, catching the elevator just as it rises.
+  It's terribly hard though, especially with the hell knights
+  around... I could only do it with -nomonsters.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

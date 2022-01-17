@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM24p024.TXT
+
+MM24p024.ZIP
+
+MM24p024.LMP - Ultra-Violence Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 24 - Diehard
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:24 *
+              ********
+
+
+Description:
+
+I think I could get this down to :23 with lots more playing, :22 and :21 would probably be
+out of reach for me though. Thanks to Altima who inspired me with his run.
+
+Author:      Erik Alm
+E-mail:      erik_a80@hotmail.com
+

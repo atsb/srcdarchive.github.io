@@ -1,0 +1,48 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV22-524.TXT
+EV22-524.ZIP
+
+EV22-524.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 22 - Habitat
+
+Kills    100%
+Items     45%           
+Secrets  100%  
+
+   ...and Time  5:24
+               ------
+
+
+Description: Well, here's another map with a really stupid concept, just like
+	     map04. And again, why the fuck would this author think anyone 
+	     would wanna spend 5 minutes just to get the Plasma Gun, some Cells
+	     and 100% Armor, which you'll have to use in the same places you
+	     got them from, when you can exit the map in 20 seconds? I mean,
+             in one way you can play through the map in 20 seconds, and the 
+	     "maxdemo" way it takes you 5 minutes? Was this designed by Ty
+	     Halderman? Is he gettin senile or something? Well, this map sucks,
+	     good playability though, except for the tunnels. It could be a fun
+	     map, if it only had been changed a bit. By the way this was my
+	     second try today, usually i gotta warm up first, but i didn't 
+	     enjoy this map so i'll just leave the time the way it is. Maybe
+	     a better one later... Oh yeah, almost forgot. There's alot of 
+	     linedefs you gotta cross, to get 100% secrets, but why is that
+	     when these "secrets" are more like traps, you will go through the
+	     "secret" hallways anyway, but this stupid author wants you to 
+	     enter every single door in these so called "secret" places. I got
+	     5:01 yesterday, but forgot to cross every "secret" line so i only
+	     got 88% secrets or something. I really enjoyed TNT: Evilution when
+	     i first started recording these demos, but now i hate it thanx to
+	     maps like these. Why do you bother reading all this by the way?
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

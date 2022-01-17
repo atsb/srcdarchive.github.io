@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ ***** CN10-130.ZIP - Coop. NM Speed *****
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+ Level 10 - Refueling Base
+         
+           *********
+           * 01:30*
+           *********
+                   
+			     KILLS  ITEMS  SECRET 
+
+ ***** Twister - Green *****   16%     5%     0%
+
+
+
+ ***** MeThOd - Indigo *****    9%    19%    22%
+
+	
+ Description: Demo was recorded at 17.4. 2003 in Prag.
+
+	Twister: I haven´t fear at the end ever :)
+	MeTh0d : Ok.
+
+
+   David "mr.twister" Ficenec <mr.twister@gamezone.cz>
+   Jakub "method_man" Razak <dale007@volny.cz>

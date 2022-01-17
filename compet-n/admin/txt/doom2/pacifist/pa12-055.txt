@@ -1,0 +1,34 @@
+[ Taken from "Kid Crusader"'s D2P6 exam d2p6kc00 ]
+
+PA12-055.TXT
+
+ PA12-055.ZIP
+
+  PA12-055.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:55
+                           -----
+
+  Description:  
+	In this lmp I used keyboard strafing for
+	the long runs outside otherwise it's all mouse
+	strafing.
+	Next time I'll be 3 seconds faster in the exit
+	room plus 1 second for keyboard strafing between
+	blue and yellow keys!
+	BTW: You can get the yellow key from outside the
+	back wall of that small room. I never get any
+	advantage out of it so I take it the traditional
+	way - through the door.
+           
+       Author:  "Kid Crusader"
+
+
+

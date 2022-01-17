@@ -1,0 +1,24 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom-nightmare-e2m8-0003157.lmp and doom-nightmare-e2m8-0003157.txt
+Date     : 2018-2-19
+Game     : Ultimate Doom
+Client   : Competition Doom V2.0.3.2
+Category : Speed
+Map(s)   : E2M8: Tower of Babel
+Skill    : 5 (Nightmare!)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 0%
+Secrets  : 0% (No Secrets in Map)
+Time     : 31.57
+===================================
+Description: Dozen of attempts and multiple 33-35 time demos later, well I got around 31 seconds, even if it is
+behind the Compet-N record by 1 second (though CNDoom has a separate database so...). I would try again
+for at least 30 but I can't say I am fond of relying on RNG to get me the time there, especially since it took
+me longer than I thought to get 31.57. I guess this works.

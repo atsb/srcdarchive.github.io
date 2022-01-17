@@ -1,0 +1,17 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        UV Speed
+Map:             e1m4
+Players:         2
+
+Kills:           0%
+Secrets:         0% 
+Time:            0:15
+
+Green:           Marko "Python" van der Want
+Indigo:          Arno "SlagDooM" Slagboom
+
+Comments:        1 second improvement over ViNi's time.
+                 We can't do faster, because of a 1-second
+                 delay at the start of every coop demo. :(
+                 Maybe recording in DOS will solve this...

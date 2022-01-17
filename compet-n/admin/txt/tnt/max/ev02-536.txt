@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV02-536.TXT
+
+ EV02-536.ZIP
+
+  EV02-536.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 02 - Human BBQ
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  05:36
+                           -----
+
+
+Description: Do you smell the fresh meat? Does it makes you angry you
+             throw away your pacifism so you turn into a killer?
+             There is not much health at the start and too much later.
+             And no real good weapon, the SSG is too far away. I Dunno
+             any secret or which teleporter kills which Baron or Hell
+             Knight.
+             Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

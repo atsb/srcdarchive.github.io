@@ -1,0 +1,25 @@
+This is a Doom .LMP "Competition" Entry
+
+N4M7-011.TXT
+N4M7-011.ZIP
+
+N4M7-011.LMP
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M7 - Hell Beneath
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :11
+)---------------(
+
+Just a faster start. Could be :10 or even :9.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

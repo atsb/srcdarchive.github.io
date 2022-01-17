@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF31-827.TXT
+
+ HF31-827.ZIP
+
+  HF31-827.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 31 - The Descent
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 8:27 
+                          
+                          
+  Description: Completely inspired by Alexander's demo, there aren't any
+               route optimisations here worth noting. The central area
+               is quite fun, running around and staying alive, especially
+               when the PEs teleport in and it all goes chaotic :)
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

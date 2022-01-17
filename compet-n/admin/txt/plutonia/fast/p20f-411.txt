@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+P20F-411.TXT
+P20F-411.ZIP
+
+P20F-411.LMP - Ultra Violence - Fast Monsters!
+
+Recorded using Final Doom Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 20 - The Death Domain
+
+Kills    100%
+Items      0%         
+Secrets  100%  
+
+   ...and Time   4:11 
+                ------       
+
+Description: After my uv recording this came quit easy....however it can
+             be tricky to actually survive the last part, especially when you 
+             try to aim for a certain speed...
+	     
+	     	     	     	     	     	     	          	
+Author: Henning Skogsto     
+E-mail:	h-doom-frisurf.no     

@@ -1,0 +1,87 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+2332NS01.TXT
+
+ 2332NS01.ZIP
+
+  2332NS01.LMP - NightMare! with 100% secrets run
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Episode 1 - Level 1 to Level 10
+         
+
+  Level    Kills  Items  Secrets    TIME
+  ======================================
+  LV01  -   96%    66%    100%   -  1:25
+  LV02  -   94%    40%    100%   -  1:40
+  LV03  -   44%    22%    100%   -  0:51
+  LV04  -  112%    67%    100%   -  1:50
+  LV05  -   87%   100%    100%   -  2:55
+  LV06  -   80%    11%    100%   -  2:28
+  LV07  -  121%    50%    100%   -  1:31
+  LV08  -   61%    80%    100%   -  2:00
+  LV09  -  100%    42%    100%   -  5:11
+  LV10  -  104%    65%    100%   -  3:41
+  ======================================
+                      TOTAL TIME - 23:32
+                      ==================
+
+
+
+Description:  Well, I'm very happy to get this :) I was trying hard
+              last August, inspired by Adam Hegyi's 07ns, and three times
+              got to map09, but couldn't get past. It all seemed too much
+              trouble, and I gave up.
+
+              Last week I started playing some D2 nm100s for Dang, and I
+              thought about this again. After coming up with some different
+              routes for 08 and 10, I was able to make it through these
+              maps regularly on fillup sessions. So I sat down to record
+              for real... and half an hour later had this. It was pretty
+              simple in the end...
+
+        LV01: This level is just annoying. I just try to save my health and
+              kill everything.
+
+        LV02: No change. One of my better times...
+
+        LV03: No change. Fell off a ledge, losing health for 04.
+
+        LV04: It gets harder, the crucial point is the SSG secret, make it
+              out of that and you're fine. The time would have been better
+              but a spectre wanted to play hide and seek...
+
+        LV05: Full route credits to Adam Hegyi. The end can get hectic...
+
+        LV06: The secrets aren't any trouble here.
+
+        LV07: Mancubus part went terrible, arachnotron part went great.
+              Had lots of health, but you don't need much for 08.
+
+        LV08: There are two crucial points. Making it to the BFG (but that's
+              just timing) and after leaving the PE room: if the door isn't
+              opened before the invuln runs out, you're in trouble. Otherwise,
+              this is very easy, and I usually made it in fillup sessions.
+              But strange things can happen here...
+
+        LV09: The BFG secret is a bitch to get. Getting out can be even
+              tougher sometimes: here I have to wait for the ledge to stop
+              going up and down. After that it gets easier. You better kill
+              all the PEs or you'll have trouble at the end.
+
+        LV10: Came up with this route when I was trying to get a ns10, and
+              it takes all the stress out of recording this level. It's
+              very important to use all the health available. The end was a
+              bit close: usually I make it out with a lot more health. This
+              route had a 90% chance of success in fillup sessions...
+
+
+
+Author: Chris "Ryback" Ratcliff
+
+Email: ryback@fcmail.com
+

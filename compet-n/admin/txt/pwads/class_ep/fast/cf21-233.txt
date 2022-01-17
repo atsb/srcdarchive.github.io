@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CF21-233.TXT
+
+ CF21-233.ZIP
+
+  CF21-233.LMP - Ultra Violence with -fast
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M1 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 02:33 
+                            
+                          
+
+  Description: I've had this lmp kicking around for a couple of months,
+               cause I didn't want to upload. But okay, Anthony, your
+               pleas have not fallen on deaf ears. I'll upload this
+               and some other stuff. This is a hard level for -fast, as
+               all angles are covered. You can try and defend the
+               start, but there's not enough ammo. And there's not
+               enough health...
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M202P037.TXT
+
+ M202P037.ZIP
+
+  M202P037.LMP - Pacifist
+
+  Recorded using "Doom 2 v1.9"
+  Doom2 -File mm2.wad -PlayDemo with Doom2 v1.9
+
+  Memento Mori 2 - Map02 - Feeding Pit
+
+  Kills      17%
+  (Items     66%)           *********
+  Secrets    50%   and Time * 00:37 *
+                            *********
+
+
+  Description: Yes, Vile, a very polular run. Still don't understand the
+               lift mechanism.
+
+
+    
+  Radek Pecka
+  r.master@email.cz

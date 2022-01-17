@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+           Green - Vincent "Peroxyd" Catalaa    (vincentDS@netcourrier.com)
+
+game:     The Ultimate Doom
+category: coop speed
+mission:  e2m4
+
+time:     0:39.82
+
+Vincent : a little coop trick that saves some time...
+
+xit-vono : those imps can be annoying
+          
+Misc: Recorded on Lan at xit-vono's house
+          

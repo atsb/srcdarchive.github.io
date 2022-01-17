@@ -1,0 +1,69 @@
+This is not just another DooM .LMP "Competition" Entry...(:
+
+30FAMAX2.TXT
+
+ 30FAMAX2.ZIP
+
+  30FAMAX2.LMP - 100% kills & secrets -FAST monsters!
+
+  This is a Compet-N/Doom2/MOVIE/Entry...
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+
+              Time   ParTime  
+  --------------------------
+  LV 01  -    0:56    0:30    
+  LV 02  -    1:33    1:30     
+  LV 03  -    1:39    2:00     
+  LV 04  -    1:28    2:00    
+  LV 05  -    2:56    1:30           
+  LV 06  -    3:30    2:30    
+  LV 07  -    1:23    2:00    
+  LV 08  -    4:04    2:00    
+  LV 09  -    5:16    4:30    
+  LV 10  -    5:31    1:30    
+  LV 11  -    3:54    3:30    
+  LV 12  -    4:39    2:30    
+  LV 13  -    5:59    2:30    
+  LV 14  -    2:57    2:30    
+  LV 15  -    7:24    3:30          
+
+  LV 31  -    2:55    2:00    
+  LV 32  -    1:12    0:30    
+
+  LV 16  -    3:28    2:30    
+  LV 17  -    5:45    7:00         
+  LV 18  -    4:05    2:30     
+  LV 19  -    4:59    3:30    
+  LV 20  -    6:35    2:30     
+  LV 21  -    3:50    4:00    
+  LV 22  -    2:27    2:30          
+  LV 23  -    4:46    3:00     
+  LV 24  -    8:08    2:30    
+  LV 25  -    2:51    2:30    
+  LV 26  -    6:14    5:00    
+  LV 27  -    5:40    5:30    
+  LV 28  -    4:51    7:00    
+  LV 29  -    5:47    5:00    
+  LV 30  -    1:23    0:30    
+  --------------------------
+Total time   128:05   95:00
+             ****** 
+
+  Comments:
+   
+  This is my first 30famax, don't expect a superb movie. I made some 
+  mistakes during the recording, specially in the 3rd episode where
+  I started to be nervous (map26 sucks a lot). On the other hand some
+  maps went really good. I took the safest routes I know, so the lowest
+  health I had was 24% and that happened in map30. ;) More risky playing
+  could break 2 hours, definitely. Special thanks goes to Vincent, he
+  showed us this is possible some 3 years ago.
+
+
+  Radek Pecka 
+  r.master@email.cz            
+  http://doomaniax.bonusweb.cz
+          

@@ -1,0 +1,24 @@
+[ Taken from David Derrick's D1M exam d1m-dmd ]
+
+P3M8-211.TXT
+
+ P3M8-211.ZIP
+
+  P3M8-211.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.3 Mi.8
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  02:11
+                         -----
+
+  Description:
+Free interpretation     : E3M8 without firing a shot. I also do a neat job of
+                          completely missing both heavy weapons on the level.
+
+  Author:  David Derrick
+

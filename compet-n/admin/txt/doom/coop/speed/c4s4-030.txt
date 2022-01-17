@@ -1,0 +1,16 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        Speed
+Map:             e4m4
+Players:         Adam Williamson, Tom Gregory
+
+Time:            0:30
+
+Player1:         Tom
+Player2:         Adam
+
+Comments:        Adam goes to imps and lowers wall in front of red key. Tom
+                 takes red key and opens door. Adam takes right switch and
+                 lift switch, Tom takes left switch...and then there's a race
+                 to the exit :)
+                 

@@ -1,0 +1,29 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : f4m5-232.lmp, f4m5-232.txt
+Date     : 2015-03-08
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max
+Map(s)   : E4M5: They Will Repent
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  24%
+Secrets  : 100%
+Time     : 00:02:32
+===================================
+Description:
+
+Most of lost souls were not able to be ignored on fast monsters. 
+This run could have been faster, but I stopped it because it was not fun. 
+
+
+107th Compet-N Entry

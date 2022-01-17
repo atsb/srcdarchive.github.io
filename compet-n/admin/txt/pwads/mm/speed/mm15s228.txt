@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+MM15s228.TXT
+
+ MM15s228.ZIP
+
+  MM15s228.LMP - Ultra Violence via secret exit
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 15 - Karmacoma
+
+  Kills     15%
+  Items     36%
+  Secrets   10%  and Time  2:28
+
+
+  Description :-)
+
+  The archvile room can be very annoying... In this demo I use the
+  secret exit, which can be reached without raising the ledge outside
+  the windows.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

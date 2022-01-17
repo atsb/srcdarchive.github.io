@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV01-b54.TXT
+
+ LV01-b54.ZIP
+
+  LV01-b54.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 1 - "Entryway"
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:54
+                           -----
+
+
+Description: I have changed the route since the last recording.
+             Had a few mistakes but the time was quite good anyway.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

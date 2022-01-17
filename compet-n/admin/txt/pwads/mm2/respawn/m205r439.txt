@@ -1,0 +1,37 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m205r439.lmp                        |
+            | Category: Respawn                             |
+            | Map Level: MAP05 - Rites Of Passage           |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    102%                            |
+            |      Items     28%           ********         |
+            |      Secrets  100%  and Time * 4:39 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I got 5:18,5:47,5:21,5:11,5:21 again so this run received a warm       |
+| welcome. Yellow key area looks nice, but at least two moments are very |
+| ugly: getting stuck near a medikit (surrounded by those fast lifts),   |
+| and getting stuck on a lift near the red key door (6% health, so how I |
+| survived this, Mr.Sergeant?) Maybe there are faster routes, who knows. |
+|                                                                        |
++========================================================================+

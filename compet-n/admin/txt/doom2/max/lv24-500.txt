@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+LV24-500.TXT
+
+ LV24-500.ZIP
+
+  LV24-500.LMP - UV max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 24 - The Chasm
+
+  Kills    100%
+  (Items    63%)
+  Secrets  100%  
+
+            ... and Time   5:00
+                          -----
+
+  Description:
+
+  This is one of those maps where it seems
+  always something goes wrong, like I will
+  fall down somewhere, hurt myself with a
+  rocket or those cacos teleport and I have
+  to wait a long time for them.  But this time
+  things went pretty well.  I left a caco alive
+  and the imps didn't come out like they are
+  supposed to but in there things die pretty
+  quickly.  Also I got stuck on the pigs in
+  end so that cost a little too.  I think next
+  time it would be a good idea to use more
+  rockets.
+
+  Xit Vono
+  xit_vono@yahoo.com

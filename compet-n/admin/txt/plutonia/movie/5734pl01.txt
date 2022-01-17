@@ -1,0 +1,101 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+5734PL01.TXT
+5731PL01.ZIP
+
+5734PL01.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file plutonia.wad -playdemo with version 1.9
+
+Final Doom: The Plutonia Experiment - Episode 1 - Max-Kill
+
+
+                       Time     Kills     Items     Secrets
+-----------------------------------------------------------------
+01 - Congo             3:47      110%        0%       100%
+02 - Well of Souls     3:19      100%        3%         0%
+03 - Aztec             5:09      101%      100%       100%
+04 - Caged             6:01      100%       96%       100%
+05 - Ghost Town        6:17      100%      100%       100%
+06 - Baron's Lair      6:07      100%      100%       100%
+07 - Caughtyard        2:51      100%      100%       100%
+08 - Realm             6:28      102%       83%       100%
+09 - Abattoire         9:29      100%       75%       100%
+10 - Onslaught         8:06      117%      100%       100%
+
+Total                 57:34
+
+
+01: Heh, the average time for this map was around 3:10...but as you can tell, the
+    Archie didn't wanna die with rockets, and because I was running low, I had to
+    resort to other weapons -_-' Otherwise, this was the usual run.
+
+02: The average time and usual run here. Nothing went wrong really, just the end
+    Revenants would sometimes deal some lethal blows there, but things went pretty 
+    smooth here. ^_^
+
+03: Bah....usual time was 4:45 -_-' I dunno what happened for this one to go as
+    slow as it did here...and that stupid Revenant guarding the Soul Sphere wasn't
+    stunned by my Chaingun...odd, he normally would be. ^^'
+
+04: This is slow compared to my usual time, which is 5:30 or so. That Baron scared
+    me while I had the rocket launcher...I mean, the thing teleports right in front
+    of me! In my opinion, this is Plutonia's first challenging map for me.
+
+05: Heh...umm....boy did things go really badly here ^^' First, I blast myself with
+    a rocket, secondly, I come down to 4% health!!! And also, this is another map
+    where I had a below-average time for me! Jeez the frustration!!! >.< And what
+    in the heck was I thinking when I decided to pick off the exit Barons through
+    the wall cracks? o.O
+
+06: Heh...just slightly slower than normal, average here was 5:50, but a 6:07 isn't
+    that bad for me ^_^ That Cyberdemon scares me...he's just in a bad spot, but all
+    the practice from my ev31 Max-Kill demos payed off here, as I got the Cyber in
+    (somewhat) close quarters and layed into him with the Plasma ^_^
+
+07: Fun!!! ^_______^
+
+08: The first of the "two evils" as I called them while recording. This map has no
+    armor, so anything left over from pl07 has to last through both, pl08 AND pl09!
+    >.< And I'm still scratching my head...I eat a Manco-fireball THROUGH the wall!
+    Not much else to say though about it ^^'
+
+09: The second of the "two evils" as I called them while recording. I only exited
+    this map twice. The first time, the time was below 9 minutes and I stayed on
+    the ledge...but I died in pl10 soon after -_-' Anyway, this map was probably the
+    hardest one for me, as I just could NOT seem to stay on the exit room ledge, and
+    kept falling off, which means that I should just stop recording...there's no
+    getting back up once you fall -_-' Also, there is no armor until the end
+    room...where you don't really need it by then...oiy. I used a totally new strategy 
+    here in an attempt to stay on the ledge which I did. If you look close, when I'm 
+    fighting the second Revenant, I STILL nearly manage to screw up and fall off!! I 
+    could really care less about the time here, I just wanted to get out alive! >.<
+
+10: This map gave me a few surprises...I used the remaining Plasma and Rockets here
+    and the ending gave me some surprises when all those enemies started teleporting
+    in when I thought everything was already dead. Those dual Archies really had me
+    worried near the end, so I stayed hid in the Plasma secret and tried to pick one
+    of them off...but I eventually run past ^^' Then the last set of teleporters kinda
+    gave me a startle, and I run out of Plasma here. The exit room didn't worry me
+    much, luckily it's pretty tame. ^_^
+
+Well...I spent a good few weeks on this demo. Hopefully someone will spare destroying
+this one before the update...I know the total time isn't good, in fact it could be a
+LOT faster, but I love Plutonia and it deserves to have a Max-Kill movie on it. ^_^
+
+I went fast in the parts I knew EXTREMELY well and other parts I went slow so I
+wouldn't screw up. Although many, MANY times I did screw it up anyway ^^' Given the
+large number of deaths, I still found this to be a fun demo to record ^_^
+
+Well, I hope you guys enjoy this...and I hope it can stay a record until the next
+update ^_^
+
+
+Author: Casey Alvis
+E-mail: altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name: Altima Mantoid
+
+
+09.09.2002

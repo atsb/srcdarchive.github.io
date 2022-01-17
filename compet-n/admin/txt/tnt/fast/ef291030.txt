@@ -1,0 +1,24 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF291030.TXT
+         
+ EF291030.ZIP
+
+  EF291030.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -file tnt.wad -PlayDemo with Version 1.9 
+
+  Final Doom - TNT Evilution - Level 29 - River Styx
+
+  Kills    104%
+  Items     90%                   
+  Secrets  100%  and Time = 10:30 
+                                  
+
+
+Description: I chose this level because of the music here- it's my favourite. This is a                  first exit recording so there's much room for improvement like allways. And                 remember, shooting a wall with your RL when close to it isn't a good idea in sp              too not only in deathmatch. :)))
+
+
+Author: Tomas "DeDo" Kollar
+Email: akollar@edoma.sk

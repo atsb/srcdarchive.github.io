@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PT06-322.TXT
+
+ PT06-322.ZIP
+
+  PT06-322.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 06 - Baron's Lair
+
+  Kills    100%
+  Items     75%           ********
+  Secrets  100%  and Time * 3:22 *
+                          ********
+
+
+Description: After doing this map with fast monsters in 3:42 for the
+	     GM-Collection (you have still not watched it? Why?) I felt like
+	     I should record this on UltraViolence too. I think you can't be
+	     better than let's say 3:15. Maybe I still use too much SSG. But
+	     I can't change my mind, SSG is the best weapon for Pigs. Even if
+	     it kills them slower than maybe Plasmagun and Rocket Launcher.
+	     It is really easier here to kill the Cyberdemon without any trick.
+	     Sometimes I die there because I am stuck at these damn poles. If
+	     you ever design a map, don't place such stuff at critical places.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

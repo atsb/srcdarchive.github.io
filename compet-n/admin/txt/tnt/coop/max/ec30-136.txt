@@ -1,0 +1,41 @@
+This is a DooM .LMP UV-MAX "Competition" Entry - Please forward it...
+
+ec30-136.TXT
+
+ ec30-136.ZIP
+
+  ec30-136.LMP - uv max
+
+  Recorded using doom2 1.9 -file tnt.wad ! @nederlan 2002
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: evilution - Level 30
+
+  Kills... we don't care about that garbage... :) ONLY THE BOSS COUNTS
+
+              *********
+     and Time * 01:36 *
+              *********
+
+	green:  df	bjorn@hamels.nl
+	indigo: ethh	dimethyl@pandora.be
+
+  Description :-)
+  
+  [ df: ]
+
+	The beginning took some time for me to figure out the route, as 
+	like this azerty keyboard :)
+	The cyber was quite easy when we found out that it walks left if
+	you come in shooting your gun.
+
+  [ ethh: ]
+
+	yes, that cybbie is stupid. thanks for letting me the honor to
+	frag the boss. it's all that matters in map30's anyway ...
+	this demo has no further pretention that being a decent (good) demo.
+	there's no exploit nor blunder, it goes pretty smooth, so we'll
+	leave it at that for the time being. since the final doom coop
+	tables are to fill, our priority is now to record as many good
+	demos as possible, so that the tables actually look like something.
+	later on, we'll improve existing demos.

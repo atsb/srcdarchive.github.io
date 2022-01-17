@@ -1,0 +1,25 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+c2n4-054.txt
+
+ c2n4-054.zip
+
+  c2n4a054.lmp
+  c2n4m054.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  e2m4 -   Deimos Lab
+  Cat:     Nightmare
+  Time:    0:54
+
+
+Marko:	     Arno says this is a sitty demo...he didn't want to upload it....
+	     he stil had it on his harddisk. :)
+	     If U think it is bad then just improve it. :))
+	     I know there is space enough to improve this one...0:49 is easy possible I think.
+
+Green:       Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:      Arno SlagDooM                (arnoslag@bart.nl)
+  

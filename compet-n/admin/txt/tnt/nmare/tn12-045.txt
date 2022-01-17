@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+  TN12-047.LMP - Nightmare! Speed
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 12
+
+  Kills     ??%
+  (Items    ??)
+  Secrets   ??%  and Time  00:45
+                           -----
+
+  Description:
+
+Easier than nm100s this, don't have to worry about that damn archie :).
+Credit to Opulent here for the route used at the start - getting the chaingun
+early helps when you don't need the RL. Easiest way to save time here would
+be to ignore the chaingunner on top of the RL entirely, but he does have
+a nasty habit of killing you if you do that. :)
+
+
+  Author:      Adam Williamson
+  E-mail:      adam.williamson1@btinternet.com
+

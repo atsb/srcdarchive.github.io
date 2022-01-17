@@ -1,0 +1,25 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Speed
+Map: 09
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 19%
+Items    : 25%
+Secrets  : 50%
+Time     : 00:45.51
+
+Description: 
+Really big shame about that glide, I was very lucky to get in the perfect position so quickly.
+I discovered several months ago a consistent way to do the glide, and in order to not walk past the gap 
+you need to take 1 step back, but I messed up by walking forward from the start so I missed the glide.
+
+Also cacodemon was closer to the elevator which means I don't have to kill him.
+I also think I only needed to kill 2 of those spectres, but it's sometimes hard to locate all
+the spectre locations quick enough to know if you can ignore them or not.
+I was kind of hesitating once I got the glide and went through the teleporter, 
+should usually fire a rocket right away at the imps, so luckly I didn't get stuck in barons\imps.
+
+This might be the map I have spent the most time on in doom, which was for my 30pl runs, 
+though at least 90% of that time was spent figuring out the glide.
+I think this can go as low as 42.xx, you might need some luck with the spectres\cacodemon and a faster glide.

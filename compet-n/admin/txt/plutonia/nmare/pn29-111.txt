@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN29-111.TXT
+
+PN29-111.ZIP
+
+PN29-111.LMP - Nightmare! Speedrun
+
+Recorded using Doom II version 1.9
+Doom2 -file plutonia.wad -playdemo with Doom II version 1.9
+
+Final Doom: Plutonia Experiment - Level 29 - Odyssey of Noises
+
+Kills     10%
+Items     33%
+Secrets   50%
+
+              ********
+  and Time -  * 1:11 *
+              ********
+
+
+Description :
+
+  First exit..
+  
+
+ Jakub "method_man" razak
+ dale007@volny.cz

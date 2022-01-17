@@ -1,0 +1,47 @@
+This is a DooM .LMP "COMPET-N/Maxkills" Entry - Please forward it...
+
+L30-1840.TXT
+
+ L30-1840.ZIP
+
+  L30-1840.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+  Time    18:40
+  (Items    83)
+  Secrets    0  and Kills  25200
+                           -----
+
+Description: I have not yet seen DL's 20700%, but I think he had more work.
+             You can stand as long as you want and listen to the monsters
+             telefragging. But it gets harder to place your last 3 rockets,
+             because you will have problems with invisible shots.
+             This .LMP is completely annoying, you don't have to see it.
+             I think we should stop the maxkills competition, it will lead
+             to 100000% and then you have to play it in map mode [ TAB ],
+             when you want to see all the shots.
+             Let's calculate, what the limit will be:
+             3072 KByte / 220 KByte * 25200 = 350,000%
+             The other way is to get the interval time of the icon thrower.
+             After the placement of the first 16 monsters every other will
+             count.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+
+[  Admin. Note ;-(  Kai-Uwe is correct that the monsters continue to tele-
+   frag each other and you can simply wait around for a highest kill count
+   and so this .LMP ends the maximum kills entry, WON by Kai-Uwe, period !
+
+S.;-) aka. The "Judge". ]
+
+

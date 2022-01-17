@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M214N841.TXT
+
+ M214N841.ZIP
+
+  M214N841.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 14
+
+  Kills     61%
+  Items      3%           *********
+  Secrets   28%  and Time *  8:41 *
+                          *********
+                          
+
+  Description:
+  Thanks Xit Vono for TAS and Creaphis for the glide :)
+  Yesterday died to the exit room because of two shotgun guys. This time I was lucky
+  with the blue armor.
+
+  Author: Looper

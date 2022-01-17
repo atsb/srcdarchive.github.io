@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry
+
+LV13-107.TXT
+
+ LV13-107.ZIP
+
+  LV13-107.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - Downtown
+  
+  Kills     10%
+  (Items     6%)
+  Secrets   12%  and Time  01:07
+                           -----
+  
+  Description :-)
+
+  I'm really sorry for Adam and Henning because they
+  surely worked very hard for their runs... but they
+  knew this could happen anytime.
+  
+  Anyway, I had to work hard too. About every 40 tries
+  I get the grab once... and needed about 10 grabs to finally
+  make it. Surely this is the hardest keygrab of all... I think
+  it compares to some of the jumps/rocketjumps we have.
+
+  Then, 1/2 of the successful grabs are stopped by
+  that damned mancubus, I still can't find a reliable way
+  not to wake him up. Then 1/2 of the attempts die at
+  the jump to the blue door... not to mention all the
+  other places where I screwed up. This is the 3rd time
+  I got to the exit in 4 hours of play... there was a 1:11
+  and a 1:08 before.
+
+  Originally I wanted to do 1:05 because the trick should
+  save 4 seconds in theory, but this route is really tiresome
+  so I gave up after I got 1:07.
+
+  So 1:05 is still possible, even 1:04 I think.
+  Go get it if you want, it won't be easy... and it's NOT
+  possible without the keygrab.
+
+  Adam: you can still do 1:08 without any strafe50 to prove that
+  Daniel's 1:09 is beatable without it :)
+
+  Adam Hegyi
+  ha211@hszk.bme.hu  

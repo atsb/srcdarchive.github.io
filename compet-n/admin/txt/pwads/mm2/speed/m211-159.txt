@@ -1,0 +1,37 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m211-159.lmp                        |
+            | Category: UV Speed                            |
+            | Map Level: MAP11 - Sewer Shutdown             |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     36%                            |
+            |      Items     18%           ********         |
+            |      Secrets   12%  and Time * 1:59 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| If you're lucky (not too many demons blocking your path) and healthy,  |
+| you may try it without the megasphere, just grab the blue armor, pray  |
+| for even more luck and get a time around 1:45... Well, that's what I   |
+| guess would be a good time here for a modern speedrunner-perfectionist.|
+| I don't use SR50 in this map, the hallways are too curvy for me.       |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,25 @@
+This is a DooM "COMPET-N/doom/nmare" entry. Please forward it...
+
+N3M9-124.TXT
+
+ N3M9-124.ZIP
+
+  N3M9-124.LMP - NightMare!
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 3 - Inferno
+  Mission 9 - Warrens
+
+  Kills     ??%
+  (Items    ??)
+  Secrets    ?%  and Time  01:24
+                           -----
+
+ Description: I got this level for 1:24 in nmare mode, and had decided
+that is pretty close to 1:20 in uv. After that recorded e3m9-119.lmp
+
+Ilya Britvich
+
+gll@mx.ihep.su 

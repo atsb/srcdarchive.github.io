@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+MM05p054.TXT
+
+ MM05p054.ZIP
+
+  MM05p054.LMP - Pacifist Style!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 05 - Hell's Kitchen
+
+  Kills      ?%
+  Items      ?%            ********
+  Secrets    ?%  and Time  * 0:54 *
+                           ********
+
+  Description :-)
+
+  Just one second improvement, but don't feel like playing it again at
+  the moment. The caco in the corridor is very annoying...  
+
+
+  Radek Pecka
+  r.master@email.cz

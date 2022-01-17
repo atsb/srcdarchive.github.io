@@ -1,0 +1,21 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM2
+Category:        uv speed
+Map:             25
+Players:         2
+
+Time:            0:47
+
+Green:           Marko "Python" van der Want
+Indigo:          Selim "Zamel" Benabdelkhalek
+
+Comments:        We had to think about the best solution to some problems.
+		 Like saving health for the runner.
+		 So I took some monsters down on the most important places. Like that one 
+		 chaingunner up the 2nd floor. :) that one is a health sucking bitch!
+		 And Selim does the excellent running.:) He must have nerves of steel. :))
+
+		 Only 3% health left here!!!
+
+
+		 

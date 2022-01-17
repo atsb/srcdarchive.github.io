@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CN27-110.TXT
+
+ CN27-110.ZIP
+
+  CN27-110.LMP - Nightmare!
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M7 - Deimos Anomaly
+
+  Kills     41%           
+  (Items    25%)          
+  Secrets    0%  and Time = 1:10 
+                            
+                          
+
+  Description: AFAIK, the first Classic Episode nm demo. The other levels
+               are grim wars of attrition, but this one is possible to blaze
+               through, if you don't try to be *too* bold.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

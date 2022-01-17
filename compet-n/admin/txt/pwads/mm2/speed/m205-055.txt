@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M205-055.TXT
+
+M205-055.ZIP
+
+M205-055.LMP - Nightmare! Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 05 - Rites Of Passage
+      
+Kills        0%
+Items        1%
+Secrets      0%
+
+              *********
+  and Time -  * 0:55 *
+              *********
+
+
+Description:
+
+I found a way to succeed the jump fast and it's not so hard
+I just move forward at beginning and then SR50 to right, it
+still requires good timing on when to SR50.
+This run looks good enough to me but it can still go faster
+optimal would be 53 or even 52!
+
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

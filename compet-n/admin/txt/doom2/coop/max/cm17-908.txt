@@ -1,0 +1,39 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cm17-908.txt
+
+ cm17-908.zip
+
+  cm17-908.lmp  Ultra-Violence MAX
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP17
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Nicolas
+  Indigo    ??%      ??%      ??%      Vincent
+
+  Time:    9:08
+
+Comments: 
+
+	We didn't really tried for max kills here.
+        We were looking for a way to kill the cyberdemon
+        quickly...we found it... have fun :).
+     
+        Once we got it, we played quite slow, and i made sure
+        we weren't forgetting anything. => map17 coop max
+        was still empty :)
+
+
+
+
+
+Green:     Nicolas Gandou   (nicodv@netcourrier.com)
+Indigo:    Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+
+

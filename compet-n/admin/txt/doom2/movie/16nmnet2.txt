@@ -1,0 +1,112 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+16NMNET2.TXT
+
+ 16NMNET2.ZIP
+
+  16NMNET2.LMP - Two Players COOPerative NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 1 to Level 16
+
+                                               Approx    Added
+                        Kills Items Secrets     TIME     Time
+
+  LV 01 Entryway          14%   0%   20%        0:22     0:22        Green
+                          33%   0%    0%                             Indigo
+
+  LV 02 Underhalls        42%  57%  100%        1:15     1:37        so on
+                          31%  14%    0%                             ...
+
+  LV 03 The Gantlet       19%  10%    0%        0:46     3:23
+			  24%  20%  100%
+
+  LV 04 The Focus         34%   0%    0%        1:26     4:49     
+                          65%  60%   33%                 
+
+  LV 05 Waste Tunnels      5%   0%    0%        0:37     5:26     
+                          14%  42%    0%                 
+
+  LV 06 The Crusher       28%   5%   33%        2:06     7:32
+                          41%  11%   33%                 
+
+  LV 07 Dead Simple       47%  28%    0%        0:47     8:19
+                          52%  42%  100%                 
+
+  LV 08 Tricks and Traps   7%  60%    0%        0:54     9:13
+                           0%   0%    0%                 
+
+  LV 09 The Pit           26%   4%    0%        1:44    10:57     
+                          21%  29%    0%                 
+
+  LV 10 Refueling Base    11%  44%   38%        1:34    12:31
+                          10%  11%    0%                 
+  
+  LV 11 Circle Of Death   25%   0%    0%        1:34    14:05
+                          29%   9%   66%
+
+  LV 12 The Factory        7%  20%    0%        1:35    15:40
+                          11%   0%    0%
+
+  LV 13 Downtown           0%   6%    0%        3:04    18:44
+                          32%  22%   25%
+
+  LV 14 The Inmost Dens   10%   0%    0%        3:10    21:54
+                          80%  50%    0%
+
+  LV 15 Industrial Zone   10%   0%    0%        1:11    23:05
+                           7%  11%   18%
+
+  LV 31 Wolfenstein        6%   0%    0%        0:51    23:56
+                          13%   3%   75%
+
+  LV 32 Grosse            15% 100%   33%        0:36    24:32    
+                           3%   0%   16%
+
+  LV 16 Suburbs            1%   0%    0%        1:11    25:43
+                           6%  40%    0%
+
+                                     Total time:  25:43 Approx!
+
+
+ Description:
+
+    After our 10 level recording we made some minor modifications in routes
+ of the first 10 levels. The result is approx 4 minutes faster... so we hope
+ you will enjoy this movie!
+
+ green player words:
+   I'm new in the coper game, so some minor mistakes may occur yet.
+  Thanks for Mr. Gorila (Laszlo Magori) and deity for the help. 
+
+ indigo player words:
+   I'm quite satisfied with this one. Times are great, and it also looks great.
+  -level 6 : By some luck I realized all of the jumps here.
+  -level 7 : 47 sec on nightmare, cool , quite close to our best. (45)
+  -level 9 : It was just too quick... Gabor doesn't reached the health bonus
+             so level 10 become quite though for him. (down to 13%)
+  -level 12: The end is so easy comparable to single play!
+  -level 14: We don't have a real coperative route here... :(
+             If you have some ideas about better cooperation, mail us!
+
+  -level 17: We have a solution for this one... not like we showed in this lmp,
+             but both of us made some BIG mistakes here, I don't want to 
+             discuss them... and NM playing doesn't admits the BIG mistakes.
+             Anyway this level is much harder than on single play!!!!       
+
+             
+  We choosed to upload it because level 17 is quite hard so it may takes some
+ time while we finish it with a better ratio, and while we practicing the rest
+ we give some movie for you to watch!
+      
+  Watch this, from both player point of view, and wait our next movie!
+
+Authors:
+
+ Green : Gabor Vas <maugli@balu.sch.bme.hu>
+ Indigo: Istvan Pataki <deity@balu.sch.bme.hu>
+

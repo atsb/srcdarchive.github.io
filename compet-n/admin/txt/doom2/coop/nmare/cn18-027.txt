@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cn18-027.txt
+
+ cn18-027.zip
+
+  cn18v027.lmp  
+  cn18z027.lmp  Nightmare !
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP18
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim	
+
+  
+  Time:    0:27
+
+
+Selim   :  Guess what? Yeah ! U got it right ! Table-Filling :)
+Vincent :  Typical route, common time :)
+
+Green:       Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:      Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+

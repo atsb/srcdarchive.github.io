@@ -1,0 +1,18 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou
+
+game:     doom2 v1.9
+category: coop speed
+level:    map13
+
+time:     1:37
+
+descrption: Another old demo I've found on my hard drive!
+	    Nicolas was still a keyboarder!
+	    
+-----
+Admin note (Ralf):   It seems that there are not enough weapons for a second
+                     Doomer :).
+

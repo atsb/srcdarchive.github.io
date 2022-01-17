@@ -1,0 +1,53 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E3M1-035.TXT
+
+ E3M1-035.ZIP
+
+  E3M1-035.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno
+
+  Mission 1 - Hell Keep
+
+  Kills     46%
+  Items     16%		   ********	
+  Secrets    0%  and Time  * 0:35 *
+                           ********
+
+
+Description: Okay, this is now very hard to beat. Because my local mirror at
+	     home is updated only every year, I thought first the record is
+	     still Yonatans 38 seconds. After not quite an hour of play I got
+	     a 0:36, and as I checked history.log I realized the Adam Hegyi
+	     had already played the same time. But I knew that 35 seconds are
+	     possible, because the 36 still had flaws, but I had to play for
+	     some hours to get this. Because I decide for speed or 100/100
+	     at the door, if I can pass the Cacos or not, I got also a 1:09
+	     100/100 meanwhile :) After 2 hours of play with no success I
+	     changed my tactics at the last Imps. When you retire after the
+	     first shot for a few moments, you'll need at least 50% health
+	     less, the success rate to reach the exit increase therefore to
+	     two out of three.
+	     Well, this LMP still has flaws, but it's also a very high 0:35
+	     (I think 2 gametics below 0:36), that's why I don't think it can
+	     be improved without days of recording. It's not impossible, I've
+	     got an LMP where I'm almost one second faster at the Imp's door
+	     (available on my page), maybe you can save also one shot for the
+	     Imps too. That would be a 34 then, but because it took me a long
+	     time to get this it's not very likely to be finished ever.
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

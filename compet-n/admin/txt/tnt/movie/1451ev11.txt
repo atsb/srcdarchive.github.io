@@ -1,0 +1,53 @@
+This is a DooM .LMP "Competition" Entry
+
+1451EV11.TXT
+1451EV11.ZIP
+
+1451EV11.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final DooM - TNT levels 11-20 on UV skill
+
+11 - storage Facility    -  :26
+12 - Crater              -  :47
+13 - Nukage Processing   - 1:22
+14 - Steel Works         - 2:07
+15 - Dead Zone           -  :21
+16 - Deepest Reaches     - 1:35
+17 - Processing Area     -  :56
+18 - Mill                - 2:41
+19 - Shipping/Respawning - 1:00
+20 - Central Processing  - 3:36
+
+Total - 14:51
+
+C-N entry #44, movie run #16.
+
+11: This is the first time I got a :26 here.. cool. :)
+12: Not a tough map.. the only thing of benefit here is the RL.
+13: Ouch, barely escaped with my life at the end of this one.
+14: Extremely low health at the start.. I'm amazing that I lived through it. :)
+15: Another low health start, but it doesn't matter much until map16.
+16: An unhealthy start usually means death, but somehow I got lucky enough to
+    live through it again.
+17: An average map, with some slowdown at the yellow key, but the archvile just
+    didn't want to die right away. :)
+18: Another map that seems strangely underpopulated, especially at the yellow key
+    area.
+19: Haw haw, Shipping/Respawning, I get it. :)
+    I didn't have to pick up the megasphere here, which saved some time.
+20: The longest map, but no problems here unless you have an unhealthy start.
+
+This episode is the easiest of the 3, where combat is lacking in many areas and
+there is not a lot that can go wrong, mostly due to a lack of tricks that I can
+mess up repeatedly. :)
+
+Thanks again to the players who previously ran this episode:
+
+- Vincent Catalaa
+- Chris "Ryback" Ratcliff
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

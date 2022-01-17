@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c1s2-027.txt
+
+ c1s2-027.zip
+
+  c1s2p027.lmp
+  c1s2s027.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e1m2 - Nuclear Plant
+
+          Kills    Items   Secrets
+
+  Green      0%       2%       0%      SlagDooM
+  Indigo    10%       0%       0%      Python
+
+  Time:    0:27
+
+
+Comment:      Nothing special, just deleting an AdamW demo. :)
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

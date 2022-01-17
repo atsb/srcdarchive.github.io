@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+MM071326.TXT
+
+ MM071326.ZIP
+
+  MM071326.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 07 - Not That Simple
+
+  Kills    103%
+  Items    100%           *********
+  Secrets  100%  and Time * 13:26 *
+                          *********
+
+  Description :
+
+               Lost much time in the labyrinth because I'm completely lost there.It's my                   first exit. I tried to improve but ran out of luck.
+
+ 
+  Tomas "DeDo" Kollar
+  kollarant@stonline.sk

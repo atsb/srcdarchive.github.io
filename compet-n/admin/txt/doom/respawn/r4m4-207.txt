@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M4-207.TXT
+
+ R4M4-207.ZIP
+
+  R4M4-207.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  
+  DooM - Episode 4 Mission 4 - Unruly Evil
+
+  Kills    103%
+  (Items    52%)
+  Secrets  100%  and Time  02:07
+                           -----
+
+Description:    > Hi Arno,
+
+                Hi Donatas!
+
+                > it's not that i'm so eager to take that half point from you or
+                > something, just i recorded the respawn lmp for this map awhile
+                > ago (Oct 31st to be exact :) and was just too lazy to upload it
+
+                Don't worry about it, I even want to thank you for this!
+                If you hadn't made this demo, I wouldn't have tried this hard to
+                improve my time. It cost me two hours to beat your time.                                      
+                         
+                > The time sucks compared to max so there's much room for
+                > improvement
+
+                Yeah, there sure is about 20 seconds to cut off, but it has to be
+                a Doomgod like Anders Johnsen to do this. 
+ 
+
+Author:         Arno Slagboom
+E-mail:         slagboom@cybercomm.nl
+Doompage:       www.cybercomm.nl/~slagboom/dang.html

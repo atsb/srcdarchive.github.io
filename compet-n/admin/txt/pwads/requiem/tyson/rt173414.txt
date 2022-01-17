@@ -1,0 +1,47 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Author: Various                               |
+            | Demo filename: rt173414.lmp                   |
+            | Category: Tyson                               |
+            | Map Level: MAP17 - Dens of Iniquity           |
+            |                   (by Michael Rapp)           |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    103%                            |
+            |      Items     97%           *********        |
+            |      Secrets  100%  and Time * 34:14 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| First of all, Jeremy Doyle's music. It's great. It converted a         |
+| "random set of corridors and rooms" into an intriguing adventure-like  |
+| level. Don't get me wrong, it's not a bad map, that curved bridge is   |
+| one of those memorable places in Requiem, but still... MM2 MAP17, also |
+| by Michael Rapp, is better IMO. BTW, Revved, what's up with that MM    |
+| MAP19 Tyson? :-P                                                       |
+|                                                                        |
+| What's difficult here? I'd say there is little health for such a big   |
+| Tyson map. I try to postpone picking up the blue armor as much as      |
+| possible, preferably when the green armor is almost gone. The time     |
+| was better than I expected, but I had luck with one stuck arachno.     |
+| Pretty slow and safe overall. Boring (?) But hey, next on my list are  |
+| MM MAP05 and MM2 MAP29, if I ever succeed, they HAVE to be interesting |
+| to watch!                                                              |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+LV04-028.TXT
+
+ LV04-028.ZIP
+
+  LV04-028.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 4 - The Focus
+
+  Kills     29%
+  (Items    50%)
+  Secrets   33%  and Time  00:28
+                           -----
+  
+  Description :-)
+
+  hmm.... D2dQ beaten by 3 seconds :)
+
+  I discovered the first jump (yellow key to switch)
+  many months ago... but i couldn't do it with monsters around.
+
+  I used a bit of Strafe50 but only for the jump...
+  which makes it a lot easier.
+
+  Else the run looks pretty bad... 
+  Adam, your lump looks ten times better ! :)
+
+  Optimal may be 0:25 ? My nomonsters time is 0:22 
+    
+
+  Vincent Catalaà aka PerOxyd
+  peroxyd@wanadoo.fr

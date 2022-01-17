@@ -1,0 +1,33 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pf10-247.lmp, pf10-247.txt
+Date     : 2013-09-10
+Game     : Final Doom: Plutonia Experiment
+Client   : doom2.exe v1.9f
+Category : UV-Fast
+Map(s)   : MAP10: Onslaught
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 107%
+Items    : 100%
+Secrets  : 100%
+Time     : 00:02:47
+===================================
+Description:
+
+In the early stage, I had to run through many chaingunners without an armor. 
+There was a blur artifact but it was not enough. A lot enemies after a yellow 
+key fought against each other easily for fast monsters, so it often brought 
+the good result. However, I frequently killed myself by blast damage of RL 
+and couldn't deal with the rest of enemies smoothly for many lost souls. It 
+therefore was not easy to get under 3 min.
+
+
+84th Comepet-N Entry

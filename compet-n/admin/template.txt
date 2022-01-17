@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : lv01-005.lmp & lv01-005.txt
+Date     : 2012-11-04 12:40
+Game     : Doom 2 - Hell on Earth
+Client   : doom2.exe v1.9
+Category : Speed
+Map(s)   : MAP01: Entryway
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 0%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:05:XX
+===================================
+Description :-)
+
+...

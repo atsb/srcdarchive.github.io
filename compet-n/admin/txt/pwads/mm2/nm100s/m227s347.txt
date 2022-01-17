@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m227s347.TXT
+
+m227s347.ZIP
+
+m227s347.LMP - Nightmare with 100% secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos by Paul Noble
+      
+Kills       44%
+Items       33%
+Secrets     87%	and Time - 3:47 
+
+Description:
+
+I've found an old sound card, so beating this level is easy for me now. First exit demo. It's too late for more tries:) .
+A faster route is possible with some luck with the cyber respawn.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+09.03.2008

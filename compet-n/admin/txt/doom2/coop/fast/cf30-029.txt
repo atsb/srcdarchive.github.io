@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+cf30-029.TXT
+
+cf30-029.ZIP - Coop UV -fast
+
+cf30s029.LMP - Sergey - Green
+cf30e029.LMP - Eugene - Indigo
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+      
+Kills      100%
+Items       11%
+Secrets      0%	
+
+Kills        0%
+Items       33%
+Secrets      0%	
+
+and Time - 0:29
+
+
+Description:
+
+First exit. May be we should going for 0:28.
+
+Authors:	
+
+Sergey Kapustin
+ssggkk@ukr.net
+
+Eugene Kapustin
+egk@ukr.net
+08.12.2006

@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs20-035.txt
+
+ cs20-035.zip
+
+  cs20-035.lmp  Speed
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP20
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:35
+
+
+Selim   : It wasn't really easy to get this one...
+Vincent : Yeah, the PE and the chainies are quite annoying.
+          
+
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

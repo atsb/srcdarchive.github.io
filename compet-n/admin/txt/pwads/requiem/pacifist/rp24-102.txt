@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RP24-102.TXT
+
+ RP24-102.ZIP
+
+  RP24-102.LMP - UV pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 24 - Proscrustes Chambers
+
+  Kills      0%
+  (Items     0%)          ********
+  Secrets    0%  and Time * 1:02 *
+                          ********                        
+
+  Description :-)
+  
+  Today for the first time I managed a symmetrical
+  bars glide. I found that it was quite repeatable,
+  and after bringing the nomonsters time down to 28
+  I was ready to make a pacifist demo. Now that I ran
+  out of pacifist to do in TNT(I consider ep08 to be
+  impossible now), I am looking at the pwads for some
+  interesting challenges.
+ 
+  Xit Vono
+  Xit_vono@yahoo.com

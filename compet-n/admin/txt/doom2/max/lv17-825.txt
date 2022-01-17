@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV17-825.TXT
+
+ LV17-825.ZIP
+
+  LV17-825.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 17 - "Tenements"
+
+  Kills    100%
+  (Items    91)
+  Secrets  100%  and Time  08:25
+                           -----
+
+
+Description: This level is quite hard in NightMare...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF171654.TXT
+
+ HF171654.ZIP
+
+  HF171654.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 17 - The Black Towers
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 16:54
+
+                          
+  Description:  This is more than nine minutes faster than my last demo,
+                which I was really surprised by. Guess my strategy for
+                killing the spider must really save a few seconds (this
+                is the first time I tried it). Rest of the demo looks good,
+                though I really *should* have died at the blue key :)
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

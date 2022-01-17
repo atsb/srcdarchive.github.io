@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M6-117.TXT
+N1M6-117.ZIP
+
+N1M6-117.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Doom 2 - E1M6 - Central Processing
+
+Kills     45%
+Items     18%
+Secrets   50%
+Time     1:17
+         ----
+
+Description:
+Entry #21.
+
+AdamW wrote: Pretty easy run. Theoretically, of course, you could go exactly on the
+             speedrun route and get under 1:10, but I don't want to be the one who
+             tries it :).
+
+I must have had a death wish at the end, but I'm pretty satisfied with the time.
+The beginning took the most tries to do properly, since the shotgunners don't
+always end up in the right place. :(
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

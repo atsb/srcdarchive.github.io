@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE04-114.TXT
+RE04-114.ZIP
+
+RE04-114.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 04 - "The Focus" -RESPAWN
+
+Kills    107%
+(Items    52)           
+Secrets  100%  
+
+   ...and Time    01:14 
+                  -----       
+
+
+
+Description: Just something I did before Seinfeld.......
+             
+             Like this map btw...lots of action and fun, especially with
+             the -respawn option. Think it's possible to do this below my
+             uv-max time, shotgun ammo is a problem in respawn though:) 
+             Took me about 15 min to do this.... 
+                          
+
+
+Author:	     Henning Skogsto 
+E-mail:	     hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

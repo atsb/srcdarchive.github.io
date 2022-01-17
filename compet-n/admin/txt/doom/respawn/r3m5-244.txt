@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M5-244.TXT
+
+ R3M5-244.ZIP
+
+  R3M5-244.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM -ONLY
+ 
+  DooM - Episode 3 Mission 5 - Unholy Cathedral
+
+  Kills    101%
+  (Items    42%)
+  Secrets  100%  and Time  02:44
+                           -----
+
+Description:  Still lot of room for improvement...
+
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz
+

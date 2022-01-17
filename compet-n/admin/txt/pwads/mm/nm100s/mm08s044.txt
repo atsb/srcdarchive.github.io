@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+MM08S044.TXT
+
+ MM08S044.ZIP
+
+  MM08S044.LMP - Nightmare 100% Secrets
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - And The Dead Shall Rise
+
+  Kills     35%
+  Items    100%           ********
+  Secrets  100%  and Time * 0:44 *
+                          ********
+
+  Description :-)
+
+  Well, after the Cyber Awards I felt like recording something,
+  so I decided to try improving the NM100S record for mm08.
+
+  It didn't take too long to break the minute mark, but I decided I
+  wanted to do better. So I've been playing a little bit now and then,
+  getting a :46, then a couple of :45s and then this demo.
+
+  There's still a little bit of getting stuck at the Lost Souls, so I
+  thought I'd try for a :43, but I haven't had any luck. So since I'm
+  about to start my master thesis I guess I might as well upload this.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+
+

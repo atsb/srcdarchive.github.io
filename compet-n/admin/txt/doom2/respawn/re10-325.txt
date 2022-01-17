@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RE10-325.TXT
+
+ RE10-325.ZIP
+
+  RE10-325.LMP - UltraViolence with -Respawn
+
+  Recorded using Doom 2
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM2 - Map 15 - Industrial Zone
+
+  Kills   103%
+  (Items   71%)
+  Secrets 100%   and Time  03:25
+                           -----
+
+Description:  Yeah, Fx used to be a good player. Pity he has no time
+              for doom at all. :) Maybe this will get him back, who knows?
+              Btw. Who said playing respawn is easy ??
+              The route credits goes to Zvonimir "fx" Buzanic. 
+
+
+Author:   Radek Pecka
+E-Mail:   r.master@email.cz
+

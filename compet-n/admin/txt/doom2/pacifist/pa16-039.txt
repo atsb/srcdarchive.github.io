@@ -1,0 +1,25 @@
+This is a DooM LMP competition please forward it....
+
+PA16-039.TXT
+PA16-039.ZIP
+
+PA16-039.LMP - Pacifist style!
+ 
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 16
+
+Kills      0%
+(Items    20%)
+Secrets    0%  
+
+   ...and Time     00:39
+                   -----        
+
+Description: Well this will be my last LMP for a while, need a break :)
+                       
+             
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net

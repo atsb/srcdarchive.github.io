@@ -1,0 +1,47 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m2235133.lmp & m2235133.txt
+Date     : 2015-06-22 20:15
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map23: No One
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 102%
+Items    :  73%
+Secrets  :  94%
+Time     : 00:51:33.86
+===================================
+Description:
+
+While I was getting killed and killed, I thought it was very hard.
+Now when I made it, I think it is medium... Bullet ammo is enough,
+only health is a problem. The megasphere comes shortly after blue
+armor, so after blue armor I go for some detours, sacrificing this
+armor.
+
+The trickiest part is the million pain elemental part, to do it I
+let one PE alive earlier so that the lost soul limit is reached.
+Cyber + arch-vile (at the very end!) seemed like a huge obstacle,
+but I never got killed there. The archie helps, resurrects some
+monsters so the cyber is weakened more than normally.
+
+MAP24 is not difficult (block monster lines abuse), but boring.
+MAP25 is insane.
+MAP26 - don't know, but I had a practice run which gives some hope.
+MAP27 - very hard, for blue armor you need SSG, which is not allowed
+for Tyson. Plenty of arachnotrons also.
+
+Old records:
+
+none
+
+136th Compet-N entry.
+______________

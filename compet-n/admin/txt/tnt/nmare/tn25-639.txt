@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN25-639.TXT
+
+ TN25-639.ZIP
+
+  TN25-639.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - only!
+
+  Final Doom - TNT Evilution - Level 25 - Baron's Den
+
+  Kills    100%
+  Items     60%           
+  Secrets   75%  and Time = 6:39 
+                          
+
+
+Description:   This run is completely dedicated to Peo... I watched his
+               ev25nmx yesterday and thought, that looks rather easy.
+               Turns out it *is* easy. Don't know why I'm the first to do it,
+               certainly Peo could have done it easily without
+               cheating. About the only major difficulty is making your
+               health last near the end - sometimes things go wrong there...
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV08-033.TXT
+
+ LV08-033.ZIP
+
+  LV08-033.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08 - Tricks and Traps
+
+  Kills      9%
+  (Items    40)
+  Secrets    0%  and Time  00:33
+                           -----
+
+
+Description: 4 Difficulties: 1) The door
+                             2) A way through these Barons
+                             3) Same with the Imps
+                             4) No room at the exit
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

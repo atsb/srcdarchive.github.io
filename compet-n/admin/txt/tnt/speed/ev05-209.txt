@@ -1,0 +1,31 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV05-209.TXT
+
+  EV05-209.ZIP
+
+  EV05-209.LMP  -  Ultra Violence
+
+  This is a Compet-n/Fdoom/tnt/speed 
+  Entry...
+
+  Recorded using Final DooM Version 1.9
+  DooM2 -PlayDemo with Version 1.9
+
+  FDooM - TNT: Evilution - Level 5 - Hanger
+
+  Kills     51%
+  Items     23%
+  Secrets   33%  and Time    2:09
+                            ------
+
+    Well i noticed that there were no entry for this this level so i made a
+  'symbolic' lmp for others to beat. This demo sux0rz delux0rz, mainly cause
+  of very low framerate, especially in the room with the doors leading to the
+  yard (yep, i own a 486). That's weird cause this map has a decent reject 
+  table. Like i said, a symbolic lmp...
+
+ Donatas Tamonis
+ 
+ dtamonis@hotmail.com

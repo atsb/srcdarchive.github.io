@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL21-027.TXT
+
+ CL21-027.ZIP
+
+  CL21-027.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+
+  DooM -PlayDemo with Version 1.9
+
+  Classic Episode - Ep.2 Mi.1 - Foray
+
+  Kills    ???%           
+  (Items    ??%)          
+  Secrets  ???%  
+              .... and Time  0:27
+                             ----
+  Description :
+
+  So, now I remember why I quit this game...been playing for this for three days, including one 7pm to 8am session. (Timestamp on this demo is 2:20am). This run is dedicated to whichever jackass at id sat down in a planning meeting and said "hey, you know what? The shotgun in this game is so great, we should make an ENEMY who has one!"
+
+This isn't optimal, the monsters work out just about perfectly but there's some sloppy running (blue key through to yellow key is messy, and I didn't quite hit the exit switch perfectly). 0:26 is possible, *maybe* 0:25. I got very lucky at the red key after missing a couple of shots, I was getting tired and about to jack it in for the night after this attempt! Shooting the barrels after the blue key leads to a very slight time hit (if executed perfectly, I do it a bit sloppily here and probably lose 0.3s) and massively increases your chance of a clean window jump, so I find it a worthwhile tradeoff (it's best to hit the closest barrel so the farthest one is blown across towards the just-opened monster room before it explodes). The shot-at-nothing in the yellow key area is because there's usually a sergeant in that corner you can kill without time penalty while you wait for the door to open, he must have caught a stray bullet earlier in this run or something. This is one of those frustrating runs where you need a large amount of monster luck: you can get killed or blocked at almost any point in the run, even if you execute perfectly.
+
+  Adam Williamson
+  adamwill@shaw.ca

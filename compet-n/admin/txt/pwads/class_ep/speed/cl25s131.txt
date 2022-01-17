@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL25S131.TXT
+
+ CL25S131.ZIP
+
+  CL25S131.LMP - Ultra Violence speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M5 - secret exit
+
+  Kills     46%           
+  (Items    33%)             
+  Secrets   16%        
+
+               ... and Time  01:31
+                             ----- 
+                          
+  Description:
+
+  First exit.
+
+
+  Radek Pecka
+  r.master@email.cz

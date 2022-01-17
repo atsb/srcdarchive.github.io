@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+RE14-201.TXT
+RE14-201.ZIP
+
+RE14-201.LMP - Ultra Violence with -Respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 14 - 
+
+Kills    103%
+Secrets  100%  
+
+   ...and Time  02:01
+               -------
+
+
+Description: Ahh next challanger should break the 2 min barrier. 
+             It isn't hard.
+             
+                                                                 
+
+Author: Henning Skogsto
+E-mail: hskogto@c2i.net

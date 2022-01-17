@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL08-427.TXT
+
+ PL08-427.ZIP
+
+  PL08-427.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 08 - Realm
+  
+  Kills    101%
+  Items     62%            ********
+  Secrets  100%  and Time  * 4:27 *
+                           ********
+
+
+  Description :-)
+
+  A pretty tricky map, lots of close combats and teleporting monsters. The end in
+  particular can be hell, I had lots of good rounds which ended cause that archie
+  fried me (80% health lost every time). My demo here is not very good, the 
+  mid-section is ok visually I guess. I had some luck with the chaingunners
+  in the green tower- they teleported quickly. The end didn't go well at all
+  though, I had to hide from the archie. It also bothers me that I missed some
+  shots in the dark metal room where those damn spectres stalk.
+
+  Anders Johnsen
+  nfp7065@privat.cybercity.no

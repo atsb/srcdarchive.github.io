@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP4-0631.TXT
+
+ EP4-0631.ZIP - Ultra Violence
+
+  EP4-0631.LMP - Whole Episode on Ultra Violence
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 4 - Thy Flesh Consumed
+
+
+  Map:       Kills: Items: Secrets:   Time:  
+  -----------------------------------------
+  E4M1   -     34%   47%   50%        0:40    
+  E4M2   -     34%   59%   66%        0:45    
+  E4M3   -     22%   20%    0%        0:40    
+  E4M4   -     41%   43%    0%        0:47    
+  E4M5   -     19%    3%    0%        0:35    
+  E4M6   -     72%   50%   33%        2:45    
+  E4M7   -     13%    5%    0%        0:18    
+  E4M8   -     ??%   ??%   ??%         **
+  ---------------------------------------- 
+  And, of course, total time:         6:31                                    
+  ----------------------------------------
+
+Note:  Well, not much to say...Did this cause episode 4 consists of my 
+       favourite maps :) E4M6 is hardly worth watching, got stuck on
+       a lostsoul, and later on I had to deal with a very, very intelligent 
+       Baron which decided to gard redkey instead of hunting me....
+       All times should be faster than Anthe's, maby except from the 
+       excluded E4M8...Route-credits goes to Anthe, though I made certain
+       changes to them (and of course exit-strafed in E4M7).
+
+Author:     Anders Johnsen
+E-Mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

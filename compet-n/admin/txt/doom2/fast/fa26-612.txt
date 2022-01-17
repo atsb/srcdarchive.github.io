@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA26-612.TXT
+FA27-612.ZIP
+
+FA26-612.LMP - Ultra Violence & Fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 26 - Abandoned Mines 
+
+Kills    100%
+(Items     ?%)
+Secrets  100%  
+
+   ...and Time      06:12
+                  ---------
+
+
+Description: Could be quit tricky with -fast option, but still fun to play.
+             
+                             
+                       
+
+Author:   Henning Skogsto   
+E-mail:   hskogsto@c2i.net   
+Doompage: Soon :-)
+
+EOF

@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL21-005.TXT
+
+ PL21-005.ZIP
+
+  PL21-005.LMP - Pacifist Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 21 - Slayer  
+
+  Kills      1%
+  Items      0%            +++++++++
+  Secrets    0%  and Time  + 00:05 +
+                           +++++++++
+
+
+  Description:
+
+  I thought 5 seconds would be easy, but no. It took many tries.
+  That damned wall is just a luck factor there. I think 4
+  seconds is possible, but you must have the correct angle
+  before you hit the wall and then you have less than
+  half a second time to get past that wall. Good luck with
+  running that time!
+
+  Author: Looper

@@ -1,0 +1,51 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Filename: rf24-944.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP24 - Procrustes Chambers        |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     60%           ********         |
+            |      Secrets  100%  and Time * 9:44 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| "Revenant missiles always do 80 HP damage. And I mean *always*" - Maes |
+|                                                                        |
+| As I said, I like this map. It gets 5/5 from me for gameplay (I'd say  |
+| it is a semi-reality map; when you play it, you know why) and 4.5/5    |
+| for architecture (so low because the room with the baron and crusher   |
+| has incredibly ugly textures. The rest is fantastic). Why this map has |
+| so few demos? I don't know.                                            |
+|                                                                        |
+| After three 11:xx exits I got this one and I don't know what to say.   |
+| Perhaps it can be done 1-2 minutes faster by Hitherto for example.     |
+| My first mistake was not to use RL at 2:29. Second mistake - I missed  |
+| a revenant at 5:15. At 5:39 the revenant reminded me of its existence  |
+| hitting my left side - 80% damage of course :) You can imagine my      |
+| surprise :) BUT - there's a room with 3 PEs and a mancubus. Normally   |
+| I spend ages there dealing with lost souls. This time everything went  |
+| perfectly in this room. I'm also glad the last baron died in a very    |
+| convenient moment. Half a second later and I would have run out of     |
+| cells and I would have been surrounded by lost souls. Thus, on the     |
+| whole, not the worst table-filler I believe.                           |
+|                                                                        |
++========================================================================+

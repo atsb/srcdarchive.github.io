@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM27-130.TXT
+
+ NM27-130.ZIP
+
+  NM27-130.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 - "Monster Condo"
+
+  Kills     22%
+  (Items    18)
+  Secrets    0%  and Time  01:30
+                           -----
+
+
+Description:  The scene with the Revenents and the Hell Knights
+              can be pretty tricky in NightMare!
+
+
+Author:       Daniel "Demonlord" Lindgren
+
+E-mail:       akllin95@student.umu.se
+
+

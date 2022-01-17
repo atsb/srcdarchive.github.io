@@ -1,0 +1,34 @@
+This is a Doom2.LMP - Please forward it...
+
+p30nm030.TXT
+
+ p30nm030.zip
+
+  p30nm030.LMP - Nightmare! Speed 
+
+  Recorded using DOOM2.EXE (Final Doom Version)
+
+
+  Plutonia - Level 31 - The Gateway of Hell
+
+
+  Kills        63%
+  Items        25%
+  Secrets      0%
+  ----------------
+  Time       0:30
+
+
+
+  Description:
+
+	After I made the 0:26s run in UV,
+	I decided to make this lvl in NM.
+	Although it is a bit harder, a 0:30s
+	wasn't really hard... so like in doom2.wad
+	
+
+02.02.10
+
+author: error
+e-mail: termrork@web.de

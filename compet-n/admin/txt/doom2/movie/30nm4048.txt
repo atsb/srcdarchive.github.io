@@ -1,0 +1,53 @@
+This is a DooM 2 .lmp compet-n entry...
+
+
+              Time   
+
+  LV 01  -    0:06  
+  LV 02  -    1:16  
+  LV 03  -    0:41  
+  LV 04  -    0:52   
+  LV 05  -    1:02 
+  LV 06  -    1:30   
+  LV 07  -    1:08  
+  LV 08  -    1:12  
+  LV 09  -    1:06  
+  LV 10  -    0:55  
+  LV 11  -    1:22   
+  LV 12  -    1:23  
+  LV 13  -    1:33  
+  LV 14  -    1:07 
+  LV 15  -    0:50   
+  LV 31  -    0:38  
+  LV 32  -    0:33   
+  LV 16  -    0:40 
+  LV 17  -    2:49   
+  LV 18  -    0:33   
+  LV 19  -    1:14  
+  LV 20  -    1:05  
+  LV 21  -    1:12 
+  LV 22  -    1:41
+  LV 23  -    1:55
+  LV 24  -    1:49
+  LV 25  -    1:25
+  LV 26  -    1:33
+  LV 27  -    1:21
+  LV 28  -    1:32
+  LV 29  -    2:52
+  LV 30  -    1:53
+------------------
+Total        40:48
+
+
+
+Description:  Panter wrote in his 4931.txt:
+
+            > Hmmmmmmmmmmmmmmmmmmm....Do I get a new form now ? (:
+                
+              Hmmmmmmmmmmmmmmmmmmm....can I get a new form too ??
+     
+              btw, look for a 39:xx.lmp next time...:))                      
+
+ 
+Author:  Henning Skogsto 	
+EE-mail: h-doom-frisurf.no

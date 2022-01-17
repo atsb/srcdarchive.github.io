@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV12-557.TXT
+         
+ EV12-557.ZIP
+
+  EV12-557.LMP - Ultra Violence
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 12 - Crater
+
+  Kills    100%
+  Items    100%                   
+  Secrets  100%  and Time = 5:57  
+                                  
+
+
+Description: Another demo of mine that had to be improved. Still not good.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

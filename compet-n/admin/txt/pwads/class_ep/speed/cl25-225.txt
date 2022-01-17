@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL25-225.TXT
+
+ CL25-225.ZIP
+
+  CL25-225.LMP - Ultra Violence speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M5 - normal exit
+
+  Kills     64%           
+  (Items    33%)             +++++++++
+  Secrets   16%        Time: + 02:25 +
+                             +++++++++
+                          
+  Description :-)
+
+Similar to secret exit, but you have to do a bit more stuff.
+
+Author:   Xit Vono
+E-Mail:   xit_vono@yahoo.com

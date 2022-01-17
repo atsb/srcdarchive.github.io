@@ -1,0 +1,47 @@
+E2NS2212.TXT
+
+ E2NS2212.ZIP - Nightmare
+
+  E2NS2212.LMP - Whole Episode on Nightmare with all secrets and secret level
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM 
+
+  DooM - Episode 2 - The Shores of Hell
+
+            Kills Items Secrets     Time
+  --------------------------------------
+  E2M1 -      96%  100%  100%       1:49     
+  E2M2 -      77%   54%  100%       4:11     
+  E2M3 -      48%   61%  100%       1:35     
+  E2M4 -      39%   34%  100%       3:08     
+  E2M5 -      63%    5%  100%       3:34     
+  E2M9 -      92%   50%  100%       0:46     
+  E2M6 -      47%   29%  100%       3:02     
+  E2M7 -      85%   48%  100%       4:07     
+  E2M8 -      ??%   ??%   ??%    [Excluded: 0:51]
+  --------------------------------------
+                            TOTAL: 22:12
+                            ------------        
+
+Description:  After doing e1ns for dang, I decided to try e2ns. Got this
+              after a bit. Looks very sloppy in bits, but it's fun recording
+              when speed isn't so much of an issue. Most of the time I went
+              Rini's way.
+         
+        E2M1: Usual.
+        E2M2: Ditto. 
+        E2M3: Very ragged.
+        E2M4: Hmmm...
+        E2M5: This *is* slow, I had 3:02 in an earlier try...
+        E2M9: Never any good here.
+        E2M6: Most of the improvement over Rini came here (1:46)
+        E2M7: No problem.
+        E2M8: Didn't mean to kill Cybie this way, things just sorta
+              happened... 
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com
+

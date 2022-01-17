@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+108-R2M1.TXT
+
+ 108-R2M1.ZIP
+
+  108-R2M1.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 1 - Deimos Anomaly
+
+  Kills     68%
+  (Items    87%)
+  Secrets   25%  and Time  02:30
+
+  Maximum Minimum Health = 108 %
+                           -----
+
+  Description:  I can hardly believe that nobody did this before.
+                It is so easy to avoid all damage. And if I did
+                count correctly there are only eight potions
+                and therefore those 108% are unbeatable. 
+		Yeah!
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

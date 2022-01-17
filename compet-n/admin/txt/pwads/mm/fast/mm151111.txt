@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM151111.TXT
+
+ MM151111.ZIP
+
+  MM151111.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 15 - Karmacoma
+    
+  Kills    100%
+  (Items    94%)          
+  Secrets   80%  and Time = 11:11 
+                                                  
+
+  Description: A nice level. 80% secrets is maximum.
+  
+  
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

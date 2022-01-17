@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+RE05-257.TXT
+
+ RE05-257.ZIP
+
+  RE05-257.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills    101%
+  (Items   100)
+  Secrets  100%  and Time  02:57
+                           -----
+
+Description:	Panter said that he didn't like this map, and I must say
+	        that I agree. There are something about this map I don't 
+		like, but I can't put my finger on it.
+
+		This LMP is OK, but the time SUCKS when you look at the max.
+		The max is on 2:33............. Oh well, I don't minde. I
+		refuse spending more time on this map.
+		
+
+Author:    Jan Endre Jansen
+E-mail:    jejansen@uldals.vgs.no
+Doompage:  http://home.sol.no/~doom/

@@ -1,0 +1,33 @@
+This is a Doom .LMP "Competition" Entry
+
+pl23-626.txt
+pl23-626.zip
+
+pl23-626.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP23 - Tombstone
+
+=--------------=
+Kills      100%
+Items       50%
+Secrets    100%
+
+Time       6:26
+=--------------=
+
+C-N entry #119.
+
+Thanks to Henning for his run; I use his
+route for this demo (I wouldn't dare to try
+and find another one anyhow).  I played this
+one rather casually, not worrying about the
+final time and enjoying the gameplay.  I had
+a little trouble deciding what to do at the
+archvile/revenant room later on, with some
+wasted efforts with the SSG, but overall I
+like the way this one came out.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

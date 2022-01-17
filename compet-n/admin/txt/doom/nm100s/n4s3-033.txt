@@ -1,0 +1,46 @@
+This is a Doom .LMP "Competition" Entry
+
+N4S3-033.TXT
+N4S3-033.ZIP
+
+N4S3-033.LMP - NightMare! with 100% secrets
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M3 - Sever the Wicked
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets     90%
+
+ Time        :33
+)---------------(
+
+Not an easy one. I started trying this after watching
+Adam's :39. I saw that a few things could be done faster,
+especially to trigger the secrets, and got :37 quite
+easily. I was satisfied with time until I saw on the
+CFD-N tables that JC had done :36. So I watched the
+UV and NM speed entries (with an awesome human-built
+demo by Sedlo as always) to get some ideas and got
+back to work.
+
+This route is quite luck based, since the ending is
+totally random (and frustrating). If you manage to go
+for the jump without stopping to be in the line, you
+can still have a monster respawning or moving in your
+way screwing up your jump, then have pigs with their
+asses already all over your face and if you kill them
+you just loose too much time, then miss the second 
+jump for the same reasons, and finally have monsters
+sitting on the exit, which isn't dramatic but still...
+
+In the end, i'm quite happy with this demo, the time 
+is good, :32 is possible but should be hard, I won't
+go for it for sure! So, good luck!
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

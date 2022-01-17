@@ -1,0 +1,62 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+e3m1-102.TXT
+
+ e3m1-102.ZIP
+
+  e3m1-102.LMP - UV Max
+
+  Recorded using Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Doom - E3M1 - Hell Keep             Old records:
+				      01:57 by Eelco de Vries         (1995)
+  Kills     100%                      01:52 by Eelco de Vries         (1995)
+  Items      33%           +++++++++  01:49 by Eelco de Vries         (1995)
+  Secrets   100%  and Time + 01:02 +  01:41 by Wade "Shot-Gun" Cayton (1996)
+                           +++++++++  01:35 by Michael Kren           (1996)
+ 				      01:33 by Kai-Uwe Humpert        (1996)
+				      01:32 by Yonatan Donner         (1996)
+				      01:22 by Yonatan Donner         (1996)
+                                      01:09 by Kai-Uwe Humpert        (1998)
+				      01:07 by Xit Vono               (2006)
+				      01:06 by me                     (2010)
+
+
+  Description :)
+
+  OMG! OMG! OMG! I was going for 1:04 since I 
+  wasn't satisfied with my two 1:05s before this
+  but look at what I've got :))))))
+
+  It seems picking up the rocket launcher and using
+  it at the end is only a little less than a second
+  faster but that's only if it kills 3 imps.
+  
+  Happy New Year! And Enjoy!
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 4
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Operating System: Windows XP Professional SP3 (x86)
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  XP Sensitivity: 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Speakers: Stereo Speakers with the label 'HELIVM-Hi' on them

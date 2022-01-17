@@ -1,0 +1,47 @@
+This is a Doom LMP Entry
+
+MM18-248.ZIP
+
+	MM18-248.TXT
+	MM18-248.LMP - UV Speed
+
+Recorded using Doom2 Version 1.9
+
+Memento Mori - Level 18 - A Dead Man's Town
+
+=---+------+---=
+Kills        40%
+Items        50%
+Secrets      16%
+ 
+TIME        2:48	Old record: 4:10 by Oyvind Stenhaug
+=---+------+---=
+
+Demo entry #1.
+
+Description:
+
+Henrik Rathje is one of my favorite designers. He only did MAP18, but I just
+love the second-hardest MM level. It's long, colorful, dynamical, and as Andy
+Olivera wrote, the progression is top-notch. IMO, Mark Klem's great music track
+"Hidden Anger" from MAP01 really fits the feel of MAP18, and does not fit
+MAP29.
+
+Explosively fun map for speedrunning. Stx-Vile said: "check out Oyvind
+Stenhaug's 4:10 run of this map, it's pretty impressive to watch". Well, in
+2004, when I discovered Compet-N, the first demo I downloaded was MM18-410. At
+that time Oyvind's run impressed me a lot and I thought I can never beat that
+guy, but soon I tried it myself, which resulted in 4:06, then 4:00. In fact, his
+run wasn't all that fast (unlike his excellent demos for some of the easier
+maps, MM15-255 and MM16-158).
+
+In late 2005 i switched to a better control, and was pleased to get such an
+improvement over my old record. Still, it's the oldest of all demos I uploaded,
+and now I don't like it too much. Relatively smooth, but somewhat lame in style,
+and with some unnecessary monster-killings in the later half. It's doable well
+under 2:30.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done December 3, 2005, 13:33:30

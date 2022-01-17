@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+MM25P029.TXT
+
+ MM25P029.ZIP
+
+  MM25P029.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 25 - Cesspool
+
+  Kills      2%
+  Items      0%           ********
+  Secrets    0%  and Time * 0:29 *
+                          ********
+
+  Description :-)
+
+  This demo has been sitting on my hard drive for a long time now,
+  since I wanted to improve it some more (got stuck at one point,
+  and had to wait for a while before getting hit at the exit).
+  However, I'm tired of getting smacked by the revenants, so I'll
+  just upload this for now.
+
+  It's possible to grab the soul sphere while waiting for the
+  elevator leading to the red key, but after a while I decided to
+  leave it since I sometimes ended up at the exit with too much health
+  left for the slide to work right away.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

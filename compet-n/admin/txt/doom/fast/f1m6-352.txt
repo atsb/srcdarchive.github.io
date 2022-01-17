@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+f1m6-352.zip
+
+ f1m6-352.lmp -md5sum 87a93a00ce53ca4d1e4b23a6fa6e9b03
+
+  f1m6-352.txt -Ultra-Violence -fast
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Knee-Deep in the Dead - Central Processing
+
+  Kills:  177 / 177 (100%)
+  Items:   45 / 113 (39%)            ********
+  Secrets:  4 / 4   (100%) and Time  * 3:52 *
+                                     ********
+  C-N entry #65.	Date: 2015.08.26
+
+  Description :)
+  It's better but the ending still didn't go quite as I liked. I did
+  great in the maze though -- only missed once and all hits were an
+  insta-kill. Still a lot of room for improvement.
+     
+  By the way, COMPET-N record was 3:55 by me, dated:
+  2015.08.25
+
+  Complete Historic COMPET-N Leaderboard:
+  f1m6-540 - Peo Sjoblom     - 1997-03-31
+  f1m6-453 - Anders Johnsen  - 1998-09-07
+  f1m6-439 - Adam Williamson - 1999-05-21
+  f1m6-433 - Anders Johnsen  - 1999-05-24
+  f1m6-429 - Radek Pecka     - 2000-10-07
+  f1m6-356 - Radek Pecka     - 2001-09-16
+  f1m6-355 - Archy           - 2015-08-25
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

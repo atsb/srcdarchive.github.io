@@ -1,0 +1,38 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+            _________________________________________________
+           /                                                 \
+           | PWAD: mm2.wad                                   |
+           | Author: Various                                 |
+           | Demo filename: m212-258.lmp                     |
+           | Category: UV Max                                |
+           | Map Level: MAP12 -The Waterway(by Orin Flaharty)|
+           | Exe/Port used: Doom2 1.9                        |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     65%           ********         |
+            |      Secrets  100%  and Time * 2:58 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Thanks to Kyle McAwesome for his demo in which he shows how to grab    |
+| the SSG quicker. I applied his strategy and saved bullets for the last |
+| imps. Then it's just tossing the dice. Several times I got 3:06, two   |
+| times 3:05, once 3:03 and once 2:58. There is a double telefrag (baron |
+| + former human) and a caco telefrag in the later part. Luck, luck,     |
+| luck.                                                                  |
+|                                                                        |
++========================================================================+

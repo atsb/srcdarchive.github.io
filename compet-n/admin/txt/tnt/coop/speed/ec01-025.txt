@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EC01-025.TXT
+
+EC01-025.ZIP
+
+EC01-025.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File TNT.WAD -PlayDemo with Version 1.9
+
+TNT map01
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:25 *
+              ********
+
+
+Description:
+player 1: RaideR
+player 2: Method
+
+RaideR:
+The cyberdemon is sketa!
+
+    
+Method:
+Huh I hate cyberdemon.
+erik and torn: Next round ready :)
+
+Authors:      Ondrej "RaideR" Vosatka
+	      Jakub "method_man" Razak
+
+E-mails:      raiderr@email.cz
+	      dale007@volny.cz

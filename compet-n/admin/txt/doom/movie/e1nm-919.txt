@@ -1,0 +1,49 @@
+The is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1NM-919.txt
+
+E1NM-919.zip
+
+E1NM-919.lmp
+
+Recorded using "The Ultimate Doom"
+DooM 1 - Episode 1 - Knee Deep In The Dead
+
+Map:    My Time         My best time
+
+e1m1    0:15            0:13
+e1m2    0:46            0:40
+e1m3    1:28            1:24
+e1m4    0:38            0:37
+e1m5    2:09            2:09!!
+e1m6    1:55            1:55!!
+e1m7    2:08            1:59
+
+Total:  6:199
+        3+6:19
+        9:19
+
+Comments:
+
+Ever since Anders sent in that 12:04 e1nm run, I've been working on this demo
+I set a 'training' routine for myself: 50 tries on tues, thur.  100 on mon,
+wed, fri.  150 on sat., sun.  700 tries a week (and it doesn't count as a try
+unless i get to e1m3 in decent time)
+
+I have beat 10:13 before.  I have beat 10:00 before.  My previous record,
+however, was above 9:30 and I wanted to break that barrier.
+
+Now I have done that, setting 2 new Personal Records for fastest time in-lmp.
+I am Happy.
+
+Now we can watch Hegyi spontaneously decide that this was not recorded with
+doom.exe, as he has all my other point-worthy demos.
+I must point out, though, both e1m5 and e1m6 desynch in a dd47->doom.exe
+demo transition, and even I have not been able to answer why.
+
+And all I want is the recognition I deserve.  I have worked long and hard
+on this demo.  Nine minutes of near-flawless playing has taken me well over
+200 hours of trying, retrying, practice practice practice.  Don't blow this
+all with one misinformed judgement based on suspicion and hate.
+
+Andy Kempling

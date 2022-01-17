@@ -1,0 +1,31 @@
+| This is a COMPET-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : TN30-124.LMP and TN30-124.txt
+Date     : 2018-1-20
+Game     : TNT: Evilution (TNT.WAD)
+Client   : DOOM2.EXE (Final Doom)
+Category : Speed
+Map(s)   : MAP30: Last Call
+Skill    : 5 (Nightmare)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 45%
+Items    : 50%
+Secrets  : 100%
+Time     : 1:24
+===================================
+Description: Well, I got bored at around midnight and decided to do another run for the sake of it. And well I have
+been thinking of seeing if going 1:24 is possible on Nightmare seeing that Nightmare doesn't really differ much from
+the UV-Speed. Well what do you know, 1:24 as my time, guess I pushed it even further as I decided to just rush the
+hallway near the end without worrying so much over Lost Souls. Well that is a second worth saving.
+
+Now here is a good question, is 1:23 possible? Thing is, given that there are some hungry Barons who might hit me
+and of course spawning enemies that might screw the autoaim system, well I don't think I want to bother again, and
+this time, for real. Also when playing this on DOS, I thought I didn't press the switch at the Icon of Sin, but I 
+did as I saw the stairs raising. Maybe if I didn't stop to check, I could have gotten 1:23, but probably only
+barely and even then I would have the autoaim targeting at spawning enemies anyways. Then again, I would like to be
+proven wrong, oh so wrong...

@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+nm21-025.zip
+ nm21-025.lmp
+ nm21-025.txt
+
+Recorded using Doom2 Version 1.9
+
+Doom2 - MAP 21 - Nirvana
+NightMare! Speed
+================
+Kills	29%
+Items	44%
+Secrets	0%
+----------------
+Time       0:25
+================
+Description: Noticed I had done 26 like half a year ago, but since it wasn't doom2.exe 
+I gave it a try. I have never investigated faster way to do that glide (Rimmer style? Is
+this Catalaà style? hmm...) so that imp were quite a pain in the ass. It probably has to 
+be quite perfect run to get 24 since I got only 24.97 nomo with this route, but anyway, 
+I'm happy with 25 since I almost uploaded 26 before coming to my senses. Actually 
+I just noticed Hegyi mentioned this maneuvre (nm21-028.zip), but I didn't find that too 
+hard considering that glide and possible screw ups in red key area and the final bars.
+
+Author: xepop
+04 - Feb - 2010   8th Compet-N Entry

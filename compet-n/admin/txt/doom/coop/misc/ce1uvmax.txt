@@ -1,0 +1,68 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie - 100% Kills & Secrets - All levels
+            
+level:      Episode 1 - Knee Deep In The Dead
+
+Players:    Green  - Vincent Catalaa <peroxyd@wanadoo.fr>
+	    Indigo - Nicolas Gandou  <ngandou@wanadoo.fr>
+
+Config. :   Green  - Pentium III 450 Mhz, 128Mo, Asus UltraTNT2 32Mo, SB Live
+	    Indigo - 486 DX4 100Mhz, 16Mo, Cirrus Logic 2Mo, SB Pro
+            
+stats:      
+
+ Level  Time    Player    Kills   Secrets                      
+--------------------------------------------
+
+ E1M1   0:55    Green	   51%      66%	
+		Indigo     44%      33%	  
+
+ E1M2   2:10	so on...   65%      83% 
+			   30%      16%
+
+ E1M3   2:46 		   45%      85%
+			   48%      14% 
+
+ E1M9   2:05		   49%      50% 
+			   33%      50%
+
+ E1M4   0:45 		   54%      66%
+			   41%      33%
+
+ E1M5   2:09		   67%      33%	
+                           28%      66%  
+
+ E1M6   3:18               52%      50%
+			   36%      50%
+
+ E1M7   4:08     	   56%      75%
+			   33%      25%
+
+ E1M8   1:22               ???      ???
+
+--------------------------------------------
+
+ Total -  22:39 [with E1M8]
+
+	  21:17 [without E1M8] only a bit faster than Anders's solo run!
+
+	  It's our first try without deaths and all secrets... so it can be
+	  improved a lot!
+	  We lose a lot of time to choose our routes and to be sure that 
+	  all monsters are dead.
+
+	  I don't know if the other episodes will follow cause' i don't know
+          them at all (I mean in Max kills...)
+
+
+
+
+
+-----------
+Admin note:   Unfortunatly you forgot to take the Rocketlauncher and
+              waking up the inspawning monsters in E1M9. Nonetheless,
+              great run guys.
+

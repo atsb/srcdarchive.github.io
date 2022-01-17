@@ -1,0 +1,13 @@
+This is a   Coop-N   entry (members.xoom.com/coopn)
+
+green:          Arno "SlagDooM" Slagboom (arnoslag@bart.nl)
+indigo:         Marko "Python" van der Want (markowant@freemail.nl)
+
+game:           DooM ][ v1.9
+category:       speed
+level:          05 The Waste Tunnels
+
+time:           0:36
+session tries:  016
+
+comments:       Little improvement.

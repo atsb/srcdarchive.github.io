@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CE2-2200.TXT
+
+ CE2-2200.ZIP - Ultra Violence
+
+  CE2-2200.LMP - Whole Episode on Ultra Violence
+  
+  Recorded using Ultimate Doom & class_ep.wad
+  doom -file class_ep.wad -playdemo with version 1.9
+
+
+  Map:         Time:      Best:   COMPET-N:
+  -------------------------------------------
+  CL21   -     1:00  :|   0:48     0:29    
+  CL22   -     2:37  :|   2:10     1:33    
+  CL23   -     4:11  :|   3:4x     2:24    
+  CL24   -     4:06  :(    ??      1:13    
+  CL25   -     3:45  :|    ??      2:25    
+  CL26   -     4:05  :|    ??      3:41    
+  CL27   -     2:16  :((   ??      0:26    
+[ CL28   -     -:--  --   -:--     -:-- ] EXCLUDED!
+  ---------------------------------------------------- 
+  Total  -    22:00  :)           12:11
+  ----------------------------------------------------
+
+CL21 - I usually get around 55 seconds here
+CL22 - This is about an average time here
+CL23 - sorry, I play this one fairly safe.  It's a difficult one to speed
+CL24 - Well, I missed the soulsphere, so I went back to get it, losing
+       some time.  At least it makes it easier to get the berzerk
+CL25 - ok run I guess.  Could be much faster if I didn't play safe.
+CL26 - an ok run.  I got hit by the baron, so I played it safe shooting
+       shotgunners by the switch instead of running through.
+CL27 - Damn, screwed up the ending bigtime here.
+CL28 - Cool! I just ran around shooting pigs and cacodemons and the barons
+       took care of Mr. Big without my help.  Maybe that makes it possible
+       to do pacifist.
+
+Well as you can see there's lots of :|'s, so it could have been faster.
+The primary goal here was to complete this with a halfway decent time,
+and I think I've managed that.
+
+Author:     Xit Vono
+E-Mail:     xit_vono@yahoo.com
+

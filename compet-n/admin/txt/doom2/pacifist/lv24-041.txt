@@ -1,0 +1,8 @@
+Author: Esko Koskimaa
+E-mail: koskimaa@cs.helsinki.fi
+Skill:  4
+Game:   Doom ][
+Map:    24 (The Chasm)
+Time:   0:41
+
+Rather easy after playing this for ddq...

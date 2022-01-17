@@ -1,0 +1,75 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PF19-351.ZIP
+
+ PF19-351.LMP
+
+  PF19-351.TXT - Ultra-Violence -FAST
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 19 - NME
+
+  Kills:  116 / 116 (100%)
+  Items:    1 / 2   (50%)            ********
+  Secrets:  1 / 1   (100%) and Time  * 3:51 *
+                                     ********
+  C-N entry #36.	Date:Pi/2012
+
+
+  Description :)
+  This record is shit, it's absolutely something I shouldn't distribute to
+  COMPET-N but I'm sending it anyway because I'm quite proud that I could
+  overcome my handicaps. My parents for years warned me of Carpal Tunnel
+  Syndrome and so I always made sure my wrists weren't bend upwards. But
+  lately I've been developing another syndrome, I forget the medical term
+  it's called but it's caused from having the wrists bent forward all the
+  time. It's very painful and moving my hands is very hard, thus, my mouse
+  aiming is a little fucked up. Over the past few years, I've noticed slight
+  pains in my wrists but just thought it was do to stress. When my mom get's
+  stressed, her rheumatoid arthritis kicks in and she always feels it in the
+  wrists first. It's gotten worse and worse and worse for me, but since it's
+  spring brake where I live, there shouldn't be much stress going on now
+  should there? It wasn't long before I figured out what was causing my
+  pain, and since I've been playing a lot, the pain really increased. 
+  
+  Starting about 3 days ago, I had to strictly stop playing Doom because my
+  wrist where so bad. Just today I got back into it, and thus I'm making
+  very shitty demos. But I'm very grateful that I can still play and
+  hopefully my damage isn't permanent and as I slowly change my habits,
+  hopefully the damage won't continue.
+  
+  But here's some more info, my right wrist had it worse by far, and I was
+  wondering why. I have relatively big hands and my pinky finger always
+  slides off the right end of the mouse and when I grip the mouse, my pinky
+  is below the other four fingers significantly. Over years and years of
+  using the mouse, this has cause my pinky and digitus annularis
+  (right hand ring finger) to be malformed. I just noticed it a few days
+  ago when I was examining my wrists. The curve in the mouse also added
+  slight damage but it's nothing significant though after a few more years
+  of using a mouse with such a curve, who knows what damage could occur. I
+  use the Logitech Wireless Mouse M505 just so you know. The first thing
+  I'm going to do is get a wider mouse, because my malformed fingers are
+  really disturbing and are causing allot of pain.
+  
+  But anyways, happy Pi day :]
+
+  
+  By the way, COMPET-N record was 4:30 by Revved
+, timestamped:
+  Monday, February 15, 2010, 8:56:00 PM
+
+  Complete Historic COMPET-N Leaderboard:
+  PLT19-GM - Yonatan Donner - 01/10/1997
+  PF19-430 - Revved         - 02/15/2010
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

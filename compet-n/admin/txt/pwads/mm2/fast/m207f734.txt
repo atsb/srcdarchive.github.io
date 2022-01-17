@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M207F734.TXT
+
+ M207F734.ZIP
+
+  M207F734.LMP - UV -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 7 - Frustration
+        
+  Kills    100%
+  (Items    63%)          ********
+  Secrets  100%  and Time * 7:34 *
+                          ********
+                          
+
+  Description :-)
+    
+  This could probably be much faster. The pigs and pain
+  elementals are quite dangerous with -fast.
+
+  Jim “Xit Vono” Leonard
+  xit_vono@yahoo.com

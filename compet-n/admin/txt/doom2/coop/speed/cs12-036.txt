@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM/DooM2
+Category:        Speed
+Map:             12   The Factory
+Players:         2
+
+Kills:
+Secrets:
+Time:            0:36
+
+Player1:         Thomas "PanterD2S" Pilger
+Player2:         Patrick "BauM" von Massow
+
+Comments:

@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV14NET2.TXT
+
+ UV14NET2.ZIP
+
+  UV14NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 14 - Inmost Dens
+
+           Kills    Items   Secrets
+
+  Green      48       00       00      gazelle
+  Grey       46       50       00      dasa
+
+  Time:    1:49
+
+
+Comment:        The single player are quite close to this time, heh.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib.de
+                dasa@cs.tu-berlin.de
+
+

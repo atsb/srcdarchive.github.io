@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV32-b51.TXT
+
+ LV32-b51.ZIP
+
+  LV32-b51.LMP - Ultra Violence
+
+  Recorded using Doom2 v1.666 with a lv32-v19.wad for this
+  lousy (secret) difference between versions 1.666 and 1.9
+  & Converted to Doom2 v1.9
+
+  So,
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 32 - "Grosse"
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  00:51
+                           -----
+
+
+Computer: 486DX33 ISA with standard VGA and PC-Speaker
+
+Comments: I have a 0:44 one for v1.666, where *no* secret is
+          to be watched out for. But v1.9 has 6 of them, and
+          all want to be visited. This is an ugly example of
+          the 100% secrets rule so...
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+200-R2M2.TXT
+
+ 200-R2M2.ZIP
+
+  200-R2M2.LMP - UltraViolence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 2 - Containment Area
+
+  Kills     31%
+  (Items     2)
+  Secrets   25%  and Time  01:50
+
+  Maximum Minimum Health = 200 %
+                           -----
+
+  Description :
+
+  Very simple map to play safely - no bullets to take care of, no lava,
+  no problems at all. The only clue is the secret with the supercharge ...
+
+  Author: Rini (Steffen Udluft)
+
+  E-mail: rini@mppmu.mpg.de
+

@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-624.TXT
+
+ EV32-624.ZIP
+
+  EV32-624.LMP - Ultra Violence
+
+  Recorded using Final Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 32 - Caribbean
+
+  Kills    100%
+  Items     XX%           
+  Secrets  100%  and Time =  6:24 
+                            -----
+
+
+Description: 1:05 faster then Chris Ryback's previous record. 
+
+	     There are a couple of tactics changes I made. At the door of the
+	     second building instead of playing chaingun tag I make a break 
+	     for the soulsphere. On your way back it's much easier to kill them.
+	     Another key change I made was to set off the mancubi/revenant ambush
+	     near the first blue armor early on. As you'll see this causes them
+	     to fight each other and on the way back I position myself where I 
+	     can let the rockets nail them like flies. The most signifigant 
+             change is the conservation of cell ammo in two places. This leaves
+	     me with 4 bfg shots for the final battle and things go much quicker.
+
+	     I plan to return to this map (currently I'm waiting for some detailed
+	     feedback on routes and strategies from Henning) but it might be a while
+	     and I thought I'd give Chris a shot at it. :)
+
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

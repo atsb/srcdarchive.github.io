@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+E3M7-209.TXT
+
+ E3M7-209.ZIP
+
+  E3M7-209.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    100%
+  (Items   75%)
+  Secrets  100%    and Time  02:09
+                             -----
+
+Description:  I didn't change the route at all. I only changed using of
+              weapons. That's probably where 10 seconds came from. A pity
+              i didn't have one rocket more for guys who *guarded* a yellow
+              key, there i could save 1-2 seconds.
+
+    
+Author:    Radek Pecka
+E-mail:    r.master@email.cz
+Doompage:  http://doomers.zde.cz

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+RE24-507.TXT
+RE24-507.ZIP
+
+RE24-507.LMP - Ultra Violence with -RESPAWN
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 24 - The Chasem
+
+Kills    101%
+(Items    xx)
+Secrets  100%  
+
+   ...and Time    05:07
+                  -----
+
+Description: Hmm, Rinis 13:39 recording of this map wasn't that hard to
+	     beat. I knew it could be improved a lot and so can this, but I
+             don't bother until somebody else does it... 
+             
+             Btw, I ran out of bfg ammo in the red key buliding without that
+	     mistake it would have been below 5 min :(
+              
+
+Author:   Henning Skogsto  
+E-mail:   hskogsto@c2i.net  
+Doompage: http://home.sol.no/~doom/             

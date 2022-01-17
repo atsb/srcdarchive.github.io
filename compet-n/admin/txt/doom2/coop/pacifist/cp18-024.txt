@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ ***** CP18-024.ZIP - Coop. UV pacifist *****
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+ Level 18 - The Courtyard
+         
+           *********
+           * 00:24 *
+           *********
+                   
+			     KILLS  ITEMS  SECRET 
+
+ ***** Twister - Green *****   0%     14%     0%
+
+
+
+ ***** MeThOd - Indigo *****   0%     16%     0%
+
+	
+ Description: Demo was recorded at 17.4. 2003 in Prag.
+
+	Twister: It can be faster, cool for coop:)
+	MeTh0d : I hate zombieman in start!!
+
+
+   David "mr.twister" Ficenec <mr.twister@gamezone.cz>
+   Jakub "method_man" Razak <dale007@volny.cz>

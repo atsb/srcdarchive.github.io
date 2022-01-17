@@ -1,0 +1,26 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE07-217.TXT
+
+ RE07-217.ZIP
+
+  RE07-217LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 07 - "Dead Simple"
+
+  Kills    115%
+  (Items    50%)
+  Secrets  100%  and Time  02:17
+                           -----
+
+
+Description: has the well known "rising sector bug" at
+             the end in it... and my nice workaround! :)
+
+Author:      Thomas "Poeppy" Kroppen
+
+E-mail:      poeppy@aol.com

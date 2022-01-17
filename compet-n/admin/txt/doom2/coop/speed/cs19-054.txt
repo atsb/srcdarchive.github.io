@@ -1,0 +1,14 @@
+This is a Coop-N Demo
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr
+
+game:     doom2 v1.9
+category: coop speed
+level:    map14
+
+time:     0:54
+
+description: I go for the blue key
+             and Nicolas for the red key.
+             

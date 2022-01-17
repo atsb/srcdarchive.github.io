@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-454.TXT
+EV32-454.ZIP
+
+EV32-454.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 32 - Caribbean
+
+Kills    100%
+Items     11%           
+Secrets  100%  
+
+   ...and Time  4:54
+               ------
+
+
+Description: One of the few maps in Evelution that is worth playing IMO, but I might
+	     try out a few more maps. 
+
+	     Anyways, thanks must go out to Chris and Anthony for their effort in making 
+	     such a nice route. (don't shot me if I have left anyone else out)
+
+	     
+	     
+
+
+Author: Henning Skogsto 
+E-mail: h-doom@frisurf.no
+
+IRC place:  IRCnet #nightmare

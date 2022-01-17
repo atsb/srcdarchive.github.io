@@ -1,0 +1,12 @@
+P29N-303.LMP --> PL29 on Nightmare
+----------------------------------
+
+Kills   : 27% 
+Items   : 66% 
+Secrets : 50%
+TIME    : 03:03
+
+Comments: Fairly easy level. Got a bit lost at one point (just before the
+          yellow door).
+
+Robert Reevy <drparadox@usa.net>

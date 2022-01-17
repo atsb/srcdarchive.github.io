@@ -1,0 +1,51 @@
+This is a DooM .LMP final doom coop. "Competition" Entry - Please forward it...
+
+PC01-007.TXT
+
+ PC01-007.ZIP
+
+  PC01D007.LMP/PC01E007.LMP - UV Speed and pacifist
+					   (we do not hurt any monsters :)
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 01
+
+              ********
+     and Time * 0:07 *
+              ********
+
+
+  Description :-)
+
+	We use here a trick found by Adam_H almost 2 years ago ...
+
+	ethh shoots, df jumps.
+
+	
+  
+  Authors:
+  
+Pl1 :    ethh <dimethyl@pandora.be>
+Pl2 :    df <bjorn@hamels.nl>
+
+
+
+  additional comments:
+
+	[df]:	I'd like to thank Vincent & Nicolas for the suggestion
+		and Adam & Waldon for the nomo demo (and for
+		the _execution_ :)
+		Well, we beat Adams and Waldons time by one second, 
+		and Vincent & Nicolas by x seconds. Yeah, we own,
+		perhaps it's time for your retirement Adam ? :PP
+		PS: We were talking about Selims recamming lmps while
+		we broke this demo.
+
+	[ethh]: this is a cool way to end the netherlan 2002 party.
+		it's very calm now in here and we made the 7 seconds
+		run while chatting about doom2 done quick and stuff,
+		repeating our route automatically. i think we were pretty
+		much relaxed and that it helped us concentrate on
+		the player sync.

@@ -1,0 +1,32 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rr23-605.lmp & rr23-605.txt
+Date     : 2013-04-13 20:53
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map23: Hatred, by Dario Casali
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 125%
+Items    :  30%
+Secrets  :  50%
+Time     : 00:06:05.40
+===================================
+Description:
+
+I save the invul for the boss brain. The worst moment is running the
+ledge (about 5:05 in this demo), I die 19 times out of 20 there. Kudos
+to Xit for NM100 and calling it "easy". Also nice demos by xepop and
+Istvan are not to be missed!
+
+I had 8:05 but was too ashamed of it so I tried many times and
+eventually got more or less what I was aiming for.
+
+===================================

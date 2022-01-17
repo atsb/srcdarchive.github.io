@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA06-257.TXT
+FA06-257.ZIP
+
+FA06-257.LMP - Ultra Violence & Fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 06 - The Crusher
+
+Kills    100%
+(Items    41)
+Secrets  100%  
+
+   ...and Time     02:57
+                   -----
+
+
+Description: Quit easy map in -fast mode...
+             I think it's time to improve my uv-max entry since nobody else
+             bother to do it :)
+
+             It took me about 10 min to to this, I had trouble getting that 
+             dam strafe with the lift to work, also the second megasphere
+             jump can be tricky sometimes......
+
+             Heia Norge :) I discoverd that Norway is leading compet-n now, 
+             thanks to Anders and Jan Endre...:-)
+           
+
+Author:   Henning Skogsto 
+E-mail:   hskogsto@c2i.net 
+Doompage: http://home.sol.no/~doom/

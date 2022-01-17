@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm04-048.txt
+
+ cm04-048.zip
+
+  cm04r048.lmp
+  cm04m048.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 04 
+  
+              Kills    Secrets
+
+  Method       45%       33%      
+  Radek        41%       66%      
+
+  Time:    0:48
+          ******
+
+  Comments:
+
+  Just another demo...
+
+
+     
+Green:    Jakub "Method_Man" Razak    (dale007@volny.cz)
+Indigo:   Radek Pecka                 (r.master@email.cz)
+  

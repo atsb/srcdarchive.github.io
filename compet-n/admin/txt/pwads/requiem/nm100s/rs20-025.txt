@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS20-025.TXT
+
+RS20-025.ZIP
+
+RS20-025.LMP - Nightmare! 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File requiem.wad -PlayDemo with Version 1.9
+
+Requiem - Level 20 - The Forsaken Hall by by Adam Windsor
+      
+Kills       45%
+Items       25%
+Secrets    100%  and Time -  0:25
+
+Description:
+
+An optimal time should be under 0:22.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+23.08.2005

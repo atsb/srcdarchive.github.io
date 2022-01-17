@@ -1,0 +1,19 @@
+************************************************************************
+LMP Title (if any)	: Classic Episode map2 UV max run
+Filename                : clm2_417.lmp
+LMP Version             : 1.9
+Game                    : Ultimate Doom
+Pwad(s)                 : Class_Ep.wad
+Map Level(s)            : E2M2
+Skill                   : 4 (Ultra Violence)
+Length                  : 4:17
+
+Author                  : Doug Merrill -- Opulent
+Email Address           : opulent@goodnet.com
+************************************************************************
+
+Description             : Nice additions from the original.
+	(even if, I still feel that the shortcut was a good feature)
+For a sp level, I bet this would be a good deathmatch level.
+
+

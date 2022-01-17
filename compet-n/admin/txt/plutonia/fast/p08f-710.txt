@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+P08F-710.TXT
+
+ P08F-710.ZIP
+
+  P08F-710.LMP - Ultra Violence - Fast Monsters!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  The Final Doom - The Plutonia Experiment - Level 8 - Realm
+
+  Kills    100%
+  Items     87%            *********
+  Secrets  100%  and Time  * 07:10 *
+                           *********
+
+
+
+
+Description:  Quite easy level, also very small and fast with
+	      not that much monsters. In fact I think this is one 
+	      of the smallest levels in Plutonia.wad (maybe the 
+	      smallest??). However, I think it was nice playing it 
+	      eventhough sometimes annoying things happened, like 
+	      when some monsters shots starts going through solid 
+	      walls without explanation.. This happened quite often 
+              at the start with the Barons of hell and with the
+              Mancubus. 
+	      Further the level has no armour at all, no Soulsphere, 
+              Mega or Blure sphere so you have to 
+              run "slow"....... Or you'll die.
+
+
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     

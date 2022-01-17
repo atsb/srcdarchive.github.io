@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rr18-520.TXT
+
+ rr18-520.ZIP
+
+  rr18-520.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 18 – UV Respawn
+
+The problem with this map is that there's pretty much no armor until the BFG secret, so it's just a struggle to survive until then.  First, I skip the teleporting monsters after the first switch, then I run around the area with two pain elementals, killing all seargeants and getting the radiation suit. Then I sort of try to grab the plasma rifle, but I couldn't get it open without alerting the barons, unfortunately, but I was lucky enough to have one of them come down the elevator so I didn't have to deal with him. After, I rack up kills with all the hitscanners once I teleport back. I'm amazed with how I didn't have enough cells to get through the BFG secret but I still made it out. After, I simply pick up the red card without triggering the chaingunners. I probably should've just skipped the revenants and used BFG on mancubus. Eh. Well, it's still faster than Xit's run through the level on his regular Ep 2 speed movie! :)
+
+Author: Revved

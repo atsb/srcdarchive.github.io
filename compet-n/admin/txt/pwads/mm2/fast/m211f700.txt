@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m211f700.TXT
+
+m211f700.ZIP
+
+m211f700.LMP - Ultra-Violence max -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 11 - Sewer Shutdown by  Eric Sargent
+      
+Kills      100%
+Items       83%
+Secrets    100%	and Time - 7:00
+
+
+Description:
+
+Third exit demo. But the first without missed monsters. Time should be close to plain max time. But I guess it's not bad run as a table filler.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+10.06.2010

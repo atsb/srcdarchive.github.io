@@ -1,0 +1,25 @@
+Runner: Zero-Master
+IWAD: DOOM2.wad
+Category: UV-Speed
+Map: 02
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 41%
+Items    : 10%
+Secrets  : 0%
+Time     : 00:32.71
+
+Description: 
+Tried for quite some time to only shoot once at the shotgunners by the 
+glide, but it failed so often and I never even seemed close. So I get to 
+kill all 3 of them in 2 shots, which made it a bit easier, still getting 
+hit a single time just pushes you so far off sometimes when you try to 
+line up for the glide. 
+
+Then there is all the luck with the barrels, and hoping you have enough 
+health in the middle of it. This time it went pretty good, I think the 
+glide can go a second faster, or more if you have some extreme luck and 
+also manage to get the barrels later on. 
+
+
+

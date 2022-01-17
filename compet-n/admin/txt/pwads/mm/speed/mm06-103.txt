@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+MM06-103.TXT
+
+ MM06-103.ZIP
+
+  MM06-103.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 06 - The Powerstation
+
+  Kills      8%
+  Items      4%            ********
+  Secrets    0%  and Time  * 1:03 *
+                           ********
+
+  Description :-)
+
+  Leaving the armor/invis/soul sphere behind this time,
+  which should save a couple of seconds provided one makes
+  it through alive. Some not-so-good moments in this demo,
+  particularly in the yellow key room... I might try to
+  improve it later.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

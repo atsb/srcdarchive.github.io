@@ -1,0 +1,36 @@
+This is a Final DooM .LMP "Competition" Entry - Please forward it...
+
+PE28-825.TXT
+
+ PE28-825.ZIP
+
+  PE28-825.LMP - Ultra Violence
+
+  This is a Compet-n/Fdoom/plutonia 
+  Entry...
+
+  Recorded using Final Doom Version 1.9
+  Doomf -PlayDemo with Version 1.9 - Only
+
+  Final Doom: Plutonia - Level 28 - The Sewers
+
+     Kills      100% 
+     Items       11%
+     Secret     100% and Time  08:25
+                               -----
+     
+ Description : A very long level from Plutonia. An easy level really, the only 
+               catch here is, are you lucky enough to get 100% kills. I
+               guess thats what puts people off it, cos you cant really send
+               in a demo with less, cos it would take less time also, to kill
+               the demons that you missed....
+               All the monsters *usually* teleport in anyway.
+               Survival is easy here, so time is important. I dont think I
+               made too many errors, I suppose about 7:50 - 8:00 would be the 
+               optimum time...
+               Anthe made some good points in fdgmcol.txt about this level,
+               especially about the tunnel. It looks sensational!!! :-)
+
+ Author : Michael Greenslade  25th February 1997
+
+ Email  : 9506025m@levels.unisa.edu.au

@@ -1,0 +1,10 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map11
+
+Time:           0:28.97
+
+
+Comments:       It's not flawless but it's 28.

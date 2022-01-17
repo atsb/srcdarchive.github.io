@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM30s148.TXT
+
+MM30s148.ZIP
+
+MM30s148.LMP - Nightmare! 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper
+
+Kills       60%
+Items       44%
+Secrets    100%
+
+              ********
+  and Time -  * 1:48 *
+              ********
+
+
+Description:
+
+This is really odd. I had a 2:01 run and decided to try to push it below 2 minutes
+only to get an improvement of 2:01. Isn't that kind of strange? ^^'
+
+Anyway, I wasn't aiming for this kind of a time to start, just 3:49 was really slow.
+This would've been faster but I couldn't get aimed in time to fire the rockets going
+up the first time, and I had that Mancubus raining down fire on me throwing me off
+center for those last 3 shots....
+
+A normal NM speedrun would be slower than a NM100S one due to where the secret for
+the map is ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+04.05.2002

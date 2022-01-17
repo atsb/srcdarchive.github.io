@@ -1,0 +1,62 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+10324m21.TXT
+
+ 10324m21.ZIP
+
+  10324m21.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Episode 3 – UV Max
+
+Comments:
+This is just awesome. Only two days after my Episode 2 Max movie and I already summoned up the power to create one for Episode 3. With all the max episode tables filled, it creates the possibility for a 30mmmax. Maybe someday I'll try that.... Not to mention that this was the first attempt where I got past Map 24. :)
+
+                                  Time     Kills      Secrets 
+-------------------------------------------------------------
+21 – Twilight Lab                13:54      100%        100%
+22 – The Escape                   8:52      100%        100%
+23 – Showdown                    10:41      103%        100%
+24 – Diehard                      4:17      100%        100%
+25 – Cesspool                     6:01      100%        100%
+26 – Between Scattered Corpses    6:47      100%        100%
+27 – Fort Hades                  10:22      103%         88%
+28 – City of the Unavenged       20:30      109%        100%
+29 – Island of Death             17:13      100%        100%
+30 – Viper                        4:47      112%        100%
+--------------------------------------------------------------
+Total                          1:43:24
+
+21 – Twilight Lab
+A bit of a questionable start without a SSG. Low health moment: 17%, 1:10. The revenant and caco part is a bit dangerous, if you're rushing in quickly, so I used safer tactics. Because I hold the -fast record for this level, it's not really hard for me to remember where to go. Had a bit of trouble with the lift 10 minutes in.
+
+22 – The Escape
+Again, I hold the -fast record, so it's easy. The soulsphere secret I struggle a bit with but that's about it. Low health moment: 14%, 6:50. At the end, I use plasma on all the enemies. It's not like I'm wasting it, I'm just going to get a huge refill at the start of the next level. At around 8:00 and 8:45, I catch 2 stragglers, a seargeant and a spectre. 
+
+23 – Showdown
+Oddly enough, this ended up being a run-killer for me since anything can kill you, whether it be the revenants ganging up, running into a Cyber's rocket, getting hit by an Arch-vile blast, or even getting hit by Barons. For these reasons, I take it slow in this run. A pretty funny moment happens at the start where a revenant gets stuck on a button. One attempt had me dying by a pain elemental shooting a lost soul at me just as I'm shooting a rocket....splat.
+
+24 – Diehard
+Lots of powerups and ammo in this level. I was a bit nervous here because of an attempt where I got a visplane error during the 2:30 part where I was shooting cacos and Pain elementals with a BFG. For whatever reason, I decided to fill up at the end, even though the next level's start does that for me.
+
+25 – Cesspool
+The 30-second secrets never caused me any trouble at all in my attempts. For whatever reason, I thought I missed a revenant and I had decided that it would be invalid (or so I thought) and it would be there as a guideline for future runs. Still, I kept on playing. 
+
+26 – Between Scattered Corpses
+I decided to get the spiderdemons dead simply to get it over with. I sort of messed up the part at 5:10, not killing all the seargeants in one blast. Everything else is great. I used to hold a great -fast record on this level until Looper took it away from me.
+
+27 – Fort Hades
+I hadn't played the level in quite a while, so I was stumbling around a bit making sure I got all the enemies. Made the stupid decision of shooting that arch-vile from inside and wasted 16 shells. I had a bit of struggle trying to strafe-run to the blue key area with invulnerability, but I made it and was able to kill the cyberdemon safely. Since one of the secrets is a mulitplayer teleport, I'm only allowed to get 88% secrets on this map.
+
+28 – City of the Unavenged
+Well, here we go. The hardest and most complex map of Memento Mori. Infamous for being unfriendly for UV Speed, and who can blame them? There's no good way for going through it fast. However, I had lots of practise attempts in PrBoom before so I was able to remember what to do and how to do it. For some reason, I do this weird unorthodox method of killing all of the monsters in clear sight throughout the whole map and then killing everything else, makes me thing I've progressed more. The second cyber is a bit hard due to not much space to navigate while fighting. At around 13 minutes in, an arch-vile teleports. I was going to kill him with a BFG, but accidentally selected plasma. That's okay, though, I wasted the same amount of ammo and didn't lose health. It all works out.
+
+29 – Island of Death
+This level is totally based on luck. First, there's a tough cacodemon to get at the start, and it needs some luck to get the platform all the way down otherwise it won't work. I'm also lucky to have gotten into the room at 1 minute without having to open it again. At 4 minutes, I hear a chaingunner's yell, but I never kill him. I skip him then, because I didn't have enough rockets. Low health moment: 13%, 6:30. I accidentally choose the rocket launcher instead of plasma. Still able to salvage health. The last four minutes are spent looking for stragglers and secrets. Besides, it's going to take some time for those last monsters to teleport. At around 16:30, I finally get that chaingunner. I listen for any more monster sounds, which there were none, and then I leave.
+
+30 – Viper
+Last level. Fun fact: this run is actually faster than Vile's time in the 30mm movie! I take my time with the archies and cacodemons, they might run astray. Low health moment: 10%, 1:30. Just rushing to the secret hoping to survive and get the soul sphere. Because I'm a bit tired at this point, it takes me a bit of time to line up my shots with the hole to Baphomet, but once I do, it ends up being so rewarding.
+
+Author: Revved

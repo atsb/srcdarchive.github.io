@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+T2M9-147.TXT
+
+ T2M9-147.ZIP
+
+  T2M9-147.LMP - Ultra Violence Tyson
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 2 - Shores of Hell
+
+  Mission 9 - Fortress of Mystery
+
+  Kills    100%
+  Items     ??%		   	
+  Secrets  100%  and Time    1:47  
+                           ********
+
+
+Description: Well if E2M2 is a berserk level, E2M9 is a chainsaw level :)
+             This took me about 30 mins, i was really lucky that barons and
+             cacos this time 'knew' what to do and where to go.
+
+Author: Donatas Tamonis
+
+E-mail: dtamonis@takas.lt

@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+NS05-103.TXT
+
+ NS05-103.ZIP
+
+  NS05-103.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 5 - The Waste Tunnels
+
+  Kills     44%
+  (Items   100%)          ********
+  Secrets  100%  and Time * 1:03 *
+                          ********
+                          
+  Description:
+
+  Henning's demo was quite easy to beat so I
+  tried to improve my original 1:07 demo. I
+  used an agressive route here, but the demo is
+  still improvable because I made a mistake with
+  the door. I've had demos around 1:00 where I
+  missed the final secret so 1:00 should be a
+  good time. I'm not sure what's the best way
+  to deal with the blue armor room; I tried
+  this route with fist which may be faster but
+  I'm not sure.
+
+  Xit Vono
+  xit_vono@yahoo.com

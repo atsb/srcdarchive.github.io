@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+N2S5-504.TXT
+
+ N2S5-504.ZIP
+
+  N2S5-504.LMP - Nightmare with all Secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 5 - Command Center
+
+  Kills     69%
+  (Items    10%)
+  Secrets  100%  and Time  05:04
+                           -----
+
+  Description:  Another out of the base map. Reaching the secret exit
+                causes SOME problems to me. Thomas Zajic has reached the
+                secret exit w/o any damage. I just don't know the trick
+                (if there is any).
+                Anyway, a rather challenging map to get 100% secrets.
+            
+       Author:  Steffen "Rini" Udluft
+

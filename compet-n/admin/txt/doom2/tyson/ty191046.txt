@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+TY191046.TXT
+
+ TY191046.ZIP
+
+  TY191046.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - The Citadel
+
+  Kills    100%
+  (Items    67%)
+  (Secrets 100%)  and Time  10:46
+                            -----
+
+Description:  It's a very good map for Tyson, i think, only at the end is 
+              it a bit boring (at least for me). Killing 30-40 Imps only
+              by pistol isn't my favourite activity. Last record was over
+              3 years old, so it needed improvement. A pity Cacos didn't
+              kill Spider, i lost a few seconds there. Maybe i'll play more
+              these long Tyson runs. 
+              The route credits to Demonlord.
+                            
+
+
+Author:	   Radek Pecka
+E-mail:	   r.master@email.cz
+Doompage:  http://doomers.zde.cz

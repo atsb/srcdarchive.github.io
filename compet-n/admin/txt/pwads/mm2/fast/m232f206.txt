@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m232f206.TXT
+
+m232f206.ZIP
+
+m232f206.LMP - Ultra-Violence Max -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 32 - Dances With Demons by David Kuykendall
+      
+Kills      100%
+Items       25%
+Secrets      0%	and Time - 2:06 
+
+
+Description:
+
+This is only second exit after 1.5 hour of tries. Half of tries were ended by mancubi or demons, in other tries one of the cybies didn't leaved red key's sector in reasonable time. 
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+05.04.2004

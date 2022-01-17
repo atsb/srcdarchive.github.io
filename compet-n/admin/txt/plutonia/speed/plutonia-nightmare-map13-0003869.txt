@@ -1,0 +1,16 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: NM-Speed
+Map: 13
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 10%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:38.69
+
+Description: 
+A bit slow on the north directed glide, but the rest went fine.
+Still plenty of time to be saved here with a much quicker glide,
+but trying to kill the baron and reaching the exit kills a lot of attempts,
+though most attempts end immediatly to either lost souls or the mancubi.

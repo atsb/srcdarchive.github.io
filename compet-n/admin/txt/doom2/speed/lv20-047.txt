@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV20-047.TXT
+
+ LV20-047.ZIP
+
+  LV20-047.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - "Gotcha!"
+
+  Kills      5%
+  (Items     8)
+  Secrets   14%  and Time  00:47
+                           -----
+
+
+Description: Gotta have some luck with the lava...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

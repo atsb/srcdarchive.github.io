@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EC01-026.TXT
+
+EC01-026.ZIP
+
+EC01-026.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File TNT.WAD -PlayDemo with Version 1.9
+
+TNT map01
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:26 *
+              ********
+
+
+Description:
+player 1: Torn
+player 2: Erik
+
+Erik:
+Argh, different route than method and raider, much deadlier, damn cyber.
+    
+Torn:
+annnoying map :)
+
+Authors:      Erik Alm
+	      Kim "Torn" Bach
+
+E-mails:      erik_a80@hotmail.com
+	      tornthedark@hotmail.com
+

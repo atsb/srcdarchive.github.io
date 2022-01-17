@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV05-332.TXT
+
+ EV05-332.ZIP
+
+  EV05-332.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 05 - Hanger
+
+  Kills    100%
+  Items     45%           
+  Secrets  100%  
+
+   ...and Time  3:32
+               ------
+
+
+Description: I can't understand how could i get this time, because this
+             demo is full of mistakes. Time under 3:30 would be nice, right?
+             
+
+
+Author:   Radek Pecka
+E-Mail:   r.master@email.cz
+Doompage: http://doomers.zde.cz

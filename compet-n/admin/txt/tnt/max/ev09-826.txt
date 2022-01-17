@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV09-826.TXT
+
+ EV09-826.ZIP
+
+  EV09-826.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 09 - Stronghold
+
+  Kills    100%
+  Items     63%           *********
+  Secrets  100%  and Time *  8:26 *
+                          *********
+
+
+Description: 
+
+This was never intended as a COMPET-N demo. A couple of years ago I'd
+intended to make a complete TNT Maxkills collection. I got as far as
+map22 and just couldn't be bothered to find my way around those mazes.
+Anyway this demo is from that aborted project.
+
+Its a fun map to play and I'm suprised the record hasn't already been improved.
+
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

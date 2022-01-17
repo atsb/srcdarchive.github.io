@@ -1,0 +1,97 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30UV3853.TXT
+
+ 30UV3853.ZIP
+
+  30UV3853.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom II - ALL levels 01-32 - "Compet-N/Doom2/Movie"
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      3%    0%    0%          07     (100   0)
+  LV 02  -     65%   40%  100%       1" 10     ( 83 147)
+  LV 03  -     30%   22%  100%          42     (163 169)
+  LV 04  -     70%   55%   66%       1" 06     (100 110)
+  LV 05  -     27%   33%    0%          46     (117 126)
+  LV 06  -     39%    5%    0%       1" 34     (144 154)
+  LV 07  -    100%  100%  100%       1" 06     ( 64  39)
+  LV 08  -     22%   60%    0%          39 !   (164  39)
+  LV 09  -     31%   21%    0%       1" 34     (100 119)
+  LV 10  -     13%   25%   16%          54     (102 131)
+  LV 11  -     42%    4%   33%       1" 24     (100  11)
+  LV 12  -     12%   20%    0%       1" 09     ( 46  67)
+  LV 13  -     26%   16%    0%       1" 40     (101  60)
+  LV 14  -     43%   50%    0%       1" 18     (142 125)
+  LV 15  -     11%   12%   18%          48     (109  94)
+  LV 31  -     30%    0%   50%          39     ( 52  46)
+  LV 32  -     57%  100%   33%          22     (194 194)
+  LV 16  -     11%    0%    0%          52     ( 91  83)
+  LV 17  -     67%   50%    0%       3" 22     (110  62)
+  LV 18  -      3%   28%    0%          31     (128 100)
+  LV 19  -     13%    5%   22%       1" 02     (107 100)
+  LV 20  -     14%   11%   14%          54     ( 69  81)
+  LV 21  -     40%   44%    0%       1" 06     (171 175)
+  LV 22  -     76%   42%  100%       1" 15     ( 50  17)
+  LV 23  -     53%   31%   50%       1" 23     (191 190)
+  LV 24  -      5%    0%    0%       1" 37     (161 165)
+  LV 25  -     49%   50%   50%       1" 04     (129 139)
+  LV 26  -     44%   15%   25%       1" 17     ( 90  46)
+  LV 27  -     39%   17%   12%       1" 38     (200   9)
+  LV 28  -     28%   20%   28%       1" 06     (192 193)
+  LV 29  -     63%   72%    0%       3" 14     (114 140)
+  LV 30  -   1400%   66%    0%       1" 34     (200 182)
+
+                     Total Time =   25" 833
+                                    25" +
+                                    13" 53
+                                    ------
+                     TOTAL TIME =   38" 53
+                                   --------
+
+
+  Description:  A few things about the levels:
+
+
+                Level 02: I don't like this one, easy to die...
+
+                Level 04: Time's not good, haven't played this
+                          one for a while..
+
+                Level 12: Time's not good.
+
+                Level 13: Time can be pushed a lot but it's
+                          quite easy to die or get stuck..
+
+                Level 17: Well, it's a disaster. I fell down...
+
+                Level 24: I still hate those ...... ledges.
+
+                Level 27: Can be pushed a lot, but it's too easy
+                          to die... and you need a lot of plasma.
+
+                Level 29: The bloody Archvile... Standing in my
+                          way all the time!
+
+                Level 30: Hard to make this one fast...
+
+
+  Author:       Daniel "Demonlord" Lindgren
+
+  E-mail:       akllin95@student.umu.se
+
+
+[  Admin. Note :-)  Thanks for creating your own table - mildly
+   inaccurate values corrected [ LV04 was not 00.57 ] and thus:
+   filename changed "30UV3844 --> 30UV3853" - Great Run !!! :-)
+
+S.;-) aka. The "Judge". ]
+
+

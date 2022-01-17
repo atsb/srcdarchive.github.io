@@ -1,0 +1,42 @@
+This is a Doom .LMP "Competition" Entry
+
+m204-112.txt
+m204-112.zip
+
+m204-112.lmp 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm2.wad -playdemo with Version 1.9
+
+Memento Mori 2 - Level 04 - Ratamahatta
+
+=--------------=
+Kills       ???
+Items       ???
+Secrets     ???
+
+Time       1:12
+=--------------=
+
+C-N entry #63.
+
+This demo is sort of a double-header, introducing two tricks for this map:
+
+#1. A linedef at the start causes 3 of the 4 passageways to seal up when crossed,
+    and a switch in the remaining passageway will open them again.  However, you
+    can strafe across the line without triggering it, allowing access to the 
+    other passages early.  This normally isn't too tough, since the linedef is
+    right at the start, but in this particular route I have to cross the linedef
+    TWICE without activating it.  More of a luck factor than anything else. :)
+
+#2. This one is much easier.  You just jump to the second end pillar as it rises,
+    thereby not needing the first pillar at all.  This, combined with the third
+    pillar, allows you to reach the exit.  It cuts out a large portion of the
+    level.
+
+A time closer to 1 minute is possible, which is really cool since the map is
+pretty ugly, and being able to bypass the greater portion of an ugly map is always
+welcome, IMO. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

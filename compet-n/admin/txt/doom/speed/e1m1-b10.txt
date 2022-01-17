@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M1-B10.TXT
+
+ E1M1-B10.ZIP
+
+  E1M1-B10.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 1 - Hangar
+
+  Kills     10%
+  (Items     2)
+  Secrets    0%  and Time  00:10
+                           -----
+
+  I know it's not a record and someone has already done :10 in this level,
+  but it's not too easy (though it was much easier than I expected), and
+  since I found no "b" for this one I did it myself. It seems STRAFE ON
+  doesn't generate SL/SR50 with the keyboard, only the mouse.
+
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+
+[  Admin. Note ;-)  Speed ON, Strafe ON and Turning *DOES* give SL/SR 50
+   with a mouse OR a keyboard... but if you use separate strafe left and
+   right keys you are [ artificially ] limited to a SL/SR of "just" 40 !
+
+S.;-) aka. The "Judge". ]
+
+

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+TY31-321.TXT
+
+ TY31-321.ZIP
+
+  TY31-321.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills    100%
+  (Items     4%)
+  Secrets   25%  
+
+            ... and Time   3:21
+                          -----
+
+  Description:
+
+  This demo is for Henning.  I think I was
+  lucky with that last one.  You can see from
+  watching it that I didn't quite know what I
+  was doing.  For example, I went back to check
+  for monsters where there weren't any.  This
+  demo should be a bit more polished, but it's
+  only 2 seconds faster.
+
+  Xit Vono
+  xit_vono@yahoo.com

@@ -1,0 +1,29 @@
+This is a Doom .LMP "Competition" Entry
+
+ev20-239.txt
+ev20-239.zip
+
+ev20-239.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+TNT - Level 20 - Central Processing
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       2:39
+=--------------=
+
+C-N entry #66.
+
+Credit for the AV jump goes to Xit Vono, who mentioned it on the forums.
+
+The jump itself is not too difficult, as long as the Archvile cooperates.  Executing the jump
+before the invincibility wears off is the only problem.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

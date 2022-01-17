@@ -1,0 +1,36 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m201s151.lmp                        |
+            | Category: Nightmare! 100% secrets             |
+            | Map Level: MAP01 - Outpost                    |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    112%                            |
+            |      Items     48%           ********         |
+            |      Secrets  100%  and Time * 1:51 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Playing this map on Nightmare became my new addiction :) This is 10th  |
+| exit overall, 6th after m201s200 and 2nd below 2:00. This time I had   |
+| lots of health all the time, quite unusually. Equipped with chaingun   |
+| ammo, I decided to break through the last horde straight to the exit.  |
+|                                                                        |
++========================================================================+

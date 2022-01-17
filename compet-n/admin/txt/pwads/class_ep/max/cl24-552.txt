@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL24-552.TXT
+
+ CL24-552.ZIP
+
+  CL24-552.LMP - Ultra Violence !
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M4 - Deimos Lab
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 05:52 
+                            
+                          
+
+  Description: Good idea to use berserk on those Barons, Xit,
+               it's possible to make some good time savings there.
+               It can also get quite hectic though, so I just
+               saved up rockets.
+
+               As the ending shows, under 5:30 should be very easy.
+               I lost at least 25 seconds just waiting for the faulty
+               monster teleporter to start working :) What I think
+               happened is the first monster didn't activate the
+               teleport line, like the player sometimes does in Map27.
+               Then because he was stuck in the small teleporter
+               sector none of the other monsters could get close
+               enough to the teleport line to activate it. A longer
+               teleport sector with room for more than one monster
+               would probably prevent this.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@jaranbue@yahoo.com.au

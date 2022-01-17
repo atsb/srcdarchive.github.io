@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ ***** CP20-046.ZIP - Coop. UV pacifist *****
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+ Level 20 - GOTCHA!!
+         
+           *********
+           * 00:46 *
+           *********
+                   
+			     KILLS  ITEMS  SECRET 
+
+ ***** Twister - Green *****   0%      4%    14%
+
+
+
+ ***** MeThOd - Indigo *****   0%      0%     0%
+
+	
+ Description: Demo was recorded at 17.4. 2003 in Prag.
+
+	Twister: It´s standart way, 10s left.
+	MeTh0d : No CoMeNt :)
+
+
+   David "mr.twister" Ficenec <mr.twister@gamezone.cz>
+   Jakub "method_man" Razak <dale007@volny.cz>

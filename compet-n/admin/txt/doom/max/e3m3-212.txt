@@ -1,0 +1,91 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E3M3-212.ZIP
+
+ E3M3-212.LMP
+
+  E3M3-212.TXT -UV MAX
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Episode Three - Inferno - Pandemonium
+
+  Kills:   57 / 57  (100%)
+  Items:    2 / 7   (28%)            ********
+  Secrets:  6 / 6   (100%) and Time  * 2:12 *
+                                     ********
+  C-N entry #24.	Date:02/26/2012
+
+  Description :)
+  After looking at vdgg's very well made leaderboard of current records,
+  consisting of both Hegyi/Pre-Hegyi era demos as well as /incoming demos, I
+  noticed that E3M3 MAX was in yellow, meaning a faster time exists than the
+  current COMPET-N record but isn't valid due to the fact that it was
+  recorded with an exe other than the original exe. That demo was E3M3-216
+  by Kyle McAwesome, he used PRBoom v2.5.0.8 to record it. I quickly got a
+  time of 2:17, which beats Radek Pecka's valid COMPET-N entry of E3M3-218,
+  but I was not satisfied because Kyle McAwesome still had a faster time.
+  I then got a time of 2:16, just as Kyle McAwesome did, my exact time was
+  2:16.43 and his exact time was 2:16.77, so I beat him but I was still
+  unsatisfied that it wasn't by a second, according to the Doom tally
+  screen. Then to my surprise, I somehow got E3M3-212, beating the COMPET-N
+  record by SIX seconds. In E3M3-212, I thought I missed one monster, good
+  thing I didn't go looking for it.
+
+  Ahh, it's not everyday you beat a record by six seconds, especially when
+  it's on a 1993 WAD.
+   
+   E3M3-217.LMP
+   
+   Description :|
+   Bleh!
+    
+    E3M3-216.LMP
+    
+    Description :|
+    WTF do you want me to put here??? Well Eelco de Vries's E3M3-247.TXT is
+    interesting so I'll post that:
+     "It should be possible to time this level near 2.35. Since i made
+     several mistakes. This is the 2nd record in a row i take from Michael.
+     Sorry. But i am afraid of Anders, who is reaching episode 3, and will
+     surely crush mine. The hardest part is to be secure and have a bit of
+     luck so now and then. :)" - Eelco de Vries
+     
+    Now let's have a look at Anders Johnsen's E3M3-224.TXT:
+     "> As Donatas i think that below 2.30 should be possible, but you
+     > need quite a bit of luck!
+                
+     Naaa, come on guys...2:15 should be more like optimal. Spent
+     around two hours all in all with this map and got several low
+     2:20's (98-99% kills) with lots of mistakes. Kept this one cause
+     I like the way some shots tourned out :-)" - Anders Johnsen
+    
+     
+  By the way, COMPET-N record was 2:18 by Radek Pecka, timestamped:
+  Thursday, March 21, 2002, 7:00:52 PM.
+
+  Complete Historic COMPET-N Leaderboard:
+  E3M3-808 - Eelco de Vries     - 05/16/1995
+  E3M3-706 - Eelco de Vries     - 05/29/1995
+  E3M3-611 - Eelco de Vries     - 07/14/1995
+  E3M3-411 - Wade Cayton        - 02/18/1996
+  E3M3-401 - Michael Kren       - 02/17/1996
+  E3M3-330 - Wade Cayton        - 04/10/1996
+  E3M3-257 - Michael Greenslade - 03/18/1997
+  E3M3-247 - Eelco de Vries     - 09/23/1998
+  E3M3-244 - Donatas Tamonis    - 09/28/1998
+  E3M3-242 - Eelco de Vries     - 10/19/1998
+  E3M3-224 - Anders Johnsen     - 01/18/1999
+  E3M3-223 - Radek Pecka        - 10/21/2000
+  E3M3-218 - Radek Pecka        - 03/21/2002
+  
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

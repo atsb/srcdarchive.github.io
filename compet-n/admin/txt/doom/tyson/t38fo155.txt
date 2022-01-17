@@ -1,0 +1,18 @@
+This is a   COMPET-N misc.  entry
+
+author:     Mike Toliver <miketol@mtco.com>
+
+game:       Ultimate DOOM version 1.9
+
+category:   Tyson
+            
+level:      E3M8
+            
+stats:      Kills    100%
+            Items     ??%
+            Secrets   N/A   and Time   1:55
+
+comments:   This is a tyson of e3m8 using only my fists, with the spider NOT
+            frozen.  The last caco dies 1 second before my last punch kills
+            the spider.  As Anders said - quite an infight, with a huge dose
+            of luck....

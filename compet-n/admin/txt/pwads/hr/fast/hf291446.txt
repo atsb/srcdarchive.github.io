@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF291446.TXT
+
+ HF291446.ZIP
+
+  HF291446.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 29 - Temple of Fear
+  
+  Kills    102%
+  (Items   100%)                   
+  Secrets  100%  and Time = 14:46  
+                                   
+                          
+
+  Description: Route credits to Esko and Claudio. This is a fairly
+               workmanlike demo, and the end didn't go well at all.
+  
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

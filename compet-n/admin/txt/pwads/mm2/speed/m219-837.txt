@@ -1,0 +1,25 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m219-837.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAP19
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills     60%
+  Items     37%           ********
+  Secrets   60%  and Time * 8:37 *
+                          ********
+
+
+==============================================
+
+Most hated monster? 1.Chaingunner 2.Revenant 3.Spectre.
+In this level, however, the spectres win, i.e. i hate them more than anything else.
+The one near the berserk, the teleporting one, two spectres guarding the Plasma Rifle,
+one blocking my way after picking up the Rocket Launcher... so malicious.
+
+This is a table-filling demo, so don't expect anything spectacular. For me, it's
+fast enough. Thanks to the last arch-vile for not resurrecting the revenant.
+
+...and this is a gorgeous level in every aspect.

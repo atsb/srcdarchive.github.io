@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+F4M6-957.TXT
+
+ F4M6-957.ZIP
+
+  F4M6-957.LMP - Ultra Violence with -FAST
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Ep.4 Mi.6 - Againts Thee Wickedly
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  09:57
+                           -----
+
+  Description:  I didn't hurry in that recording. The goal was to compare
+                the difficulty of -Fast with -Respawn.
+                Result:
+                If you are playing just to survive -Respawn with 100% kills
+                and secrets is BY FAR harder than -Fast. In -Fast you can
+                always whimp out and hide behind corners and shoot only when
+                there's no danger of getting hit.
+                When playing -Respawn this strategy will fail soon because
+                monsters will respawn faster than you kill them.
+               
+                I guess that if you are speeding -Fast will become much
+                harder.
+
+                I like that map!
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

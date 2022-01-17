@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m6-313.txt
+e1m6-313.zip
+
+e1m6-313.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M6 - Central Processing
+
+=--------------=
+Kills      100%
+Items       33%
+Secrets    100%
+
+Time       3:13
+=--------------=
+
+C-N entry #133.
+
+An excellent level, among my favorites.
+It took some luck to finish this one without
+making any embarrasing mistakes.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

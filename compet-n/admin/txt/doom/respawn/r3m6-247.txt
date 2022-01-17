@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M6-247.TXT
+
+ R3M6-247.ZIP
+
+  R3M6-247.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 6 - Mt. Eberus
+
+  Kills    102%
+  (Items    ??%)
+  Secrets  100%  and Time  02:47
+                           -----
+
+  Description:  >This is crap. Don't waste your time watching,
+                >go ahead and record a better LMP.
+
+                As you wish :) This lmp is still far from being perfect but i
+                decided to stop here cause i'm afraid i could play for hours 
+                and not get a better time ;)
+
+                Btw: i somehow managed to overwrite the text file on the lmp by
+                RENAMING it (can you imagine!!!!!) and probably would have 
+                killed myself (or just sat down and recorded another one :) ,
+                but luckily i had undelete.exe.......
+
+       Author:  Donatas Tamonis
+
+       E-mail:  dtamonis@takas.lt
+

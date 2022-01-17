@@ -1,0 +1,68 @@
+This is not just another DooM .LMP "Competition" Entry...(:
+
+30NM4505.TXT
+
+30NM4505.ZIP
+
+30NM4505.LMP - NightMare!
+
+This is a Compet-N/Doom2/MOVIE/D2S/Entry...((:
+
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+
+                    
+              Time  
+
+  LV 01  -    0:07
+  LV 02  -    1:18
+  LV 03  -    0:43
+  LV 04  -    1:04
+  LV 05  -    1:12
+  LV 06  -    1:44
+  LV 07  -    1:26
+  LV 08  -    1:06
+  LV 09  -    1:51
+  LV 10  -    1:24
+  LV 11  -    1:26
+  LV 12  -    1:24
+  LV 13  -    2:16
+  LV 14  -    1:45
+  LV 15  -    0:56
+  LV 31  -    0:44
+  LV 32  -    0:35
+  LV 16  -    0:43
+  LV 17  -    3:14
+  LV 18  -    0:35
+  LV 19  -    1:02
+  LV 20  -    0:56
+  LV 21  -    1:32
+  LV 22  -    1:54
+  LV 23  -    1:27
+  LV 24  -    2:23
+  LV 25  -    2:07
+  LV 26  -    1:21
+  LV 27  -    1:18
+  LV 28  -    1:14
+  LV 29  -    3:10
+  LV 30  -    1:08
+--------------------
+Total        45:05  
+
+
+
+Description: Damn, i'm collecing 30nm runs :) it's my 5th.
+	     After the 30ns i knew i could beat Adam Hegyi's 30nm.
+             So here it is, some levels are pretty bad (06,07,13,24,25)
+             some others are better.
+             I've not put too much efforts in this one. So i think 
+             i could get around 43 mins.
+            
+          
+  Author:    Vincent "PerOxyd" Catalaa DSS
+
+  E-mail:    vincentds@netcourrier.com
+Homepage:    none
+ ICQ-UIN:    14712188

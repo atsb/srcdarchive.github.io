@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf211229.TXT
+
+ rf211229.ZIP
+
+  rf211229.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 21 – UV Fast
+
+With this demo, you will need req21_competn.wad to play it. A bunch of weird stuff happened in this demo. For example, the baron that usually teleports into the star came back in and I had to shotgun it. Also, somehow, I killed an arachnotron after I fought the cyberdemon. Second exit. First exit was a 14:xx demo because I forgot how to open the exit. I also had a failed demo where I died at the same time I killed a hell knight, but I only heard the knight's death noise and not mine.
+
+Author: Revved

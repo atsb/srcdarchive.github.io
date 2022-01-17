@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M7-259.TXT
+
+ R1M7-259.ZIP
+
+  R1M7-259.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    101%
+  (Items    41%)
+  Secrets  100%  and Time  02:57
+                           -----
+
+Description:	Just played this one until I got under 3 min. I can still do
+		better than this.
+
+
+Author:   Jan Endre Jansen
+E-mail:   jejansen@hotmail.com
+Doompage: Soon :-)

@@ -1,0 +1,40 @@
+This is a "COMPET-N/doom2/net-x/ entry", please forward it.
+
+UV10NET2.TXT
+
+ UV10NET2.ZIP
+
+  UV10NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+           Kills    Items   Secrets
+
+  Green      42       62       50      gazelle
+  Grey       47       27       50      dasa
+
+  Time:    5:37
+
+
+Comment:        The Cybie didn't want to face me. Because I collected the first
+                Armor, dasa collected the rest. Except for the cells, they were
+                mine. And, we got all 19 secrets, mh, I thought there were 19,
+                but how can it be 50/50 then?
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+e-mail:         gazelle@cs.tu-berlin.de/humpert@zib.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+
+-----------
+Admin note:   Time is actually 5:35.82 :)
+

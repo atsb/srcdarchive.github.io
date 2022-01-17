@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ER24-146.TXT
+
+ ER24-146.ZIP
+
+  ER24-146.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File TNT.WAD -PlayDemo with Version 1.9
+
+  TNT Evilution - Level 24 - Quarry
+
+  Kills      101%
+  Items       32%            
+  Secrets    100%  and Time: 1:46 
+                             ==== 
+
+  Description :-)
+
+  9th COMPET-N entry.
+
+  Why this wasn't done before is a complete mystery 
+  to me. Yes, this map sucks, as does most of TNT, 
+  but at least it's small and easy to play. The only 
+  real challenge is getting enough kills in a fast 
+  time. You pass over your steps many times, and with 
+  all the respawning and infighting, with bullets and 
+  rockets flying through the air, your best bet is to 
+  just push through and hope for the best. I lost 
+  count of how many attempts I had where I ended up 
+  with 9x% kills. I counted FIVE attempts below 1:40 
+  and with 98% kills (58/59). :-(
+ 
+  Anyway, I was very relieved when, finally, I got 
+  below 1:50 and with >=100% kills (this run). My 2nd 
+  best try was a 1:52, where I got lost at the end, 
+  while invulnerable. Sigh. I don't like this map at 
+  all, and will probably not play it again -- I only 
+  did this recording, so I can say that I at one time 
+  held an IWAD record... :-)
+
+  Side note -> No, I didn't have a sixth sense about 
+  that shotgun guy that I managed to kill almost out 
+  of view(!) early on... In most of the attempts, one 
+  or two shotgun guys (and sometimes the Hell Knight, 
+  ugh!) would block my way as I got to that section. 
+  I made a habit of always firing there to "clear the 
+  path", so to speak, but I rarely hit anything.
+
+  Many thanks to Laszlo Vecsei for the great route 
+  (I looked at his 1:44 max run of this map prior 
+  to attempting this).
+
+  Kristian Ronge
+  zuckuss@gmail.com

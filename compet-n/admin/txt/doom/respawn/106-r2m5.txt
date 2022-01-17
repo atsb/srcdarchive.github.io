@@ -1,0 +1,15 @@
+106-R2M5.LMP --> E2M5 on UV with Respawning
+-------------------------------------------
+
+  Kills   :  4%
+  Items   : 25%
+  Secrets :  0%
+  Time    : 01:03
+
+  Maximum Minimum Health = 106%
+                           ----
+
+  Comments: Fairly easy. Get the shotgun from the sergeant on the stairs,
+not on of the ones at the start.
+
+Robert Reevy <drparadox@usa.net>

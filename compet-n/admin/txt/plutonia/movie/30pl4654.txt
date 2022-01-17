@@ -1,0 +1,101 @@
+This is a DooM .LMP "Competition" Entry
+
+30PL4654.TXT
+30PL4654.ZIP
+
+30PL4654.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final DooM - Plutonia levels 1-30 on UV skill
+
+01 - Congo                  -  :53
+02 - Well of Souls          -  :59
+03 - Aztec                  - 1:19
+04 - Caged                  - 1:38
+05 - Ghost Town             -  :41
+06 - Baron's Lair           - 1:47
+07 - Caughtyard             -  :34
+08 - Realm                  - 2:02
+09 - Abbattoire             - 2:16
+10 - Onslaught              -  :36
+11 - Hunted                 - 1:01
+12 - Speed                  - 4:17
+13 - The Crypt              - 1:46
+14 - Genesis                - 1:33
+15 - The Twilight           - 1:23
+16 - The Omen               -  :54
+17 - Compound               - 2:13
+18 - Neurosphere            -  :34
+19 - NME                    - 1:58
+20 - The Death Domain       - 1:41
+21 - Slayer                 -  :41
+22 - Impossible Mission     - 1:40
+23 - Tombstone              - 3:07
+24 - The Final Frontier     - 1:45
+25 - The Temple of Darkness - 2:47
+26 - Bunker                 -  :55
+27 - Anti-Christ            - 1:04
+28 - The Sewers             - 2:03
+29 - Odyssey of Noises      - 1:33
+30 - The Gateway of Hell    - 1:14
+
+Total - 46:54
+
+C-N entry #36, movie run #10.
+
+I decided to start including comments on each level:
+
+01: Short and easy start.
+02: Another easy one.
+03: Ditto. :)
+04: One map where I take my time to ensure that I leave, since the crowded bridge can
+    be trouble.
+05: Short map, a nice megasphere for me, too! :)
+06: A little slow at the end, but otherwise just fine.
+07: My favorite "map07" from any megawad, this level is a classic. 
+08: The first level I ran for C-N returns!  Only the archviles at the end can pose
+    a threat.
+09: An easy one where rockets are abundant.  The end can be hectic with the mancubi
+    fireballs shooting everywhere.
+10: Made the two jumps through the window, saving my health/armor for maps 11 and 12.
+11: If you archviles wake up, this can be tricky.  I manage to keep most of them asleep
+    in this run, though.
+12: Probably my least favorite plutonia map, this one just reeks. :)
+13: Tough to speed run, but I get a nice megasphere at the end for map14.
+14: Easy if you don't rush, just get to the end alive! :)
+15: A nice fillup map for cells, not to mention the two megaspheres.
+16: This one can be hell if the archvile jump at the end goes wrong, fortunately
+    I got to the exit before the revenants could run it and get me.
+17: Not very tough, just a little cramped. :)
+18: The archvile jump is pretty easy here, thankfully.
+19: Not much trouble here.. don't mess with that cyberdemon. :)
+20: Most of my attempts ended at the blue key area of this map, surprisingly.  The
+    revenants and archvile love to shoot you as fast as possible here.
+21: One of my favorites from plutonia, this can be a little tricky if you get
+    surrounded.  I try to save cells for maps 22 and 23.
+22: The archvile at the red key ALMOST ALWAYS fires the moment you step onto the
+    platform, but I was fortunate this time. :)
+23: This is a tough map if you happen to have low health.  I missed a switch here
+    and had to go back, beh.
+24: The archvile jump here is fun to use. :)  The cyberdemon owned me with a rocket,
+    though.
+25: The last tricky map of plutonia, low health at the start can mean trouble
+    sometimes.
+26: From here until the end of the game, it's nothing but easy levels. :)
+27: I actually died here in one of my attempts, I missed the second invulnerability
+    then.  This time, things went quite well.
+28: Never any problems here.. the monsters swarm near the exit, but I break through
+    without much trouble.
+29: A simple run collecting keys and hitting switches here.
+30: A relaxing way to end a 30 level run, sheesh! :)
+    Took more shots than usual to take down the boss, but oh well.
+
+Bet you didn't expect this, did you? :)
+
+I plan to improve this movie ASAP, so enjoy this run in the meantime.  One final
+note: yes, I did run the 3 episode runs as well; those will be uploaded in a few days.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,20 @@
+
+Final Doom - Plutonia Experiment - Level 05 (Ghost Town)
+
+  Skill:   NightMare!  Can handle it!
+  Kills:   74%
+  Items:   78%           ********
+  Secrets: 100% and Time * 2:10 *
+  Min Hlth: 11%          ********
+
+Comments: This level is harder in NightMare than it looks in this
+          recording.  At the end, usually a Baron respawns before
+          you kill the Arch Vile and makes life difficult.
+          I make the start harder by not taking the MegaSphere
+          early, because usually you need every drop of health to
+          survive the end.  Still, because it can be done so
+          quickly this is probably one of the easier NM Plutonias.
+
+Author:   George Bell (bell@advtech.uswest.com)
+          This demos was recorded using DOS V1.9 of Final DOOM.
+

@@ -1,0 +1,23 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : r1m5-236.lmp, r1m5-236.txt
+Date     : 2013-12-06 18:54
+Game     : Doom
+Client   : doom.exe v1.9
+Category : UV Respawn
+Map(s)   : E1M5: Phobos Lab
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 48%
+Secrets  : 100%
+Time     : 00:02:36
+===================================
+Description
+Recorded this demo six months ago, and it's not particularly good (especially compared to Vile's max), but I haven't gotten around to improving it yet, and I feel that there's no point hoarding records. Only a 3 second improvement, though I assume it could be done under 2:25 or 2:20, given that the max is 2:28.

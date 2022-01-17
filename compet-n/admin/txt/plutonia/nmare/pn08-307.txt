@@ -1,0 +1,36 @@
+This is a Doom .LMP "Competition" Entry
+
+pn08-307.txt
+pn08-307.zip
+
+pn08-307.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP08 - Realm
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       3:07
+=--------------=
+
+C-N entry #78.
+
+It goes without saying that a big thanks is
+in order to Henning for his previous demo
+over this map.  If you don't know the story,
+his demo was disqualified because he admitted
+to using IDDT in the blue key room.  That demo
+laid out the groundwork for this run and
+wouldn't be possible without it.
+
+I plan on improving this run, because it is a
+bit sloppy in parts, but I think I'll wait until
+my frustration with the run has died down a bit. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

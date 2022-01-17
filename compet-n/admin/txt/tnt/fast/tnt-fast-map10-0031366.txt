@@ -1,0 +1,26 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt-fast-map10-0031366.lmp & tnt-fast-map10-0031366.txt
+Date     : 2016-11-04 12:03
+Game     : Final Doom - TNT:Evilution
+Client   : cndoom.exe v2.0.3.2
+Category : Fast
+Map(s)   : MAP10: Redemption
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : Justin Baliao
+Nickname : tinotormed
+Country  : Philippines
+Email    : justinbaliao@yahoo.com
+WWW      : https://www.youtube.com/channel/UC88vplWgds4i4Ua-2bJMDIA
+-------------------------------------------------
+Kills    : 100%
+Items    : 60%
+Secrets  : 100%
+Time     : 00:03:13.66
+===================================
+Tried to use the same strategy for the yellow key room as my UV-Max run except I use the SSG / 
+Chaingun to pick off the Revenants and Pain Elementals. I only use Plasmagun as desperation
+approach if low on health, otherwise ammo is saved for later. The Revenant / Mancubus / Zombie / Imp
+infight at the red key room often happens through luck. Below three minutes is optimal for this
+level.

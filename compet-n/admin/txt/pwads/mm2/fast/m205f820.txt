@@ -1,0 +1,25 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m205f820.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP05
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     33%           ********
+  Secrets  100%  and Time * 8:20 *
+                          ********
+
+
+==============================================
+
+A very clever demo by Archy. I extended his ideas a little,
+but my route change doesn't seem to save time. It is just
+less annoying - with one extra medikit and no need to wait
+~15 seconds for that bridge rising.
+
+In case I don't record anything more for this map - THIS was
+the map after which I began to like MM2 so much. The YK area,
+to be exact. I haven't seen such a surreal, atmospheric map
+until... well, Arcadia Demade :)

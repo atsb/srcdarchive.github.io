@@ -1,0 +1,21 @@
+Author: Erwin Lin
+E-mail: e_lin@coloradocollege.edu
+Skill:  UV Tyson
+Game:   Doom2 Requiem
+Map:    02
+Time:   7:17
+
+recorded with Doom2.exe v1.9
+
+Description: An example of a demo gone horribly wrong.  With 70 bullets
+, limited health, and no chainsaw or berserk, one might think this
+would a hard Tyson but it's actually easy.  Strange how this map is
+easier to do Tyson in UV rather than a lower difficulty.  If you even
+get hurt by the demons, you've done something wrong.  The only
+difficulty is punching out the Pain Elemental.  Staying close to it so
+it can't produce lost souls is the key but that went badly here.
+Somehow I survive.  I almost lose it at the red key too.  I knew I was
+going slow the instant I jumped for the key and was afriad i'd get
+surrounded and die but I manage to escape the imps with 7% health.  I
+thought the time would be worse but I guess I was fairly successful
+with the demons.  Anyways, I think the end result is funny.

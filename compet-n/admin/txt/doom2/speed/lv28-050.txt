@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV28-050.TXT
+
+ LV28-050.ZIP
+
+  LV28-050.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 28 - The Spirit World
+
+  Kills      9%
+  (Items     0)
+  Secrets   14%  and Time  00:50
+                           -----
+
+
+Description: First I made it with 300 cells and therefore
+             7+1 BFG shot -> 1:00
+             Then Demonlord came and made it without the cells
+             1 BFG shot -> 0:55
+             This time I make it without the BFG and without going
+             Invulnerable! -> 0:50
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

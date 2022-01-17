@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M3-318.TXT
+
+DME1M3NM.TXT
+
+ DME1M3NM.ZIP
+
+  DME1M3NM.LMP - NightMare! (Can handle it! ;-)
+
+  Recorded using DooM Version 1.666
+  And Converted to DooM Version 1.9
+  SO
+  DooM -PlayDemo with DooM Ver. 1.9
+  OR
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 1 Mission 3
+
+  Kills     85%
+  (Items    27)
+  Secrets   14%  and Time  03:18
+                           -----
+
+  Description :-)
+
+  Here are the LMPs of all the original shareware DooM
+  levels on NightMare!  On each level I start fresh.
+
+  I also included a lmp of levels 1-4 in a single take.
+  This is just another solution for e1m3 on much easier
+  conditions. Hope you like it.
+
+ Davorin Mestric
+
+ davorin.mestric@etf.hr
+
+

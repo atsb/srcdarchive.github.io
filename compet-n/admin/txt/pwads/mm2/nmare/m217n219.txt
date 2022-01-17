@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M217N219.TXT
+
+ M217N219.ZIP
+
+  M217N219.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 17 - No One
+
+  Kills     34%
+  (Items     0%)          ********
+  Secrets    0%  and Time * 2:19 *
+                          ********
+                          
+
+  Description :-)
+  
+  I think that the trick is a lot easier with strafe50.
+  I was having lots of trouble getting the key in prboom
+  but in doom2.exe I had somewhat more success.  Also,
+  I think this would be more difficult on the normal route.
+
+  Xit Vono
+  Xit_vono@yahoo.com

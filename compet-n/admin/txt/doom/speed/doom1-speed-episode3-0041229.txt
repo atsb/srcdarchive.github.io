@@ -1,0 +1,28 @@
+Runner: Hi Jango
+Date: 2017-05-30
+IWAD: DOOM.wad
+Category: UV-Speed
+Map: Episode 3 (E3M1-E3M8)
+Source Port: Competition Doom v2.0.3.2
+
+Time Without M8: 3:37 (03:40.64)
+Time With    M8: 4:12 (04:12.29)
+
+----------------------------------------------------------------
+Level			Map	Time		
+
+Hell Keep               E3M1 -	0:30		
+Slough of Despair  	E3M2 -	0:15
+Pandemonium  	        E3M3 -	0:25		
+House of Pain 		E3M4 -	0:41
+Unholy Cathedral	E3M5 -	0:25		
+Mt. Erebus 	        E3M6 -	0:26		
+Gate to Limbo 	        E3M7 -	0:55		
+Dis 		        E3M8 -	0:35		
+----------------------------------------------------------------
+			TOTAL -	4:12		
+E3M8 comparison is not relevant. 
+
+Description: 
+This was recorded back in October 2016 or so, but never uploaded.  Time is still improvable but it would require alot of patience and luck!
+

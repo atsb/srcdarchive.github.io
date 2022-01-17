@@ -1,0 +1,46 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+200-NM16.TXT
+
+ 200-NM16.ZIP
+
+  200-NM16.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills     24%
+  (Items    40)
+  Secrets   75%  and Time  02:25
+
+  Maximum Minimum Health =  200 %
+                           -----
+
+  Description :-)
+
+  "MAP16-NM untouched" is not too hard as soon as the right
+  strategy is developed. But pure luck is required to cross
+  the green slime (before getting the blue key) without any
+  damage.
+
+  I claim 200% because S.;-) has authorized that the
+  minimum health counts not from the beginning but
+  *from the moment you first get hurt*.
+
+ Anton V. Magleli
+
+ Magleli@asterix.eecs.wsu.edu
+
+
+[  Admin. Note :-)  Yep, " Maximum Minimum Health =  200 % "
+
+   Although the methods of "scoring" M.M.H may well change
+   from level to level ( depending on each of the maps ;-)
+
+   200% & NO Damage is a WIN - on any method - Well Done !
+
+S.;-) aka. The "Judge". ]
+
+

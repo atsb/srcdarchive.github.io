@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM22N822.TXT
+
+ MM22N822.ZIP
+
+  MM22N822.LMP - nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 22 - The Escape
+
+  Kills    112%
+  (Items    64%)          ********
+  Secrets  100%  and Time * 8:22 *
+                          ********
+                          
+
+  Description :-)
+  
+  You need some luck to do the switch with the imps in the slime.
+  I found ssg to be the most reliable here because you can get 3
+  shots off.  The first is for the 2 near the switch, then I use
+  2 more to make sure that no imps block the lift.  The problem
+  with ssg is that you must kill both imps to have a reasonable
+  chance.  Also, the room above can be really dangerous with
+  respawning monsters.  Fortunately it's the only hard part and
+  it's at the beginning.  I think this was the third time I
+  reached the red key.  It's also nightmare 100% secrets.
+
+  Xit Vono
+  Xit_vono@yahoo.com

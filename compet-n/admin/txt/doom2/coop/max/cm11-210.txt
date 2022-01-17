@@ -1,0 +1,16 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop max
+mission:  map11
+
+time:     2:10
+
+Vincent:  replace a 2:25 that had a living PE, still sux and slower than Vile
+
+xit-vono: Slow
+
+          

@@ -1,0 +1,25 @@
+PA09-323.TXT
+
+ PA09-323.ZIP
+
+  PA09-323.LMP - Ultra Violence and Pacifist
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 09
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  03:23
+                           -----
+
+  Description:  
+
+only problem was as expected the yellow key area, it
+is very easy to get killed there (mainly by the imps at the first skull
+switch, the yellow key platform is bigger and gives you more maneuvering
+space)..
+
+Date  : 2.6.97
+Author: Peo Sjoblom

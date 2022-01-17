@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA27-540.TXT
+FA27-540.ZIP
+
+FA27-540.LMP - Ultra Violence & Fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 27 - Monster Condo
+
+Kills    100%
+(Items     ?%)
+Secrets  100%  
+
+   ...and Time      05:40
+                  ---------
+
+
+Description: This took me some houers to finich, there are some tricky 
+             situations, you also have to learn the monsters moves. Were they
+             go when they are coming etc....The route haven't been worked out
+             in details yet, I belive Peo got 06:12, haven't watched his yet 
+             becorse I think it's kind of interesting comparing the LMPS 
+             afterwords and see how he solves it :)
+
+             btw, Those Lost Souls can go straight to Hell.....IMO it is the
+             most annoying "ohh my ass" monster in the history of all 3d\2d
+             games. 
+             ................and remember while watching the demo, I just did
+             this for fun so do NOT excpect what we call it "a good demo".
+           
+
+Author:   Henning Skogsto   
+E-mail:   hskogsto@c2i.net   
+Doompage: Soon :-)
+
+EOF

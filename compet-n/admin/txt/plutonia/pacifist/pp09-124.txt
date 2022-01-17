@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PP09-124.TXT
+
+ PP09-124.ZIP
+
+  PP09-132.LMP - UV pacifist!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: Plutonia - Level 9 - Abattoire
+
+  Kills       ??%
+  (Items      ??%)
+  Secrets     ??%  and Time   1:24
+                             -----
+  Description :
+ 
+Well, I'm back again - got dosemu working again so I can run doom2.exe
+on Linux, Dash was talking about this level on IRC and it looked fun
+so I put this together. The yellow key grab just tips this level over
+from being an enjoyable refinable run to being a bit frustrating, but
+it's still fun. This is quite fast, some ugly running in places but
+the monsters worked out almost perfectly. Recorded with no sound, since
+sound slows dosemu down terribly...recorded with doom2 -file 
+plutonia.wad, playback with doom2 -file plutonia.wad or prboom -file
+plutonia.wad only, it'll desync if you use final doom or prboom -iwad
+plutonia.wad.
+
+Adam Williamson
+adamwill@shaw.ca

@@ -1,0 +1,18 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop speed
+mission:  map31
+
+time:     0:33
+
+Vincent:  just one second off sedlo's record but pl2 starts closer to 1st door,
+	  but no soldier door trick.
+
+xit-vono: Not perfect, but we didn't think we could beat it
+
+
+          

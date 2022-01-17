@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N4M7-010.TXT
+
+ N4M7-010.ZIP
+
+  N4M7-010.LMP - Nightmare !
+
+  Recorded using Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Doom - E4M7 - And Hell Followed
+
+  Kills      7%
+  Items      5%            ++++++++++++
+  Secrets    0%  and Time  + 00:10.89 +
+                           ++++++++++++
+
+
+  Description :)
+
+  No one will ever do 9 secs on nightmare.. No one!!!!
+  n4m7-gg.LMP "Are you sure? This skill level isn't even remotely fair."
+
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com
+
+=======================================
+  PLAYER SETTINGS:
+  Music: No
+  Autorun: Yes
+  Messages: On
+  Graphic Detail: High
+  Gamma Level Correction: 3
+  mouse_sensitivity 32
+  screenblocks 10
+
+  SYSTEM INFO:
+  Monitor: Philips 107S6
+  Monitor Driver: Philips 107E6/V6/S6/G6 1.0.0.0
+  Monitor Settings: All Default, except Brightness '100'
+  Mouse: Genius Traveller 100
+  Sensitivity 6/11
+  Keyboard: Logitech Ultra-Flat Keyboard
+  Motherboard: Gigabyte 945GCM-S2L
+  Processor: Intel(R) Core(TM)2 Duo CPU E4600 @ 2.40GHz (2 CPUs)
+  Video Card: NVIDIA GeForce 9600 GT
+  Sound Card: Realtek HD Audio output
+  Headset: Cheap Sony SR-470M.V headset

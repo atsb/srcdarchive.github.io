@@ -1,0 +1,18 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+authors:   Arno Slagboom (slagboom@cybercomm.nl)
+           Marko van der Want (markowant@freemail.nl) 
+
+game:     doom2 v1.9
+category: coop pacif
+level:    map03
+
+time:     1:07
+
+
+
+
+------------------
+Admin note (Ralf):   Pacifist means "don`t hurt monsters in any way", so
+                     it has to be walls instead...                    :)
+

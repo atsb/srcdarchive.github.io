@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CF21-228.TXT
+
+ CF21-228.ZIP
+
+  CF21-228.LMP - Ultra Violence with -fast
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M1 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    64%)          
+  Secrets  100%  and Time = 02:28 
+                            
+                          
+
+  Description: 	First exit under Ryback's time and it shows.  A time under 2:20 should be fairly easy to achieve.
+
+
+  Phil Renshaw
+  immortalcowpat@hotmail.com

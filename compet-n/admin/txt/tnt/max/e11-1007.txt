@@ -1,0 +1,39 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV11-1007.TXT  (8 bytes: E11-1007)
+
+ EV11-1007.ZIP
+
+  EV11-1007.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 11 - Storage Facility
+
+  Kills    105%
+  (Items    68)
+  Secrets  100%  and Time  10:47
+                           -----
+
+
+Description: If it was a nice level, I would have re-recorded it for
+             < 10:00 - But I don't like to search for monsters that
+             teleport to 3 or 4 different places. No, not at all. I
+             I like the jump and run in the maze, and I take the
+             megasphere. (They didn't need it in their fduvdemo.zip
+             It's no secret, but I thought I should show you how to
+             get it.) I take the plasma gun at the very end of this
+             .lmp where it's completely useless. :( I don't know the
+             secrets, btw.
+             Only an initial entry, hope there will be improvements.
+             Under 10:00 !
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

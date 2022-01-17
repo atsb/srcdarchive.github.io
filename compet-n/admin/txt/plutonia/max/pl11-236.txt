@@ -1,0 +1,81 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PL11-236.ZIP
+
+ PL11-236.LMP
+
+  PL11-236.TXT -Ultra-Violence MAX
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills:  14 / 18 (77%)
+  Items:  13 / 16 (81%)            ********
+  Secrets: 1 / 1  (100%) and Time  * 2:36 *
+                                   ********
+  C-N entry #30.	Date:03/10/2012
+
+  Description :)
+  I'm actually kinda disappointed about this, my PL11-237 looks so much
+  better. That run had such a quality feel to it. I know most of you won't
+  but if your reading this and enjoyed PL11-236, make sure you check out
+  PL11-237 because you'll enjoy that one even more, or at least I hope so.
+  
+  But anyways, this is still a great run. Half the time I was blinded by
+  fire but I know the map so well it didn't effect me at all. My strategy
+  here was a combination of the strategy I used in PL11-237, but with a
+  little more risk taking. I tried as much as possible to never take any
+  brakes in-between shot gun blasts, in other words, as long as an
+  Arch-Vile's in-front of me, I'm holder the right-click (my fire button) as
+  opposed to clicking, then clicking again for the next fire. This means
+  that I take cover less, and thus, must rely on the Arch-Vile flinching
+  which is not very reliable, but it's what got me the record.
+
+  Here's the text from PL11-237, it will make some of the things I discussed
+  above more understandable, but to understand PL11-237.txt, you'll need to
+  know what's with the failed PL11-237 attempt. The failed PL11-237 attempt
+  somehow failed because the secret somehow didn't register (WTF!??). But
+  anyways, here's my PL11-237 text file:
+   "Yes!! Finally beat [well, tied :(] my failed PL11-237 attempt!!
+    Took a slightly new rout this time, not sure if it actually saves time or
+    not but it defiantly doesn't slow down the run.
+  
+    The trick here was to hurt the enemies but not immediately kill them,
+    because in order to immediately kill them, you must stop and take some
+    time out. But here, I hurt them a little, but don't take (too much) time
+    to stop, instead when I'm trailing back after the yellow key switch has
+    been clicked, that's when I finish them off.
+  
+    I must say, I'm quite proud of this one, looks like something SAV88 would
+    record though don't tell him that."
+  
+  Ahh, my 4th PL11-2xx.LMP entry this week... I need a girlfriend.
+  								
+  								
+  By the way, COMPET-N record was 2:37 by me, timestamped:
+  Friday, March 09, 2012, 11:55:52 PM
+
+  Complete Historic COMPET-N Leaderboard:
+  PL11-828 - Kai-Uwe Humpert - 10/12/1996
+  PL11-315 - Kai-Uwe Humpert - 03/26/1997
+  PL11-252 - Radek Pecka     - 03/28/2002
+  PL11-250 - Xit Vono        - 06/12/2006
+  PL11-246 - Archy           - 11/18/2009
+  PL11-244 - Archy           - 12/22/2011
+  PL11-241 - Archy           - 02/15/2012
+  PL11-240 - Archy           - 03/09/2012
+  PL11-238 - Archy           - 03/09/2012
+  PL11-237 - Archy           - 03/09/2012
+
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

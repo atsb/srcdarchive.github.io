@@ -1,0 +1,16 @@
+This is a Doom .LMP "Competition" Entry
+
+pr27-303.TXT
+
+ pr27-303.ZIP
+
+  pr27-303.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file plutonia.wad -playdemo with version 1.9
+
+  Plutonia - Map 27 - UV Respawn
+
+Yet another table-filler.  Somehow I had pretty good luck here, as my health didn’t drop down as much and enemies died earlier than I expected. Sub-3:00 should be possible here.
+
+Author: Revved

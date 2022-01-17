@@ -1,0 +1,28 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq25-155.lmp, rq25-155.txt
+Date     : 2013-08-30
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV-Max
+Map(s)   : MAP25: Chaos Zone
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  98%
+Secrets  : 100%
+Time     : 00:01:55
+===================================
+Description:
+
+Very exciting map! Under 2 min is pretty good.
+
+
+94th Comepet-N Entry

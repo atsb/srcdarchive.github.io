@@ -1,0 +1,28 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m223r957.lmp & m223r957.txt
+Date     : 2013-03-14 19:06
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map23: No Way Out, by Eric Sargent
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 101%
+Items    :  42%
+Secrets  : 100%
+Time     : 00:09:57.97
+===================================
+Description:
+
+Easiest of the three (MAP06,09,23). NM100 wasn't tried (by Xit, he he,
+who else?) and is possible I think; the scariest/deadliest moment is,
+I think, the BFG area, just before the megasphere.
+
+===================================

@@ -1,0 +1,87 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM11P036.TXT
+
+ MM11P036.ZIP
+
+  MM11P036.LMP - UV Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 11 - Halls Of Insanity
+
+  Kills        7%
+  Items        0%            
+  Secrets      0%  and Time: 0:36 
+                             ==== 
+
+  Description :-)
+
+  19th COMPET-N entry.
+
+  A rather difficult pacifist run, so I'm not surprised this 
+  is the first entry. There are lots of tricky situations 
+  where you can easily die or get blocked, and you have no 
+  armour at all. On this route you only get (at most) 30% 
+  extra health, too. At first I used a completely different 
+  way of getting through the group of spectres by the blue 
+  key than the one used in the UV speed entries. I'm including 
+  my fastest run with that route as well. 
+
+  After many initial tries, I thought charging through the 
+  barrels was impossible to survive, so I gave up that idea, 
+  and didn't come back to it after I had a decent time with  
+  the alternate route. Then I found that it was possible, but 
+  very tough, as several spectres rush towards you, blocking 
+  your way, and many trigger happy monsters are eager to shoot 
+  at you and the barrels surrounding you. By quickly running 
+  straight through the barrels, and then making a sharp turn 
+  to the right as you touch the first spectre, you can squeeze 
+  by it. If you get stuck on the barrels -- even slightly -- or 
+  if you're otherwise just a little slow in getting to that 
+  first spectre, it will have run out too far for you to get 
+  past it. Just press "Q". :-/
+
+  Of course, you can also get shot to death by the shotgunners 
+  after the blue key door, or killed/blocked by the group of 
+  monsters at the teleport (sometimes these monsters would 
+  still be inactive as I got there, which, of course, is 
+  preferrable, but I have no idea why. Sorry, I should have 
+  checked this). In this run, they were all gathered in 
+  front of the teleport and I thought the attempt was over, but 
+  for some reason they all moved aside like true gentlemen! ;-)
+
+  If you're really unlucky you can get hit by a lot of imps at 
+  the yellow key and die that way. It happened a couple of times, 
+  once or twice even when I had plenty of health there. Ugh.
+  On the way back from taking the yellow key, I often got shot 
+  to pieces by an Arachnotron while going down those stairs, or 
+  blocked by the Baron, or both. :-(
+
+  And to top it all off, the ending room is ridiculously random 
+  and difficult to survive. I had at least one attempt where I 
+  got to the end with 100% health and died, and on two occasions 
+  I survived it going in with only 34% health. Unbelievably 
+  frustrating, since it's more or less out of your control. You 
+  have to get the spectre to come out of the exit corridor, and 
+  while waiting you can get easily get cornered and killed. 
+  Sometimes that spectre wouldn't see me -- hanging around too 
+  long in front of the exit door usually resulted in being 
+  quickly torn to pieces by the Knights -- meaning I had to fire 
+  a "wake-up" shot, seen in this run.
+
+  I must say I'm satisifed with 0:36, considering how hard this 
+  is to survive. The ending pretty much sucks, though, and the 
+  exit time isn't too far from 0:35.97. I'm sure I could even do 
+  0:34 with enough luck, but it's just too frustrating to keep 
+  trying. Sorry.
+  
+  Other notes -> If you want to look at the "original" version of 
+  this map, find the file dm2gm2.zip in the /idgames archive... 
+  In some ways, Eric Reuter's original map is better without the 
+  modifications Denis made to it.
+
+
+  Kristian Ronge
+  zuckuss@gmail.com

@@ -1,0 +1,27 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang)
+
+Green:      Arno Slagboom <slagboom@cybercomm.nl>
+Indigo:     Marko van der Want <markowant@freemail.nl>
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Nightmare!
+            
+         *-------*
+Time:    | 2:13  |
+         *-------*
+                             
+Levels                      Time    
+	
+01 Entryway                 0:11    
+02 Underhalls               1:17    
+03 The Gantlet              0:45    
+---------------------------------
+Total                       2:13
+
+
+comments:   Nightmare is quite hard when you don't have a plan. :)
+            Some misunderstandings in map2 and soloplay in map3 and 4,
+            so lots of improvement possible. With the bfgs and plasmaguns, 
+            you should just blast through the levels. Try this ViNi!
+

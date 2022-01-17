@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m201p033.TXT
+
+m201p033.ZIP
+
+m201p033.LMP - Ultra-Violence pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 01 - Outpost by Denis Moeller
+      
+Kills       31%
+Items        0%
+Secrets      0%	and Time - 0:33
+
+
+Description:
+
+I was trying a pacifist run with straightforward route many times. I'd reached the yellow key slightly over hundred times. Chainies or imps killed me eight times at the exit door. And finally I've pressed the exit switch with four health points and enormous luck.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+09.04.2006

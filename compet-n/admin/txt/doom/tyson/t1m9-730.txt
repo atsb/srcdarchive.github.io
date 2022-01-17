@@ -1,0 +1,25 @@
+T1M9-730.TXT
+
+ T1M9-730.ZIP
+
+  T1M9-730.LMP - Tyson style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 9 - Military Base
+
+  Kills    100%
+  Items     69%
+  Secrets  100%  and Time  07:30
+                           -----
+  
+  Description:  After doing it with pacifist style, I adopted some pacifist
+                strategies to reach the chainsaw early. With this improved
+                route it was easy to smash the old record, even though this
+                LMP is not optimized at all.
+
+       Author:  Steffen Udluft
+      
+       E-mail:  rini@mppmu.mpg.de
+

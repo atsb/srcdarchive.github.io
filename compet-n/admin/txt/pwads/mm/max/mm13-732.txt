@@ -1,0 +1,37 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm.wad                                  |
+            | Filename: mm13-732.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP13 - The Inmost Dens II         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     40%           ********         |
+            |      Secrets  100%  and Time * 7:32 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| The previous record was a rare example of an "intended route"          |
+| Compet-N Max. Just beating it was not a problem - many tricks were     |
+| used by Oyvind himself in his UV Speed demo. I got some 7:5x with      |
+| survivors or 8:0x with 100% kills, so the time surprised me - it's     |
+| not a great demo in my opinion.                                        |
+|                                                                        |
++========================================================================+

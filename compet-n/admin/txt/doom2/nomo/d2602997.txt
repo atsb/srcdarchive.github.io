@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Mission:        map26
+Time:           29.97
+
+Comments:       Hmm, not bad run. Of course I got 30.00 once :)
+           
+
+Author:         Looper

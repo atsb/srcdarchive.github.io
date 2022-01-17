@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+TY19-959.TXT
+
+ TY19-959.ZIP
+
+  TY19-959.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - The Citadel
+
+  Kills    100%
+  (Items    39%)
+  (Secrets  88%)  
+         
+             ... and Time  09:59
+                           -----
+
+  Description:  
+
+  A huge 3 secs improvement...
+  
+
+  Radek Pecka
+  r.master@email.cz
+

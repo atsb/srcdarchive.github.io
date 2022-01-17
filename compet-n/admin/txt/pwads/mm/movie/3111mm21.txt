@@ -1,0 +1,74 @@
+This is a Doom .LMP "Competition" Entry
+
+3111MM21.TXT
+3111MM21.ZIP
+
+3111MM21.LMP 
+
+Recorded using Doom 2 Version 1.9
+DooM2 -file mm.wad -playdemo with version 1.9
+
+Momento Mori - levels 21-30 on UV skill
+
+21 - Twilight Lab              - 4:16
+22 - The Escape                - 4:23
+23 - Showdown                  - 2:35
+24 - Diehard                   -  :25
+25 - Cesspool                  -  :40
+26 - Between Scattered Corpses - 3:26
+27 - Fort Hades                - 3:46
+28 - City of the Unavenged     - 8:25
+29 - Island of Death           -  :26
+30 - Viper                     - 2:49
+
+Total - 31:11
+
+C-N entry #53, movie run #21.
+
+21: A somewhat long opening map for an episode.  I collect cells here for map22.
+22: Ah, this map is most memorable because of the two dueling spiderdemons partway
+    through.  If you're wondering why I sneak past the imp in the cramped hallway,
+    shooting him would awaken a horde of chaingunners/imps to make my life hell.
+23: This map is actually not too difficult to speed, but there is a bit of concern
+    regarding the room with the line of archviles on both sides.  If they start
+    firing before you can get out, start praying that they let up before the
+    invincibility wears off. :)
+24: A very easy map to speed run, which is a nice change of pace after the previous
+    three levels.
+25: The comments for map24 also apply here.  This would also be a nice fillup map if
+    something somehow went wrong in map24.
+26: At the yellow key area, I take my time to remove the imps that are released after
+    dealing with the knights.  If they are standing in the wrong place, they can
+    prevent the bridge back out of the room from rising and you would be stuck there
+    permanently.. yeah, it sucked when it happened to me. :)
+27: This map can be a pain if map26 left you with low health/armor, but reach the
+    megasphere and things should be fine from there.  Thanks go to the Momento Mori
+    god The_Fish for his route help on this one, it really came in handy. :)
+28: Alright folks, bear with me on this one.. this map is the final challenge of
+    Momento Mori and the longest map from the whole wad.. as well as the map I spend
+    the most time on in ANY movie.  Luckily, I have a few tricks up my sleeves, such
+    as the red key grab.  Otherwise, gradually weakening the free monsters, hitting
+    the proper switches, and getting the hell out of there is the way to go.
+29: A nice reward for the shit you take in map28, just run to the exit!
+30: I have always regarded this map as one of my favorite map30's from any megawad.
+    The map is wonderfully designed and Milo's take on the boss situation is pretty
+    cool.  I use the BFG strategy on the cyberdemon, then switch to rockets when I
+    run low on cells.  It took a bit longer to remove the cyberdemon than I had hoped
+    but it was still faster than previous attempts.  My nerves really suck, so I get
+    shaky while taking shots at the boss. :)
+
+From the 3 Momento Mori episodes, this one is probably the most stressful due to its
+length and a variety of challenging levels.  As you can see, it's likely that a 30mm
+would be about 80 minutes long, but cut me some slack when I start work on it.  An
+80 minute movie is the longest I've ever taken on.. hell, I thought 55 minutes for a
+30ev was stretching it a bit.  I'm going to need a break before trying it (plus I
+promised Dash I would try a movie for Death Tormention II for Mirra) but wish me luck
+in the meantime. :)
+
+Oh man, a 30mm is going to destroy my nerves.  I can hardly wait.. :)
+
+Previous times for this run were 35:31, 34:04, 32:52, and 32:24. (I played this one
+a lot!)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

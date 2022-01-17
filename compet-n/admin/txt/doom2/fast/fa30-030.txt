@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+FA30-030.TXT
+
+ FA30-030.ZIP
+  
+  FA30-030.LMP - Ultra Violence - Fast
+  
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+  
+  Doom2 - Level 30 - Icon Of Sin
+  
+  Kills    200%
+  Items     16%
+  Secrets    0%  and Time  00:30
+                           -----
+  
+  Description:
+  
+  Took about 3 hours to get.
+  
+  
+  Ian Sabourin (Sslasher)

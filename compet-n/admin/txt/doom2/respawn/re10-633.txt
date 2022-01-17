@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE10-633.TXT
+
+ RE10-633.ZIP
+
+  RE10-633.LMP - Ultra Violence with -Respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills    100% 8-)
+  (Items    74)
+  Secrets  100%  and Time  6:33
+                           ----
+
+  Description :
+  Oh, what a mess! Feels like cleaning up Augias' stable.
+  Many, many secrets in this map make it quite hard to play
+  on -RESPAWN for 100% secrets. You must choose your route very
+  carefully, otherwise you will get stuck in a BIG crowd of
+  monsters with rapidly decreasing ammo.
+  That's the thing I like most in any new category
+  (like -RESPAWN 100/100 or Pacifist), you have to find
+  an apropriate route yourself without any templates.
+  I collect the weapons early and use up almost every extra health
+  and armor that's available, watch my health playing yoyo.
+  After ending with 98/100 in 6:03 and 134/100 in aweful 7:43
+  I'm quite contempt with this recording - think it's not too bad
+  for a first entry (once again the end is a bit chaotic).
+
+  Author:      Rini (Steffen Udluft)
+
+  E-mail:      rini@mppmu.mpg.de
+

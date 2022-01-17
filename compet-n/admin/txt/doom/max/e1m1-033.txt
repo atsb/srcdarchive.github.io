@@ -1,0 +1,57 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M1-033.TXT
+
+ E1M1-033.ZIP
+
+  E1M1-033.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 [ ! ]
+
+  DooM - Ep.1 Mi.1 - Hangar
+
+  Kills    100%
+  (Items     5)
+  Secret   100%  and Time  00:33
+                           -----
+
+  Description :
+
+  Some other players tried to beat my old records (40s and 38s) of this
+  level. So I decided to finish this battle. After 2 years and 5 months
+  practising this level I made an ultimate attempt and got a 33s recording.
+  The exact time is 1188 game tics or 33.94s.
+
+  I don't see any real improvements (down to 1154 game tics) any more.
+
+  The par time (30s) is out of reach.
+
+  In this recording I use some interesting fighting strategies:
+
+    The first sergeant (who gives me my shotgun) is nearly dead as I arrive.
+    I shoot him with the pistol from the distance. I kill the two sergeants
+    above with one shot and don't get the gun of the left sergeant.
+
+    In the room after the first door I don't hesitate but run forward. The
+    last sergeant near the exit survives!
+
+    In the room before the level exit I shoot the sergeant and the barrel
+    with one shot. This kills the imp and all of the soldiers on the right
+    side too.
+
+    The elevator trigger line is too far away but my friend the sergeant,
+    who survived, triggers it. The imp shoots him for me.
+    I was really surprised as I first realised that this sergeant is able
+    to trigger the elevator.
+
+    The last part is full of "diagonal run". I use it even in the exit room.
+
+
+ Uwe Girlich
+
+ girlich@aix520.informatik.uni-leipzig.de
+
+

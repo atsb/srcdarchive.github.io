@@ -1,0 +1,92 @@
+EP1C2816.TXT
+
+ EP1C2816.ZIP - Ultra Violence using only fist/chainsaw
+
+  EP1C2816.LMP - Whole Episode on Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only !
+
+  DooM - Episode 1 - Knee Deep In the Dead
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  E1 M1  -      0%    2%   33%       0" 16     (100 198)
+  E1 M2  -     26%   26%   16%       1" 20     ( 96 149)
+  E1 M3  -     56%   14%   14%       3" 45     (102 101)
+  E1 M4  -     10%   20%   66%       0" 46     (121  60)
+  E1 M5  -     84%   75%   77%       6" 38     ( 96  46)
+  E1 M6  -     69%   55%  100%       8" 31     (119  61)
+  E1 M7  -     84%   66%   75%       7" 00     ( 87  32)
+  E1 M8  -     ??%   ??%  100%   [ Excluded! - App. 4" 21 ]
+
+                     Total Time =   25" 196
+                                    25" +
+                                     3" 16
+                                    ------
+                     TOTAL TIME =   28" 16
+                                   --------
+
+  Description:  One of the most classic tasks!
+                Doing the old episode 1 with fist and chainsaw only.
+                I tried this back in '93 after completing episode 1,
+                ending each map with the highest possible health and armor.
+                Of course I used "Save game" thousands of times, no way to
+                record a level in one try. I did not even know that doom can
+                record demos.
+                But even with saved games I did not succeed to do the
+                endlevel.
+
+                Well, times have changed - nowadays a recording like this is
+                rather easy to do. It's surprising that noone has done it
+                before.
+
+                Some comments on the maps:
+                E1M1 - Well, this route was not possiblle with the old
+                       shareware version.
+                E1M2 - Get the 'good old' chainsaw.
+                       Some say it is rusty and old ...
+                       ... but in contrast to the berserk fist
+                       it last for more than only one map.
+                E1M3 - A very nice challenge.
+                E1M4 - I lost my orientation in the end.
+                E1M5 - I'm still no expert here.
+                E1M6 - A bit too long to be fun.
+                E1M7 - Propably the hardest map, but I'm very used to it.
+                E1M8 - I made the barons fight each other without any
+                       problems. All went perfect, maybe too perfect, so
+                       I felt VERY strong and lost my respect of the
+                       surviving baron of hell and acted without the
+                       apropiate concentration. Scratch, scratch and I
+                       was down on 12% health. You can see how I struggled.
+                       On the one hand I REALLY wanted to finish that
+                       recording (it was my first real try and I like those
+                       the most), on the other hand I did not want to look
+                       like a complete chicken.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+
+------------------------------------------------------------------------------
+      
+       Some words on violence in computer games:
+
+       When looking at a DOOM demo you might think that
+       the author acts aggressive in real life too.
+       That it might even be likely that he starts killing
+       people or animals just for fun.
+       Let me tell you that I really know the difference
+       between real life and a computer game and I am pretty
+       sure that all the DOOMers I know do as well, even
+       those who are only thirteen years old.
+       But there really might be a problem for little
+       children and even I (beeing gorn in `69) would prefer
+       the graphics being less bloody and less violence
+       glorifying.
+       I hope that gamedesigners as well as movieproducers
+       will stop the inflation of displayed violence.
+
+
+

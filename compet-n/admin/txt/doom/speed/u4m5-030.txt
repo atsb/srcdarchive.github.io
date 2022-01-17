@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+U4M5-030.TXT
+
+ U4M5-030.ZIP
+
+  U4M5-030.LMP - Ultra Violence
+
+  Recorded using The Ultimate Doom v. 1.9
+  DooM -PlayDemo with The Ultimate Doom v. 1.9 ONLY
+
+  DooM - Ep.4 Mi.5 - They Will Repent
+
+  Kills     12%
+  (Items    13%)
+  Secrets    0%    and Time  00:30
+			     -----
+
+  
+  Description :-)
+
+  Uh-oh... another DdQ time beaten... and yet another second closer to perfection here.
+  I collected around the DdQ<->COMPET-N times and found some interesting facts...
+  These are the maps which could be improved in DdQ:
+  (not mentioning the maps where the DdQ time is slower because a specific item has to
+  be gathered; and of course the U.G. ones)
+  
+  Map   DdQ   COMPET-N
+
+  E1M4  0:22  0:16 (0:15 is possible combining the 2 tricks)
+  E1M5  1:10  1:07
+  E1M6  1:15  1:13
+  E2M1  0:39  0:38
+  E2M2  0:16  0:15
+  E2M8  0:34  0:33 (0:32 is possible, see n2m8-032)
+  E3M1  0:35  0:32
+  E3M4  0:47  0:42
+  E4M1  0:34  0:32
+  E4M4  0:38  0:37
+  E4M5  0:31  0:30
+  
+  Total time for DdQ: 19:41
+  Total time for a possible DdQr: 19:13
+
+  What am I trying to say? Let's go for DdQr? Probably not. It's just too much pain
+  and suffering for half a minute. Refilming DdQ could be interesting though...
+
+  DdQ is going to be 1 year old soon, and we managed to pull out quite an improvement
+  over it in the last year... which was the *fifth* year of DOOM! Long live DOOM!
+
+  Adam Hegyi
+  ha211@hszk.bme.hu 

@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+001-RE04.TXT
+
+ 001-RE04.ZIP
+
+  001-RE04.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 04 - The Focus
+
+  Kills    109%
+  (Items    67%)
+  Secrets   66%  and Time  02:52
+
+  Minimum Maximum Health =   1 %
+                           -----
+
+  Description:  That's a joke, you can't beat this, 1% is the worst score
+                to reach. I did this because I needed a lmp to test Istvan's
+                new script.
+                Besides this, with respawning monsters this map isn't too
+                easy even if it's not nightmare. I've practised this on
+                nightmare today, because I need it for my DHT6 Incubus.
+                I've reached the last room around five times already, but
+                always invented a new way to _NOT_ finish it :-\
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

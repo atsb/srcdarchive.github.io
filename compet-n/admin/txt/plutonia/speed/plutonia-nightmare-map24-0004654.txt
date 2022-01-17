@@ -1,0 +1,18 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: NM-Speed
+Map: 24
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 48%
+Items    : 73%
+Secrets  : 42%
+Time     : 00:46.54
+
+Description: 
+Obviously this could be faster...
+well, Sedlo does a 17 second run on UV-speed, so a lot faster.
+Unfortunately the second arch-vile jump is a bit too difficult for me :)
+
+I skip the megasphere and save 2 seconds.
+This run is a bit to frustrating to do for a better time using this route.

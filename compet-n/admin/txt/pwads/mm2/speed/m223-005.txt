@@ -1,0 +1,70 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M223-005.TXT
+
+ M223-005.ZIP
+
+  M223-005.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 23 - No Way Out
+
+  Kills        0%
+  Items        0%            
+  Secrets      0%  and Time: 0:05 
+                             ==== 
+
+  Description :-)
+
+  18th COMPET-N entry.
+
+  This demo shows a remarkable trick, so I'll explain the 
+  story behind it.
+
+  Earlier tonight, Eugene Kapustin mentioned, in a thread 
+  on Doomworld, that a glide was possible in MM2 map 23. 
+  It seems author Eric Sargent forgot to tag linedefs 
+  1729 and 1730 as "impassable", meaning a glide could be 
+  made through the 32-unit gap between sector 9 and 269. 
+
+  This was confirmed by Graham "Grazza" Burgess, who 
+  managed it in a -nomonsters run.
+
+  So I started to play this map with the purpose of trying 
+  the trick out in a speedrun. For a long time, there was 
+  no success. But then, suddenly, I made it! I was so 
+  surprised that I quickly got ripped to pieces on that 
+  attempt, but soon I was working myself down from a lousy 
+  first exit of 0:40, to 0:10, 0:08, 0:07, 0:06, and then 
+  this. It's possible to do it even quicker; I'd say 0:03 
+  would most likely be the optimum time. 
+
+  The glide itself isn't really that hard once you get 
+  the hang of it -- it's much easier than the similar 
+  glides in e.g. Doom 2 map 16, and Kama Sutra map 32. 
+  
+  I found it's easiest if you don't straferun at all, but 
+  rather try to go through "straight".
+
+  Pacifist should be a nice challenge (although I'm quite 
+  certain it's feasible): there are monsters shooting at 
+  you from all sides, and the imps at the end close in on 
+  you very quickly... NM should be most interesting.
+
+  Credits for this should of course go to Eugene Kapustin 
+  and Graham "Grazza" Burgess. By the way, Eugene, I really 
+  hope you'll try to get 0:04 or even 0:03 here. You 
+  certainly deserve the point for this map after all your 
+  fine m223 runs.
+
+  On a final note, I'd like to quote Adam Hegyi, from the 
+  textfile of lv24-036:
+  "PS. Will we ever end finding new tricks?"
+
+  The answer to that question is, of course: "No!". :-)
+
+
+  Kristian Ronge
+  zuckuss@gmail.com

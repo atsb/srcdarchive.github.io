@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN12-010.TXT
+
+ PN12-010.ZIP
+
+  PN12-010.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -file Plutonia.wad -playdemo with Version 1.9 
+
+  The Final Doom: Plutonia - Level 12 - Speed
+
+  Kills       3%
+  (Items      0%)
+  Secrets     0%  and Time   0:10
+                             -----
+  Description 
+
+  :)))))))))))))
+  
+  
+Author:  Tamas Flamich
+E-mail:  tamas@flamich.com

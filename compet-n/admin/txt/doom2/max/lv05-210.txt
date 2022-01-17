@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV05-210.TXT
+
+ LV05-210.ZIP
+
+  LV05-210.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time 02:10
+			  -----
+
+Description:	Yawn. Got a 2:11 almost at once, but then several attempts
+	        followed where those !#?!!@! spectres in the end decided
+                to annoy the hell out of me. They are by far the main 
+                problem. This was a very sloppy looking go (of course, those
+		are always the ones that lead to the exit...), I had some
+		that looked alot better but turned out slower. Also had one
+		with a jelly pig left in the end at 2:06. Low 2 minute run
+		shouldn't be too hard if you don't commit suicide in
+		frustration over those....ehem...BASTARDS in the end scene.
+		Used Peos TAS route, why didn't we do that years ago. Changed
+		the rocket usage around a bit tho. I'd say that TAS time could
+		be improved quite a bit too btw, have some ideas for faster
+		strategies here, but I'll save them for later if needed.
+
+Author:	  Anders Johnsen
+E-Mail:   andersjohnsen@hotmail.com

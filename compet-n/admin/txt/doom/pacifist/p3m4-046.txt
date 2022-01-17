@@ -1,0 +1,43 @@
+Ultimate Doom Pacifist entry for Compet-N
+
+P3M4-046.TXT
+
+ P3M4-046.ZIP
+
+  P3M4-046.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.3 Mi.4
+
+  Kills    2%
+  (Items   0%)
+  Secret   0%  and Time  00:46
+                         -----
+
+  Description:
+
+Vince (p3m4-047) wrote:
+
+> 0:45 or under is really possible but needs a lot of luck ! And i lost maybe
+> 3s cause' i got stuck many times.
+> Then i was unable to beat it with a ton of 0:49 :(
+
+Yeah, you're right Vince, actually this could probably go to the same time as,
+or even faster than, the speedrun record - it's just harder. There's a story
+behind this one...I have a fairly old records.txt (my personal dump of the
+compet-n records) file, which still has Andy Badorek's 1:00 as the record for
+this level. I thought "ah, that should be easy to beat", and went about it
+using the id-intended route, and got a nice 0:54. I was just about to write
+the text file when I noticed Vincent's 0:47 lurking in my Doom dir. After
+stabbing another few pins into the Vincent-doll I keep on my desk for
+emergencies <you should've seen the stabbing it got when he made e1m9-029>
+(only joking vince! <stab> <stab> stab>), I went out to do it with the
+keygrab, beating Vince if at all possible. Managed it on my first finish.
+This isn't a great run, and there's a couple of screwups after I grab the
+key, but hey...it's a new record, and it beats DDQ...:).
+
+  Author:  Adam Williamson
+
+  e-mail:  adam@scisoft.force9.co.uk

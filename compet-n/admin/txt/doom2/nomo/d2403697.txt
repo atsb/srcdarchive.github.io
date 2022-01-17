@@ -1,0 +1,22 @@
+author:         Marijo "Sedlo" Sedlic
+
+game:           Doom2
+category:       nomonsters
+mission:        map24
+
+time:           0:36.97
+
+
+comments:       Well...after I did 37.08 here before month or two
+                I was pissed as hell, didn't
+                played this map in nomo since then...but tonight Adam H.
+                sended me his nomo run in 37.97...to be honest
+                when I saw his demo I decide to do 36 emidiatly couse I
+                wasn't anymore onlyone who have 37 :). Anyway, thanks Adam. 
+
+                Ps. This is ofcourse strafe40 only, like every nomo record
+                I hope (except maps where strafe50 is needed for some tricks)
+                and please guys don't ruin fun in this nomo compet-n with
+                it...I think it just wouldn't be fair.
+
+               

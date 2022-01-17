@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry
+
+1907EV01.TXT
+1907EV01.ZIP
+
+1907EV01.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final DooM - TNT levels 1-10 on UV skill
+
+01 - system Control -  :42
+02 - Human BBQ      - 1:27
+03 - Power Control  - 1:47
+04 - Wormhole       -  :25
+05 - Hangar         - 2:00
+06 - Open Season    - 2:37
+07 - Prison         -  :59
+08 - Metal          - 3:39
+09 - Stronghold     - 3:51
+10 - Redemption     - 1:40
+
+Total - 19:07
+
+C-N entry #43, movie run #15.
+
+01: A very fun tyson-style map. :)
+02: Not particular fond of this map, as the demons can ruin the jumps to the
+    yellow key and back.
+03: This map can be tricky, but at least I get an RL out of it.
+04: Short and easy map, not really affecting the run at all.
+05: Not too tough, although I seem to get caught on these walls pretty easily. :)
+06: This map is strangely fun to play, despite the cramped hallways.
+07: A nice invincibility for me here!
+08: This map is yucky.. the end scene especially, but oh well.  I thought it was
+    funny when the sarge falls off that high ledge, though. :)
+09: This map is one of my favorites from evilution.  It's more action-packed than
+    most other TNT maps.
+10: An easy end map with a ton of cells that I don't get to use. :)
+
+Well, I've played all 3 TNT episodes already before making the text files, so I can
+say without a doubt that this episode is my favorite of the three.
+
+I believe most of the credit for this run should go to those who previously ran it:
+
+-Vincent Catalaa
+-Serge "Never_Again" Marudov
+-Xit Vono
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

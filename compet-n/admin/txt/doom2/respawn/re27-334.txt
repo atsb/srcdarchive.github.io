@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE27-334.TXT
+RE27-334.ZIP
+
+RE27-334.LMP - Ultra Violence with -Respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 27 - Monster Condo
+
+Kills    103%
+(Items    75)
+Secrets   87%  
+
+   ...and time    03:34
+                  -----
+
+Description: Rini was right, this was very easy, though it could be quite 
+             tricky to get 87% secret sometimes :)    
+             
+             
+Author:   Henning Skogsto 
+E-mail:   hskogsto@c2i.net 
+Doompage: http://home.sol.no/~doom/                       

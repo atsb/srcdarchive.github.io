@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs25-043.txt
+
+ cs25-043.zip
+
+  cs25v043.lmp 
+  cs25z043.lmp - Ultra-violence
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP25
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:43
+
+
+Selim   : Not bad :) A little better than many of our other
+          coop speedruns ;)
+Vincent : Picked up a Chain-gun in front of the bLue door, that
+          delayed a BFG shot. => could be 0:42... Grrr.
+
+Green:    Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:   Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

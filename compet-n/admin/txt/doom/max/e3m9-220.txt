@@ -1,0 +1,64 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E3M9-220.TXT
+
+ E3M9-220.ZIP
+
+  E3M9-220.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno
+
+  Mission 9 - Warrens
+
+  Kills    100%
+  Items     66%		   ********	
+  Secrets  100%  and Time  * 2:20 *
+                           ********
+
+
+Description:
+	Oops, there was a flaw in the .txt file for the -225 demo. Did
+	you notice it?
+	Anyway, I don't like one second improvements (at least in max
+	demos), and I had some ideas how to improve the run. And it was
+	still fun to play that map.
+	I got another -225 fairly soon on the new route, and many others
+	in the 2:27-2:34 range, but no real good one. I knew that I should
+	be able to complete that map with a 2:22, but something always went
+	wrong.
+	And then I got this run. If you watch it, you'll notice that many
+	mistakes, that you'll probably start to record a faster demo at
+	once. Here's the list of mistakes: 
+	- I miss the door and waste a shotgun shot (the shot is fairly
+	  important to have the pigs aligned)
+	- I fail to open the secret door and have to turn back.
+	- I miss one of the rocket boxes. It's a miracle that 33 rockets
+	  were enough.
+ 	- I nearly commit suicide at one of the Cacodemons, I guess I wanted
+	  to save a rocket ...
+	- I miss more spectres than usual.
+	- And in the end, the Seargent walks out of the BFG's cone of damage,
+          and I have to wait there until I got the plasma gun ready.a
+
+	And then, there is the part, where I thing I saved all the time:
+	I finish the plasma gun room fast and in the hallway, the Cacos and
+	Imps just align perfect. I've never had a run before were the
+	invulnerability was active until just before the red key.
+
+	We're not far away from PAR (2:15) now, it might be possible in a
+	quite perfect run. That's why I've included another demo, to show
+	where to save some more seconds. It's a "perfect" Cyberdemon kill,
+	even better than Radek's in the -226 demo. I have 47(!) rockets
+	for the way back. That's nine rockets more than I have in this demo
+	(if I had taken the missed rocket box, of course :)
+
+	Radek, your turn now :) Good luck!
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle

@@ -1,0 +1,38 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm05-152.txt
+
+ cm05-152.zip
+
+  cm05d152.lmp
+  cm05s152.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 05 - The Waste Tunnels
+  
+              Kills    Secrets
+
+  SlagDooM     49%       33%      
+  Dark Friday  48%       66%      
+  Infighting    3%
+              -----     -----
+             118/118     3/3
+
+  Time:    1:52.74
+
+
+Dark Friday:  This map generally went ok.
+              <Anders> demos?? What demos?? huh? :)
+              <Anders> you played coop I guess :)?
+              Nope no coop, that green dude, that's arno, a disguised imp
+              which offered me his help :)
+
+Imp:          We didn't have a time to beat here so we just aimed to beat the 
+              solo record and getting under 2 minutes. Didn't use my fireball this time. :)
+            
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Bjorn "Dark Friday" Hamels       (bjorn@hamels.nl)
+  

@@ -1,0 +1,19 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Arno Slagboom (slagboom@cybercomm.nl)
+Indigo:    Marko van der Want (markowant@freemail.nl) 
+
+game:     doom2 v1.9
+category: coop nmare
+level:    map05
+
+time:     0:37
+
+comments: Easier than easy, with the invul.
+          Check out the endframe from Marko's view! :)
+
+
+
+
+------------------
+Admin note (Ralf):   :D

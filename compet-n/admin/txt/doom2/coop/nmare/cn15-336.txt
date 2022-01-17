@@ -1,0 +1,20 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop nightmare
+mission:  map15 - normal exit
+
+time:     3:36
+
+Vincent: Not so good, basically a one player map. So I played safe.
+         Got a nasty surprise from the cyber when opening a door.
+	 I almost gave up here... but when I seen I was still alive, 
+         I tried to reach the invul ... rather lucky there :)
+
+xit-vono: I didn't do much here.  Vince should have taken player 1.
+
+
+          

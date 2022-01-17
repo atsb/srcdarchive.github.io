@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+N4S1-037.TXT
+N4S1-037.ZIP
+
+N4S1-037.LMP - NightMare! with 100% secrets
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M1 - Hell Beneath
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets    100%
+
+ Time        :37
+)---------------(
+
+Same route as in Nightmare. Waiting for the
+secret is pretty much letting more time for
+monsters to respawn/get in the way for the
+exit. So it's an even harder demo than N4M1.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

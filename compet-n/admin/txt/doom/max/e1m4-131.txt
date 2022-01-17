@@ -1,0 +1,42 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m4-131.txt
+e1m4-131.zip
+
+e1m4-131.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M4 - Command Control
+
+=--------------=
+Kills      100%
+Items       24%
+Secrets    100%
+
+Time       1:31
+=--------------=
+
+C-N entry #158.
+
+Yet another excellent run, Radek. :)
+This one went fairly well, though
+I'll go ahead and point out the two
+blunders that bugged me the most.  I
+missed the 200% armor, but I lived,
+so no matter.  I also fumbled the exit
+door... that really bugged the crap
+out of me, but I think my time would
+have still been 1:31 without it, altho
+barely.
+
+I included a funny easter egg with this
+zip, e1m4-imp... you'll see an imp appear
+to be killed by another imp's fireball.
+I thought it was true, but after watching
+it in timer.exe slowmo a few times, you'll
+see what really happened too. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,27 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom2-nightmare-map18-0002269.txt, doom2-nightmare-map18-0002269.lmp
+Date     : 2015-11-10 01:28
+Game     : Doom II: Hell on Earth
+Client   : cndoom.exe v2.0.3.2
+Category : NM-Speed
+Map(s)   : MAP18: The Courtyard
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 3%
+Items    : 17%
+Secrets  : 0%
+Time     : 00:00:22.69
+===================================
+Description
+Third CNDoom submission
+
+I decided I'd try my hand at a run in CNDoom that was more reliant on movement and actual speed (my previous two runs are mostly trick demonstrations). Mainly, I'm trying to see how different it is from PrBoom+ and how easy it is to adapt to. While I was able to get the sensitivity to work relatively close to PrBoom+, it ended up being quite hard to adapt anyway, mainly because of the resolution (I run PrBoom+ with unusual dimensions because I'm used to i) and mouse turning behavior. All of that feels different, and it was somewhat annoying to adapt to and even when I got used to it it was a bit difficult to match my PrBoom+ movement. Switching back afterward was just as much of a problem, I felt like I was playing a different game when I first tried this map again in PrBoom+. Not sure if I'm gonna record many more CNDoom demos; too much trouble to switch between the two ports. :\
+
+Run itself is nothing special, it's surprising no one did this better than 23s for Compet-N (perhaps ocelot or someone else made a demo but never released it). I presume there's more luck involved than UV (I never tried much), but it's still not too hard to get this (and would have been much easier if I didn't switch ports I'm sure). Definitely gets annoying to die in the blue key room/get blocked at the end, though. Wouldn't be surprised if 21s were doable, but it'd be too annoying due to luck.

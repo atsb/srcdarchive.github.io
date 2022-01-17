@@ -1,0 +1,43 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm11-255.lmp, mm11-255.txt
+Date     : 2013-11-29
+Game     : Memento Mori (with MM11FIX.WAD)
+Client   : doom2.exe v1.9
+Category : UV-Max
+Map(s)   : MAP11: Halls of Insanity
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  33%
+Secrets  :   0%
+Time     : 00:02:55
+===================================
+Description:
+
+I love this map with this music, but this map had fatal bug. There were some 
+inaccessible area and some enemies could not be killed. You might think this 
+does not look serious problem because those enemies can be excluded from the 
+rule. Certainly it is not rare case, but this is a problem which this map had 
+that some enemies were almost impossible to kill but strictly not impossible. 
+It therefore is very difficult to define UV-Max rule. Fortunately, this bug was 
+fixed after Compet-N was revived. fx, really thank you! 
+
+This was so hard until I got a blue armor and soul sphere. There were enough 
+recovery items before them and many hitscanners and lost souls always annoyed 
+me. My first target is beating my old record (3:09) with correct max. I managed 
+to get 3:06 after many attempts, but I was not satisfied with it. This is because 
+I wanted to get under 3 min. Certainly I know it is impossible, but it was extremely 
+hard in an old route, then I noticed that I could push the switch for releasing 
+an arachnotron from a lower floor. This trick was very helpful for under 3 min. 
+I just included a max demo in 3:06 with the old route.
+
+
+98th Comepet-N Entry

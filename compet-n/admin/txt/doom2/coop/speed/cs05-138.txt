@@ -1,0 +1,39 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV05NET2.TXT
+
+ UV05NET2.ZIP
+
+  UV05NET2.LMP
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Level 05 - The Waste Tunnels
+
+           Kills    Items   Secrets
+
+  Green      39       42      100
+  Grey       55       28        0
+
+  Time:    1:40
+
+
+Comment:        Slightly different way than in the usual coop. Plasma gun
+                first.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+-----------
+Admin note:   Time is actually 1:38.94
+              Unfortunatly you forgot an Imp that is now lurking behind
+              the red door => Speed demo.
+

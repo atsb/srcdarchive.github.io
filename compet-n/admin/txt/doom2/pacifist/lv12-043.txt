@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV12-043.TXT
+LV12-043.ZIP
+
+LV12-043.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 12 - "The Factory"
+
+Kills      0%          
+(Items    20)           
+Secrets    0%  
+
+   ...and Time  0:43.88
+               ---------              
+                          
+Description: Panter wrote in his lv12-045.txt
+                                      
+            >Is 44 possible ? Well, I won't go for it (ok, I already said this
+            >about 3 times :)
+ 
+	     Hmmmm well it looks like it, infact I never got a 0:44 run but 
+	     I think this is even better, now I'm sure 0:42 won't be easy...
+	     What's also interesting is that I use another switch combination 
+	     at the end, I don't think it's faster infact I think it's maybe 
+	     abit slower..	
+		
+	     As far as I can see I don't actually damage any cacos in the last
+	     room eigther so this should also qualify as a pasifist entry...		     	             
+
+Author: Henning Skogsto
+E-mail: h-doom-frisurf.no
+
+

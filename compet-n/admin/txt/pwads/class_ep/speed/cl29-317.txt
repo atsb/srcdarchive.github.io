@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL29-317.TXT
+
+ CL29-317.ZIP
+
+  CL29-317.LMP - Ultra Violence speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M9 - Dissension
+
+  Kills     57%           
+  (Items     0%)             +++++++++
+  Secrets    0%        Time: + 03:17 +
+                             +++++++++
+                          
+  Description :-)
+
+I took a fairly cautious approach to this level, and still
+I almost died.  This could of course go much faster, but
+the level is quite hard for speedrunning.
+
+Author:   Xit Vono
+E-Mail:   xit_vono@yahoo.com

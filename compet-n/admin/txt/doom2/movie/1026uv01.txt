@@ -1,0 +1,74 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1026UV01.TXT
+
+ 1026UV01.ZIP
+
+  1026UV01.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1" - Levels 01 to 10
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      0%    0%    0%          07     (100   0)
+  LV 02  -     65%   35%  100%       1" 15     ( 50 119)
+  LV 03  -     28%   22%  100%          40     (135 167)
+  LV 04  -     74%   55%   66%       1" 07     ( 27  39)
+  LV 05  -     30%   33%    0%          53     ( 11  96)
+  LV 06  -     42%    5%   66%       1" 41     ( 75  87)
+  LV 07  -    100%   83%  100%       1" 10     (144 146)
+  LV 08  -     23%   60%    0%          46     (200 146)
+  LV 09  -     39%   25%    0%       1" 56     ( 95  99)
+  LV 10  -     11%   21%   16%          51     (101  98)
+
+                     Total Time =    5" 326
+                                     5" +
+                                     5" 26
+                                    ------
+                     TOTAL TIME =   10" 26
+                                   --------
+
+
+Description: This is a hard and frustrating task and to anyone who doesn't
+             have the patience nor the time I'll just say:  Forget it!
+
+             Level 1 is rather good, I'm satisfied with the time though
+             it could be done in 6 seconds.
+
+             Level 2 is just average not very good at all, I think that
+             every time below 1.10 is good, but 1.15 is too high.
+
+             Level 3 is very good, could be done 2-3 seconds faster but
+             you need alot of luck to do this, so I'm satisfied.
+
+             Level 4 is better then average though it could be done faster.
+
+             Level 5 is good but not at all perfect, to complete this level
+             faster leave the 200% armor.
+
+             Level 6 is good, not perfect though, I got stuck a couple of
+             times.
+
+             Level 7 is good and I'm satisfied with the time, I've done this
+             level in 1.01 from scratch so it could be done faster.
+
+             Level 8 is very good and I have nothing to complain about.
+
+             Level 9 is average and I'm truly pissed at this level, those
+             ...... pain Elementals, they're always in the way.
+
+             Level 10 is average, I've done this level in 0.46 from scratch
+             so the time could be somewhat better.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

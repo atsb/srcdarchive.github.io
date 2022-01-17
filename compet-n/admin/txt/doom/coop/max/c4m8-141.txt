@@ -1,0 +1,21 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Michael "OgreSlayR" Lastovica    (Akira101@comcast.net)
+           Green - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+
+game:     ultimate doom
+category: coop max
+mission:  e4m8
+
+time:     1:41
+
+
+
+OgreSlayer : A pretty fun and easy run. The lag seemed better than usual. 
+             I Had quite a few screw ups but its kinda hard not to screw 
+             up on a 160 ms ping on microsoft zone."
+
+Vincent : My part is a bit crap. The lag was bearable but still it affects
+          moves quite a lot. It's still nice to play coop ... :)
+          I guess a 1:29 would not be too hard to get on LAN.
+

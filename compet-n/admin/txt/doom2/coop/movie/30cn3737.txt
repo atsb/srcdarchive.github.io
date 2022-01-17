@@ -1,0 +1,207 @@
+                   DOOM2 DONE NIGHTMARE - COOPERATIVE MODE!
+ 		   ****************************************
+		       	    "Mot alle odds...:)"
+				 29.01.00
+
+Starring:
+
+PLAYER 1:	Anders Johnsen  (anders-johnsen@c2i.net)
+PLAYER 2:	Henning Skogsto   (h-doom@frisurf.no)
+
+
+Description:
+------------
+PLAYER 1:
+
+Hiho :) This was kinda fun...no...correction: This was bloody great :) I got
+to play some Doom2 Nightmare for a change...and I got to play it with one of
+the best NM players ever. I remember watching Istvan and Gabors 16nmnet.lmp 
+long time ago. Great playing...great action. But I couldn't imagine anyone 
+doing the 14 remaining maps in coop mode, not with all those bitchy cybers 
+hanging around in map17, 19, 20 and 26. Well, the thing is - you do get alot 
+more firepower in coop mode, but still, its harder to not screw up when there 
+are two active players. Doing a single player styled coop with one inactive 
+player shouldn't be that hard. But if you aim for cooping in as many levels 
+as possible, then you've got quite some problems to solve. I think we have 
+worked out some good routes here. Still, there are maps that have coop 
+problems (like map11, 13, 20 and 27). Basically my function in this run is 
+to kill as much shit as possible so that Mr. Skogsto can display a good 
+portion of running skills :) I also function as cyber teaser in map13 
+(not much success), map15, map17 and map26. In map17 my task can be 
+frustrating since the cyber tends to be a bitch - hunting Henning for no 
+reason. In map26 Henning got a rocket up his ass when exiting once, so its 
+kinda vital to keep the big sucker occupied. In map22 and 29 I didn't get to 
+do much at all this time, Hennings BFG's wiped the table. Usually I would 
+have a tad more to do there...but, can't blame pl2 for being so effective :)
+We did reach map29 once before this run...and I think we died in map23 and 24 
+around 10 times. Map11 can be hard too, using our suicidal "ignore cyber" 
+tactic. But it saves alot of time, so what the heck. Anyway, hope someone will
+enjoy this run. We sure as hell enjoyed doing it. Dunno how much time we spent 
+on this run really...we only played a weekend every now and then for some time 
+now. Finally, thanks to Martin Aalen Hunsager, Vincent Catalaa, Arno Slagboom 
+and Ocelot for inspiration - and Thomas "Panter" Pilger for some hints.
+
+PLAYER 2:
+
+Hmm well...this was fun :) I really think this is the best way to both enjoy
+and play this game. After playing alot nm in singel player mode, I can assure
+you that its much harder to keep two players alive through all the
+32 maps, than just run them by yourself. You really gotta do the best for
+both yourself and the other one. Some maps cause more problems than they
+usualy do, but some get easier. I dont know if the guys at ID had planned to
+make doom2 so damn perfect for nm coop....:) It seems like they have been
+putting alot of effort into the coop settings....I rarly see the opportunity
+for such a coop play in the newer games like Quake, Halflife, Unreal...etc.
+Anyway, I really dont think that there are alot of people out there that got
+the same oppertunity as me and Anders have to make such a run. It may look
+quit easy and flawless when Anders is blazing through the game...but it isn't.
+He both got me on his tale and some scary cybers ahead...(map11,15,17,20,26)
+And these things takes time...first of all you gotta have quit some
+experience....things rarly go as you had planned, and both of us had to
+come up with diffrent solutions on how to survive the next map, every medkit,
+stimpack etc...is vital sometimes. (my map17 ending is close:)
+We both tried to make it look as cool as possbile..:)))
+We did experience some problems this time...I made a fool of myself by
+not handling the bfg in map09, cause of this the coop play failed big time
+here....damn I have never missed that elevator before :((((
+So what's next? Well we gotta play some more coop at least :)
+How about the udoom episodes? well I don't know them that well but I can
+always find something to do...oh well, gotta doom on...cya !
+
+Stats:
+
+MAP		             APROX TIME:		
+----------------------------------------
+Map01 - Entryway		00:08 :|
+Map02 - Underhalls		00:46 :)
+Map03 - The Gantlet		00:44 :|
+Map04 - The Focus		00:39 :)
+Map05 - The Waste Tunnels	00:36 :)
+Map06 - The Crusher		01:30 :|
+Map07 - Dead Simple		00:24 :)
+Map08 - Tricks and Traps	00:39 :)
+Map09 - The Pit			01:21 :(
+Map10 - Refueling Base		00:58 :)
+Map11 - Circle Of Deth		01:20 :|
+Map12 - The Factory		01:13 :)
+Map13 - Downtown		01:36 :)
+Map14 - The Inmost Dens		01:05 :)
+Map15 - Industrial Zone		01:08 :)
+Map31 - Wolfenstein		00:38 :)
+Map32 - Grosse			00:30 :)
+Map16 - Suburbs			00:41 :|
+Map17 - Tenements		02:57 :|
+Map18 - The Courtyard		00:37 :|
+Map19 - The Citadel		01:21 :(
+Map20 - Gotcha!			01:14 :)
+Map21 - Nirvana			01:09 :)
+Map22 - The Catacombes		01:28 :)
+Map23 - Barrels O' Fun		01:52 :)
+Map24 - The Chasem		01:51 :|
+Map25 - Bloodfalls		01:33 :|
+Map26 - The Abandoned Mines	01:30 :)
+Map27 - Monster Condo		01:17 :|
+Map28 - The Spirit World	01:02 :)
+Map29 - The Living End		02:47 :)
+Map30 - Icon of Sin		01:03 :)
+----------------------------------------
+Total Time: 			37:37 
+----------------------------------------
+
+
+Map comments:
+
+Map01 - Grab all the weapons and prepear! :)
+
+Map02 - We get to use lots of BFG's. This one becomes very easy on coop play.
+	
+Map03 - More cute BFG's...nice
+
+Map04 - Those poor bastards didn't have a chance
+
+Map05 - First really nice coop map. The invurnerability works great.
+
+Map06 - Lots jumps as always...that spider can be a bitch. First strafe went
+        wrong this time, but except that, we had no problems this time.
+
+Map07 - To quote the inhabitants: "Ouch...what the hell was that?"
+
+Map08 - Pice of cake...
+
+Map09 - Damn...the lifts got messy this time :( A pitty, but...
+
+Map10 - Easy to get a cyber rocket in the ass for player2. But this map rules
+        for coop! Worked quite fine this time.
+
+Map11 - Hmm...bad. Archi fried player1 :/ Cyber can really be a bitch here.
+
+Map12 - Nice coop in the exit part. Pretty decent this time.
+
+Map13 - Great run by player2...cyber almost got him in the end though. Strange
+        guy that cyber btw...he seems to hate Pl2 for some reason.
+
+Map14 - At first this one was messy. But we worked out a nice route. Player2
+        got all jumps right on, and the lift thing timed.
+
+Map15 - Cyber got PL2 a few times here...but most tries works fine.
+
+Map31 - Nice running...
+Map32 - Refueling time :)
+
+Map16 - Not much to do for PL1...missed the timing with the lift in the end. 
+        Nice run for PL2.
+
+Map17 - We hate this cyber. This time he acted nicely though, and went straight
+        after PL1. PL2 got some serious healt problems this time...but still
+        got through :)
+
+Map18 - Short and sweet. Some times we have to switch invulns here...but not
+        this time. PL2 runs for exit - and PL1 grabs a 100 sphere, helpfull
+        for map20.
+
+Map19 - Very unpredictable cyber here for PL2 too handle. It got kinda close
+        this time too, but not as freaking scary as it sometimes gets. Again,
+        not much to do for PL1 (gotta clear some imps for PL2 when he is 
+        squeezing through those candles)
+
+Map20 - We hate this cyber as well. He makes it harder to consentrate on the
+        Pain Element right before the stair-jump. Several times he killed of
+        PL1...but not this time :)
+
+Map21 - Nice timing with the 200% sphere lift...nice run by PL2. 
+
+Map22 - This went w/o a problem...and infact, it usually does.
+
+Map23 - Ouch. This can be tricky. Luckily we had enough healt left from map22.
+        Again, a great coop map. 
+
+Map24 - PL1 had alot of problems this time...and it looks bad. PL2 went 
+        straight for the exit, taking the last ledges slow as he should. 
+
+Map25 - Not a good coop made in general, but this time the revenant was gone.
+        One of the PL1 taks is to gather all those garden-guys in one corner.
+        Nice and healty run by PL2.
+
+Map26 - This is probably the 2'nd hardest map in this run - right after map17.
+        Cyber can easily kill PL2 (who is running for exit)...thats why we 
+        use PL1 as distraction. This time, PL1 had some really silly probs
+        with the lift in the secret though :) Great PL2 run again - no big 
+        problems.
+
+Map27 - The door closed after PL1 picked up yellowkey, and thats not a good 
+        thing. This map is very easy though, so it went pretty ok. Vincent
+        had a optional route here, but we didn't feel comfortable with it,
+        it would have been faster though (get archi to open door).
+
+Map28 - No problems, great healt / cell refuel for map29. Good cooping. 
+        
+Map29 - Oh well :) This is not THAT hard on coop. Of course, there are some
+        luck based stuff (like PL2 running the last distance with 15% healt 
+        left!). Its a pretty nice coop map, as we split up for the switch
+        hunts...as well as killing cacos and stuff. The revenants didn't 
+        respawn as fast as they usually do in the end. Good for us :)
+
+Map30 - Cool :) Hey..do we get a split D2s title for this?? :))
+
+
+EOF

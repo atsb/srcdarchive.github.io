@@ -1,0 +1,30 @@
+This is a DooM .LMP "Compet-n" Entry - Please forward it...
+
+RT01-056.TXT
+
+ RT01-056.ZIP
+
+  RT01-056.LMP - Ultra Violence - Tyson!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD REQMUS.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 01 - The Gateway 
+        
+  Kills    100%
+  (Items    19%)          *********
+  Secrets   50%  and Time * 00:56 *
+                          *********
+                          
+
+  Description :
+  
+  Great tyson level!
+  I recommend everyone to try this, except
+  AdamH, Henning, Vincent, Radek, Anders, AdamW, Chris, Jon, Selim,
+  Gemini, FX, Ocelot, Waldon, Bolton ... oh well ... 
+  
+  
+  Name:     Arno Slagdoom
+  Mailto:   slag@doom2.net
+  Visit:    www.doomworld.com/publicdang

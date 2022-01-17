@@ -1,0 +1,56 @@
+P1M32411.TXT
+
+ P1M32411.ZIP
+
+  P1M32411.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  Doom - Ep.1 Mi.3 - Toxin Refinery
+
+  Kills     51%
+  Items     27%
+  Secrets   14%
+
+  Time    24:11
+          -----
+
+    Description: I did this using safegames at the time the original
+                 Pacifist base was created and I never stopped believing
+                 that it is possible in normal play too.
+                 Months later I optimized the strategy patterns by while
+                 playing it with slowmotion. But even with a slowmotion
+                 factor of two it wasn't that easy.
+                 Anyway I thought it to be possible w/o slowmo and I
+                 practiced, and practiced and ...
+
+                 ... now here it is:
+                 Episode 1 Map 3 played with normal speed, without ANY cheats,
+                 and ... it looks absolutely EASY.
+                 btw: cheating spoils ALL THE FUN OF LMP COMPETITIONS !!!
+
+                 Some word on strategy:
+                 Istvan and Peo tried it by just running through, but I
+                 think there is too little health to survive.
+                 My strategy is to clear the map room by room,
+                 always "removing" soldiers and sargeants first,
+                 always avoiding crowds of monsters, using demons,
+                 spectres and imps as shields, using barrels to get
+                 rid of some monsters when the start to get in the way,
+                 always leaving an imp or demon to remove nasty former
+                 humans, take the armor as soon as possible,
+                 using corners and the blue door to avoid getting hit,
+                 and most important of all: save every piece of health!
+
+                 Some words to the secret exit:
+                 I tried to take the secret exit for some time, but the
+                 narrow staircase always is blocked by one remaining
+                 sargeant. Though it is possible to pass him, it will cost
+                 too much health and you cannot leave the room after the
+                 staircase easily.
+
+         Author: Steffen Udluft
+
+         E-mail: rini@mppmu.mpg.de
+

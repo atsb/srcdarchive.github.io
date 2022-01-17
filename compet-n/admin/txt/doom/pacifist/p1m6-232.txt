@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry
+
+P1M6-232.TXT
+
+ P1M6-232.ZIP
+
+  P1M6-232.LMP - Pacifist Style - Central Processing
+
+  Recorded using Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+                     Time  02:32 :))))))
+                           -----
+
+  Description:  Chris "Ryback" Ratcliff (p1m66514) wrote:
+
+>A good time for this level would be under 40min.
+>I'm not sure I like this long
+>get-every-monster-to-kill-every-other-monster style of
+>pacifist recording - so much different to the usual
+>run-past-them-all. 
+
+Hehe, is this far enough under 2:32 for you? :). It seems strange, but even
+a level as difficult for pacifist as this benefits from speed. As long as you
+run through the start of the level fast and accurately you don't need the
+second 100% sphere, as you don't really take any damage until the yellow key
+door - i've had 200% health there on this route more than once. Even after
+the yellow door you benefit very little from encouraging infighting - you need
+a little to clear a path into the exit area, but apart from that, it's slow,
+messy and drains your health. You can get into the exit area *very* quickly
+about 60% of the time by just running straight in, but if you do that you're
+presented with the problem of getting down the long, thin corridors, as the
+imps are still there...so that route isn't really practical. That's why i
+spend the time going from side to side in front of the door. Note that it's
+a good idea to keep your back covered by the pillars :). The only area which
+relies, basically, entirely on luck and reflex is the exit room itself - it's
+easy just to get shot to death straight off when you run in, and once you've
+hit the switch, well, you're down to luck. I got to this point 9 or 10 times
+before this came off. Thanks to John Rimmer's TAS run of this (i can't
+remember the time of that demo, I think it was around 2:50, or whether it's
+been publically released) for the idea of going into the bottom-left (from
+a top-down view) corner of the room after hitting the switch. I died once
+after getting right into the spectre area, when the one spectre that stays
+inside the exit-switch room itself blocked me off...so i was bloody nervous
+as i opened that door and stepped back...hehe :). this is an improvement of
+62:46 on the old record, surely some kind of record in itself, eh? :)
+
+Adam Williamson
+adam.williamson1@btinternet.com

@@ -1,0 +1,19 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jakub "MethoD" Razak (dale007@volny.cz)
+
+game:     doom1
+category: coop max
+mission:  e2m7
+
+time:     2:52
+
+
+comments:
+
+Method: I sux here..Maybe over LAN could be better
+
+Vincent: Sux but fills an empty hole.
+
+          

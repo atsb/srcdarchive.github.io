@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS02-044.TXT
+
+ RS02-044.ZIP
+
+  RS02-044.LMP - NightMare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 02 - Sacrificium
+        
+  Kills     25%
+  (Items     0%)          *********
+  Secrets  100%  and Time * 00:44 *
+                          *********
+                          
+
+  Description :-)
+  
+  The bars are damn annoying.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

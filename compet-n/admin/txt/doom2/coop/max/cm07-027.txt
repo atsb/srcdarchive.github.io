@@ -1,0 +1,82 @@
+=> This is a DooM .LMP Compet-N Entry <=
+
+CM07-027.TXT
+
+  CM07-027.ZIP
+
+    CM07O027.LMP - Ultra-Violence from player 1's perspective
+    CM07N027.LMP - Ultra-Violence from player 2's perspective
+
+    Recorded using Doom2 Version 1.9
+
+    doom2 -playdemo with version 1.9
+
+    Doom2 - Level 7 - "Dead Simple"
+  
+              Kills   Items    Secrets
+    Green     52%     28%      100%    ocelot
+    Indigo    47%     14%      0%      N.C.
+  
+       and Time: 00:27
+                 =====
+
+Comments:
+
+  [ ocelot: ]
+  
+  This was a notch harder to pull off than our previous coop lumps.
+  It can still obviously be done a lot faster, but for the amount of 
+  skill we had at our disposal, 27 seconds was just the right goal, 
+  and rewarding to accomplish. Thanks for partnership, N.C.
+
+  [ N.C.: ]
+
+  We started working on this project in mid-December, but with the
+  Christmas- and New Year holidays so close at hand, it took us
+  until January and (I think) 4 quite lengthy sessions until we
+  managed to produce some 28 second runs (the previous record was
+  0:29 by Adam Hegyi and Laszlo Vecsei).
+
+  We still saw room for improvement, though, so we decided to go 
+  for a 0:27, despite the fact that Ocelot probably would have 
+  extremely limited spare time, starting mid-January.
+
+  Ammunition is obviously a problem in this map and category, and
+  the mancubi as well as the arachnotrons can occasionally behave
+  very unpredictably. We did have to try various different strate-
+  gies, before we found one which seemed efficient enough. You'll
+  notice that we altered both players' routes to a significant deg-
+  ree, if you compare our effort to the Hungarians'. Today, on Feb-
+  ruary the 17th, we finally managed to produce these lumps, which
+  constitute a nice 2 second improvement on the old record.
+
+  Personally, I found it difficult to, in the heat of battle, de-
+  cide how many rockets to launch at each monster. It is quite rare
+  that 2 rockets per mancubus suffices, in all three cases; they
+  really need some high quality SSG foreplay before they're ready
+  to ride your rocket(s). Killing 3 arachnotrons with only 6 rockets
+  isn't entirely trivial, either. However, if you look at my run
+  with a very critical eye, you _could_ say I wasted 2 rockets. A
+  map07 max run in 27.80 seconds isn't bad, though, I think I dare
+  to say. Please DO try this at home. :)
+
+  Nice work, Ocelot, and thanks for suggesting we'd try this run
+  in the first place. This project did turn out to be a lot of fun,
+  and cutting off that final second in order to get the 0:27 proved
+  to be an interesting and motivating challenge.
+
+  We played over an emulated IPX connection courtesy of the MSN
+  Gaming Zone, and our ping at the time was approximately 20 ms.
+
+  Enjoy.
+
+  Authors:
+
+  Juho Ruohonen
+  e-mail: ocelot_78@hotmail.com
+
+  Kim Lundqvist
+  e-mail: nc513@hotmail.com (always over quota)
+  ICQ#:   72686989
+  IRCnet: #nightmare
+

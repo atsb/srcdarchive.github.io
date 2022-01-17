@@ -1,0 +1,22 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Michael "OgreSlayR" Lastovica    (Akira101@comcast.net)
+           Green - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+
+game:     Doom2 - Hell on Earth
+category: coop max
+mission:  map18
+
+time:     2:11
+
+
+
+OgreSlayer : Not that good. This is just a table filler. Was a fun map for
+             coop max, but this will be improved easy I'm sure.
+
+Vincent : This map had no max entry, so we make this...
+          High ping makes player 1 aim quite crappy, but still it's 1 min 
+          under solo, so I guess this is an honorable time.
+          
+Recorded using Kahn with a ping of 160 ms.
+          

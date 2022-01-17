@@ -1,0 +1,29 @@
+Competition: Compet-N
+Game:        Ultimate DooM
+Category:    Respawn
+Level:       E2M2 - Containment Area
+
+Kills:       100%
+Secrets:     100%
+Time:        3:37
+
+Name:        Adam Williamson
+Mailto:      adam@scisoft.force9.co.uk
+
+Comments:    Arno wrote:
+             >Great level, not only on max and tyson.
+             >There are a great number of possible routes
+             >here, with the optimal time being at least under
+             >3.5 minutes. This is just a start, just under the
+             >max record's time.
+
+             >Ok, Anders, I won't say bad things to you this time,
+             >hoping you let me enjoy this (half) point a little 
+             >longer. :)
+             
+             Well, I agree with Arno that this could go under 3:30...
+             however, it suffers from the classic respawn problem that
+             the faster you go, the less monsters respawn. Credits to
+             Arno for his route, I used it exactly at the start...however,
+             I did introduce a few changes at the end and at the yellow
+             key areas of my own.

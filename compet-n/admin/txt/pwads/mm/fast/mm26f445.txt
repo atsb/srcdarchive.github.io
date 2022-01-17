@@ -1,0 +1,17 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm26f445.TXT
+
+ mm26f445.ZIP
+
+  mm26f445.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 26 – UV Fast
+
+Decided to try this one out. Pretty much the same as the max route. In fact, this is only 5 seconds slower than the UV Max time! Somebody like Artem could probably get this under 4:30 (or even lower). First 3 exits were 6:08, 5:11, 5:00.
+
+
+Author: Revved

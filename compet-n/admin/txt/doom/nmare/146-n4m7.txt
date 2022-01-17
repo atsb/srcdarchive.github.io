@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+146-N4M7.TXT
+
+ 146-N4M7.ZIP
+
+  146-N4M7.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.4 Mi.7 - And Hell Followed
+
+  Kills     51%
+  (Items    72)
+  Secrets   25%    and Time  01:33
+
+  Maximum Minimum Health = 146 %
+                           -----
+
+  Description:  I've collected maps for a complete doom-nm single level
+                collection. I don't know if I have enough time to complete
+                n4m1, but I've done all the rest.
+                This LMP shows that it is possible to complete n4m7
+                w/o the health ever dropping below 100%.
+
+                Btw:
+                If you don't know how to determine the MMH, that's how:
+                Watch the health everytime the player takes damage, and take
+                the smallest value of the whole recording. If the player takes
+                no damage at all, the health at the exit counts.
+             
+       Author:  Steffen "Rini" Udluft
+             
+       E-mail:  rini@mppmu.mpg.de
+
+

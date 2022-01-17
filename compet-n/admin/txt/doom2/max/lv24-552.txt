@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/doom2/" Entry - Please forward it...
+ 
+LV24-552.TXT
+LV24-552.ZIP 
+
+ LV24-552.LMP - Ultra Violence
+
+ Recorded using Doom2 Version 1.9 !
+ Doom2 -PlayDemo with Version 1.9 - Only
+
+ Doom2 - Level 24 - The Chasem
+
+ Kills    100%
+ (Items    63)
+ Secrets  100% 
+
+       and Time      05:52
+                     ----- 
+
+Description: Warning!! This is not worth watching, but I am so tired of falling
+             down those *damn* ledges...I tried to speedrun it earlier today, 
+             just for training, I got 0:42 twice, I think I'll go for 
+             Esko's 0.40 :-) Thanks to Peo for the route btw.
+	     	
+	     I will defend this one, I'm planning to take it out in every
+	     catogory....time will tell if I manage to do so :)
+ 	     	            
+           
+Author:      Henning Skogsto
+E-mail:      hskogsto@C2i.net
+Doompage:    http://home.sol.no/~doom/

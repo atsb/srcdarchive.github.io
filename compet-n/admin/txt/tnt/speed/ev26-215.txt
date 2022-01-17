@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/evilution/speed" Entry - Please forward it...
+
+EV26-215.TXT
+
+ EV26-215.ZIP
+
+  EV26-215.LMP - UltraViolence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 26 - Ballistyx
+
+  Kills     31%
+  Items     29%           ********
+  Secrets   50%  and Time * 2:15 *
+                          ********
+
+
+Description:	Just to have a speed entry. There is no improvement in route
+		possible, plasmagun would be safer but is too far away :)
+		And the next RadSuit too, you will have at most 10% when you
+		it. The jump at the end would help perhaps in the Nightmare
+		version of that map, but you'll need >80% health+armor then.
+		It might be an improvement for the 100/100 too, but I don't
+		feel like doing that map again. If everything works fine, and
+		if you are a skilled strafe 50 user, maybe you can reach 2:05,
+		but that will be damn hard.
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

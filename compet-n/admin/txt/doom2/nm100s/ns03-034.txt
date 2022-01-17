@@ -1,0 +1,35 @@
+This is a DooM 2 .LMP "Competition" Entry - Please forward it...
+
+nx03-034.txt
+nx03-034.pcx
+nx03-034.zip
+
+nx03-034.lmp - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 03
+
+  Kills      38%
+  Items      22%           +++++++++
+  Secrets   100%  and Time + 00:34 +
+                           +++++++++ 
+
+************************************************************
+Game    : Doom 2 v1.9
+Map     : Map02
+Skill   : 5 (Nightmare)
+Mission : Finish map in shortest time + 100% secrets.
+Player  : FX
+Date    : 17.06.1999.
+************************************************************
+Name : Zvonimir Buzanic
+Mail : vbuzanic@peek.hr
+URL  : http://members.xoom.com/zapclan
+************************************************************
+Comment : Posibble time is 0:31, maybe 0:30 ?
+          If you just pick Invisibility&armor (leaving megasphere)
+          you'll get 2 seconds. I did this for 20 minutes.
+          Sedlo, thanx for the route on this map(jump also).
+You just need luck, or am I wrong ? Notice me please !

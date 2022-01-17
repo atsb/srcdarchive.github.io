@@ -1,0 +1,20 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+ef19-727.TXT
+
+ ef19-727.ZIP
+
+  ef19-727.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file tnt.wad -playdemo with version 1.9
+
+  TNT: Evilution – Map 19 – UV Fast
+
+A bit of an improvement over Xit's run. A bit more daredevil-like at
+times and less cautious, even though I tend to miss more shots. I also
+skipped some ammo that I didn't need and I also didn't double-check for
+the teleporting enemies at the end. Losing rockets cost me some time
+with the arch-vile, but still a decent run overall.
+
+Author: Revved

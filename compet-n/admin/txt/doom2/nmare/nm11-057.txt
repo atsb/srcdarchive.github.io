@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+NM11-057.TXT
+
+ NM11-057.ZIP
+
+  NM11-057.LMP - Nightmare!
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 11 - O of Destruction / Circle of Death
+
+  Kills     32%
+  Items      4%           ********
+  Secrets    0%  and Time * 0:57 *
+                          ********
+
+Description:	Nmare the fast way. You really need armor/supercharge when you
+		jump down. I tried without them, it's not possible. You can
+		proove me wrong. I haven't taken the bullet boxes here. They
+		might be useful :) The Spiderwas not perfectly placed, but
+		I pushed her away with the last 30 bullets.
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

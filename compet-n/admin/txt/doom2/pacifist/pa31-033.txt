@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/speed" and Pacifist.
+
+LV31-033.TXT
+
+ LV31-033.ZIP
+
+  LV31-033.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills     24%
+  (Items     0)
+  Secrets    0%  and Time  00:33
+                           -----
+
+Description: Normally I wouln't write a .txt for a Pacifist .lmp...
+             But in this one I showed I can be as fast as Q;...
+             Well, nothing special I hear you say (:
+             But he uses a Strafe50 driver and I do it with normal Strafe40.
+             ((:
+             
+
+             
+             03.03.98  23:45  pm CET
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/           
+

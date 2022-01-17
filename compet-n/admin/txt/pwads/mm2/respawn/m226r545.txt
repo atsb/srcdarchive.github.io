@@ -1,0 +1,313 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M226R545.TXT
+
+ M226R545.ZIP
+
+  M226R545.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori II - Level 26 - Base Exposure
+
+  Kills      104%
+  Items       82%            
+  Secrets     85%  and Time: 5:45 
+                             ==== 
+
+  Description :-)
+
+  Last Sunday, my Windows 98 computer suddenly shut down and
+  would not turn on.  I hadn't had this happen to me before, so
+  I was worried to death about what may have happened to it.  I
+  was actually concerned that the hard drive might have died!
+  But soon, I began to suspect what really happened: the power
+  supply unit failed.  In a Doomworld PM to Never Again, I
+  mentioned this possibility, saying I wasn't sure whether I'd
+  be able to record for Compet-n again, and he talked about how
+  normal PSU failures are, and how easily the unit could be
+  replaced, directing me to a cheap but reliable brand that
+  could be ordered online.  But I wanted to verify my suspicions
+  /off/line.  That is, I didn't want to make a random guess, and
+  then have it turn out to be wrong... I wanted a local and
+  reputable technician to confirm it.  And so, we called on
+  our lawyer's computer guy, an ultra-reputable one, and
+  yesterday, he arrived and checked the Windows 98 computer.  My
+  suspicions were correct: the power supply unit /did/ fail.  And
+  when we weren't able to get video from the computer even after
+  we replaced the power supply, it turned out the modem card
+  (which came with the computer, but I don't even use since we
+  use a router to connect to the Internet) was holding back the
+  charge meant for the video card.  Not to mention my mother's
+  even older computer, which also apparently died, turned out to
+  have "died" for /exactly/ the same reason, with /exactly/ the
+  same video issue.  And so, not only did we learn more about
+  computers, but my Windows 98 one has risen from the dead,
+  thanks to a replacement PSU supplied by the techie, allowing
+  me to once again play the vanilla Doom executables in their
+  native environment, and making me eligible for Compet-n once
+  more.
+
+  But enough about my life... let's talk about the demo.  During
+  the time my vanilla Dooming computer was down, I decided to
+  practice UV -respawn running, on my Windows XP computer, on
+  some maps that have never received a UV -respawn demo at
+  Compet-n.  My first choice: Memento Mori II MAP26: Base
+  Exposure by Mark Klem, a map designed by a man far better
+  known for his musical output than for his mapping.  It wasn't
+  long before I got an unrecorded time of 7:21.  I tried out
+  some other maps, but I decided that when my computer is
+  revived (if it ever was,) I would record on this particular
+  one.  Once the computer returned to life, I went right into
+  the MS-DOS prompt, switched on NoVert, and prepared to kick
+  ass and take names anew!
+
+  Base Exposure is a map characterized by huge, open fields;
+  vast caverns; and towering bases, all caused by the same sort
+  of gigantism that plagues every map that Mark Klem designed
+  for the Memento Mori series.  It's also one of many, many maps
+  from Memento Mori II that have not had a UV -respawn demo
+  since the megawad's iteration into Compet-n years ago.  Only
+  /four/ maps from that collection, for that matter, have even
+  had one since the last update almost three years ago: MAP01:
+  Outpost, MAP02: The Feeding Pit, MAP30: It, and MAP32: Dances
+  With Demons, all of which were short and simple.  This map, I
+  assume, has been left out all this time for the same reason
+  the other maps have been left out: because of how complex they
+  are.  However, this map only /appears/ to be complex because
+  of how huge it is, when in reality, it's rather deceptively
+  simple.  For all its simplicity, though, one thing makes up
+  for its gigantism, and that's the massive amount of monsters,
+  over two hundred lurking around the premises -- a fact that
+  soon becomes apparent when you're doing a UV -respawn on it.
+
+  I begin the level looking out into a giant pool with an
+  ominous-looking base on the other side... but nothing else.
+  Except for a shotgun and some shells, that is.  Grabbing the
+  shotgun, I open the door to see a wall with misaligned
+  sections lowering to reveal a few Imps and a Chaingunner.  I
+  frag them with my shotgun, take the Chaingunner's weapon, and
+  take out the Imp in the next room.  I proceed to zip along
+  the railing to the eastern room, gunning down the Sergeants
+  there and hitting the switch.  The walls lower to reveal
+  computer mainframes, and I kill an Imp guarding a switch,
+  hitting it before I open a secret compartment with a Super
+  Shotgun, grab it, and exit.  "Why do you grab it," you ask,
+  "when there's /another/ one just outside?"  Because aside
+  from getting more shells to use, for some reason, the second
+  Super Shotgun doesn't appear until you grab the first one.
+  Don't ask me why, because I didn't design this map!  Oh, and
+  the compartment doesn't count as a secret, even though it
+  really should.  Why?  Your guess is as good as mine.
+
+  Outside, I kill some Sergeants at the east end of the
+  building, and then enter it from that side to kill some Imps
+  and hit a switch.  Leaping out, I reenter the building from
+  the same end, but this time, I go through the newly-opened
+  doorway and kill the Imps there.  Behind them is a blue
+  keycard.  But when I approach it?  Out pops a Baron of Hell!
+  (And a chaingun, but that's not important!)  The biggest
+  advantage to playing UV -respawn is that the more
+  time-consuming battles can be skipped.  For instance, under
+  UV max rules, you'd have to spend time killing the Baron here
+  before you proceed any further, but under UV -respawn rules,
+  you can just slip past him, take the key, and leave, since
+  another monster can fill his place in the body count.  But
+  you need to make sure he doesn't stop in the middle of the
+  hallway to attack at any point during the process, or else
+  you'll lose precious time.  And possibly your life.
+
+  I jump out the window and then come across a bunch of Imps
+  hanging out with a couple of Arachnotrons outside another
+  building.  A building which is blocked by bars that must be
+  opened with a blue key.  Unfortunately for them, I have to
+  interrupt their festivities and plow through them to get
+  there.  And so some of the Imps fall before me, and once I
+  get inside the building, so does another Chaingunner.  And
+  then a Revenant tries to stop me from a reaching a switch
+  and fails.  The switch lowers a barrier in the southwest
+  corner, while I snake around and introduce another
+  Chaingunner to a double dose of buckshot.  The switch he's
+  guarding lowers an elevator behind the barrier, but as the
+  only adjacent sectors are the window behind it, and the
+  barrier in front of it, you'll need to wait for the barrier
+  to lower a decent amount before you hit the switch.
+  Otherwise, the elevator will lower to a height that you
+  won't be able to climb, and precious time will be lost.
+  The elevator has a cell pack on it, and when you climb on
+  it, you can also grab a plasma rifle, no matter what height
+  it's at, even though it's supposed to be out of reach.  But
+  more importantly, there's a switch here.  I press it, and
+  run to the north of the building, ignoring the Arch-Vile
+  making his unwelcome presence.
+
+  At the north, you can look out the window and see another
+  room in the building on the opposite side, blocked by some
+  bars.  The switch lowers these bars, allowing you to access
+  it.  This is the first secret.  To enter it, you must walk,
+  not run, through the window and into the corridor.  However,
+  with the DEFAULT.CFG autorun hack, this is impossible.  To
+  move slowly enough to make it, I have to rapidly tap the
+  "move forward" button.  If your timing on tapping and
+  releasing the button is bad, you'll smack your forehead
+  against the top end of the window and drop like a stone.  If
+  you /do/ make it, however, you'll find a Sergeant and a
+  megasphere.  I take him out, grab the 'sphere, and escape to
+  the northeast side of the field, into the cavern.
+
+  East of this cavern is the rather ugly base.  Here, you'll
+  find Sergeants and a bunch of Demons frolicking about, as
+  well as a cage containing Demons with bars whose textures
+  scroll for some reason.  More puzzling is that they have
+  some explosive barrels with them.  On the east of the hall,
+  if you look south in the middle the hallway, you'll find a
+  switch in the distance.  I shoot it, and then run further
+  east to be greeted by a Mancubus.  Behind him is a BFG 9000;
+  you can get it even before shooting the switch, but shooting
+  it causes a door to open behind the BFG, revealing another
+  switch.  Pressing it lowers the barriers in the middle, but
+  also reveals a bunch of Hell Knights.  I ignore them and rush
+  in through the hallway at the south end, BFGing the Demons
+  inside the cage -- which is the second secret -- while
+  simultaneously teaching them why you should never play with
+  nuclear waste.  Taking the loot inside, I exit the cage and go
+  west.
+
+  Here, I take out the Chaingunner from a distance, and grab
+  the rocket launcher.  To the south is a very long, silver
+  hallway lined with multiple crushers.  Of course, I make it
+  under all of them before the Arch-Vile at the north fries me,
+  and I blow up the Demons that await me at the south.  The
+  southern passageway leads into a fifty-foot drop!
+  Fortunately, the Doomguy is immune to falling damage and can
+  thus make it down there safely.  I jump down at the east and
+  murder the Sergeants and Chaingunner there.  I climb up the
+  stairs and merrily mow down every Sergeant in my way before
+  reaching a switch.  I ignore the Hell Knight on my way out,
+  and BFG the monsters in my way.  Killing some Sergeants at
+  the two-toned door, I go up the stairs, and treat everyone
+  that stands in my way with a super shotgun blast, before
+  returning to where I flipped the last switch earlier... only
+  another door has opened nearby.  Fragging the Chaingunners
+  and Demons in my path, I jump downstairs and remove the
+  Sergeants from existence before getting the red key.  This
+  causes a wall to rise, leading to a bunch of rockets and
+  cells, and an invulnerability!  Now a living (if temporary)
+  god, I BFG the nearby Sergeants and Arch-Vile... and the
+  Arch-Vile survives because my aim sucks.  After a small
+  tiff with him, I leave and BFG people outside, before
+  snagging some ammo as a Cyberdemon and a Spider Mastermind
+  get into a heated argument.  Again, because you can get 100%
+  using respawned monsters, you can ignore those two and be on
+  your way, saving a lot of time.  I run past them and warp to
+  the upper level using a teleporter found after falling down
+  three holes.  At this point, one would wonder just who in the
+  universe, on Earth or Hell, would build a base this utterly
+  crazy.
+
+  Getting the Demons out of my way as the invulnerability wears
+  off, I run north and BFG a Sergeant and two Arachnotrons in
+  front of a switch.  Hitting the switch opens a door in the
+  northeast of the room, leading to some rockets and a backpack,
+  which is the third secret.  I blast my way outside and then
+  make my way to the red key-locked door, where two Chaingunners
+  meet their demise.  Then I run all the way across the field,
+  over a bridge, and into another massive field, with a large,
+  stone cavern on the west side.  The first thing I do is to
+  destroy three Imps and a hidden Sergeant with rockets, and
+  then throw myself against a waterfall, behind of which is a
+  switch.  Using it opens a doorway into the cavern, and lets
+  out an Arch-Vile.  I frag him with the BFG and dash across the
+  ridiculously tall pillars so I can get more cells (and other
+  ammo, but most importantly cells.)  Jumping down behind the
+  pillars, I find myself in a very huge and long tunnel with an
+  army of Imps and Hell Knights, commanded by an angry
+  Cyberdemon.  Fortunately, the Cyberdemon has a very nasty
+  habit of shooting his own troops, and so I rush to the yellow
+  key, BFGing any of his underlings who get in my way, and press
+  the left switch, which lowers the walls to reveal a truckload
+  of Lost Souls, a bunch of ammo, and a lone soul sphere.  The
+  soul sphere is important to my well-being, and so I grab it,
+  lower the pillars by hitting the other switch, and ride them
+  up in the nick of time.
+  
+  Back outside, the Mancubi, Barons of Hell, and Hell Knights
+  are at war.  I hasten the end of the battle, get launched
+  toward the bridge by the respawned Arch-Vile as I run toward
+  it, and then take out a Cacodemon with a rocket.  Then the
+  Cacodemons and Demons in the corner of the field get a few
+  rockets as well before I BFG them to oblivion.  I use one
+  missed BFG shot to my advantage by running toward some enemies
+  in the distance so that the blast damage gets them, and then
+  I super shotgun the one surviving Chaingunner.  Dashing
+  upstairs with a BFG in my hands, I open the door in time to
+  reduce a group of Imps to viscera, killing a Cacodemon in the
+  process, and then finish off the other Cacodemon with
+  buckshot.  Grabbing the berserk pack, I stand inside the
+  northwest window.  This is where you access the fourth secret.
+  You're supposed to walk very slowly out of the window and onto
+  an absurdly tiny ledge.  Of course, with the autorun hack,
+  this is impossible.  One way to do it with the hack is to
+  plant yourself against the west side and edge slowly to the
+  north by trying to move forward, but this is not only slow,
+  it's tough to do when there are monsters attacking you from
+  different directions at once.  I got tired of this and soon
+  started using the jump shown here, which I later found was
+  used by Anders Johnsen in his old max demo.  The compartment
+  here, which is what counts as a secret, contains a soul
+  sphere.  Grabbing it, I drop off the east side, and kill some
+  respawned Sergeants and Imps, as well as two Chaingunners,
+  before crossing the bridge in the northeast.
+
+  At the end of the bridge, there is a Cyberdemon in the
+  northeast, but you can ignore him.  Murdering an Arachnotron
+  with my rocket launcher, I make my way into a bar and blow up
+  the bartenders with a rocket before killing everybody else
+  with the chaingun.  In the process, I activate a switch behind
+  the counter, which lowers a huge wall to the west and allows
+  the yellow key-locked door to be accessed.  Why a switch in a
+  bar lowers a giant wall, I don't know.  Exiting the bar, I run
+  up the stairs in the southeast, which lead up to where the two
+  Chaingunners I just blew up were.  But in the middle of the
+  stairs is a discolored wall.  Pressing on it reveals an
+  invulnerability -- the fifth secret.  Grabbing it is a good
+  idea, too, because by the time I go back downstairs, the
+  Cyberdemon is there to greet me with a rocket to the face.
+  Running further west, most of the monsters are destroyed with
+  the BFG, and then I kill the remaining two with rockets while
+  they're beating the crap out of each other.
+
+  Behind the yellow key-locked door are some Imps.  I kill every
+  one of them with rockets, and as I proceed, a huge barrier to
+  the west of the bridge in the northwest of the map lowers,
+  revealing some Imps and the exit door.  But wait... the exit
+  door is trapped!  Approaching it will cause an alcove to open
+  with an Arch-Vile and a Revenant!  Fortunately, I'm still
+  invulnerable, so I can take these guys down with no problem.
+  This alcove contains a switch that opens the exit door, as
+  well as a discolored wall.  Opening the discolored wall
+  reveals the sixth secret, a corridor with a megasphere.  Which
+  is odd, given that this is at the /end/ of the level, and by
+  the time you get there under UV max rules, you would have
+  /already killed everything!/  I guess this was meant as a
+  bonus to prepare you for the next level.  After some more
+  kills for the road, I exit the map.
+
+  My first recorded time here was 6:33.  After two hours, I only
+  managed one second of improvement to bring me to 6:32.  Then I
+  started writing this description, and an hour later, I went
+  back in, recharged from taking a break, and scoring 6:10.
+  Then I finally got around to watching the max demos (including
+  Johnsen's and the ones submitted by Eugene Kapustin,) and I
+  returned to this level again, getting my final time, 5:45.  As
+  with the max demos, I only obtain 6 of the 7 secrets, ending
+  the map with 85% Secrets.  This is because the remaining
+  secret is located on a sector not used in the map (sector 432,
+  to be precise,) rendering it unreachable.  I hope you enjoy
+  this demo as much as I did recording it!  (And writing this
+  overly verbose description, too. ;)
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- March 23, 2008 (demo recorded on March 22, 2008) -

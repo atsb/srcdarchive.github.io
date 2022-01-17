@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+cf26-828.TXT
+
+ cf26-828.ZIP
+
+  cf26-828.LMP 
+
+  Recorded using Doom Version 1.9
+  Doom -file class_ep.wad -playdemo with version 1.9
+
+  Classic Episode – E2M6 – UV Fast
+
+Another table-filler, pretty messy to try to get your way around the map. Infighting is encouraged here to keep maximum ammo because you may find yourself running out near the end. The last part I lost a bit of time on because one of the demons teleported into the last area, but he came to watch me kill him, thankfully.
+
+Author: Revved

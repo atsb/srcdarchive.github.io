@@ -1,0 +1,11 @@
+200-LV08.LMP --> MAP08 on UltraViolence
+---------------------------------------
+
+  Kills   :  9%
+  Items   : 60%
+  Secrets :  0%
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Robert Reevy <drparadox@usa.net>

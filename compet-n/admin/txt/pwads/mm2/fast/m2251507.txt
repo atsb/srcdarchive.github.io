@@ -1,0 +1,41 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2251507.lmp                        |
+            | Category: UV -fast                            |
+            | Map Level: MAP25 - Forgotten Town             |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     99%                            |
+            |      Items     71%           *********        |
+            |      Secrets  100%  and Time * 15:07 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Again, competing against myself from the past. Some parts have a nice  |
+| flow, some parts are still cautious/slow/ugly/chaotic. I got 17:54,    |
+| 16:54 and 15:07 (this demo). It's a very tough map and many things can |
+| go wrong, so I'll leave another improvement for another player (I hope |
+| this won't be myself from the future). At the tally screen I panicked  |
+| upon seeing 99% kills, but yes! no monsters were resurrected, a very   |
+| rare case.                                                             |
+|                                                                        |
+| m225nice.lmp is a short bonus demo... it is just... nice :)            |
+|                                                                        |
++========================================================================+

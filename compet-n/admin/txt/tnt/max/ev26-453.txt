@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV26-453.TXT
+EV26-453.ZIP
+
+EV26-453.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 26 - Ballistyx
+
+Kills    100%
+Items     37%           
+Secrets  100%  
+
+   ...and Time  4:53
+               ------
+
+
+Description: Nice map... read my previous demo of this map for more text about
+	     nothing.
+	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

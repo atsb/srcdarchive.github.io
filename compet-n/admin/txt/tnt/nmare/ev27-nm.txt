@@ -1,0 +1,39 @@
+This is a DooM .LMP "COMPET-N/evilution/nmare" Entry - Please forward it...
+
+EV27-NM.TXT
+
+ EV27-NM.ZIP
+
+  EV27-NM.LMP - Nightmare!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 27 - Mount Pain
+
+  Kills     53%
+  Items     54%           ********
+  Secrets  100%  and Time * 5:58 *
+                          ********
+
+
+Description:	This map is fairly easy (okay, maybe medium :) except for the
+		exit. You really need some luck there, e.g the Archie should
+		stay dead. There is no place to hide on the lift. I wait before
+		I take the RadSuit at the Mancubus, because there will be
+		less monsters then on the side I run along later. Okay, this is
+		really the last LMP :) For the next 2 weeks: Think I'll give
+		the computer to dasa tomorrow :) There were two unusual things
+		I used SSG instead of Chaingun at the 2nd corner after the
+		Mancubus. And at the last door to the left there were really
+		many Imps, normally there is none. And, if you ever try to play
+		that map in Nightmare, you can take the blue key before you
+		run to the blue door :)
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

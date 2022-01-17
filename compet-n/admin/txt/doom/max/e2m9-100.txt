@@ -1,0 +1,57 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E2M9-100.TXT
+
+ E2M9-100.ZIP
+
+  E2M9-100.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 2 - Shores of Hell
+
+  Mission 9 - Fortress of Mystery
+
+  Kills    100%
+  Items     50%		   ********	
+  Secrets  100%  and Time  * 1:00 *
+                           ********
+
+
+Description:	Sorry Rini, no way with only a 3 seconds improvement to keep
+		that map. It's now mine, and I think very hard to improve
+		further on. It takes some time to get used to that map, just
+		like Doom ][ map 2 where you have to play for 3-4 hours before
+		you have a time near 1:30. I used the following tricks here:
+		a) wasted some bullets with pistol, because I don't take CG
+		b) I know CG is better than SG, but there is less ammo, and
+		c) the Cacos come closer much faster when you take the SG
+		   because it's on the other side of the door and
+		d) you can shoot with SG, press a button and shoot again while
+		   the door opens. 1-2 Cacos really hurt, and they need only
+		   some explosion damage later to be killed.
+	        Most of the rockets for the Barons (when they are close to-
+		gether) is in my opinion better. The remaining Cacos need only
+		1-2 SG shots most of the time, easy even from a far distance.
+		If that map had another cell box, or a SSG (no, it's UDoom :),
+		it would need much less luck for a really better time. You've
+		got to waste 10 seconds to have some Cacos be attacked by the
+		Barons. Who puts in 5 more backpacks? I wonder what the time
+		would be then...
+		Rini: I first thought your 1:10 was really fine, and it is
+		      still the way you play that map. Doom on, maybe
+		      you can keep some points then. It's really hard to
+		      take over a map when you are new in Compet-n, ask
+		      Yonatan. Peo will keep improving Doom ][, so maybe you
+		      can play some Doom I maps which really need a better
+		      time? Very skilled performance, I must pay attention :)
+		
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(EFNET)

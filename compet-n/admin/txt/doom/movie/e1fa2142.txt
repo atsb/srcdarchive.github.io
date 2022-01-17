@@ -1,0 +1,91 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e1fa2142.lmp, e1fa2142.txt
+Date     : 2018-12-03
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Fast Movie
+Map(s)   : Episode 1: Knee-Deep in the Dead
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Map  - Name                  - Time             Old record (e1fa2445.lmp)
+-------------------------------------------------------------------------
+E1M1 - Hangar                - 0:40             -0:01
+E1M2 - Nuclear Plant         - 2:01             +0:01
+E1M3 - Toxin Refinery        - 3:15             -0:18
+E1M9 - Military Base         - 2:49             -0:25
+E1M4 - Command Control       - 2:21             -0:33
+E1M5 - Phobos Lab            - 3:15             -0:12
+E1M6 - Central Processing    - 4:04             -1:03
+E1M7 - Computer Station      - 3:17             -0:22
+E1M8 - Phobos Anomaly        - 1:40 [Excluded]
+-------------------------------------------------------------------------
+   ToTal Time (For Compet-N) : 00:21:42         -3:03
+-------------------------------------------------------------------------
+   ToTal Time (Including M8) : 00:23:22
+=========================================================================
+
+
+Description:
+
+I thought first that I still had a little health to spare even if it was 
+on fast monsters because episode 1 had many soul spheres and armors in 
+the secrets. It was absolutely wrong. Episode 1 with fast monsters was 
+still pretty hard. One mistake leaded to death easily, so I was not able 
+to use agressive strategy unlike a single level run. I always had to 
+think maintaining health and armor for next maps. Improving an old record 
+by over 3 min was great. 
+
+E1M1: It was suddenly hard to survive. Shotgunners always annoyed me,  
+so I picked up a green armor for survival with losting a few seconds. 
+I did not care much about this map's time because there were a lot 
+of rooms to improve in the later maps. 
+
+E1M2: Only a easy map in ep1 on -fast. An imp in a small room where 
+there was a shot gun usually cooperated me because it rarely got off 
+an elevator. The elevator's timing was also bad in this run, but under
+2 min should be always taken. 
+
+E1M3: The beginning part was hard, so I could not be careless until 
+I picked up a soul sphere. I changed a route which was not entering to 
+a secret exit after picking up a RL because you must go to the secret 
+exit in a max movie, so accessing the secret exit twice seemed to be 
+a little inefficient. Moreover, it was risky on -fast to jump to a 
+narrow walkway with many enemies from a secret near the exit. 
+
+E1M9: This map had too many demons, but some rockets from E1M3 helped 
+me. I usually managed to get around 3 min, so 2:49 was a good one.
+
+E1M4: The strategy was so-so... I could not think of anything better 
+one. Of course, I did not want to receive suicidal blast damage in 
+narrow and intricate passages after a blue key's door. 
+
+E1M5: It was ugly and very improvable one. Especially, it was 
+ineffective to deal with enemies under an elevator in front of the 
+yellow key's door. 
+
+E1M6: This was hard map, so I used some safe strategies, for example 
+not avoiding to close the red key's room and unreleasing all enemies 
+at once in the exit area. Certainly they were improvable points, but 
+faster ways would be so dangeous. I would polish route in other maps 
+before changing this map's route. 4:04 was very nice, because it was 
+not far from the UV-Fast record of this map. 
+
+E1M7: The beginning was very hard, so I maintained enough health and 
+armor when I started this map. 3:17 was still slow. This map was also 
+enough improvable, but missing kills 100% would be easer. I actually 
+ruined some movies by missing an enemy in this map.
+
+E1M8: Just for survive, so this was nothing special. I should practice 
+a jump to a teleport after killing baron at least. 
+
+
+
+108th Compet-N Entry

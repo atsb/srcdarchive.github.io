@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P32F-525.TXT
+
+ P32F-525.ZIP
+
+  P32F-525.LMP - Ultra Violence -FAST
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  Final Doom - Level 32 - "Go 2 It" - Plutonia.wad
+
+  Kills   111%
+  (Items  100)            
+  Secrets 100%  and Time   05:25
+                           -----
+
+Description: Uhum...how did this happen. I was getting times around the
+	     06:20-06:00 area...then this. Infights worked like a dream
+	     on the ledges tho, might have something to do with it.
+	     Special thanks to Claudio Barba for inspiering me to do this.
+	     Note the time stamp on the demo btw :)
+
+             [To playback this lmp, you'll have to run plutonia.wad 
+             together with Doom2.exe]
+
+Author:    Anders Johnsen
+E-Mail:    nfp7065@privat.cybercity.no
+Doompage:  http://www.geocities.com/Broadway/Booth/3568

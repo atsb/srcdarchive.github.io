@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M7-150.TXT
+
+ R3M7-150.ZIP
+
+  R3M7-150.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    100%
+  Secrets  100%    and Time  01:50
+                             -----
+
+Description: Now I really can say "next time under 1:50".
+             Don't know why I keep playing this level,
+             there are no competitors at all...
+             Of course I don't mind, 'cause with Marko's
+             new map32 pacifist record, the Netherlands have 
+             two points now. More will follow... :)
+           
+            
+Author:    Arno "SlagDooM" Slagboom
+Mailto:	   arnoslag@bart.nl
+Doompage:  http://members.xoom.com/publicdang

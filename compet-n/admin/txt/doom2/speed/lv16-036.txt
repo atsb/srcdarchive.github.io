@@ -1,0 +1,88 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV16-036.TXT
+
+ LV16-036.ZIP
+
+  LV16-036.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - Suburbs
+
+  Kills      6%
+  Items      0%  !!!                (Yes, without anything)
+  Secrets    0%  and Time  00:36
+                           -----
+
+
+"Description: Improved my own old record. Or did anybody make a 0:41     "
+"(LV16-040)   Meanwhile? It's not quite perfect -> 2 shots at the exit..."
+
+Description: OKay, boys and girls, that's my last .LMP for this level.
+
+        I got an email from "Anthe", that his brother made a 0:40 too.
+        And from Simon (D1I Big ;-) that even these two were just not
+        good enough. Somebody had made it in 0:39. So I tried and tried
+        and four hours later I got this.
+
+        You have to have some luck at the beginning with the shotgun.
+        I shot the pistol to awaken the Imps on the spiral way, perhaps
+        some of them leave the stairs meanwhile. So you need only one
+        shot to run up there. (Or if you are a SKILLED player, you can
+        sometimes make your way round on the outside. But because the
+        radius decreases, you fall down more than reach the top. There
+        I had some curious scenes: I shot at the 3 Imps; and they were
+        dead or all 3 alive; or one of the 3 was already on the stairs
+        blocking your way. I like rockets at this point - much easier.
+        Then you can decide whether you take the invulnerable (you lose
+        about 2 secounds, or more) or with more than 60% leave it where
+        it is. Use the "northwall" (whatever you call it) to get some
+        speed. Next thing are the demons. Sometimes a demon happend to
+        open that door (?). Believe me, it happend. But only a few times
+        (likelyhood 1 of 50 = 2%). Saves one second. Sometimes I missed
+        the blue door running too far. Better if you have to kill only
+        one spectre and no spectre should block your way when you want
+        to jump down. If you are invulnerable the Archvile sometimes
+        helps by accelerating, but he doesn't help you over the stair.
+        Most of the time you get there faster than he could raise you.
+
+        And so this was difficult. Try this level first with iddqd plus
+        id(k)fa. In he older .LMP's, where you were invulnerable and/or
+        supercharged, it was not so difficult. The Revenants punched at
+        you but with a lot of health it didn't bother you. But this way
+        you haven't got anything. First of all I tried to kill the left
+        Ravenant, hoping the Imps would take care of the other. But even
+        then it is easy to cross the other Imps, if they are awaken, and
+        they are if you had lowered the second elevator and shot after
+        that. You can not imagine how fast you lose your health even by
+        some Imps. So, I think this way it is easier to survive. But you
+        have to train hard to lower the elevator, step back, run forward
+        and then making it to the other side. But as you can see, it is
+        possible.
+
+        I'm happy now. And anybody that wants to beat that record will
+        soon get bored... except if he manages to get the red key from
+        below. I tried it, but I think the key is too far away.
+
+Admin notes ?
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+
+[  Admin. Notes ;-)  Yes, just one. Now, you guys know that I'm happy
+   to correct your "poor English" so that your "Descriptions" look OK
+   but this one took me ages... Just something to think about, though
+   this is nothing compared some OTHER - just like to make that quite
+   clear - OTHER people that do not seem to even care about their own
+   language... " are,you,reading,this,( Shot-Gun ) "
+
+   OK pet peeve over... it's the .LMP's that are the main issue ! :-)
+
+S.;-) aka. The "Judge". ]
+
+

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+PL02-053.TXT
+PL02-053.ZIP
+
+PL02-053.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 02 - Well of Souls
+
+Kills     20%
+Items      0%
+Secrets    0%
+Time      :53
+         ----
+
+Description:
+Entry #10, still can't get enough of plutonia.
+
+A pretty nice looking run, but it only knocked away 1 second,
+unfortunately.
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

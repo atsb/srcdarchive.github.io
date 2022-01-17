@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m204r540.TXT
+
+ m204r540.ZIP
+
+  m204r540.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad -playdemo with version 1.9
+
+  Memento Mori 2– Map 4 – UV Respawn
+
+I was inspired by vdgg's NM100S run of this level to do this. Not really much different, but I was less cautious and more daredevilish as shown by the fact I have 4% health at one point. It's pretty much the  same route except I save a bit of time by skipping certain things like the armor pickup in the 2nd secret.
+
+Author: Revved

@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN21-037.TXT
+
+PN21-037.ZIP
+
+PN21-037.LMP - Nightmare Speedrun
+
+Recorded using Final Doom Version 1.9 !
+Doom2 -file plutonia.wad -playdemo with Final Doom Version 1.9
+
+Final Doom: Plutonia Experiment - Level 21 - Slayer
+
+Kills     38%
+Items     33%
+Secrets    0%
+
+              ********
+  and Time -  * 0:37 *
+              ********
+
+
+Description :
+
+I shaved off two seconds from Selim's run using the rocket-boost through the
+space near the Megasphere. I originally had a 1 second improvement, but this
+one came along shortly after.
+
+This could probably go to around 30 seconds using the rocket-boost, but it's
+luck that determines if you can survive the blast mostly. You have all those
+enemies firing at you and if you can't get them to somehow infight they'll
+cause you to kill yourself with the boost ^^'
+
+This thing is action packed throughout it...at least I think so...
+
+My school's prom was today...and this run was pulled off when I got home from
+it ^_^
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+20.04.2002.

@@ -1,0 +1,155 @@
+Runner: Zero-Master
+Date: 2015-02-24
+IWAD: Plutonia.wad
+Category: NM-Speed
+Map: Episode 1, 1-10
+Source Port: Competition Doom v2.0.2.1
+Time: 18:30 (18:34.31)
+
+
+Map	Time
+01	01:01
+02	02:49
+03	02:46
+04	02:00
+05	01:51
+06	03:22
+07	01:21
+08	00:44
+09	01:40
+10	00:56
+
+
+This is my first episode run and first single segment nightmare run, 
+this is also the first time episode 1 of plutonia has been done on nightmare.
+
+I have absolutely no idea how I made it through alive, this is by far the craziest run I've had,
+and it actually went all the way. Since it was an attempt at a first exit I didn't put to much effort
+into getting a good time, so there are probably several places where more aggressive strategies could
+be used to save some time. 
+
+
+Map 01: I grab the mega armor first and go for the rocket launcher so I can clear 
+some chaingunners and mancubi by the exit and do a SR50 skip to the exit. 
+I also need the RL for the next map, this is a straightforward map.
+Though respawning chaingunners will very quickly end the run.
+
+
+Map 02: Got some infighting going while trying to clear some chaingunners\shotgunners
+with the SSG before I drop 2 rockets on the walls to clear anything that might be left. 
+Clear the way to yellow key, the revenant + chaingunner can be quite scary.
+Had some bad luck with the hell knight respawn, usually I don't have the hell knights coming back
+quicker than I can kill them. Down to 2% at one point, but managed to get the health and get out quickly.
+
+
+Map 03: I kill the revenant first before I enter the room, since there is really no way to dodge 
+his missiles if you enter, and the arch vile pops up. Somehow I managed to mess up and I got
+hit by the archvile, was supposed to only take 20 damage there. Didn't take too much damage in the BK room.
+On my way back I take it slow to make sure the chaingunners don't destroy me. 
+I grab the soulsphere because I usually take no damage going for it, or very little damage.
+And the map coming up after this is... caged. I skip the RK and do a glide in the exit room.
+I wonder how difficult going for the RK would be on nightmare...
+
+
+Map 04: Welcome to caged, where every run dies. Well, not this time I guess.
+
+This is by far the hardest map in the run, luckily it comes after 3 kind of simple maps.
+
+My stratgy here is to grab the plasma rifle first, since I don't lose much health grabbing it
+and it comes in handy when I push from the blue key to the exit. Then I get some of the cacos 
+out so they don't push me when I go for yellow key. From there I get to the baron room, 
+if you kill the barons they will respawn where they first appeared, and they can't teleport 
+out afterwards, which mean they are stuck and won't bother you anymore. If you don't kill them 
+they will get in your way when going for blue key door. 
+
+I first kill the revenant by the switch before I go for blue key, so I don't get delayed there,
+because I need to be very quick not to get hit by the 2 other revenants on the other side. 
+After grabbing the rad suit I jump down and move in some kind of circle, it was the 
+best way I had to avoid the mancubi and spectres. It's pretty common to kill yourself by
+self rocket here because of the spectres.
+
+From that point I rush through the rest of the map with plasma, and I have never in every
+single practice attempt I've had, ended up with this amount of health by the end. 
+Very lucky to get through this map without any problem, a single pain elemental in the end
+can very quickly trap you with lost souls for example.
+
+
+Map 05: I usually kill the chaingunners before I run over to mega armor, but I had so much
+health that I could just go for it, I then do a glide to avoid the baron that is on the platform.
+I shoot some rockets on the wall to kill the demons, extremely annoying to lose a run to getting 
+stuck when you try to jump down. 
+
+You need some health to survive since there are several chaingunners waiting for you, so you rush 
+for the megasphere. The mastermind always seems to be busy shooting something else, which is very nice,
+since it makes it actually possible to get through this map. 
+
+I get to the exit room where I clear 1 baron and kill the archvile through the door\wall. 
+Need to be careful that you don't accidently glide through and get trapped :)
+
+
+Map 06: The start of this map is not too bad, clear the revenants and then the mancubi. 
+I was probably a bit slow since so many of the revenants respawned, but I managed to get through.
+
+In the next room I was kind of wasting time doing nothing, I was a bit confussed by the low amount of
+plasma ammo that I had. In the next room I stay by the door or outside it so I don't get locked in with 
+all the demons and revenants, then I clear them from the outside. Took a rocket so I figured I might 
+as well just grab the megasphere. 
+
+The last room is one of the most difficult places in the entire run, there's just so 
+much shit that respawns after you've managed to clear the place. It's so easy to get trapped
+in something and take lots of damage in a very short time. Not to mention the cyberdemon.
+
+I get through with a very good amount of health, which I will need for the next map......
+
+
+Map 07: Well... I don't even know... 
+
+I clear the mancubi on the upper left first because it gives me some more time before the closest
+ones to the place where I do a SR50 jump respawn. I then noticed not 1, but fucking 2 arachnotrons
+waiting for me on the other side. 
+
+I have never seen that before, I was not prepared, I figured the best idea would be to kill them.
+The problem with firing after you kill the mancubi is that you wake up the revenants...
+
+and what happened then, I don't even fucking know, revenants, barons, zombiemen, god damn respawning
+mancubi.... I was completely panicing, I was 100% sure I would die... all the way down to 3% health
+when I figured there was some health by the other elevator. I just went for that health twice and
+just tried to get the hell out of there. Somehow I survived, can't believe I got a successful demo after that.
+
+In the last room I obviously clear the chaingunners, but I need to kill the arachnotron before I go down
+towards the exit, or I will run into all his projectiles.
+
+
+Map 08: A bit shaken up after map 7, everything went exactly as planned.
+I have no idea how hard this map would be without the glide.
+
+
+Map 09: I've done a few NM-speed attempts of this map before. 
+I clear everything in the blue key room, grab the key and then the invurnability.
+I have a nice amount of health as well after grabbing soulsphere. 
+Then I just clear everything and try to do the glide, which I failed somewhat.
+My invurnability wore out before I could get through, so this could have been very close
+if I took any more damage in the room after the teleporter, because the chaingunners will 
+always take a significant part of my health in the exit room. 
+
+I do a trigger skip to avoid 4 mancubi from turning up, they could easily push me off or kill me.
+You can't get up if you fall down here.
+
+
+Map 10: Final map, so a bit nervous at this point. I clear the hitscanners before I grab the blue key
+the next part is very very dangerous, if I fail to get into the red key room I am most likely dead.
+
+I did fail and this time I got very lucky, because you can very quickly have the revenants block
+your next attempt or they can just hit you with 4-5 rockets.
+
+A lot of shit going on, caco demons are coming, revenants are kind of fighting the mancubi,
+and you might have chaingunners respawning. By the time I managed to get to the final area 
+I was down to 9% health, luckily there are 2x25 health here. 
+
+I manage to exit from there.
+
+
+This was my first single segment run on nightmare, not sure if I want nothing to do with nightmare 
+from now on, or a lot more of it :)
+
+

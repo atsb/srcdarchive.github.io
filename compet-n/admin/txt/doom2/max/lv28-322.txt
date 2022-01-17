@@ -1,0 +1,37 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV28-322.TXT
+
+ LV28-322.ZIP
+
+  LV28-322.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 28 - "The Spirit World"
+
+
+  Kills   100%
+  Items    80%            *********
+  Secrets 100%  and Time  * 03.22 *
+			  *********
+
+
+
+
+
+Description: Pretty nice level, a lot of badies and plasma,
+             The only thing you have to count and worry about
+             is the BFG shoots..
+             It also helps to have some luck at the Spiderdemons,
+             how many shoots the can stand how many Arachnotrons 
+             they kill etc..
+
+
+
+
+Author:	      Daniel "Demonlord" Lindgren 
+ 
+E-mail:	      akllin95@student.umu.se

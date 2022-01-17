@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R1M3-743.TXT
+
+E1M3-UVR.TXT
+
+ R1M3-743.ZIP
+
+  E1M3-UVR.LMP - UltraViolence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 3 -
+
+  Kills    177%
+  (Items    81)
+  Secrets  100%  and Time  07:43
+
+  Maximum Minimum Health =  ?? %
+                           -----
+
+  Introduction...
+
+  This is an Example for a New Category of UV -Respawn .LMP's...
+
+  Requirements: 100% (or more) Kills and Secrets OR M.M. Health.
+
+
+  Description :-)
+
+  Just an initial effort...
+
+  I've not been able to complete this one on NightMare - or even
+  "-Skill 4 -Respawn" - which only(?) goes to show that it's the
+  respawn that is the killer... E1M3-GM is a *lot* more easy ;-)
+
+  This is one that _Anthe_Kren_ sent me during his D1I NightMare
+  training - way back... Maybe I should ask for his permission.
+
+
+ S.;-)
+
+ S. Widlake
+
+ s.widlake@rl.ac.uk
+
+

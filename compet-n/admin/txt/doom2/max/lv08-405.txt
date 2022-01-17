@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV08-405.TXT
+
+ LV08-405.ZIP
+
+  LV08-405.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08 - Tricks and Traps
+
+  Kills    100%
+  (Items   80)
+  Secrets  100%  and Time  04:05
+                           -----
+
+
+Description: Nasty level but fun to play.  I often ran out of cells and
+	     rockets on this one.  Sub 4 mins is definitely possible as I
+	     did miss quite a few times.  Lowlight - taking out a demon
+	     with 5 shotgun blasts.
+
+Author:      Ian Sutton
+
+E-mail:      bx880@torfree.net
+

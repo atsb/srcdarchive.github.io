@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV12-051.TXT
+
+ LV12-051.ZIP
+
+  LV12-051.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - "The Factory"
+
+  Kills      3%
+ (Items     20%)
+  Secrets    0%  and Time  00:51
+                           -----
+
+
+Description: To be pretty succesful, you must have a lot of luck!  
+             But this will not be the final record in this level.
+             It can be improved by more than 2 seconds. 
+             What about decreasing my time in this level, Demonlord ? :)
+                                                                        
+             24.02.1998
+
+Author:      Patrick 'Baum' von Massow
+E-mail:      qoomduke@gmx.net

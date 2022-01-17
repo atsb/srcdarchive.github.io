@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP2-3146.TXT
+
+ EP2-3146.ZIP - Ultraviolence
+
+  EP2-3146.LMP - Whole Episode on skill 4, with 100% kills & secrets...
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 2 - The Shores of Hell
+
+
+Map:       Kills: Items: Secrets:   Time:  "C-N" record:
+--------------------------------------------------------
+E2M1   -    100%  100%  100%        1:50      1:40
+E2M2   -    100%   48%  100%        4:28      4:23
+E2M3   -    100%   54%  100%        2:35      2:44  
+E2M4   -    100%   47%  100%        4:49      4:58   
+E2M5   -    100%   60%  100%        6:06      4:51
+E2M9   -    100%   50%  100%        0:57      0:51
+E2M6   -    100%   58%  100%        6:16      4:46
+E2M7   -    100%   62%  100%        4:45      4:14
+E2M8   -     ??%   ??%  100%     [Excluded]   0:33 
+---------------------------------------------------------
+And, of course, total time:        31:46     28:27 (-e2m8)
+---------------------------------------------------------
+
+General note:
+*************
+
+There are two main problems when making runs like this. The first and most
+obvious is to get 100% kills. Secondly its not always that easy to spend
+the ammo correctly. I have not played this for many hours, just until I got
+through with 100% of everything. IMO 28:27 (which is all compet-N times
+for episode 2 summond), should be quite reachable - and beatable. But for now
+I'll stick to this one...I mean, lets face it; Episode 2 sucks! And this is
+6 mins and 37 secs faster then Williamson anyway...
+
+
+Comments:
+*********
+
+E2M1 - Damn...had 1:4X most of the time.
+E2M2 - Not good. Its common to even max-time here.
+E2M3 - Ok. Some tangeling in the exit though.
+E2M4 - Ok run. Almost forgot an imp.
+E2M5 - Bad time and playing :(
+E2M9 - Have no plan here, just try to hit target.
+E2M6 - Awefull playing, lousy planning and dreadfull time.
+E2M7 - Hmmm....
+E2M8 - Who cares?
+   
+     
+Author:     Anders Johnsen
+E-Mail:     andersjohnsen@hotmail.com
+Doompage:   Sooner or later (-;

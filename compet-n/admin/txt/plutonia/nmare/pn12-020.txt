@@ -1,0 +1,35 @@
+This is a Doom .LMP "Competition" Entry
+
+pn12-020.txt
+pn12-020.zip
+
+pn12-020.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP12 - Speed
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :20
+=--------------=
+
+C-N entry #103.
+
+Well folks, it's all over: the plutonia
+nightmare speed table = OWNED! ;)
+
+Seriously, myself and Casey had been
+thinking about this trick for a while,
+but I just fired up the map tonight and
+found a nice spot to try it.  It's an
+amusing trick, so enjoy the demo.  Most
+of the fighting here is used to draw the
+PE away from the teleport, since his skulls
+pretty much ruin any attempts at the jump.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

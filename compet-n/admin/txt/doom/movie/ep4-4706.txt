@@ -1,0 +1,66 @@
+ep4-4706.TXT
+
+ ep4-4706.ZIP
+
+  ep4-4706.LMP - Episode 4 - Ultra Violence - 100% kills and secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only
+
+                            
+  Level    Kills  Items Secrets    Time   
+  -------------------------------------
+  e4m1  -   100%    95%   100%     5:05
+  e4m2  -   100%    86%   100%     5:45
+  e4m9  -   100%    50%   100%     6:09
+  e4m3  -   100%    80%    90%     5:59
+  e4m4  -   100%    91%   100%     2:31
+  e4m5  -   100%    86%   100%     6:42
+  e4m6  -   100%   100%   100%     7:33
+  e4m7  -   100%    94%    50%     7:22
+  -------------------------------------
+                     TOTAL TIME = 47:06
+                                  -----
+
+
+Description:
+
+My first COMPET-N entry where I get to kill monsters :) About eight
+minutes faster than Joe Breen (Hey! A fellow Aussie in COMPET-N!), most
+of the improvement came in e4m2 (nearly five minutes). All of the times
+are *very* suboptimal, I just sat down and started playing through
+without thinking about strategy, or even making sure I knew where the
+secrets were... This will probably get beaten in a couple of hours, but
+who cares. A time of 30 min would be very good.
+
+The levels:
+
+E4M1 (Hell Beneath)
+  This level scares me.
+E4M2 (Perfect Hatred)
+  Great level which really rewards aggressive play. I didn't make the
+  Winterfeldt jump, but the BFG trick is almost as useful.
+E4M9 (Fear)
+  I had no strategy at all for this level, so the time is a bit sad.
+E4M3 (Sever the Wicked)
+  Rocket heaven... some great firefights in this level.
+E4M4 (Unruly Evil)
+  Nice small level.
+E4M5 (They Will Repent)
+  Oh dear. Watch me play 'hunt the secret'. Wasted at least two minutes
+  here. This is why you need a route...
+E4M6 (Against Thee Wickedly)
+  Great level. Time is good, for me.
+E4M7 (And Hell Followed)
+  Hunt the secret part 2... I was really lucky here, found the first secret
+  by accident :) Then I wasted another two minutes trying to find some
+  nonexistent ones.
+E4M8 (Unto the Cruel)
+  Played it nice and slow.
+
+
+        Author: Chris "Ryback" Ratcliff
+
+        E-mail: ryback@fcmail.com
+
+

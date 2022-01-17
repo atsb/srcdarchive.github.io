@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ26-057.TXT
+
+ RQ26-057.ZIP
+
+  RQ26-057.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 26 - Excoriation
+    
+  Kills    104%
+  (Items     0%)          *********
+  Secrets  100%  and Time * 00:57 *
+                          *********
+                          
+
+  Description :-)
+  
+  A fun and tiny map, lots of action... I wanted to do it under a minute (and
+  I did). The only danger is the archvile.
+
+  Yonatan Donner
+  zem@planetquake.com

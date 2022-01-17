@@ -1,0 +1,31 @@
+This is a Doom "COMPET-N/doom/speed" entry. Please forward it...
+
+E2M1-041.TXT
+
+ E2M1-041.ZIP
+
+  E2M1-041.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Map     1 - Deimos Anomaly
+
+  Kills     20%
+  (Items    87)
+  Secrets   25%  and Time  00:41
+                           -----
+
+
+Description: Uwe: The time consuming part was the Cacodemon! 6 shots :-(
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

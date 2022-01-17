@@ -1,0 +1,69 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP3-2417.TXT
+
+ EP3-2417.ZIP - Ultraviolence
+
+  EP3-2417.LMP - Whole Episode on skill 4, with 100% kills & secrets...
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 3 - Inferno
+
+
+Map:       Kills: Items: Secrets:   Time:     "C-N"
+--------------------------------------------------------
+E3M1   -    100%   33%  100%     |  1:31  |    1:09    :(
+E3M2   -    100%   53%  100%     |  2:21  |    1:59    :|
+E3M3   -    100%   57%  100%     |  2:30  |    2:23    :) 
+E3M4   -    100%   68%  100%     |  5:00  |    4:24    :|
+E3M5   -    100%   60%  100%     |  4:05  |    3:16    :)
+E3M6   -    100%   62%  100%     |  3:43  |    3:42    :)
+E3M9   -    100%   66%  100%     |  2:40  |    2:36    :)
+E3M7   -    100%   62%  100%     |  2:27  |    2:19    :)
+E3M8   -     ??%   ??%  100%     [Excluded]    0:45
+---------------------------------------------------------
+And, of course, total time:        24:17      21:48 (-e3m8)
+---------------------------------------------------------
+
+General note:
+*************
+ Well, now is my collection almost complete. Only ep4 is missing, of course,
+ but i think i'll not go for it, because i don't know that episode at all.
+ In this demo a was a few times nearly dead..heh...but i had to play
+ risky to beat Ole's record. It wasn't as hard as episode2 to get it, 
+ because i've already known all maps except e3m5. This episode is sometimes
+ really Inferno, because there is a lot of Lost souls and i hate those 
+ bastards. Anyway, total time could be about 23:00, definitely. Special
+ thanks to all guys who showed me the right route through all maps.
+ 
+ 
+
+Comments:
+*********
+
+E3M1 - this map was a kind of lottery for me, because my times were ranging
+       from 1:20 to 1:40. Yeah, no ammo, no fun. :)
+E3M2 - first time i was nearly dead, i had only 2% health and Lost soul was
+       flying around my head, but then i picked up a medikit, cooled down
+       and carried on killing. I was in trouble with Lost souls at the end
+       as well, i had to spend a few cells for them.
+E3M3 - I was a bit lucky with that BFG shot (near Berserk room), because
+       i wasn't sure if i can kill that Caco which was round the corner,
+       furtunately i killed it too.
+E3M4 - Time is not bad, even c-n record is much more faster.
+E3M5 - I'm always a bit confused of this map (as you can see). It's also 
+       a bit hard to get 100% kills here.
+E3M6 - I was nervous at the end, because i wasn't sure if all shotgun guys
+       are dead.
+E3M9 - It could be faster, i know. I tried to kill Cybie by 2 BFG shots,
+       but 2 cells were missing for the second shot, so i had to kill him
+       by rockets.
+E3M7 - I had a lot of rockets from the previous level, so it wasn't any 
+       problem to kill all animals.
+E3M8 - As easy as killing bunny by axe. :)
+
+   
+     
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz
+Doompage:   http://doomers.zde.cz

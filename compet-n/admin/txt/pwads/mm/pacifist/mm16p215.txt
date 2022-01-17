@@ -1,0 +1,82 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM16p215.TXT
+
+ MM16p215.ZIP
+
+  MM16p215.LMP - UV Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 16 - Stoned
+
+  Kills        9%
+  Items       10%            
+  Secrets      9%  and Time: 2:15 
+                             ==== 
+
+  Description :-)
+
+  16th COMPET-N entry.
+
+  There's nothing especially hard about this run. The problem 
+  lies in getting it all to work in one single try. There are 
+  many potential problem areas, where the speedrun route would 
+  be trivial, namely:
+
+  * The chaingunner after the first lift. It often blocks your 
+    way.
+  * The spectre corridor. The spectres sometimes trap you.
+  * The shotgunner room. The biggest problem on this no-armour 
+    route. You can easily die with >100% health.
+  * The imp room. Four imps in tight quarters to get past. I 
+    found that the imps can be lured out of this room, and up 
+    the stairs. This run would become much, much harder 
+    without this "trick".
+  * The Pain Elemental at the yellow bars. It can block your 
+    way several times as you pass that area.
+  * The shotgunner ledge in the blue key room. It is possible 
+    to "glide" past the shotgunners, but it takes time to do 
+    so, and you are bound to lose a lot of health. You just 
+    have to hope a Mancubus or a Baron kills the shotgunners 
+    quickly.
+  * The demon on top of the last stairs (after the red key 
+    door). There's little room to run around it.
+
+  All of these situations aren't a problem in the speedrun, as 
+  you can just shoot your way through, if it should come to 
+  that, but in the pacifist run, you can only hope to get 
+  through in one piece. There's also the (slight) risk of 
+  telefragging when returning from the yellow key area, and 
+  when returning to the shotgunner room. This rarely happened 
+  during my attempts, though, so I don't consider that a big 
+  problem.
+
+  Anyway, I'm pleased about most things in the run. Getting 
+  stuck in some places, e.g. at the PE, balances out the luck 
+  I had with other things (the shotgunners on the ledge got 
+  taken out by a Mancubus, I got the trick jump on my first 
+  attempt, etc.). One thing annoys me, though: picking up the 
+  soulsphere, which cost me ~5 secs. Taking the soulsphere was 
+  part of my initial route, and at this time I never even 
+  thought about the chances of making it through the shotgunner 
+  room without it (note in this run I needn't have taken it!). 
+  I tried to get a lower time without the soulsphere, but after 
+  a lot of attempts, I've given up on it for now.
+
+  You can probably tell I got very nervous towards the end, 
+  when I saw the imps moving out of the imp room like real 
+  gentlemen. ;-) I often had to stand and wait a bit for them 
+  to come out, but when I saw them already going up the stairs, 
+  I was surprised and knew this could be a good run. Because of 
+  this nervousness, the ending looks sloppy and panicky. Sorry, 
+  but I just lost all control, almost even forgetting about the 
+  trick jump. 2:15 still isn't a bad time at all, even though 
+  it's possible to get below 2:00 with a "perfect" run.
+
+  Credits to Adolf Vojta for most of the route, and to Dan 
+  Crowley for the trick jump.
+
+  Kristian Ronge
+  zuckuss@gmail.com

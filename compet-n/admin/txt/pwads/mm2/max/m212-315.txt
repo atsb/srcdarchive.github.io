@@ -1,0 +1,22 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m212-315.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP12
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     65%           ********
+  Secrets  100%  and Time * 3:15 *
+                          ********
+
+
+==============================================
+
+I just can't believe this erroneous run is a new record.
+All right, I had luck at the beginning with 1 caco telefrag + infighting.
+Then I couldn't finish the last imp (near the RL), but what's happening
+after the YK door is a real shame. Then, after teleporting I missed a jump
+to the ledge and I said to myself "It'll be a good time, but not a record.
+Not this time." Btw, my second best was 3:25.

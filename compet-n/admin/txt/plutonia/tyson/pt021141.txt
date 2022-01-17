@@ -1,0 +1,29 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pt021141.lmp & pt021141.txt
+Date     : 2014-06-30 17:33
+Game     : Plutonia
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map02: Well of Souls, by Dario Casali
+Skill    : 4
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  17%
+Secrets  :   0%
+Time     : 00:11:41.54
+=========================================================================
+Description:
+
+Old records:
+
+20:34 by Xit Vono
+15:02 by j4rio
+
+130th Compet-N entry. Also, j4rio's contest entry #6.

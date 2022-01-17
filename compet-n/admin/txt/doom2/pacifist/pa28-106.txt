@@ -1,0 +1,19 @@
+PA28-106.TXT
+
+ PA28-106.ZIP
+
+  PA28-106.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 28
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  01:06
+                           -----
+
+  Description:  [ None received. ]
+  
+       Author:  Thomas Pilger

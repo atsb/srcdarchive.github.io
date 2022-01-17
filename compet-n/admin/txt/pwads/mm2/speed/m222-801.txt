@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+m222-801.TXT
+
+ m222-801.ZIP
+
+  m222-801.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 22 - Reactor Related Fuel Refinary by Thomas Moeller
+
+  Kills     58%
+  Items      0%           
+  Secrets   16%  and Time  8:01 
+                         
+
+  Description
+
+After a week I return back to Io landscape. 
+First exit. The most filler demo in my pack. I've planned cut off an least half minute but I put it by till my next demoing. Btw I like this run.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+15.05.2005

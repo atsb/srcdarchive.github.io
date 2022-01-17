@@ -1,0 +1,36 @@
+This is a DooM 2 .LMP "Competition" Entry - Please forward it...
+-------------------------------------------------------------------------------
+Use only DOOM 2 Version 1.9 !
+-----------------------------
+ns08-132.txt
+ns08-132.lmp
+-----------------
+|     Info      |
+-----------------
+Skill  :      5 |
+Level  :     08 |
+Style  :  ns100 |
+Date   : 240799 | 
+-----------------
+Kills  :    76% |
+Items  :    80% |
+Secret :   100% |
+-----------------
+Time   :  01:32 |
+-----------------
+
+Comment : 
+-----------------
+	 I don't know for Adam & Ian, but I got a headache making this demo.
+	 As I said monsters will open doors, but in this demo i didn't 
+	 had so much luck, so I had to wait some seconds ... :(
+	 Well, I made faster route (4 seconds) but 80% harder.
+
+	 I hate that switch at the end.  :(((((
+	 In my built demo I made 1:13, so 1:20 (:???) is possible !?
+-------------------------------------------------------------------------------
+Name : Zvonimir "FX" Buzanic
+Mail : vbuzanic@peek.hr
+URL  : http://members.xoom.com/zapclan (Croatian Doom2 league)
+ICQ  : 13198922
+-------------------------------------------------------------------------------

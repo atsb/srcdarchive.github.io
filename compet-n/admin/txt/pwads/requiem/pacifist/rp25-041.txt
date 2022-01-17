@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RP25-041.TXT
+
+ RP25-041.ZIP
+
+  RP25-041.LMP - Pacifist!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 25 - Chaos Zone
+
+  Kills     4%
+  Items    25%            ********
+  Secrets   0%  and Time  * 0:41 *
+                          ********
+                          
+  Description:
+  I decided to try a pacifist run using the 'straight ahead without
+  armor' route. Combining this route with the elevator catch on the
+  normal run requires an insane amount of luck.
+
+  Jason Dyer
+  jdyer41@aol.com

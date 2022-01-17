@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM32-736.TXT
+
+ MM32-736.ZIP
+
+  MM32-736.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 32 - The Hidden Slime Factory
+
+  Kills      100%
+  Items       67%            
+  Secrets    100%  and Time: 7:16 
+                             ==== 
+
+  Description :-)
+
+  8th COMPET-N entry.
+
+  This map, to put it simply, is just wonderful. Extremely 
+  cool sequences, good, quick, gameplay and one or two 
+  clever secrets far outweigh the flaws -- an illogical 
+  progression and some very mixed architecture (no 
+  coherence to be found here). I didn't actually get around 
+  to playing this, back when I first played through MM, so 
+  imagine my surprise at a later date to find such a fine 
+  map hidden away. :-D
+
+  I've played this one a million times, it seems, yet I 
+  still get lost occasionally. This is a pretty normal max 
+  run for me -- I've done it slightly quicker (only I wasn't 
+  recording then, d'oh!). It's still pretty okay, though. 
+  As usual I make several mistakes here and there, but 
+  nothing too costly, I think. I don't know if there's a 
+  better weapon usage or a better route... this is just the 
+  way I always play it, pretty much. There's so much health 
+  here, you can simply throw caution at the wind and charge 
+  through. I love it! :-)
+
+  Other notes -> the strange progression is actually due 
+  to a design bug. There's a teleporter down in the sewer 
+  part which leads to the exit, but it's never made 
+  accessible. Wierd. And speaking of wierd, during this run 
+  something very wierd happened: a shotgun guy appeared 
+  from out of the blue... you'll know it when you see it. 
+  I guess it was just a straggler from the starting room, 
+  but still, that has never happened to me before.
+ 
+  Credits for the trick jump (near the start) to Anthony 
+  Soto.
+
+  Kristian Ronge
+  zuckuss@gmail.com

@@ -1,0 +1,60 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PL11-238.ZIP
+
+ PL11-238.LMP
+
+  PL11-238.TXT -Ultra-Violence MAX
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills:  14 / 18 (77%)
+  Items:  13 / 16 (81%)            ********
+  Secrets: 1 / 1  (100%) and Time  * 2:38 *
+                                   ********
+  C-N entry #28.	Date:03/09/2012
+
+  Description :)
+  It's nice to see a 3 some where on that tally screen, disregarding the par
+  of 3:30 of course. This run is quit a lot faster than my PL11-240 I did a
+  few hours earlier. Much less SR50 was used when I knew I was approaching
+  an area where I generally got stuck at. Still a few parts where I run into
+  a wall and take a half a second to get back on the road. It's a shame I
+  still haven't beaten my failed PL11-237 (the secret somehow didn't register)
+  though I'm very surprised this run ended up being a record as I was talking
+  to my dad toward the end of my demo, and when ever I talk and play at the
+  same time, my demo usually ends up being shit. Pretty cool that he got to
+  see me beat a record in real time though, especially at such an unexpected
+  moment.
+  
+  *sigh* I wish I didn't instantly over-write my failed PL11-237, it was a
+  pretty cool run especially since the world record at the time was 2:41
+  (by me of course), that's a four second improvement.
+  								
+  								
+  By the way, COMPET-N record was 2:40 by me, timestamped:
+  Friday, March 09, 2012, 5:27 PM (just six hours ago :o)
+
+  Complete Historic COMPET-N Leaderboard:
+  PL11-828 - Kai-Uwe Humpert - 10/12/1996
+  PL11-315 - Kai-Uwe Humpert - 03/26/1997
+  PL11-252 - Radek Pecka     - 03/28/2002
+  PL11-250 - Xit Vono        - 06/12/2006
+  PL11-246 - Archy           - 11/18/2009
+  PL11-244 - Archy           - 12/22/2011
+  PL11-241 - Archy           - 02/15/2012
+  PL11-240 - Archy           - 03/09/2012
+
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

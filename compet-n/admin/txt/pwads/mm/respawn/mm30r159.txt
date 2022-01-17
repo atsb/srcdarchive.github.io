@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM30r159.TXT
+
+MM30r159.ZIP
+
+MM30r159.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File mm.wad -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper
+      
+Kills      101%
+Items       44%
+Secrets    100%
+
+              ********
+  and Time -  * 1:59 *
+              ********
+
+
+Description:
+
+With the Max-Kill style battle Eugene and I seem to be having, I decided
+to go and update the -respawn and -fast records as well.
+
+This is a first attempt, first exit demo. And yeah...11 seconds slower
+than the current NM100S demo ;)
+
+And yeah, this is a LOT better than that 4:29 that used to be the record...
+Jeez, what was I thinking back then? "Oooh, 4:29, no one can beat that, I'll
+upload it and call it a great demo..." Feh, I laugh at my newbish self back
+then =P
+
+Enjoy ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima_Mantoid
+
+
+09.01.2004.

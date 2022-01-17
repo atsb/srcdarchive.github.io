@@ -1,0 +1,36 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+pc06-052.TXT
+
+ pc06-052.ZIP - Coop UV Speed
+
+  pc06e052.LMP - Eugene - Green
+  pc06s052.LMP - Sergey - Indigo
+
+  Recorded using Doom2 Version 1.9 -file Plutonia.wad
+
+  The Final Doom: Plutonia - Level 06
+
+Kills        8%
+Items        0%
+Secrets      0%	
+
+Kills        9%
+Items       25%
+Secrets     16%	
+
+and Time - 0:52
+
+
+Description:
+
+First exit under previous lmp's time.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+12.01.2007

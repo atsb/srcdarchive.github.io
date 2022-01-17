@@ -1,0 +1,39 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e1m6-312.lmp, e1m6-312.txt
+Date     : 2018-12-28
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max
+Map(s)   : E1M6: Central Processing
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  36%
+Secrets  : 100%
+Time     : 00:03:12
+===================================
+Description:
+
+stx-Vile's run (e1m6-313.lmp) was really impressive. He dealt with 
+enemies in a red key's room very quickly and killed 5 demons by 
+two shots each other in a computer room before yellow key's doors.  
+This demo also didn't have any noticeable mistakes. I could never 
+beat it with the same route. I just came up with a new route for 
+killing demos more efficiently, but much luck was necessary because 
+one or two demons frequently went to the first area. I made 3:0x with 
+not 100% kills many times. A vaild max which was faster than the previous 
+record was only this demo on doom time by the end of this year.  
+I wan't satified with this record wich was one second improvement from 
+the previous record. It would be faster, then sub-3 min would be gotten 
+finally.
+
+
+110th Compet-N Entry

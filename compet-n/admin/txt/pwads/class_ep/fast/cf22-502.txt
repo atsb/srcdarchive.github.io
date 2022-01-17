@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+cf22-502.TXT
+
+ cf22-502.ZIP
+
+  cf22-502.LMP 
+
+  Recorded using Doom Version 1.9
+  Doom -file class_ep.wad -playdemo with version 1.9
+
+  Classic Episode – E2M2 – UV Fast
+
+I decided to do this one because I thought it was a good table-filler. Once you figure out the layout of the map, it's somewhat easy. Of course, then you have to stay alive. In the last minute, I just struggle simply to stay alive with 3% health. I'm amazed I even finished it at all.
+
+Author: Revved

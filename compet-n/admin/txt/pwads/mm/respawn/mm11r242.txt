@@ -1,0 +1,122 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM11R242.TXT
+
+ MM11R242.ZIP
+
+  MM11R242.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 11 - Halls of Insanity
+
+  Kills      100%
+  Items       16%            
+  Secrets      0%  and Time: 2:42 
+                             ==== 
+
+  Description :-)
+
+  DM2GM2.WAD by Eric Reuter is a 1994 level that looks great
+  for its time and is excellent in the gameplay department.
+  When played normally, it's rather short and easy.  However,
+  if you choose to max it, you will find a level that's very
+  fun to play.  As it was designed primarily as a deathmatch
+  level, many routes are possible, and you can even start a
+  Gotcha!-style Cyberdemon vs. Mastermind fight if your luck
+  and your maneuvering skills are good enough.  All in all,
+  it's a level that's very much worth playing.
+
+  Then you play /this/ version of the level, the one that
+  appears in the legendary megawad Memento Mori, and you
+  wonder what the hell happened.
+
+  Welcome to my first "real" Compet-N entry.  My first
+  submission to the site was a miscellaneous demo, a UV speed
+  run for Steve Towle's craptacular super-secret level in
+  Memento Mori II, all the way back in May 2007.  Since then,
+  I wondered if I could ever make a run that /wasn't/
+  miscellaneous.  Earlier this month, I saw Never Again's UV
+  -respawn demo for TNT: Evilution MAP27: Mount Pain
+  (ER27-856.LMP.)  This inspired me to do a UV -respawn demo
+  for one of my own maps, Community Chest 3 MAP27: Ruby Abyss.
+  This, in turn, inspired me to look for a -respawn slot that
+  wasn't filled.  Soon, I found Memento Mori MAP11: Halls of
+  Insanity, which never had a UV -respawn entry since the
+  megawad's induction into Compet-N!  This inspired me to do a
+  UV speed and UV max for DM2GM2, and then fill in that slot.
+
+  On to the level, then.  This level is the result of Denis
+  Möller taking DM2GM2 and editing it for cooperative
+  multiplayer, adding cooperative-only stuff and making it
+  harder, to make it fit in with the rest of the wad.
+  Evidently, he loved the level and wanted to include it in
+  the megawad.  Only thing is, he didn't seem to realize what
+  what /really/ made the original level so good; all of the
+  route possibilities present in DM2GM2 are closed off, so you
+  end up with only one path that Denis hammered out for you,
+  and maxing becomes boring.  Making it worse is that you
+  can't even get 100% Kills, because he forgot to tag all of
+  the coop-exclusive monsters as multiplayer only.
+
+  Playing it on -respawn, however, rectifies that, as respawned
+  monsters will make up for all the Kills you can't get.  It
+  makes me wonder why nobody did a -respawn demo for this level
+  until now.  Even so, I start off by killing some enemies in
+  the coop-only area, just to get some Kills added.  And then I
+  go downstairs, kill the zombies down there, and proceed until
+  I open the door to the blue key.  I only take out the enemies
+  directly in front of me; I don't like having to kill enemies
+  you can't really see because their heads are completely
+  obscured by the bottom side of some caging.  I proceed to open
+  the windows into the zombie storage and take them all out,
+  after which I kill the imps at the east, and grab the blue
+  key.  Immediately after that, I blow up the barrels, and go
+  through the tunnel to the blue door.  Terminating the enemies
+  behind it, I get the rocket launcher, some shells, and some
+  health, and go east.  I slip past the Baron to get a box of
+  shells, and then take on the Arachnotrons.
+
+  This is another part I'm not fond of.  The obvious solution
+  is to kill the Arachnotrons with the rocket launcher, but
+  your aim has to be good, or else the autoaim will think
+  you're trying to kill the Imps /behind/ the Arachnotrons and
+  make the rocket fire /upwards./  Ugh.  Once you kill the
+  soldiers in the east, enter the teleporter, kill any
+  soldiers at your destination, and hit the nearby switch.
+  Go through the wide door at the northwest of the next hall,
+  kill the Imps there, grab the rockets, and get the yellow
+  key.  The reason I go through the dooorway opened by the
+  switch, rather than teleporting out, is so I can proceed to
+  the blue key room and get more Kills easily.  I also kill
+  some Imps around the yellow key hall so I don't have to deal
+  with them as I'm taking out other foes.  After killing the
+  zombies in the zombie storages again, I run through the
+  yellow door (slaughtering foes all the way,) reach the exit
+  corridor, kill the Spectre, and end the map.
+
+  My first exit in a practice run was 3:27.  My first recorded
+  exit was a 3:15.  After about 20 minutes, I got a 3:10 demo,
+  and then knocked off a second to get 3:09 an hour and a half
+  later.  Twenty more minutes later, in my attempts to break
+  3:00, I got 2:42 in what has got to be the luckiest result
+  I've ever seen in a demo.  When I finished the level here, I
+  was surprised when I saw the time and a Kill reading of 100%.
+  I felt lucky then, but when I looked at this demo in a source
+  port, I realized /how/ lucky I was: The last few Kills before
+  the death of the Spectre, making the Kill count exactly 113
+  at the moment I kill him, are caused by an Arachnotron
+  getting shot as I run to the yellow door, and then gunning
+  down the culprit and his friends just before I end the level!
+  It's like the game realized I turn 21 tomorrow and decided to
+  give me a massive stroke of luck as a birthday gift.  I could
+  have tried to push for time again, but I was so happy I broke
+  the three-minute barrier by that much that I decided I was
+  fine with it.  As with the max demo, the Secret count is 0%
+  because there are no sectors in the level flagged as secret.
+  Enjoy my first "true" Compet-N entry!
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- February 15, 2008 -

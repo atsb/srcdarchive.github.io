@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS20-029.TXT
+
+RS20-029.ZIP
+
+RS20-031.LMP
+RS20-029.LMP - Nightmare! 100% Secrets
+
+Recorded using Doom2 Version 1.9
+Doom2 -File requiem.wad -PlayDemo with Version 1.9
+
+Requiem - Level 20 - The Forsaken Hall
+      
+Kills      100%
+Items       85%
+Secrets    100%
+
+              ********
+  and Time -  * 0:29 *
+              ********
+
+
+Description:
+
+32 second improvement over Vono's in only about 30 minutes.
+
+Not hard at all, just grab the backpack secret, rush to the Yellow
+Key, grab the other secret, teleport to the rocket launcher, run to
+the Yellow Door, open it, then hide and wait for the Baron and Knight
+to come out and then run to the exit.
+
+Had a :31 here (before going back to see if I could improve it a bit)
+where after grabbing the Yellow Key, I opened the Yellow door and then
+back to the other secret, THEN back to the exit...it gave the
+Baron/Knight time to leave that hallway to the exit.
+
+My theory though was that this route would be faster than that route.
+In a sense, it is, but either way you have to wait...so who knows. As
+a bonus I attached the :31 in this as well, so you could see it.
+
+Um...optimal is probably around the :25 or :24 mark here, at least
+that's my guess ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima_Mantoid
+
+
+23.01.2004.

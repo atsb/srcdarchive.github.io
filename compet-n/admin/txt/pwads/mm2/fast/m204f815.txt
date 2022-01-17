@@ -1,0 +1,28 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m204f815.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP04
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     56%           ********
+  Secrets  100%  and Time * 8:15 *
+                          ********
+
+
+==============================================
+
+
+Hmmm... I usually like my own demos (with all their flaws), but
+I find this one a bit boring. Not sure why... all in all, it was
+fun to record a -fast demo for this map.
+
+For mappers looking for unusual ideas, check out the lift (sector
+180 or tag 9). It took me ages to figure out what to needs to be done
+to be able to lower it. Xit Vono lost quite a few seconds in his
+UV Max demo because of this lift.
+
+The backpack is still more convenient than the armor (cannot have
+both). Maybe on NS100 it is the opposite?

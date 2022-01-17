@@ -1,0 +1,55 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 3841rq21.lmp & 3841rq21.txt
+Date     : 2013-04-03 04:40
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV Speed Episode Run
+Map(s)   : Map21 - Map30
+Skill    : 4 (UV)
+*** NOTE *** To play back this, you need requiem.wad and req21fix.wad (571 446 bytes)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : n/a
+Items    : n/a
+Secrets  : n/a
+Time     : 00:38:41
+===================================
+Description:
+
+21 - Den of the Skull          - 5:34
+22 - Arachnophobia             - 4:48
+23 - Hatred                    - 7:04
+24 - Procrustes Chambers       - 2:29
+25 - Chaos Zone                - 1:25
+26 - Excoriations              -  :12
+27 - Cursed Kingdom            - 5:54
+28 - Fetals' Remains           - 2:59
+29 - Downer                    - 7:11
+30 - Nevermore                 - 1:05
+
+Wow, it went way better than I expected:
+
+MAP21 - equals my personal best, so I have to record YET another UV Speed which would be faster
+        than the movie one...
+MAP22 - the switch trick, I made it, unbelievable, I can make it 10% of the time. It is also
+        faster than UV Max record, which is not so common (!)
+MAP23 - OK, call it lame, but even with this style of play I die on this map more than on the
+        others combined.
+MAP24 - Clear work, 195% health and a soulsphere, hehe.
+MAP25 - No problems here.
+MAP26 - A minor hickup, but I had enough health.
+MAP27 - The UV Speed route is a bit longer as Oyvind and Xit need some weapons. This shortcut
+        near the blue armor amazes me, was it really intentional?
+MAP28 - Cautiously, gets the job done. I had plenty of rockets.
+MAP29 - The jump on the first try. AMAZING. Then I go for some useless kills as I hate these
+        inifinitely tall cacos, so I want them to go near the revenants.
+MAP30 - Yep, of course, an arch-vile. Can you screw the whole run up, vdgg? Oh, what a relief.
+
+
+===================================

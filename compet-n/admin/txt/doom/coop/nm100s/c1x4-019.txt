@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        NM 100% Secrets
+Map:             e1m4
+Players:         2
+
+Kills:           1%
+Secrets:         100%
+Time:            0:19
+Green:           Arno "SlagDooM" Slagboom
+Indigo:          Marko "Python" van der Want
+
+Comments:        Marko gets the secrets, Arno runs to the
+                 exit (faster than his n1m4a020 !).

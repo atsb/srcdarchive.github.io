@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" entry - Please forward it...
+
+N1S8-104.TXT
+
+ N1S8-104.ZIP
+
+  N1S8-104.LMP - NightMare with 100% secrets
+
+  Recorded using Ultimate DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 8 - Phobos Anomaly
+
+  Kills     ??%
+  Items     ??%
+  Secrets  100%
+                 ********
+    and Time     * 1:04 *
+                 ********
+
+
+  Description:
+
+  My first IWAD demo for Compet-N :)
+  Sometimes a few barrels do NOT explode. This can be helpful. Just watch ...
+
+
+  Author: Jochen "Angus" Schneidau
+  E-mail: cohen-lbg@gmx.de
+
+  27.10.2003

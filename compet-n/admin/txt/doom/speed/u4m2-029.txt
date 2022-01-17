@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/doom/speed" Entry - Please forward it...
+
+U4M2-029.TXT
+
+ U4M2-029.ZIP
+
+  U4M2-029.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  Map 2 - Perfect Hatred
+
+  Kills     15%
+  (Items    45)
+  Secrets   33%  and Time  00:29
+                           -----
+
+
+Comments: It's perhaps easier than secret exit. Your jump to
+          the teleporter can't be blocked. Fairly hard to berserk
+          through anyway. Lost tons of seconds at the seargents.
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+          humpert@zib-berlin.de
+
+WWW:      http://www.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

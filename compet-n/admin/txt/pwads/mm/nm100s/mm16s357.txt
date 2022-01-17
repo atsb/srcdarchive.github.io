@@ -1,0 +1,28 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm16s357.lmp, mm16s357.txt
+Date     : 2014-12-31
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : NM100S
+Map(s)   : MAP16: Stoned
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    :  52%
+Items    :  30%
+Secrets  : 100%
+Time     : 00:03:57
+===================================
+Description:
+
+Just a table filler.
+
+
+101th Compet-N Entry

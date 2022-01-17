@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM23-059.TXT
+
+ NM23-059.ZIP
+
+  NM23-059.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 23 - "Barrels O' Fun"
+
+
+  Kills    44%
+  Items    13%             
+  Secrets  50%  and Time    00:59.8
+                           -------
+
+Description: I thought about what to do in this map in a nmrun when I enter
+             with <30% health...it's impossible to survive the chaingunners
+             then and I wanted to know if I can get that beserk first...
+             While trying I got some nice ideas how to improve my last nm23...
+
+             First improvement is to leave that left demon-wall open and to
+             use this way...If you aren't too fast here there are no demons
+             you have to shot.
+             Then I got the yellow key through the spiders (w/o walking around
+             them)
+             Finally I tried to get past the last demons w/o killing them...
+             Well..it didn't work (:
+
+             Anyway...0:55 should be possible using this route.
+
+             btw: what happened at the 2nd teleporter ?...normally you've to
+             wait some time after teleporting...hehe...not .me (:
+
+
+             19.08.98 15:48  pm CET
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/           
+
+

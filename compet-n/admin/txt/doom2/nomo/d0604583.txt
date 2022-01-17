@@ -1,0 +1,11 @@
+Game:           Doom2 (v1.9)
+Category:       nomonsters
+Mission:        map06
+Skill:          4
+
+Time:           0:45.83
+
+
+Comments:       This was hard. Got once 46.00 :))
+
+Author:         Looper

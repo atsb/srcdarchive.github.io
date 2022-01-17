@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry
+
+R2M4-418.TXT
+
+ R2M4-418.ZIP
+
+  R2M4-418.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 4 - Deimos Lab
+
+  Kills    100%
+  (Items    58%)
+  Secrets  100%  and Time  04:18
+                           -----
+
+  Description:  This is my first try with 100% secrets and >= 100% kills.
+                And, ha ha, I've got EXACTELY 100% kills, pfuhh.
+                Beeing so lucky tells me not to try it again.
+                I should have read Peo's e2m4-528.txt:
+             
+                > I had problems with the last secret though.
+                > Seem like the bridge to the soulsphere did
+                > not rise far enough in most tries!
+
+                I had some tries at 90% too, and didn't know why. I thought
+                that maybe it's because I entered the chaingun secret in
+                a hurry, w/o shooting the wall open. Really,
+                I should have read it before - arghh.
+
+                PS:
+                I've forgotten the following credits so many times:
+
+      Credits:  To Yonatan for making the secret finder (scrtfind) and
+                to the DEU crew for the nice feature Jump_to_sector.
+     
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

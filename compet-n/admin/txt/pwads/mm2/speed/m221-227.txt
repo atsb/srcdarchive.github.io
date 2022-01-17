@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+M221-227.TXT
+
+ M221-227.ZIP
+
+  M221-227.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 21 - Sanctuary
+
+  Kills     23%
+  Items     50%           ********
+  Secrets   33%  and Time * 2:27 *
+                          ********
+
+  Description :-)
+
+  Been busy with exams lately, but when I saw the new route
+  (took a while before I realized what was going on, when I
+  watched Casey's demo it looked to me as if there was some
+  W1 linedef that lowered the blue key sector), I just had
+  to give this one a try.
+
+  My only change to the route is the path I choose from
+  yellow key to yellow door. I think this one is a little
+  bit faster. Oh, and I pick up another soul sphere on the
+  way.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

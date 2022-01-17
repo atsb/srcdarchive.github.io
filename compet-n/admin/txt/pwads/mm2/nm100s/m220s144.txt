@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+m220s144.TXT
+
+ m220s144.ZIP
+
+  m220s144.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 20 - The Experiment by Alden Bates
+
+
+  Kills     44%
+  Items      11%           
+  Secrets  100%  and Time  1:44 
+                         
+
+  Description
+
+A tablefiller demo.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+19.03.2006

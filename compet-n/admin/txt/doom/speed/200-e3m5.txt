@@ -1,0 +1,18 @@
+200-E3M5.LMP --> E3M5 on UltraViolence
+--------------------------------------
+
+  Kills   : 18%
+  Items   : 17%
+  Secrets : 20%
+  Time    : 01:58
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: After my 100-r3m5 and 100-n3m5 entries I wondered if a 200-*3m5
+          would be possible. I was looking at the map (with most maps I
+          only know the survival routes, not the extras) and I found a
+          blue soul sphere which was fairly easy to get to. So this LMP
+          was born.
+
+Robert Reevy <drparadox@usa.net>

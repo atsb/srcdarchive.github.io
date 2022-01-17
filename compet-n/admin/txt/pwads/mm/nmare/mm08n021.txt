@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+MM08N021.TXT
+
+ MM08N021.ZIP
+
+  MM08N021.LMP - Nightmare Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - And The Dead Shall Rise
+
+  Kills     13%
+  Items    100%           ********
+  Secrets    0%  and Time * 0:21 *
+                          ********
+
+  Description :-)
+
+  Ten seconds saved using the same method that was
+  introduced by AdamH in the Speed category. If it's
+  possible to omit the invulnerability sphere, I guess
+  another 3-4 seconds could be shaved off. The lost souls
+  tend to be a pain in the rear, though.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop tyson
+mission:  map01
+
+time:     0:27
+
+Vincent: not very hard to beat, could go around 25 I think.
+
+xit-vono: We didn't try this one too hard.
+
+
+          

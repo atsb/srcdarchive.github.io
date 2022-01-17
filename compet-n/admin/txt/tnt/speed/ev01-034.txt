@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/f-doom" entry - Please forward it...
+
+EV01-034.TXT
+
+ EV01-034.ZIP
+
+  EV01-034.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 01 - System Control
+
+  Kills     50%
+  (Items    16)
+  Secrets    0%  and Time  00:34
+                           -----
+
+
+  Description: Rather small level, quite unusual for TNT.WAD...
+
+
+  Author:      Daniel "Demonlord" Lindgren
+
+  E-mail:      akllin95@student.umu.se
+
+

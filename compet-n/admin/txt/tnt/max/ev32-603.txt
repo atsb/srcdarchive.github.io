@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-603.TXT
+
+ EV32-603.ZIP
+
+  EV32-603.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 32 - Caribbean
+
+  Kills    100%
+  Items     29%           
+  Secrets  100%  and Time =  6:03 
+                            -----
+
+
+Description: Okay, now I'm happy. There a few route changes in this demo:
+             since I've got so many rockets going this way, why not blow up
+             revenants/soldiers/demons with them? And I run through the
+             barrels in the slime maze.  The time's getting pretty close
+             to the TAS time now: only 36 seconds behind.  It might
+             be beatble if everything goes perfect. Without the
+             missed shots in the slime maze, this would have gotten below
+             6 minutes.
+
+             Your turn, Anthony...
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com
+  

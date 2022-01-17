@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV06-148.TXT
+
+ LV06-148.ZIP
+
+  LV06-148.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 06 - "The Crusher"
+
+  Kills     39%
+  (Items     5)
+  Secrets   66%  and Time  01:48
+                           -----
+
+
+Description: This level is really a piece of cake, alot of health.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

@@ -1,0 +1,38 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+P15F-239.TXT
+
+ P15F-239.ZIP
+
+  P15F-239.LMP - Ultra Violence - Fast Monsters!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  The Final Doom - The Plutonia Experiment - Level 15 - The Twilight
+
+  Kills    108%
+  Items     74%            *********
+  Secrets  100%  and Time  * 02:39 *
+                           *********
+
+
+
+Description:  Hmmm... Thought thisone would be very hard at first
+	      sight especially the chaingunners that are revived
+	      by the Archviles seemed to be hell..
+	      However... this level has a lot of health and ammo
+	      (plasma, rockets) and also an Invulnarability+
+	      a bluresphere they both help A LOT.
+	      I think that without the spheres thisone would be
+	      nearly impossible...
+	      Very funny level once you've learned it, quite
+	      a lot like Punisher.wad or plutonia level 32.....
+
+
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     

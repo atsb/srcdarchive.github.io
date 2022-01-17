@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+MM15-255.TXT
+
+ MM15-255.ZIP
+
+  MM15-255.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 15 - Karmacoma
+
+  Kills     42%
+  Items     42%           ********
+  Secrets    0%  and Time * 2:55 *
+                          ********
+
+  Description :-)
+
+  This is for the normal exit. Apart from a few moments near
+  the end, I'm reasonably satisfied with this one. Normally, I
+  have a tendency to get stuck in walls and corners...
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

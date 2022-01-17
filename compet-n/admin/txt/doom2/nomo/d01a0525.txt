@@ -1,0 +1,13 @@
+author:         Adam Hegyi
+
+game:           Doom2
+category:       nomonsters
+mission:        map01
+
+time:           0:05.25
+
+
+comments:       Ocelot: you're sick.
+                I only needed 2 hours to get this. :P
+                
+                Sedlo only has 5.31. Is he getting old? :)))))

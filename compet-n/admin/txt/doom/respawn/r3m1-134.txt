@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+R3M1-134.TXT
+
+ R3M1-134.ZIP
+
+  R3M1-134.LMP - Ultra Violence WITH -RESPAWN
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno
+
+  Mission 1 - Hell Keep
+
+  Kills     100%
+ (Items      33%)
+  Secrets   100%  and Time  1:34 
+            
+Description:  This one is ultra-slow, but it was out of base before!
+              I know that it is very easy to beat, but I only want to get
+              that easy half-piont!
+
+Author:       Patrick 'Baum' von Massow
+E-mail:       qoomduke@gmx.net

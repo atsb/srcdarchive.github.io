@@ -1,0 +1,71 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP1-0613.TXT
+
+ EP1-0613.ZIP - Ultra Violence
+
+  EP1-0613.LMP - Whole Episode on Ultra Violence
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 1 - Knee Deep in the dead
+
+
+  Map:         Time:      Best:
+  -----------------------------------------
+  E1M1   -     0:12  :)   0:12
+  E1M2   -     0:26  :)   0:25
+  E1M3   -     0:51  :|   0:48
+  E1M4   -     0:24  :(   0:18
+  E1M5   -     1:16  :))  1:16
+  E1M6   -     1:28  :|   1:21
+  E1M7   -     1:36  :))  1:36
+  E1M8   -     -:--  --
+  ---------------------------------------- 
+  And, of course, total time:         6:13
+  ----------------------------------------
+
+Note: All the routes in this demo are the routes used in the speedrun
+records, except E1M6 which goes through the blue sphere secret and E1M1
+which takes the DDQ route. As far as I know all those routes were designed
+by Anders Johnsen, except the E1M4 jump which was invented by Steffen
+Winterfeldt first, if I understand COMPET-N's nostalgia section correctly :). 
+This beats Anders' 6:29. I gained 5 seconds with the E1M4 ledge jump, so
+this demo is really 11 seconds quicker.
+
+E1M1 - standard run. Always get 0:12 or 0:13 here.
+E1M2 - Got the luck you need. Under :26 is just produced by better running.
+E1M3 - i'm not too good at this level, even so I prefer :50 or under.
+E1M4 - Damnit. Normally do the jump first time and get 0:20 or 0:19, so 4
+       or 5 seconds to gain here. Oh, can someone tell me what the deal is
+       with the yellow door opening/not opening? It seems somehow to be
+       linked to a lift somewhere on the level, but I don't know where and
+       I don't know why or how it affects the yellow door...anyone know?
+       Thanks!
+E1M5 - Great run! Best time ever. Important thing to know about the circle
+       bit is that it doesn't matter how fast you are getting back from the
+       switch as long as you catch the lift before it goes up for the first
+       time...if you get there quicker you just have to wait longer on the
+       lift. Strange thing about this run is it looks pretty slow...the start
+       wasn't great, I killed off a few unnecessary sergeants outside, took
+       a while to get past the pinky...but one thing that saved 2-3 seconds
+       was only needing one medikit from the star teleporter room, it's a
+       pain to have to go and get the other. The other thing that helped a
+       lot was only having to kill one pinkie in the exit room, that's
+       another 2-3 secs.
+E1M6 - DAMN! That bloody pinky had to get into the switch alcove didn't it?!
+       Lost about 8-9 seconds (this would've been 1:20 if i'd got out of the
+       switch corridor cleanly, I think), and a lot of health.
+E1M7 - Best run yet! Helped by a very nice end section, i'm normally too
+       cautious but managed to leave some monsters behind.
+E1M8 - Did this as fast as I could safely, a) so it's not too boring and b)
+       so this will be the DANG record too. I had enough rockets to try
+       just killing the barons straight off, but that's *not* a clever thing
+       to try on an episode run :).
+
+This could definitely go under 6 mins, IMO. There's 3-4 secs in E1M3, an
+easy 4-5 in E1M4, and at least 7-8 in E1M6..E1M7 has maybe 5-6...so that's
+29 secs at minimum to be gained :). Someone gonna take the challenge? :)
+
+Author:     Adam Williamson
+E-Mail:     adam@scisoft.force9.co.uk
+

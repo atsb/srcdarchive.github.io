@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+ps17-101.txt
+ps17-101.zip
+
+ps17-101.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP17 - Compound
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       1:01
+=--------------=
+
+C-N entry #86.
+
+Vince deserves some credit for this run,
+since his RJ makes this level much easier
+on nightmare. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

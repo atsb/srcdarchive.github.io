@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N1M9-104.TXT
+
+ N1M9-104.ZIP
+
+  N1M9-104.LMP - NightMare!
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 9 - Phobos Anomaly
+
+  Kills      56%
+  (Items      4)
+  Secrets    50%    and Time  1:04
+                              ----
+	    
+Description:    First I wanted to improve my n1s9, then I decided to just
+                do a nmspeed run. The rockets help when you want to go
+                fast...
+
+                Of course, you insane players out there will want to do this
+                the UVspeed way...
+                
+                
+Author:    Chris "Ryback" Ratcliff
+
+E-mail:    ryback@fcmail.com

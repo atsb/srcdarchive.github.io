@@ -1,0 +1,45 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm.wad                                  |
+            | Author: Various                               |
+            | Filename: mm093854.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP09 - High-Tech Grave            |
+            |                 (by Thomas Moeller)           |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     86%           *********        |
+            |      Secrets   75%  and Time * 38:54 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Tyson bad news #1: I can't do mm05. Well, I finished it with saves,    |
+| but it was a HEAVILY cheated demo, with infighting manipulation which  |
+| is unlikely in normal run. Bad news #2: mm08 is even worse, I didn't   |
+| even "TAS" it out. I got a cheated demo with four barons left, why, oh |
+| why Orin, you put that berserk in skill <= 3 only?                     |
+|                                                                        |
+| Good news is another Tyson done, this one is moderately difficult,     |
+| with saves (not too many) it's easy, in reality something always goes  |
+| wrong, even after getting the mega. Very funny beginning, you die 95%  |
+| of the time before the red key, but each death is so different from    |
+| the others, it is like never-ending fun. It seems like I must stop     |
+| talking so much, see you next time...                                  |
+|                                                                        |
++========================================================================+

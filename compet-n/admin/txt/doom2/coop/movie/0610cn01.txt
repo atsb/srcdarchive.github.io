@@ -1,0 +1,28 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: episode 1 Nightmare! speed
+
+   Level       Time         
+--------------------
+   MAP01       0:09 :)
+   MAP02       0:39 :)
+   MAP03       0:38 :(
+   MAP04       0:29 :)
+   MAP05       0:32 :)
+   MAP06       1:08 :|
+   MAP07       0:28 :|
+   MAP08       0:33 :(
+   MAP09       0:56 :)
+   MAP10       0:38 :)
+-------------------
+   Total       6:10
+
+xit-vono : Some maps were a bit lousy
+
+Vincent : Kind of nice improvement over our previous time. I even suppose
+          that the UV coop time could be matched.
+	  	

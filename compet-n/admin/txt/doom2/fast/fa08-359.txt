@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA08-359.TXT
+FA08-359.ZIP
+
+FA08-359.LMP - Ultra Violence & Fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 08 - Tricks and Traps
+
+Kills    100%
+(Items    80)
+Secrets  100%  
+
+   ...and Time    03:59
+                  -----
+
+
+Description: A very intersting map with -fast.... I just came up with a route 
+             here, I think this could be done somewhere around 03:20..:)
+	    
+             Very easy to forget monsters here, so this is the first time I
+             exit with 100% kills..  
+
+             Hmmmm... I think it's time to do this one in uv-max kill, I know 
+             that requiers luck, so I'm not sure if I am the man to do
+             that mission......
+
+Author:   Henning Skogsto    
+E-mail:   hskogsto@c2i.net    
+Doompage: http://home.sol.no/~doom/

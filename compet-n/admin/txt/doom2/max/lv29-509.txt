@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV29-509.TXT
+
+ LV29-509.ZIP
+
+  LV29-509.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 29 - "The Living End" - Using Archvile
+
+  Kills    101%
+  (Items    92)
+  Secrets    0%  and Time  05:09
+                           -----
+
+
+Description: Leaving the Cyberdemon in "the living end".
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

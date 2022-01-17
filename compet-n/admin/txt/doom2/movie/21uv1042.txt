@@ -1,0 +1,52 @@
+This is a DooM .Lmp "Competition" entry - Please forward it...
+
+ 21uv1042.txt
+
+  21uv1042.zip
+
+   21uv1042.lmp - UV run 
+
+
+ Recording Doom2 version 1.9 !
+ Playdemo with version 1.9 - Only
+
+DOOM2 - run trough levels 21-30
+
+
+LEVEL          Optimum(*)     My Best(**)    Henning     Real time   
+--------------------------------------------------------------------
+ 21              0:51          0:49           0:49         0:53 :(
+ 22              0:49          0:46           0:47         0:53 :(
+ 23              0:58          0:54           1:05         0:58 :|
+ 24              0:58          0:55           0:56         0:59 :(
+ 25              0:59          0:57           1:03         0:58 :|
+ 26              0:51          0:49           0:54         0:54 :(
+ 27              0:32          0:28           1:02         0:37 :(
+ 28              0:56          0:52           0:51         1:02 :((((
+ 29              2:30          2:27           2:24         2:27 :|
+ 30              0:47          1:01           1:00         1:01 :(
+---------------------------------------------------------------------
+TOTAL TIME       10:11         9:59          10:51 ?       10:42
+    * - time which I wanna get in my optimal run
+   ** - My best time in run    
+
+   
+    21 - This was completly wrong        
+    22 - If I see this now, I think Iïm dreaming :(
+    23 - This time was it O.K.
+    24 - I can it around 55, but O.K -  under 1min
+    25 - Time is quite good, but no cell grab :)
+    26 - If you have enough cells, isnït the big problem to do this under 50
+    27 - What you want to hear: Archie-my best friend?:)
+    28 - This is the slowest I ever played :)
+    29 - Some problems, but time good.   
+    30 - Itïs a pitty, that I didnït hit the third rocket on a first try 
+         It would be 15s faster.                      
+
+
+ Author: jaromir "jacih" cihak
+ Email : jacih@email.cz
+ HP    : http://doomaniax.bonusweb.cz
+
+
+

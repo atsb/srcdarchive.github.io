@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry
+
+RE17-426.TXT
+
+ RE17-426.ZIP
+
+  RE17-426.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 17 - Tenements
+
+  Kills    111%
+  (Items    65)
+  Secrets  100%  and Time  04:26
+                           -----
+
+Description:    My last respawn for D2...
+
+Author:     Anders Johnsen
+E-mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

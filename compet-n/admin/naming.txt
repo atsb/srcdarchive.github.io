@@ -1,0 +1,282 @@
+-------------------------------------------
+COMPET-N NAMING CONVENTIONS - 2012/11/08
+-------------------------------------------
+
+Usually letters mean:
+X: Episode number
+Y: Map number
+T: time
+H: health
+
+ULTIMATE DOOM
+-------------
+eXmY-TTT    UV Speed/Max            X: 1-3, Y: 1-9, T: 0-9
+uXmY-TTT    UV Speed/Max            X: 4, Y: 1-9, T: 0-9
+nXmY-TTT    NM Speed                X: 1-4, Y: 1-9, T: 0-9
+nXsY-TTT    NM100S                  X: 1-4, Y: 1-9, T: 0-9
+fXmY-TTT    UV -fast                X: 1-4, Y: 1-9, T: 0-9
+rXmY-TTT    UV -respawn             X: 1-4, Y: 1-9, T: 0-9
+tXmY-TTT    UV Tyson                X: 1-4, Y: 1-9, T: 0-9
+pXmY-TTT    UV Pacifist             X: 1-4, Y: 1-9, T: 0-9
+HHH-eXmY    UV MMH                  H: 0-9, X: 1-4, Y: 0-9
+HHH-uXmY    UV MMH                  H: 0-9, X: 4, Y: 0-9
+HHH-rXmY    UV -respawn MMH         H: 0-9, X: 1-4, Y: 0-9
+HHH-nXmY    NM MMH                  H: 0-9, X: 1-4, Y: 0-9
+epX-TTTT    UV Speed/Max Movie      X: 1-4, T: 0-9
+eXnm-TTT    NM Speed Movie          X: 1-4, T: 0-9
+eXnsTTTT    NM100S Movie            X: 1-4, T: 0-9
+eXfaTTTT    UV -fast Movie          X: 1-4, T: 0-9
+eXreTTTT    UV -respawn Movie       X: 1-4, T: 0-9
+eXtyTTTT    UV Tyson Movie          X: 1-4, T: 0-9
+uXYTTTTT    Nomonsters              X: 1-4, Y: 1-4, T: 0-9
+
+DOOM2
+-----
+lvXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+nmXY-TTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+nsXY-TTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+faXY-TTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+reXY-TTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+tyXY-TTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+paXY-TTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-lvXY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHH-reXY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHH-nmXY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTTTuvX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTTnmX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTTnsX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTTfaX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTTreX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTTTtyX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYuvTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYnmTTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYnsTTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYfaTTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYreTTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYtyTTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+dXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+PLUTONIA
+--------
+plXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+pnXY-TTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+psXY-TTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+pfXY-TTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+prXY-TTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+ptXY-TTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+ppXY-TTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-plXY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHH-prXY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHH-pnXY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTTTplX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTTpnX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTTpsX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTTpfX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTTprX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTTTptX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYplTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYpnTTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYpsTTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYpfTTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYprTTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYptTTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+pXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+TNT
+---
+evXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+tnXY-TTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+esXY-TTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+efXY-TTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+erXY-TTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+etXY-TTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+epXY-TTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-evXY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHH-erXY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHH-tnXY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTTTevX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTTtnX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTTesX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTTefX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTTerX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTTTetX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYevTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYtnTTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYesTTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYefTTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYerTTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYetTTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+tXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+ALIEN VENDETTA
+---------------
+avXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+anXY-TTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+asXY-TTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+afXY-TTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+arXY-TTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+atXY-TTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+apXY-TTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-avXY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHH-arXY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHH-anXY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTTTavX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTTanX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTTasX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTTafX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTTarX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTTTatX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYavTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYanTTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYasTTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYafTTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYarTTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYatTTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+aXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+HELL REVEALED
+-------------
+hrXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+hnXY-TTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+hsXY-TTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+hfXY-TTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+heXY-TTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+htXY-TTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+hpXY-TTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-hrXY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHH-hrXY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHH-hnXY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTTThrX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTThnX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTThsX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTThfX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTThrX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTTThtX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYhrTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYhnTTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYhsTTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYhfTTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYhrTTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYhtTTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+hXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+REQUIEM
+-------
+rqXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+rnXY-TTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+rsXY-TTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+rfXY-TTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+rrXY-TTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+rtXY-TTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+rpXY-TTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-rqXY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHH-rrXY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHH-rnXY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTTTrqX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTTrnX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTTrsX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTTrfX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTTrrX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTTTrtX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYrqTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYrnTTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYrsTTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYrfTTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYrrTTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYrtTTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+rXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+MEMENTO MORI
+------------
+mmXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+mmXYnTTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+mmXYsTTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+mmXYfTTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+mmXYrTTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+mmXYtTTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+mmXYpTTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-mmXY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHHrmmXY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHHnmmXY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTT-mmX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTnmmX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTsmmX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTfmmX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTrmmX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTThmmX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYmmTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYmmnTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYmmsTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYmmfTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYmmrTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYmmtTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+mXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+MEMENTO MORI 2
+--------------
+m2XY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+m2XYnTTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+m2XYsTTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+m2XYfTTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+m2XYrTTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+m2XYtTTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+m2XYpTTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+HHH-m2XY    UV MMH                  H: 0-9, X: 0-3, Y: 0-9
+HHHrm2XY    UV -respawn MMH         H: 0-9, X: 0-3, Y: 0-9
+HHHnm2XY    NM MMH                  H: 0-9, X: 0-3, Y: 0-9
+TTT-m2X1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTnm2X1    NM Episode Movie        T: 0-9, X: 0-2
+TTTsm2X1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTfm2X1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTrm2X1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTThm2X1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYm2TTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYm2nTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYm2sTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYm2fTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYm2rTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYm2tTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+oXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9
+
+CLASSIC EPISODE
+---------------
+cl2X-TTT    UV Speed/Max            X: 1-9, T: 0-9
+cn2X-TTT    NM Speed                X: 1-9, T: 0-9
+cs2X-TTT    NM100S                  X: 1-9, T: 0-9
+cf2X-TTT    UV -fast                X: 1-9, T: 0-9
+cr2X-TTT    UV -respawn             X: 1-9, T: 0-9
+ct2X-TTT    UV Tyson                X: 1-9, T: 0-9
+cp2X-TTT    UV Pacifist             X: 1-9, T: 0-9
+HHH-cl2X    UV MMH                  H: 0-9, X: 1-9
+HHH-cr2X    UV -respawn MMH         H: 0-9, X: 1-9
+HHH-cn2X    NM MMH                  H: 0-9, X: 1-9
+ce2-TTTT    UV Speed/Max Movie      T: 0-9
+c2nm-TTT    NM Speed Movie          T: 0-9
+c2nsTTTT    NM100S Movie            T: 0-9
+c2faTTTT    UV -fast Movie          T: 0-9
+c2reTTTT    UV -respawn Movie       T: 0-9
+c2tyTTTT    UV Tyson Movie          T: 0-9
+c2XTTTTT    Nomonsters              X: 1-9, T: 0-9
+
+SCYTHE
+-------
+scXY-TTT    UV Speed/Max            X: 0-3, Y: 0-9, T: 0-9
+snXY-TTT    NM Speed                X: 0-3, Y: 0-9, T: 0-9
+ssXY-TTT    NM100S                  X: 0-3, Y: 0-9, T: 0-9
+sfXY-TTT    UV -fast                X: 0-3, Y: 0-9, T: 0-9
+srXY-TTT    UV -respawn             X: 0-3, Y: 0-9, T: 0-9
+stXY-TTT    UV Tyson                X: 0-3, Y: 0-9, T: 0-9
+spXY-TTT    UV Pacifist             X: 0-3, Y: 0-9, T: 0-9
+TTTTscX1    UV Speed/Max Ep. Movie  T: 0-9, X: 0-2
+TTTTsnX1    NM Episode Movie        T: 0-9, X: 0-2
+TTTTssX1    NM100S Episode Movie    T: 0-9, X: 0-2
+TTTTsfX1    UV -fast Episode Movie  T: 0-9, X: 0-2
+TTTTsrX1    UV -respawn Ep. Movie   T: 0-9, X: 0-2
+TTTTstX1    UV Tyson Episode Movie  T: 0-9, X: 0-2
+XYscTTTT    UV Speed/Max Movie      X: 0-3, Y: 0-9, T: 0-9
+XYsnTTTT    NM Speed Movie          X: 0-3, Y: 0-9, T: 0-9
+XYssTTTT    NM100S Movie            X: 0-3, Y: 0-9, T: 0-9
+XYsfTTTT    UV -fast Movie          X: 0-3, Y: 0-9, T: 0-9
+XYsrTTTT    UV -respawn Movie       X: 0-3, Y: 0-9, T: 0-9
+XYstTTTT    UV Tyson Movie          X: 0-3, Y: 0-9, T: 0-9
+sXYTTTTT    Nomonsters              X: 0-3, Y: 0-9, T: 0-9

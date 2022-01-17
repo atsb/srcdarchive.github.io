@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/evilution/speed" Entry - Please forward it...
+
+EV20-342.TXT
+
+ EV20-342.ZIP
+
+  EV20-342.LMP - UltraViolence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 20 - Central Processing
+
+  Kills     34%
+  Items     27%           ********
+  Secrets   57%  and Time * 3:42 *
+                          ********
+
+
+Description:	The last speed entry of "my" favourite maps. Maybe I'll
+		make another one for 21 one day. Time can be improved, with
+		some luck in the terminal area, the rest is fine. If you
+		don't take the supercharge, the end might be more difficult,
+		but even then possible. For speed reasons there is no chance to
+		take plasmagun or rocket launcher
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

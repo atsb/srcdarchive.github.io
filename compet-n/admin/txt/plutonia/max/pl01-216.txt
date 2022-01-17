@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL01-216.TXT
+
+ PL01-216.ZIP
+
+  PL01-216.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 01 - Congo
+
+  Kills    102%
+  Items      0%            ********
+  Secrets  100%  and Time  * 2:16 *
+                           ********
+
+
+
+Description: This demo is my Plutonia entry. Really needed some luck to beat
+             last record.
+   
+
+
+Author:    Radek Pecka
+E-Mail:	   r.master@email.cz
+	     
+

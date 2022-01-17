@@ -1,0 +1,15 @@
+Game:           Doom2 (v1.9)
+Category:       nomonsters
+Mission:        map15s
+Skill:          4
+
+Time:           0:27.89
+
+
+Comments:       I wanted to make it in 28 seconds but surprisingly got 28.34 on
+                first exit so I just had to try 27.xx :) There are several mistakes. Turning after
+                invulnerability. Turning after yellow key (got stuck to the wall) and right after
+                hitting the button to raise the stairs I got stuck too long to the button. Last turning
+                wasn't good either (I ran the outer side and hit the wall too). Oh well, it's 27.
+
+Author:         Looper

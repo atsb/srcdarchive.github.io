@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+0855UV01.TXT
+
+ 0855UV01.ZIP
+
+  0855UV01.LMP - Ultra Violence - Speed !
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Levels 01-10 - "Compet-N/Doom2/Movie"
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      7%    0%    0%       0" 07     (100   0)
+  LV 02  -     66%   40%  100%       1" 04     ( 99 174)
+  LV 03  -     23%   22%  100%       0" 41     (104 125)
+  LV 04  -     54%   55%   33%       0" 43     ( 25  41)
+  LV 05  -     19%   33%    0%       0" 35     ( 10   0)
+  LV 06  -     34%    5%   66%       1" 19     ( 60  51)
+  LV 07  -    100%   66%  100%       1" 07     ( 64  59)
+  LV 08  -     25%   60%    0%       0" 58     (164  59)
+  LV 09  -     31%   25%    0%       1" 29     (100 115)
+  LV 10  -     13%   24%   16%       0" 52     ( 78  77)
+
+                     Total Time =    4" 295
+                                     4" +
+                                     4" 55
+                                    ------
+                     TOTAL TIME =    8" 55
+                                   --------
+
+
+  Description:  
+
+  [ This demo is taken from Daniel "Demonlord" Lindgren's 30uv3609.
+    In the first ten levels, DL actually made a 01-10 movie record too ]
+
+  Author:          Daniel "Demonlord" Lindgren
+
+  E-mail:          akllin95@student.umu.se
+
+

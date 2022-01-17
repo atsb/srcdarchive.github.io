@@ -1,0 +1,53 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-520.TXT
+
+ EV32-520.ZIP
+
+  EV32-520.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 32 - Caribbean
+
+  Kills    100%
+  Items     11%           
+  Secrets  100%  and Time = 5:20 !!
+                            ----
+
+
+Description:  Awright! Beats Anthony by 25 seconds and TAS by seven seconds :)
+              I always knew this was possible, glad I'm the one who got
+              to do it. Is this the first TAS max demo beaten? I don't know.
+
+              Anthony's demo was very good, however, and to start with I
+              wasn't sure I'd be able to beat it. So I started jiggling the
+              route around. Up to the blue key there's not much to do,
+              but from then things change. I play the revenant/mancubus/
+              teleporting sargeants scene much like Peo in his EV32-527,
+              then I use rockets on just about everything else. There's so
+              many, you just can't run out. Later on I BFG the Archvile and
+              the other monsters. Sometimes he teleports out, but not if you
+              manage to block his teleport line :) Then a BFG shot on the
+              next group of monsters (didn't work brilliantly, had to do a lot
+              of SSG shots). That leaves three for the Cyber scene, which is
+              plenty.
+
+              What's strange is that this doesn't look good at all. I labored
+              long and hard for this, and yet the demo is full of missed
+              shots, monsters taking too long to die, and bad running. And
+              at the end I forgot I had an extra BFG shot :) So this can
+              still be pushed further. Maybe even under 5 minutes? That'd be
+              pretty optimal though.
+
+              Thanks for the competition, Anthony, we've managed to get
+              quite an improvement over the first record (7:43!) This is
+              probably my last Evilution-max demo for a while (Anthony
+              says he's doing EV21), unless maybe someone feels like beating
+              my records...
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

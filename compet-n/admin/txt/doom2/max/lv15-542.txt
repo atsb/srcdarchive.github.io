@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV15-542.TXT
+LV15-542.ZIP
+
+LV15-542.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 15 - "Industrial zone"
+
+
+Kills   100%
+(Items   75)           
+Secrets  90%  
+
+   ...and Time   05:42
+		 -----
+
+Description: The route here is just too good, thanks Peo for creating it :-)
+	     I like this level a lot, many things can go wrong in the exit
+	     buliding, It's very easy to forget an imp behind the bares...
+	     or a trooper for instance...
+             
+	     There are still lots of slow parts in this one, Peo's 06.04 was
+	     hard to beat, though I found a way to cut a few secs..
+	     
+	     
+Author:	      Henning Skogsto 
+E-mail:	      hskogsto@c2i.net
+Doompage:     http://home.sol.no/~doom/

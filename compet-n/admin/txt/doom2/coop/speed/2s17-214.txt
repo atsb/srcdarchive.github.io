@@ -1,0 +1,11 @@
+Competition:     Coop-N (members.xoom.com/coop-n)
+Game:            DooM ][
+Category:        UV Speed
+Map:             17
+Players:         2
+
+Time:            2:14
+
+Player1:         Patrick "BauM" von Massow
+Player2:         Thomas "Panter" Pilger
+

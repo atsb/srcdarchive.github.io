@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV01-e06.TXT
+
+ LV01-e06.ZIP
+
+  LV01-e06.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - Entryway
+
+  Kills      3%
+  (Items     0)
+  Secrets    0%  and Time  00:06
+                           -----
+
+
+Description: I joined the COMPET-N too late to set the first 0:06
+             But it is still not to late to set the fastest time:
+             0:06.45 [ LV01-b06 is 6.6 ? and the others - 6.8 ? ]
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+Performance: timed 839 gametics in 385 realtics ;-)
+             (screenblocks 10 and detaillevel 0)
+
+

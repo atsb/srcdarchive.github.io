@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c3t8-134.TXT
+
+c3t8-134.ZIP - Coop UV tyson
+
+c3p8e116.LMP - Eugene - Indigo
+c3p8s116.LMP - Sergey - Green
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 3, Map 8 - Dis
+      
+Kills        0%
+Items        0%
+Secrets      0%	
+
+Kills       25%
+Items        0%
+Secrets      0%	
+
+and Time - 1:34
+
+
+Description:
+
+First exit demo.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+09.01.2007

@@ -1,0 +1,26 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq32-107.txt, rq32-107.lmp
+Date     : 2013-07-14 6:11
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP32: Bitter Herb
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Drew DeVore
+Nickname : Vile
+Country  : USA
+Email    : dadevore83@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 103%
+Items    : 14%
+Secrets  : 100%
+Time     : 00:01:07
+===================================
+Description:
+A decent sized improvement for a fun little map, though the beginning bit
+with the archviles requires some luck.  I changed up the route a little bit,
+getting the shotgun shell secret earlier and letting the baron come out to
+play with the cacodemons.

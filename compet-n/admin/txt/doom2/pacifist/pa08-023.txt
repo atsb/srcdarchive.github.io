@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA08-023.TXT
+
+ PA08-023.ZIP
+
+  PA08-023.LMP - Pacifist style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 8 - "Tricks and Traps"
+
+  Kills      3%
+  (Items)   20%
+  Secrets    0%  and Time  00:23
+                           -----
+
+
+Description:
+  A very tricky map, there's no reliable way to get
+  past the imps, you just have to go for it and hope
+  you get lucky.  This equals the speed record, which
+  is hardly surprising as there is no real need to
+  shoot monsters if everything goes well.  0:22 is
+  certainly possible, since the Cyb/Baron and exit
+  rooms did not go as well as they could have.  
+            
+  Jonathan Rimmer
+  jon@rimmer.demon.co.uk

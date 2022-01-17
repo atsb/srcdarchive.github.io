@@ -1,0 +1,35 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt-speed-map05-0003766.txt, tnt-speed-map05-0003766.lmp
+Date     : 2015-2-21 14:45
+Game     : TNT: Evilution
+Client   : cndoom.exe v2.0.3.1
+Category : UV-Speed
+Map(s)   : MAP05: Hanger
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 14%
+Items    : 4%
+Secrets  : 0%
+Time     : 00:00:37.66
+===================================
+Description
+This should be used in D2ALL UV-Speed, as it is quite easy to do (also 
+the NM-Speed individual level run). Full explanation of trick is in my 
+nomo demo for PRCP map 7 (which has a similar trick), but essentially, 
+all that needs to be done is use of vert mouse to push slightly into the 
+wall in the same way I do it in this demo, then straighten out direction 
+and vert mouse exactly parallel to the wall. Eventually, you build up 
+this boost, and the rest is straightforward. First exit was 0:43, but I 
+wanted at least sub-40. This was a nice surprise, as my previous best 
+was 0:40, and this demo went pretty smoothly. Some movement was off, and 
+the first shotgun guy died in 4 shots, but overall, I'm happy with this 
+run.
+
+Also, first CNDoom demo. :D

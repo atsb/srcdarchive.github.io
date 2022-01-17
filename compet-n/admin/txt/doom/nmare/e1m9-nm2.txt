@@ -1,0 +1,61 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M9-NM2.TXT
+
+ E1M9-NM2.ZIP
+
+  E1M9-NM2.LMP - NightMare!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 ?
+
+  DooM - Ep.1 Mi.9 - "Military base"
+
+  Kills     62%
+  (Items    27)
+  Secrets   50%  and Time  02:22
+                           -----
+
+  Description :-)
+
+                          "-- And they said it couldn't be done !"
+
+  E1M9 on Nightmare. When I first tried it, I played just for fun
+  to see how far could I get. There wasn't even a thought about the
+  possibility of finishing the level. After all, even if you manage
+  to get to the blue door - which is surely impossible - the final
+  room hasjust too much radioactive waste, too many specters and
+  too little space to fight them. This is what I thought.
+
+  But after playing a while I *was* able, on rare occasions, to get
+  to the blue door - And there came the idea of the "exit-jump" !
+  When I figured out this trick, and it *worked*, I knew there were
+  no more obstacles. One great thing about this is that the four
+  spectres inside the room are deaf. And it's easy to open the door
+  and shoot all the monsters on the exit island without disturbing
+  any spectres. After that, the way is clear !
+
+  Although I practised every tight point separately, the main
+  problem was the sergeants wandering randomly throughout the level
+  and ending up in unexpected places.
+
+  I do not take the rocket launcher despite the two medikits there,
+  because I don't like that free bonus of fifteen monsters. The
+  crucial point is the yellow door. If you do it with at least 30%
+  health left, there's a good chance to make all the way further
+  to the blue door. Usually, I step over the red key to release the
+  monsters and then get an extra medikit. In this LMP, however, as
+  I had pretty good health at that point, I decided not to disturb
+  them and take the advantage of time. A good trick is shooting
+  between barrels in the Blue Key Room. And when I am at the Blue
+  Door, imps from the central cage create a really cool firewall,
+  thus preventing others (like a demon in this LMP) from coming in.
+
+
+ Anton Magleli
+
+ magleli@lord.eecs.wsu.edu
+
+

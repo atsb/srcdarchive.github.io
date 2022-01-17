@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA27-428.TXT
+
+ FA27-428.ZIP
+
+  FA27-540.LMP - Ultra Violence & Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 - Monster Condo
+
+  Kills    100%
+  (Items    75%)
+  Secrets   87%  
+
+   ...and Time      04:28
+                  ---------
+
+
+  Description: 
+
+  I found an old Claudio Barba's 4:48 demo using the classic UV max route,
+  and because he never seemed to upload it, I did my own version. You 
+  see Claudio, no uploads, no glory. ;)
+  
+  
+
+  Radek Pecka
+  r.master@email.cz

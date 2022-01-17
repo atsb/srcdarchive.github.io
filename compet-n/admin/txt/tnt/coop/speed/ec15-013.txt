@@ -1,0 +1,36 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+ec15-013.TXT
+
+ ec15-013.ZIP - Coop UV Speed
+
+  ec15e013.LMP - Eugene - Green
+  ec15s013.LMP - Sergey - Indigo
+
+  Recorded using Doom2 Version 1.9 -file Tnt.wad
+
+  The Final Doom: Evilution - Level 15 Dead Zone
+
+Kills        1%
+Items       11%
+Secrets      0%	
+
+Kills        1%
+Items        3%
+Secrets      0%	
+
+and Time - 0:13
+
+
+Description:
+
+We didn't try 0:12 here.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+08.01.2007

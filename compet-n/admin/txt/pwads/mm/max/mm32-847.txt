@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM32-847.TXT
+
+ MM32-847.ZIP
+
+  MM32-847.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 32 - The Hidden Slime Factory
+
+  Kills    100%
+  (Items    61%)          *********
+  Secrets  100%  and Time * 08:47 *
+                          *********
+                          
+
+  Description :-)
+
+  Quite a boring map, I'm pretty happy with the lmp though except the telefrag
+  chase with the baron, I had no idea where he is and wasted some time there.
+  In the start there are even some ammo problems until you reach the boxes of
+  shells.
+
+  Istvan Pataki
+  deity@sch.bme.hu

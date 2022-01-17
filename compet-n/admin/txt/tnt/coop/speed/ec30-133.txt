@@ -1,0 +1,35 @@
+This is a "COMPET-N/tnt/coop/speed" entry, please forward it.
+
+ec30-133.txt
+
+ec30-133.zip
+
+ec30-133.lmp - Ultra-Violence Speed
+
+Recorded using Doom 2 Version 1.9
+Doom2 -PlayDemo -file Tnt.wad with Version 1.9
+
+Final Doom: TNT Evilution - Level 29
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+green          ?%       ?%       ?%       Vincent
+indigo         ?%       ?%       ?%       Method
+
+            ********
+  Time:     * 1:33 *
+            ********
+
+
+method:     If erik with torn beat it we beat back :)
+
+vincent:    I sucked hard with the switches... 3 secs lost I think.
+            Not easy to play with elastics anyway :)
+
+notes:      Recorded on MS Zone with ping of 150 ms. 
+            Check the time, I did it with a stop watch since Timer
+            is desynching.
+
+     
+Green:      Vincent "PerOxyd" Catalaa        (vincentds@netcourrier.com)
+Indigo:     Jakub "method_man" Razak         (dale007@volny.cz)

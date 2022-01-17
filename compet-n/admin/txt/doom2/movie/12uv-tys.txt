@@ -1,0 +1,117 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+12UV-TYS.TXT
+
+ 12UV-TYS.ZIP
+
+  12UV-TYS.LMP - Tyson multi-level speedrun
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  An "exhibition" demo :)  Map 01-12 speedrun using only Tyson weapons
+  (skipping map07 and the end of map12)
+
+Level           Kills   Secrets   Health   Armor        Time
+------------------------------------------------------------
+ 01             48%     20%       100%     96%          0:38
+ 02             88%     100%       99%     157%         2:49
+ 03             55%     100%      120%     135%         1:50
+ 04             74%     66%       100%     74%          2:15
+ 05             29%     33%         5%     31%          1:27
+ 06             44%     100%       31%     51%          2:52
+*07             100%    100%      100%     51%          1:32
+ 08             17%     0%        178%     30%          1:31
+ 09             39%     0%        152%     29%          4:35
+ 10             13%     27%       147%     88%          1:40
+ 11             57%     66%       100%     54%          2:50
+*12             10%     0%         21%     60%          1:51
+ 13              -       -          0%     63%          -:--
+ -----------------------------------------------------------
+ * - not done tyson style                       Total= 25:50
+
+ 
+
+Description: 
+
+  Well since Anders already did the max-doom thingy, I had to come up with
+  something new...so I wondered...how about a 32-level speedrun of Doom2
+  using TYSON WEAPONS only?  Of course, there's a problem...Map 07.
+  No mere mortal can complete that level on Tyson.  Well Demonlord did it,
+  but I'm talking about regular human beings here...
+
+  So my solution?  Easy...just "skip" it. :)  Presumably, any Tyson run would
+  have to break from Tyson style on the last level anyway, so my proposal
+  is allowing the player 3-4 "free passes" to finish a level, or part of a
+  level, using other than Tyson weapons, if for no other reason than to
+  save boredom on the part of the viewer. :)  I also "skipped" the end of
+  map12 because that room was just too damn hard.
+
+  Anyways...here's the first 12 levels done tyson style, with the above
+  exceptions.  I'm not much of a Tyson player -- does it show?? -- so maybe
+  it will inspire one of the Tyson masters to take over from here.
+
+  Some comments on the levels:
+
+Map 01:  Easy, of course. :P  Good idea to stock up on ammo here.
+
+Map 02:  Pretty much have to kill everything.  Only real tricky part is
+         the tunnels area.  This is one of my best runs of this level.
+
+Map 03:  A chainsaw party! :)  Lots of health make it easy.  I did screw
+         up the end real bad.
+
+Map 04:  Similar to map02 but not quite as hard.  I meant to do Panter's
+         "pacifist" ending, but missed the jump...
+
+Map 05:  Most fun of the levels.  Just run through it.  The chainies do
+         make the end kinda dicey. :-)))
+
+Map 06:  Undoubtedly my worst performance of this level, ever.  Well I
+         guess it proves that it's almost impossible to die here!  Easy.
+
+Map 07:  Yeah, I'll punch out 8 mancubi & 12 arachnotrons!  NOT!!!
+
+Map 08:  Trickier than expected, getting trapped is a big danger.  That
+         cyberdemon was NOT gonna let me pass...
+
+Map 09:  I'm sure a Tyson Master could do the yellow key area a lot faster?
+         No real problems if you're careful, though.
+
+Map 10:  Get the berzerk, soulsphere & invisibility without getting stuck,
+         and it's a piece of cake. :)
+
+Map 11:  Not terribly hard, but becomes lethal if something goes wrong!
+
+Map 12:  First half is easy enough.  Second half is impossible.  I tried
+         using pistol on the cacos but those three in the middle always
+         came through the door, and with half a million arachnoids outside
+         there was no place to run...getting the blue sphere only gave me
+         an extra 1 or 2 seconds, maybe.  Finally I gave up and switched
+         to rockets/plasma -- take THAT you fat one-eyed beasties!!!
+
+Map 13:  Well, I never practiced this level until making this demo...the
+         first part was easy, as expected, but at the yellow key room...
+         *sigh*
+
+I haven't seriously looked at the remaining levels but here are my
+predictions:
+
+14 - hard!
+15, 31, 32 - easy
+16 - easy if you can reach the invuln?
+17 - VERY hard!!
+18 - easy!
+19, 20 - easy(?)
+21, 22, 23 - hard(?)
+24, 25 - easy(?)
+26 - VERY hard, maybe impossible?
+27, 28 - easy!
+29 - VERY hard, maybe impossible?
+30 - depends on spawns...will need to use RL anyway
+
+
+  Jason Henry [aka King God Space]
+
+  space@wgn.net
+  http://www.wgn.net/~space/doom/lmpsrus.htm

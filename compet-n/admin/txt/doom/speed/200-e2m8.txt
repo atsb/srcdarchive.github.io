@@ -1,0 +1,14 @@
+200-E2M8.LMP --> E2M8 on UltraViolence
+--------------------------------------
+
+  Kills   : 100% 
+  Items   : 100% 
+  Secrets :   0%
+  Time    : ??:??
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: The lost souls are the most irritating part.
+
+Robert Reevy <drparadox@usa.net>

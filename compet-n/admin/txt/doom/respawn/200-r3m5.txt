@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+200-R3M5.TXT
+
+ 200-R3M5.ZIP
+
+  200-R3M5.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 5 - Unholy Cathedral
+
+  Kills     22%
+  (Items     8%)
+  Secrets   20%  and Time  1:15
+
+                          ******
+  Maximum Minimum Health = 200 %
+                          ******
+
+  Description:  A bit "harder" as 200-n3m5, because of less plasma.
+                I like that new route!
+
+      Comment:  Don't expect me to compete any more, I will have simply
+                no time to do that in the near future - maybe next year.
+        
+         Date:  Oct 25 1998, 0:56 MEZ
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

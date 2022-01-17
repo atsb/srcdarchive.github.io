@@ -1,0 +1,31 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm16n332.lmp & mm16n332.txt
+Date     : 2013-10-03 12:27
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : Nightmare! Speed
+Map(s)   : Map16: Stoned, by Kurt Schmid
+Skill    : 5
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 42%
+Items    : 17%
+Secrets  :  9%
+Time     : 00:03:32.40
+===================================
+Description:
+
+2 hour effort. Because there are two blue armors, one next to another,
+I skip one for later. I also pick up the partial invisibility.
+The megasphere is not that important, but the nearby plasma is...
+I once survived without mega/plasma up until demons/spectres.
+However, I'm not good at skill 5 so this was too frustrating to try it
+more this way.
+
+===================================

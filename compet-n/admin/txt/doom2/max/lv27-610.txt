@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV27-610.TXT
+
+ LV27-610.ZIP
+
+  LV27-610.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 - "Monster Condo"
+
+  Kills    100%
+  (Items    83)
+  Secrets   87%  and Time  06:10
+                           -----
+
+
+Description: Quite a lot faster than my old entry, the 13% secret
+             isn't possible to get when you need to enter a sector
+             which is a teleporter. (Compare with level 15, 90%)
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+
+[  Admin. Note :-|  Well, you yourself got 100% Secrets in LV27-849
+   so that's the one that counts... Or do you think you deserve yet
+   another point for doing this ? <-- This is not a question ! ;-)
+
+S.;-) aka. The "Judge". ]
+
+

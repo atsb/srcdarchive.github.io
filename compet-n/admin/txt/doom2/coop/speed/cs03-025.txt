@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+cs03-025.txt
+
+ cs03-025.zip
+
+  cs03a025.lmp
+  cs03m025.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 03 - The Gantlet
+
+           Kills    Items   Secrets
+
+  Green     14%       0%       0%      Marko
+  Indigo    15%      10%     100%      Arno
+
+  Time:    0:25
+
+
+Marko:   I like the jump here. :)  
+
+Arno:    Close to optimum for this route, only beatable by John's rocket jump.
+
+   
+Green:       Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:      Arno SlagDooM                (arnoslag@bart.nl)
+  

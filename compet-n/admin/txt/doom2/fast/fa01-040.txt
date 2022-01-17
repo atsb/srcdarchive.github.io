@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry
+
+FA01-040.TXT
+
+ FA01-040.ZIP
+
+  FA01-040.LMP - Ultra Violence with fast monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 1 - Entryway
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  
+                          *********
+            ... and Time  * 40.88 *
+                          *********
+
+  Description:
+
+  I'd say this came a bit faster than I expected.
+  When I tried this at first, I got a 42, which was
+  not so good, so I decided to improve it.  I decided
+  that 41 would not look so good, so I went for 40.
+  This run is only moderately hard to survive, but it
+  is slightly slower than the UV run.  The main problem
+  is that the first imp doesn't like to move so that I
+  can saw him when the lift is down.  The 2 imps on the
+  way to the shotgun also seem harder to saw quickly
+  because they don't move.  This demo is pretty good.
+  The only real problem is I needed an extra shot on 
+  one of the wimps so that forced me to take a slightly
+  slower way back from the armor secret.  
+
+  Xit Vono
+  xit_vono@yahoo.com

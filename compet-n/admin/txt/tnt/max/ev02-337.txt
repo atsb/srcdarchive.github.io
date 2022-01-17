@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV02-337.TXT
+ 
+ EV02-337.ZIP
+
+  EV02-337.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 03 - Power Control
+
+  Kills    100%
+  Items    100%           
+  Secrets  100%  
+
+        ...and Time  3:52
+                    ------
+
+
+Description: Yashar wrote :
+             > Another round, Radek?
+            	     
+             Why not ? But i'm afraid it was the last round. :) (or not?)
+ 
+
+Author:   Radek Pecka
+E-Mail:   r.master@email.cz
+Doompage: http://doomers.zde.cz

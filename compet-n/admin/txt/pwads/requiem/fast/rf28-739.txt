@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf28-739.TXT
+
+ rf28-739.ZIP
+
+  rf28-739.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 28 – UV Fast
+
+How come hardly anybody makes any -fast demos for this WAD anymore? This level has only 89 monsters, so it wasn't really that hard. I thought I was a bit pressed for ammo so I used my weapons sparingly. It was a bit hard trying to survive without armor until the end. I decided to get some goodies at the end because anything could happen.
+
+Author: Revved

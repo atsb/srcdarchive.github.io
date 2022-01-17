@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV19-525.TXT
+LV19-525.ZIP
+
+LV19-525.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 19 - "The Citadel"
+
+
+ Kills   100%
+ (Items   55)
+ Secrets 100%  
+              
+      and Time         05.25 
+                       -----
+
+
+Description:   Thanks goes to Peo since I used his route in this lmp... :)
+	     
+
+Author:	     Henning Skogsto 
+E-mail:	     hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

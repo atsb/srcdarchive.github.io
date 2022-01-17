@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF17-525.TXT
+
+ EF17-525.ZIP
+
+  EF17-525.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 17 - Processing Area
+
+  Kills    100%
+  Items     56%           
+  Secrets  100%  and Time = 5:25 
+                          
+
+
+Description: Like UV max except I stop to take out the PEs - they can
+             be unpredictable.
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ07-119.TXT
+
+ RQ07-119.ZIP
+
+  RQ07-119.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 07 - Hell's Gift
+        
+  Kills     41%
+  (Items     0%)          *********
+  Secrets    0%  and Time * 01:19 *
+                          *********
+                          
+  Description :-)
+  
+  First of all, credits go to Xit Vono for discovering
+  the keygrab featured in this demo. I was just asked
+  to record a speedrun with it, and here it is.
+  
+  It's quite a hard level to speedrun, for the trick
+  only saves you a small portion of the level, and there
+  is no armor either. I tried to speed up the first
+  part as much as I could, it seems to make things easier.
+  
+  There is still improvement left but I don't think under
+  a minute is possible unless someone comes up with
+  another trick.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

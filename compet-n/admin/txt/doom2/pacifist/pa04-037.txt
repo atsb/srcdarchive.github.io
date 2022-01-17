@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA04-037.TXT
+
+ PA04-037.ZIP
+
+  PA04-037.LMP - Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 4 - "The Focus"
+
+  Kills     ??%
+  (Items    ??)           /-----\
+  Secrets   ??%  and Time |00:37|
+                          \-----/
+
+
+ Description: 
+
+  Ha, well, I was only kidding with all that chaingunner malarkey. Who needs
+  'em? :). As I mentioned to Vince, a run on this route using the speedrun
+  ending (and coming back from blue key a little quicker than I do here)
+  could break the speedrun record...anyone want to try? Sorry for the slow
+  ending, but I messed it up 3 times before this and wanted to get it this
+  time. Nice 1% health finish :)
+              
+
+  Author:    Adam Williamson
+
+  E-mail:    adam.williamson1@btinternet.com

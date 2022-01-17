@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+RE25-140.TXT
+RE25-140.ZIP
+
+RE25-140.LMP - Ultra Violence with -RESPAWN
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 25 - BloodFalls
+
+Kills    100%
+(Items    50)
+Secrets  100%  
+
+   ...and Time   01:40
+                -------
+
+Description: I basicily follow the max\fast route here, I think with a bit 
+	     share of luck 01:2x will be possibile. My best attempt was 01:34
+	     with 99% kills so go for that Janne...	
+		
+	
+Author: Henning Skogsto
+E-mail: h-doom-frisurf.no 

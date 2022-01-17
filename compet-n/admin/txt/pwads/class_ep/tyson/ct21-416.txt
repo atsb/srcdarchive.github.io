@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CT21-416.TXT
+CT21-416.TXT
+CT21-416.ZIP
+
+CT21-416.LMP - Ultraviolence!
+  
+This is a Compet-n/Doom/pwad entry.  
+
+Recorded using Doom Version 1.9 !
+Doom -PlayDemo with Version 1.9 - Only
+
+Doom - class_ep.wad e2m1 done Tyson style.
+
+---------------
+
+     -------
+
+  Kills    100%           
+  (Items    92%)          |--------|
+  Secrets   50%  and Time | 04:16  |
+                          |--------|
+
+     -------
+
+Map description
+-------------------
+e2m1: class_ep is a small Doom1 style map with what seems like
+quite a few shotgun guys. The number of shotgun guys made it kind of 
+hard for me to even complete on Tyson, just a couple shots from them 
+and you're dead.
+
+-------------------       
+
+Description: Well, I originally made a kind of slow demo that was 6:57, I knew that the skilled compet-n players could beat it easily, and said so in the textfile. Then, Waldon told me that a keyboarder had managed to beat my time, and I was like oh, my god? It was that bad? yep. So, I had to do something about that.
+
+Need to thank Adam Hegyi; this demo exists because I studied Adam's tyson technique very closely, and managed to mimic him well enough to complete the map much faster than before. Definately learned a lot. Also Waldon for encouraging me to get the job done.
+
+Date: February 16, 2002
+
+Author: Laura Herrmann (BahdKo)
+E-mail: bahdko@erols.com

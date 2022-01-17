@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN11-051.ZIP
+
+ PN11-051.LMP
+
+  PN11-051.TXT -Nightmare!
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  Final Doom - The Plutonia Experiment - MAP11 - Hunted
+
+  Kills       0%
+  Items      68%             ++++++++
+  Secrets     0%  and Time   + 0:51 +
+                             ++++++++
+  Description :)
+  
+  BTW, I stopped after arch-vile blast for a reason, there's
+  a linedef which you need to cross while the door is closed
+  to open it, if I continued running after arch-vile blast
+  the door would still be closing because it was opened when
+  you go get red key and that way the linedef wouldn't
+  activate and I would find the door closed.
+  Archies can be annoying as seen here, well this just proves
+  that I am able to get 49 and I might go for it someday :)
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

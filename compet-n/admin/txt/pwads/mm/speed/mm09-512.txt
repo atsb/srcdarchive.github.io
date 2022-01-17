@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+MM09-512.TXT
+
+ MM09-512.ZIP
+
+  MM09-512.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 09 - High-Tech Grave
+
+  Kills     58%
+  Items     36%           ********
+  Secrets   37%  and Time * 5:12 *
+                          ********
+
+  Description :-)
+
+  I must admit that I haven't watched the 6:35 record demo, but
+  I discovered a little rocket jump here. Unfortunately, it seems
+  to be useless, since one could really use the health for the end,
+  and there are mancubi blocking the way, so you don't really save
+  much time at all. So I've done the speed run in the regular way,
+  but the trick is included in a bonus nomo demo, "mm09rock.lmp" :)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

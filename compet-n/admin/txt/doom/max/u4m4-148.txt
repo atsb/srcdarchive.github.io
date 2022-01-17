@@ -1,0 +1,50 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+U4M4-148.TXT
+
+ U4M4-148.ZIP
+
+  U4M4-148.LMP - Ultra Violence
+
+  Recorded using The Ultimate Doom 1.9
+  DooM -PlayDemo with The Ultimate Doom 1.9
+
+  Episode 4 - Thy Flesh Consumed
+
+  Mission 4 - Unruly Evil
+
+  Kills    100%
+  Items     73%		   ********
+  Secrets  100%  and Time  * 1:48 *
+			   ********
+
+Description: Never trust Peo! Just a few hours after my 1:53 he surprised me
+	     with a 1:51. Now that I've sent him a new e1m3-257 (only 1
+	     second away from the record) with a better way, so I hope
+	     he'll record that map first and not this one. Anyway, I'm very
+	     satisfied with this LMP. 3 shells left at the start is best
+	     (I had 5 once, but never happened again), the sergeants at
+	     the berserk are killed with one shot, only one at the RL sur-
+	     vived, some monster fights, boith Cacos with only three punches
+	     and without a long lasting chase (I was still invulnerable at
+	     the red key!), the pigs punched fast, the Imp, maybe some tenth
+	     of a second lost, but not more, 3 sergeants with one shot, Caco
+	     and Imps killed with one rocket, one sergeant telefragged, Imps
+	     with two rockets, missed the SG shot (better look out for Imps),
+	     but the Cacos took 17 punches, maybe it could have been 2 seconds
+ 	     less. Thanx Peo for the suggestion not to take the CG. I've tried
+	     to kill some Imps with a rocket while beeing invulnerable after
+	     I teleport, but you can never be sure how many you hit, but it
+	     might be the better way?!? Peo: do you want still this map?
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

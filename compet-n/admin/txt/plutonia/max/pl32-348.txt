@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+Pl32-348.TXT
+
+ Pl32-348.ZIP
+
+  Pl32-348.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  Final Doom - Level 32 - "Go 2 It" - Plutonia.wad
+
+  Kills   113%
+  (Items  100)            
+  Secrets 100%  and Time   03:48
+                           -----
+
+Description: Do you know the strange feeling you get after getting something
+	     you really wanted for some time, only to realize it
+	     dosn't affect you as you expected? Think this is the case
+	     with me atm...I really wanted to have this one sub 4 mins...
+             For one thing TAS is 3:34 (that one with -fast, but with TAS
+	     fast monsters are hardly a drawback in a slaughter map like
+             this cus of the heavy infights), so I imagined sub 4 mins
+             with regular play should be really cool. Well, guess its not
+             too bad. After all it beats my old max with some 30 secs.
+             Getting a 4:20 is no big deal at all, but cutting of those
+             last 20 secs can be a pain. I really don't know why this one
+	     got below the magic line. I expected to get a 4:10 or so...
+	     When watching the lmp again tho, I realize that the ledges
+             part went faster than it seems, despite me picking up that
+             extra 200 sphere. And the rest of the map went w/o problems
+	     at all. This was a pretty hardworked demo for a change, I hope
+	     I'll be able to do something else now :) 
+
+	     /me holsters the bfg and goes to take a well-earned(?) piss...
+
+
+
+             [To playback this lmp, you'll have to run plutonia.wad 
+             together with Doom2.exe]
+
+Author:    Anders Johnsen
+E-Mail:    nfp7065@privat.cybercity.no
+Doompage:  http://www.geocities.com/Broadway/Booth/3568

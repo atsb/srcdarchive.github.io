@@ -1,0 +1,85 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30UV5713.TXT
+
+ 30UV5713.ZIP
+
+  30UV5713.LMP - Ultra Violence
+
+  This is a Compet-n/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - Only
+  
+  DooM II - "Episode 1,2 and 3" - "The real DOOM ][ movie"
+
+				Kills Items Secrets     TIME!  Health Armour
+
+  LV 01 entryway              -    3%    0%    0%       0" 08     (100   0)
+  LV 02 underhalls            -   72%   40%  100%       1" 20     ( 77 159)
+  LV 03 the gantlet           -   42%   22%  100%       0" 54     (100 117)
+  LV 04 the focus             -   65%   55%   33%       1" 11     ( 89  89)
+  LV 05 the waste tunnels     -   42%   33%   33%       1" 30     (100  14)
+  LV 06 the crusher           -   72%   17%  100%       4" 08     ( 80  89)
+  LV 07 dead simple           -  100%   66%  100%       1" 49     (190 190)
+  LV 08 tricks and traps      -   37%   60%   28%       1" 49     (200 190)
+  LV 09 the pit               -   37%   34%    0%       2" 02     (135 130)
+  LV 10 refueling base        -    8%   26%   16%       0" 49     ( 93 112) 
+  LV 11 circle of death       -   74%   52%    0%       2" 18     (100 157)
+  LV 12 the factory           -   10%    0%    0%       1" 06     ( 64 108)
+  LV 13 downtown              -   32%   14%    0%       2" 21     (100  81)
+  LV 14 inmost dens           -   67%    0%    0%       1" 48     ( 94 117)
+  LV 15 industrial zone       -   11%   12%   18%       0" 54     (100  68)
+  LV 31 wolfenstein           -   42%   37%   50%       1" 14     ( 99  47)
+  LV 32 grosse                -  100%  100%   83%       1" 17     (200 200)
+  LV 16 suburbs               -   11%   20%    0%       0" 45     (197 198)
+  LV 17 tenements             -   81%   64%    0%       5" 50     (185  11)
+  LV 18 the courtyard         -    2%   36%    0%       0" 34     (200 125)
+  LV 19 the citadel           -   20%   58%   22%       1" 42     (189 198)
+  LV 20 gotcha!               -   28%   37%   28%       1" 31     (200 138)
+  LV 21 nirvana               -   56%   50%    0%       1" 29     (194 196)
+  LV 22 the catacombs         -   66%   71%  100%       1" 42     (145 116)
+  LV 23 barrels o' fun        -   36%   40%   50%       1" 28     (193 192)
+  LV 24 the chasm             -    5%    0%    0%       2" 09     (165 166)
+  LV 25 bloodfalls            -   72%   50%   50%       2" 09     (140 150)
+  LV 26 the abandoned mines   -   45%   36%   50%       1" 33     (114 143)
+  LV 27 monster condo         -   36%    8%   12%       2" 51     (200 100)
+  LV 28 the spirit world      -   18%   16%   14%       1" 05     (200 200)
+  LV 29 the living end        -   83%   88%    0%       4" 33     ( 72 124)
+  LV 30 icon of sin           - 1000%   16%    0%       1" 14     (183 187)
+
+					 Total Time =  42" 913
+						       42" +
+						       15"  13
+						      ---------
+					 TOTAL TIME =  57"  13
+						      ---------
+				       (gross time: 1h  7"  28s)
+
+ Description:
+
+ The waiting is over. Here it is:
+
+       "The real DOOM ][ movie"
+
+ This is a full recording of all DOOM ][ maps in Ultra Violence as one 
+ big LMP. After two years of DOOM and one year of DOOM ][ experience 
+ this was the last challenge.
+
+ I tried by no means to complete each level in the shortest possible time.
+ My aim was only to survive up to the last level.
+
+ There doesn't exist a "DOOM Honourific Title" for such a recording but I think 
+ DOOM ][ Terminator (D2T) would suit me fine.
+
+ Watch instructions:
+
+  Give your girl friend (or boy friend, this depends on you) a day off. 
+  Lock the door, switch on your answer phone and dim the light. 
+  Grab your coke and chips, lean back in the armchair and pump up the volume.
+  Start 30uv5713.bat. 
+  After one hour 7 minutes and 28 seconds give the record to your friends.
+
+
+ Uwe Girlich                November 1995
+ girlich@aix520.informatik.uni-leipzig.de

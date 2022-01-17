@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ25-242.TXT
+
+ RQ25-242.TXT
+
+  RQ25-242.TXT - Ultra Violence Max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 25 - Chaos Zone
+
+  Kills     102%
+  Items     ?%              *********
+  Secrets   100%  and Time  *  2:42 *
+                            *********
+                          
+  Description:
+  Thought that I might just as well try this map max as well... The start is ok,
+  I have a clear plan here, release first monster batch, kill knights, release the
+  second batch and then kill off everything in the area. Then run to the switch in 
+  the blue key room and then to the key. From here I don't have a plan at all... the 
+  monsters never behave the same and the archvile can be nasty if he parks himself in
+  the intersection or hides behind monsters.
+  
+  Thanks to Doug for his demo, it helped. I bet you can take this down to 2:00-2:30
+  somewhere pretty easily.
+
+  
+
+  Erik Alm
+  erik_a80@hotmail.com

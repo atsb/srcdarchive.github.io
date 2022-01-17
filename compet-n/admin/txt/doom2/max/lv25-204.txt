@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV25-211.TXT
+
+ LV25-211.ZIP
+
+  LV25-211.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - "Bloodfalls"
+
+  Kills    100%
+  (Items    50)
+  Secrets  100%  and Time  02:04
+                           -----
+
+
+Description: First I tried to do better than DL and kill all the enemies 
+             without using the Archvile trick. This 2:04 was my best time after
+             about 30 attempts. I thought I had 102% but I forgot a Spectre in
+             the Megasphere-room. But DL left an Imp too...
+             After my Map 25 Speed only yesterday (ok 2h ago) I wanted to do
+             some slower stuff. If you want to beat this (shoudn't be that
+             difficult), try to save (blood) plasma. Especially the jump after
+             the blue key is hard to survive.
+             
+             12.10.97 (0.11 am)
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    http://people.wiesbaden.netsurf.de/~panter/
+

@@ -1,0 +1,62 @@
+This is a Doom .LMP "Competition" Entry
+
+1330ev11.txt
+1330ev11.zip
+
+1330ev11.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Final Doom - TNT levels 11-20 on UV skill
+
+11 - Storage Facility    -  :24
+12 - Crater              -  :46
+13 - Nukage Processing   - 1:16
+14 - Steel Works         - 1:54
+15 - Dead Zone           -  :20
+16 - Deepest Reaches     - 1:33
+17 - Processing Area     -  :43
+18 - Mill                - 2:13
+19 - Shipping/Respawning -  :53
+20 - Central Processing  - 3:28
+
+Total - 13:30
+
+C-N entry #139, movie run #26.
+
+11: The usual time, thanks for letting me know about the mega, xit. :)
+12: The usual time again, a freebie level with an RL.
+13: Not bad, but my best was 1:11 with gutsy play at the red key.
+14: I lost some time here due to angry ceilings that come down when I'm
+    ready to cross the lava, so I had to wait a few times.
+15: Thanks for the BFG tip, xit.  So I don't know the levels that well,
+    but that only means more room for improvement. :)
+16: Not a bad time, but with some sloppy play at the yellow key.  I had
+    to slow down and say hi to my best friends, the sticky walls.
+17: The BFG helps with smacking down the archvile at the blue key.  This
+    was my fastest time, but I spent extra time at the red key collecting
+    cells for later (very helpful).
+18: An easy level, the end can be intimidating sometimes.  One time the
+    cyberdemon moved in front of me whenever I tried to get by, and it
+    lasted that way for 5 seconds without him firing at me.  It was funny
+    to watch, too bad I couldn't get that in the demo. ;) 
+19: This was a definite time saver, missing the BFG would make it very hard
+    to get the time below 1 minute.
+20: I goofed off a bit at the end, first falling in the river, then hoping
+    the archvile would come out and boost me over to the other side of the
+    water.. oh well, maybe someone else will be lucky enough to pull it off
+    in a movie..?  hint hint. :))
+
+Like before, thanks to Jim for some new routes and showing me how wussified
+my old movies were.  Perhaps he'll attempt to improve the ev21 movie (which
+I won't try to improve, it's a horrible level set aside from 28, IMO).  He's
+also attempting to pull off the first ever tn21 movie, so be on the lookout
+for that prize. :)
+
+As for my next movie project, I'm keeping it to myself in case I lose interest
+in recording again and never get around to something I promised, so who knows
+what will happen.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

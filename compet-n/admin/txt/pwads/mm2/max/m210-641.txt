@@ -1,0 +1,32 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m210-641.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP10
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items    100%           ********
+  Secrets  100%  and Time * 6:41 *
+                          ********
+
+
+==============================================
+
+First of all, big congrats to Anders Johnsen, who held the UV Max Record for more
+than 11 years! When I tried to play like him, the best I could get was 7:20...
+There are several improvements to be performed, namely:
+- Close the 30-second bars as soon as possible. The Cacos should kill the monsters
+on the other side of the room.
+- Don't pick up the soulsphere, just trigger the secret (I was too afraid to do it).
+- When fighting the Baron of Hell in a bright little room with stimpacks, shells and
+  bullets: open the door after 7-9 shots. Two Pain Elementals will fly to the door,
+  while the imps & spectres will stay where they stood (deaf monsters).
+- Lure the last Baron to the crusher - a BIG time saver (I don't know how to do it
+  reliably and it didn't work in this run).
+
+I had a big advantage over Anders near the switch lowering the blue keycard (10-11 seconds),
+but as usual, the last part sucked.
+
+MAP10 stands out for me as the most modern-looking level of MM2.

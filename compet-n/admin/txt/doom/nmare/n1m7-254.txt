@@ -1,0 +1,29 @@
+This is a DooM "COMPET-N/doom/nmare" entry. Please forward it...
+
+N1M7-254.TXT
+
+ N1M7-254.ZIP
+
+  N1M7-254.LMP - NightMare!
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 1 - Knee Deep In The Dead
+  Mission 7 - Computer Station
+
+  Kills     92%
+  (Items    50)
+  Secrets   75%  and Time  02:54
+                           -----
+
+
+Description: 
+This was some light relief while trying to record e1m8 pacifist style
+for dht.
+
+Author: John Keniry
+
+E-mail: john@jken.demon.co.uk
+Web:    http://www.jken.demon.co.uk/doom.htm
+

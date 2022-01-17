@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+
+pn26-054.txt
+pn26-054.zip
+
+pn26-054.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP26 - Bunker
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :54
+=--------------=
+
+C-N entry #95.
+
+Thanks to Selim for his run, though he was
+the only one who did a demo for this.. is
+this category that unpopular? :(
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,59 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+5322PL01.TXT
+5322PL01.ZIP
+
+5322PL01.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file plutonia.wad -playdemo with version 1.9
+
+Final Doom: The Plutonia Experiment - Episode 1 - UV-MAX
+
+
+                       Time     Kills     Secrets
+-------------------------------------------------
+01 - Congo             3:16      100%      100%
+02 - Well of Souls     3:17      100%        0%
+03 - Aztec             4:58      100%      100%
+04 - Caged             5:07      100%      100%
+05 - Ghost Town        6:08      100%      100%
+06 - Baron's Lair      5:23      100%      100%
+07 - Caughtyard        2:42      100%      100%
+08 - Realm             7:16      108%      100%
+09 - Abattoire         8:39      100%      100%
+10 - Onslaught         6:36      106%      100%
+
+Total                 53:22
+
+
+01: Except the 4 Revenants this level went as I wanted. The time could have been a little       better, my record is 3:02.
+
+02: The yellow key and the invisible bridge are the only areas in which I must always do        something wrong. I had very few runs in which I passed them without problems. The time      is good but again it could be better. My record is 2:55.
+
+03: Nothing out of the ordinary but slow. Best time 4:33.
+
+04: When I began practising for this run I thought that this level will be the hardest and I     didn't like it. But now I like it and if all goes well it is quite easy. My best time is     4:47 but 5:07 is still good.
+
+05: I like this level. In all practise runs everything was great, nothing went wrong. But       this time two things went terribly wrong. First all the Chaingunners began to shoot at      me and the Mastermind decided to join them (but this isn't that bad). And second (which     is really bad) I was used to the equation "the Revenants are out = I have the blue key".     Thanks to this and my inattention I lost about 30 seconds.(but this is nothing compared     to level 08) My best time here is 5:19.
+
+06: This is my favourite level of episode 1. Only the Cyberdemon can be a problem sometimes     when I'm not carefull. There's nothing better than to dodge his rockets when you are        blinded from a direct hit (it didn't happen this time). My best time 5:12.
+
+07: This is an interesting level but I don't like it. Best time 2:40.
+
+08: This is not possible. This is the same as level 05. I never had any major problems          here but now...First the Revenants after the switch. This is how I save health and armor     should something go wrong in the blue key room. Second, what the hell did I think after     I hit the blue switch? I did this never before, I was lucky I survived and the end time     7:16 is horrible. My best is 6:23 and I never had worse than 6:35.
+
+09: I did it five times to this level and four times I fell down in the end room. You can       watch the fifth episode of "Will I make it to the invulnerability alive and if yes then     with how much health?". I did it five times to this level and never before did I ignore     the yellow door. Oh boy...Must have been stress. This was the hardest level for me.
+
+10: This is the first time I got to this level while recording. Everything went as planned      except for the window Arch-Vile. Maybe too cautious with health in the end but I wanted     to finish this. If you have enough plasma and rockets this level is very easy.
+
+This is my first Compet-N demo so I hope everything is ok and it is valid. To record a demo like this was not as easy as I thought it would be. Many weeks have passed before I did this and many weeks will probably pass before I will try to record another demo because the winter term ends in two weeks and exams will begin.
+
+The demo is slower than I hoped it would be because of those "beautiful" endings of levels 05 and 08. I will probably try to improve this but not before the exams are over.
+
+I hope you will enjoy it!
+
+Author: Tomas Kollar "DeDo"
+E-mail: kollarant@stonline.sk
+
+26.11.2002

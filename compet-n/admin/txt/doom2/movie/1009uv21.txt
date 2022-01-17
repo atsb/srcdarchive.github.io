@@ -1,0 +1,50 @@
+This is a DooM .Lmp "Competition" entry - Please forward it...
+
+ 21uv1043.txt
+
+  21uv1043.zip
+
+   21uv1043.lmp - UV run 
+
+
+ Recording Doom2 version 1.9 !
+ Playdemo with version 1.9 - Only
+
+DOOM2 - run trough levels 21-30
+
+
+LEVEL          Optimum(*)     My Best(**)    Henning     Real time   
+--------------------------------------------------------------------
+ 21              0:51          0:49           0:49         0:52 :
+ 22              0:49          0:46           0:47         0:48 :)
+ 23              0:58          0:54           1:05         0:57 :)
+ 24              0:58          0:55           0:56         0:55 :)
+ 25              0:59          0:53           1:03         0:53 :))
+ 26              0:51          0:49           0:54         0:50 :)
+ 27              0:32          0:28           1:02         0:30 :)
+ 28              0:56          0:52           0:51         1:01 :((((
+ 29              2:30          2:16           2:24         2:25 :)
+ 30              0:47          0:58           1:00         0:58 :)
+---------------------------------------------------------------------
+TOTAL TIME       10:11         9:44          10:51         10:09 :-D
+    * - time which I wanna get in my optimal run
+   ** - My best time in run    
+
+  I donït still believe, that I finished map30 in 58s without the platform 
+  jump. Map25 - I try for second or third time to leave megasphere, but never
+  before I finished to the level 30. I canït still believe the time. I thought,
+  that if always run perfect, I reach time around 10:25. Optimum map30 in 47
+  was only dream. 
+     I can said, it was bloody hard work to do this time and in the end I was 
+  more lucky, than expected:). Iïm realy happy. Beating my optimum by 2s:)
+ 
+  AdamH -now I can send my form:)
+   
+ 
+
+ Author: jaromir "jacih" cihak
+ Email : jacih@email.cz
+ HP    : http://doomaniax.bonusweb.cz
+
+
+

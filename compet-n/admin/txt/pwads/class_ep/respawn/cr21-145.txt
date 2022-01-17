@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+cr21-145.txt
+
+cr21-145.zip
+
+cr21-145.lmp - Ultra-Violence with -Respawn
+
+Recorded using Doom Version 1.9
+Doom -playdemo with Version 1.9 -file class_ep.wad
+
+Classic Episode - E2M1 - Foray	
+
+================
+Kills      107%
+Items      50%
+Secrets    100%
+----------------
+Time       1:45
+================
+
+C-N entry #1.
+
+Description: Yep, my first C-N entry is a paltry filler demo, oh well.  Before this I hadn't even heard of respawn category...Just a crappy first exit, a good time would be around 1:25 I think.  This is my first demo recorded on the classic DooM engine, so I still have to work out a few compatibility problems, notably the lack of sound and random mouse jerks (Most noticeable around the 50 sec mark when I miss the 2 sergeants completely.)
+
+Author: Kyle McAwesome
+E-mail: kylemccl@comcast.net

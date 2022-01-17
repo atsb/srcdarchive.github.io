@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+M230-104.TXT
+
+ M230-104.ZIP
+
+  M230-104.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 30 - It
+
+  Kills     62%
+  Items     21%           ********
+  Secrets    0%  and Time * 1:04 *
+                          ********
+
+  Description :-)
+  
+  Just wanted to show an interesting thing I noticed in 
+  this level: you don't need the yellow key! The switch 
+  marked with yellow actually needs the blue key to be 
+  activated (as does the one marked with blue).
+  Wonder if this was done intentionally or if it was just
+  a mistake by the editor...
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

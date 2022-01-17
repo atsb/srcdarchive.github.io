@@ -1,0 +1,45 @@
+
+D2LMP30.TXT
+
+LV30-144.TXT
+
+ LV30-144.ZIP
+
+  D2LMP30.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.7
+  & Converted to Doom2 Version 1.9
+
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+  Kills   1800%
+  (Items    16%)
+  Secrets    0%  and Time  01:44
+                           -----
+
+  Description :-)
+
+  Taken, with permission, from Ian Jefferies series of Doom 2 .LMP's
+
+  Each starting with only a pistol, 50 bullets and 100% health [ and
+  no armour ] on the Ultra-Violence skill level [ with most ] ending
+  with 100% [ or more ] monster kills and 100% secrets found.
+
+    The rest in the series may be obtained by anonymous FTP from :
+
+    ftp.cdrom.com  [ plus it's mirrors ]  as  path...  D2LMP??.ZIP
+
+    [ path... unknown, look for a  "lmps/doom2/ver17"  directory ]
+
+
+  [ I've lengthened the end-credits of this .LMP and
+    added ~10 mins. for the "funky stuff" - S.W. ;-) ]
+
+
+ Ian Jefferies
+
+ jeffers@vax.ox.ac.uk
+
+

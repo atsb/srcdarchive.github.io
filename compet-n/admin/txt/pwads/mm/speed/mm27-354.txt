@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+MM27-354.TXT
+
+ MM27-354.ZIP
+
+  MM27-354.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 27 - Fort Hades
+
+  Kills     62%
+  Items     14%            ********
+  Secrets   22%  and Time  * 3:54 *
+                           ********
+
+  Description :-)
+
+  This is just first exit, after I gave up trying to complete
+  the level without armor/megasphere.
+
+  I just wanted to show a couple of small tricks:
+  - A jump to the blue key area; this is possible either by
+    jumping off the nearby stairs or by using an archie-jump.
+  - The wall closing as you move into the blue key area can be
+    blocked, either by the player or by a monster. This avoids
+    a 30-second waiting time.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

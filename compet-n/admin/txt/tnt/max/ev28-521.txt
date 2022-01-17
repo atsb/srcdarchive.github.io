@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV28-521.TXT
+
+ EV28-521.ZIP
+
+  EV28-521.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 - desyncs with Final Doom
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 28 - Heck
+
+  Kills    100%
+  Items     42%           
+  Secrets  100%  and Time = 05:21 
+                            -----
+
+
+Description: What the heck? I don't understand the time: I'm usually around
+             6:00 and all sorts of unplanned things happened here. I don't
+             understand how I could have so much ammo at the end... I
+             usually run out. 100 cells at the exit is surely not optimal :)
+
+             I agree with Yonatan - great level.
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

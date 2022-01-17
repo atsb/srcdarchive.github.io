@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA07-110.TXT
+
+ FA07-110.ZIP
+
+  FA07-110.LMP - Ultra Violence & Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - Dead Simple
+
+  Kills    100%
+  (Items    83)
+  Secrets  100%  and Time  01:10
+                           -----
+
+
+Description: Hmmm... You need to reach the Megasphere.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

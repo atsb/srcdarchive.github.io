@@ -1,0 +1,43 @@
+This is a Doom .LMP "Competition" Entry
+
+n1s3-149.txt
+n1s3-149.zip
+
+n1s3-149.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+
+Ultimate Doom - E1M3 - Toxin Refinery
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       1:49
+=--------------=
+
+C-N entry #108.
+
+Adam Williamson (n1s3-205) wrote
+
+>        Yeah, that's right, 2:00 is certainly possible, but very hard. 
+>        The only thing I do much different from Vince is to go into the last secret
+>        quicker - after the key door I don't bother clearing all four sergeants, I
+>        just run for the secret.
+
+Vincent Catalaa (n1s3-159) wrote
+
+>        Thanks for the tip Adam ! :)
+>        and i was a bit faster in many parts...
+>        Par is now beaten by one little second... and it's was hard !
+>        Probably my last entry for this one.. except if someone finds
+>        a new route ! :)
+
+I kept the texts intact as a way to give them credit for their runs.  I didn't
+make a new route, just used good old fashioned luck to cut another 10 seconds
+from the record... doing n1s9 got me interested in the episode 1 nightmare runs
+again, with more experience now perhaps my newbie ass can bring more times down. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

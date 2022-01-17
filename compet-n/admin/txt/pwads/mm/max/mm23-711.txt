@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM23-711.TXT
+
+ MM23-711.ZIP
+
+  MM23-711.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 23 - Showdown
+
+  Kills    101%
+  (Items   100%)          
+  Secrets    0%  and Time = 07:11                          
+                          
+
+  Description: Richie Agnew wrote:
+               >I still think that below 8mins is 
+               >very possible.
+
+               Well, yes, and below 7mins is also possible :)
+               This is pretty much Esko's cheated route, most bits
+               went okay but I was a little unsure at places, this
+               level layout is kinda confusing...
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

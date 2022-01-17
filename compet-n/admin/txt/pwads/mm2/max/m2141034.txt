@@ -1,0 +1,42 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2141034.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP14
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     23%           *********
+  Secrets  100%  and Time * 10:34 *
+                          *********
+
+
+==============================================
+
+The more I play MAP14, the less I like it. During my first
+experiences with MM2 (Hurt Me Plenty, usually not pistol start)
+I would say this level is among MM2 top five. The atmosphere
+was superb, the design, architecture, gameplay (now I'd say
+"intended gameplay") were all fantastic. But now... it's
+rather an average one. Why? It's soooo buggy. Most of the
+errors work for the player's advantage, but I still don't like
+the buggy side of this map.
+- Slow monster teleporters
+- Switches that can be pressed from "the other side"
+- Shootable switches which can be shot at from the "wrong side"
+  again
+
+Well, so I cheated. Peo Sjoblom didn't know about those
+switches. For me the important one was the switch near two
+revenants and symmetrical stairs. Now I could kill 2 revs +
+3 spectres at the very end with the super shotgun.
+
+My favourite parts of this demo:
+3:58 a demon is killed in the last possible moment before it
+     is lifted up
+6:52 5 SSG shots = 2 hell knights
+9:22 3 SSG shots = 2 revenants
+
+And the biggest mistake:
+7:28 forgot to press the wall which lowers the soulsphere

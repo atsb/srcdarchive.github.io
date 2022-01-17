@@ -1,0 +1,21 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Michael "OgreSlayR" Lastovica    (Akira101@comcast.net)
+           Green - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+
+game:     doom2
+category: coop tyson
+mission:  map02
+
+time:     2:53
+
+
+
+OgreSlayer : Ok run..this map is a pain..my first tyson ever.
+
+Vincent : Oh yes, this was not easy. Lag became worse during this
+          session. That was a bit annoying.
+
+          
+Misc: Recorded using Kahn with a ping of 160-180 ms
+          

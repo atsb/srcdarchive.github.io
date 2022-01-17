@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV02-334.TXT
+EV02-334.ZIP
+
+EV02-334.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 02 - Human BBQ
+
+Kills    100%
+Items     66%           
+Secrets  100%  
+
+   ...and Time  3:34
+               ------
+
+
+Description: Nope not the last round.....
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

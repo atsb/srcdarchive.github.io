@@ -1,0 +1,86 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PF19-233.ZIP
+
+ PF19-233.LMP
+
+  PF19-233.TXT - Ultra-Violence -FAST
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 19 - NME
+
+  Kills:  116 / 116 (100%)
+  Items:    1 / 2   (50%)            ********
+  Secrets:  1 / 1   (100%) and Time  * 2:33 *
+                                     ********
+  C-N entry #38.	Date:03/17/2012
+
+
+  Description :)
+  I hope Ryback knows how deeply appreciative I am of his concern for my
+  wrist, it means a lot to me. Very few people in my life have shown any
+  concern for me, regardless of how serous the situation is.
+  
+  Here's what Ryback wrote in PF19-241.TXT:
+   "When I started recording this I hadn't seen Archy's updated 3:11, 
+    just the 3:51. Plenty of scrappy, hard fought playing, but the 
+    route looked like it could be made a lot more systematic. I 
+    think this way is the maxkill route, I haven't watched any of 
+    any of the records to make sure. So this is a first attempt
+    at that and it can no doubt be pushed a lot further. Really the 
+    only bit of the level that should be trickier with -fast is 
+    handling the pain elementals. 
+    
+    And Archy, about the wrist pain, try keyboard only! :) To be 
+    serious, I used to have a very mouse-intensive job involving
+    mapping software, and after about a year or so developed this
+    persistent, uncontrollable twitch underneath my right thumb and
+    forefinger. After a two week break it went away. Just give the
+    hand a rest and it may heal itself."
+    
+  I achieved PF19-311 by using... well I'll just show you what's in
+  PF19-311.TXT, it's will be much easier that way. Here's PF19-311.TXT:
+   "Much better than my shit PF19-351, I've overcome my wrist pain by using
+    just the keyboard when ever possible, i.e. not in a "sticky" situation."
+    
+  In this run, I did the Keyboard-mouse combo the whole time, but I've been
+  practicing using JUST the keyboard. My second best time on this map
+  killing all monsters and getting all secrets with the -FAST parameter
+  while use just the keyboard was 2:54; my fastest time using just the
+  keyboard was 2:5x; I think it was 2:51 but I was quitting pretty fast when
+  I saw a time above 2:40, so I'm not quite sure. Wish I hadn't overwritten
+  that demo, would've been a great file to attach to PF19-233.ZIP, I
+  could've let the world see my progress... but you're probably not
+  interested in that anyway; so ya.
+  
+  I don't know if I'll ever get to the point of being able to brake
+  COMPET-N records using just the keyboard but I must say, 2:54 is a pretty
+  decent time.
+  
+  Anyways, this is a good start. Thank you once again Ryback, and that was
+  quite an excellent rout.
+
+  
+  By the way, COMPET-N record was 2:41 by Ryback
+, timestamped:
+  Friday, March 16, 2012, 9:29:04 PM
+
+  Complete Historic COMPET-N Leaderboard:
+  PF19-553 - Yonatan Donner - 01/10/1997 [PLT19-GM]
+  PF19-430 - Revved         - 02/15/2010
+  PF19-351 - Archy          - 03/14/2012
+  PF19-311 - Archy          - 03/15/2012
+  PF19-241 - Ryback         - 03/16/2012
+  
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

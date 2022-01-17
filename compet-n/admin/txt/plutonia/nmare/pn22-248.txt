@@ -1,0 +1,37 @@
+This is a Final Doom .LMP "Competition" Entry - Please forward it...
+
+PN13-212.TXT
+
+  PN13-212.ZIP
+
+    PN13-212.LMP - Nightmare!
+
+    Recorded using Doom2.exe Version 1.9 
+    Doom2 -PlayDemo with Version 1.9 - only!
+
+    Final Doom - The Plutonia Experiment - Level 22
+
+    Kills     ??%
+    (Items    ??%)
+    Secrets   ??%   ...and Time = 02:48
+                                  -----
+
+Description: this demo is 2 months old, i tried to improve it... w/o success :-(.
+	    
+	     2 tricky parts here, the yellow key area...very luck dependent. And the 
+             red key area (with tons of barons and an archie).
+
+             I found a strange bug while playing...and that helps to complete this map
+             on NM. It involves a linedef skipping (like ev12) : it's a line on the
+             teleporter that you must skip, this line raises the sector with the 
+             barons and archie. When they're up it's a pain, reaching the red key w/o
+             BFG is impossible i think. When they are down, take care they can still 
+             shoot and claw you.
+
+             So this is a new trick :) only usefull in NM and it do not work very often.
+
+             note : another 1st ever :)   
+         
+Author: Vincent Catalaa	
+
+E-mail: vincentds@netcourrier.com

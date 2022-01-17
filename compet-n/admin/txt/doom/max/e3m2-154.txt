@@ -1,0 +1,31 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e3m2-154, e3m2-154.txt
+Date     : 2013-10-27
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : Max
+Map(s)   : E3M2: Slough of Despair
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  26%
+Secrets  : 100%
+Time     : 00:01:54
+===================================
+Description:
+
+I was just wondering Radek and Anders who were previous record holders didn't 
+pick up a rocket launcher. Certainly, you consumed several seconds for getting it, 
+but this map has 12 rockets. I therefore tried another route for it. I don't know 
+if this route is better or not, but I think it was worth a shot.
+
+
+89th Comepet-N Entry

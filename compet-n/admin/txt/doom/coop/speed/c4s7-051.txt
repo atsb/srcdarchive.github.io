@@ -1,0 +1,13 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Marko van der Want (markowant@freemail.nl)
+Indigo:    Arno Slagboom (slagboom@cybercomm.nl)
+
+game:     ultimate doom
+category: coop speed
+mission:  e4m7
+
+time:     0:51
+
+comments: The strafe-50 jump didn't work today,
+          so we took the normal route.

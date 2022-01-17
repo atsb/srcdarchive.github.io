@@ -1,0 +1,44 @@
+ This is a "COMPET-N/tnt/coop/speed" entry, please forward it.
+
+ ec30-127.txt
+
+ ec30-127.zip
+
+ ec30m133.lmp - Ultra-Violence Speed (McRocet)
+ ec30d133.lmp - Ultra-Violence Speed (DooMerMan)
+
+ Recorded using Doom 2 Version 1.9
+ Doom2 -PlayDemo -file Tnt.wad with Version 1.9
+
+ Final Doom: TNT Evilution - Level 30
+  
+               Kills   Items   Secrets
+              ------- ------- ---------
+ green          8%      50%       0%       McRocet
+ indigo         8%      50%     100%       DooMerMan
+ 
+             ********
+   Time:     * 1:27 *
+             ********
+
+
+ + McRocet´s note:
+ + 
+ + Big problem was at the start, where it was hard sometimes, one bad turn
+ + and you´re death :P
+ +
+ +
+ +
+ + DooMerMan´s note:
+ +
+ + Well :) Took as about 15 tries, it was pretty easy -> lan isn´t ZONE...
+ + method wrote (ec30-133.txt):
+ +
+ + > If erik with torn beat it we beat back :) <
+ +
+ + OK, we aren´t Erik-Torn duo but if you´ll try it - I must say, good luck
+ + boys..
+
+      
+ Green:      Petr "McRocet" Urban
+ Indigo:     Jakub "DooMerMan" Machata <DMrM@seznam.cz>

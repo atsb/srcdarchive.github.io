@@ -1,0 +1,179 @@
+This is a DooM .LMP "Competition" Entry
+
+N4M6-438.TXT
+
+ N4M6-438.ZIP
+
+  N4M6-438.LMP - Ultra Violence with -NightMare !!!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  DooM - Ep.4 Mi.6 - Against Thee Wickedly
+
+  Kills    134%
+  (Items    50%)
+  Secrets   66%  and Time  04:38
+                           -----
+  Maximum Minimum Health =  12 %
+                           -----
+
+  Description:  Oh, yeeeeees - I finanlly did it !!!
+                [One minute to take breath]
+                The last map of the whole doom/doom2 series to be completed
+                on nightmare. Not even the nightmare pioneer Anthe did this.
+                But he didn't know the trick, which makes it considerably
+                easier. I grab the red key through the wall, thus getting to
+                100% health and 300 plasma cells just in time for the extra
+                hard end part. I saw this key trick first in a (unpublished)
+                recording by Esko. BIG thanks to Esko for this!
+   
+      History:  (I've got so much to tell about this recording ;-)
+                It all began after I completed all doom2 maps on respawn
+                with 100% kills and secrets back in nov 97. I moved to
+                doom1 and recorded the harder maps first. Naturally I found
+                it most interesting to try u4m6 (the only uncompleted
+                nightmare map) on respawn. This was already too hard to do
+                (for me, maybe it's easy for you) w/o a detailed plan and lots
+                of practice. So I worked on it. My strategy to get to very
+                hard maps is to play them with rather high slowmotion first.
+                This is no cheating, acording to DHT5 rules it is allowed
+                and encouraged to use every kind of cheat (cheatcodes,
+                saved games ...) while pracising - NOT RECORDING THE FINAL LMP.
+                It really helps to find out what is possible and what isn't
+                and to find the most promising strategy - you only have to
+                be aware that you should not try stunts which are only
+                possible when playing with slowmo, because you will never be
+                able to play them in a real recording. To my experience you
+                will be able to play everything, that comes in normal when
+                playing it with slowmo in realtime too, after you have enough
+                practise. So that you do no longer need to think about what
+                you are doing and how to do it.
+                The time stays very different though, you are always a lot
+                faster in a slowmo demo. So I did r4m6 with a slowmotion value
+                of some 0x4500 first (time was 5:50) and recorded my r4m6-708
+                two days later, using almost the same route. This was back in
+                jan 98. At this time I tried n4m6 first, but was not able
+                to do it even with a slowmo of 0x7000, not even with saved
+                games! But I played that map very often in the time to follow.
+                First, to do the ep4 lightning (for the first time btw).
+                Later I played u4m6-248, u4m6-444 and f4m6-957 for compet-n.
+                Then came Esko, beating my f4m6 and r4m6 and introduced the
+                key trick. I defended my r4m6 in 3:38, w/o the key trick
+                (I don't think, that it helps when speeding).
+                But this new route, now possible with the key trick, made me
+                think about n4m6 again. I tried it occasionally since this
+                time....switched to mouse control...
+                ... and last week I started to try it for real. It took me
+                one day to figure out the route with slowmo 0x4500.
+                Only one hour later I did it on 0x4000. The next day on 0x3500.
+                The start with the maze is really annoying, though I like
+                that map very much. Therefore I practised the later parts
+                using saved games. I like the whole end part after entering
+                the big platform on which I grab the red key. Did it on 0x3000
+                the next day. It is a good motivation to play it on
+                successively smaller slowmotion, so you always have the
+                experience of success and in addition you are getting used
+                to playing the end sequence, so that you won't spoil the
+                REAL recording because of too much excitement. Now that I've
+                finished that map I must admit that there is a big
+                disadvantage with that technique: after completing it over
+                and over again (this is my eigth recording in which I reach
+                the exit, though the only one w/o slowmotion) you don't feel
+                the strong relieve as usual when it is done, 'cause it feels
+                like: "well, nothing special, I did it many times before".
+                Next day a try on 0x2500, where I died,
+                because cybie shooted me always off the end platform until
+                my invulnerability vanished. Next day successful on 0x2500.
+                It's getting easier and easier, the route each time a bit
+                more optimized. But then came the big drawback. Instead of
+                playing it w/o slowmo the next day I had the feeling, that
+                I can not Doom at all. I died at every possible location.
+                After all that dooming I was really tired - and I still am.
+                Two days w/o success. But this night finally ... I did it!
+                ... and it looks so ******** easy! I hope you believe me
+                nevertheless, that this has been the most difficult
+                recording I've ever made. Even harder than p1m32411.
+
+      Comments: For those who are still reading I explain my strategy and
+                give some comments on the recording.
+                I used to play the maze more safely than in this recording,
+                but after a several hundred tries I was tired of putting
+                too much emphasis on the beginning. On the big arena it is
+                helpful when the caco from the tunnel comes up, in this
+                recording this happened a bit too early, so I had no time to
+                kill the lost soul. It is a good idea to shoot the caco on
+                the tower, so that you can kill it faster when going for the
+                blue key. In that recording the caco gets killed by monsters,
+                which is not wanted - it may respawn just at the wrong time.
+                This time I hit the switch behind the baron w/o awakening him,
+                though I had enough health to afford this mistake.
+                The jump to the teleporter worked well, I had to practise it
+                ALOT. If you don't get the jump in the first try, your
+                chance to leave the tower with the blue key with a
+                reasonable amount of health decreases to some 50%. This
+                time the caco was dead and not blocking the way to the blue
+                key, I guess I was lucky here as it did not respawn. Then
+                down to the slime and acting very carefully, always got the
+                wall as shieling in the back. You should have at least 40%
+                health here. Then a little intermezzo with the lost soul,
+                I was very lucky here. Up to the yellow key, if the baron
+                stands in the way you are dead. Head for the middle column
+                to get the yellow key for sure. I was unlucky while leaving
+                from the yellow key, the baron hit me - down to 63%. Well,
+                this should rather be 100%.
+                Then the level gets fun. Up to the big platform, I use the
+                route on the left wall here and found rather few monsters
+                there. Nevertheless they managed to bring me down to 12%.
+                At least I got the red key in the first try. You have time
+                for two tries, then the cacos come up and you have to fight
+                them first. This is perfectely alright, as long as you stay
+                calm, you can still take the key after killing the cacos.
+                Well I prefer to get the key in the first try, especially
+                when at only 12% health ;-)
+                Then the teleport, and killing the cacos with the plasma.
+                A mouse really helps to do this kind of circlestrafing at
+                large radii. Up on the platform again, it is very important
+                to kill the cacos behind the bars. Then to the berzerk and
+                cells. I do not try to get the BFG, because if you enter the
+                teleporter by mistake you have no chance to survive.
+                I tested it several times, that the invulnerability lasts long
+                enough to kill cybie with the plasma (do not try it with the
+                rocketlauncher!). Then killing the cacos behind the bars again
+                and everything is well prepared for the teleport. I take the
+                rocketlauncher to kill the baron quickly and to safe plasma.
+                BFG experts may prefer the BFG, but I got killed too often in
+                the time the BFG needs to reload. And in addition I usually
+                don't have the BFG. Health is superb at this stage. Anyway
+                you got to have some luck with cybie's rockets, he can easily
+                shoot you after the teleport, no matter how good your health
+                is. Then comes the invulnerability. Unfortunately I loose some
+                time on the way to cybies platform, so it got dramatic in the
+                end. My pulse still goes to 200 bpm when I watch this scene ;-)
+                ...
+                Why did I write so much? Hey, this is U4M6 on NIGHTMARE!
+
+           PS:  Adam what about compet-n points for first nightmare
+                recordings?
+      
+          PPS:  I really wonder how difficult the top-players will find
+                it to play that map on nightmare too. On the other hand,
+                I can also imagine that for a long time there will be noone
+                patient enough to do it again.
+
+         PPPS:  I can mail you the cheated tries too if you like to watch
+                them.
+
+      Credits:  - Esko Koskimaa for showing me the key trick
+                - Istvan Pataki for making dtime
+                - John Keniry for moral support
+                - The doom engine for letting me reach the exit
+
+   Last words:  "Ich habe fertig!"
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

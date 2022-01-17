@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ221340.TXT
+
+ RQ221340.ZIP
+
+  RQ221340.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 22 - Arachnophobia
+  
+  Kills    100%
+  (Items   100%)          *********
+  Secrets  100%  and Time * 13:40 *
+                          *********
+                          
+
+  Description :-)
+  
+  A very fun level; compared to the complexity of other Requiem maps, this one is
+  refreshingly fast and straightforward.  It also has a bizarre special effect:
+  a sector where monsters go stupid, and rockets no longer harm you!  Other parts
+  to watch are the BFG guarded by six arachnotrons, and the rocket-fight at the
+  yellow door (VERY dangerous!)  This map is about medium difficulty, with all the
+  weapons and tons of ammo available...however you do need to save about 200 cells
+  for the final spider-battle.
+
+  Jason Henry
+  space@wgn.net

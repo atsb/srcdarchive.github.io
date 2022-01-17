@@ -1,0 +1,26 @@
+This is a .LMP for Yonatan Donner & Haggay Niv's "Hell Revealed"
+
+HF162630.TXT
+
+ HF162630.ZIP
+
+  HF162630.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using "DooM 2.Exe"
+  DooM2 -PlayDemo with "DooM 2 -file HR.wad"
+
+  Hell Revealed - Map16 - The Path
+
+  Kills    100%
+  (Items    83)         
+  Secrets  100%  and Time  26:30
+                           -----
+
+Description:  Thanks (mostly) to Esko for the route. Could have been faster
+              if I'd remembered those extra cell packs at the end. Somehow,
+              this level is more interesting on -fast.
+        
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com    

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rt26-349.txt
+
+rt26-349.zip
+
+rt26-349.lmp - Ultra violence Tyson
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 26 - Excoriation by Adam Windsor
+
+Kills    152%
+(Items     0%)
+Secrets  100%  and Time  03:49
+
+
+
+Description:
+
+The key is to kill a batch of wimps and let the archie to do his creative work.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

@@ -1,0 +1,381 @@
+Runner: Zero-Master
+Date: 2016-01-19
+IWAD: DOOM2.wad
+Category: NM-Speed
+Map: Movie 1-30
+Source Port: Competition Doom v2.0.3.2
+Time: 24:36 (24:51.06)
+
+		
+Map	Time	
+01	00:06	:)
+02	00:53	:)
+03	00:40	:(
+04	00:37	:))
+05	00:39	:)))
+06	01:01	:)))
+07	00:26	:)
+08	00:26	:))
+09	01:09	:)
+10	00:48	:(
+11	00:45	:)
+12	00:54	:)
+13	01:16	:)
+14	00:26	:)
+15	00:39	:))
+31	00:35	:)
+16	00:27	:(
+17	01:56	:))
+18	00:28	:)
+19	00:53	:(
+20	00:40	:)
+21	00:27	:)
+22	00:45	:|
+23	00:56	:)
+24	00:48	:)
+25	01:02	:|
+26	00:57	:(
+27	00:30	:))
+28	00:51	:)))
+29	02:00	:|
+30	00:36	:)))
+
+
+Description:
+Unbelievable run, not a single major mistake is something that I would never have expected.
+Of course there are smaller mistakes and time losses all over the place, but with all the 
+chaos and randomness that nightmare brings it's impossible to get a flawless run.
+
+It's been about 3-4 years since I started a short attempt at doing some doom 2 on nightmare.
+I remember I was playing some FPS game, I can't remember which one, all I know is that
+it was an easy game, so I wanted to try an fps game purely for the challenge.
+Needless to say when you have never even played doom with a mouse you give up on underhalls.
+So I wondered if anyone had ever done doom 2 on nightmare. That's when I came across
+a youtube video uploaded by Ryback, Nightmare Run in 29:39 (30nm2939) by Henning.
+
+I didn't pick up doom before 1-2 years later, you can read more about that in 
+my first demo, 30pl2523.txt. With all the new tricks and methods for doing
+them consistently it was very much a possibility to improve the run, and
+after doing 30uv2032 and 30pn4357 I was well prepared to improve 30nm.
+
+First exit was 30nm2925, 14 second improvement, which is terrible compared 
+to 30nm2939 considering how much time you save on route improvements. 
+30nm2939 stood for 6 years before it was beaten, then there was a new record
+by a different player, elimzke, in less than 24 hours! 
+
+A few weeks later the time was improved to 27:21, which is still not where 
+I wanted it to be. I didn't want to replace 30nm2939 by a run that was easier
+to do due to some tricks with a half decent time. I figured getting under 27 wouldn't 
+be too hard, assuming you survive through the game a couple of times :) yet a really good
+run would have to go under 26 minutes. That was before I did 30uv1959 and figured
+there is always a second or two to be saved if you just keep looking,
+and eventually I got to the point where under 25 minutes seemed to be resonable
+after including some of the 30uv route and a new trick on map 23!
+
+24:36 is several seconds under my goal, a time I'm very happy with, I wonder how 
+long this record will stand, because even I would feel scared trying to improve 
+this any further. Of course, it's always possible to go further in doom, no movie
+run will ever be truly optimized, so to whoever is crazy enough to try, I wish you the
+best of luck :)
+
+Big thanks to Henning for all his work in 30nm! and all other nightmare runners :)
+
+
+Map 01: Straightforward map, on nightmare you don't get blocked too often.
+Sometimes you take a bit too much damage, there is 50 health by the exit,
+but sometimes the imp manages to scratch you for 21\24 damage before you 
+press the button. Starting underhalls with less than 80% is usually a waste.
+
+I don't think I have ever had 5 seconds on nightmare, but I never try
+to go for that.
+
+
+Map 02: Underhalls is one of the hardest maps, main reason is the lack
+of weapons and armor and great deal of hitscanners. I no longer grab the 
+SSG on nightmare, as it probably costs more time than it saves, and it doesn't
+make map 03\04 much easier, except the exit demon. I now also do the glide,
+it's not as difficult as I would have thought, since respawn doesn't start
+before after a few seconds you often have enough time to get through if you
+have practiced guideless glides a lot before :)
+
+I then obviously have to take things a lot slower than if I followed the
+other route, I clear out the barrels from above before I jump down. 
+Even though the last area is a bit slow I end up getting a lot better times
+than if I did it the old way.
+
+I have the IL record here at 43 seconds, but taking things a bit slower
+for 30nm I think my fastest time was either 46 or 47 seconds.
+
+Map 03: I hope to kill the chaingunner with a shotgun before going down 
+to the secret area, so I don't have to pick it up after I go through teleporter. 
+I used to do the window skip like in 30uv, but it doesn't have much of an 
+advantage in 30nm, I would say they both give the same expected time,
+just this way is a bit more consistent.
+
+Sometimes you don't get to run straight past the demon at the exit,
+more often than not though it's not a problem. Best time is a 34 here,
+so 40 seconds is a bit slow.
+
+
+Map 04: My route for this map is very solid, it's both fast and safe to do.
+
+My best time is 34 seconds, though that requires you to run past the demon
+at the exit, which is rare. 37 seconds is a good time.
+
+
+Map 05: Very hard map, usually you take a lot of damage here, this time I 
+had plenty of health all the way to the end which allowed me to do things
+a bit faster than what I normally do. 
+
+39 seconds is an amazing time for me, 38 seconds is my best. 
+
+
+Map 06: Yet another amazing time, 1:01 when grabbing the secret is really good.
+If I have low health here I will usually kill the shotgunner in the corner to
+the left at the start. But if I do that then there is a chance some other shotgunner
+managed to place themselves at a bad spot and shoot me as I go for the elevator 
+jump, which gives me enough momentum to throw me off. 
+
+You never know how much damage you take from the spider mastermind, usually 
+you'll have enough health, but then comes the revenant who is always waiting
+for you at the top of the elevator as well. Sometimes you can lose a lot of health
+before you reach the second elevator.
+
+I managed to get both a keygrab and make the exit jump first try! Even though
+the jump isn't very difficult, I have failed it very often. 
+
+
+Map 07: 2 rockets on every mancubus, they usually always die in either 3 or 4 rockets.
+So I kill the one on the megasphere and hid behind the wall before I grab it.
+I usually leave 2 mancubi on the platforms, but I killed the 3rd one because
+I accidently hit him with a rocket already, and he has the chance to hit me sometimes
+so why not. 
+
+I hit strafe left before SR50, but I didn't fire the rocket so I only lost a second or so on it.
+
+
+Map 08: Managed to grab the key through the wall, I got through the cyber\barons
+very nicely. I probably could have skipped those last 10 rocketsand saved a second. 
+
+
+Map 09: I pretty much just spam rockets and plasma throughout this entire map.
+Sometimes it's nice to have mega armor left over for the next map.
+
+
+Map 10: Very dangerous map, grabbing the BFG is always very risky. 
+There are revenant rockets flying around and if you get badly blocked
+by the demons then there is a good chance they kill you. Not to mention a
+well positioned arachnotron. 
+
+Fortunately I had enough health to skip the 25 health this time, 
+but then I got blocked by the cyberdemon at the exit. So I lost 
+a bit of time to that, not to happy about it, but episode 1 has 
+been very good, 6:45 is only 7 seconds slower than my best time.
+
+
+Map 11: If you are feeling lucky here you can sometimes skip the soulsphere, 
+but that is a bit too crazy, then again you never really have the health
+leftover from map 10 anyways. 
+
+
+Map 12: Cacodemon room, it's really something on nightmare. You should
+always remember exactly what to do here, I did a few attempts where I just
+died over and over because I didn't do exactly as I planned. Even then it 
+doesn't always work out, a lot of luck involved usually, all about those 
+fireball damage rolls, as you can take 5,10...40 damage.
+
+I lost a few seconds when I got hit by a fireball so I had to wait for the elevator,
+would have been an amazing time if that didn't happen.
+
+The start of the map is straightforward, though I have died trying to get
+past the shotgunners after green armor.
+
+
+Map 13: Hard to die on this map because of invurnabilities, but it has happened. 
+Very easy to lose time, this time the mancubus didn't die, and that caused me to 
+miss the elevator as well. Still I didn't fail either jump after the teleporter
+which is not to uncommon, so the time isn't terrible.
+
+
+Map 14: Thankfully Looper discovered this trick, makes map 14 a lot easier on nightmare.
+I pretty much always get 26 seconds here when I kill the imps in the building, if not
+then I always seem to get 24 seconds. 
+
+
+Map 15: Previous run of the day died here, first time that's happened. 
+I got hit by several hitscanners at the same time to push me when I went for the jump, 
+managed to get a second try but I missed the switch and had almost no health left.
+This time everything went as expected, very good time too. 
+
+
+Map 31: A lot more lucky than usual here, almost no damage, so I don't 
+have to grab any health on the next map which saves a couple of seconds.
+
+
+Map 16: As long as the BFG kills the revenants this map should be easy. 
+I failed to do the glide properly, so one of the bigger mistakes of the run,
+still only around 5 seconds lost to that.
+
+
+Map 17: Very dangerous map, you can save a second or two by killing 
+the imps straight away, but respawn might give you trouble then. 
+Make sure to use a rocket to clear any imps standing right next to it,
+having them scratch you from above forces you to either lose a lot of health
+or time.
+
+The revenant at blue key area has some amazing abilities, I've seen him 
+curl those rockets around and hit me just about anywhere, so unpredictable.
+
+Then comes the yellow key area, the chaingunner sometimes refuses to die and
+goes hiding and shows up at a really bad time. The worst part is the arachnotron,
+you just hope that you get to painstate him before he tears apart your health. 
+
+There is a lot of health you can grab on this map, which helps a lot. 
+Mostly everything went flawless this time, so I got a really good time. 
+
+
+Map 18: Straightforward map, only this time I skip invurnability because
+it's not really needed, still need the soulsphere.
+
+
+Map 19: This map is easy, I've never been close to dying. 
+Unfortunately 53 seconds is really slow, about 5 seconds lost.
+
+
+Map 20: I've died a couple of times to the pain elemental after the teleporter.
+This time I use the BFG because I should be able to afford the cells, and
+then I make sure to walk very slowly into the teleporter, plenty of times in practice
+I've moved somewhat slowly and still skipped the trigger. Never lost a run
+to getting stuck, I think that might be even worse way to lose a run than chasm wallrun.
+
+Perfect health at the exit of this map, that never happens, time is ok.
+
+
+Map 21: Never happen to have full health from map 20, but what happens next is
+even more rare, I took almost no damage before reaching the imps! 
+The amount of luck that takes is unreal (I'm not that good at dodging 50 projectiles :) 
+
+150\150 is plenty for the next map, well, it's map 22 so there's never enough health.
+
+
+Map 22: One of the harder maps, I've practiced it a lot and it shouldn't really
+be a problem. Yet in single segment this map turns out to be very tough. A couple
+of days ago I had an attempt where I went through the teleporter to the center area
+after grabbing red key and I had 4(!!!) chaingunners surrounding me! 
+
+I did however survive but the timeloss and failed skip on map 23 killed the sub 25 hope.
+Also it went all the way, so 30nm2629 which was not a new record.
+
+This time I took a couple of hits after the first teleporter, and then by the baron.
+It wasn't looking too good, but it worked out, a lot closer than I would have liked.
+
+Not the best time, I can save 5+ seconds if I make the jump to red key door area,
+but there can either be chaingunners, spectres or a revenant blocking you so it's
+not very likely. 
+
+Map 23: I will copy 30nm2620.txt here to explain what I do at the start, 
+but first I would like to mention the first BFG I used on this map. 
+
+Sometimes I would reach this map with low health, which means you have maybe a
+5% chance of grabbing the berzerk pack without dying to chaingunners destroying the barrels.
+
+I wondered if there was some way of making it safe even with low health, so I somehow
+thought of using the BFG to clear the barrels, not sure if it was by accident I 
+shot the BFG before entering the teleporter so as to not wake anything up and 
+using the secondary attack to clear the barrels.
+
+But then the interesting part, I tried firing the BFG in the same direction I
+am going without turning 180 degrees, and I end up destroying the barrels behind me!
+I had no idea the BFG could do this, anyways from 30nm2620.txt:
+
+"first demo to ever show this completely new trick! 
+(well, it's just a linedef skip) and it's the only trick I have ever discovered :)
+
+I run forward, stop, walk forward, turn left and then use straferun50 to
+skip the linedef that opens the wall for the mancubus and do the barrel wallrun.
+
+The linedef skip was accidently discovered during 30uv practice, which is
+surprising since afaik I need to first move forward and I have to be at a very
+precise spot for this to work. So because I use vertical mouse movement I would
+sometimes turn around and also move away from the direction I want to move, which
+would cost me a few tics in 30uv, but then I somehow just skipped the linedef.
+
+It wasn't until I started 30nm again that I looked into it, and at first I was 
+thinking I must have been imagining things because I could not replicate it, or
+used noclip. Then eventually I did manage to do it, and I noticed that I needed
+an extremely precise position, impossible to do consistent if I even have my hand 
+on the mouse. By simply trial and error I found a setup that worked eventually.
+
+Of course a linedef skip (when you run south direction) isn't something hard to do, 
+but it was not obvious it could be done with such a small distance from the linedef itself.
+
+Recently I noticed Xepop did something similar in nm20-039, and it's a bit easier
+to do on that map, which could be nice for the 200 cells + rad suit, unfortunately 
+the imp attacks too quickly for there to be any chance of getting in consistently.
+Then again it would be hard to save the time lost with the 200 cells, so doesn't really matter."
+
+Happy that I managed to get this trick in, I lose a few seconds to using the BFG at the start though.
+
+
+Map 24: The start is straightforward, just don't fall off!
+I really hate the part with the lost souls, as they can block you and throw you 
+right into the pit where you cannot get out of. I use a BFG to clear a few of
+them, though I'm not sure how much of a difference it makes, wastes a couples of seconds.
+
+I have a different setup for the wallrun than what I used in 30uv, it's a bit easier to do, 
+but it also has a more precise position, luckily it's easy to tell.
+
+Always very relieved when I make the wallrun.
+
+
+Map 25: This map can be very random, goes ok this time.
+
+
+Map 26: Enough health leftover from map 25 so that I don't have to worry too much
+about the start. Lost a run (a bad one fortunately) because I failed to kill the first
+baron. It's also possible to skip the secret here, it saves a lot of time, but you
+will most likely lose a few seconds on map 27 because you have to grab the health\armor.
+
+Also it's better to take risks earlier in the run than on map 26 :)
+
+Got blocked a bit much by cacodemons so not the best time.
+
+
+Map 27: Good time, everything went as I hoped. Sometimes the arch vile doesn't
+open the door, nothing you can do about that, but he did this time.
+
+
+Map 28: I didn't really need to grab the first invurnability here, but I know I have a
+good run so I don't want to risk it for 1-2 seconds, probably didn't need the mega sphere either. 
+Still a very good time!
+
+
+Map 29: This map is quite slow in the beginning, lots of health, have to wait for the elevator
+to rise up, and then some sections where you just use a couple of BFG's :)
+
+Then all of the sudden you are really close to the end with some really difficult sections coming 
+up. First of all you have to clear everything quickly which isn't too bad, then you have to
+hope that respawn doesn't destroy your attempts of making the jump to the teleporter. 
+It is possible to not use the setup for the jump like I did which could remove the respawn problem,
+but personally the difference in success are really small, and for some reason I cannot explain 
+I just prefer to leave the run to luck. Perhaps it's because I know it would be easier to blame
+the game should I fail it, or maybe removing the possibility to failing it because of nerves is better.
+
+The last run to the exit can be terrifying, but if you have enough health it's not too bad :)
+
+
+Map 30: You've finally made it all the way, and there is a possibility that on the very
+last map you get some really bad luck which is near impossible to deal with. Perhaps a 
+Pain elemental, arch vile or revenant at the wrong time can ruin everything. 
+
+I try not to think about it and just go for it, I know exactly what to do, even if
+I get some bad spawns I have some things I can do. Then I get some of the most beautiful 
+spawns I could ever hope for... mancubus, imp, demon, hell I can't even see the 4th
+spawn because it just died to my BFG, so probably imp and then another demon...
+
+36 seconds is the perfect time with this strategy, which is to clear the first 2 spawns
+and should you be unlucky with 3rd spawn you still have a chance to kill them with BFG,
+4th spawn is usually easy to deal with. PE will spawn lost souls on death so that will
+always be a bad possibility. 
+
+Hope you enjoyed it :)

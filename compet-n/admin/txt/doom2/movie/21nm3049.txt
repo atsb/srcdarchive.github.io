@@ -1,0 +1,120 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+21NM3049.TXT
+21NM3049.LMP
+21NM3049.ZIP
+
+21NM3049.LMP - NightMare!
+
+This is a Compet-N/Doom2/MOVIE Entry...
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+                           
+       
+                              Time  
+-------------------------------------------------------------------------------
+LV01   Entryway               0:08 
+LV02   Underhalls             1:21
+LV03   The Gantlet            0:39
+LV04   The Focus              1:06
+LV05   The Waste Tunnels      1:08
+LV06   The Crusher            1:33
+LV07   Dead Simple            1:18
+LV08   Tricks and Traps       1:17
+LV09   The Pit                1:38
+LV10   Refueling Base         0:56
+LV11   O Of Death	      1:21 	
+LV12   The Factory            1:28
+LV13   Downtown               2:06
+LV14   The Inmost Dens        1:51
+LV15   Industrial Zone        0:42
+
+------------------
+LV31 Wolfenstein              0:43
+LV32 Grosse                   0:38
+------------------
+
+LV16   Suburbs                0:44
+LV17   Tenements              3:20
+LV18   The Courtyard          0:49
+LV19   The Citadel            1:25
+LV20   Gotcha!                1:17
+LV21   Nirvana                1:21
+LV22   The Catacombs          Not completed :-(
+--------------------------------------------------------------------------------
+			
+  ... And TOTAL Time will be 30:49
+                            -------
+
+
+Description: ok, this isn't my first 21nm but the only one I could be abit 
+             satisfied with. Next time I'll upload, will be when I at least 
+             get's to 29. Anyway think I used all the best routes possible 
+             here I usualy don't take the fastest route in map15 but this time 
+             I was very healthy and had lotsa armor. My normal time will be 
+             around 1 min here.                   
+             
+             If you wanna complete doom2 on nightmare there are certain stages
+             that at least I had to go throu....to get up to map22 at least :)
+             
+      Note!! As you all know Panter already did a fantastic 30nm so you can 
+             also read his .txt ofcause. Maybe you like more his way of doing
+             things. Though it's pretty much the same.
+             That will also give you hints about how to to the following maps 
+             after 22....and the map22 itself :-)
+             
+             I used most of his routes anyway....Thanks !    
+
+     Map04:  The first little problem occures in map04, but you will get the
+             grip on this one easily. Just use the right tactics and you'll be
+             fine. Belive me map02 and 03 are harder. 
+
+     Map05:  As you play on, someone might find the ending scene in map05 hard. 
+             (you read this Arno :)
+             Well I'll say, just wake up two of the cacos....you eigther kill 
+             them both with the Rl or only kill the one right next to you.
+             I never had any problems with this one, so you shouldn't 
+             eigther :) Though seeing the lost souls here aren't a good idea, 
+             still it isn't to risky if you have 150\150 here. The alternative 
+             route here will be to run back were you came from. 
+
+     Map07:  I have been collecting over 50< nm06 .lmps. Map07 is unfair when 
+             playing nm. You will die here ALOT, and it's a real trouble maker. 
+             and I know it will become boring always dying there. But now I 
+             have a survival rate at 80% here. It's real fun to get past that
+             bitch all the time. 
+
+
+     Map12:  I really can't see any hard parts until this shows up. The only
+             really hard part here is the end room. Yeah you know what I'm
+             talking about. But it's nothing against getting past map07. 
+             I played stupied here this time and I exit with 5%. This usually 
+             don't happen.
+        
+              
+    Map15:   Could get tricky and I have died some times in here. I DON't 
+             recommend the route used here. There are many alternative routes 
+             here. I normally take the 200% + the rad-suit and jump down in the
+             lava, then I'll activate the switch from downstaris. The I'll 
+             ofcause run towards the invul. This should offer you great saftey.
+             And time will be around 1 min. 
+
+    Map17:   This is my Personal trouble map. Don't think it should be, not 
+             good here eigther. DO NOT trigger the first lindef with red-key.
+             Then HELL is really lose. Have done this and I had no chance.  
+             
+
+    Map22:   OK here ends my journy. I used to much cells in map18 cause I 
+             didn't get my invul. Almost died there too, down to 10%< again :(
+ 
+
+Wanna thank all the people that created these routes, I certantly don't have 
+a route brain :)) I just did some small modifications there and there. Maybe 
+some better weapon usages. Remember to use as much cells you can up to map32.
+
+ 
+
+Author: Henning Skogsto
+E-mail: hskogto@c2i.net

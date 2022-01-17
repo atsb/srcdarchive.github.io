@@ -1,0 +1,66 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+pn08-019.zip
+ pn08-019.lmp
+ pn08-019.txt
+
+Recorded using Doom2 Version 1.9, Win XP, -nosound
+
+doom2 -file plutonia.wad -playdemo pn08-019
+
+Plutonia - Level 08 - Realm
+
+Category: Nightmare!
+
+Totals:
+
+Kills	  4%
+Items	  0%
+Secret	  0%
+
+Time    0:19
+
+
+Comments: 
+
+Equalling my UV time from a couple of years back. I'd
+given up on Nightmare then as being too frustrating, but 
+Archie and the chainies were co-operative today and this 
+didn't take too long. But on the downside I did 
+accidentally swallow a mint humbug during the session and 
+thought I was going to die!
+
+This map was mentioned recently (Xit had done a Nightmare 
+demo which I'd missed originally) in the context of how to 
+do this kind of "flat-face" glide, and as this is probably 
+the best map to practise on I thought I'd take the time to 
+explain my method.
+
+1) Use vanilla Doom (nosound is OK here), be recording, 
+set mouse sensitivity to the lowest, don't disable vertical 
+movement, adjust your monitor so it shows the *entire* picture.
+
+2) Run towards the gap and keep on running - you will slide 
+against the wall. Turn straight until you no longer seem to be 
+sliding - this is easier while recording as angles are 
+"chunkier".
+
+3) Slowly mouse-strafe until you are almost precisely aligned 
+with the gap.
+
+4) Run against the wall - you will slide very slowly left.
+This is how you move precisely into position. You can tell 
+the position is right immediately the first column of 
+pixels of the front face of the left wall comes into view 
+(this is why you need to see the whole picture - the contrast 
+is very clear on this map but it usually isn't so!).
+
+5) Edge directly forward with the mouse as slowly as you 
+can - just push hard enough for your gun to start trembling.
+With a bit of practice it should go rather easily on this map, 
+but on others it's a lot harder and you may have to make 
+repeated tries for minutes at a time for it to work.
+
+
+Author:	"cack_handed"
+11/01/2009

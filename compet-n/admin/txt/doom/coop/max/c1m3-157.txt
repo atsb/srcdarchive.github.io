@@ -1,0 +1,35 @@
+This is a "COMPET-N/doom/coop/max" entry, please forward it.
+
+c1m3-157.txt
+
+ c1m3-157.zip
+
+  c1m3d157.lmp
+  c1m3s157.lmp
+
+  Recorded using Ultimate Doom Version 1.95
+  Doom -PlayDemo with Version 1.9
+
+  Level e1m3 - Toxin Refinery
+  
+           Kills    Items   Secrets
+
+  Green     47%      45%      100%      SlagDooM
+  Indigo    43%      15%        0%      Dark Friday
+
+
+  Time:    1:57.82
+
+
+Dark Friday: Well, the beginning sucks, the rest too :) But hey, it's a record :)
+             This was the first record of the 2-sept. day. I enjoyed this level,
+             although on all the tries, this one, on my part, sucked the most
+             of all those tries. Damn, why was this try the record? :)
+    
+SlagDooM:    Great coop level, because the players can split up 2 times.
+             Fragcount is very low when coopping this level. :)
+
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Bjorn "Dark Friday" Hamels       (bjorn@hamels.nl)       
+  

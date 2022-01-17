@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CF27-622.TXT
+
+ CF27-622.ZIP
+
+  CF27-622.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M7 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 06:22 
+                            
+                          
+
+  Description: Chaotic start, and a few mistakes. You can probably
+               play riskier than this.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

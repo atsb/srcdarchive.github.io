@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F3M2-342.TXT
+
+ F3M2-342.ZIP
+
+  F3M2-342.LMP - Ultra Violence with -FAST 
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 3 Mission 2 - Slough of Despair
+
+  Kills    100%
+  (Items    ??)         
+  Secrets  100%  and Time  03:42
+                           -----
+
+Description: One more empty space in COMPET-N... The interesting thing in this
+             map is that each category requires a completely different route,
+             otherwise it's a bit annoying and very confusing (my first try was
+             5:29...) But after some more tries you find that nearly always 
+             everything goes right, for example there are two moments when i
+             turn around and see a demon or a spectre running behind. And that
+             demon was always there, i didn't have to go and search for him a
+             single time. However, i'm not a very good route planner, probably
+             it's far from being optimized (as i said, this map is really 
+             confusing :)
+
+             Btw, while playing this map, i happened to kill a lost soul with
+             a single SG shot _three_ times and i've never succeded to do that
+             ever before, i didn't even know it was possible. Maybe this map is
+             special? :)
+
+
+Author:    Donatas Tamonis
+E-mail:    dtamonis@takas.lt       

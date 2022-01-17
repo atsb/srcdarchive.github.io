@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+14NM1045.TXT
+
+DME1M1NM.TXT
+
+ 14NM1045.ZIP
+
+ DME1M1NM.ZIP
+
+  DME1M1NM.LMP - NightMare! (Can handle it! ;-)
+
+  Recorded using DooM Version 1.666
+  And Converted to DooM Version 1.9
+  SO
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  Note that this does NOT work with
+  DooM -PlayDemo with Ultimate DooM
+
+  Unless you use the BAT and/or WAD
+  Included :-) Just type "DAVME1NM"
+
+  DooM - Episode 1 Mission 1 to Mission 5
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  E1 M1  -    134%   44%   66%        1" 58    ( 99 193)
+  E1 M2  -     68%   30%   50%        2" 20    (153 153)
+  E1 M3  -     91%   23%   14%        3" 27    (103  55)
+  E1 M4  -     87%   86%  100%        3" 00    (132 129)
+  E1 M5  -    1??%   ??%   ??%      [ Damn! Saw the Exit
+                                      Missed the Armour! ]
+
+                     Total Time =    9" 105
+
+                                     9" +
+                                     1" 45
+                                    ------
+                     TOTAL TIME =   10" 45
+                                   --------
+
+  Description :-)
+
+  Here I include a lmp of levels 1-4 in a single take.
+
+  This is just another solution for E1M3 on much easier
+  conditions. Hope you like it.
+
+ Davorin Mestric
+
+ davorin.mestric@etf.hr
+
+

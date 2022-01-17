@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m223-304.TXT
+
+m223-304.ZIP
+
+m223-304.LMP - Ultra-Violence Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 23 - No Way Out by Eric Sargent
+      
+Kills      32%
+Items      6%
+Secrets    11%	and Time - 3:04 
+
+
+Description:
+
+Next demo should be under 3 minutes.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+25.08.2005

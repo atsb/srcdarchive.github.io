@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+200-RE28.TXT
+
+ 200-RE28.ZIP
+
+  200-RE28.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 28 - The Spirit World
+
+  Kills     29%
+  (Items    36)
+  Secrets   42%  and Time  02:15
+
+  Minimum Maximum Health = 200 %
+                           -----
+
+  Description :
+  One of my favorite maps. I've tried to play it unhitten on nightmare
+  but the fast spidermastermind always stroke me. On respawn with SLOW
+  monsters it's much easier, in fact this was my very first try.
+  BTW: What do level 8, 18 and 28 have in common? Yes, they can easily
+  be played without any damage.
+
+  Author: Rini (Steffen Udluft)
+
+  email: rini@mppmu.mpg.de
+

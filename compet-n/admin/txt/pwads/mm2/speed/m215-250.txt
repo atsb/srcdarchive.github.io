@@ -1,0 +1,38 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m215-250.lmp                        |
+            | Category: UV Speed                            |
+            | Map Level: MAP15 - The Devils Coterie         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     41%                            |
+            |      Items     29%           ********         |
+            |      Secrets    0%  and Time * 2:50 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Almost identical to m215s251, maybe slightly better. One green armor   |
+| less collected. In theory, it is the secret exit demo which should be  |
+| one second faster, so this one is effectively two seconds better than  |
+| the previous one. It may sound too corteous, but Eugene's initial      |
+| demos were very good as table-fillers - much better than his *first*   |
+| m216 and m222 entries.                                                 |
+|                                                                        |
++========================================================================+

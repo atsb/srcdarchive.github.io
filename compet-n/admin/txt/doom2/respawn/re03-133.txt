@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+RE03-133.TXT
+RE03-133.ZIP
+
+RE03-133.LMP - Ultra Violence with -Respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 03 - The Gantlet
+
+Kills    101%
+Secrets  100%  
+
+   ...and Time  01:33
+               -------
+
+
+Description: It's funny the max record have always been very good here.  
+             Therefor I'm glad I managed to finaly bring this one down to
+             a level were the respawn is faster than the max record :-)
+
+             Had a 01:27 with 98 or 99% kills here. This is not far from 
+             optimal I think. A very good time will be under 01:30. 
+             Anyway, had a couple of 01:31 and 32 with 99% and 98 Kills.
+             But I'll leave this one for now.
+
+
+Author: Henning Skogsto
+E-mail: hskogto@c2i.net

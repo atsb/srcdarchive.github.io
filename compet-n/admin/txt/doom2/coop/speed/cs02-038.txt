@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs02-038.txt
+
+ cs02-038.zip
+
+  cs02v038.lmp 
+  cs02z038.lmp  Ultra-Violence
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP02
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:38
+
+
+Selim   : I disagree with Tarkovsky's dark vision of 
+          human progress ...p
+Vincent : another dutch-beater, 5 mins job (;
+
+Green:     Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:    Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

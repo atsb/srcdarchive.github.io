@@ -1,0 +1,26 @@
+| This is a Compet-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt-fast-map10-0025594.lmp & tnt-fast-map10-0025594.txt
+Date     : 2016-11-06 19:56 Philippine Standard Time
+Game     : Final Doom - TNT:Evilution
+File     : Doom II v1.9
+Category : UV-Fast
+Map(s)   : MAP10: Redemption
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : Justin Baliao
+Nickname : tinotormed
+Country  : Philippines
+Email    : justinbaliao@yahoo.com
+WWW      : https://www.youtube.com/channel/UC88vplWgds4i4Ua-2bJMDIA
+-------------------------------------------------
+Kills    : 100%
+Items    : 20%
+Secrets  : 100%
+Time     : 00:02:55.94
+===================================
+Perhaps this may be my first Compet-N demo I have ever made. Redone this map after
+the Competition Doom database does not accept 'Fast' demos. Used the same strategy
+as my CNDoom run on the regular 'max' except I used the SSG / Chaingun combination
+to take out the Pain Elementals, Arachnotrons and Revenants in the yellow key area.
+Below three minutes is my optimal target, and I did manage to do it. :P

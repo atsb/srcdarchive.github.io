@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M5-105.TXT
+N1M5-105.ZIP
+
+N1M5-105.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Doom 2 - E1M5 - Phobos Lab
+
+Kills     56%
+Items     44%
+Secrets   22%
+Time     1:05
+         ----
+
+Description:
+Entry #20, a rather strangely designed level, IMO.
+
+AdamW wrote: I think the phrase for the exit room is "HA HA HA HA HA i'm a lucky
+             little fucker". Hehehe :). Under 1:10 is possible here, if you don't
+             bother clearing the imp corridors. Credit to Chris for some route
+             help here, especially the neat first few seconds and showing that
+             the UV method is possible at the door to circle room.
+
+The end of Adam's run is pretty funny, so I included the demo in this zip.
+I recommend watching it before watching this one.  The monsters tie me up
+a bit at the end because I wasn't brave enough to try and recreate the
+effect. :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

@@ -1,0 +1,31 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m2052751.lmp & m2052751.txt
+Date     : 2013-10-13 02:08
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map05: Rites of Passage by Paul Noble
+Skill    : 4
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  75%
+Secrets  : 100%
+Time     : 00:27:51.83
+=========================================================================
+Description:
+
+I always thought there was not enough ammo here. 8 boxes of bullets vs.
+21 cacodemons + a few hell knights which were unreachable by fists.
+It turned out that, thanks to the layout / teleporter system, I can
+arrange many caco vs. hell knight battles. Next one will be probably
+one of the following: m223 (tried this since 2010...), rt15 (damn BK)
+or rt24. All of them are much harder than this one.
+
+128th Compet-N entry

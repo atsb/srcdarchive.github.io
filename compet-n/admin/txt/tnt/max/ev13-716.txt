@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN13-716.TXT
+
+ TN13-716.ZIP
+
+  TN13-716.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 13 - Nukage Processing
+
+  Kills    100%
+  Items     90%           ********
+  Secrets  100%  and Time * 7:16 *
+                          ********
+
+
+Description: Only my second "fast" attempt where I reached the exit. The Cybie
+	     fighting some monsters is a side-effect. I only wanted to get to
+	     the Supershotgun. And If I am there, I can take the Invulnerable,
+	     can't I? And the only useful place for it is to fight the Cyber-
+	     demon. Ok, there is a berserk in that map, and Demonlord showed
+	     us that you need no other weapon to kill a Cyberdemon, but it costs
+	     a little time. BTW, there is no Plasmagun nor BFG in that level
+	     and there are to small places near the megaarmor you can't reach!
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

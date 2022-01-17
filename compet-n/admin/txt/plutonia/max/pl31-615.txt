@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL31-615.TXT
+
+ PL31-615.ZIP
+
+  PL31-615.LMP - Ultra Violence
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 31 - Cyberden
+
+  Kills    100%
+  Items    100%		   ********
+  Secrets  100%  and Time  * 6:15 *
+                           ********
+
+Description:
+
+	Dunno if I ever killed Cyberdemon with SSG before. I had practise
+	a long time ago in cybrdeth.wad, with rockets/plasmagun and more
+	difficult with Shotgun. And not one Cyberdemon at a time, but 6.
+	Sorry Yonatan that I've taken over one of your records, you are free
+	to strike back. As I watched your LMP I had noticed a cell pack
+	behind the Revenants, you see that it's very helpful. The rest of
+	the time improvement I gain at the Barons, but rockets are dangerous
+	there, it's my favourite suicide place there :). I think the map is
+	not that difficult, but a very good training map indeed, wide open
+	area to catch every rocket :) I dunno how much time it saves when
+	you are able to make some 3000 Hitpoints BFG shots at the Cybies,
+	I think it is too dangerous. I like to waste BFG for crowds of mon-
+	ters, such as Pigs and Revenants, even if Revenants survive the
+	traces of one BFG shot. So I fire 2 or 3 :)
+	If you really want a challenge, I think Hell Revealed map 32 is what
+	you should play. I still can't believe that Yonatan survived it.
+	One time 3% health right in the middle of a crowd of monsters and
+	2 Cyberdemons, and the other scene I wondered about was that he wasn't
+	telefragged by the Icon Thrower (oh yes, a 10 minutes map with an Icon 
+	Thrower! You will never run out of monsters ... :)
+
+Yonatan: "Hmm, the text file seems very long, I am probably learning from Kai"
+
+	I like the long text more :)
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:    http://user.cs.tu-berlin.de/~gazelle/ [doom.html]
+
+IRC:	@#berlin	[*.de server /irc.funet.fi/irc.stealth.net]

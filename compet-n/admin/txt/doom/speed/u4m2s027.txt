@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/doom/speed" Entry - Please forward it...
+
+U4M2s027.TXT
+
+ U4M2s027.ZIP
+
+  U4M2s027.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  Mission 2 - Perfect Hatred - Secret Exit
+
+  Kills     28%
+  (Items    45)
+  Secrets  100%  and Time  00:27
+                           -----
+
+
+Comments: It's now my 6th or 7th 0:27 but this has got the best
+          time (27.28). I wonder what a built one would be like.
+          I just don't think I can make THE jump there, because
+          the Cacos haven't moved away soon enough. It's not a
+          good map for /built. Apart from that you don't have to
+          jump down to the imps but can directly jump into the
+          teleporter. The problem is that you have to cross one
+          of the stair-sided lines, the other two aren't tele-
+          porting lines :(
+
+          How about some deathmatches on this map?
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+          humpert@zib.de
+
+WWW:      http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

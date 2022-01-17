@@ -1,0 +1,29 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : f4m6-314.lmp, f4m6-314.txt
+Date     : 2015-03-01
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Fast
+Map(s)   : E4M6: Against Thee Wickedly
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  50%
+Secrets  : 100%
+Time     : 00:03:14
+===================================
+Description:
+
+UV-Max route was also available on UV-Fast, but it was hard to survive 
+without a soul sphere and a blur artifact.
+
+
+105th Compet-N Entry

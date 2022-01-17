@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c4n4-029.txt
+
+ c4n4-029.zip
+
+  c4n4-029.lmp   Nightmare 2-player coop
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E4m4
+
+           Kills    Items   Secrets
+
+  Green    	8%	19%	0%     Opulent
+  Indigo 	5%	38%	0%     Peroxyd
+  
+
+  Time:      :29
+
+
+Opulent :  Improvable, but we spent almost no time on this.
+	   quite clean and easy.
+
+Vincent :  Rather fast to pull out, I guess 27s would not be too hard to get
+ 
+Green:      Doug "Opulent" Merrill    (opulent@cox.net)
+Indigo:     Vincent "Peroxyd" Catalaa (vincentDS@netcourrier.com)

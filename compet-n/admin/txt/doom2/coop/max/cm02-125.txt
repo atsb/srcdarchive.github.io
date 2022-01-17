@@ -1,0 +1,26 @@
+MA01NET2.TXT
+
+ MA01NET2.ZIP
+
+  2 players Cooperative - Ultra Violence - Max Kills & Secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02 - Underhalls
+    
+            Kills Items Secrets
+
+  Green  -     60%   28%  100%
+  Indigo -     34%   23%    0%
+
+       and Time  1:25
+          ------------
+
+Description: Could be a lot faster if Nicolas helps me in the end
+
+Authors:     Green :  Vincent Catalaa
+                      peroxyd@wanadoo.fr
+
+             Indigo:  Nicolas Gandou
+		      ngandou@wanadoo.fr

@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV06NET2.TXT
+
+ UV06NET2.ZIP
+
+  UV06NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 06 - The Crusher
+
+           Kills    Items   Secrets
+
+  Green      46       82       33
+  Grey       47       11       66
+
+  Time:    2:24
+
+
+Comment:        Failed to jump and blocked dasa. :-(
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+

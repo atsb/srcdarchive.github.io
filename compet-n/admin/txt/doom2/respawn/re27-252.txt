@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE27-252.TXT
+ 
+ RE27-252.ZIP
+
+  RE27-252.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 27 - "Monster Condo"
+
+  Kills    101%
+  (Items    66%)
+  Secrets   87%  
+
+          ...and Time   02:52
+                       -------
+
+Description:  I was watching Zvonimir's demo and found out he played on
+              skill 3. So I did this instead of telling it Adam. I was
+              suprised that the teleport didn't work, at least I got
+              a few Revenants more.
+ 	     
+
+                              
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz

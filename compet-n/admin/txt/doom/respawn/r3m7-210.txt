@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M7-210.TXT
+
+ R3M7-210.ZIP
+
+  R3M7-210.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    100%
+  (Items    75)
+  Secrets  100%    and Time  02:10
+                             -----
+
+Description:	I belive this is one of the uygliest maps in Ultimate Doom.
+		Bad structur, textures.................!
+
+		Oh well. I didn't know if I would bader making this LMP, but I
+		saw many mistakes in Rini's LMP, so I decided to go for it. I'm
+		not todaly saticfide whith this recording. I did beat Rini with
+		11 seconds, but there are still many things that can be done
+		better. F.eks. all the hanging in the monsters, the second blue
+		door is "slow" to open................
+
+		This is not an hard map. The hardest thing I belive, is the
+		jump with the yellow door (it's not to hard when you have found
+		a way).
+ 
+Author:   Jan Endre Jansen
+E-mail:	  jejansen@uldals.vgs.no
+Homepage: http://home.sol.no/~doom/

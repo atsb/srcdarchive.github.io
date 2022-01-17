@@ -1,0 +1,85 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV27-107.TXT
+
+ LV27-107.ZIP
+
+  LV27-107.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 - Monster Condo
+
+  Kills     12%
+  (Items     4)
+  Secrets    0%  and Time  01:07
+                           -----
+
+
+Description: First I got the blue key and teleported. I made it in 1:26
+             and most of the time I had that white view. Then I watched
+             DL's 1:22, where he made it completely differently. I have
+             never taken the rocket launcher before. But if it helps...
+             But I failed at the revenants. Watched DL's .LMP again and
+             he hid to keep the revenants away from the blue door. Then
+             I had some luck with the red key... there was a gap, and a
+             gap back. The rest was easy.
+
+
+             Besides: I made nomonster .LMP's of all levels, except for
+             6,7,30,32. I still had one of level 6, levels 7 & 32 don't
+             work with -nomonsters, and in 30 it makes no difference.
+             Overall I got 24:09 min.
+             (map 6: 0:59 - map 7: 1:00 - map 30: 0:32 - map 32: 0:14)
+             The rest of the times (they should be max +4% of best ;-)
+
+Verzeichnis von *.*
+ LV01N006.LMP         2202 02.05.1996 18:15
+ LV02N035.LMP         5582 02.05.1996 18:16
+ LV03N028.LMP         5546 02.05.1996 18:17
+ LV04N028.LMP         5438 02.05.1996 18:21
+ LV05N027.LMP         4982 02.05.1996 18:21
+ LV08N021.LMP         3778 02.05.1996 18:40
+ LV09N105.LMP        10542 02.05.1996 18:44
+ LV10N029.LMP         5190 02.05.1996 18:46
+ LV11N056.LMP         8830 02.05.1996 18:48
+ LV12N047.LMP         7874 02.05.1996 18:58
+ LV13N103.LMP        11570 02.05.1996 19:00
+ LV14N049.LMP         7262 02.05.1996 19:01
+ LV15N040.LMP         6354 02.05.1996 19:05
+ LV16N031.LMP         5122 02.05.1996 19:07
+ LV17N155.LMP        16706 02.05.1996 19:31
+ LV18N024.LMP         3846 02.05.1996 19:34
+ LV19N052.LMP         8114 02.05.1996 19:39
+ LV20N037.LMP         5962 02.05.1996 19:43
+ LV21N056.LMP         8410 02.05.1996 19:46
+ LV22N036.LMP         5486 02.05.1996 20:07
+ LV23N053.LMP         7806 02.05.1996 20:13
+ LV24N055.LMP         8146 02.05.1996 20:16
+ LV25N043.LMP         6454 02.05.1996 20:19
+ LV26N040.LMP         6058 02.05.1996 20:28
+ LV27N053.LMP         7962 02.05.1996 20:37
+ LV28N042.LMP         6450 02.05.1996 20:40
+ LV29N201.LMP        17782 02.05.1996 20:57
+ LV31N032.LMP         4922 02.05.1996 21:01
+ NOM.DIR                 0 02.05.1996 23:05
+
+     204376 Byte in   29 Datei(en)
+  185319424 Byte frei
+
+             If you've got too much time left, try to record 29 in less
+             than 2:00. See above, I tried for 15 minutes ;-) And the gap
+             between 5 and 8 is the time I recorded some level 6 .lmps,
+             but there are two difficult jumps, and when you have a fast
+             time you fail.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

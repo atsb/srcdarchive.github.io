@@ -1,0 +1,43 @@
+This is a DooM .LMP "COMPET-N/MM2/" Entry - Please forward it...
+
+M203R458.ZIP
+
+ M203R458.LMP
+
+  M203R458.TXT -UV RESPAWN
+
+  Recorded using "DooM 2 v1.9 - Memento Mori 2" ! (Complevel 2)
+  DooM2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level Three - ...and hell beneath by Matthias Worch
+
+  Kills: 154 / 142 (108%)
+  Items:   4 / 18  (22%)            ********
+  Secrets: 5 / 5   (100%) and Time  * 4:58 *
+                                    ********
+  C-N entry #15.	Date:02/01/2012
+
+  Description :)
+  My first -RESPAWN entry and this is my second exit for this map.
+  The first exit I had a time of 5:12 but even though it beat Revved's
+  time of 5:24 by 12 seconds, it was invalid because one of the secrets
+  did not register for some reason.
+  
+  Easily beaten and easily beatable.
+  								
+  								
+  By the way, COMPET-N record was 5:24 by Revved, timestamped:
+  Monday, November 21, 2011, 8:40:42 PM.
+  
+  Note: Since this demo was recorded with MM2.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/675/mm2.zip
+        and pick it up if you havn't already :) 
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

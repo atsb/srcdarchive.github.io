@@ -1,0 +1,16 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed
+mission:  e2m1
+
+time:     0:31
+
+xit-vono:  This was quite hard to beat actually.
+
+Vincent: running credits to Jim, but I killed a pig that was blocking him :) (blue door)
+
+          

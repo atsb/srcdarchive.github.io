@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM31s228.TXT
+
+ MM31s228.ZIP
+
+  MM31s228.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 31 - Technology Base (Secret Exit)
+
+  Kills       21%
+  Items        9%            
+  Secrets      0%  and Time: 2:28 
+                             ==== 
+
+  Description :-)
+
+  5th COMPET-N entry.
+
+  The first of MM's two secret levels can be described as 
+  so: Technically brilliant, extremely complex, and dull.   
+
+  Maybe some people fancy the perplexing layout but I don't 
+  care for it much. This map starts out tough and never quite 
+  eases up. You're bombarded with (mostly) hitscan monsters 
+  without any armour at all. Health is scattered around here 
+  and there, but if you let up even one second in the run, 
+  you're dead! It's very hard to get the right speed and avoid 
+  max style playing.
+
+  I played the start rather safely, and then progressively 
+  tried to be more reckless. Worked out so-so... I was aiming 
+  for a time below 3:00, and believe it or not, this was the 
+  first exit below that time. I kept missing the trick jump, 
+  so I could practice the first parts a lot. I only worked on 
+  the run about 45 mins total, so don't expect a very polished 
+  performance.
+
+  There are some horrible moments here -- my playing at those 
+  imps is embarrasing, for instance -- but I was also very 
+  lucky to get through some spots quickly. I almost got killed 
+  at the very end because the door wouldn't open! A time below 
+  2:00 would be sweet to see, but will require very gutsy 
+  playing.
+
+  Credits to Istvan Pataki for the trick jump, and Casey Alvis 
+  for some route ideas/tactics, the run-to-catch-the-teleporter 
+  trick (at least, I think he made the first demo to exhibit it, 
+  if I'm wrong please let me know!) and of course for being the 
+  first to pull off this annoying run.
+
+  Kristian Ronge
+  zuckuss@gmail.com

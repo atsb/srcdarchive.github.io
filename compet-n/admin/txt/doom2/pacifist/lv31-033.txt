@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV31-033.TXT
+
+ LV31-033.ZIP
+
+  LV31-033.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.666
+  & Converted to Doom2 Version 1.9
+  (hope it works) [ it does ]
+  So
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills     24%
+  (Items     0)
+  Secrets    0%  and Time  00:33
+                           -----
+
+
+Computer: 486DX33 ISA ;-) & :-(
+
+Comments: Never thought I could run that fast...
+          Second best is 0:36 ;-)
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+
+

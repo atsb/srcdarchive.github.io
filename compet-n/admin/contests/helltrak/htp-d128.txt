@@ -1,0 +1,20 @@
+
+Compet-N contest #10
+
+************************************************************************
+
+Filename                : htp-d128.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 1:28, UV pacifist
+
+Author                  : Doug Merrill
+Email Address           : opulent.doom2@home.com // opulent@cox.net (??)
+
+Description             : Knew I wasn't going to be able to submit a
+			  contending demo, so here's the first run where
+			  I didn't die at the chainers.
+                                                    
+************************************************************************

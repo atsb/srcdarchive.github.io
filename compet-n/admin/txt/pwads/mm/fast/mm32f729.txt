@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM32f729.TXT
+
+ MM32f729.ZIP
+
+  MM32f729.LMP - UV -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 32 - The Hidden Slime Factory
+
+  Kills      100%
+  Items       78%            
+  Secrets    100%  and Time: 7:29 
+                             ==== 
+
+  Description :-)
+
+  13th COMPET-N entry.
+
+  Made another run of this great map, this time trying out 
+  the -fast parameter. I believe it's my first released 
+  -fast demo, actually. It's not bad, but I still think it 
+  has way too many mistakes... I like my UV max run much 
+  better. But hey, half the points = half the effort, 
+  right? ;-)
+
+  The start is quite dangerous -- lethal, even. Once you 
+  get to that first megasphere, though, this run isn't much 
+  harder than the max run, just like Ryback said. With so 
+  many powerups (3 megaspheres, 3 blue armours, and five 
+  soulspheres) you can almost always play as recklessly as 
+  you can without the -fast parameter.
+
+  In this run I got a very good start, so I was repeating 
+  to myself: "Don't screw this up, don't screw this up!". 
+  Of course, I then did my best to get myself killed 
+  several times, and the ending ... let us never speak of 
+  it again. :-P
+
+  Kristian Ronge
+  zuckuss@gmail.com

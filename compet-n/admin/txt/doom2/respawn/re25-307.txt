@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE25-307.TXT
+
+ RE25-307.ZIP
+
+  RE25-307.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - BloodFalls
+
+  Kills    101%
+  (Items   100)
+  Secrets  100%  and Time  03:07
+                           -----
+
+  Description :
+  I think the -RESPAWN with 100% Kills and 100% Secrets section is really
+  worth notion. In some maps this requirement is much harder than Nightmare
+  or -FAST. You don't believe me? Play MAP08 -RESPAWN with 100%/100%!
+
+  Back to this map again ;-)
+  I've found no big difference to plain UV in this map. Maybe it's possible
+  to push the time even below plain UV by an optimized selection of which
+  monsters to kill once, twice or not at all. But therefore one should be
+  able to play it close to "Demonlords" time of 2:11 on UV,
+  and I'm definitly not!
+
+  BTW: I'm sorry for the jerky manouevering :<
+  1) I'm not used playing on a 486 any more
+  2) I need much more practice with my new controller configuration.
+
+  Author: Rini (Steffen Udluft)
+
+  email: rini@mppmu.mpg.de
+

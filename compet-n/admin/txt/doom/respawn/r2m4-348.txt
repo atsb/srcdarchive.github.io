@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+R2M4-348.TXT
+
+ R2M4-348.ZIP
+
+  R2M4-348.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 2 Mission 4 - Deimos Lab
+
+  Kills    100%
+  (Items    45%)
+  Secrets  100%  and Time  03:48
+                           -----
+
+  Description:  
+
+Rini wrote  > I had some tries at 90% too, and didn't know why. I thought
+            > that maybe it's because I entered the chaingun secret in
+            > a hurry, w/o shooting the wall open. Really,
+            > I should have read it before - arghh.
+            
+            I had the same problem. I think, u must not open the exit door           
+            until the bridge is rising, else the second bridge don't rise
+	    as high up as is needed to get 100% secrets. btw. A nice map.
+     
+Author:    Radek "R.Master" Pecka
+E-mail:    r.master@email.cz
+Doompage:  http://www.igames.cz/rmaster or http://doomers.zde.cz

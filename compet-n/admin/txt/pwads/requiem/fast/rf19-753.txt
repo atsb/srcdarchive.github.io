@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf19-753.TXT
+
+ rf19-753.ZIP
+
+  rf19-753.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 19 – UV Fast
+
+Finally got this one finished. The SSG usage on the mancubi is great. Usually, I got 4 shots on the each one, but on most of them here, I got 3. This thankfully saves some SSG ammo for the later areas. In the plasma gun area, I'd try to use a trick where I wouldn't get the platform to descend. However, I decided not to do that for a better chance of success. The last area, was kind of luck-based. I had to make sure the Pain Elementals and their lost souls didn't take away a huge portion of my health. After that, everything was simple.
+
+Author: Revved

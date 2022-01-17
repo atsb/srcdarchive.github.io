@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+________________________________________________ _____________________
+| PWAD:          | requiem.wad                 | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | rq271520.lmp                | |  Items      42 %  |
+|________________|_____________________________| |___________________|
+| Category:      | UV Max                      | |  Secrets   100 %  |
+|________________|_____________________________| |___________________|
+| Map Level:     | MAP27 - Cursed Kingdom,     | |            _____  |
+|                |       by Iikka Keranen      | |           /     \ |
+|________________|_____________________________| | and Time: |15:20| |
+| Exe/Port used: | Doom2 1.9                   | |           \_____/ |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 24.10.2012                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| Old records:                                                       |
+| 21:29 by Kai-Uwe Humpert                                           |
+| 16:24 by Jonas Feragen (considered Max for a long time, but one    |
+|                          monster survived, unfortunately)          |
+|                                                                    |
+| This is a little "fix" in the C-N tables. 16:24 was an outstanding |
+| time for this map in '97 or '98, 15:20 is below average in 2012.   |
+| I don't want to improve it, though, as I find this map incredibly  |
+| boring to play.                                                    |
+|____________________________________________________________________|

@@ -1,0 +1,42 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : e1m5-222.lmp, e1m5-222.txt
+Date     : 2018-12-19
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : UV-Max
+Map(s)   : E1M5: Phobos Lab
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  48%
+Secrets  : 100%
+Time     : 00:02:22
+===================================
+Description:
+
+I boldly changed the use of rockets from the previous record. 
+First of all, I thought it was not effective to use one rocket 
+for destroying a barrel from an outside area where there was 
+a soul sphere. Next, I thought a few rockets should be used 
+in a computer room, then I altered the number of rockets for use  
+between a computer room and a circular room after yellow key's 
+door little by little, but wasting a few seconds for changing 
+weapons was not ignorable. As a result, I used the most of the 
+rockets in the computer room. It was probably more effective 
+than the previous one. Trying various routes was pretty interesting. 
+
+The circular room considerably depended on luck. The elevator's 
+timing did not match easily when I escaped from the room even if 
+I cleared enemies quickly. One or two enemies also were left 
+frequently and 100 kills were missed many times. 
+
+
+109th Compet-N Entry

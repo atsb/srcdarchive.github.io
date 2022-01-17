@@ -1,0 +1,12 @@
+Author:         Looper
+
+Game:           Doom
+Category:       nomonsters
+Mission:        E3M1
+Skill:		Ultra-Violence
+
+Time:           15.97
+
+
+Comments:       It wasn't too difficult. I thought this was 16s because of the
+                movement loss in the long corridor, so finger slipped on Q.

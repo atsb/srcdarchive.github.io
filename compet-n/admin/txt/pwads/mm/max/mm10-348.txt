@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM10-348.TXT
+
+ MM10-348.ZIP
+
+  MM10-348.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 10 - The Mansion
+
+  Kills      100%
+  Items       13%            
+  Secrets    100%  and Time: 3:48 
+                             ==== 
+
+  Description :-)
+
+  17th COMPET-N entry.
+
+  Another nice map from "Memento Mori", in my opinion. Many 
+  players don't care for it much... I don't know why I like 
+  it, really. Somehow, I find the layout and gameplay very 
+  appealing.
+
+  Since I know at least one COMPET-N player likes this map as 
+  much as I do, I'd like to dedicate this run to him. Hope you 
+  like it, DeDo! :-)
+
+  About the run itself -> Not much to say. This took me about 
+  25 minutes... I had a second-best exit of 3:56, so I'm happy 
+  about the time. I was very lucky to survive the middle part of 
+  this run, where my health was as low as 2% at one time (due 
+  to some sloppy playing).
+
+  Credits to Chris "Ryback" Ratcliff, Adolf "Gusta" Vojta, and 
+  James "Xit Vono" Leonard for the route. Ryback came up with 
+  the original route, then Gusta and Xit both made some changes 
+  to it. This demo introduces a couple of additional changes to 
+  make it easier to get a good time (e.g. leaving the first 
+  shotgun, leaving the soulsphere, and taking the blue armour + 
+  backpack). 
+
+  Kristian Ronge
+  zuckuss@gmail.com

@@ -1,0 +1,25 @@
+This is a Doom .LMP "Competition" Entry
+
+p3m8-103.txt
+p3m8-103.zip
+
+p3m8-103.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E3M8 - Dis
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:03
+=--------------=
+
+Did this a while back out of boredom and an
+odd obsession, the essense of doom pacifism.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM23-305.TXT
+
+MM23-305.ZIP
+
+MM23-305.LMP - Ultra-Violence Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 23 - Showdown
+      
+Kills       60%
+Items       87%
+Secrets      0%
+
+              ********
+  and Time -  * 3:05 *
+              ********
+
+
+Description:
+
+Another one of Memento Mori's best.
+
+A sweet one to do with speed, and there's all sorts of plasma you can burn through
+with the BFG once you pick it up ^_^
+
+Under 3 would be possible.
+
+Also kinda strange I had the same exiting time for both, mm23 and mm26....I just
+find that kinda weird ^^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+02.05.2002

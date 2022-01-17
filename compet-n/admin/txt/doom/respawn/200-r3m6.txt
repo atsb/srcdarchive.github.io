@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+200-R3M6.TXT
+
+ 200-R3M6.ZIP
+
+  200-R3M6.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 6 - Mt. Erebus
+
+  Kills     31%
+  (Items    29%)
+  Secrets   25%  and Time  1:23
+
+                          ******
+  Maximum Minimum Health = 200 %
+                          ******
+
+  Description:  ... same as 200-n3m6 - sorry.
+               
+         Date:  Oct 25 1998, 22:36 MEZ
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

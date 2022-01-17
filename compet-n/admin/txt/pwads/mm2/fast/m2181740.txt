@@ -1,0 +1,26 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2181740.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP18
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills     99%
+  Items     50%           *********
+  Secrets  100%  and Time * 17:40 *
+                          *********
+
+
+==============================================
+
+Just a few areas are significantly more difficult than plain UV Max.
+- The switch which opens a door and reveals 4 hitscanners
+- The room with HK, imps and barrels
+- The mancubus courtyard
+- The final area with cacodemons and 1 PE
+Generally, demons, spectres, pain elementals and even cacodemons and
+imps can cause trouble.
+
+A rather lame demo (second exit actually) with one interesting twist:
+unintentional blue key grab. This will come handy in Episode speedrun.

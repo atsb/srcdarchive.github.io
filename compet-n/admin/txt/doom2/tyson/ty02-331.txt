@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry
+
+TY02-331.TXT
+
+ TY02-331.ZIP
+
+  TY02-331.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02
+
+  Kills    100%
+  (Items    60)
+  Secrets  100%  and Time  03:31
+                           -----
+
+Description:	Adam W wrote in his 4:47:
+
+	       > Hell, this is a hard level. 
+	       
+               Hmm...dunno about that...this took four tries :) Three of them
+               ended right after redkey. I don't think it 
+               should be described as a hard tyson map...leave that for map29
+               and such :)
+
+	       > Twelve seconds faster than the old record. 
+
+	       Hmm...this should be about a minute faster the old record :)
+
+               > The speed for this depends on a few factors. 
+               > How quick you are punching the imps that come out of the traps
+               > in the red key area is the most important. 
+
+	       Sure. I agree...The bullets arn't that important though IMO.
+               You can always try to knock a few guys if you are empty.
+
+               > This could obviously go a lot faster, maybe 4:00 would be 
+               > optimal, but it's such a hard level you have to be careful. 
+       
+      	       Ehem....4:00 optimal? :) Wanna guess again :)?
+
+Author:	   Anders Johnsen	
+E-mail:	   anders-johnsen@c2i.net
+Doompage:  Hmm...too lazy to find the url....

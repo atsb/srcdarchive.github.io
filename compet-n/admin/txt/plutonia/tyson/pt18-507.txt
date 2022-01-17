@@ -1,0 +1,32 @@
+This is a Doom .LMP "Competition" Entry
+
+pt18-507.txt
+pt18-507.zip
+
+pt18-507.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP18 - Neurosphere
+
+=--------------=
+Kills      108%
+Items         ?
+Secrets       ?
+
+Time       5:07
+=--------------=
+
+C-N entry #105.
+
+This wasn't too difficult, although a bit
+irritating at times.  The first part is a
+quick run through the level to reach the
+berserk, then go back and cleanup the monsters
+that haven't died from infights.  The second
+archvile fight is more luck than skill, as his
+position is rather tricky among those other
+enemies.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

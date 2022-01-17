@@ -1,0 +1,41 @@
+This is a Doom .LMP "Competition" Entry
+
+n1s1-018.txt
+n1s1-018.zip
+
+n1s1-018.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M1 - Hangar
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time        :18
+=--------------=
+
+Unusual case... Dash was checking the
+tables and noticed that the :19 seemed
+strangely unoptimized.  Of course, that
+sometimes can be deceptive and improving
+it can be much more difficult than it
+first appears, but not this time.  Dash
+tried it for a while himself... before
+he did so, I checked the database to see
+if the table was accurate and an :18 run
+wasn't being displayed on the website,
+but that wasn't the case. :)
+
+Anyway, this is 18.66, so there's plenty
+of time to spare here.  It's reasonable,
+also, that 17 seconds is possible here
+with an extremely quick elevator drop,
+but the luck needed for that isn't worth
+the trouble.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

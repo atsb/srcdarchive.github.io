@@ -1,0 +1,28 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm01-058.txt, mm01-058.lmp
+Date     : 2014-1-25 0:25
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP01: The Teleporter
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Laszlo Gere
+Nickname : Slade
+Country  : Hungary
+Email    : vertigodx@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 11%
+Secrets  : 100%
+Time     : 00:00:58
+===================================
+Description:
+The key here is to alarm monsters outside as soon as possible.
+Which means you have to activate the switch and shoot before the brown door closes.
+That way, monsters will have enough time to teleport and zombiemen will pile up at
+the door. I don't think this route can be improved. I got quite lucky with monster
+infights and actually, if I was a little bit faster the last former human wouldn't
+teleport in.

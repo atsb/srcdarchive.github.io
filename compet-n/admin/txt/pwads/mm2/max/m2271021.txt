@@ -1,0 +1,39 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+            _________________________________________________
+           /                                                 \
+           | PWAD: mm2.wad                                   |
+           | Author: Various                                 |
+           | Demo filename: m2271021.lmp                     |
+           | Category: UV Max                                |
+           | Map Level: MAP27 - The Silos (by Paul Noble)    |
+           | Exe/Port used: Doom2 1.9                        |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     55%           *********        |
+            |      Secrets   87%  and Time * 10:21 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Eugene suggested something like (if I remember) that below 10:00 was   |
+| possible, even easier than some others (MAP14, MAP25?). This was       |
+| before SAV88 era... well I don't know, this demo shows a new approach  |
+| to the 3 pain elemental area and features a horrible ending, but       |
+| really, despite its ugliness, it has a good time for me - it looks too |
+| difficult for me to improve it. I had three 10:4x, many, many 10:5x,   |
+| that's it. Good luck to everyone else.                                 |
+|                                                                        |
++========================================================================+

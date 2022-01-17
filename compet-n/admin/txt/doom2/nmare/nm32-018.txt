@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM32-018.TXT
+
+ NM32-018.ZIP
+
+  NM32-018.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 32 - "Grosse"
+
+  Kills     33%
+  (Items    33)
+  Secrets    0%  and Time  00:18
+                           -----
+
+
+Description: Hmmm... seems impossible to just run beside him.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

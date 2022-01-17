@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+2348NS11.TXT
+2348NS11.ZIP
+
+2348NS11.LMP 
+
+Recorded using DooM 2 Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+DooM 2 - Levels 11-20 (31+32) on Nightmare! skill w/ 100% secrets
+
+11 - Circle of Death   - 1:30
+12 - The Factory       - 2:31
+13 - Downtown          - 2:46
+14 - The Inmost Dens   - 1:14
+15 - Industrial Zone   - 3:29
+31 - Wolfenstein       - 1:09
+32 - Grosse            -  :39
+16 - Suburbs           - 1:12
+17 - Tenements         - 3:28
+18 - The Courtyard     - 2:10
+19 - The citadel       - 2:15
+20 - Gotcha!           - 1:25
+
+Total - 23:48
+
+C-N entry #33, movie run #7.
+
+My 30ns practice continues.. these levels were quite a bit more fun than the first 10,
+IMO.  They're also a bit easier, only a few maps(12,17) gave me problems sometimes.  This
+is the first run where I make it past map17, but the final 3 levels weren't threatening at
+all.  Hope you enjoy this demo while I work on 21-30. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

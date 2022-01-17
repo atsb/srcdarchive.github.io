@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c3s6-025.txt
+
+ c3s6-025.zip
+
+  c3s6p025.lmp
+  c3s6s025.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e3m6 - Mt. Erebus
+
+              Kills    Items   Secrets
+
+  SlagDooM      2%       4%       0%      
+  Python        9%       0%      25%      
+
+  Time:    0:25.80
+
+
+Comment:      Some nice coop action here, beating Vincent/Nicolas by 3 seconds.
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

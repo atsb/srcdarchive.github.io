@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL11-051.TXT
+
+ PL11-051.ZIP
+
+  PL11-051.LMP - Ultra Violence
+
+  Recorded using "Final doom"
+  doom2 -playdemo with plutonia
+
+  The Final Doom: The Plutonia Experiment - Level 11
+
+  Kills      0%
+  Items     81%            +++++++++
+  Secrets    0%  and Time  + 00:51 +
+                           +++++++++
+
+Description: Yeah...at start I thought just to improve my time to
+             52....but hell I never got it :)). Again this was quite a nice
+             suprise. Time spended is around 30 mins. But this is not my
+             final demo for this map couse 50 is definetly possible and maybe
+             even 49. Future will tell...
+
+
+
+Author:    Marijo "Sedlo" Sedlic
+E-Mail:    msedlic@iskon.hr

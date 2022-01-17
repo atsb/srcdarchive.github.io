@@ -1,0 +1,71 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+12NM3208.TXT
+
+ 12NM3208.ZIP
+
+  12NM3208.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 01 thru Level 12 - Beginning to the Death !
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -     59%   88%   20%        1" 11    (100  83)
+  LV 02  -    111%   95%  100%        3" 01    (102 176)
+  LV 03  -     65%   22%  100%        1" 34    (100 104)
+  LV 04  -    143%   61%   66%        2" 40    (100  29)
+  LV 05  -     66%   66%    0%        2" 35    (135 181)
+  LV 06  -    102%   17%   66%        4" 50    (171 172)
+  LV 07  -    215%   83%  100%        2" 48    (102 104)
+  LV 08  -     73%   80%   28%        2" 17    (195  66)
+  LV 09  -     58%   44%    0%        3" 28    (132  41)
+  LV 10  -     43%   35%   33%        2" 21    (135 164)
+  LV 11  -     94%    9%   66%        2" 27    (100  23)
+  LV 12  -     31%   40%    0%        2" 56    ( 12  36)
+  LV 13  -  [ got the blue key ]               (  0   0)
+
+                     Total Time =   26" 368
+
+                                    26" +
+                                     6" 08
+                                    ------
+                     TOTAL TIME =   32" 08
+                                   --------
+
+  Description :-)
+
+  [ None recieved ]
+
+
+ Anthe
+
+ Andreas Kren
+
+ anthe.kren@telecom.at
+
+
+[  Admin. Note :-)  Anthe asked me to review this "second place"
+   NightMare run and upload it if it was good enough - IT IS :-)
+
+   It may even be "better" than Steffen's </all bow> original(!)
+   "DOOM2NM.LMP" for version 1.7/a thru' to the very same level.
+
+   ( I dunno. Would someone care to produce a table for that ;-)
+
+   Anyway, I said that there would be *NO* second places (and NO
+   Fragging Moaning ;-) This is worth "12 levels" / "2nd. place"
+   ie. Six (6) points in the "Nation's Cup" ;-) ME, The "Judge".
+
+   The ONE problem that I had with this .LMP was the lack of any
+   wait at the end of LV 06... Anyway, I was able to hack a copy
+   of it to produce a "06NM-450.PCX" (enclosed) to determine the
+   total time taken. Warning ! - Next time, it gets Auto-DQ'd !
+
+S.;-) aka. The "Judge". ]
+
+

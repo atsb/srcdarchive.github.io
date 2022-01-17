@@ -1,0 +1,48 @@
+﻿This is a DooM .LMP "COMPET-N/pwads/mm2/misc" entry - Please forward it...
+
+M2S1-030.TXT
+
+ M2S1-030.ZIP
+
+  M2S1-030.LMP - UV speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD MM2INFO.WAD -PlayDemo with Version 1.9
+
+  Memento Mori II (+ MM2INFO.WAD) - MAP01 - "Secret Operation 1" by Steve Towle
+
+  Kills      9%
+  Items     35%
+  Secrets    0% and Time - 0:30
+
+  Description:
+
+  Talk about a blast from the past!  My previous 0:34 demo was my first Compet-n
+  demo, recorded back in 2007 when I was still starting out in Doom
+  speedrunning.  In retrospect, anyone could've beaten it if they were skilled
+  enough; all it would've taken was for them to care enough to do so -- a
+  difficult feat, considering what level it was recorded on.  But it just so
+  happened that my demo was beaten by the legendary Adam Williamson!
+  
+  Having markedly improved since then, I decided to try to secure my spot in
+  this level and discipline, whether or not it's actually a level you can
+  compete on.  And so, I toiled overnight for about four hours, trying my
+  hardest to optimize this demo.  The result is a demo which beats Adam's record
+  by one second; the /exact/ time is 0:30.06, which is just about optimal.  This
+  is partly because of improved movement and shooting skills, and partly thanks
+  to a trick I discovered in the red key room that would be more fitting in a
+  wire-fu martial arts movie.  I could go further, and try to get this under
+  0:30, but for now, I'm releasing it; I'm way overdue to go to bed, and my
+  wrists are killing me.  Enjoy!
+
+  Prior to recording Doom demos, I did some usermap speedruns for Duke Nukem 3D.
+  Video versions of these runs and my most recent Doom demos can be seen on my
+  YouTube channel at http://youtube.com/user/TheGreenHerring, and I hope to have
+  a website again in the near future.
+
+  Author: Eric "The Green Herring" Baker
+  E-mail: eabaker@san.rr.com
+
+  22.07.2010
+
+  P.S. This level still sucks. ;)

@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN08-808.TXT
+
+ TN08-808.ZIP
+
+  TN08-808.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 08 - Metal
+
+  Kills    100%
+  Items     70%           ********
+  Secrets  100%  and Time * 8:08 *
+                          ********
+
+
+Description: The start is tough and nice (heh, you may use chainsaw, if you
+	     want to), but then this level is much too dark. I don't like
+	     gamma 4 and brightness set to X-Ray :) With the invisibilty
+	     the chaingunners are fortunately not that problem.
+	     Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

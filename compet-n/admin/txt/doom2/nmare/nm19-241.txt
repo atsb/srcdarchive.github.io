@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM19-241.TXT
+
+ NM19-241.ZIP
+
+  NM19-241.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - "The Citadel"
+
+  Kills     17%
+  (Items     3)
+  Secrets   33%  and Time  02:41
+                           -----
+
+
+Description: Quite hard level when playing it on NightMare!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

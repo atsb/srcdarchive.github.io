@@ -1,0 +1,40 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV32-026.TXT
+
+ UV32-026.ZIP
+
+  UV32-026.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 32 - Grosse
+
+           Kills    Items   Secrets
+
+  Green      ??       ??       ??      Adam
+  Indigo     ??       ??       ??      Istvan
+
+  Time:    0:26 !
+
+
+Comment:     
+
+  A little optimalization on route.... one shot at cybie from both 
+players :)
+  Panter... this looks good and faster with more than 1 sec :)
+ 
+Authors:
+ Adam Hegyi    (ha211@hszk.bme.hu)
+ Istvan Pataki (deity@balu.sch.bme.hu)
+   
+
+
+
+-----------
+Admin note:   Secrets are 50% + 16% so it's not a Max but a Speed entry.
+
+
+
+

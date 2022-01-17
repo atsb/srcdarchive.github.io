@@ -1,0 +1,51 @@
+This is a Doom .LMP "Competition" Entry
+
+pa07-041.txt
+pa07-041.zip
+
+pa07-041.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2 - Level 07 - Dead Simple
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       0:41
+=--------------=
+
+Thank Dashiva for this one, since he
+recently conducted a rather daunting
+investigation calculating the possible
+player speeds under certain conditions.
+In short, he concluded that the st50
+jump from the edge of the mancubus
+platform to the ending ledge is indeed
+possible, though it requires a bit of
+divine intervention on the engine's
+part (ie really good luck).  I believe
+he is correct, though for the sake of
+my own sanity, I also came up with my
+own spin on the jump by keeping the
+rocket jump, but just not using an enemy
+like Sedlo does in the UV speed record.
+
+It's definitely not easy, and as such,
+this run is far from optimized.  I didn't
+make the jump until the third attempt, and
+my health when I hit the exit is pretty
+funny, but I didn't harm a hair on those
+shambling fatsos.  Hurrah! ;)
+
+I also included the original nomonsters
+demo where I made the jump, which is the
+first of its kind.  That demo didn't take
+very long, but this run took a few hours...
+Sedlo wouldn't have taken so long, for sure.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

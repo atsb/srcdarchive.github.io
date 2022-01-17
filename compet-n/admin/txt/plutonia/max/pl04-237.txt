@@ -1,0 +1,27 @@
+This is a Doom .LMP "Competition" Entry
+
+pl04-237.txt
+pl04-237.zip
+
+pl04-237.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP04 - Caged
+
+=--------------=
+Kills      100%
+Items       20%
+Secrets    100%
+
+Time       2:37
+=--------------=
+
+C-N entry #109.
+
+Thanks to Rudy for an excellent demo/route.
+This is one of my favorite plutonia maps, all
+around.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

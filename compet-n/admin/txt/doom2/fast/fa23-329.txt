@@ -1,0 +1,35 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+FA29-542.TXT
+
+ FA29-542.ZIP
+
+  FA29-542.LMP - Fast
+
+  Recorded using Doom2.exe
+
+  Doom2 -Playdemo with Doom 2
+
+  Doom2 - Map 23 - Barrels O' Fun
+
+  Kills    100%
+  (Items    ??)
+  Secrets  100%  and Time  3:29
+                           ----
+
+Description:  This was just the result of a Dang session, I wanted to do
+              this Claudio's way (not getting the shotgun). After a short
+              while I got 3:57, done very slowly and with some pretty hilarious
+              errors. This is the result of trying to do it fast. It's a big
+              improvement over Henning's time (/me happy) but most of that is
+              just route improvement. And there's no need to worry about using
+              rockets on the PEs, this almost never goes wrong (unless a demon
+              shows up...)
+
+              
+ 
+Author: Chris "Ryback" Ratcliff
+
+Email:  ryback@fcmail.com
+
+

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+MM31-316.TXT
+
+ MM31-316.ZIP
+
+  MM31-316.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 31 - Technology Base
+
+  Kills     29%
+  Items     19%           ********
+  Secrets    0%  and Time * 3:16 *
+                          ********
+
+  Description :-)
+
+  Normal exit.
+
+  Tried to play this in a bit more reckless fashion
+  than Casey's old demo. It's still a bit careful
+  though, since there's no armor available and you have
+  to cope with a lot of bullet attacks...
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

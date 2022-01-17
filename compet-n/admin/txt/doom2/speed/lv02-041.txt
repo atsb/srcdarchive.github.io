@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+lv02-041.txt
+lv02-041.ZIP
+
+lv02-041.LMP - Nightmare
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 02 - "Underhalls" 
+
+Kills       %
+(Items    ??%)
+Secrets     %  
+
+   ...and Time  00:41
+               -------
+
+Description: It would really take a good player to push it down to 39sec. 
+             Certantly possible, however you probably need to skip the blue-armor
+             and have insane luck the rest of the way. Good luck to anyone who 
+             gives it try. 
+
+
+
+Date: 19.11.2001
+	 
+Author: Henning Skogsto 
+E-mail: skohen@dph.no      

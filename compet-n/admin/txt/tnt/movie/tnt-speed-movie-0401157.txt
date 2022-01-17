@@ -1,0 +1,218 @@
+Runner: Zero-Master
+Date: 2015-12-02
+IWAD: TNT.wad
+Category: UV-Speed
+Map: Movie 1-30
+Source Port: Competition Doom v2.0.3.2
+Time: 39:57 (40:11.57)
+
+
+Map	Time	
+01	00:43	:(
+02	00:59	:(
+03	01:27	:(
+04	00:14	:)
+05	00:37	:))
+06	02:46	:(((
+07	00:58	:)
+08	02:01	:))
+09	02:42	:|
+10	01:25	:(
+11	00:24	:)
+12	00:43	:)
+13	01:14	:|
+14	01:47	:|
+15	00:19	:)
+16	01:31	:)
+17	00:26	:)
+18	01:29	:)
+19	01:05	:|
+20	03:11	:)(
+21	02:35	:)
+22	00:28	:)
+23	00:36	:)
+24	00:24	:)
+25	00:25	:))
+26	02:19	:|
+27	02:10	:))
+28	01:36	:(
+29	01:40	:)
+30	01:43	:(
+
+
+Description:
+Well, that was close, 3 more seconds and I would have had to do this whole thing over again.
+
+This is 4:19 faster than the previous record, so not too bad, but most of that comes from
+including a couple of tricks. In 30ev4416 I did a really slow glide\map 17, and this time I 
+did a key grab trick on map 05 discovered by Looper, thanks to 4shockblast for teaching me 
+how to do it consistently. I also do a trigger skip on map 25, so I skip the entire map 
+pretty much. Map 25 trigger skip was somehow discovered by cyberdemon531, but 4shockblast
+was the first to do the trick. I came up with the consistent (well, I would hardly call
+4 inputs on the same frame as consistent, because that is not easy!) method to do this trick.
+I'll put some more details on the setup under map 25.
+
+If we don't count maps 5,17,18,25 then the time was improved by 1:35 over 30ev4416.
+
+
+Map 01: I am not a big fan of tyson and this map... or the whole wad either :)
+Horrible time, my best time is around 8 seconds faster, the IL is 19 seconds faster.
+IL doesn't grab mega armor, but I don't need to either, however it increases my chances
+of getting past the next maps a lot.
+
+
+Map 02: This map used to be very annoying when I did 30ev4416, this time around it
+was not even close to be as bad as it was then. More often than not I made the YK
+jump. Not a good time though. 
+
+
+Map 03: Same goes for this map, used to be very difficult, but now I get through
+much more often, but again a really bad time.
+
+
+Map 04: Short map, actually the shortest in the whole run. Requires some luck
+when you are low on health, this time it went pretty good.
+
+
+Map 05: New trick (in 30ev), yellow key grab through the wall. A really amazing 
+trick, I wonder how Looper comes up with stuff like this :) Makes the map easier as well.
+
+I did discover that vertical mouse movement is not needed for this trick, it's a bit
+more difficult to do, but possible.
+
+
+Map 06: Wow, this time is really something horrible isn't it. The funny thing is when
+I did 30ev4416 I was having so much trouble trying to match j4rio's 2:21 on this map,
+when I started practicing this map again the first time I got was 2:21, my best time 
+is 2:07 (with weapons of course), though 2:20 is still a good time, so around 25+ seconds
+lost here. 
+
+I really did not deserve to survive this map.
+
+
+Map 07: This map is quite easy as long as you don't get blocked by spectre going 
+to the exit or take a heavy hit from the revenant.
+
+
+Map 08: I've gotten a lot better on this map as well, the pacifist strategy in
+the last room works very well. It's not too big of a risk to run past the 
+arachnotrons at the exit, and actually something I didn't think about was
+switching to chaingun to painstate them, something I figured out would be
+very useful in this attempt, where I used plasma.
+
+
+Map 09: Don't forget the blue key, or you'll look stupid. I didn't this time.
+So for this map I only want to survive really. You can save a lot of time here 
+if you are feeling lucky :)
+
+
+Map 10: I really hate dying on this map, since it's straight after map 09 and
+there is so much health and armor at the start. Went okay this time.
+
+
+Map 11: Easy map, I try to shoot just before I run past the 2 fences, this will
+wake up the imps on the other side which can make them open the door, didn't work
+this time. 
+
+
+Map 12: Another easy map. 
+
+
+Map 13: Almost didn't get past the revenant by YK, that could kill me quickly.
+
+
+Map 14: This map is sometimes difficult, lots of hitscan, you never know if
+they hit you a lot or what the damage rolls will be.
+
+
+Map 15: I get the BFG here, movement needs to be decent, if you get stuck
+somewhere you have to hit the switch again and that will cost a lot of time.
+I don't think you get a BFG until map 30 after this one with this route.
+
+
+Map 16: I have no idea how to move through this level, I didn't practice it too much 
+though, amazing IL time by xit-vono here.
+
+
+Map 17: South directed guideless glide, same as in map 09 of plutonia. I have vertical
+mouse movement enabled which makes it a bit more difficult, but I got lucky this time and 
+didn't have to use any, which randomly happens sometimes. Got hit by chaingunner just 
+as I went through, so yeah, really lucky.
+
+
+Map 18: Got the rocket jump first try! I also could have skipped the invurn\soulsphere.
+You do however get 2 more chances if you do pick them up, at the cost of 15-20 seconds or 
+so for each attempt. That cyberdemon was really close to killing me there, he has killed
+2 runs so far, 1 was before I did 30ev4416. I think I woke him up a bit early, did not
+really look into that.
+
+
+Map 19: Easy map.
+
+
+Map 20: Awful map. The large outdoor area is done pacifist, prevents monsters from
+teleporting in.
+
+
+Map 21: Another awful map. I died less than an hour ago before I got this run on this map,
+I went through the teleporter after grabbing YK and got destroyed with 100\37 health\armor
+down to 7\0 by 2 hellknights instantly. I don't know the odds of having 2 hellknights within 
+melee range but not within the telefrag range like that. A fireball followed shortly after to 
+end the run.
+
+
+Map 22: A really awful map, at least it's short.
+
+
+Map 23: This map is ok, need to keep my health for the rocket boost on map 25.
+
+
+Map 24: Try to keep as much health as possible, you can run past the hell knight
+without much trouble, but I didn't want to risk anything.
+
+
+Map 25: This trick is really hard, there is a linedef here that if you skip it, 
+you can exit the map straight away like I did. I spent quite a deal of time trying
+to find this setup, 4shockblast has already shown it in ev25p013 using the shotgunner
+somehow, but that is way too inconsistent for 30ev. So I figured there would have to 
+be some way to do it with a rocket boost, and after a lot of trial and error I 
+managed to skip it, but then it's a matter of doing it again with consistency. 
+
+Unlike dead simple (doom 2 map 07) you don't have a few frames when you can shoot the rocket.
+If you fire 1 frame off here you won't make it, and if you have to shoot after you start moving
+then it is extremly difficult to time the rocket. So I figured the only way to make this 
+possible was to continue looking for some position+angle that if you use 
+Run+StrafeLeft+MoveBack+StrafeOn+TurnLeft+Fire on the same frame (you can just hold Run+StrafeOn
+so 4 inputs need to be activated on the same frame) you will skip the trigger. 
+Luckily such a thing existed, but if any of the inputs is a frame off you fail it. I used to lose
+runs to Chasm (doom 2 map 24) when I failed to hit 3 inputs at the same time, so this one
+isn't too much fun :)
+
+
+Map 26: At this point I am quite sure I will make it to the end, because none of
+the next maps should be much of a problem... a final time of 39:57 shows that I 
+should have considered picking up the pace :)
+
+
+Map 27: Mount Pain.
+
+
+Map 28: There's 2 mega spheres on this map, usually I don't have to grab the second
+one, but I wasted too much health here to feel safe for the next map.
+
+
+Map 29: Be careful with the crushers, they will kill you from 200\200.
+
+
+Map 30: That was a decent final room, however not a very good time. I take things very
+safe with the lost souls since they can telefrag you. If I had any idea what the time
+was looking like I would have absolutely rushed through this map. 
+
+
+39:57, my goal was sub 40 minutes. While there are many things that could have been done 
+better, I am very happy with this time. I don't like TNT as much as Doom 2 or The Plutonia Experiment,
+so I have not put as much effort into it. I figure this will be somewhat hard to beat for 
+anyone looking to pick it up because of tricks on maps 17,18 and 25, but still very beatable
+because of maps like 1,2,3,6,9,10,26,28 and 30.
+
+This is my final demo for this category :)

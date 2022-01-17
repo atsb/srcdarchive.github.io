@@ -1,0 +1,30 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m2091015.lmp & m2091015.txt
+Date     : 2013-03-14 04:05
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : Map09: Sabbath Sewer, by Mark Klem
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 104%
+Items    :  66%
+Secrets  : 100%
+Time     : 00:10:15.86
+===================================
+Description:
+
+Next on the list... This was much more difficult than MAP06.
+First and last exit, just watching the demo makes me feel tired...
+I admit, I didn't remember all the secrets during my first attempts.
+
+At least we know now that NM100 is impossible :-)
+
+===================================

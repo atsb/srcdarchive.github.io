@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV16-046.TXT
+
+ LV16-046.ZIP
+
+  LV16-046.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills      9%
+  (Items    20)
+  Secrets    0%  and Time  00:46
+                           -----
+
+
+Description: All you guys: You don't need the Invulnerability!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

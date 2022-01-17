@@ -1,0 +1,77 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV19-040.TXT
+
+ LV19-040.ZIP
+
+  LV19-040.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - "The Citadel"
+
+  Kills      1%
+  (Items    13%)
+  Secrets   11%  and Time  00:40.85 :)))))))))))))
+                           -----------------------
+
+
+Description: Welcome to the Level 19 Collection :). This demo has a bit of
+             a history to it. Once upon a time (about two days ago) I made
+             a run of map19 in 0:52, on the torch-trick route, and uploaded
+             it as pa19-052. Steffen Udluft pointed out it wasn't in fact
+             pacifist, as I had shot a cacodemon (doh). Adam Hegyi agreed
+             and jokingly mailed back that I should try again "Or try taking
+             the trick jump route, hehe". I mailed back saying "heh, there's
+             a laugh", and made a proper pa19-052. however, adam had aroused
+             my curiosity...and i had a go at the trick jump. well, it's
+             actually a fairly easy jump with nomonsters on, but don't be
+             deceived by this. With the arachnotron around, it is an absolute
+             BITCH...plus because of the quality of Esko's lv19-041, the jump
+             has to be done QUICKLY and the rest of the level has to fast.
+             However, within just two hours I had pa19-041. Encouraged by
+             this I set out on my odyssey to get a 0:40. ha, big mistake :).
+             I played until 3am that night, making the jump a total of 8
+             times. I got three 0:41s including pa19-041, one 0:43, was killed
+             twice by the caco after the jump, and twice made it to the ledge
+             and fell off without getting the key. I finally admitted defeat
+             and went to bed. I got up bright and early today and played
+             again. BANG, brick wall! For 7 hours straight I didn't make the
+             jump once. Then, all of a sudden, I made it two times in
+             succession! both attempts resulted in 0:41s, however :(((, due
+             to careless running elsewhere. The first of these, pa19-41b.lmp,
+             is a high 0:41, with sloppy running and slow ending. The second,
+             lv19-41b.lmp, is a low 0:41 (0:41.20) which would have been 0:40
+             had I not hesitated slightly opening the last bar :(((. Then I
+             had to go to work. I retured a mere 5 hours ago, and sat down
+             again...and this run is the first since then to hit the platform,
+             and despite me being nervous as hell when I made it (I didn't
+             even realise what was going on until halfway across the courtyard,
+             I was idly wondering about whether I should go to bed while my
+             brain controlled the player on autopilot :>), and running into
+             some walls on the way to the exit, I was helped by a fast exit
+             and FINALLY made it!!! the time is 0:40.85. I have now made this
+             jump 11 times, and i'm well and truly sick of this level :)).
+             0:39 is certainly possible, and probably even 0:38 by a human,
+             but I really, really doubt anyone will try :). The demos included
+             in this pack are:
+
+             lv19-040.lmp, the record :)
+             lv19-041.lmp, Esko Koskimaa's old record, the first run ever to
+             manage this trick in a scratch run with monsters. You MUST watch
+             this demo, if only because it was the first, and Esko's running
+             is far smoother than mine :)
+             pa19-041.lmp, my pacifist record
+             pa19-41b.lmp, described above
+             lv19-41b.lmp, described above
+
+             Credits for this demo: the amazing trick jump was invented by
+             Ilya Britvich, and first employed in a legal run by Esko Koskimaa.
+             The route through the rest of the level is copied from Esko's
+             lv19-041.lmp. Okay, i think that's far too much now, so i'll stop
+             :).
+                       
+  Author:    Adam Williamson
+  E-mail:    adam.williamson1@btinternet.com
+

@@ -1,0 +1,13 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Arno Slagboom (slagboom@cybercomm.nl)
+Indigo:    Marko van der Want (markowant@freemail.nl) 
+
+game:     doom2 v1.9
+category: coop max
+level:    map02
+
+time:     1:05
+
+comments: Took only 4 tries to beat ViNi.
+          If needed, we will go under 1 minute...

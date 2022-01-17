@@ -1,0 +1,37 @@
+This is a Final DooM .LMP "Competition" Entry - Please forward it...
+
+PN28-137.TXT
+
+ PN28-137.ZIP
+
+   PN28-137.LMP - Nightmare!
+
+   Recorded using The Final Doom Version 1.9
+   DooM2 -PlayDemo with The Final Doom Version 1.9
+
+   Final DooM - The Plutonia Experiment - Level 28 - Sewers 
+
+   Kills     08%
+   Items     02%
+   Secrets   00%   Time = 1:37
+                                                    
+
+   Description: Xit wrote:
+                >I'm interested in knowing how Ryback avoids all those
+                >monsters teleporting near the end.
+
+                I did this demo, then went and checked. The teleporting
+                monsters are all in an area that opens up after you
+                get the red key - so don't make a noise and they won't
+                appear.
+
+                One second faster than the UV record, but then this is
+                much easier on nightmare. I had a big dose of luck in
+                that the rising wall at the blue key didn't rise - gained
+                maybe three seconds there. Alas, the running quality
+                in this demo is not great, and the stupid exit platform
+                knocked me off! 1:36 was clearly not to be.
+
+
+   Chris "Ryback" Ratcliff
+   jaranbue@yahoo.com.au

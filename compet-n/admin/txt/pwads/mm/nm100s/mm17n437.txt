@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM17N437.TXT
+
+ MM17N437.ZIP
+
+  MM17N437.LMP - nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 17 - House of Thorn
+
+  Kills    122%
+  (Items    36%)          ********
+  Secrets   85%  and Time * 4:37 *
+                          ********
+                          
+
+  Description :-)
+  
+  Thanks to Kristian Ronge for the megasphere trick, which
+  shows that this map is possible in nightmare.  Apparently
+  there's an unreachable secret, so it counts as 100% secrets.
+
+  Xit Vono
+  Xit_vono@yahoo.com

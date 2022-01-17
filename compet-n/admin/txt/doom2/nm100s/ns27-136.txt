@@ -1,0 +1,43 @@
+  This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NS27-136.TXT
+NS27-136.ZIP
+
+NS27-136.LMP - Nightmare! with 100% secrets
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 27
+
+Kills     ??%
+Items     ??%            
+Secrets   87%  
+
+   ...and Time     01:36 
+                  ------- 
+
+
+Description : Hey Marijo, you will sooner or later accept my challange 
+              in this cat. So her is my version of this one. It is Real hard
+              to optimiz this cat...in certain maps it isn't possible like 
+              this one :) Not even map01 I think...remember you can run almost
+              perfect map01 in 6 sec..but as you can see 5 sec is possible. 
+              In this map you have to run for over 1:30 min...there is no way
+              such map can be optimized....maybe a speed run under 30 sec
+              with A LOT of tries can get perfect without cheats but not maps 
+              like this. You can be lucky and get very good times and sometimes
+              you will keep the record for a long time maybe for ever because 
+              your demo was really good....but it isn't perfect :)
+              
+              Anyway, about this lmp...I did a few shortcuts in a strange way. 
+              There are a lot of things that have to work....not getting
+              stuck...killed (duh)..falling down....forgetting a key etc..
+              so this is the first time that I reach the exit with a decent 
+              time...maybe 01:29 will be hard to reach and that would be 
+              a good time...but hey there could always be a better route,
+              and there always are :)
+
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net

@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry
+
+LV01-039.TXT
+
+ LV01-039.ZIP
+
+  LV01-039.LMP - Ultra Violence Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 1 - Entryway
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  
+                          *********
+            ... and Time  * 39.97 *
+                          *********
+
+  Description:
+
+  I have been playing this map in max
+  style for a long time now, but it has
+  been only about 2 weeks since I discovered
+  this new route.  It's clearly faster than
+  the route Adam Hegyi used and the other
+  new route that I used in re01-041, but
+  only by about a second or two.  The
+  beginning went so-so.  I exited the blue
+  room around 28 seconds.  My best there is
+  around 27.3 seconds.  Also, when the imp
+  got stuck in the exit room that's usually
+  just a nuisance but fortunately I was able
+  to shoot that imp without losing much time,
+  so I saved time by only using chainsaw on 1
+  imp.  I'm also including Adam Hegyi's demo.
+  It's really quite an awesome demo and I
+  don't want this to take anything away from it.
+
+  Xit Vono
+  xit_vono@yahoo.com

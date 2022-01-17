@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+LV10-026.TXT
+
+ LV10-026.ZIP
+
+  LV10-026.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills      8%           
+  (Items    15%)          |--------|
+  Secrets    5%  and Time |00:26.97|
+                          |--------|
+  
+  Comments:
+
+  Ush, crappy run. Two flaws. First of them instantly after I shoot the two
+  troopers out of the way. The return-to-the-straferunning-position -turn
+  goes wide. An amateurish blunder. The second, even worse, flaw takes
+  place at the exit. I don't have to explain, it's impossible to miss. :<
+  I hope my next speedrun will be decent. :|
+
+  Juho Ruohonen
+  ocelot_78@hotmail.com

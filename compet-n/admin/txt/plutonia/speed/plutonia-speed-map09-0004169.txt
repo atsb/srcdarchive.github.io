@@ -1,0 +1,26 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Speed
+Map: 09
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 10%
+Items    : 25%
+Secrets  : 50%
+Time     : 00:41.69
+
+Description: 
+Well, in pl09-045 I wrote I thought this could go as low as 42... 
+Turns out I was very wrong, 38 seconds should be the minimum I think
+with instant glide and going straight from switch to RL\teleporter in RK room.
+
+Good rng with the spectres, only had to kill 2 of them.
+The glide could always be faster, but this was pretty good, managed to get the
+right angle and position quickly, a bit slow on getting through.
+Sometimes you don't even need to use vertical mouse movement, but it's very rare.
+
+Last room is always very scary, sometimes the rockets don't hit and the chaingunners
+just do their thing, or maybe even a manc pushes you off.
+
+In 30pl2523 I got 1:08, so plutonia movie can still go much much further.
+

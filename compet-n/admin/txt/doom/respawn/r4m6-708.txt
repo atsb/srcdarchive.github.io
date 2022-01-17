@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M6-708.TXT
+
+ R4M6-708.ZIP
+
+  R4M6-708.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  DooM - Ep.4 Mi.6 - Against Thee Wickedly
+
+  Kills    138%
+  (Items   100%)
+  Secrets  100%  and Time  07:08
+                           -----
+  Maximum Minimum Health =  40 %
+                           -----
+
+  Description:  After completing all maps of Doom2 with -respawn I started
+                to play some maps of Doom1. This one has been a real
+                challenge, it's by far harder than any other map I did
+                and only r4m1 seems to be even harder.
+                I took it very careful so the recording is rather slow.
+                Imo this route is the easiest with respawning monsters,
+                try another one and you will see what I mean ...
+                What more to say, hmmm - it's important to save cells and
+                health and to use the radsuits properly.
+                Btw:
+                I like that map very much, its design is just brilliant!
+                In principle you don't need any key to reach the exit
+                (see ep4-par), but it's better to collect all of them to
+                survive (you need all keys to reach the invulerability).
+                It's the hardest map of Doom and Doom2. Why?
+                It is the only map never completed on nightmare, never
+                played tyson and not even played under par when starting
+                from scratch. A really nice map ...
+              
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

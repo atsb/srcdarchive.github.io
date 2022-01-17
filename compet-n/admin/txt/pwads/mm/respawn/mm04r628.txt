@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm04r628.TXT
+
+ mm04r628.ZIP
+
+  mm04r628.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 4 – UV Respawn
+
+The hardest part of this map is trying to kill all those hell knights at the start and getting the SSG because you keep getting pelted with attacks and you only have a shotgun and chaingun up to that point. Also, trying to get the soulsphere because of all the enemies that block your way.
+
+Author: Revved

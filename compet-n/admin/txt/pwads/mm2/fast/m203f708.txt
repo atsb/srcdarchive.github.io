@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M2f03708.TXT
+
+ M2f03708.ZIP
+
+  M2f03708.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 3
+
+  Kills    100%
+  (Items    50%)          *********
+  Secrets  100%  and Time *  7:08 *
+                          *********
+                          
+  Description :
+
+               Not a bad map but can be quite frustrating.
+
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

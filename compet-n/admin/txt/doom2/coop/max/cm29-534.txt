@@ -1,0 +1,21 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+author:   Green  - Vincent Catalaa (peroxyd@wanadoo.fr)
+          Indigo - Nicolas Gandou  (ngandou@wanadoo.fr)
+
+game:     doom2 v1.9
+category: Copperative - 2 players - 100% Kills and Secrets
+level:    Map29 - The Living End
+
+Stats.:     
+
+          Kills      Secrets
+
+Green      65%         0%
+Indigo     27%         0%    (no secrets)
+
+	     Time - 5:34
+
+comments:
+	   Not optimized at all, many scenes where Nicolas has nothing
+	   to do.

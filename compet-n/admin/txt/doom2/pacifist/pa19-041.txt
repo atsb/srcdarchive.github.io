@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV19-041.TXT
+
+ LV19-041.ZIP
+
+  LV19-041.LMP - Ultra Violence Pacifist Style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - "The Citadel"
+
+  Kills      ?%
+  (Items     ?)
+  Secrets    ?%  and Time  00:41
+                           -----
+
+
+Description: Amazing jump, this, invented by Ilya Britvich. Incredibly hard,
+             too. Esko was really unlucky that he hit the imps in his run,
+             this is basically exactly the same only I don't
+             hit any imps at the rising platform. Credit to Ilya for the jump,
+             and Esko for the route. AFAIK this is the third released demo
+             which achieves this jump with monsters, after Esko's lv19-041 and
+             and his 0:41 in D2DQ.
+             
+
+
+             
+
+  Author:    Adam Williamson
+  E-mail:    adam.williamson1@btinternet.com
+

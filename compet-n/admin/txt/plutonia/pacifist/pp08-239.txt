@@ -1,0 +1,42 @@
+This is a Doom .LMP "Competition" Entry
+
+pp08-239.txt
+pp08-239.zip
+
+pp08-239.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 08 - Realm
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       2:39
+=--------------=
+
+C-N entry #173.
+
+Pretty tricky pacifist for the plutonia
+table, and perhaps the last to be done
+out of the ones that are theoretically
+possible (pp22 remains and 7/30 are not
+possible).  It felt like pn08 all over
+again by allowing me to reach the exit
+several times and having something silly
+happen to mess up the run.  This time
+the skulls were all over that blue switch
+so I took my time. :)
+
+Note that without firing, the chainers
+at the blue key trap never wake up, so
+you're free to take the key.  Also, you
+can open the secret with the fist and
+not wake them up for the extra health
+bottles.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

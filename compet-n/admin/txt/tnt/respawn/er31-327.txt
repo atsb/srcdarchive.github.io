@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ER31-327.TXT
+
+ER31-327.ZIP
+
+ER31-327.LMP - Ultra-Violence - Respawn
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -file tnt.wad -playdemo with Doom2 Version 1.9 - Only
+  using Team TNT's fix for Map 31: Tnt31.wad
+  (available from http://www.teamtnt.com/other/tnt31fix.zip)
+
+Final Doom: TNT Evilution - Level 31 - Pharaoh
+
+Kills    103%
+Items      2%
+Secrets  100%
+
+              ********
+  and Time -  * 3:27 *
+              ********
+
+
+Description :
+
+Okay...a moment of honesty here. I could've SWORN that I optimized the route
+for this map on -respawn with my 5:03. I kept using the old route, and my best
+time was a 4:49 with 100% kills exactly....but something just suddenly hit me.
+
+An entirely new route just came to me from nowhere....so I tried it....
+
+Got a 3:47 on the first exit.
+
+Then a 3:34....and now this one.
+
+So I guess I was right in my old text file when I said it could go under 4
+minutes easy...it wasn't so hard on this route....and it might even go under 3
+one day ^_^
+
+Happy holidays!
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+25.12.2002.

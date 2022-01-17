@@ -1,0 +1,16 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop tyson
+mission:  map24
+
+time:     7:12
+
+Vincent:  was actually fun
+
+xit-vono: We didn't try to make this one fast.
+
+          

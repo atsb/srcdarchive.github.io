@@ -1,0 +1,37 @@
+    
+      
+  **      	              ** 
+  * This is a COOP-N entry lmp *
+  ** 			      **
+     
+
+
+        category - coop speed
+   Hell Revealed - Level 04 - Garden Terminal
+
+
+                ********
+  time:         * 0:23 *
+                ********   
+
+  results:      kills      items      secrets
+    GREEN         7%         7%           0%    (McRocet)
+    INDIGO        9%         0%         100%    (DooMerMan)
+
+
+  : NOTE :
+
+
+  [ McRocet   ]
+  Easy role I had, just stay alive :)
+  My MMH is 64% in this demo...
+
+
+  [ DooMerMan ]
+  Because we wasn´t satisfied with as last 0:42, we tried trick...
+  It´s my own arch-jump (check hr04-3ck). After 0:26, 0:24 and
+  0:23-death-in-cacoo-room we finally did nice 23 secs speedrun.
+  Enjoj :)
+
+   Green:        Petr "McRocet" Urban  <unknown@email>  - hc04m023.lmp
+  Indigo:   Jakub "DooMerMan" Machata <DMrM@seznam.cz>  - hc04d023.lmp  

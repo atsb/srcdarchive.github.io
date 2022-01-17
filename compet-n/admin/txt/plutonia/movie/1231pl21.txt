@@ -1,0 +1,89 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 1231pl21.txt, 1231pl21.lmp
+Date     : 2013-8-10
+Game     : Final Doom: Plutonia
+Client   : doom2.exe v1.9f
+Category : UV Speed episode
+Map(s)   : MAP21-MAP30
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : 
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : x%
+Items    : x%
+Secrets  : x%
+Time     : 00:12:31
+===================================
+Individual level times:
+MAP21 - 0:10.69
+MAP22 - 1:35.54
+MAP23 - 2:08.31
+MAP24 - 1:32.09
+MAP25 - 0:57.34
+MAP26 - 0:58.71
+MAP27 - 1:07.49
+MAP28 - 1:54.11 
+MAP29 - 1:21.71 
+MAP30 - 0:49.51
+
+Beats the old record by quite a lot because shenanigans... again.
+Pretty fun demo, when I did this I was mostly practising and doing an
+occasional attempt at the ep run. When I got 2:08 in 23 I wasn't sure if
+it was for real or just practice.
+
+21: Missing the megasphere you'd get using the normal route can make 22
+kinda nasty. Using mouse strafing the glide isn't that difficult because
+you can position yourself against the wall (guided glide as opposed to
+non-guided ones in 8,9 and 19).
+
+22: The level with by far the lowest survival% on this run. This time
+yellow key room plays it nice and the guys at red key decide not to show
+up (that linedef is right next to the teleporter, maybe there's some
+setup for skipping it?) which is sometimes pretty annoying because while
+they're below the floor they still block you. You'd think it would make
+getting the key trivial but first few times I saw that while practising I
+got destroyed because I didn't know where they were and ended up getting
+meleed to death trying to walk past them. Nice revenant rocket at the end
+to make things more exciting.
+
+23: Pretty fun level. At first I thought this is impossible but with 
+enough practice it becomes pretty consistent if you get the invisibility.
+If you don't, trying to get the glide with those chaingunners around can
+be interesting. The glide doesn't really save that much time but it's
+pretty easy so I much rather take my chances with it than the two viles
+that come with pressing the switch.
+
+24: Pretty meh all around, I lost lots of time on really stupid stuff.
+Also lost the blue armour which almost kills me in the next two levels.
+
+25: I don't do the little hop in the starting "room" which saves a few
+seconds because I often ended up taking too much damage trying it. Can't
+lose too much here so I can skip the blue armour which saves a lot of
+time. That rocket jump is imo easier than either of doom2 ones but it's
+still fairly nasty, especially if someone were to try it in 30pl (I bet
+I'll lose at least one run where I make the rj and then the shotgunners
+kill me in next map).
+
+26: Feeling a bit under the weather after 25 I take a short detour for
+medkits. Still get under a minute which is very nice.
+
+27: Protip: keep shooting when entering "that" teleport. Lost a few
+seconds for absolutely no reason (other than stupidity) but oh well.
+
+28: The guys before exit room are here again but don't really end up
+wasting too much time this time.
+
+29: I don't even know what to say about this. Considering how much
+plutonia can kick your ass in the first 25 levels (and I guess 26 if you
+do the rj) 27-29 feel really easy. 30 isn't terribly bad either but I've
+had some crazy stuff happen there, usually involving pain elementals or
+getting hit by the cyberdemon for no reason.
+
+30: This time I actually had a feel for timing the first shot and even
+hit it. Yeehaw. I was actually just practicing this level before doing
+the run.

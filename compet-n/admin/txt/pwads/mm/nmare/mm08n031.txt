@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+MM08n031.TXT
+
+ MM08n031.ZIP
+
+  MM08n031.LMP - Ultra Violence!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - Nightmare!
+
+  Kills     ?%
+ (Items     ?%)          ********
+  Secrets   ?%  and Time * 0:31 *
+                          ********
+
+  Description : 
+
+  sub :30 is surely possible even without skipping the invul.
+  
+  Erik Alm
+  erik_a80@hotmail.com

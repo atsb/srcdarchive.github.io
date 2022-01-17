@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+RE05-338.TXT
+
+ RE05-338.ZIP
+
+  RE05-338.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills    103%
+  (Items   100%)
+  Secrets  100%  and Time  03:38
+                           -----
+
+  Description:  Though it has been fun to play this map "pacifist",
+                it's an ugly level when playing for 100% kills.
+                The -respawn switch doesn't make it considerably harder
+                than plain UV. I guess one could squeeze the time
+                extremely with an optimized route, but ...
+                arggh, it's just too ugly.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

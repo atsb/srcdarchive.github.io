@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV03-344.TXT
+EV03-344.ZIP
+
+EV03-344.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 05 - Hanger
+
+Kills    100%
+Items     40%           
+Secrets  100%  
+
+   ...and Time  3:44
+               ------
+
+
+Description: Yeah yeah... not much improvement. The Soul Sphere area didn't go
+	     too good, spent too much time there. But go ahead Radek, you wont
+	     win.
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

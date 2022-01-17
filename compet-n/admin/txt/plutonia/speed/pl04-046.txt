@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+PL04-046.TXT
+PL04-046.ZIP
+
+PL04-046.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 04 - Caged
+
+Kills     23%
+Items      0%
+Secrets    0%
+Time      :46
+         ----
+
+Description:
+Entry #15, took a break from attempting maps 12 and 25 to run this.
+
+I really enjoyed recording this one, a very nice map with a clever design.
+This map plays similar to map 08, requiring luck with the monsters in tight
+corridors, but it does make for a bit of variety.
+
+BTW, I haven't been in #nightmare lately because my connection won't let
+me on IRCnet for some reason.  If you want to reach me, either visit
+#stickmen on irc.enterthegame.com or email me.
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+f1m3-244.zip
+
+ f1m3-244.lmp -md5sum dad1fbced051dea502fae4b8dd9733bd
+
+  f1m3-244.txt -Ultra-Violence -fast
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Knee-Deep in the Dead - Toxin Refinery
+
+  Kills:  131 / 131 (100%)
+  Items:   52 / 95  (54%)            ********
+  Secrets:  7 / 7   (100%) and Time  * 2:44 *
+                                     ********
+  C-N entry #74.	Date: 2015.10.03
+
+  Description :)
+  I'd say a 20 second improvement warrants an upload. I was
+  originally going to upload after getting under 2:50, but after
+  getting 2:45, I just couldn't until I beat Radek by 20 seconds.
+  Shame that pinky moved way before that rocket hit; killing him
+  off with the shotgun took some seconds. The behavior of the
+  first pinky and specre seem to be the biggest factor in ruining
+  my runs.
+
+  Previous times were: 3:01, 2:57, 2:50, and 2:45. Some big jumps
+  there, maybe I'll get lucky and score a 2:3x soon.
+     
+  By the way, COMPET-N record was 3:04 by Radek Pecka, dated:
+  2001-09-14.
+
+  Complete Historic COMPET-N Leaderboard:
+   10:46 - Andy Olivera   - 1996-06-04
+    5:15 - Peo Sjoblom    - 1996-06-18
+    3:45 - Thomas Zajic   - 1996-07-04
+    3:41 - Peo Sjoblom    - 1997-03-27
+    3:16 - Anders Johnsen - 1998-09-04
+    3:09 - Radek Pecka    - 2000-11-19
+    3:04 - Radek Pecka    - 2001-09-14
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

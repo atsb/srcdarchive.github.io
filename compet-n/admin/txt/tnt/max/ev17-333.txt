@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV17-333.TXT
+
+ EV17-333.ZIP
+
+  EV17-333.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - only!
+
+  Final Doom - TNT Evilution - Level 17 - Processing Area
+
+  Kills    103%
+  Items     60%           
+  Secrets  100%  and Time = 3:33
+                          
+
+
+Description: It's very easy to die in this map, it's happened to me many
+             times, trust me. :) Chris' demo was very good and it wasn't
+             easy to beat it. btw. great route, Chris.
+             
+
+Author:   Radek "R.Master" Pecka
+E-mail:   r.master@email.cz
+Doompage: http://doomers.zde.cz
+

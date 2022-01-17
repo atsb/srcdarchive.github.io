@@ -1,0 +1,59 @@
+This is a DooM .LMP "Competition" Entry
+
+30PLMAX.TXT
+30PLMAX.ZIP
+
+30PLMAX.LMP 
+
+Recorded using DooM 2 Version 1.9
+DooM2 -PlayDemo with Version 1.9 -file plutonia.wad
+
+Final DooM - Plutonia levels 1-32 on UV Max skill
+
+#  - Level                  - Time  -  Comment 
+
+01 - Congo                  - 2:35  -  Good time
+02 - Well of Souls          - 2:40  -  so-so, got a few 2:2x
+03 - Aztec                  - 3:52  -  close to PB :))
+04 - Caged                  - 4:48  -  :|
+05 - Ghost Town             - 3:22  -  so-so
+06 - Baron's Lair           - 4:34  -  good time
+07 - Caughtyard             - 2:37  -  can get non teleporting hell knight if I block his teleport spot
+08 - Realm                  - 4:20  -  rather easy when you have a back pack filled with ammo :)
+09 - Abbattoire             - 6:00  -  my PB :) end room can be bitch 
+10 - Onslaught              - 4:01  -  probably my PB too :)
+11 - Hunted                 - 3:51  -  actually very easy, play carefull and you will make it 
+12 - Speed                  - 7:26  -  not very hard with good tactic
+13 - The Crypt              - 3:39  -  :|
+14 - Genesis                - 3:21  -  :| 
+15 - The Twilight           - 6:38  -  this can be a bitch for secrets, you can see me make sure I activated them :)
+31 - Cyberden               - 6:36  -  good timing and strafing = cybers owned 
+32 - Go 2 It                - 10:06 -  safe play, a few retarded moments here and there (maybe tired ?;)
+16 - The Omen               - 4:32  -  some many revs and mancs can be dangerous, safe play
+17 - Compound               - 3:23  -  nice map, always like to play it!
+18 - Neurosphere            - 3:18  -  :|
+19 - NME                    - 4:12  -  :| 
+20 - The Death Domain       - 6:42  -  miss-teleporting archie went inside and revived some stuff, had to do extra check
+21 - Slayer                 - 5:36  -  slow 
+22 - Impossible Mission     - 6:29  -  ok :)
+23 - Tombstone              - 9:49  -  nice to be under 10 mins
+24 - The Final Frontier     - 5:56  -  funny map
+25 - The Temple of Darkness - 5:52  -  no problems this time
+26 - Bunker                 - 9:10  -  <10 mins = ok :) 
+27 - Anti-Christ            - 5:02  -  impossible to kill 1 archie and its chainie, so I left them alone (so is Henning)
+28 - The Sewers             - 8:33  -  no secret forgotten this time :)
+29 - Odyssey of Noises      - 12:56 -  very slow, had to waste ammo on far away mancubus ... 
+30 - The Gateway of Hell    - 2:07  -  no rocket problems, went smoothly
+
+Total - 2 hours 54 mins 33 secs
+
+     This was fun to do !
+     I started working on the routes while I was still in California (under prBoom). Started to record under doom2.exe
+     when I came in feb-05. 
+     I leave 6 monsters alive, just like the current max records. 4 in map11 and 2 in map27.
+
+     Enjoy !
+
+
+Author: Vincent Catalaa aka PerOxyd
+E-mail: vincentds@netcourrier.com

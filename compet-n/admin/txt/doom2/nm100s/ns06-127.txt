@@ -1,0 +1,37 @@
+This is a DooM 2 .LMP "Competition" Entry - Please forward it...
+-------------------------------------------------------------------------------
+Use only DOOM 2 Version 1.9 !
+-----------------------------
+ns06-127.txt
+ns06-127.lmp
+-----------------
+|     Info      |
+-----------------
+Skill  :      5 |
+Level  :     06 |
+Style  :  ns100 |
+Date   : 250799 | 
+-----------------
+Kills  :    49% |
+Items  :    11% |
+Secret :   100% |
+-----------------
+Time   :  01:27 |
+-----------------
+
+Comment : 
+-----------------
+	 Finaly, I made it ... Three jumps ... pfuhhh ...
+	 I made some changes jumping to secret 200%.
+
+	 This should be improved a lot ...
+	 First tip : not to kill sargent at lift; after picking plasma gun
+	 if you activate lift he lowers much faster then if it's activated with
+	 monster, faster jump at the end (I did't won't to risk again!).
+	 So, 01:15 should be possible !
+-------------------------------------------------------------------------------
+Name : Zvonimir "FX" Buzanic
+Mail : vbuzanic@peek.hr
+URL  : http://members.xoom.com/zapclan
+ICQ  : 13198922
+-------------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV11-428.TXT
+EV11-428.ZIP
+
+EV11-428.LMP - Ultra Violence
+
+Recorded using Final Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 11 - Storage Facility
+
+Kills    101%
+Items     28%           
+Secrets  100%  
+
+   ...and Time  4:28
+               ------
+
+
+Description:  ""It might seem cheap improving a demo only with a few seconds, 
+	        but who cares about your opinion anyway.""
+
+	      Eat your own words kid.
+
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

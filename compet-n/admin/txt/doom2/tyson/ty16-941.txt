@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TY16-941.TXT
+
+ TY16-941.ZIP
+
+  TY16-941.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills   100%
+  Items    80%
+  Secret   25%  
+
+   ...and Time       09:41
+                    -------
+
+Description: Back in 1999 Marijo Sedlic said under 10 minutes was possible,
+             well it's finally here.
+
+             The Imps at the exit are killed at the start with a bit of help
+             from the Reveants. Same with that Mancubus in the backyard.
+
+             This was the second time I managed to finish the level, the
+             first had 99% kills and was 12:21. Enjoy!
+
+Author:      Keene "Mutlee" Ho
+E-mail:      keene@suburbia.com.au

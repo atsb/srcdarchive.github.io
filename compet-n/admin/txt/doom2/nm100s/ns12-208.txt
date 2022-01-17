@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+NS12-208.TXT
+
+ NS12-208.ZIP
+
+  NS12-208.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - The Factory
+
+  Kills     46%
+  (Items    80%)          ********
+  Secrets  100%  and Time * 2:08 *
+                          ********
+                          
+  Description:
+
+  1 sec. faster than AdamH. The ending
+  was so-so and I suppose there's a better
+  way to do the chaingun secret room.
+
+  Xit Vono
+  xit_vono@yahoo.com

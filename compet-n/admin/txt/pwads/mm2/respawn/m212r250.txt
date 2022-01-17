@@ -1,0 +1,17 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m212r250.lmp
+Skill and Style: 4 (-Respawn)
+Map Level: MAP12
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    104%
+  Items     65%           ********
+  Secrets  100%  and Time * 2:50 *
+                          ********
+
+
+==============================================
+
+A very typical table-filling demo.

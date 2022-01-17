@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rf11-549.txt
+
+rf11-549.zip
+
+rf11-549.lmp - Ultra violence with -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 26 - Rats in the Walls by Adam Windsor
+
+Kills    100%
+(Items   100%)          
+Secrets  100%  and Time  05:49 
+                          
+                          
+
+Description:
+  
+First exit. Eighth try.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M7-143.TXT
+N1M7-143.ZIP
+
+N1M7-143.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Doom 2 - E1M7 - Computer Station
+
+Kills     76%
+Items     33%
+Secrets   50%
+Time     1:43
+         ----
+
+Description:
+Entry #22, for what has become my favorite level from Episode 1, and possibly
+all of udoom.
+
+I really enjoyed running this level, it simply defines Episode 1.  The end is
+pretty close again, as with E1M6.
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

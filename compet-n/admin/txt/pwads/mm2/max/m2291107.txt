@@ -1,0 +1,32 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2291107.lmp
+Skill and Style: 4 (UV Max)
+Map Level: MAP29
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    116%
+  Items     75%           *********
+  Secrets  100%  and Time * 11:07 *
+                          *********
+
+
+==============================================
+
+A note to level designers:
+I alredy praised MAP25 (Forgotten Town), now after some serious
+UV Maxing of MAP29 I like it even more! Please take a look
+at those maps:
+- no crates
+- very few "teleporting monsters" traps
+Everything lies in a splendid monster placement. The acid pool
+area alone is sooo damn perfectly designed! I wish I could play
+some new maps like these two.
+
+In this demo there is sloppiness everywhere. The first cyberdemon
+battle went perfectly, but the second one (the easier one) was
+atrocious. I thought for some time I missed a spectre in the
+acid pool area, this explains some shooting in the air and
+looking at the sides of the pool. All in all, I'm honored to
+hold a record for this map!

@@ -1,0 +1,66 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 30pl2930.lmp & 30pl2930.txt
+Date     : 2014-02-17
+Game     : Final Doom - Plutonia Experiment
+Client   : doom2.exe 1.9f
+Category : Speed movie
+Map(s)   : MAP01-MAP30
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : 
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Time     : 00:29:30
+===================================
+Description :-)
+
+
+MAP01 - 0:34.37
+MAP02 - 1:04.69
+MAP03 - 1:17.26
+MAP04 - 1:02.97
+MAP05 - 0:40.43
+MAP06 - 1:24.86
+MAP07 - 0:27.91
+MAP08 - 0:44.31
+MAP09 - 1:33.74 
+MAP10 - 0:32.14 
+MAP11 - 1:09.51
+MAP12 - 0:59.80
+MAP13 - 1:08.23
+MAP14 - 0:33.57 
+MAP15 - 0:56.94 
+MAP16 - 0:25.54
+MAP17 - 1:30.97 
+MAP18 - 0:13.89
+MAP19 - 0:36.00 
+MAP20 - 0:56.23 
+MAP21 - 0:25.29  
+MAP22 - 1:29.23 
+MAP23 - 2:03.06 
+MAP24 - 1:21.43
+MAP25 - 0:41.14
+MAP26 - 0:56.97 
+MAP27 - 1:02.49
+MAP28 - 1:40.37
+MAP29 - 1:28.11
+MAP30 - 0:43.00
+
+Fifth exit, third improvement. Finally got the sub 30 mins I was hoping
+for earlier. There's still some total garbage play (map09, map12, map21,
+map22, map29) and some awful times that weren't entirely my fault (map02
+- most people would've probably reset at that but I just kinda roll with
+it, you get to reset enough in  plutonia as is). Some weird decision
+making - I wasn't sure at map15 if I'd go for the megasphere or not but
+then decide not to risk it and waste a few seconds, and was going to go
+for map25 megasphere after the failed rj until I realised I have blue
+instead of green armor and have enough health for another try. I also
+took a little break at map23 tally screen because I had my left hand in a
+bad position and it was getting numb, heh. Bunch of exciting situations
+at least, almost died several times during the run. There's still a lot
+to improve here but breaking the 30min barrier feels pretty good. 
+Shoutouts to Alexander Nikulin, Dime, fx, Looper and Vile as usual.

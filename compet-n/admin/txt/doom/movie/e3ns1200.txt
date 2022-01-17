@@ -1,0 +1,53 @@
+E3NS1200.TXT
+
+ E3NS1200.ZIP - Nightmare
+
+  E3NS1200.LMP - Whole Episode 3 on Nightmare with all secrets and secret level
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM 
+
+  DooM - Episode 3 - Inferno
+
+            Secrets      Time
+  -------------------------------
+  E3M1 -     100%        0:47     
+  E3M2 -     100%        1:09     
+  E3M3 -     100%        1:36     
+  E3M4 -     100%        2:02     
+  E3M5 -     100%        2:38     
+  E3M6 -     100%        0:45
+  E3M9 -     100%        1:14     
+  E3M7 -     100%        1:49
+  E3M8 -      ??%  [Excluded: 0:13]  
+  -------------------------------
+                TOTAL: 12:00       (exactly ! :)
+                     ------------        
+
+Description:  This beats previous record by a few minutes.
+              Anyway, like my e2ns, it's quite slow and safe.
+              So it can be beaten easily but DooM 1 kings like
+              John R. and the Adams (H. and W.).
+              
+              
+              
+         
+        E3M1: i did the trick sometimes, but IMO it's a loss of time for a
+              movie.
+        E3M2: boring...
+        E3M3: i skip the soul sphere
+        E3M4: do not waste too much of your cells at the start... they are
+              usefull for E3M5
+        E3M5: a tough one... this route makes it rather easy provided you
+              have enough cells. Anyway i did some mistakes with the
+              teleporter. It should be easy to beat the record time.
+        E3M6: could be faster if i skip the invul.
+        E3M9: eh eh i like doing this one with plasma at start :) the pigs
+              are no longer a problem
+        E3M7: rather easy with plasma... could be faster without some errors
+        E3M8: well... the spider is never a problem :)
+
+Author: Vincent "PerOxyD2S" Catalaa
+
+E-mail: peroxyd@wanadoo.fr
+

@@ -1,0 +1,40 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Filename: rq11-252.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP11 - Rats In The Walls          |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items      0%           ********         |
+            |      Secrets  100%  and Time * 2:52 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| LOL. At 0:06 I pressed space (I *think* I did) to open one secret, in  |
+| order to have easier access to it later. Well, I didn't open it. Now I |
+| think, maybe it is better to keep it closed, as monsters will occupy   |
+| more predictable places? Anyway, I had 2:59, 3:13, 3:10 and 3:05 and   |
+| this run surprised me a lot. It's almost 10 years after the previous   |
+| record was set!! IMO, this is the very best map of Requiem. I may try  |
+| -respawn next, although the most possible result will by vdgg shouting |
+| not-so-decent words during recording :)                                |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M8-150.TXT
+
+ N1M8-150.ZIP
+
+  N1M8-150.LMP - NightMare
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.1 Mi.8 - Phobos Anomaly
+
+  Kills     ??%
+  (Items    ??)
+  Secrets   ??%    and Time  01:50 approx.
+                             -----
+
+  Description:  Last movement at 1:50, switch pressed at 1:38.
+                I tried to compare the time at which the switch is
+                pressed with the privious fastest by Davorin Mestric,
+                but that's impossible, he played with UT all the time.
+                Very strange.
+                This was too easy (and it will be very easy to beat as well)
+                I guess that nobody has played it for speed so far.
+
+                Hmm, wasn't there someone who said, that the quality of
+                entries in the -fast and -respawn category cannot be
+                compared with speed, max and nm?
+
+                In the case of DooM-max and DooM-nm it can!
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+
+

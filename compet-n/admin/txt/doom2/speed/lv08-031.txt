@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV08-031.TXT
+
+ LV08-031.ZIP
+
+  LV08-031.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 08 - Tricks & Traps
+
+  Kills      9%
+  (Items    40)
+  Secrets    0%  and Time  00:31
+                           -----
+
+
+Description: I think the better way is with rockets and then pump through!
+             But that can take around 50 seconds. So you have to hope that
+             everything works:
+
+             1) A free way to the yellow key (mostly on the right side)
+                and back
+             2) An open door (that's why I shoot the teleported Baron)
+             3) A free way to the red key (not so difficult but it seemed
+                to me that it is blocked when you got the yellow fast ;-)
+             4) The "pig" at the exit has to let you get to the switch
+
+             After 60(?) tries, I made it !
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+Performance: timed 1391 gametics in 892 realtics ;-)
+
+

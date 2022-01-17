@@ -1,0 +1,30 @@
+This is a Doom .LMP "Competition" Entry
+
+N4M1-031.TXT
+N4M1-031.ZIP
+
+N4M1-031.LMP
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M1 - Hell Beneath
+
+)---------------(
+ Kills        ?%
+ Items        ?%
+ Secrets      ?%
+
+ Time        :31
+)---------------(
+
+Me beating my own record by 1 second AGAIN.
+Here I used Vincent's route from his e4ns
+movie for the blue key room. It's possible
+to ignore the last imp when he's far enough
+and go for the imp on the blue key which
+means the optimail time would be around :29.
+
+
+Author: Guillaume "Guiddqd" Pierson
+E-mail: piersonguillaume@gmail.com

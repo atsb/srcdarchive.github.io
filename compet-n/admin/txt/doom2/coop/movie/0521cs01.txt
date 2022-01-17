@@ -1,0 +1,44 @@
+This is a Compet-N entry 
+
+authors:    Radek Pecka <r.master@email.cz>
+            Vincent Catalaa <vincentDS@netcourrier.com>
+            
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Episode 1 - UV Speed
+            
+Green   : Vincent
+Indigo  : Radek
+
+         *------*
+Time:    | 5:21 |
+	 *------*
+                             
+Levels                   Time     
+----------------------------------
+"Episode 1" :
+----------------------------------
+Entryway                 0:08
+Underhalls               0:36		
+The Gantlet              0:28   	
+The Focus                0:29
+The Waste Tunnels        0:32    	
+The Crusher              0:52    	
+Dead Simple              0:21    
+Tricks & Traps           0:27    
+The Pit                  0:56    
+Refueling Base           0:32
+---------------------------------
+Total                    5:21		
+----------------------------------
+        
+Description : 
+
+Radek :
+  We wanted to complete all the episodes sooner or later. This came pretty quick, the time is 
+  acceptable for us. Could be still improved by 10-20s, but that needs playing on LAN.
+
+Vincent :
+  That was the next thing we wanted to do after the 30uv. I didn't think we could improve
+  the previous time by almost 30 secs !!! 
+  I hope the next episodes will follow soon :)

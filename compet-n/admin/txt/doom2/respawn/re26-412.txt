@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+RE26-412.TXT
+
+RE26-412.ZIP
+
+  RE26-412.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 26 - The Abandoned Mines
+
+  Kills    101%
+  (Items    77)
+  Secrets  100%  and Time  04:12
+                           -----
+
+  Description:  I played that map again, to rate it's difficulty for DHT.
+                It is not too hard, rate it Medium.
+               
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

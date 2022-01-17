@@ -1,0 +1,10 @@
+authors:    Indigo - Vincent Catalaa    <peroxyd@wanadoo.fr>
+            Green  - Nicolas Gandou
+
+Game:       Doom2 v1.9
+         
+category:   Cooperative 2 players Max/Speed
+
+map:        Map30 - Icon of Sin
+
+time:       0:45

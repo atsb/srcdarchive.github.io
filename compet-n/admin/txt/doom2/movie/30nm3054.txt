@@ -1,0 +1,80 @@
+yThis is a Doom .LMP "Competition" Entry
+
+30nm3054.txt
+30nm3054.zip
+
+30nm3054.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - Full game on Nightmare! skill
+
+           Time  
+---------------------
+LV 01  -   0:06  
+LV 02  -   1:08  
+LV 03  -   0:33  
+LV 04  -   0:40  
+LV 05  -   0:39  
+LV 06  -   1:10  
+LV 07  -   0:54  
+LV 08  -   1:01  
+LV 09  -   0:59  
+LV 10  -   0:40  
+LV 11  -   0:44  
+LV 12  -   1:05  
+LV 13  -   1:30  
+LV 14  -   0:54  
+LV 15  -   0:37  
+LV 31  -   0:39  
+LV 16  -   0:46  
+LV 17  -   2:22  
+LV 18  -   0:33  
+LV 19  -   1:10  
+LV 20  -   0:43  
+LV 21  -   1:02  
+LV 22  -   1:14  
+LV 23  -   1:16  
+LV 24  -   1:04  
+LV 25  -   1:07  
+LV 26  -   1:07  
+LV 27  -   1:02  
+LV 28  -   0:54  
+LV 29  -   2:12  
+LV 30  -   1:09  
+---------------------
+Total     30:54  
+        ---------
+
+C-N entry #204, movie run #38.
+
+It's been some quiet sessions without sound... I
+got tired of listening to the same George Carlin
+Special mp3s so I made some wavs of Seinfeld eps
+and used them... weird, but eh, I needed some new
+background noise.
+
+Anyway, I was kinda reluctant to upload this because
+of my overall disatisfaction, especially with that
+bittersweet map30 time (got distracted when I saw
+the revenant was STILL alive when I went for the st50
+jump, expecting to get knocked down anyway).  I'm
+going to put this off for some days and concentrate
+on school work.  A few things of note first:
+
+Thanks to Henning for his excellent runs and some new
+route ideas, I took a cue from him on map13 (the blue
+key jump route didn't seem to produce any gains here)
+and the map28 route which isn't too bad at all.  Some
+misc stuff include the fact that I've had a higher
+success rate with the map04/map06 jumps recently, as
+well as broken the annoying map19 glide down to a
+science.  I can pull it off fairly easily now, instead
+of wiggling the mouse for a whole minute before it lets
+me through.  Also, I'm done trying to do the map18 invuln
+grab, it's gone when I play.  Anyway, it's late... I need
+some fucking sleep.  Enjoy. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

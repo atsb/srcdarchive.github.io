@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry
+
+MM27-759.TXT
+
+ MM27-759.ZIP
+
+  MM27-759.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 27 - Fort Hades
+
+  Kills    100%
+  Items     xx%           ********
+  Secrets   88%  and Time * 7:59 *
+                          ********
+
+  Description :
+
+1:31 faster. A great map with well thought out layout and good ammo balance. 
+Pretty fun to play too. 88% secrets max possible. 
+
+This demo is pretty much a faster version of George Bell's route with two 
+notable exceptions. The first is in the nukage cave w/ green armor the imp 
+is nice and decides to lower the lift for me. What a gentleman. Also, just 
+before I loaded this run up I decided to hold off getting the invuln to 
+face the cyber. Mainly I did this because I suck VS. Cybers but I think it's a 
+time saver anyways. 
+
+I almost botched up and died in the RL room. I just could not believe I was loosing
+such a large slab of health in the exact same place I died in the previous demo.
+Managed to break free of that...
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

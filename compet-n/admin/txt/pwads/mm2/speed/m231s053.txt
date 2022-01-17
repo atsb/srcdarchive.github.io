@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M231-057.TXT
+
+ M231-057.ZIP
+
+  M231-057.LMP - UV speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 31 - Deja Vu - Secret Exit
+
+  Kills     11%
+  (Items    23%)          
+  Secrets   14%  
+
+              ... and Time  00:53
+                           -------
+                          
+
+  Description:
+  
+  Easy to get stuck on the way to exit.
+
+
+  Radek Pecka
+  r.master@email.cz

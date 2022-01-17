@@ -1,0 +1,36 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV12-442.TXT
+
+ LV12-442.ZIP
+
+  LV12-442.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 12 - The Factory
+
+
+  Kills    100%
+  Items     80%             *********
+  Secrets  100%  and Time   * 04.42 *
+                            *********
+
+
+
+
+
+Description: Quite nice level, few monsters and quite a lot of
+             plasma. A tip is to leave the Blure sphere it will
+             only make things harder when you reach the Mancubus, 
+             the spider's plasma is also easier to "control" w/o
+             the invisibility..
+
+
+
+
+Author:	     Daniel "Demonlord" Lindgren 
+ 
+E-mail:	     akllin95@student.umu.se

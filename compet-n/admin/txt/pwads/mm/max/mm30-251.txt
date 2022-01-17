@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM30-251.TXT
+
+MM30-251.ZIP
+
+MM30-251.LMP - UV Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD MMMUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper by Milo Casali
+      
+Kills      107%
+Items       44%
+Secrets    100%
+
+              ********
+  and Time -  * 2:51 *
+              ********
+
+
+Description:
+
+I've played more reckless. However only 15 seconds were cut. Upload it due to a lack of time. Sorry, but this is my last demo till middle of February. Today I'm going to a trip. But Casey, may be my brother - Sergey will substitute me. Of course in case he will have enough motivation. MM1 is not first among his favorite megawads.
+
+ 
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+
+11.01.2004

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM12-832.TXT
+
+ MM12-832.ZIP
+
+  MM12-832.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 12 - Kinetics
+
+  Kills    100%
+  (Items   100%)          *********
+  Secrets    0%  and Time * 08:32 *
+                          *********
+                          
+
+  Description :-)
+  
+  The ugliest map in MM. I did it before we started the collection, because
+  there was no previous lmp for it. It's not hard, but very ugly. Maybe there
+  are some ammo problems, I know I had lots of ammo, maybe that's because I
+  punched the hellknights in the start. There are no secrets here.
+
+  Yonatan Donner
+  zem@planetquake.com

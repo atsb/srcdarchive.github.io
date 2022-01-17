@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF141644.TXT
+
+ HF141644.ZIP
+
+  HF141644.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 14 - City in the Clouds
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 16:44
+
+                          
+  Description:  Nice time, the monster fights worked out well. BFG
+                jump worked first time. When you watch the demo you'll
+                see why the -fast record is much shorter than the
+                max :)
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

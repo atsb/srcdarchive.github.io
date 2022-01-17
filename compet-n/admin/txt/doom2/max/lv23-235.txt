@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV23-235.TXT
+
+ LV23-235.ZIP
+
+  LV23-235.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O' Fun"
+
+  Kills     100%
+  (Items    45%)           
+  Secrets   100%
+
+   ...and Time  2:35
+               ______
+
+  Description : Question: If a person doesn't kill the Pain Elementals at
+                the start, how much time can be saved?
+
+                Answer: Thirteen seconds according to this demo. I think
+                that the key is to keep the barrels in the main room intact,
+                so that as many Pain Elementals die as possible when they
+                do blow up. Doing it like this makes it difficult to ensure
+                that all of them are dead though, I kept getting 98% or 99%
+                kills. I had to restart quite a lot as well since the barrels
+                would often explode to early, before the Pain Elementals
+                wandered into them blissfully unaware of the trap that lay
+                before them.
+
+                Well, this only my second COMPET-N demo. Same map as before
+                though. I got 2:43 but I decided to go for more. (Or less
+                depending on how you look at it.)
+
+Author:      Keene "Mutlee" Ho
+E-mail:      keene@suburbia.com.au
+Doompage:    http://frag.com/doomworld

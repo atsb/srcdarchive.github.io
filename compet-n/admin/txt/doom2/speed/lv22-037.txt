@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV22-037.TXT
+
+ LV22-037.ZIP
+
+  LV22-037.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 8 - "Tricks and Traps"
+
+  Kills     ??%
+  (Items    ??)           /-----\
+  Secrets   ??%  and Time |00:37|
+                          \-----/
+
+
+ Description: 
+              
+	Sorry Jacih.... i found these jumps to be possible
+        quite long ago... when i played with keyboard (Strafe50...:)
+        And i couldn't do them as often with Strafe40 only...
+        So i used Srafe50 for these two jumps...
+  
+        That's the same route as Panter but without waiting for the lifts.
+
+        The bar trick can be a lot faster... but is too much based on luck
+
+        P.S.: I did this cause i'm unable to do these bar trick... :((
+              (ex.: map16 and map22)
+
+  Author:    Vincent Catalaà
+
+  E-mail:    peroxyd@wanadoo.fr

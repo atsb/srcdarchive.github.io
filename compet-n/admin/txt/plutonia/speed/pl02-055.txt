@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL02-055.TXT
+
+ PL02-055.ZIP
+
+  PL02-055.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 02
+
+  Kills     14%
+  Items      0%            +++++++++
+  Secrets    0%  and Time  + 00:55 +
+                           +++++++++
+
+Description: Hey, this was eazy ;))). Third time I exit. Well, couse I don't
+             know maps first I played it a lot without monsters. I will
+             do it like that in all other maps. Practice with -nomonsters
+             helps a lot. Anyway map looks nice, only the begining is little
+             boring ;))).
+
+
+
+Author:    Marijo "Sedlo" Sedlic
+
+E-Mail:    msedlic@hotmail.com

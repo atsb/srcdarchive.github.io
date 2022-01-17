@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c2n9-007.txt
+
+ c2n9-007.zip
+
+  c2n9-007.lmp NM Speed
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E4M7
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Gusta
+  Indigo    ??%      ??%      ??%      method
+
+
+  Time:    0:07.48
+
+
+method   : First exit. :06 is possible
+                                       :)))
+gusta    : First exit. :06 is possible
+
+          
+Jakub "method_man" Razak <dale007@volny.cz>
+Adolf "GustA" Vojta <hita@seznam.cz>

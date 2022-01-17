@@ -1,0 +1,27 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : ES21-823.LMP
+Game     : TNT: Evilution
+
+Map      : MAP21: Administration Center
+Category : Nightmare 100% Secrets
+Client   : DOOM2.EXE V1.9f
+
+Player   : GuyNamedErick
+Email    : guynamederick@gmail.com
+
+Time     : 8:23
+Date     : 5-1-2018
+
+Description: Getting stuck on candles despite that you can walk around
+them sure is fun. :)
+
+This map is long and a drag to play, it gets easy once you get outside
+but for the first half you may die quickly or you may make it out with
+plenty of health to spare. I got a bit lucky that not many Hell Knights
+teleported into that room since that was my biggest trouble. I have
+tried to go for the BFG first, but since you'll most likely come back
+with less overall health, the effort can be a waste.
+
+Not always worth it skipping some monsters either, so better to kill
+them so they don't get some free hits from behind.

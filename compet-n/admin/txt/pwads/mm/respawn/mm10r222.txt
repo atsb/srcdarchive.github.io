@@ -1,0 +1,66 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm10r222.lmp, mm10r222.txt
+Date     : 2015-03-27 16:49
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : UV Respawn
+Map(s)   : MAP10: The Mansion
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Eric Baker
+Nickname : The Green Herring
+Country  : USA
+Email    : eabaker@san.rr.com
+WWW      : http://www.youtube.com/TheGreenHerring/
+-------------------------------------------------------------------------
+Kills    : 102%
+Items    : 13%
+Secrets  : 100%
+Time     : 00:02:22
+===================================
+Description:
+
+My first Compet-n entry in quite a while! This one was spurred by
+4shockblast's demo drive to improve Cyberdemon531's frequently suboptimal
+demos--more specifically, by dew pointing out on IRC that he published
+several Memento Mori UV -respawn runs recently. Having done several
+myself before, I decided to take a look at his records, and wound up
+looking for the earliest map that had one to do an improvement for. It
+was on Memento Mori MAP10: The Mansion, in 2:31. He writes the following
+in his text file, talking about Ryback's 2:44:
+
+"Really tough run, Ryback did a good job optimizing this run. I play a
+bit more aggressively here, and get some pretty good luck. (Not to
+mention advanced hud...)"
+
+It bears mentioning that Cyberdemon531 uses a mouse and keyboard, while
+Ryback (even today!) uses keyboard only. Not only that, but Cyberdemon531
+recorded all his demos in PrBoom-plus 2.5.1.4, which has improved screen
+resolution and an "advanced HUD" with a monster counter that shows you
+how many kills you've achieved and how many monsters are in the map.
+
+This new demo, on the other hand, was recorded in doom2.exe v1.9, which
+has neither. Oh, and because I used it, this demo is legal for Compet-n.
+Take that!
+
+All posturing aside, this is about an hour of effort, which I'm
+submitting because four extra hours (including breaks) did not get me
+exits that were faster. It's a run based as much on monsters and their
+respawn timers behaving nicely as it is on actual skill. I basically used
+Ryback's route with modifications to account for my using a mouse and
+keyboard. I skip the soul sphere, for example, because I can more easily
+dodge attacks and thus don't have to tank as much as Ryback does. There
+are also some ugly parts here and there, but overall, this run seems okay
+to me.
+
+A possible improvement is to skip the out-of-the-way imp in the room
+before you descend to the soul sphere secret. I'd have recorded a
+successful demo with that improvement by now if I were successful in those
+five hours. 2:1x may be possible if luck really goes your way.
+
+Enjoy!
+
+-= The Green Herring =-
+
+(This new text file format sure is clean...)

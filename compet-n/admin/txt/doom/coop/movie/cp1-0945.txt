@@ -1,0 +1,35 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+author:     Vincent Catalaa <peroxyd@wanadoo.fr>
+	    Nicolas Gandou <ngandou@wanadoo.fr> 	
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie 
+            
+level:      Episode 1 - Knee Deep In The Dead
+            
+stats:      
+
+   Level       Time   
+                        
+----------------------
+   E1M1        0:19     
+   E1M2        0:52
+   E1M3        1:07 
+   E1M4        0:45 
+   E1M5        1:40
+   E1M6        2:23
+   E1M7        2:02     
+   E1M8        0:37     
+----------------------
+   Total       9:45     
+
+
+
+
+==================
+Admin note (Ralf):   Nice coop again, the end of e1m6 is effective crossfire.
+                     e1m8 is done very fast, though without exit jump but one
+                     can't have everything, right?
+

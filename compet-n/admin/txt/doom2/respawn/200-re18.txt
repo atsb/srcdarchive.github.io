@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+200-RE18.TXT
+
+ 200-RE18.ZIP
+
+  200-RE18.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 18 - The Courtyard
+
+  Kills     28%
+  (Items    36)
+  Secrets    0%  and Time  01:34
+
+  Minimum Maximum Health = 200 %
+                           -----
+
+  Description :
+  Don't know what to write on this one. I've played this level several
+  dozend times (at least ;o) to do it as lv18-422 and fa18-439, so I know
+  it very well. I think its a very nice map on every category. This one is
+  the most simple of all - sorry for taking that easy point. The recording
+  looks a bit lucky - but it worked and there exist routes which are even
+  less dangerous.
+
+  Author: Rini (Steffen Udluft)
+
+  email: rini@mppmu.mpg.de
+

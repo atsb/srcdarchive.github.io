@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV13-442.TXT
+
+ EV13-442.ZIP
+
+  EV13-442.LMP - UltraViolence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with The Doom2.Exe Version 1.9 - only!
+
+  The Final Doom: TNT: Evilution - Level 13 - Nukage Processing
+
+  Kills    100%
+  (Items    45)
+  Secrets  100%  and Time  04:42
+                           -----
+
+
+Description:  Quite a large improvement over my last demo (1:41). This route
+              is pretty optimal, maybe there's a better way to kill the imps
+              in the radiation slime...
+
+              Demo itself is just okay, but from the yellow key door nearly
+              everything went perfect...
+
+
+Author:  Chris "Ryback" Ratcliff
+
+E-Mail   ryback@fcmail.com
+
+
+
+

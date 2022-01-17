@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+R2M6-436.TXT
+
+ R2M6-436.ZIP
+
+  R2M6-436.LMP - UltraViolence with -Respawn
+
+  Recorded using The Ultimate DooM v. 1.9
+  DooM -PlayDemo with The Ultimate DooM v. 1.9
+  DooM -PlayDemo with DooM v. 1.9
+
+  DooM - Ep.2 Mi.6 - Halls of the Damned
+
+  Kills    101%
+  (Items    38%)
+  Secrets  100%    and Time  04:36
+                             -----
+
+  Description:  I won't optimize any entries before uploading anymore,
+                because after another year I will beat them easily,
+                no matter if I optimized it before or not.
+                A very nice map btw.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

@@ -1,0 +1,32 @@
+This is a DooM 2 .LMP "Competition" Entry - Please forward it...
+
+ns06-142.txt
+ns06-142.zip
+ns06-142.lmp
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+  Doom2 - Level 06
+
+  Kills      61%
+  Items      11%           ************
+  Secrets   100%  and Time * 01:42.62 *
+                           ************
+
+************************************************************
+Skill   : 5 (Nightmare)
+Mission : Finish map in shortest time + 100% secrets.
+Player  : FX
+Date    : 22.06.1999.
+************************************************************
+Name : Zvonimir Buzanic
+Mail : vbuzanic@peek.hr
+URL  : http://members.xoom.com/zapclan
+ICQ  : 13198922
+************************************************************
+Comment : For this I needed 10 minutes :), and fixed time for 42 sec.
+	  I added jump at the and. This could be done for ~1:20.
+
+WARNING ! DO NOT TRY TO DO THAT AT YOUR HOME !
+
+You just need luck, or am I wrong ? Notice me please!

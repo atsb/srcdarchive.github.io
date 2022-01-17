@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E2M2-423.TXT
+
+ E2M2-423.ZIP
+
+  E2M2-423.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  Doom -PlayDemo with Ultimate DooM
+  
+  DooM - Episode 2 - Mission 2 - Containment Area
+
+  Kills    100%
+  Items    (54)
+  Secrets  100%  and Time  04:23
+                           -----
+
+
+Description: Changed my mind, didn't want to wait with this one, better to
+             get it over with. The result did not turn out as I had hoped,
+             pretty early in this (rather long sesion) I had 04:17 with
+             one forgotten secret. IMO at least 04:10 should be possible using 
+             this route (slightly modifyed Greensland route). But then there
+             is this new route Rini used...wonder if its better?
+             The ultimate route could lead to this map being done below 4 mins.
+             
+             My knocking is not very convinsing in this demo, but I'm tired 
+             now, I've had enough crates and imps for one evening...
+
+             Then again; Think I'll do a -fast lmp now to REALLY put this map 
+             behind :)
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

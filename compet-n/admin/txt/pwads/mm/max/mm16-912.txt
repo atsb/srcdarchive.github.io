@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+MM16-912.TXT
+
+ MM16-912.ZIP
+
+  MM16-912.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 16 - Stoned
+
+  Kills    100%
+  Items     xx%           ********
+  Secrets   90%  and Time * 9:12 *
+                          ********
+
+  Description : 
+
+This demo is optimal.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

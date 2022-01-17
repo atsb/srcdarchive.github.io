@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry
+
+PA15-315.TXT
+
+ PA15-315.ZIP
+
+  PA15-315.LMP - Pacifist style!
+
+  Recorded using Doom 2
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM2 - Map 15 - Industrial Zone
+
+  Kills    36%
+  (Items   25%)
+  Secrets  09%   and Time  03:15
+                           -----
+
+    Description: :-)
+
+		 Finally it's done...
+
+		 I first wanted to do this demo after reading Rini's p1m7 
+		 .txt :) This was about three months ago - so I'm not fast!
+
+		 About this demo: I only arrived at this route a few days 
+		 ago. What really helps is getting the supercharge. It's 
+		 possible to do the level without it - I had several tries
+                 getting right to the final room - but you're making things 
+		 harder for yourself. It's NOT possible to leave the blue
+		 armor - too much of your time is spent under fire from 
+                 troopers and shotgunners and chainers. I came up with this 
+		 route after MUCH trial and error, and substantial 
+	         improvements will need a lot of luck.
+
+		 The final demo doesn't look too hard - but I had luck at a 
+		 number of key points, such as running past the chaingunners 
+		 on the ramparts. Once you get the invuln, however, if your 
+		 route is right you're home free...
+
+		 This is probably my last COMPET-N recording... it just takes 
+		 up too much time. Plus, the current crop of players have 
+		 almost supernatural ability. I only stuck to undone tasks 
+		 because they didn't have times to beat :) Thx to everybody 
+		 who's recorded great demos for DooM, without them I would 
+		 never have pushed myself so far.
+
+
+        Author: Chris "Ryback" Ratcliff
+
+        E-mail: ryback@fcmail.com
+

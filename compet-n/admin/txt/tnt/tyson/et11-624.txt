@@ -1,0 +1,18 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      11
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      6:24
+
+Author	   j4rio
+
+Rather easy to miss 
+something that comes
+out too late from
+the silly teleporter.
+Managed to halve Xit's
+previous time, and 
+another minute off on
+top of that.

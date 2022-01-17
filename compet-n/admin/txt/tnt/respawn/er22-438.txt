@@ -1,0 +1,38 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ER22-438.LMP & ER22-438.TXT
+Date     : 2013-02-04 18:59
+Game     : Final Doom - TNT Evilution
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : MAP22: Habitat
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 111%
+Items    : 45%
+Secrets  : 100%
+Time     : 00:04:38:03
+===================================
+Description :-)
+
+I see what you did there Altima :) But I found a way to skip that error :p
+Anyway, I was intrigued with Altima's txt and I really want to sign up for
+a hate TNT MAP22 list. I just could not agree more with lousy door triggers,
+& no more crap..., even had better runs but I doubt I'll ever play it again.
+
+It's good to see some competition, and mine was Altima's txt stating:
+"Let me do you a favor: Stay away from this map.
+Especially on NM100S and on -respawn."
+You got me with that line so I had to fire up DOSBox and play. Thank you!
+
+First exit I got 05:14 (demo included) but was not happy at all with it.
+This is second time exit, so feel free to improve below 04:00.
+Played without any sound so don't be harsh for my stupid mistakes.
+
+That would be all... Cya folks!

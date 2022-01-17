@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV23-404.TXT
+
+ LV23-404.ZIP
+
+  LV23-404.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - Barrels O' Fun
+
+  Kills    100%
+  (Items    68)
+  Secrets  100%  and Time  04:04  (Par = 04:00)
+                           -----
+
+
+Description: Without tactics this level is very hard to complete.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      Akllin95@student.umu.se
+
+

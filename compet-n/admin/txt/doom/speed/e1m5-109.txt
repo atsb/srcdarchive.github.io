@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M5-109.TXT
+
+ E1M5-109.ZIP
+
+  E1M5-109.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.1 Mi.5 - Phobos Lab
+
+  Kills     48%
+  (Items    17)
+  Secret    11%  and Time  01:09
+                           -----
+
+  Description:
+
+  I did this level long ago but Anthe forced me to repeat it...
+
+  In this recording are only two really new elements:
+
+  1. I take the shotgun from the second and not from the first sergeant.
+
+  2. I don't shoot in the room with the two lowering pillars because this
+  would wake up the monsters on the way back. I use the counter-clockwise
+  direction because of a broken symmetry in the monsters behind the hidden
+  doors: all the right ones look to the center (to me) but only 3 out of 8
+  on the left side look to the center - the other 5 look to the wall. The
+  right ones can see me anyway (I pass there as the doors open) but the
+  left ones are still inactive until my first (barrel) shot. They wake up
+  and have to turn around. This helps me to leave this disgusting room.
+
+  In the next phase I use only 5 rockets. This gives me the opportunity to
+  kill one of the demons in the last room with a rocket.
+
+ Uwe Girlich
+
+ girlich@aix520.informatik.uni-leipzig.de
+
+

@@ -1,0 +1,20 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htn-258.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 2:58, NM speed / NM100s
+
+Author                  : Adam Williamson
+Email Address           : adam.williamson1@btinternet.com
+
+Description             : Phew, finally made this annoying run. Note the
+                          comically screwed-up ending! Amazingly I don't
+                          think this lost much time...
+
+************************************************************************

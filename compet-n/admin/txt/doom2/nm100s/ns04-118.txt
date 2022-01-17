@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NS04-118.TXT 
+
+ NS04-118.ZIP 
+ 
+  NS04-118.LMP - Nightmare! 100% Secrets
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Version 1.9 - Only
+
+  Doom2 - map04 
+
+  Kills     92%
+  Items     73% 
+  Secrets  100% 
+
+     ...and Time   01:18
+                  ------- 
+
+
+  Description: 
+  
+  The start is mostly very bloody, it's important
+  to have at least 40-50% health at the switch.
+  This time it went quite well, so I managed to exit
+  with some luck.
+
+
+  Radek Pecka
+  r.master@email.cz

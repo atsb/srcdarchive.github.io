@@ -1,0 +1,52 @@
+P2M5s043.TXT
+
+ P2M5s043.ZIP
+
+  P2M5s043.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.2 Mi.5 - Secret Exit
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  00:43
+                         -----
+
+Johnathan Rimmer writes:
+
+>  "That seems a bit slow," I said to myself and I loaded up the
+>  level.  Anyway, after a few tries I was having trouble getting
+>  the pack of demons out of the switch room.  This attempt was
+>  just a practice at first, I was just messing about (which is why
+>  I start opening the doors in the marble area) and suddenly I
+>  managed to get the switch and complete the level in 0:55!
+
+>  I guess I was pretty lucky with this one, but I haven't bothered
+>  trying to optimise it.  I expect a 0:45 is possible, probably less,
+>  so what are you waiting for?  Go for it! ;-)
+
+Good demo John! Route credit goes to Johnathan here...I had actually tried
+doing this before and for some reason the simple way to get to the marble
+area eluded me and I was trying to get past the imp on the normal route :).
+(That is possible by the way, and might possibly save a second or two, but
+it's much harder than this route). There's a lot less luck in this than it
+might at first appear. Once in the pinky room, this is probably the best
+way to do it, and a successful fast run on this route depends on a few
+things. You have to stay in a straight line opposite the pinky door as long
+as possible when you first open it, ideally you want to lure two pinkies
+out before having to run away. you should then run to the right, and get
+the stimpak, then run straight back, opening the door on the way, and
+hopefully luring out the third pinky. 3 pinkies out seems to be the ideal
+balance between losing time and being able to get in and out. You then
+go to the other end for about a second to drag the remaining pinkies away
+from the switch, run into the room, hit the switch, get out again and hope
+the lost souls go alright :). On this run, 4 pinkies came out, which made
+it rather too hard to manoeuvre in the outside room, so I lost quite a bit
+of time getting into the switch room...never mind. The lost souls went very
+well though. I've had a demo where I hit the switch rather quicker but didn't
+get back out :(, so i'd say definitely 0:40 is possible...go for it John! :)
+
+Adam Williamson
+Adam@scisoft.force9.co.uk

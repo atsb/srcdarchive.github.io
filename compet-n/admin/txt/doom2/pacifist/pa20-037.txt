@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA20-037.TXT
+
+ PA20-037.ZIP
+
+  PA20-037.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 20
+
+  Kills      ??%
+  (Items     ??%           
+  Secrets    ??%  and Time  00:37
+                           
+
+
+  Description : 
+
+Here is how to make this level easier.
+I made it with 20%, rare for me (usually i don't make it at all), and
+I didn't ever need that extra 10% (MMH 27% i think)
+
+New techniques:
+
+Shooting the wall past the tport while sinking to wake the
+monsters earlier, so that you can hide behind the shotgunners.
+
+Doing the megasphere detour.  Loses a very little bit of time than a jump
+(but if you do the whole circuit, you don't lose ANY time) but then you
+have 200/200 and it isn't difficult anymore.  You can sit in the lava and
+wait for the wall to sink, or you can try to time it from the megasphere
+platform.
+
+See the attached ak20t.lmp for another trick that is unfortunately too slow
+to be important, except perhaps in MAX or something.
+
+Andy Kempling
+aurikan@hotmail.com

@@ -1,0 +1,19 @@
+PA10-042.TXT
+
+ PA10-042.ZIP
+
+  PA10-042.LMP - Ultra Violence and Pacifist
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refuling Base
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  00:42
+                           -----
+
+  Description:  [ None received. ]
+           
+       Author:  Thomas Pilger

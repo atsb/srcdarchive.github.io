@@ -1,0 +1,13 @@
+This is a   Coop-N   entry (members.xoom.com/coopn)
+
+green:          Arno "SlagDooM" Slagboom (arnoslag@bart.nl)
+indigo:         Marko "Python" van der Want (markowant@freemail.nl)
+
+game:           Ultimate DooM
+category:       pacifist
+mission:        e2m2 Containment Area
+
+time:           0:16
+session tries:  014
+
+comments:       Enough for now.

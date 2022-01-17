@@ -1,0 +1,55 @@
+This is a .LMP "COMPET-N/requiem/" Entry - Please forward it...
+
+RF30-115.ZIP
+
+ RF30-115.LMP
+
+  RF30-115.TXT -Ultra-Violence -FAST
+
+  Recorded using "DooM 2 v1.9 - Requiem" ! (Complevel 2)
+  DooM2 -file REQUIEM.WAD REQMUS.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 30 - Nevermore by Adam Windsor
+
+  Kills:  32 / 27 (118%)
+  Items:  48 / 56 (85%)            ********
+  Secrets: 0 / 0  (ERROR) and Time * 1:15 *
+                                   ********
+  C-N entry #51.	Date: 13.03.2013
+
+  Description :)
+  Wow! Didn't even die at the end! This was extremely hard and I didn't
+  appreciate Xit's crappy demo until I tried it myself. Just exiting with
+  all pre-respawned monsters dead is an achievement. Getting this record
+  was harder than getting my F4M1-226. This level is by all means harder
+  than E4M1, and it will make you appreciate health bonus more than ever
+  before. This was just outstanding. Killing both cacos at the end looks
+  deceptively easy, but it is the hardest part of the whole thing. Dying
+  at the end is almost inevitable if you take the time out to destroy
+  both of those bulbus creatures. You most be always moving, standing
+  still for even a fraction of a second will result in death, but at the
+  same time, you must avoid getting telefragged.
+
+  Ahh, I dare anyone to challenge this. While I have no doubts the time is
+  improvable, you will be met with quite a challenge. It will not be easy.
+
+  Props to Adam Windsor for making such a challenging level, definitely one
+  of my favorite Icon of Sin maps, and defeating the Icon of Sin isn't even
+  the hard part.
+  								
+  								
+  By the way, COMPET-N record was 2:09 by Xit Vono
+, timestamped:
+  Sunday, June 23, 2002, 8:17:42 PM.
+
+  Complete Historic COMPET-N Leaderboard:
+  RF30-209 - Xit Vono - 23.06.2002
+
+  Note: Since this demo was recorded with requiem.WAD, I suggest 
+        you drop by at http://doomedsda.us/lmps/765/requiem.zip
+        and pick it up if you havn't already :) 
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

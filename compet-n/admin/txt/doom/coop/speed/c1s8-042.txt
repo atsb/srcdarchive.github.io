@@ -1,0 +1,25 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c1s8-042.txt
+
+ c1s8-042.zip
+
+  c1s8a042.lmp
+  c1s8m042.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e1m8 - Phobos Anomaly
+
+  Time:    0:42.62
+
+
+Marko:       Slag was giving me a nice boost at the end..I would have fallen down. :)
+
+Arno:        After 2x 43.00 we got our well deserved point.
+
+     
+Green:       Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:      Arno SlagDooM                (arnoslag@bart.nl)
+  

@@ -1,0 +1,13 @@
+  LV10 - Ultra Violence + Pacifist
+
+
+  Description :  
+  There exists no usable template for pacifist style in this map,
+  so I had to figure out a new route (that alone makes pacifist a
+  interesting challange:). Quite a lot places one can get stuck.
+  This took me a few hours, so it's MEDIUM
+
+  Date  : 28.05.97
+
+  Author: Rini (Steffen Udluft)
+

@@ -1,0 +1,37 @@
+| This is a COMPET-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ES27-246.LMP, ES27-248.LMP, and ES27-246.txt
+Date     : 2018-1-17
+Game     : TNT: Evilution (TNT.WAD)
+Client   : DOOM2.EXE V1.9 (Final Doom)
+Category : 100% Secrets
+Map(s)   : MAP27: Mount Pain
+Skill    : 5 (Nightmare)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 37%
+Items    : 22%
+Secrets  : 100%
+Time     : 2:46
+===================================
+Description: In no less than a day, well slightly more than a day, did two more runs on MAP27: Mount Pain, and my,
+this time I am seriously going to stop playing this map for a while now. I had a goal of going under 2:50, a
+secondary goal being 2:45 if I somehow managed to do everything pretty much pretty despite all odds of luck in
+this map, and really, the whole map is a frustrating series of luck testing events. You have to pray that in the
+tunnels you don't get fireballs hitting you as you rush blindly to make sure you have a fast time, and then you
+have the yellow keycard which is pretty much praying the shotgunners don't suddenly know how to aim at you. The
+last part, basically hope nothing kills you and pray the Arch-Vile will infight for a little extra time, but that
+rarely happens anyways. Overall, I am done after this run for Mount Pain, man, I never thought I would keep pushing
+a map to its limits like that.
+
+There's another demo of my 2:48 run, for the most part it's kind of the same as this but one thing that makes that
+demo stand out is a linedef skip at one of the lifts near the end. Earlier in the level I lost so much time because
+of some jerky Revenants and Pinky Demos, yet this linedef skipped managed to save me a lot of time, sadly I can't
+get it to be repeated so easily as I am on the rush after all. If only I can get this linedef to be skipped
+consistently, it's pretty much more time saved, but then again, I have played enough of this map as it is.
+
+Regardless, hooray, I have outdone myself once again!!

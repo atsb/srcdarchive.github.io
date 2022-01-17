@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+ES24-029.TXT
+
+ ES24-029.ZIP
+
+  ES24-029.LMP - NightMare !
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 24 - Quarry
+
+  Kills      27%
+  (Items      7%)
+  Secrets   100%  and Time  00:29
+                            -----
+
+  Description :-)
+  
+  Easy run. Tried to do the exit trick but
+  couldn't manage; seems much easier on the
+  other path (with the chaingunner).
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

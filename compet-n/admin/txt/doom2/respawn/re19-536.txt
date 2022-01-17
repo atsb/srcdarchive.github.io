@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE19-536.TXT
+RE19-536.ZIP
+
+RE19-536.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 19 - "The Citadel" -RESPAWN
+
+Kills    107%
+(Items    62)           
+Secrets  100%  
+
+   ...and Time    05:36 
+                  -----       
+
+
+
+Description: Ugly map... 
+                          
+
+
+Author:	     Henning Skogsto 
+E-mail:	     hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

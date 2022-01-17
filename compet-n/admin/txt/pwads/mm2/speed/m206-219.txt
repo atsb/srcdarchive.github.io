@@ -1,0 +1,18 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+M206-219.TXT
+
+ M206-219.ZIP
+
+  M206-219.LMP - Ultra Violence Speed
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad -playdemo with version 1.9
+
+  Memento Mori 2 – MAP06 - Trapped!
+
+Came up with an extra 2s quickly, wanted to try and get <2:15 but it's
+not happening for now...uploading this in case I never get back to it...
+
+Author: Adam Williamson
+adamw@happyassassin.net

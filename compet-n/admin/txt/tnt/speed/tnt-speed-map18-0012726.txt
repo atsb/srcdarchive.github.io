@@ -1,0 +1,42 @@
+Runner: Zero-Master
+IWAD: TNT.wad
+Category: UV-Speed
+Map: 18
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 6%
+Items    : 0%
+Secrets  : 20%
+Time     : 01:27.26
+
+Description: 
+I've been trying to do some 30ev attempts recently, 
+I really hate the waiting section on map 18 and decided 
+I'd take a closer look at the rocket jump discovered by stx-vile. 
+
+from his 18ev-133:
+"since it's a rare situation where you have to actually 
+change your direction in midair with a rocket to make a jump."
+
+While there are hardly any tricks left to discover in the iwads, 
+I do my best to find easier ways to achieve them, in this case 
+I have found out that it is in fact not needed to change direction midair. 
+
+I do however change SR50 direction mid air, but that is not nearly as complicated 
+as trying to change your direction.
+
+My rocket jump setup is slower than stx-vile, so I lose some time on it, 
+I gain time by taking another route. I tried to get a better time,
+but the rocket jump is far from the only thing that is difficult.
+Got stuck by some spectres which cost a couple of seconds unfortunately.
+I also got a bit confused since I hit the switch with chaingun straight away,
+wasted some time thinking I couldn't possibly have activated it so quickly.
+Ran into the cyberdemon and somehow pushed him far enough so I could exit.
+
+Overall this can obviously be improved by some seconds, 
+though it's just a frustrating run.
+
+The question is, will I include this in my next 30ev attempts?
+I can get a time of about 1:15 since I start with weapons, 
+which would be over a minute saved compared to 30ev-4434. 
+I will at least keep it as a backup strategy if I lose time earlier on.

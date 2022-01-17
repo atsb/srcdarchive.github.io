@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM291803.TXT
+
+ MM291803.ZIP
+
+  MM291803.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 29 - Island of Death
+
+  Kills     94%
+  (Items    42%)          *********
+  Secrets  100%  and Time * 18:03 *
+                          *********
+                          
+
+  Description :-)
+
+  This is a coop optimized map, there are some elevators controllable from 
+  distance, they are not showed this time, I don't have a remote control ;-)
+  I'm sure that 100% kill is possible too, but this time some monsters didn't
+  teleport in ;-( There is an archville too, with his help I could get even
+  more than 100% kills. 
+
+  Istvan Pataki
+  deity@sch.bme.hu

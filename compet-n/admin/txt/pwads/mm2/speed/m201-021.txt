@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M201-021.TXT
+
+M201-021.ZIP
+
+M201-021.LMP - Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 01 - Outpost
+      
+Kills       34%
+Items        0%
+Secrets      0%
+
+              *********
+  and Time -  * 0:21 *
+              *********
+
+
+Description:
+
+Haa! Ending with 1% health :P
+The run is impressive, chaotic map for sure !
+My first exit was 22 secs, and it was a low 22, so I thought about going
+for 21, which took a while, and this one is a low 21 too :|
+20 is possible, I remember playing even smoother and the monsters at the
+yellow key room ran away from me :P but I died at the exit door, and that
+happened many times so GL!
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop speed
+mission:  map18
+
+time:     0:22
+
+Vincent:  sweet trick, but not great playing, lotsa tries would make a 21
+
+xit-vono: 
+
+
+          

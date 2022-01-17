@@ -1,0 +1,15 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      3
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      5:26
+
+Author	   j4rio
+
+Nice route improvement
+by Xit. I didn't do any
+notable changes to it.
+Mancubines cooperated 
+nicely.

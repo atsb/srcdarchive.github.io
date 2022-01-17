@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PR02-331.TXT
+
+ PR02-331.ZIP
+
+  PR02-331.LMP - Ultra Violence - Respawn
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 02 - Well of Souls
+
+  Kills    127%
+  Items      0%                    
+  Secrets    0%  and Time = 3:31  
+                                   
+
+
+  Description: Okay, too many kills :)
+               Just an initial demo, should be easy to improve.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

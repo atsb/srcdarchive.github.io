@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ27-525.TXT
+
+ RQ27-525.ZIP
+
+  RQ27-525.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 27 - Cursed Kingdom
+
+  Kills     31%
+  Items     25%
+  Secrets   66%  and Time  5:25
+                           ----
+
+  Description :-)
+
+  Table filling...
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

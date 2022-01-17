@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF112218.TXT
+
+ HF112218.ZIP
+
+  HF112218.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 11 - Underground Base
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 22:18
+
+                          
+  Description:  This demo could be faster; unfortunately for me,
+                the Cyber turned out to be very inefficient at killing
+                things in this demo so I had to waste a lot of rockets.
+                Good level for -fast though, as you're never exactly
+                safe...
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

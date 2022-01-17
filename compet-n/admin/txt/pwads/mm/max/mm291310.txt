@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry
+
+MM291310.TXT
+
+ MM291310.ZIP
+
+  MM291310.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 29 - Island of Death
+
+  Kills    101%
+  Items     xx%           ********
+  Secrets  100%  and Time *13:10 *
+                          ********
+
+  Description : 
+
+I *really* want to like this level. I really do. It's a great level. Except it 
+has a faulty teleporter system. It doesn't prevent 100% kills but it effectively
+makes it purely random when you'll be able to exit. That's the trademark problem
+I always have with Moeller levels. There's some little quirk or gimmick that 
+just fucks up a perfectly designed wad. 
+
+Moeller implements coop support and instead of coop support being the same as 
+single with more monsters it's basically a different route for coop mode.
+This mostly translates into shortcuts for single player. Suprisingly this
+'coop support' was not the problem I thought it would be. For all the talk
+in the textfiles about it anyways.
+
+The teleporter in question is a series of large box sectors connected together
+by two teleport lines at each end. As linedefs are passed/walls fall and monsters 
+in further away sectors are now allowed to roam over these lines. Problem is they 
+sometimes walk right over the lines without teleporting! I first thought maybe
+because it was that monsters were blocking the teleport spot but that proved untrue. 
+I still can't figure out why they just walk over it. 
+
+I'd love to try this one in coop though, specifically 4 player coop tyson. Four 
+berserks? Oh baby, that is some coop fun! Keep this one in mind for LAN's...
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

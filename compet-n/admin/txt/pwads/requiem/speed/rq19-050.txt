@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ19-050.TXT
+
+ RQ19-050.ZIP
+
+  RQ19-050.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 19 - Skinny Puppy
+        
+  Kills     11%
+  (Items    15%)          *********
+  Secrets    0%  and Time * 00:50 *
+                          *********
+                          
+
+  Description :-)
+
+  With Gusta's shortcut, this map is indeed a nice speedrun.
+  Thought I'd add a shortcut myself :-)
+  
+  PS. Watch my -nomonsters demo for a third (pretty obvious,
+  but not much timesaving) shortcut.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

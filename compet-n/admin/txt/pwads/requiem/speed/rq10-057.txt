@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ10-057.TXT
+RQ10-057.ZIP
+
+RQ10-057.LMP 
+
+Recorded using DooM2 Version 1.9
+DooM2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+Requiem - Level 10 - The Black Gate
+
+Kills     16%
+Items     22%
+Secrets    0%
+Time      :57
+         ----
+
+Description:
+Entry #11, this one was tough to get.
+
+Realized after seeing the newest demo that good fortune at the beginning
+is what produces the best times.  The cyberdemon got lucky in this run. :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com (maybe not subject to change :)

@@ -1,0 +1,103 @@
+This is a DooM .LMP "Competition" Entry
+
+30PL4111.TXT
+30PL4111.ZIP
+
+30PL4111.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final DooM - Plutonia levels 1-30 on UV skill
+
+			    |46:54|	|41:11|
+
+01 - Congo                  -  :53	   :52
+02 - Well of Souls          -  :59	   :59
+03 - Aztec                  - 1:19	  1:20
+04 - Caged                  - 1:38	  1:11
+05 - Ghost Town             -  :41	   :43
+06 - Baron's Lair           - 1:47	  1:32
+07 - Caughtyard             -  :34	   :26
+08 - Realm                  - 2:02	  2:02
+09 - Abbattoire             - 2:16	  1:57
+10 - Onslaught              -  :36	   :33
+11 - Hunted                 - 1:01	   :59
+12 - Speed                  - 4:17	  3:02
+13 - The Crypt              - 1:46	  1:44
+14 - Genesis                - 1:33	  1:06
+15 - The Twilight           - 1:23	  1:13
+16 - The Omen               -  :54	   :45
+17 - Compound               - 2:13	  1:57
+18 - Neurosphere            -  :34	   :29
+19 - NME                    - 1:58	  1:36
+20 - The Death Domain       - 1:41	  1:44
+21 - Slayer                 -  :41	   :37
+22 - Impossible Mission     - 1:40	  1:33
+23 - Tombstone              - 3:07	  2:30
+24 - The Final Frontier     - 1:45	  1:31
+25 - The Temple of Darkness - 2:47	  2:02
+26 - Bunker                 -  :55	   :56
+27 - Anti-Christ            - 1:04	  1:11
+28 - The Sewers             - 2:03	  2:10
+29 - Odyssey of Noises      - 1:33	  1:26
+30 - The Gateway of Hell    - 1:14	  1:06
+
+Total - 41:11
+
+C-N entry #42, movie run #14.
+
+01: The run is 1 second faster already.. woo!
+02: Same troubles as before here.
+03: I don't like these hallways anymore than I did before. :)
+04: Stumbled a little at the start, but still improved the original time by
+    playing much less safe here.
+05: Same run as before.. I like playing this level. :)
+06: I think that this level is my favorite from the entire wad.  It's just a
+    fun level to finish.
+07: Another favorite, even if it's a short one. 
+08: I favored a new tactic at the end where I eliminate the archvile/revenants
+    on one side of the exit.  It seems like I can never exit without getting
+    pounded.
+09: Made a nice improvement to the previous time here.  The end of this level
+    can still be pretty exciting. :)
+10: Played less safe here by dodging the revenants rather than killing them
+    first.
+11: I've learned from experience that if the archviles wake up, your life can
+    be a living hell.. I would waste cells/rockets/health/armor just trying to
+    get out..    and you want all of that for map12. Thankfully, they stayed
+    asleep here. :)
+12: I actually tried a new strategy here that I didn't use even in the episode
+    run.  It allows me to save cells I would normally waste killing the cyberdemon.
+    I also perform the trick jump at the end.
+13: The same run as before, only slightly faster this time.
+14: The route I used in the episode run helped a lot here.
+15: Another route unchanged, just played less safe again.
+16: A little trouble at the end, since the archvile was off in happyland and didn't
+    want to boost me to the exit.
+17: Same route, only faster again.
+18: Got the archvile jump on the first try, yay!
+19: Played less safe once again.. that cyberdemon is still making me waste cells. :)
+20: Had a little trouble at the end trying to get the barons to destroy the barrels..
+    eventually just said the hell with it and did it myself, waking the revenants.
+    I came REALLY close to death here. :)
+21: Still shaky from the end of map20, but it went faster than usual. :)
+22: Got beat up at the red key, but escaped without any major losses.
+23: Didn't miss any switches this time. :)
+24: The cyberdemon spared me this time, allowing me to stay very healthy for
+    map25.
+25: Wow, this time is a personal record for me here.
+26: A routine run.. that megasphere kicks ass.
+27: Missed the invincibility the first time, but snagged it before I got myself
+    killed like in a previous attempt. :)
+28: Same run, only this time the monsters stayed asleep near the end!
+29: Same run again, only more confident than before.
+30: Took down the boss faster this time. :)
+
+Wow, I'm quite happy that I managed to get this run. :)
+This is my fourth successful 30pl total.. the first being the 46:54, the second
+a 42:26, the third.. well, the third sucked bad because map20 royally screwed up.
+Enjoy the run, because I think this will be my last attempt for a while. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

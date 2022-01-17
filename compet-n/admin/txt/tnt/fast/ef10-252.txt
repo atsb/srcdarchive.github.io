@@ -1,0 +1,29 @@
+| This is a Compet-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ef10-252.lmp, ef10-252.txt & ef10-252.jpg
+Date     : 2016-12-01 23:25 Philippine Standard Time
+Game     : Final Doom - TNT:Evilution
+File     : Doom II v1.9
+Category : UV-Fast
+Map(s)   : MAP10: Redemption
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : Justin Baliao
+Nickname : tinotormed
+Country  : Philippines
+Email    : justinbaliao@yahoo.com
+WWW      : https://www.youtube.com/channel/UC88vplWgds4i4Ua-2bJMDIA
+-------------------------------------------------
+Kills    : 100%
+Items    : 20%
+Secrets  : 100%
+Time     : 00:02:52.54
+===================================
+
+Played back with cndoom v2.0.3.2 to get the exact time.
+
+A 3-second improvement from my previous run, I have decided to perform a different strategy
+at the very beginning by getting two shotgunners to get involved at infighting.
+
+Same strategy as my previous run, except with a few close calls here and there. Nevertheless,
+managed to get the time above.

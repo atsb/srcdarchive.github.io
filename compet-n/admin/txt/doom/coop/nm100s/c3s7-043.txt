@@ -1,0 +1,34 @@
+This is a "COMPET-N/doom/coop/max" entry, please forward it.
+
+c3s7-043.txt
+
+ c3s7-043.zip
+
+  c3s7m043.lmp
+  c3s7g043.lmp   UV speed and UV pacifist
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E3M7 - Gate to ASS
+  
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%    method 
+  Indigo    ??%      ??%      ??%    Gusta 
+
+
+  Time:    0:43.60
+
+
+Method: Uff!!We played this map a long time.
+
+
+GustA: My view is surely not the one to watch but I'm happy I finnaly
+       didn't screw up method's great run. We did 44 about 20 times
+       so we are both satisfied we managed it!
+
+
+
+Jakub "method_man" Razak <dale007@volny.cz>
+Adolf "GustA" Vojta      <hita@seznam.cz>

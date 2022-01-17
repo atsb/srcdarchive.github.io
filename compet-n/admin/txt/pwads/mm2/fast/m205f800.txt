@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m205f800.TXT
+
+m205f800.ZIP
+
+m205f800.LMP - Ultra-Violence Max -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 05 - Rites of Passage by Paul Noble
+
+Kills      100%
+Items       80%
+Secrets    100% and Time - 8:00
+
+
+Description:
+
+The time should be around 7 mins here.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+28.05.2010

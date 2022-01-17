@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+09	47.43	I got my new computer so I thought I should redo at least one nomo
+
+
+Author:		Looper

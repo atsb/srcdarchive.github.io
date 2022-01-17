@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry
+
+RE17-547.TXT
+
+ RE17-547.ZIP
+
+  RE17-547.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 17 - Tenements
+
+  Kills    110%
+  (Items    54%)
+  Secrets  100%  and Time  05:47
+                           -----
+
+  Description:  In his really watchable (quite dramatic) first recording
+                of this map poeppy wrote:
+                > when going for 100% secrets this map's right
+                > up with 04, 22 and 29. this took me quite some
+                > time to finish with the 100% secrets and i'm
+                > quite happy now. :)
+                Well I disagree, I'd consider 22 and 29 somewhat harder,
+                but this may be because I consequently avoid triggering ANY
+                monsters releasing linedef. I had some problems with the
+                jumps and play it very hectic (compared to the slowhand
+                style when beeing a keyboarder), but anyway I think it's
+                not too bad for a complete novice like me ;-)
+
+                Expert will surely go for 4:00 ... Adam, Panter ?!
+                ... it's a fun map.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop fast
+mission:  map06
+
+time:     2:29
+
+Vincent:  blah
+
+xit-vono: table-filling.
+
+
+          

@@ -1,0 +1,12 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou
+
+game:     doom2 v1.9
+category: coop max
+level:    map01
+
+time:     0:31
+
+

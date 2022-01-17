@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E4M8-250.TXT
+
+ E4M8-250.ZIP
+
+  E4M8-250.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  Doom -PlayDemo with Ultimate DooM
+
+  Episode 4 - They Fish Consumed :)
+
+  Mission 8 - Unto The Cruel
+
+  Kills    100%
+  (Items    ?%)
+  Secrets  100%  and Time  02:50
+                           -----
+
+
+Description: Probably the easiest of epis-4. Lots and lots of plasma.
+             I changed Michael Greenslade's route slightly...Guess the end
+             could be done quite a bit faster.
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E3M6-007.TXT
+
+ E3M6-007.ZIP
+
+  E3M6-007.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.3 Mi.6 - Mt. Erebus - The Cheat! Way
+
+  Kills      0%
+  (Items     0)
+  Secrets    0%  and Time  00:07  :-)
+                           -----
+
+  Description :-)
+
+  I  *think*  I've seen this done in 0:06 already, but I don't know
+  where ... on the other hand, <CooLMP.EXE -LastUse> shows 00:07.74
+  even when only running to the blue box and pressing the space bar
+  once, so I *might* be just plain wrong as well ... ;-)
+
+  I *did* include a .BAT with this, 'coz  S.;-)  takes good care of
+  all the newbies out there. :-)  However, I'm convinced that every
+  serious LMP'er (like Anthe and me) has a highly-sophisticated one
+  of his own to handle this stuff - right? ;-)
+
+ Thomas aka ZlatkO ThE GoDFatheR
+
+ thomas_zajic@non-hp-austria-om1.om.hp.com
+
+

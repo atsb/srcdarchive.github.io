@@ -1,0 +1,32 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV09-819.TXT
+
+ LV09-819.ZIP
+
+  LV09-819.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 09 - The Pit
+
+  Kills    100%
+  (Items    63)
+  Secrets  100%  and Time  08:19
+                           -----
+
+
+Description: This level is much trickier than you would expect, especially
+             when Pain Elementals who used to be "harmless" start spitting
+             skulls. In nightmare mode all the pain elementels on this
+             level are "harmless" and so they were in a .LMP (in UV) that
+             I watched just a while ago, this is really strange because in
+             my games they spit skulls all the time.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

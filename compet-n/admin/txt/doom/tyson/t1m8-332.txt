@@ -1,0 +1,18 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+T1M8-332.TXT
+
+ T1M8-332.ZIP
+
+  T1M8-332.LMP 
+               
+  Recorded using The Ultimate DooM Version 1.9
+
+  DooM -PlayDemo with The Ultimate DooM Version 1.9
+ 
+ E1M8, all kills, tyson. Got the blue sphere and hit the secret switch in
+ case they're considered "secrets" :). Time taken with LMPC using the method
+ in COMPET-N rules - keep moving in the last room, and count last movement
+ in the .ls file.
+	
+

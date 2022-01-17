@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop tyson
+mission:  map04
+
+time:     5:24
+
+Vincent: funny
+
+xit-vono: Lots of bonus health and stuff.
+
+
+          

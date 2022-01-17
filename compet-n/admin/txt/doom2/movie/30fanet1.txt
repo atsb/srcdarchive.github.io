@@ -1,0 +1,71 @@
+This is not just another DooM .LMP "Competition" Entry...(:
+
+30FANET1.ZIP
+
+30FANET1.TXT
+30FANET1.BAT
+30FANET1.LMP - Ultra-Violence + 100% Kills & Secrets + -fast monsters + Net1
+
+This is a Compet-N/Doom2/MOVIE...((:
+
+Recorded using Doom2 Version 1.9
+Ipxsetup -Nodes 1 -PlayDemo with Version 1.9
+
+Description :
+
+	That's something very funny to do... the coop bonus big dudes add a lot 
+        to the fun. Besides that it's faster than my 30fanet1 (w/o fake coop).     
+        From 01 to 12 i know the routes... then it's pretty chaotic :).
+
+	I attached a BAT file to launch the demo, but u'll need IPX to play it.
+        Fro those who don't have IPX, Adam told me that there is a tool that 
+        emulates IPX in FDGMDEMO.Zip located in TeamTNT/finaldoom on Cdrom.com.
+
+	Credits to Adam Hegyi for checking the times and alive monsters
+        with his not yet released latest Timer. Here is the table 
+        he produced with it (i changed nothing).
+
+
+Map   Time	Added	Kills	Items	Secrets	Health	Armor	MMH	Alive
+---   ----	-----	-----	-----	-------	------	-----	---	-----
+MAP01 00:50.62	00:50	100%	66%	100%	100%	66%	51%	0
+MAP02 01:25.00	02:15	84%	57%	100%	132%	100%	50%	0
+MAP03 01:43.05	03:58	89%	30%	100%	200%	160%	62%	0
+MAP04 01:14.60	05:12	89%	54%	100%	148%	166%	110%	0
+MAP05 03:00.45	08:12	89%	85%	100%	125%	193%	75%	0
+MAP06 03:24.31	11:36	86%	52%	100%	200%	200%	7%	0
+MAP07 01:18.40	12:54	100%	28%	100%	200%	200%	124%	0
+MAP08 03:34.77	16:28	87%	80%	100%	200%	168%	164%	0
+MAP09 05:32.40	22:00	85%	80%	100%	146%	131%	38%	0
+MAP10 07:17.60	29:17	83%	69%	100%	200%	200%	62%	0
+MAP11 04:27.51	33:44	93%	63%	100%	188%	138%	80%	0
+MAP12 05:26.88	39:10	96%	80%	100%	148%	56%	49%	0
+MAP13 06:47.91	45:57	96%	34%	100%	200%	138%	35%	0
+MAP14 02:45.77	48:42	85%	100%	0%	133%	161%	51%	0
+MAP15 07:45.82	56:27	83%	88%	90%	174%	176%	49%	0
+MAP31 02:57.91	59:24	84%	10%	100%	187%	45%	37%	0
+MAP32 01:10.85	60:34	42%	100%	100%	200%	200%	179%	0
+MAP16 04:55.91	65:29	66%	80%	100%	182%	182%	82%	0
+MAP17 06:20.62	71:49	86%	78%	100%	197%	198%	49%	0
+MAP18 04:52.14	76:41	64%	50%	100%	200%	200%	64%	0
+MAP19 05:30.05	82:11	95%	32%	100%	155%	200%	74%	0
+MAP20 06:17.94	88:28	84%	66%	100%	200%	200%	120%	0
+MAP21 03:40.42	92:08	60%	72%	0%	200%	200%	51%	0
+MAP22 02:00.14	94:08	89%	25%	100%	194%	92%	82%	0
+MAP23 04:59.94	99:07	70%	54%	100%	200%	175%	11%	0
+MAP24 07:52.71	106:59	97%	69%	100%	200%	200%	72%	0
+MAP25 03:11.40	110:10	66%	100%	100%	82%	95%	52%	0
+MAP26 06:17.54	116:27	93%	74%	100%	97%	82%	61%	0
+MAP27 06:45.74	123:12	94%	75%	87%	200%	2%	64%	0
+MAP28 06:47.20	129:59	83%	72%	100%	136%	136%	14%	0
+MAP29 07:19.28	137:18	92%	84%	0%	89%	38%	7%	0
+MAP30 01:51.51	139:09	1500%	77%	0%	200%	200%	84%	9
+---   ----	-----	-----	-----	-------	------	-----	---	-----
+
+Total time: 139:09
+            ------
+         
+Author:    VinceDSS Catalaa 
+
+E-mail:    vincentds@netcourrier.com
+ICQ-UIN:   14712188

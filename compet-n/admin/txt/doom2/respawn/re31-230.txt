@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+RE31-230.TXT
+
+ RE31-230.ZIP
+
+  RE31-230.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills    100%
+  (Items     1%)
+  Secrets  100%  and Time  02:30
+                           -----
+
+  Description :-)
+  
+  Same comments as UV, really...
+
+  Adam Hegyi
+  ha211@hszk.bme.hu              

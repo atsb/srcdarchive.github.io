@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM02p842.TXT
+
+MM02p842.ZIP
+
+MM02p842.LMP - Ultra-Violence Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 02 - The Bridge
+
+Kills       54%
+Items       21%
+Secrets    100%
+
+              ********
+  and Time -  * 8:42 *
+              ********
+
+
+Description:
+
+Lots and lots of infighting here. Just hope that the Imps and Demons/Specters
+stay at a somewhat even number. Too many of one or the other was trouble for
+me here.
+
+I played really safe here, trying to get the enemies to infight as much as
+possible, so they wouldn't trap and kill me later.
+
+Red Key part was pretty much the easiest in the whole map for some odd reason
+this time around. I was a little hesitant going into that area, and I don't
+know why...I run in and get stopped by 2 Specters, so I backtrack out and
+wait for them to get out of there.
+
+The hardest part is probably having to lure all the Imps off of the last
+bridge to get across it without being Imp-raped...just kinda have to be
+patient with them and use the door and elevator and hope they head out the
+door =P
+
+And I have a nice close-call exit... 1% health ^_~
+
+BTW, this demo crashes timer around the 5:15 point, but it will play back in
+everything else ^^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+31.03.2003

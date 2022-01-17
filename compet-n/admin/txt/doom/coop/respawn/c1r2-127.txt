@@ -1,0 +1,14 @@
+This is a    Coop-N   entry (members.xoom.com/coopn)
+
+green:          Arno "SlagDooM" Slagboom (arnoslag@bart.nl)
+indigo:         Marko "Python" van der Want (markowant@freemail.nl)
+
+game:           Ultimate DooM
+category:       respawn
+mission:        e1m2 Nuclear Plant
+
+time:           1:27
+session tries:  005
+
+comments:       Under the single player record (1:40),
+                as it should be...

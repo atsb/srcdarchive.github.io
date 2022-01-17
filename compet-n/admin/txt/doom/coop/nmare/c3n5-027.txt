@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop NM speed
+mission:  e3m5
+
+time:     0:27
+
+xit-vono: Those pigs are bloody annoying.
+
+Vincent:  I lure some imps qnd skulls = very boring
+
+
+          

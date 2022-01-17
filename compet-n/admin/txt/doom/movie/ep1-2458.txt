@@ -1,0 +1,36 @@
+
+EP1-2458.TXT
+
+  EP1-2458.ZIP - Whole Episode on Ultra Violence
+
+  Recorded using DooM Version 1.9
+  &
+  Converted to DooM Version 1.666
+  &
+  Back again, to DooM Version 1.9
+
+  DooM - Episode 1 - Knee Deep in the Dead
+
+            Kills Items Secrets And *TIME*  Health Armour
+
+  E1 M1  -     75%   21%    0%       0" 49     (100 101)
+  E1 M2  -     59%   21%   50%       1" 36     (117  63)
+  E1 M3  -     75%   43%   57%       3" 57     (117  70)
+  E1 M4  -     58%   37%  100% !     2" 08     (168 179)
+  E1 M5  -     91%   65%   77%       4" 27     ( 38  13)
+  E1 M6  -     74%   44%   75%       6" 06     (102 116)
+  E1 M7  -     88%   61%   75%       5" 55     (100   0)
+  E1 M8  -    100?   ???  100?   [ Excluded! ]
+
+                     Total Time =   21" 238
+                                    21" +
+                                     3" 58
+                                    ------
+                     TOTAL TIME =   24" 58
+                                   --------
+
+  Gary Cauthon
+
+  gcauthon@umr.edu
+
+

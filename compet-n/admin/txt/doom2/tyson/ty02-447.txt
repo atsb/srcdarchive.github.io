@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+TY02-447.TXT
+
+ TY02-447.ZIP
+
+  TY02-447.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02
+
+  Kills    100%
+  Secrets  100%  and Time  04:47
+                           -----
+
+Hell, this is a hard level. Twelve seconds faster than the old record. The
+speed for this depends on a few factors. How quick you are punching the imps
+that come out of the traps in the red key area is the most important. The
+other big factor is how many bullets you manage to save for the end - I had
+14 going into the exit room, which is very unusual for my route, it's more
+often 2 or 3. This is mainly affected by how many sergeants you have to
+shoot...you should punch all the troopers you can, and all the imps you can
+too. This could obviously go a lot faster, maybe 4:00 would be optimal, but
+it's such a hard level you have to be careful. I've had two other runs where
+I died punching the very last sergeant...one a 4:43, one a 4:50...that kinda
+pissed me off :). I don't know how close this route is to the one Demonlord
+used, I made it up myself without seeing his demo. This seems to be the safest
+way of doing things quickly to me.
+
+Adam Williamson
+adam@scisoft.force9.co.uk

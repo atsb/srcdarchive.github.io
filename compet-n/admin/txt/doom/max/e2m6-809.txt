@@ -1,0 +1,32 @@
+This is a Doom "COMPET-N/doom" entry. Please forward it...
+
+E2M6-809.TXT
+
+ E2M6-809.ZIP
+
+  E2M6-809.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -playdemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Map     6 - Halls Of The Damned
+
+  Kills    100%
+  (Items    83)
+  Secrets  100%  and Time  08:09
+                           -----
+
+
+Description: I don't like records longer than 9:59. That's the only reason.
+             But my .lmp also looks as though I were asleep.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

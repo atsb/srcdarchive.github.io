@@ -1,0 +1,55 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+03RS0918.TXT
+
+ 03RS0918.ZIP
+
+  03RS0918.LMP - Ultra Violence Nightmare Movie!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Level 1:    88
+              16
+             100
+            0:57
+
+  Level 2:    70
+               0
+             100
+            1:19
+
+  Level 3:   101
+              50
+             100
+            7:02
+  
+
+  Total time:   9:18
+                          
+  Description :-)
+  
+  level 1: This map is an easy one.  Just try to exit with
+           as much health as possible.  I'm glad I thought
+           of a good method to kill the imps/shotgunners
+           without taking much damage.  I also took an
+           extra box of bullets to have more for map03.
+  
+  Level 2: This map is also easy.  I played slow to keep
+           as much health as possible for map03.
+
+  Level 3: I'm surprised this one caused me as few
+           problems as it did.  I had to try several times
+           to get my rn03-719, but this only took 3 tries,
+           and it doesn't help much to start the level
+           with armor and weapons.  There are a few
+           rough spots in this demo, but I survived.
+
+  Continuing on to finish level 4 would probably be
+  very difficult, so I didn't even attempt it.  I could
+  have saved a little time on map01 and map02 by not
+  getting the secrets, but since it doesn't make it
+  any harder, I decided to make the whole thing nm100%s.
+
+  Xit Vono
+  xit_vono@yahoo.com

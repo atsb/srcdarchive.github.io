@@ -1,0 +1,21 @@
+This is a   Compet-N Doom2\fast Demo
+
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+
+game:       DOOM 2 version 1.9
+
+category:   Fast
+            
+level:      Map26
+
+stats:      Kills   100%
+	    Items    ??%
+	    Secrets 100%
+
+	    Time  5:30
+
+description :-) 
+	 
+            It was harder than FA21 and FA25... but beats Henning by 42s !!
+            Under 5:00 is really possible.
+            

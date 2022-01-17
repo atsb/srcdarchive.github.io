@@ -1,0 +1,33 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+T1M8-204.TXT
+
+ T1M8-204.ZIP
+
+  T1M8-204.LMP - Ultra Violence, Tyson style
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Doom - Episode 1 Mission 8 - Phobos Anomaly
+
+  Kills    ??? % 
+  Items    ??? %            ********
+  Secrets  ??? %  and Time  * 2:04 *
+                            ********
+
+  Description :-)
+
+  I really don't like that exit jump :P
+  (although I made it this time :)
+
+  When working on the first demo, I had in fact been thinking
+  of staying around to help the barons down the stairs, but I
+  kept getting surrounded and ripped apart, so I abandoned the
+  idea. Thanks to Adam H. for showing it could be done :)
+
+  I was lucky enough to only need 4 bullets for the first demon
+  pack, and I had no waiting time in the exit room either.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

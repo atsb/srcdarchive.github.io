@@ -1,0 +1,23 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+er16-423.TXT
+
+ er16-423.ZIP
+
+  er16-423.LMP - Ultra Violence Respawn!
+
+  Recorded using Doom2.exe
+
+  doom2.exe -playdemo -file tnt.wad with doom2 ver. 1.9
+
+  Kills      100%
+  (Items     ?%)            *********
+  Secrets    100%  and Time * 04:23 *
+                            *********
+ 
+  Description :-)
+
+  Woo! Another point!!
+
+  BahdKo
+  bahdko@erols.com

@@ -1,0 +1,24 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF10-350.TXT
+
+ EF10-350.ZIP
+
+  EF10-350.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Doom2.Exe Version 1.9
+
+  Final Doom - TNT Evilution - Level 10 - Redemption 
+
+  Kills    100%
+  Items     60%           
+  Secrets  100%  and Time = 3:50 
+
+
+  Description: Not so hard, although it's best to play the start slow
+               and safe.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

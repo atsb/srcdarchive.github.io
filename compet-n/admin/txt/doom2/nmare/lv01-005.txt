@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV01-005.TXT
+
+ LV01-005.ZIP
+
+  LV01-005.LMP - NightMare!  ( Why Not ;-)
+
+  Recorded using Doom2 Version 1.666
+  Plus a Level1 (Doom2 Ver.1.9) .WAD
+  And Converted to Doom2 Version 1.9
+  Thus:
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 01 - "EntryWay"
+
+  Kills      7%
+  (Items     0)
+  Secrets    0%  and Time  00:05  (exact time - 05:97)
+                           -----
+
+  What's special:
+
+         For all these guys, who like running to the exit.
+         This is the ultimate challenge for them.
+         Almost all the time at strafe left/right 50,
+         except for the turns, and then only 40 ;-).
+         And the first tics are free, because every .LMP
+         starts a little bit later.
+
+  See (better with -TimeDemo) how I ran.
+
+
+ Kai-Uwe Humpert
+
+ gazelle@cs.tu-berlin.de
+
+

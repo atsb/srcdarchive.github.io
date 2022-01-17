@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM01F124.TXT
+
+ MM01F124.ZIP
+
+  MM01F124.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 01 - The Teleporter
+    
+  Kills    100%
+  (Items    17%)          
+  Secrets  100%  and Time = 01:24
+                                                  
+
+  Description: The beggining was good but then I missed two shots, and the ending could have                been better too.
+  
+  
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

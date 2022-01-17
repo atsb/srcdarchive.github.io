@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm14-308.TXT
+mm14-308.ZIP
+
+mm14-308.LMP - Ultra Violence!
+  
+This is a Compet-n/Memento Mori entry...  
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -File MM.wad -PlayDemo with Version 1.9 - Only
+
+Memento Mori - Map14
+
+Time - 3:08
+     -------
+
+Map description
+-------------------
+A good level for speedrunning, imho.
+
+Description: This is an improvement on my last mm14, a difference of over a minute.
+
+Date: 3/25/2002
+
+Author: SpinSpyder<KaK>
+E-mail: crow1126@bolt.com

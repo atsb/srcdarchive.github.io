@@ -1,0 +1,39 @@
+outl38 1 This is a DooM .LMP "Competition" Entry - Please forward it...
+
+0808nm01.TXT
+0808nm01.ZIP
+
+0808nm01.LMP - Nightmare!
+  
+This is a Compet-n/Doom2/Movie entry...  
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level's 01-10 run done nightmare style...
+  
+-------------------------------------
+			
+ 01  Entryway                0:05      	
+ 02  Underhalls              1:06    	
+ 03  The Gantlet             0:36  	
+ 04  The Foces               0:47          
+ 05  The Waste Tunnels       0:50  	
+ 06  The Crusher             1:15 		
+ 07  Circle of Death         1:11  	
+ 08  Tricks and Traps        0:29 		
+ 09  The Pit                 1:10 		    
+ 10  Refueling Base          0:39 		
+---------------------------------------
+        ...and total Time   08:08 
+                           -------
+
+Description: This wouldn't have happened without Henning's advice on map02 and map09.
+He also introduced me to the teleporter shortcut in the end of map06 which makes the 
+jump easier. Thank you Henning. 
+
+I still suck in map7 especially. I think I'll improve this one
+further sometime soon, unless Skogsto comes back with a 7:55 or something. 
+
+Author: Juho Ruohonen
+E-mail: ocelot_78@hotmail.com

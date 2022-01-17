@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV01-b56.TXT
+
+ LV01-b56.ZIP
+
+  LV01-b56.LMP - Ultra Violence
+
+  Recorded using Doom2 v1.666 with a lv01-v19.wad and then
+  ...
+  Converted to Doom2 v1.9
+
+  So,
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - "Entryway"
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:56
+                           -----
+
+
+Comments: This :56 is as fast as the record in COMPET-N/doom
+
+          [ I like DeathMatch more than Level -Record'ing. ]
+
+          Happy DooM-ing !
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

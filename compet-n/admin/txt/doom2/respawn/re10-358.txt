@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RE10-358.TXT
+
+ RE10-358.ZIP
+
+  RE10-358.LMP - UltraViolence with -Respawn
+
+  Recorded using Doom 2
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM2 - Map 15 - Industrial Zone
+
+  Kills   100%
+  (Items   60%)
+  Secrets 100%   and Time  03:58
+                           -----
+
+Description: Time to test out the new incoming. Nice kill ratio for this
+             level :) Looks plenty slow in places, so I'm sure this'll be
+             easy to beat.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com
+

@@ -1,0 +1,39 @@
+This is a DooM .LMP "COMPET-N/doom/" Entry - Please forward it...
+
+U4M2-146.TXT
+
+ U4M2-146.ZIP
+
+  U4M2-146.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  Mission 2 - Perfect Hatred
+
+  Kills    100%
+  (Items    40)		  ********
+  Secrets  100%  and Time * 1:46 *
+                          ********
+
+Comments: Okay, somebody improved all(!!!) the maps of Episode 4, including
+	  this one, which is mine. Because it was only a one second improvement
+	  (*sigh*), and my record was fairly old, I thought I should get it
+	  back. This one is the first LMP better than 1:52, still not perfect,
+	  I guess that 1:40 will be more or less optimal unless someone uses
+	  a new trick or route. I doubt that the BFG trick (grabbing it through
+	  the wall) will help. Or to pass the yellow key area fast the first
+	  time, but maybe somebody tries. We'll see.
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+
+WWW:      http://user.cs.tu-berlin.de/~gazelle
+
+IRC: 	  gazelle #berlin (IRCNET)
+	  gazelle #deathmatch (EFNET)
+
+Deathmatch: http://www.3daction.com/doom2/ (German Doom ][ League)

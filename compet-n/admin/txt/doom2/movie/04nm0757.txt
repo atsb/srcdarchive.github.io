@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+04NM0757.TXT
+
+ 04NM0757.ZIP - NightMare!
+
+  04NM0757.LMP - DOOM II LV01 up to almost the end in LV05 on NightMare!
+                                                      (smelled the exit)
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - LV01 to LV04 - Beginning to the Death!
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -     55%   77%   20%        1" 01    (100  71)
+  LV 02  -    114%   80%  100%        2" 54    ( 49  95)
+  LV 03  -     55%   22%  100%        1" 20    ( 94 104)
+  LV 04  -    138%   61%   33%        2" 42    ( 54   1)
+
+                     Total Time =    6" 117
+
+                                     6" +
+                                     1" 57
+                                    ------
+                     TOTAL TIME =   07" 57
+                                   --------
+
+
+  This time copied my own .TXT ;-)
+
+  Made many, many mistakes in MAP02 (forgot to take the 30% health in the
+  middle). I couldn't make up this low health and armour in the following
+  maps. Played well in MAP03 and MAP04, except in the last room with the
+  chaingunners, maybe I would have been able to get to (my ;-) MAP06, but
+  I totally forgot what to do facing the Cacos right at the end. It won't
+  take me too long to get through until MAP09 (Ahem - hopefully). So, my
+  daily quota is done - every day, a good .LMP :-)
+
+  (Steffen, come on, forget DooM (1) Schwarzenegger, just for one LMP ;-)
+
+ Anthe
+
+ Andreas Kren
+
+ anthe.kren@telecom.at
+
+

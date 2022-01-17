@@ -1,0 +1,17 @@
+200-RE19.LMP --> MAP19 on UV with respawning
+--------------------------------------------
+
+  Kills   : ??%
+  Items   : ??%
+  Secrets : ??%
+  Time    : ?:??
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: Not that fast, but it's unbeatable and
+it was only my second try ;-))
+
+Istvan Pataki
+
+deity@balu.sch.bme.hu

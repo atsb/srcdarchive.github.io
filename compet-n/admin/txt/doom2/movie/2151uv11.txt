@@ -1,0 +1,82 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+2151UV11.TXT
+
+ 2151UV11.ZIP
+
+  2151UV11.LMP - Ultra Violence
+
+  This is a Compet-n/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 2" - Levels 11 to 20 (inc. 31 and 32)
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 11        74%   57%   66%       2" 26     ( 88  75)
+  LV 12        19%   20%    0%       1" 40     ( 72  87)
+  LV 13        31%   19%    0%       2" 18     (100  56)
+  LV 14        76%   50%    0%       2" 14     (114  73)
+  LV 15        13%   12%   18%       1" 14     ( 85  20)
+  LV 31        46%    4%  100%       1" 20     (200 158)
+  LV 32        36%   66%   16%          22     (197 155)
+  LV 16        26%   40%    0%       1" 10     (180 182)
+  LV 17        84%   56%   33%       5" 07     (195 196)
+  LV 18         8%   39%    0%          44     (200 200)
+  LV 19        18%    3%   22%       1" 45     (141 147)
+  LV 20        29%   11%   14%       1" 31     (187 193)
+
+                     Total Time =   17" 291
+                                    17" +
+                                     4" 51
+                                    ------
+                     TOTAL TIME =   21" 51
+                                   --------
+
+
+Description: About the levels:
+
+             Level 11 Is in my opinion rather easy, and if it hadn't
+             been for the ...... pain elemental just below the platform
+             (in the room with the caco-demons near the end) it would
+             have been a rather nice level...I think this is one of the
+             levels you have to be rather satisfied with the time, though
+             it could probably have been about 15-20 seconds better.
+
+             Level 12 Not much to say really, not perfect but I'm satisfied.
+
+             Level 13 This level is probably the hardest of 'em all.
+
+             Level 14 Rather an easy level if you plan it well.
+
+             Level 15 A bloody disaster! I've done this level in 47 seconds
+             starting with pistol...
+
+             Level 31 Just run and run...
+
+             Level 32 Just run and shoot rockets...
+
+             Level 16 One of my favourite single player levels, a lot
+             of monsters. Could be done faster, about 20 seconds.
+
+             Level 17 Should have used more plasma on this level...
+             I think 1 minute could be cut...
+
+             Level 18 Just run and run...and shoot BFG.
+
+             Level 19 I can't understand the door-button thing on this level
+             it never seem to work for me, should have been 20 seconds faster
+
+             Level 20 Too slow, could have been about 30 seconds faster.
+
+             Overall I think that Episode 1-10 is much harder to complete.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

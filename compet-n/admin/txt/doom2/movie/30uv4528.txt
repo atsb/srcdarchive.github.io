@@ -1,0 +1,85 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30UV4528.TXT
+
+ 30UV4528.ZIP
+
+  30UV4528.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom II - ALL levels 01-32 - "Compet-N/Doom2/Movie"
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -     0%    0%    0%           06     (100   0)
+  LV 02  -    64%   25%  100%        1" 07     ( 89 161)
+  LV 03  -    25%   22%  100%           43     (176 179)
+  LV 04  -    63%   58%   66%           57     (149 154)
+  LV 05  -    21%   33%    0%           47     ( 97  57)
+  LV 06  -    41%    5%   66%        1" 35     ( 60  70)
+  LV 07  -   100%   83%  100%        1" 07     (100  97)
+  LV 08  -    19%   60%    0%        1" 03     (168  65)
+  LV 09  -    37%   25%    0%        1" 46 !   (124 146)
+  LV 10  -    14%   21%   16%           53     ( 63  96)
+  LV 11  -    49%    4%   33%        1" 33     ( 80   4)
+  LV 12  -    11%   40%    0%        1" 20     ( 80  76)
+  LV 13  -    31%   21%    0%        2" 07     (100  81)
+  LV 14  -    56%   50%    0%        1" 46     ( 40   0)
+  LV 15  -    10%   12%   18%           51     (100   0)
+  LV 31  -    28%    1%   50%           43     ( 34   0)
+  LV 32  -    54%  100%   33%           21     (190 192)
+  LV 16  -    16%   20%    0%           51     (161 166)
+  LV 17  -    80%   59%    0%        3" 30     (157  27)
+  LV 18  -     3%   37%    0%           37     (200 115)
+  LV 19  -    13%    6%   22%        1" 11     (170 104)
+  LV 20  -    25%   28%   28%        1" 17     (184 190)
+  LV 21  -    62%   50%    0%        1" 27     (156 158)
+  LV 22  -    83%   71%   66%        1" 37     (100  42)
+  LV 23  -    51%   27%  100%        1" 35     (145 119)
+  LV 24  -     9%    0%    0%        1" 51     (100  65)
+  LV 25  -    48%   50%   50%        1" 05     (109 121)
+  LV 26  -    50%   27%   50%        1" 35     (154 156)
+  LV 27  -    40%   20%   12%        2" 03     (200 129)
+  LV 28  -    37%   36%   28%        1" 33     (152 152)
+  LV 29  -    64%   80%    0%        4" 03     ( 94 108)
+  LV 30  -  2700%   50%    0%        2" 28     (156 156)
+
+                     Total Time =   30" 928
+                                    30" +
+                                    15" 28
+                                    ------
+                     TOTAL TIME =   45" 28
+                                   --------
+
+
+Description: Well, just another "DooM II Lightning" .LMP from me.
+
+             This one is about 4 mins. faster. I have not got the
+             time to comment on all of the levels - but there are
+             a few things I'd like to say:
+
+             Level 09: the fall at the end cost me about 5 sec.
+
+             Level 29: isn't perfect at all - the time could be
+                       30 sec. better.
+
+             Level 30: a complete disaster...
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+
+[  Admin. Note :-)  Thanks for creating your own table - mildly
+   inaccurate values corrected [ LV09 was not 01.43 ] and thus:
+   filename changed "4525UV01 --> 30UV4528" - Great Run !!! :-)
+
+S.;-) aka. The "Judge". ]
+
+

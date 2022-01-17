@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M7-305.TXT
+
+ R1M7-305.ZIP
+
+  R1M7-305.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    100%
+  (Items    42%)
+  Secrets  100%  and Time  03:05
+                           -----
+
+  Description:  Your turn Donatas ;-)
+                I guess I could reach something like 2:50 here, but my
+                motivation in squeezing seconds is not too high.
+                I prefer to play new things, where one has to figure out
+                new routes. This safety thing (eg. 200-r1m4, 200-n2m2)
+                still leaves lots of space to dicover new routes.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

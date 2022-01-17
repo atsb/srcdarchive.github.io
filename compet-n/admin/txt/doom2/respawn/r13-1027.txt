@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R13-1027.TXT
+
+ R13-1027.ZIP
+
+  R13-1027.LMP - Ultra Violence with -Respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 13 - DownTown
+
+  Kills    102%
+  (Items    55)
+  Secrets  100%  and Time  10:27
+                           -----
+
+  Description :
+  The first 7 minutes or so are quite nice action, I think *).
+  But then there occurs a big problem:
+  When do I have 100% kills? Heart says: "Hey, it's all done, let's
+  exit." But brain says: "No, I won't risk having below 100% kills!"
+  So I go near the exit and start to fire my whole ammo in the crowd
+  of monsters, nearly killing myself by idiotic rocket usage. As ammo
+  is used up, I chainsaw a cacodemon. Heart says: "This isn't the right
+  time to do RespawnTyson!" Brain agrees => exit.
+  Puuuh, 102% - lucky I am ;-)
+
+  Author:      Rini (Steffen Udluft)
+
+  E-mail:      rini@mppmu.mpg.de
+
+  *) Playing around with the door in the blue key-card room
+     wasn't that a good idea.
+

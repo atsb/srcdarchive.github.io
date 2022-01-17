@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pr07-123.txt, pr07-123.lmp
+Date     : 2014-3-16 20:27
+Game     : The Plutonia Experiment
+Client   : doom2.exe v1.9
+Category : UV -respawn
+Map(s)   : MAP07: Caughtyard
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 100%
+Secrets  : 100%
+Time     : 00:01:23
+===================================
+Description:
+
+Fun level, and I thought Archy's demo could use some improvement. This is still improvable as well (on my best start, for instance, I had 24 rockets after killing all of the mancubi), but I'm happy to have under j4rio's max. I got a 1:35 in about 40-50 minutes, but I wasn't satisfied since it looked rather ugly.

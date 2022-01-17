@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM01r113.TXT
+
+ MM01r113.ZIP
+
+  MM01r113.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 01 - The Teleporter
+
+  Kills      101%
+  Items        0%            
+  Secrets    100%  and Time: 1:13 
+                             ==== 
+
+  Description :-)
+
+  3rd COMPET-N entry.
+
+  A perfect start to the WAD; quick and packed with action. 
+  It's also quite tricky, since you're not provided with any 
+  armour and there are hitscan monsters everywhere. Especially 
+  the last part can be madness (it looks easy in this attempt 
+  but I was usually gunned down). With respawning monsters, it 
+  gets even worse... you're ambushed all the time. I had to 
+  camp in a corner waiting for the bars to rise, so I wouldn't 
+  get any surprise attacks from behind.
+
+  The teleporter bug is not as intrusive as it is on regular 
+  UV, since respawning monsters can compensate for those who 
+  take "forever" to teleport in. Nice.
+
+  This run went okay. I was aiming for a time below 1:10, but 
+  every time I pushed for speed I got killed, or got less than 
+  100% kills. Perhaps I'll come back to this map some other 
+  rainy day. :-)
+
+  Kristian Ronge
+  zuckuss@gmail.com

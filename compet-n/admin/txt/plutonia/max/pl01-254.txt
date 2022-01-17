@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+PL01-254.TXT
+
+ PL01-254.ZIP
+
+  PL01-254.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - Plutonia Expt - Level 01 - Congo
+
+  Kills    102%
+  (Items     0)
+  Secrets  100%  and Time  02:54
+                           -----
+
+
+Description: Hard for a first level, but from scratch every level is
+             like a first one. Nice HOM, btw.
+             Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

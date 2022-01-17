@@ -1,0 +1,28 @@
+This is a Doom .LMP "Competition" Entry
+Recorded using Ultimate Doom Version 1.9
+
+Ultimate Doom - E1M9, "Military Base" - UV Max
+
+=--------------=
+Kills      100%
+Items       48%
+Secrets    100%
+
+Time       2:15
+=--------------=
+
+Ultimately this session came up short, as a one
+second improvement was not what I was looking to
+accomplish here, but I realize why this record
+stuck around for so long.  There's definitely
+improvements that can be made, as I've handled
+just about every room better in other attempts
+at some point, but this level suffers from the
+wandering monster syndrome on this route so it's
+hard to find motivation to optimize it.
+
+This was primarily done because the older demo
+by me was ugly. :D
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore83@gmail.com

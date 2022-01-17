@@ -1,0 +1,22 @@
+This is a DooM .LMP "Competition" Entry
+
+MM06F629.TXT
+
+ MM06F629.ZIP
+
+  MM06F629.LMP - UV Fast
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 06 - The Powerstation
+
+  Kills    100%
+  Items     79%           ********
+  Secrets  100%  and Time * 6:29 *
+                          ********
+
+  Description :-)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+151-RE16.TXT
+
+ 151-RE16.ZIP
+
+  151-RE16.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills     33%
+  (Items    40%)
+  Secrets   75%  and Time  03:28
+
+  Minimum Maximum Health = 151 %
+                           -----
+
+  Description:  well, i'm no demonlord, so i have to do it the
+                slow and save way.
+
+                the question is when to take the invul: before
+                the blue keycard to cross the acid lake or
+                afterwards, so it can last the rest of the demo.
+
+                i took it first and i'm not quite happy with
+                the result: scratching imps. juck!
+
+                for me it's vital to have the bfg, and if someone
+                could manage to get the bfg and make it to the invul
+                without taking damage, we may well see a 200-re16.lmp
+
+
+       Author:  Thomas "Poeppy" Kroppen
+
+       E-mail:  poeppy@aol.com

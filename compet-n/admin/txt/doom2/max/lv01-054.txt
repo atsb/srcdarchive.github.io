@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV01-054.TXT
+
+ LV01-054.ZIP
+
+  LV01-054.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - "Entryway"
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:54
+                           -----
+
+
+Computer: P/100 with Matrox Millenium and AWE32 (Dasa's one)
+          - Oh I love the smooth running.
+
+
+Comments: I tried hard to beat the old record - which has already been
+          pushed under 1:00 - but on a P/100 it was a case of 7 tries.
+          Right after a 0:55, a 0:54 (this one). From record to record
+          1-2 sec less, when will this end? The Ultimate Record should
+          be around 0:45. Who will get there first?
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

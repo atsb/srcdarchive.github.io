@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV16-119.TXT
+
+ EV16-119.ZIP
+
+  EV16-119.LMP -UV speed!
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 16 - Deepest Reaches
+
+  Kills       20%
+  (Items       4%)
+  Secrets     50%  and Time  01:19
+                             -----
+  Description :)
+
+  Vince's demo was hard to beat here.  I decided to use plain
+  old doom2.exe because I think the last teleporter goes a bit
+  faster that way.  If you play it back with final doom then it
+  will desync at the very end.  In fact it will still exit as a
+  1:19 but you don't see as much on the intermission screen.
+  One thing you may have noticed in some speedruns on this map is
+  that sometimes a monster holds the door at the start open.  This
+  didn't happen here though.
+
+  Xit Vono
+  xit_vono@yahoo.com

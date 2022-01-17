@@ -1,0 +1,28 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV22-213.TXT
+
+ LV22-213.ZIP
+
+  LV22-213.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 22 - The Catacombs
+
+  Kills    100%
+  (Items    28)
+  Secrets  100%  and Time  02:13  (Par = 2:30)
+                           -----
+
+
+Description: Pretty small and easy level, tough start though, a piece of
+             advice: don't play this on nightmare.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

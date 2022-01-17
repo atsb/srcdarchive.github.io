@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+  EV32-424.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 32
+
+  Kills     ??%
+  (Items    ??)
+  Secrets   ??%  and Time  04:24
+                           -----
+
+  Description:
+
+	Very long level to speed through.
+        The end part is very hard... especially the combination of switches
+        to exit (i missed it 3 times here).
+ 
+        Anyway i'll try to redo it if someone bothers to beat that... 
+        that's my first succesfull try :)
+
+        Beside that this map is very nicely designed and is very fun to play.
+
+  Author:      Vincent Catalaa
+
+  E-mail:      peroxyd@wanadoo.fr
+

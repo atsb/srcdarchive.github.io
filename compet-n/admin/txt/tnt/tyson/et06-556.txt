@@ -1,0 +1,13 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      6
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      5:56
+
+Author	   j4rio
+
+Woo, got it somewhat
+right this time. At 
+least timer says so.

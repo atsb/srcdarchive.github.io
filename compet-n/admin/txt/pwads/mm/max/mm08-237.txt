@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry
+
+MM08-237.TXT
+
+ MM08-237.ZIP
+
+  MM08-237.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - And The Dead Shall Rise
+
+  Kills    100%
+  Items    100%           ********
+  Secrets  100%  and Time * 2:37 *
+                          ********
+
+  Description :
+
+nice! Potentially the first demo by me actually worth watching.
+
+This demo is now over 1 minute faster then Yonatan's 3:39. 
+
+I like this map a lot and I've been trying to designate it as my map. After watching Drew's
+2013mm01 speed exercise I saw a potential shortcut I could use in a max demo. I didn't
+realize the invuln could be reached without climbing the steps. So that was all the 
+motivation I needed (all I really wanted was under 3:00). Then I watched Chris's mm08f430
+and picked up another time saving tactic. I use the same angle Chris does to shoot the
+enemies on the armor platform. Where as before I'd approach the switch and either shoot
+left or right now I can shoot at a 45 degree angle and get them mostly all in view. 
+
+BTW, if you want to see a lucky demo check out mm08luck included in this zip. Lucky timing 
+as I barely catch a lift and kill a caco on my way up just before I get out of view. And, 
+of course, the mandatory 1% health finish. =) I swear that I was about 10 tics away from dieing in that lava. 
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

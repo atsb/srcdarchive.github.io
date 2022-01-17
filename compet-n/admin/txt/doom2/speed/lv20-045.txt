@@ -1,0 +1,42 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV20-045.TXT
+
+ LV20-045.ZIP
+
+  LV20-045.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - Gotcha!
+
+  Kills      4%
+  (Items     6)
+  Secrets   14%  and Time  00:45
+                           -----
+
+
+Description:    "Description :)                        "
+                "I've found a faster *funny* way ... :)"
+                "Istvan Pataki                         "
+                "deity@balu.sch.bme.hu                 "
+
+                Thanks to Istvan ;-)
+                But if you make it fast, make it REAL fast. ;-)
+                So that no DL uses the north wall making a 0:47
+                & no gazelle "running is my life" finds a small
+                improvement, which is even more dangerous.
+
+                Made 3 * 0:47 lmps, but something went wrong in
+                all 3. So I tried for a 0:46, making a 0:45 ;-)
+                It's quite good (45.4), so if anyone makes 0:44,
+                or tries to make it, he must be nuts. Really !
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

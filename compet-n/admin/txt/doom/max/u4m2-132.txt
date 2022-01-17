@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+U4M2-132.TXT
+
+ U4M2-132.ZIP
+
+  U4M2-132.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Final DooM - Ep.4 Mi.2 - "Perfect Hatred"
+
+  Kills    100%
+  (Items    40%)
+  Secrets  100%  and Time  01:32
+                           -----
+
+  Description :-)
+
+  To say the truth, a while back I didn't think a time like
+  this would be possible here because Kai's and Anders' runs
+  seemed so good back then. Especially that this is 12 seconds
+  faster than the previous record and 21 (!) seconds faster
+  than Kai's groundbreaking "Chris Boardman" demo.
+  I used some new tactics here and there, but none of them
+  are really earth-shattering. I left the rising walkway for
+  later use, and also grab the BFG as soon as possible. I also
+  do the start much faster. Apart from a few shotgun shots
+  at the start, I don't use any other weapon other than BFG
+  throughout the run.
+
+  I would say it should be possible to do under 1:30 and even
+  1:25 with better shots and tactics. One place of improvement
+  would be doing the direct jump to the yellowkey baron when
+  I return there (hard).
+
+  I exit with 80 cells left, I wonder what I should do with them? :)
+
+  PS. Check out the TAS page soon for a hellishly fast max run
+  of this map.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu  

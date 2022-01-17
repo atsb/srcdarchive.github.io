@@ -1,0 +1,23 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      7
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      17:02
+
+Author	   j4rio
+
+I wanted to halve Xit's 
+time, which I managed, 
+so fine, although I had 
+16:XX and 14:XX with 9X% 
+kills. Getting berserk 
+is luckbased and requires 
+a lot of retries and one 
+has to be careful not to 
+trigger floor lowering 
+linedefs too soon, or 
+floors won't lower at all, 
+meaning almost certain retry. 
+They are sort of bugged.

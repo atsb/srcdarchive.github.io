@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM06-105.TXT
+
+ NM06-105.ZIP
+
+  NM06-105.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 06 - The Crusher
+
+  Kills     44%
+  (Items     5%)
+  Secrets   33%  and Time  01:05
+                           -----
+
+
+  Description :-)
+
+  I thought of doing this map some time ago, but I never tried if because
+  I thought Ilya's 1:15 was already improved by Panter. Well I was quite
+  surprised that the 1:15 was still the best, so I decided to give it a go.
+  I got 1:12 with Ilya's route fairly easy. Then I tried doing the UV route,
+  taking the 1st mega on my way back, not taking plasma and the 2nd mega.
+  This proved out to be too hard, the imps on your way back from the red key
+  room are too tough on NM with SG. (Prove me wrong, anyone...)
+  Then I tried this plasma version and taking the 1st mega right at the start,
+  and leaving the 2nd mega. I got 1:07 with this. Then I realized that I don't
+  have to kill the sargeant at the elevator... another 2 secs seemed possible.
+  Here it is... after 220 tries. (Half of those missing the 1st jump, heh)
+  I'm fairly satisfied but of course this still can be improved furthermore...
+  I'd say one could end up with 1:01-1:02 on Nightmare...
+
+  Adam Hegyi
+  ha211@hszk.bme.hu
+  

@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/doom2" Entry - Please forward it...
+
+LV05-342.TXT
+
+ LV05-342.ZIP
+
+  LV05-342.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  03:42
+                           -----
+
+
+Description: Tried not too long. Make it better, then I'll try more.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

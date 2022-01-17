@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+MM14-147.TXT
+
+ MM14-147.ZIP
+
+  MM14-147.LMP - Ultra Violence!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+
+  Kills     ?%
+ (Items     ?%)          ********
+  Secrets   ?%  and Time * 1:47 *
+                          ********
+
+  Description : 
+
+  A big more aggressive playing never hurts. This demo looks like shit though,
+  getting stuck on walls and missing shots. 1:30 should be possible without
+  too much of a hassle. This is my first exit.
+  
+  Erik Alm
+  erik_a80@hotmail.com

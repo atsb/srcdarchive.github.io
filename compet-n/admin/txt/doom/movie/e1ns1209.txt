@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+E1NS1209.TXT
+E1NS1209.ZIP
+
+E1NS1209.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Ultimate DooM - "Knee Deep in the Dead" on Nightmare! skill w/ 100% secrets
+
+E1M1 - Hangar             -  :22 
+E1M2 - Nuclear Plant      - 1:07
+E1M3 - Toxin Refinery     - 2:25
+E1M9 - Military Base      - 1:07
+E1M4 - Command Control    -  :33
+E1M5 - Phobos Lab         - 2:30
+E1M6 - Central Processing - 1:48
+E1M7 - Computer Station   - 2:17
+E1M8 - Phobos Anomaly     - excluded
+
+Total - 12:09
+
+C-N entry #28 and my second movie run. :)
+
+Well, this certainly has been a productive month for episode 1, and well deserved to
+be sure.  First with the individual level improvements, then with a new e1nm, and
+and finally this.  A very big thanks to Johnathan Rimmer for his route and time as
+well. :) Very few alterations to the route could be made.
+
+BTW, the new e1nm (e1nm0659) does not show up in incoming, so you'll have to check the
+ftp if you want to see it. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

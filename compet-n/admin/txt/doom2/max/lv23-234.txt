@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV23-234.TXT
+
+ LV23-234.ZIP
+
+  LV23-234.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O' Fun"
+
+  Kills     100%
+  Secrets   100%
+
+   ...and Time  2:34
+               ______
+
+  Description :
+
+Keene Ho (great demo, BTW!) wrote:
+
+>  Question: If a person doesn't kill the Pain Elementals at
+>            the start, how much time can be saved?
+
+Question: If a person uses the speedrun rotue at the start, how much time can
+          be saved?
+
+Answer: 1 second, according to this demo ;). Sorry to only improve by such a
+        small amount, Keene, and I wouldn't have uploaded this except that the
+        route is changed. On this route you get through the start quicker and
+        are able to kill more pinkies early, too. This would've been 2-3 secs
+        faster if i hadn't somehow managed to forget the route at the end :).
+        I forgot to shoot the last set of barrels, then missed shooting the
+        single barrel first time :). Optimal is tough to say, about 2:20
+        maybe.
+
+Author:      Adam Williamson
+E-mail:      adam.williamson1@btinternet.com
+

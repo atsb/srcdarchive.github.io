@@ -1,0 +1,67 @@
+=> This is a DooM .LMP Compet-N Entry <=
+
+PA21-028.TXT
+
+  PA21-028.ZIP
+
+    PA21-028.LMP - Ultra-Violence Pacifist
+
+    Recorded using Doom2 Version 1.9
+
+    doom2 -playdemo with version 1.9
+
+    Doom2 - Level 21 - "Nirvana"
+  
+    Kills     23%
+    Items     33%
+    Secrets    0%
+
+      and Time: 00:28
+                =====
+
+Comments:
+
+  Looks easy, huh? Believe it or not, but getting this 0:28 required
+  THOUSANDS of attempts, due to the insane amount of luck involved.
+
+  I figured this was going to be a fun project, but boy oh boy was I
+  wrong. This run is one annoying bitch.
+
+  I had practised the glide through the yellow bars quite a lot al-
+  ready in December 2002, so I knew that wasn't going to be a problem.
+  It soon became apparent, however, that it wasn't going to be easy
+  getting those stupid imps to understand that blowing up a barrel is
+  a lot more fun than just moving one around a bit. Those chaingunners
+  guarding the red key also didn't seem to know that it's polite to
+  step aside when someone's coming through with his ass on fire.
+
+  After seeing mr. Razak's demo, I played pa21 for some 4-5 days back
+  in June, wasting a total of maybe 12 hours on it. I did get a few
+  0:29's which were slightly faster than mr. Razak's, and eventually
+  also a 0:29.08. In the latter, I had more or less perfect luck with
+  the imps and chaingunners, but managed to screw up in a very annoying
+  manner later on in the run. Having totally messed up a potentially
+  good looking 0:28, I got pissed off and abandoned the project.
+
+  In October, I happened to notice that I wasn't quite as pissed off
+  anymore, so I decided to give pa21 another shot. I played it a lot
+  during one day in October and two days in November, and finally got
+  this 0:28 on November the 16th, 2003.
+
+  The glide went well, I had fantastic luck with the imp-barrel, but
+  trying to break through to the red key at the most crowded spot in
+  the whole map might not have been too smart. ...but whatever... I
+  suppose the backup route I used might not even have been clear half
+  a second earlier. I'm just not going to do another couple of thousand
+  attempts, waiting for better luck.
+
+  Oh, by the way, I suppose this is my first single player Compet-N
+  contribution (not counting contest demos).
+
+  Author:
+
+  Kim "N.C." Lundqvist
+  e-mail: nc513@hotmail.com (always over quota)
+  ICQ#:   72686989
+  IRCnet: #nightmare
+ 

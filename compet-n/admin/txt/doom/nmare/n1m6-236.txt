@@ -1,0 +1,6 @@
+Author: Ilya Britvich
+E-mail: britvich_i@mx.ihep.su
+Skill:  5 
+Game:   Ultimate Doom
+Map:    e1m6
+Time:   2:36

@@ -1,0 +1,37 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+NM04-220.TXT
+
+ NM04-220.ZIP
+
+  NM04-220.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 04 - The Focus
+
+  Kills    120%
+  (Items    55)
+  Secrets    0%  and Time  02:20
+                           -----
+
+
+Description: <old description snipped>
+             Just some seconds faster. Just missed the lift. Not that easy
+             to stay there if the imp has seen you and change to chaingun
+             meanwhile. This is surely not the safest way, and not the
+             fastest either, but a good compromise.
+             Level 4 is now not that hard anymore. I have reached the exit
+             2 times within 20 tries.
+             Dunno why there is only 0% secret.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (/doom.html)
+
+

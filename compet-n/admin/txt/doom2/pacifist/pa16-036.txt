@@ -1,0 +1,29 @@
+This is a DooM LMP competition please forward it....
+
+PA16-036.TXT
+PA16-036.ZIP
+
+PA16-036.LMP - Pacifist style!
+ 
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 16
+
+Time     00:36
+         -----        
+
+Description: I KNEW this was possible! :). After trying a lot on the normal
+             route, and getting nowhere, I decided to have a go without
+             the invulnerability. I got a 0:40 first try (luck :>), then a
+             0:39, then about an hour and a half later, *finally* got this
+             :). Four major problems in this demo: getting the blue key,
+             getting into the red key room (harder without invuln, as the
+             revenants are dangerous), and getting up the last lift - only
+             just managed it here :). Don't know what's possible here,
+             maybe 0:33?
+                       
+             
+
+Author: Adam Williamson
+E-mail: adam@scisoft.force9.co.uk

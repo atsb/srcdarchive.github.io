@@ -1,0 +1,22 @@
+EV12-045.TXT
+ 
+ EV12-045.ZIP
+
+  EV12-045.LMP - UV - Speed
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 12 - Crater
+
+  Time  00:45 
+
+
+  Description: Someone better than me can improve it (Adam?).
+	       I think that 44 or less are possible.     
+		
+  Author:      Vincent "PerOxyd" Catalaa
+
+  E-mail:      bernard.catalaa@wanadoo.fr
+
+ 

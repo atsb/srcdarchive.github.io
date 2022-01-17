@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF32-734.TXT
+
+ EF32-734.ZIP
+
+  EF32-734.LMP - Ultra Violence - Fast 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - only!
+
+  Final Doom - TNT Evilution - Level 32 - Carribean
+
+  Kills    100%
+  Items     52%           
+  Secrets  100%  and Time = 7:34 
+                          
+
+
+Description: Just a bit faster.
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

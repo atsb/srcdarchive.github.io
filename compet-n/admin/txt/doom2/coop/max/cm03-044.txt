@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm03-044.txt
+
+ cm03-044.zip
+
+  cm03r044.lmp
+  cm03m044.lmp
+
+  Recorded using DooM ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 03 - The Gantlet
+  
+           Kills    Items   Secrets
+
+  Green     30%      20%     100%      Method
+  Indigo    61%       0%       0%      Radek
+
+
+  Time:    0:44
+          ******
+
+  Comments:
+
+  Very easy to improve old record, took us just a few tries.
+ 
+
+    
+Green:    Jakub "Method_Man" Razak    (dale007@volny.cz)
+Indigo:   Radek Pecka                 (r.master@email.cz)       
+  

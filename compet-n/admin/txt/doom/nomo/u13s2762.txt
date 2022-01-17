@@ -1,0 +1,16 @@
+This is a   Public DANG   entry (members.xoom.com/publicdang/)
+
+Author:     Janne Kalliomäki <janne.kalliomaki@mbnet.fi>
+
+Game:       Ultimate DOOM version 1.9
+            
+Category:   Nomonsters!
+            
+Level:      E1M3 - Secret Exit 
+            
+Stats:      Time   0:27.62
+
+Comments: I'm totally satisfied with this demo, as beating
+          Sslasher's time doesn't happen every day :)
+          This is my first 0:27, and it has a couple of flaws,
+          so I guess 0:26 is the optimal time.

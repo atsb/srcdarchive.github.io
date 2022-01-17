@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E3M4-416.TXT
+
+ E3M4-416.ZIP
+
+  E3M4-416.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 4 - House of Pain
+
+  Kills    100%
+  (Items    62%)
+  Secrets  100%    and Time  04:16
+			     -----
+
+Description: The second half of this demo could have been faster. At the
+             start I didn't pick up the chaingun and later I needed it 
+             couple of times. Also don't know what happened that I couldn't
+             hit the soldier near the end. The route credits go to Elco and
+             Yonatan.
+
+
+Author:    Radek Pecka
+E-mail:	   r.master@email.cz

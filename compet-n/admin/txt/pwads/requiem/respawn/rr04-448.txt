@@ -1,0 +1,50 @@
+Game: Doom 2
+Pwad: requiem.wad
+Filename: rr04-448.lmp
+Skill and Style: 4 (-Respawn)
+Map Level: MAP04
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    104%
+  Items      0%           ********
+  Secrets  100%  and Time * 4:48 *
+                          ********
+
+
+==============================================
+
+There's just one problem with finishing this level in
+-respawn category. The ammo is just enough for UV Max
+and the monsters which reappear are mostly imps and
+demons, so running out of shells is quite common here.
+There are various strategies to soothe this problem.
+
+One strategy is present in rr041235. At first I though
+it was a joke: "The first 7 1/2 minutes are spent waiting
+for the first three guys to respawn. I might suggest
+starting it and taking a break for about 7 min." Hehe.
+Xit Vono just waited until he had 50 shells.
+
+My strategy is to use pistol against first three guys.
+Kill the imps, lure the HK outside (sometimes a sergeant
+or two respawn, so I have > 20 shells left). The I try
+not to kill the demons, since every respawned demon
+makes it closer to an empty backpack (I mean, no ammo).
+I just weaken the demons to kill them later quickly.
+And that's it. My time is slower than UV Max (4:10), but
+I actually was pretty close to it. With a successful
+exit bars trick I would've had about 4:20 and exactly 100%
+kills. So, TGH, if you're reading this, I look forward
+to your demo on this map.
+
+I'm not going to improve this time at the moment after
+all the difficulties I experienced. The HK at the switch
+respawning right away; demons which ALWAYS make 40% damage.
+Hell Knights which ALWAYS make 64% damage. Demons which
+survive SSG shots at point blank range. And, last but
+not least, one thing which I fail to understand: the BK.
+If it's possible to grab the key without teleporting,
+how is it possible to TELEPORT WITHOUT TAKING THE KEY??
+
+Good luck to anyone who wants to try this!

@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop fast
+mission:  map03
+
+time:     0:42
+
+Vincent:  CZ beater ... good margin :)
+
+xit-vono: Yes we did work on this one a bit.
+
+
+          

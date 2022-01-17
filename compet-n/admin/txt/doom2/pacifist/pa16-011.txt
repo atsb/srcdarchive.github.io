@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+PA16-011.TXT
+
+ PA16-011.ZIP
+
+  PA16-011.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - Suburbs
+
+  Kills      0%
+  (Items     0%)
+  Secrets    0%  and Time  00:11
+                           -----
+  
+  Description :-)
+
+  This demo puts an answer to a few questions.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu  

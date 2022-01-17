@@ -1,0 +1,48 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV11-335.TXT
+
+ UV11-335.ZIP
+
+  UV11-335.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 11 - "O" of Destruction - Circle of Death
+
+           Kills    Items   Secrets
+
+  Green      51        9       66      Panter
+  Indigo     41       72       33      Baum
+
+  Time:    3:35
+
+
+Comment:     I already did this map on uv-speed, nm-speed and for Pacifist...
+             So I persuaded Baum to do this map too..(-:
+
+             Well, Kai and Sven hadn't done this map, and so we really had no
+             plan.
+             I thought I had seen this map already done with a nice trick
+             to kill cybie...
+             Hey ! we're happy we made it...it's much harder than it looks..
+
+             We're 44 sec. slower than the actual max-record, but we had an
+             additional Cyberdemon (and we run out of ammo and health all the
+             time).
+
+
+
+             22.02.98 ca. 17:00 am CET
+
+
+  Author:    Thomas "Panter" Pilger       P187.5mmx, 32MB, Seagate 2.5GB
+             Patrick "Baum" von Massow    P133     , 16MB, Seagate 2GB
+  
+  E-mail:    Panter@uni.de
+             qoomduke@gmx.net
+
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/ 
+             Baum has still no HP ((-:
+

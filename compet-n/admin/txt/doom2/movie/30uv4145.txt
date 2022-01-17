@@ -1,0 +1,100 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30UV4145.TXT
+
+ 30UV4145.ZIP
+
+  30UV4145.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - ALL levels 01-32 - "Compet-N/Doom2/Movie"
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      3%    0%    0%          08     (100   0)
+  LV 02  -     67%   25%  100%       1" 06     ( 42 161)
+  LV 03  -     26%   22%  100%          43     (100 148)
+  LV 04  -     65%   52%   66%          57     ( 90  91)
+  LV 05  -     25%   33%    0%          47     (139  46)
+  LV 06  -     38%    5%   66%       1" 33     (113 125)
+  LV 07  -    100%   83%  100%       1" 03 !   (111 114)
+  LV 08  -     23%   60%    0%          57     (200 114)
+  LV 09  -     40%   27%    0%       1" 46     ( 98  88)
+  LV 10  -     16%   25%   16%          52     ( 61  52)
+  LV 11  -     52%    4%   33%       1" 30     (136  86)
+  LV 12  -     12%   20%    0%       1" 09     ( 42  43)
+  LV 13  -     29%   19%    0%       2" 00     (100   0)
+  LV 14  -     53%   50%    0%       1" 34     ( 66  16)
+  LV 15  -     10%   12%   18%          54     (100   1)
+  LV 31  -     30%    1%   50%          44     ( 32   0)
+  LV 32  -     51%  100%   33%          23     (166 168)
+  LV 16  -     19%   20%    0%          57     (134 139)
+  LV 17  -     80%   55%    0%       3" 25 !   (169  67)
+  LV 18  -      3%   35%    0%          33 !   (200 100)
+  LV 19  -     13%    3%   22%       1" 09     (194 100)
+  LV 20  -     25%   28%   28%       1" 07     (200 200)
+  LV 21  -     50%   50%    0%       1" 22     (179 180)
+  LV 22  -     73%   57%   66%       1" 27     (100  84)
+  LV 23  -     49%   22%   50%       1" 26     (162 163)
+  LV 24  -      5%    0%    0%       1" 43     (153 157)
+  LV 25  -     47%   50%   50%       1" 06     (126 136)
+  LV 26  -     44%   13%    0%       1" 15 !   (100  98)
+  LV 27  -     38%   21%   12%       1" 55     (200   3)
+  LV 28  -     26%   40%   14%       1" 05     (114 116)
+  LV 29  -     64%   92%    0%       3" 45     ( 56  68)
+  LV 30  -   1300%   66%    0%       1" 24     (186 187)
+
+                     Total Time =   26" 945
+                                    26" +
+                                    15" 45
+                                    ------
+                     TOTAL TIME =   41" 45
+                                   --------
+
+
+Description: A few things about the levels:
+
+             Level 02: I don't like this one, easy to die...
+
+             Level 04: Also hard when "speeding".
+
+             Level 09: A fall at the end, about 5 sec.
+
+             Level 31: Changed weapon to plasma, because I
+                       thought it was too close...
+
+             Level 22: Could be pushed by about 10 sec, easy
+                       to die though.
+
+             Level 23: Should never have taken the backpacks
+                       at the beginning, things like this are
+                       often the result of when you play with
+                       full screen... time could be pushed by
+                       about 15 sec.
+
+             Level 26: Time is very good.
+
+             Level 27: This one isn't good at all, it could have
+                       been done about 25 sec. faster. The faster
+                       way demands alot of plasma though I only
+                       had about 100. Also very easy to die when
+                       playing the faster way.
+
+             Level 30: This level is really strange - the skull
+                       on the stick takes 4 hits before dying !
+                       I thought it was over when I got the 3 one
+                       you can see that I'm running away from it all
+                       after the 3 hit..then returning back, lost
+                       about 13 sec. on this "mistake", "bug" ??
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

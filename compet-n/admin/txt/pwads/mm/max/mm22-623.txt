@@ -1,0 +1,32 @@
+This is a Doom LMP Entry
+
+MM22-623.ZIP
+
+	MM22-623.TXT
+	MM22-623.LMP - UV Max
+
+Recorded using Doom2 Version 1.9
+
+Memento Mori - Level 22 - The Escape
+
+=---+------+---=
+Kills       100%
+Items        60%
+Secrets     100%
+ 
+TIME        6:23	Old record: 7:45 by Oyvind Stenhaug
+=---+------+---=
+
+Demo entry #2.
+
+Description:
+
+One of my MM favorites, an atmospheric prison-themed level with interesting and
+varied design. Another one of my four oldest demos, which aren't too fast or
+smart. Still, it beats Oyvind by 1:22 (just like MM18-248), and my heavy changes
+in the strategy worked out well. A serious record will be 5:XX.
+
+
+
+Author: SAV88 (Artem V. S.)
+Done February 16, 2006, 22:18:22

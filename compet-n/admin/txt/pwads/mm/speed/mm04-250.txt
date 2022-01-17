@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+MM04-250.TXT
+
+ MM04-250.ZIP
+
+  MM04-250.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 04 - The Stand
+
+  Kills     59%
+  Items     20%           ********
+  Secrets   16%  and Time * 2:50 *
+                          ********
+
+  Description :-)
+
+  No SSG grab here either, I'm afraid. Wanted a better
+  improvement than just 5 seconds, but the hell knight
+  room is driving me nuts.
+
+  Sorry about all the half-assed demos, I'm just not in
+  the mood for hard-worked stuff at the moment :)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

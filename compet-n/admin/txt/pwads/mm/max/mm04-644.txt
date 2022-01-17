@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+MM04-644.TXT
+
+ MM04-644.ZIP
+
+  MM04-644.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 04 - The Stand
+
+  Kills    100%
+  Items     80%           ********
+  Secrets  100%  and Time * 6:44 *
+                          ********
+
+  Description :
+
+1:31 faster then Peo's 8:15 run.
+
+A new and slightlier risky approach is taken this time. I bypass a few 
+monsters and go straight for the SSG. I'm suprised that Peo didn't 
+consider this approach. It's not really all that difficult to pull off.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

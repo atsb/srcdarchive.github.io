@@ -1,0 +1,13 @@
+This is a Coop-N Demo
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr
+
+game:     doom2 v1.9
+category: coop speed
+level:    map11
+
+time:     0:37
+
+description: quite fast... :)
+	     0:35 are possible

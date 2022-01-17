@@ -1,0 +1,77 @@
+This is a Doom .LMP "Competition" Entry
+
+30ns5600.txt
+30ns5600.zip
+
+30ns5600.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - Full game on Nightmare! skill w/ 100 secrets (where possible)
+
+           Time  
+---------------------
+LV 01  -   0:45  
+LV 02  -   1:07  
+LV 03  -   0:35  
+LV 04  -   0:54  
+LV 05  -   1:42  
+LV 06  -   1:34  
+LV 07  -   0:59  
+LV 08  -   1:47  
+LV 09  -   2:36  
+LV 10  -   2:34  
+LV 11  -   1:19  
+LV 12  -   2:19  
+LV 13  -   2:42  
+LV 14  -   1:13  
+LV 15  -   3:20  
+  
+LV 31  -   1:11 
+LV 32  -   0:36 
+  
+LV 16  -   1:12
+LV 17  -   3:21 
+LV 18  -   2:06 
+LV 19  -   2:49 
+LV 20  -   1:34 
+LV 21  -   1:09 
+LV 22  -   1:31  
+LV 23  -   1:42  
+LV 24  -   2:59  
+LV 25  -   1:23  
+LV 26  -   1:28  
+LV 27  -   2:16  
+LV 28  -   1:56  
+LV 29  -   2:40  
+LV 30  -   0:41  
+---------------------
+Total     56:00  
+        ---------
+
+C-N entry #201, movie run #35.
+
+Hey, there's finally a third 30ns for the boards, so I can
+stop getting credit for 3rd place with that silly episode run.
+I'd like to first give mad props to the two guys who made this
+run a reality, Henning Skogsto and Vincent "PerOxyd" Catalaa, as
+well as those who successfully proved that the individual
+episodes were possible.  Great work guys! :)
+
+This is only my second ever 30nm (the first successful
+30nm was another 30ns attempt that ended up having a missed
+secret on map10... the total time was slower).  As such, I
+don't mind a lot of the mistakes that occurred in this run,
+even though most of them would have really pissed me off
+normally (I like the yellow key jump on map17... you can tell).
+It seemed like a backwards run, where a lot of the easy stuff
+gave me trouble and the hard stuff gave me a break.  Anyway,
+overall I'm not very satisfied with this run, despite some of
+the good fortune received in maps like 22 and 30, but I need
+a break from this crap presently, so who knows if I'll ever
+come back.  With more experience put in, who knows how low
+the time will go.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

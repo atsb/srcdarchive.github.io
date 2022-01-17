@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+P32F-643.TXT
+
+ P32F-643.ZIP
+
+  P32F-643.LMP - Ultra Violence WITH -FAST
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  Final Doom - Level 32 - "Go 2 It" - Plutonia.wad
+
+  Kills   117%
+  (Items  100)            
+  Secrets 100%  and Time   06:43
+                           -----
+
+Description: Well...just played until I reached the exit. Quite diferent
+             route compared to Daniel "Demonlord" Lindgren's 8:32, think
+             its faster- but also more dangerous.
+
+             Note: Cause Final Doom's exe cant handle the joyb_speed31, I
+             used the originall Doom2.exe (1.9). So, to get a correct
+             playback of this lmp, you'll have to run plutonia.wad 
+             together with Doom2's exe...got it? :)
+
+Author:    Anders Johnsen
+E-Mail:    gunjohns@online.no 
+Doompage:  http://home.sol.no/~doom/

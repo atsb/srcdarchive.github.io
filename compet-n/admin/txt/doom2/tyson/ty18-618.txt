@@ -1,0 +1,30 @@
+This is a DooM LMP competition please forward it....
+
+TY18-618.TXT
+
+ TY18-618.ZIP
+
+  TY18-618.LMP - Tyson style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 18 - "Courtyard"
+
+  Kills   100%
+  (Items   58%)
+  (Secret  25%)  
+
+          ...and Time     06:18
+                          -----        
+
+Description: The most important thing is to be lucky in monster fights.
+             The optimal time could be about 5:30, i think. Of course,
+             thanks to Peo Sjoblom for his route.
+                       
+             
+
+Author:   Radek Pecka
+E-Mail:   r.master@email.cz
+Doompage: http://doomers.zde.cz
+

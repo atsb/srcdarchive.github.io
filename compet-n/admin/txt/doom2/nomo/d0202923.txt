@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : d0202923.lmp & d0202923.txt
+Date     : 2012-11-07 15:47
+Game     : Doom 2: Hell on Earth
+Client   : doom2.exe v1.9
+Category : nomonsters
+Map(s)   : MAP02: Underhalls
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 0%
+Items    : 30%
+Secrets  : 100%
+Time     : 00:00:29:23
+===================================
+Description :
+
+Stuck, stuck, stuck, stuck :)

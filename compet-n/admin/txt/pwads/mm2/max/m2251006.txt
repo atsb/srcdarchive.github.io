@@ -1,0 +1,1 @@
+MM2, map25 uv max, 10:06, prboom+ 2.5.1.1, complevel 2, vdgg

@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM24p029.TXT
+
+MM24p029.ZIP
+
+MM24p029.LMP - Ultra-Violence Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 24 - Diehard
+
+Kills       16%
+Items       11%
+Secrets      0%
+
+              ********
+  and Time -  * 0:29 *
+              ********
+
+
+Description:
+
+Not much to say about this run. It's just the UV-Speedrun on Pacifist ^_^
+
+The only thing to really present a problem on Pacifist is getting past the
+Shotgunners where the Rocket Launcher is. Sometimes all the enemies will
+be in the way and others they'll be out of the way and you can run right
+on through to the last area where the Revenants, Mancos, and Archie lurk.
+They're not bad, just run past them. ^^
+
+Optimal would probably be either equal to the UV-Speedrun time or 1 second
+below that time.
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+26.04.2002

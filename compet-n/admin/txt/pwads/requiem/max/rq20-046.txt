@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ20-046.TXT
+
+ RQ20-046.ZIP
+
+  RQ20-046.LMP - Ultra Violence Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD REQMUS.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 20 - The Forsaken Hall
+
+  Kills    100%
+  (Items    25%)          *********
+  Secrets  100%  and Time * 00:46 *
+                          *********
+                          
+
+  Description:
+  
+  Who cares about lost souls anyway? ;)
+  Short and full of action, that's how I like 'em.
+  Unfortunately Adam_H does too... :P  
+
+
+  Arno Slagdoom
+  slag@doom2.net
+  www.doomworld.com/publicdang

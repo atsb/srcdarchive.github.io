@@ -1,0 +1,38 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV01-104.TXT
+
+ EV01-104.ZIP
+
+  EV01-104.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 01 - System Control
+
+  Kills    100%
+  (Items    16)
+  Secrets  100%  and Time  01:04
+                           -----
+
+
+Description: Yonatan's original 1:08 was hard to beat.
+             Something for the /miscs: An I-am-the-greatest-berserker
+             (Demonlord excluded; berserk a Cyberdemon, what a silly
+             decision :), where all these monsters (except for the pig)
+             splash (I like that TSSLOP sound), with or without other
+             weapons, only your final hit must be a berserk, that's
+             clear. Perhaps without the chaingunners too, to make it
+             easier.
+             Only an initial entry, hope there will be improvements. But
+             this time it isn't as easy as all the other initial ones :)
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

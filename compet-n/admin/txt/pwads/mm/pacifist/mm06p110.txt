@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM06P110.TXT
+
+ MM06P110.ZIP
+
+  MM06P110.LMP - UV pacifist!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 6 - The Powerstation
+
+  Kills      6%
+  (Items     9%)          
+  Secrets   16%  
+
+            ... and Time  01:10
+                          -----  
+                          
+
+  Description:
+  
+  Easy stuff and just 5s slower than speed.
+
+
+  Radek Pecka
+  r.master@email.cz

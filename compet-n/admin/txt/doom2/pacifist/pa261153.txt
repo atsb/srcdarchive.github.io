@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry
+
+PA261153.TXT
+
+ PA261153.ZIP
+
+  PA261153.LMP - UV Pacifist
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 26 - The Abandoned Mines
+
+  Kills     38%
+  (Items    24%)          *********
+  Secrets    0%  and Time * 11:53 *
+                          *********
+
+  Description:
+
+  pa26: that other undone pacifist. There
+  has been some mention of pa02 from time
+  to time, but pa26 has often been neglected.
+  I think this map is easier than pa02, but
+  I haven't tried pa02 much so I don't really
+  know how hard it is. With this route things
+  ought to be straightforward, but sometimes
+  that crap across the water won't shoot
+  or a caco will try to enter the exit with
+  you leaving 2 unpleasant choices: block him
+  so that he can only back out and take damage
+  in the process, or try to pass him and then
+  you've lost a key hiding spot and are stuck
+  with a useless caco. Also, sometimes you're
+  left with a stray imp or skull which can
+  really screw things up when there's no cacos
+  to take it out. One time that happened to me
+  after taking the red key. I then tried to
+  take the blue key without success. This time
+  I use a more reliable method of using the
+  caco to distract the baron and the rest worked
+  out on the first try.
+
+  Xit Vono
+  xit_vono@yahoo.com

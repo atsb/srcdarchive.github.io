@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E2M5-447.TXT
+
+ E2M5-447.ZIP
+
+  E2M5-447.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Doom - Episode 2 - Shores of Hell  Mission 5 - Command Center
+
+  Kills    100%
+  (Items    52%)		   	
+  Secrets  100%  and Time    04:47
+                             -----
+
+Description: Not a very good run, was getting stuck all the time. The key
+             to a fast run here, is force Barons to kill Cacos, it means 
+             you will save some cells for Pigs at the end. I had two
+             or more good looking demos, but slower than this one. 
+             The route credits go to Kai. A nice map btw.
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz
+

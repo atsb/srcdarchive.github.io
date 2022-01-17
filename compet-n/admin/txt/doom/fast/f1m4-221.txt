@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+F1M4-221.TXT
+
+ F1M4-221.ZIP
+
+  F1M4-221.LMP - Ultra Violence -FAST
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 4 - Command Control
+
+  Kills    100%
+  (Items    31)
+  Secrets  100%    and Time  02:21
+			     -----
+
+Description: The maze-part becomes quite hard with -fast...
+             Route-credits goes to Peo btw.
+ 
+
+Author:     Anders Johnsen
+E-Mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

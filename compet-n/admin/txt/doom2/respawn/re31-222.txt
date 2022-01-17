@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+RE31-222.TXT
+
+ RE31-222.ZIP
+
+  RE31-222.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - Wolfenstein
+
+  Kills    102%
+  (Items     1%)
+  Secrets  100%  
+
+        ...and Time     02:22
+                       -------
+
+
+Description:  Sorry Henning, still 4 seconds slower than your Max record.
+
+
+  
+
+Author:    Radek Pecka
+E-mail:    r.master@email.cz
+

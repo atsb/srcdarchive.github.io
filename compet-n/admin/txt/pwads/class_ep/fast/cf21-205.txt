@@ -1,0 +1,47 @@
+This is a .LMP "COMPET-N/class_ep/" Entry - Please forward it...
+
+CF21-205.ZIP
+
+ CF21-205.LMP
+
+  CF21-205.TXT - Ultra-Violence -FAST
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -file class_ep.wad -PlayDemo with Ultimate Doom Version 1.9
+
+  classic episode - Level one - Foray by Anthony Soto
+
+  Kills:   84 / 84  (100%)
+  Items:    8 / 14  (57%)            ********
+  Secrets:  2 / 2   (100%) and Time  * 2:05 *
+                                     ********
+  C-N entry #35.	Date:03/12/2012
+
+  Description :)
+  A decent time, I guess. I was going for under 2:00 but I'm to tired
+  (1:28 AM) to push my self. And damn, that Blur Sphere sure makes things
+  harder than it needs to be.
+  								
+  								
+  By the way, COMPET-N record was 2:15 by me, timestamped:
+  Sunday, March 11, 2012, 1:26:11 AM
+
+  Complete Historic COMPET-N Leaderboard:
+  CF21-233 - Ryback       - 04/17/2001
+  CF21-228 - Phil Renshaw - 03/03/2006
+  CF21-216 - Archy        - 03/10/2012
+  CF21-215 - Archy        - 03/11/2012
+  
+  Note: Since this demo was recorded with class_ep.wad, I suggest you 
+        drop by at http://doomedsda.us/lmps/316/class_ep.zip
+        and pick it up if you havn't already :) 
+  
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

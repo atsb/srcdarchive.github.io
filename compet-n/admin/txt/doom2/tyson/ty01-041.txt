@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+TY01-041.TXT
+
+ TY01-041.ZIP
+
+  TY01-041.LMP - Tyson
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 1 - Entryway
+
+  Kills    100%
+  (Items     0%)
+  Secrets   40%  
+                          *********
+            ... and Time  * 41.94 *
+                          *********
+
+  Description:
+
+  After getting the max record I decided to give
+  this a try.  Radek was right that 41 is possible
+  here, but I'm sure 40 is possible too.  If anyone
+  can get that it would be an awesome demo.  This
+  demo is not perfect.  The beginning is ok, but
+  near the end I get stuck going outside. Without
+  that small mistake I don't think I could have
+  gotten 40 anyways.
+
+  Xit Vono
+  xit_vono@yahoo.com

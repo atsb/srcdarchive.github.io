@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+f1m9-247.zip
+
+ f1m9-247.lmp -md5sum 63781fb32364eadf3799468d02993c78
+
+  f1m9-247.txt -Ultra-Violence -fast
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Knee-Deep in the Dead - Military Base
+
+  Kills:  103 / 103 (100%)
+  Items:   13 / 43  (30%)            ********
+  Secrets:  2 / 2   (100%) and Time  * 2:47 *
+                                     ********
+  C-N entry #69.	Date: 2015.09.06
+
+  Description :)
+  Nooooo! Why couldn’t it be under par :(
+     
+  By the way, COMPET-N record was 2:54 by Anders Johnsen, dated:
+  2000-03-07
+
+  Complete Historic COMPET-N Leaderboard:
+  f1m6-615 - Thomas Pilger    - 1998-04-01
+  f1m6-406 - Jan Endre Jansen - 1998-08-15
+  f1m6-351 - Anders Johnsen   - 1999-04-04
+  f1m6-317 - Chris Ratcliff   - 2000-03-06
+  f1m6-254 - Anders Johnsen   - 2000-03-07
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

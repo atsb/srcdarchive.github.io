@@ -1,0 +1,65 @@
+This is a DooM .LMP "COMPET-N/net-x" Entry - Please forward it...
+
+UV20NET2.TXT
+
+ UV20NET2.ZIP
+
+  UV20NET2.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - Gotcha!
+
+
+            Kills Items Secrets
+
+  G :-)  -     40%   26%   42%
+  I :-)  -     51%   46%   57%
+
+  OR...
+
+  Kills     91%  Actually much more than this.
+  (Items    72)
+  Secrets   99%  and Time  3:21 or 3:22  [ ? ]
+                           ------------
+
+
+(Green)Description: Almost half the time of the current "100/100" record,
+                    AND there is a bonus Cyberdemon. That has to be tele-
+                    fragged. Dasa fires quite a lot of plasma cells in my
+                    back. There are 2 Monsters left, both Lost Souls, one
+                    of them behind a wall. I think we've got 91% kills.
+                    You can make 100% if you let the Archvile revive some
+                    Imps or Sergeants. He _Has_To_ revive at least one of
+                    these because you don't kill the Spiderdemon (or the
+                    Cyberdemon).
+
+
+Authors:     Green:  Kai-Uwe Humpert
+                     gazelle@cs.tu-berlin.de
+
+            Indigo:  Sven "dasa" Huth
+                     dasa@cs.tu-berlin.de
+
+
+[  Admin. Note :-)  Many thanks for this one, guys ! :-) :-)
+
+   Be sure to watch this from BOTH perspectives...
+
+   " LMPutil UV20Net2.LMP -Viewer "
+
+   Better still...
+
+   " IPXSetup -Nodes 2 -PlayDemo UV20Net2 "
+
+   On TWO .NET connected PC's :-)
+
+S.;-) aka. The "Judge". ]
+
+
+
+
+-------------------------
+And another admin note :)   Time is actually 3:21.97
+

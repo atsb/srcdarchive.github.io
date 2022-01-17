@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom2/coop/tyson" entry, please forward it.
+
+ct01-029.txt
+
+ ct01-029.zip
+
+  ct01r029.lmp
+  ct01s029.lmp
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 01 - Entryway
+
+          Kills    Items   Secrets
+
+  Green     55%       0%      20%      SlagDooM
+  Indigo    40%       0%      20%      Reep
+
+  Time:    0:29.88
+
+
+Comment:      This is Reep's first Compet-N demo and he did great.
+              We aimed for 30 secs but under par is even better. :)
+              
+     
+Green:        Arno SlagDooM                (ajslagboom@chello.nl)
+Indigo:       Geir "Reep" Hauge            (reep@start.no)
+
+  

@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+pp19-026.zip
+ pp19-026.lmp
+ pp19-026.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file plutonia.wad -playdemo pp19-026
+
+Plutonia - Level 19 - NME
+
+Category: UV Pacifist
+
+Totals:
+
+Kills	  2%
+Items	  0%
+Secret	  0%
+
+Time    0:26
+
+
+Comments: 
+
+Rather than try to wriggle past the chaingunner and friends 
+I use the lift to bypass them, which wastes a few seconds.
+Luckily we can keep the door shut while doing the glide!
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+05/10/2006

@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CF24-821.TXT
+
+ CF24-821.ZIP
+
+  CF24-821.LMP - Ultra Violence with -fast
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M4 - Deimos Anomaly
+
+  Kills    100%           
+  (Items    ??%)          
+  Secrets  100%  and Time = 08:21 
+                            
+                          
+
+  Description: Not too hard, this was my first try.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

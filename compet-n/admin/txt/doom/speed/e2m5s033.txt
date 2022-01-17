@@ -1,0 +1,32 @@
+This is a Doom "COMPET-N/doom/speed" entry. Please forward it...
+
+E2M5s033.TXT
+
+ E2M5s033.ZIP
+
+  E2M5s033.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -playdemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Mission 5 - Command Center
+            - Secret Exit
+
+  Kills      5%
+  (Items     5)
+  Secrets   40%  and Time  00:33
+                           -----
+
+
+Description: Punched every pig twice.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

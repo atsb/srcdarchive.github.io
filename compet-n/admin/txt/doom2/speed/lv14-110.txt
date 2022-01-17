@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV14-110.TXT
+
+ LV14-110.ZIP
+
+  LV14-110.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 14 - "The Inmost Dens"
+
+  Kills     30%
+  (Items    50)
+  Secrets    0%  and Time  01:10
+                           -----
+
+
+Description: Pretty easy level at UV.
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

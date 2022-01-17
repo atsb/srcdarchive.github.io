@@ -1,0 +1,34 @@
+    
+      
+  **      	              ** 
+  * This is a COOP-N entry lmp *
+  ** 			      **
+     
+
+
+        category - coop speed/pacifist
+           Doom2 - Level 31 secret exit
+
+
+                ********
+  time:         * 0:34 *
+                ********   
+
+  results:      kills      items      secrets
+    GREEN         0%         0%          25%    (DooMerMan)
+    INDIGO        0%         0%          25%    (McRocet)
+
+
+  : NOTE :
+
+  [ DooMerMan ]
+  First try as green, heh, easy run :) Pacifist as well btw.
+
+
+  [ McRocet   ]
+  First I was green and I runned the level, it was hard, as best
+  time was :37 :P
+  (Beating [Radek/X-Jack]´s :35)
+
+   Green:   Jakub "DooMerMan" Machata <DMrM@seznam.cz>  - cs31d034.lmp  
+  Indigo:        Petr "McRocet" Urban  <unknown@email>  - cs31m034.lmp

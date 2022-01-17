@@ -1,0 +1,55 @@
+
+E1M5-NM1.TXT
+
+ E1M5-NM1.ZIP
+
+  E1M5-NM1.LMP - Nightmare! ( CAN handle it! :-)
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.1 Mi.5 - Phobos Lab
+
+  Kills    145%
+  (Items    79)
+  Secrets  100%  and Time  05:52
+                           -----
+
+  Description :-)
+
+  This is one of the two hardest maps for the DHT5 title D1 Incubus
+  I'm currently training for (the other is E1M3), although this MAP
+  is easier than E1M3 (with 100 % secrets of course ;-)
+
+  ( See Steffen Winterfeldt's wonderful (Ver. 1.2) .LMP on the DHT5
+    Homepage  http://www.cam-orl.co.uk/~fms/dht.html )
+
+  Got another version but this is the better one. It's difficult to
+  describe all the tricks I use, I'll explain everything to anybody
+  who wants to know them exactly (via email). There's still one big
+  mistake I make - Before I get the blue key, I spent a rocket in a
+  pinkie's (and my) face, which made me a bit nervous for the next
+  few seconds, but what shall's ;-) ? (I don't mind)
+
+  The playing speed is very high (normally I play SLOW on NightMare
+  !) but here it is impossible because of all the Demons & Spectres
+  and their permanent respawning.
+
+  [ There is a bug in the doom engine. If you save a NightMare game
+  and load it again - the monsters respawn but are not FAST at all.
+  (This does not occur with every re-load, but after the first time
+  "the bug" stays.) I solved this with the -LOADGAME # -FAST option
+  (ThanX to ZlatkO). It makes it easier to play levels like this if
+  you're able to train at all the separate situations. I can really
+  recommend this sort of training for everyone. (Except Steffen.EXE
+  :-) of course ;-) ]
+
+  BTW: Hunter Hoof is wrong again... :-) (Sent him the .LMP ;-)
+
+ Anthe
+
+ anthe.kren@telecom.at
+
+

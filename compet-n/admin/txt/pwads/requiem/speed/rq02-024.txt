@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rq02-024.zip
+ rq02-024.lmp
+ rq02-024.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file requiem.wad -playdemo rq02-024
+
+Requiem - Level 02 - Sacrificium
+
+Category: UV Speed 
+
+Totals:
+
+Kills	 20%
+Items	  0%
+Secret	  0%
+
+Time    0:24
+
+
+Comments: 
+
+Simple, but with a very hard glide at the end, so lots
+of tries needed.
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+06/11/2006

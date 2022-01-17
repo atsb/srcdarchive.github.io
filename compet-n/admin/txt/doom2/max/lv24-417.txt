@@ -1,0 +1,25 @@
+This is a DooM .LMP "COMPET-N/doom2/" Entry - Please forward it...
+
+LV24-417.TXT
+
+ LV24-417.ZIP
+
+  Lv24-417.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 24 - The Chasm
+
+  Kills    100%
+  Items     59%            +++++++++
+  Secrets  100%  and Time  + 04:17 +
+                           +++++++++
+
+
+  Description:
+  This was hard as hell, but I think it's pretty good improvement over former record :)
+  I couldn't improve the route much, just a few minor things.
+
+
+  Looper

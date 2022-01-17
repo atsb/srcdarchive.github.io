@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m2s1p051.TXT
+
+ m2s1p051.ZIP
+
+  m2s1p051.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad mm2info.wad -playdemo with version 1.9
+
+  Memento Mori 2– Secret Map 1 – UV Pacifist
+
+Well, now it seems it is possible. Did some experimenting and found out that you can complete the level Pacifist-style. It just sort of depends on how the monsters on the stairs are dealt with. I also do some grab with the red key that I haven't seen before.
+
+Author: Revved

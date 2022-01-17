@@ -1,0 +1,19 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:        Arno Slagboom       
+Indigo:       Marko van der Want   
+
+game:         DooM ][ v1.9
+category:     coop respawn
+level:        32
+
+time:         0:45
+
+description:  Much slower than our max demo, because we needed to 
+              have 100% kills on screen. Arno waited 1 SS-soldier too long
+              so we could have been some seconds faster.
+             
+
+               
+
+

@@ -1,0 +1,36 @@
+[ Taken from "Kid Crusader"'s D1V6 exam d1v6kc00 ]
+
+P2M7-056.TXT
+
+ P2M7-056.ZIP
+
+  P2M7-056.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.2 Mi.7
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  00:56
+                         -----
+
+  Description:
+
+Free interpretation     : E2M7 - 0:56 dance in next level, par time 4:00 !!!
+                          Thanks to Andy Badorek for this route.
+                          The non-pacifist record time is 0:45.
+                       
+                          In case you miss it in the mayhem: the point is to
+                          get the yellow key without the blue key.
+                       
+                          Using this route for pacifist is as hard as the
+                          hardest Doom2 pacifist levels. I was lucky in the
+                          end, usually there are more imps and demons
+                          blocking the way back to the exit. That's the
+                          disadvantage of this route... but it's fast!
+
+  Author:  "Kid Crusader"
+
+

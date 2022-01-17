@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry
+
+2939FA01.TXT
+
+ 2939FA01.ZIP
+  
+  2939FA01.LMP - Ultra Violence - Fast
+  
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+  
+  DooM II - "Episode 1" - Levels 01 through 10
+  
+            Kills  Secrets    TIME
+
+  LV 01  -   100%   100%      0:57
+  LV 02  -   100%   100%      1:28
+  LV 03  -   100%   100%      1:46
+  LV 04  -   100%   100%      1:13
+  LV 05  -   100%   100%      3:13
+  LV 06  -   100%   100%      3:26
+  LV 07  -   100%   100%      1:20
+  LV 08  -   100%   100%      3:32
+  LV 09  -   100%   100%      5:58
+  LV 10  -   100%   100%      6:46
+
+              TOTAL TIME =   29:39
+                             -----
+  
+  Description:
+  
+  Took a while to get this under 30 minutes.
+  
+  
+  Ian Sabourin (Sslasher)

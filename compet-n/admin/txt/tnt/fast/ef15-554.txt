@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ EF15-554.LMP
+
+ Final DOOM - TNT: Evilution - MAP15 - Dead Zone
+ Ultra Violence with fast monsters!
+
+  Recorded using the Final DOOM DOOM2.EXE v1.9
+  but plays back fine with the DOOM][ executable as well
+
+  Kills       98%
+  Items       65%
+  Secrets    100%
+  ---------------
+  Time       5:54
+ 
+  Going through the TXTs on Compet-N, one gets the impression that
+  this is a well-loved level. It is all the more strange that the
+  only -fast demo for it is Anthe's 8:06 entry from the 1997 GM pack.
+  An aggressive approach shaves off two minutes easily, although
+  there is still a lot of time wasted.
+
+  Of course, only 98% kills are possible because a Cacodemon and a
+  Pain Elemental are inaccessible behind the north-east outer wall.
+  In this demo the Arch-Vile didn't manage to resurrect anything.
+
+  Never_Again
+  tpoppins@juno.com

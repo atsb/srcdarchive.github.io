@@ -1,0 +1,35 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs29-149.txt
+
+ cs29-149.zip
+
+  cs29v149.lmp 
+  cs29z149.lmp - Ultra-violence
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP29
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    1:49
+
+
+Selim   : Who said "table-filling" ? Well you're right :)
+Vincent : Eh, not really table filling, but this map had
+          a max demo as a speed record :).
+          But this map could have a better use a cooperation.
+          
+
+
+Green:    Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:   Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+http://www.doom2.net/compet-n/
+-----------------------------------------------
+MM06R507.TXT
+MM06R507.ZIP
+MM06R507.LMP
+-----------------------------------------------
+Skill	: 4, Ultra Violence
+Date	: 12.04.2004.
+Type	: Respawn
+Wad	: Momento Mori
+Level	: 06, The Powerstation
+
+Use	: DOOM2 -FILE MM.WAD -PLAYDEMO MM06R507
+-----------------------------------------------
+Kills	:  100%
+Items	:   63%          
+Secrets	:  100%
+--------------- 
+Time	: 05:07
+
+Description: 	Well well, just wanted to say hello to everyone there,
+		and yes Happy Easter to all of you out ther still dooming.
+		This should be under 3:00, so don't look at this one since
+		I like this map and I'll do better one but it seems that
+		it's impossible to run win98 on my laptop :(
+		I made this on xp without my mice, sound & novert utility.
+		If I manage to load win98 I'll do all undone respawn maps
+		on this megawad. It's kinda old and remindes me on old doom.
+		AV, HR2 & similar are just to difficult and boring. :)
+		Hehe .... :) Ok, adam, now you can finally update c-n.
+
+Author	: Zvonimir 'fx' Buzanic
+Email	: zvonimir.buzanic@zg.htnet.hr
+WWW	: http://doom.gamer.hr

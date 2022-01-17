@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA05-242.TXT
+FA05-242.ZIP
+
+FA05-242.LMP - Ultra Violence - Fast
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 05 - The Waste Tunnels
+
+Kills    100%
+(Items   100)
+Secrets  100%  
+
+   ...and Time    02:42
+                 -------
+
+
+Description: Hmmm...
+
+
+Author: Henning Skogsto     
+E-mail: hskogsto@frisurf.no     

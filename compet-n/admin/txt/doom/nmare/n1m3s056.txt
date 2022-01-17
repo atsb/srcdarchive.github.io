@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M3s056.TXT
+N1M3s056.ZIP
+
+N1M3s056.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Doom 2 - E1M3 - Toxin Refinery (Secret Exit)
+
+Kills     41%
+Items     23%
+Secrets   57%
+Time      :56
+         ----
+
+Description:
+Entry #18, tried this one immediately after the normal exit run.
+
+Vincent wrote: 1:00 barrier beaten...
+               When going to the RL secret, the pig blocks you 9 times on 10.
+
+Again, the demons were a tad frustrating, but this run kinda took me by 
+surprise (notice me taking my time after I get the RL :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

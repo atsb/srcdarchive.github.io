@@ -1,0 +1,34 @@
+This is a Doom .LMP "Competition" Entry
+
+ps22-245.txt
+ps22-245.zip
+
+ps22-245.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP22 - Impossible Mission
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       2:45
+=--------------=
+
+C-N entry #92.
+
+This run isn't as hard as it may seem, the
+secrets are bunched up near the end, and two
+of them are very close to each other.  Once
+again, I failed to implement the red key trick
+and even got fried by the archvile, but the time
+is much better than my previous 2:58.
+
+I also got used to the trail of revenent fireballs
+that follows me around during the end fights, haha!
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

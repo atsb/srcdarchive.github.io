@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM24-615.TXT
+
+ NM24-615.ZIP
+
+  NM24-615.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 24 - "The Chasm"
+
+  Kills     30%
+  (Items    26)
+  Secrets   25%  and Time  06:15
+                           -----
+
+
+Description: The end can be a little bit chaotic.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

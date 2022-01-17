@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Mission:        map23
+Time:           0:32.94
+
+Comments:       I hate that last barrel. Done with Strafe40 only.
+
+
+Author:         Looper

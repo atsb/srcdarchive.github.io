@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV23-349.TXT
+EV23-349.ZIP
+
+EV23-349.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 10 - Lunar Mining Project
+
+Kills    100%
+Items    100%           
+Secrets  100%  
+
+   ...and Time  3:49
+               ------
+
+
+Description: Nice map, lots of fun. Although one of the worst combinations in
+	     Doom would be direct-shooters and nukage. But, it doesn't ruin
+	     for the rest of the map... i got 3:37 once, but forgot a couple
+	     monsters, maybe i'll make another demo later...
+	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

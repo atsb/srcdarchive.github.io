@@ -1,0 +1,34 @@
+| This is a COMPET-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : TN27-235.LMP and TN27-235.txt
+Date     : 2018-1-17
+Game     : TNT: Evilution (Final Doom)
+Client   : DOOM2.EXE V1.9 (Final Doom)
+Category : Speed
+Map(s)   : MAP27: Mount Pain
+Skill    : 5 (Nightmare)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 35%
+Items    : 9%
+Secrets  : 0%
+Time     : 2:35
+===================================
+Description: If all the mistakes have been cut off and all the tricks have been done (such as a linedef skip on the
+lifts near the end of the map), 2:30 or lower is possible. But as it is, that will take a lot of luck than it does
+skill and just blind rushing, since you have to pray the tunnels don't have you low on health or wasting time to get
+some Imps out of the way, you have a yellow keycard with hungry hitscanners waiting to murder you away, and of
+course, the last area pretty much pumping my blood in hopes I don't get killed and a little prayer on the Arch-Vile
+to infight to save a bit of time, but that's very unlikely. Regardless, I am glad to have this time anyways, beating
+my own time like this somehow always surprises me, but I guess I learned just how much potential Mount Pain has left
+in breaking a faster time. Although again, that might need a lot of luck to do seeing that it's pretty much a blind
+rush with how I have played, the chance of dying is pretty high as the AI doesn't always do what you expect them to
+do, be at places you don't want them to be, and the most frustrating part, Imps that don't die to a Super Shotgun
+blast as you would expect. Ah well, at least now I can REALLY say I am proud to have this time.
+
+One last thing to note though, I feel cheated when I have 80% health and all of a sudden it's nearly gone by the
+end and poof, dead. Well, the map is called Mount Pain for a reason I guess.

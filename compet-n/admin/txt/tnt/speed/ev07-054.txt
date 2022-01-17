@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV07-054.TXT
+
+ EV07-054.ZIP
+
+  EV07-054.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 7 - Prison
+
+  Kills     13%
+  (Items     0%)
+  Secrets    0%  and Time  00:54
+                           -----
+
+  Description :-)
+
+  I optimized Vincent's run slightly.
+  No need to take the shotgunner's gun! 
+  A lower 50s would be nice.
+
+  Note: Because Final Doom's EXE can't handle "joyb_speed 31",
+        I used the original DOOM2.EXE (version 1.9). So, to get a
+        correct playback of this LMP, you'll have to type:
+        DOOM2 -FILE TNT.WAD -PLAYDEMO WHATEVER
+
+  Adam Hegyi
+  alien@eik.bme.hu
+  ha211@hszk.bme.hu

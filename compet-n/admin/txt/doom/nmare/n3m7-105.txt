@@ -1,0 +1,32 @@
+Ultimate Doom Pacifist entry for Compet-N
+
+  N3M7-037.LMP - Nightmare!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Ep.3 Mi.7
+
+  Kills    ?%
+  (Items   ?%)
+  Secret   ?%  and Time  01:05
+                         -----
+
+  Description:
+	
+       Implemented Adam Hegyi's jump... a very tough jump for a quite hard level...
+       the fast pigs make it very hard to run through.... so for the jump i took care
+       .... i used Strafe50 which makes it easier.
+
+       Everything is hard here ... go through those 4 shotgun uys without dying... 
+       to slalom between the pigs ...cause they rarely let you enough space...
+       and to do that damn jump...
+
+       That's the first time that i do this jump on Nightmare! skill.
+       
+       PS: Adam, you can beat this easily :) you're the master of E3M7 :))
+
+
+  Author:  Catalaa Vincent
+
+  e-mail:  peroxyd@wanadoo.fr

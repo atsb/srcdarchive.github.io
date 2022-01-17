@@ -1,0 +1,52 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : lv20-242.lmp, lv20-242.txt
+Date     : 2013-08-11
+Game     : Doom 2 - Hell on Earth
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP20: Gotcha!
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  40%
+Secrets  : 100%
+Time     : 00:02:42
+===================================
+Description:
+This is my first Compet-N entry for Doom 2. 
+
+What was most important in this route was the result of infighting between 
+the cyberdemon and the master mind. One side rarely defeated the other side  
+with very low health, so I aimed to kill it with a few rockets after a good 
+infight and save a shot of BFG. I thought that the process in which I pick 
+up a RL with dealing with the cyber or the mind was a little long when I used 
+the strategy, so I got a RL in the early stage instead. Personally, I wanted 
+the cyber to lose the fight because I was sometimes not able to hit it with 
+rockets. I also wanted to aim to telefrag a cacodemon, but I gave it up because 
+it was a rare case as well. I cleared the last area with only 4 shots of BFG 
+and it's pretty smooth.
+
+The previous record is 3:14 by Radek, but there was unofficial record which 
+was 2:58 by hokis. I requested it from vdgg and dew for checking new tactics, 
+but his route was just within the assumption. For instance, he cut a green 
+armor and lowered a high wall first, though he didn't pick up the green armor 
+for a faster record but I didn't get it because I had already had a blue armor. 
+However, it was enough just to make sure there are no unexpectedly new routes. 
+Vdgg and dew, thank you! 
+
+I also included a failed demo. In the demo, the cyberdemon and the master mind 
+killed each other at the same moment and I telefraged a cacodemon, though it 
+was not a cacodemon in a blue armor's room. However, I missed 100% Kills because 
+a imp escaped from the exit area. I was annoyed at this situation which occasionally 
+happened.
+
+
+82th Comepet-N Entry

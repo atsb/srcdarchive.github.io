@@ -1,0 +1,35 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m215s251.lmp                        |
+            | Category: UV Speed - secret exit              |
+            | Map Level: MAP15 - The Devils Coterie         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills     41%                            |
+            |      Items     25%           ********         |
+            |      Secrets   11%  and Time * 2:51 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Hmmm... mistakes, mistakes. Better timing with the arch-vile and maybe |
+| the third green armor wouldn't have been necessary. The final time was |
+| surprising for me, in a positive way.                                  |
+|                                                                        |
++========================================================================+

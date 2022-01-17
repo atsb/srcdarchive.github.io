@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+P1M5-406.TXT
+
+ P1M5-406.ZIP
+
+  P1M5-406.LMP - Pacifist
+
+  Recorded using Ultimate Doom Version 1.9
+
+  Kills     ??%
+  (Items    ??%)
+  Secrets   ??%  and Time  04:06
+                           -----
+
+  Description:
+
+  My strategy for this lmp was to play the start fairly quickly, and the
+  end fairly slowly. The start is dead easy the way I played it. The
+  map only starts to get a little tricky once you get to the blue key
+  room. I copied Rini's strat of teleporting the bad guys away, but didn't
+  copy his strat of running into the tiny room with 2 pinkies in it :-)
+
+  Ian Sutton
+  bx880@torfree.net
+
+
+

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+U4M8-103.TXT
+
+ U4M8-103.ZIP
+
+  U4M8-103.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 4 Map 8 - Unto The Cruel
+
+  Kills     ??%
+  (Items    ??)
+  Secrets   ??%    and Time  01:03 
+                             -----
+
+  Description:  "Mini" Udluft once wrote;
+                > This was very easy, but I did this map several times on
+                > pacifist before, so I know it quite well.
+                > A very nice map, really.
+		
+ 		I agree "Mini", its a very nice map. You did a good job, but
+                I didn't bother to waste too much time on those two barons...
+                BTW; This must be one of the less optimized entries at
+                Compet-N Thats kind of strange, cause it really is a great map.
+   
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/
+

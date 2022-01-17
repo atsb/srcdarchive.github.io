@@ -1,0 +1,65 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP3-0422.TXT
+
+ EP3-0422.ZIP - Ultra Violence
+
+  EP4-0422.LMP - Whole Episode on Ultra Violence
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 3 - Inferno
+
+
+  Map:         Time:      Best:
+  -----------------------------------------
+  E3M1   -     0:41  :)   0:39
+  E3M2   -     0:20  :((  0:17
+  E3M3   -     0:29  :)   0:28
+  E3M4   -     0:52  :Ý   0:49
+  E3M5   -     0:26  :))  0:26
+  E3M6   -     0:29  :|   0:28
+  E3M7   -     1:05  :))  1:05
+  E3M8   -     -:--  --
+  ---------------------------------------- 
+  And, of course, total time:         4:22
+  ----------------------------------------
+
+Note: routes taken from speedrun record demos, mainly. Credits to whoever :)
+
+E3M1 - DAMN DAMN DAMN this is an annoying level. It's just good that it comes
+       first...in E1 the bastard levels come late, in E2 there's e2m7, and
+       in E4 there's e4m6. Main problem here is the corridor of pinkies...
+       the difference between 2 shots to kill the first one and 3 shots can
+       end up being 4 seconds!
+E3M2 - Oh my _god_. Would someone like to tell me what the hell happened here?
+E3M3 - Hehe, this is my speciality :). I'd like to do 0:27 sometime.
+E3M4 - This level is a complete _bastard_ from scratch, using the yellow key
+       trick. In an episode run, it's a complete blast - you get to fire
+       plasma all over the place and you don't need to bother with the key
+       trick :).
+E3M5 - YEAH! this is _good_. Getting that blue key first time can sometimes
+       be annoying, and the rest of the running is good.
+E3M6 - Hmmm. Didn't go brilliantly. Didn't quite have enough plasma to just
+       keep firing, really.
+E3M7 - Phew. This is a fiddly little level to have so late in an episode run,
+       it's very easy to miss the yellow key jump and lose 3 secs or so.
+       Also it's one of those levels where something completely bizarre can
+       happen and just stop you dead in your tracks, like an unexpected herd
+       of pinkies or something.
+E3M8 - Well, I'm *very* cautious here, for reasons detailed later :). This
+       is far more fun on a DANG run, because you get the BFG in e3m3...
+
+Damn, I thought this would be a fairly easy record at first...my first
+finished effort was 4:42 under compet-n rules, and that had a 1:24 for
+e3m7 :). It probably would have been easy if it hadn't been "one of those
+days"...first I made 4:19 and died on e3m8 because I forgot to pick up the
+blue armour, then I equalled the record...TWICE...geesh. Got it now though.
+My prediction for a reasonable time? Hmm, well...probably 0:40, 0:17, 0:28,
+0:49, 0:27, 1:04, giving 4:14. The optimum you could really go for would
+be 0:38, 0:17, 0:27, 0:46, 0:25, 1:03 giving 4:05. To get under 4:00 you
+really need things like a speedrun-style E3M1 (leaving the problem of the
+jump on e3m3), the e3m4 yellow key trick and the e3m7 exit jump...
+
+Author:     Adam Williamson
+E-Mail:     adam@scisoft.force9.co.uk
+

@@ -1,0 +1,10 @@
+Author:         Looper
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map13
+
+Time:           0:55.97
+
+
+Comments:       Ugly run, but that keygrab isn't easy to do fast.

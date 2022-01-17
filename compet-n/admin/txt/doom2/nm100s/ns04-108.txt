@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+NS04-108.TXT
+
+ NS04-108.ZIP
+
+  NS04-108.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 4 - The Focus
+
+  Kills     78%
+  (Items    64%)
+  Secrets  100%  
+                          ********
+            ... and Time  * 1:08 *
+                          ********
+
+  Description:
+
+  The beginning is quite annoying and luck
+  based, especially if you try to go really fast.
+  The rest is more or less routine if you're
+  good at this map (which I'm not). Overall it 
+  should be improvable.
+
+  Xit Vono
+  xit_vono@yahoo.com

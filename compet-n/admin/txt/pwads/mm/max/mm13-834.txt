@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+MM13-834.TXT
+
+ MM13-834.ZIP
+
+  MM13-834.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 13 - The Inmost Dens II
+
+  Kills    100%
+  Items     52%
+  Secrets  100%  and Time  8:34
+
+
+  Description :-)
+
+  Quoting Yonatan Donner:
+  > And the wait in the end is annoying.
+
+  One option is to leave some of the teleporting demons behind
+  to kill in the meantime.
+
+  Those demons are annoying though, I had lots of demos with
+  98-99% kills.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

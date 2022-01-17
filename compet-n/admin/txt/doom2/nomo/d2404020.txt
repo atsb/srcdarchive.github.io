@@ -1,0 +1,13 @@
+author:         Adam Williamson
+
+game:           Doom2
+category:       nomonsters
+mission:        map24
+
+time:           0:40.20
+
+
+comments:       Nice time. If i'd timed the blue door right maybe 0:39 I
+                could have had, dammit.
+                
+                

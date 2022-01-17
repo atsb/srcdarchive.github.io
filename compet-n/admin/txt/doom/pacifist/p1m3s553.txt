@@ -1,0 +1,48 @@
+P1M3s553.TXT
+
+ P1M3s553.ZIP
+
+  P1M3s553.LMP - Pacifist style!
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  Doom - Ep.1 Mi.3 - Toxin Refinery
+
+  Kills     ??%
+  Items     ??%
+  Secrets   ??%
+
+  Time     5:53
+          -----
+
+    Description: There is a trick that sometimes works well, you take about
+                 50% damage but the second room clears itself, then if you
+                 can get the sargeants in the first room to attack imps and
+                 not you it makes it very easy.
+
+from p1m32411.txt:
+>                 Some words to the secret exit:
+>                 I tried to take the secret exit for some time, but the
+>                 narrow staircase always is blocked by one remaining
+>                 sargeant. Though it is possible to pass him, it will cost
+>                 too much health and you cannot leave the room after the
+>                 staircase easily.
+
+I just catch the last imp in the doortrack and let the human shoot at him
+and then they fight and if the imp didn't win, there's more imps to use
+by the blue door.  To get out of the staircase area, i find the spectre tends
+to the right, so i strafe left around him at the last possible moment.
+With the soul sphere, i have enough life just to run through the rest of the
+map and I think I could do it without the soul sphere but I didn't want to
+screw it up.
+
+One more hole is filled on the pacifist chart.
+
+I wonder if my aggressive start could be used to speed up the normal exit
+record? I think so: get the soul sphere and then speedrun to the blue key
+and back. Then pick up health and speedrun to the exit.  Estimated time:
+8 minutes or so?
+
+Andy Kempling
+aurikan@hotmail.com

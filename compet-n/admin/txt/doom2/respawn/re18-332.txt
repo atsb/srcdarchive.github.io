@@ -1,0 +1,33 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE18-332.TXT
+
+ RE18-332.ZIP
+
+  RE18-332.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 18 - The Courtyard
+
+  Kills    109%
+  (Items    49%)
+  Secrets  100%  and Time  03:32
+                           -----
+
+
+  Description :
+  Yes, poeppy's -Respawn route is MUCH faster - thanks for this improvment.
+  I think this is definitly more fun than hunting for the lost imps in
+  plain UV 100/100 - but no one seems to agree.
+  Btw:
+  Now I've beaten poeppy using the same route, does that mean I'm alraedy
+  benifiting from the new controller config?
+  (switched from [strafe on] to separate strafe keys a few weeks ago)
+ 
+  Author: Rini (Steffen Udluft)
+
+  E-mail: rini@mppmu.mpg.de   
+

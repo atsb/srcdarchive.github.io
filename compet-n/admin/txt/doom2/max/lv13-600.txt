@@ -1,0 +1,41 @@
+This is a DooM .LMP "COMPET-N/doom2/" Entry - Please forward it...
+
+LV13-600.TXT
+
+ LV13-600.ZIP
+
+  LV13-600.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 13 - The Town
+
+  Kills    100%
+  (Items    37)
+  Secrets  100%  and Time  06:00
+                           -----
+
+
+Description: After recording the coop - uv13net2 - I thought I could
+             improve my own record. Changed the start and the time I
+             jump to the chaingun. In the last record(ing) I used the
+             Spider at the teleporter to kill at least one Revenant.
+             Now I telefrag her. Sometimes she has already teleported
+             but in 9 out of 10 attempts I have to wait. The other
+             problem is to have the Revenants, Spiders and Cacos fight
+             each other. Sometimes there is only one Revenant and that
+             helps a lot, but not that often, if you don't waste time
+             guiding a homing missile from the Revenant to a Spider.
+             I recorded a 6:08 rather fast, but wasn't that happy with
+             the time. I hope exactly 6 minutes is OK :)
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

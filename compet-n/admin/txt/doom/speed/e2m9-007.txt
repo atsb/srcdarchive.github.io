@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M9-007.TXT
+
+ E2M9-007.ZIP
+
+  E2M9-007.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 (?)
+
+  DooM - Ep.2 Mi.9 - Fortress of Mystery
+
+  Kills      0%
+  (Items     0)
+  Secrets  100%  and Time  00:07  !!!!!!!!!!!!!!!!!!!!!!! <GGG> ;-)
+                           =====
+
+  Description :-)
+
+  Okay,  so y'all think that pressing switches through walls  (like
+  E2M2 or E3M6) is hot stuff, huh? Yawn! (read: YAAAAAWWWN!!!!! :-)
+  Wanna know what's REALLY HOT STUFF?!! Okay, I'll tell ya: getting
+  the yellow key through a solid metal door locked with the red key.
+  'Big deal, so what?', I hear you say ... well, the point here is:
+  I DO NOT HAVE THE RED KEY!!! You don't believe me?!? Quit reading
+  right now and watch  THE .LMP  -  then come back here afterwards!
+
+  See? I told you! Hehehehe ... ;-)  Well, this definitely explains
+  SataniC's extremely weak time of 0:12 (ROTFLMAO! ;-) - I *always*
+  wondered why the heck he insisted on grabbing all three keys. <G>
+
+  Oh, I almost forgot: "Sorry, SataniC!" :-)  - BTW this trick *is*
+  repeatable, it's  *not*  a once-only engine bug or the like. Just
+  try it a little  (preferrably with -nomonsters),  and you will be
+  able to do it, too. It also works with the red key, but you won't
+  get a 0:07 time then ;-) - Oh Gawd, I LOVE this buggy engine! <G>
+
+  I *did* include a .BAT with this, 'coz  S.;-)  takes good care of
+  all the newbies out there. :-)  However, I'm convinced that every
+  serious LMPer (like Anthe and me) has a high-sophisticated one of
+  his own to handle this stuff - right? ;-)
+
+
+ Thomas aka ZlatkO ThE GoDFatheR
+
+ thomas_zajic@non-hp-austria-om1.om.hp.com
+
+

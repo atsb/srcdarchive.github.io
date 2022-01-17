@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV20-055.TXT
+
+ LV20-055.ZIP
+
+  LV20-055.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - Gotcha!
+
+  Kills     22%
+  (Items    22)
+  Secrets   14%  and Time  00:55
+                           -----
+
+
+Description: Tried for 2 hours ;-) Improvable if you could kill this
+             sergeant with 2 pistol shots. And the imp blocked the way.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+
+Performance: timed 2474 gametics in 1418 realtics ;-)
+
+

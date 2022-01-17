@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ04-246.TXT
+
+ RQ04-246.ZIP
+
+  RQ04-246.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 04 - Fireworks
+
+  Kills     55%
+  Items      0%           ********
+  Secrets  100%  and Time * 2:46 *
+                          ********
+
+  Description :-)
+
+  I just wanted to show that this level can be done without
+  waiting for the exit bars. Although I use strafe50 here it
+  can also be done without it.
+  This is just my first successful run (the first part of the
+  map is filled with monsters and you can only get the shotgun,
+  which makes speeding this level somewhat frustrating,I think).
+  It should be easily beatable.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

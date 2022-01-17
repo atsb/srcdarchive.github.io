@@ -1,0 +1,23 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : pl09-049.txt, pl09-049.lmp
+Date     : 2014-07-12 23:49
+Game     : The Plutonia Experiment
+Client   : doom2.exe v1.9
+Category : UV-Speed
+Map(s)   : Map 07: Abattoire
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 9%
+Items    : 25%
+Secrets  : 50%
+Time     : 00:00:49
+===================================
+Description
+Luck-based and irritating run. Had a 53-54 run that failed because I couldn't jump down onto the raising bridge. This was damn lucky, finally instant glide. Almost thought that I wouldn't make it because the imps, once again, didn't let me on the bridge, was so happy when I did. Really happy to get under 50 (only had 1:00 and 1:15 exits before this one).

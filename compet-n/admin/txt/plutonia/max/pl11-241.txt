@@ -1,0 +1,57 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PL11-241.ZIP
+
+ PL11-241.LMP
+
+  PL11-241.TXT -UV MAX
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills:  14 / 18 (77%)
+  Items:  13 / 16 (81%)            ********
+  Secrets: 1 / 1  (100%) and Time  * 2:41 *
+                                   ********
+  C-N entry #19.	Date:02/15/2012
+
+  Description :)
+  My 9th COMPET-N entry for Hunted, this demo won't bring me pleasure
+  though, my cat died earlier and February 15th will forever live in infamy,
+  February 16th isn't too good either. My Olivia girl broke up with me that
+  day.
+
+  I've lost both my Olivia cat and my Olivia girl now. Olivia the cat lived
+  to 21 (or 22), an outstanding age for an animal of her species. It's been
+  a long time since I've cried but today brought the tears down my cheeks.
+
+  But anyways, back to the demo, almost lost it at the end, good save on my
+  part.
+
+  If most people played other levels like I play this level, COMPET-N would
+  be allot harder to compete in.
+  								
+  								
+  By the way, COMPET-N record was 2:44 by me, timestamped:
+  Thursday, December 22, 2011, 3:34:50 PM.
+
+  Complete Historic COMPET-N Leaderboard:
+  PL11-828 - Kai-Uwe Humpert - 10/12/1996
+  PL11-315 - Kai-Uwe Humpert - 03/26/1997
+  PL11-252 - Radek Pecka     - 03/28/2002
+  PL11-250 - Xit Vono        - 06/12/2006
+  PL11-246 - Archy           - 11/18/2009
+  PL11-244 - Archy           - 12/22/2011
+
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

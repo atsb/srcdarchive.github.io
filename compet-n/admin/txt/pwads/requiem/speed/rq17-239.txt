@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ17-239.TXT
+
+ RQ17-239.ZIP
+
+  RQ17-239.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 17 - Dens of Iniquity
+
+  Kills     35%
+  (Items    15%)          *********
+  Secrets    0%  and Time *  2:39 *
+                          *********
+                          
+
+  Description :-)
+  
+  It's a good speedrunning map except for a few things.  The first
+  problem is the SSG grab is annoying.  The second is that the
+  baron blocks the way up after getting the red key.  The third
+  annoying thing about this run is that it's easy to lose too much
+  health at the yellow key, but that just makes it more challenging
+  so I won't complain any more.
+
+  Xit Vono
+  xit_vono@yahoo.com

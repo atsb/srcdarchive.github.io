@@ -1,0 +1,56 @@
+This is a Doom .LMP "Competition" Entry
+
+2013MM01.TXT
+2013MM01.ZIP
+
+2013MM01.LMP 
+
+Recorded using Doom 2 Version 1.9
+DooM2 -file mm.wad -playdemo with version 1.9
+
+Momento Mori - levels 1-10 on UV skill
+
+01 - The Teleporter          -  :52
+02 - The Bridge              - 1:30
+03 - Interlock               -  :52
+04 - The Stand               - 3:38
+05 - Hell's Kitchen          - 1:13
+06 - The Powerstation        - 1:25
+07 - Not That Simple         - 4:50
+08 - And The Dead Shall Rise - 1:02
+09 - Hightech Grave          - 4:21
+10 - The Mansion             -  :30
+
+Total - 20:13
+
+C-N entry #49, movie run #19.
+
+01: A cool start map; I exit more healthy than usual.
+02: This map originally struck me as impressive, with MM's new textures kicking
+    into high gear.  Quite fun to play through.
+03: Another short map, sometimes those demons early on can slow you down.
+04: The first MM map that's nearly impossible to speed, so I slow down a bit.
+    The yellow key area can be dangerous to run through.
+05: A nicely designed map!  The area behind the red bars can be tricky.
+06: Another fun map to play, nothing can go wrong here.
+07: This map is the hardest one to speed, especially in the maze area.  I almost
+    die there in this run, so that should provide a little excitement.. it did for
+    me, phew! :)
+08: That jump at the start seems deceptively difficult for me.. I can never get it
+    by the second try, even. :/
+09: This map is pretty intense, definitely among my favorites from MM.
+10: A short and easy end map.. strangely designed too.
+
+This megawad is among my favorites and doing a 30mm would be a real pleasure,
+which starts with the first 10 levels.  These levels remind me of pl11/ev01,
+where the levels are combat intensive and tough to speed. I really enjoyed
+making this run and I hope you enjoy watching it. :)
+
+Note: I recorded this with mm.wad, but not mmmus.wad
+I don't think it should make a difference if you play it back with the MM music.
+The music in MM also kicks ass, IMO. :)
+
+My previous times for this episode included a 23:00, 21:34 and 20:34.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

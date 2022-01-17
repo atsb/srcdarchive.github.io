@@ -1,0 +1,14 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Arno Slagboom (slagboom@cybercomm.nl)
+Indigo:    Marko van der Want (markowant@freemail.nl) 
+
+game:     doom2 v1.9
+category: coop nmare
+level:    map03
+
+time:     0:45
+
+comments: One of the easiest levels.
+          The inactive player needs to be the most careful.
+

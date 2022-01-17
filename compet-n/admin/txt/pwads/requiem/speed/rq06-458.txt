@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ06-458.TXT
+
+ RQ06-458.ZIP
+
+  RQ06-458.LMP - Ultra Violence Speed!
+
+  Recorded using DOOM 2 v1.9
+  DOOM2 -file requiem.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 6 - Natas Ot Etubirt
+
+  Kills     48%
+  (Items     4%)          ********
+  Secrets   33%  and Time * 4:58 *
+                          ********
+
+  Description:
+  Still room for improvement, but at least I got under the 5 minute
+  mark this time.
+
+  Jason Dyer (jdyer41@aol.com)

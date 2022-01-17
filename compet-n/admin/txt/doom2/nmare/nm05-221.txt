@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+NM05-221.TXT
+
+ NM05-221.ZIP
+
+  NM05-221.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 05 - The Waste Tunnels
+
+  Kills     55%
+  (Items    33)
+  Secrets    0%  and Time  02:21
+                           -----
+
+
+Description: Just a Level in NightMare!
+             Not so hard at all, starting with 200/200 and 3 weapons.
+             As you can see, you need no plasma gun.
+             Could be made faster, but who cares in NightMare! ?
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

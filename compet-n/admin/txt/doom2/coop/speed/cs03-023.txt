@@ -1,0 +1,51 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CS03-023.TXT
+
+ CS03-023.ZIP
+
+  CS03-023.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 3 - "The Gantlet"
+
+           Kills    Items   Secrets
+
+  Green      8%      20%     100%      Adam
+  Indigo    16%       0%       0%      Waldon
+
+
+              *********
+     and Time * 00:23 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+
+  It took us "some" time to make this one.
+  The route is optimal, I think, but I would like
+  to see this record improved. What did I say???
+  Never mind! This demo rocks. BeAt It If YoU cAn.
+
+  [ Adam : ]
+  
+  Well, this time was very hard to get,
+  and I believe it's optimal with this
+  route... Someone could beat this with
+  Jonathan's rocketjump... but then it
+  wouldn't be too much need of two players...
+  
+  So if you want to beat this better try
+  beating lv03-023 first :))
+  
+  Authors:
+  
+  Laszlo Vecsei
+  waldon@matavnet.hu
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

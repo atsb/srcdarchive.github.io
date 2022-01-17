@@ -1,0 +1,20 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Michael "OgreSlayR" Lastovica    (Akira101@comcast.net)
+           Green - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+
+game:     TNT with doom2.exe
+category: coop speed/pacifist
+mission:  map31
+
+time:     0:27
+
+
+
+OgreSlayer : Not that hard, 26 *might* be possible but hard I guess.
+
+Vincent : The throne suck a bit, but it's kinda hard to manage with 
+          lag... 26 is definatly possible.
+          
+Recorded using Kahn with a ping of 160 ms.
+          

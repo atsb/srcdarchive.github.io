@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c1s3-047.txt
+
+ c1s3-047.zip
+
+  c1s3p047.lmp
+  c1s3s047.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e1m3 - Toxin Refinery 
+
+              Kills    Items   Secrets
+
+  SlagDooM     12%       8%       0%      
+  Python       17%       6%       0%      
+
+  Time:    0:47.45
+
+
+Comment:      Nice relay race. :)
+              Just made this to beat another ViNi demo. 
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

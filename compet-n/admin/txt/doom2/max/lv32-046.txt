@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV32-046.TXT
+
+ LV32-046.ZIP
+
+  LV32-046.LMP - Ultra Violence
+
+  Recorded using Doom2 v1.666 with a lv32-v19.wad for this
+  lousy (secret) difference between versions 1.666 and 1.9
+  & Converted to Doom2 v1.9
+
+  So,
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 32 - "Grosse"
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  00:46
+                           -----
+
+Computer:  486DX33 ISA with standard VGA and PC-Speaker ;-)
+
+Comments: Tried hard almost 3 hours.
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

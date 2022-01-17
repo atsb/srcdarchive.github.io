@@ -1,0 +1,17 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 30no1929.lmpp & 30no1929.txt
+Date     : 2010-12-01 18:41
+Game     : Doom 2 - Hell on Earth
+Client   : doom2.exe v1.9
+Category : Nomonsters
+Map(s)   : Movie
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Nickname : Looper
+Country  : Finland
+-------------------------------------------------------------------------
+Time     : 19:29.63
+Vanilla  : 19:15
+===================================
+Description :-)

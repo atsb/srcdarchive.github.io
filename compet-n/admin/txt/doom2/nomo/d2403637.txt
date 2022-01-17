@@ -1,0 +1,10 @@
+author:         Adam Hegyi
+
+game:           Doom2
+category:       nomonsters
+mission:        map24
+
+time:           0:36.37
+
+
+comments:       Think I'll do 0:35 sometime...

@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs21-016.txt
+
+ cs21-016.zip
+
+  cs21-016.lmp - Ultra-violence
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP21
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:16
+
+
+
+Vincent : I teached Selim how to do that trick (which is really easy) so that
+          we both perform it.
+Selim:    Vincent is right, the trick is really super easy to do once u know how.
+          That could be interesting for an uv run...
+
+Green:    Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:   Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

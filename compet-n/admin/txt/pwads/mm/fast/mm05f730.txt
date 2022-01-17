@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM05F730.TXT
+
+ MM05F730.ZIP
+
+  MM05F730.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 05 - Hell's Kitchen
+    
+  Kills    100%
+  (Items    97%)          
+  Secrets  100%  and Time = 07:30
+                                                  
+
+  Description: This map is very hard compared to maps 3,4,6 I made earlier. I had some                     serious problems and tried several strategies before I could end it. This is                my first exit. 
+  
+  
+  Author: Tomas "DeDo" Kollar
+  Email: kollarant@stonline.sk

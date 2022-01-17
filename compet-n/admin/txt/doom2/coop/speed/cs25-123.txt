@@ -1,0 +1,27 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV25-123.TXT
+
+ UV25-123.ZIP
+
+  UV25-123.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 25 - Bloodfalls
+
+           Kills    Items   Secrets
+
+  Green      ??       ??      100      Adam
+  Indigo     ??       ??        0      Istvan
+
+  Time:    1:23
+
+
+Comment:
+   This level doesn't look like a coop optimized one, too unbalanced. 
+  
+
+ Adam HA Hegyi <ha211@ural2.hszk.bme.hu>
+ Istvan Pataki <deity@balu.sch.bme.hu>

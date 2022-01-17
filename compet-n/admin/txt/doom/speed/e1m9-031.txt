@@ -1,0 +1,55 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+E1M9-031.TXT
+
+ E1M9-031.ZIP
+
+  E1M9-031.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM ver. 1.9
+
+  DooM - Ep.1 Mi.9. - Military Base
+
+                     Time  00:31
+                           -----
+
+  Description :-)
+
+Adam H (e1m9-034.txt) wrote:
+
+>  I really don't know if there is an optimum time for this level, with a
+>  healthy start one could go more aggressive and end up with a reasonably
+>  better time. Somewhere around the 0:30 mark I suppose.
+  
+Yeah, that's basically what I did :). I changed Adam H's route a little. First
+I used his route and did 0:33, then I made a couple of switches. By standing
+on the right hand end of the yellow door to open it, then strafing left and
+shooting the barrel, you kill off both of the right-hand side sergeants -
+which is fast and saves health. Then you go through the gap created, and
+instead of running all around the outside of the room you just pick up the
+red key, turn around and run like hell :). I changed the red key room as well.
+I realised you don't actually need to hit the barrel in the middle of the
+room at all - with a bit of luck you can hit the three barrels on the left
+hand side then run through the room and only take 1 or 2 hits. In fact, you
+can do it without taking any hits at all...I had one 0:32 where I survived
+with 1% health right from the yellow door to the medikit before the pinkies!
+I had a bit of luck in this demo. It's much harder to hit the three barrels
+from the door than from the middle of the room, so quite often you just
+damage them and have to try and hit them on the way out. Well, i missed them
+again...but then i got lucky...if it's the middle barrel you push backwards,
+you can then squeeze past the barrels without them being blown up at all.
+Which was handy :). The rest of the level is basically luck with sergeants
+and pinkies. You need not to get hit too badly at the start, especially by
+the sergeant right after the yellow key (he always hits you, you can't do
+much about it, it's just a question of how hard), and you need a fast run
+through the blue key pinkies. The end jump doesn't always work, because of
+Doom's rather dicey handling of speed and stairs :). 90% of the time it's
+OK though. I'd say human optimal time here is about 0:29, a really good
+TAS run could go to 0:27, probably.
+
+Adam Williamson
+adam@scisoft.force9.co.uk

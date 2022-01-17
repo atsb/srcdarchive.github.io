@@ -1,0 +1,72 @@
+This is not just another DooM .LMP "Competition" Entry...
+
+30NS7650.TXT
+
+30NS7650.ZIP
+
+30NS7650.LMP - NightMare!
+
+This is a Compet-N/Doom2/MOVIE/D2SS/Entry...
+
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+                     
+              Time  
+
+  LV 01  -    1:01 :(
+  LV 02  -    1:22 :(
+  LV 03  -    0:43 :|
+  LV 04  -    1:29 :)
+  LV 05  -    2:13 :|
+  LV 06  -    2:05 :(
+  LV 07  -    1:33 :(
+  LV 08  -    1:47 :)
+  LV 09  -    4:54 :((
+  LV 10  -    3:14 :)
+  LV 11  -    1:29 :)     
+  LV 12  -    3:17 :)
+  LV 13  -    3:05 :)     
+  LV 14  -    2:07 :|    
+  LV 15  -    4:29 :)
+  LV 31  -    1:09 :)
+  LV 32  -    0:40 :)
+  LV 16  -    1:46 :|
+  LV 17  -    4:33 :|     
+  LV 18  -    3:09 :)
+  LV 19  -    2:28 :)
+  LV 20  -    2:15 :|     
+  LV 21  -    1:45 :|
+  LV 22  -    2:12 :|
+  LV 23  -    1:53 :|
+  LV 24  -    5:03 :((
+  LV 25  -    1:36 :(
+  LV 26  -    2:23 :(     
+  LV 27  -    3:33 :(
+  LV 28  -    1:47 :)
+  LV 29  -    4:16 :|
+  LV 30  -    1:35 :|
+-------------------------------------------------------------------------------
+Total        76:50 
+
+         :( = More problems than usual
+         :| = Usual problems
+         :) = Quite nice playing
+
+Description: 
+
+	Here is a new version, my 4th 30NM ever and 1st complete 30NS ever.
+	The overall run is pretty crap, only Episode 2 is a little bit better. 
+	Many maps really suck : map06, map09 missed the invul. in map24, 9% health
+	start in map26, very slow map29.
+	
+	I might retry later (july or later). I'll also try a coop run with henning
+        if ever manage to go to Norway on july :)
+
+
+  Author:    Vincent "PerOxyd" Catalaa DSS
+
+  E-mail:    vincentds@netcourrier.com
+Homepage:    www.geocities.com/peroxyd2s
+ ICQ-UIN:    14712188

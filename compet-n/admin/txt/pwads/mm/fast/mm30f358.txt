@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM30f358.TXT
+
+MM30f358.ZIP
+
+MM30f358.LMP - Ultra-Violence -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File mm.wad -PlayDemo with Version 1.9
+
+Memento Mori - Level 30 - Viper
+      
+Kills      109%
+Items       55%
+Secrets    100%
+
+              ********
+  and Time -  * 3:58 *
+              ********
+
+
+Description:
+
+Had some trouble with the Cyberdemon, for some reason I couldn't get
+the BFG to go into the demonspitter's head like it usually does, it
+kept pounding the walls of the hole. And then I came down to 16%
+health and had to retreat for a Megasphere.
+
+And yes...those Imps are STILL a pain... ^^'
+
+At least it's below 4 minutes now ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima_Mantoid
+
+
+09.01.2004.

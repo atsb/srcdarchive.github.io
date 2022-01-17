@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ26-033.TXT
+
+ RQ26-033.ZIP
+
+  RQ26-033.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 26 - Excoriation
+
+  Kills    100%
+  Items      0%           +++++++++
+  Secrets  100%  and Time + 00:33 +
+                          +++++++++
+                          
+  Description:
+ 
+  Noticed in my rq26-035 that I didn't need to
+  lure the chainies at the end. I could just
+  fire rocket and they'll hit it
+  I guess I lost 1 second with that
+
+  So I tried to improve the run with that in mind
+  It's a good run but can still be pushed more
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

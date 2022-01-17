@@ -1,0 +1,40 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Author: Various                               |
+            | Filename: m213r552.lmp                        |
+            | Category: Respawn                             |
+            | Map Level: MAP13 - Devils Paradise            |
+            |                   (by Rhys Hughes)            |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    104%                            |
+            |      Items     75%           ********         |
+            |      Secrets  100%  and Time * 5:52 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| A relatively easy map for -respawn. I believe -fast was more difficult |
+| here - I didn't try it myself, that's just my opinion based on         |
+| Tatsurd's run.                                                         |
+|                                                                        |
+| What can be done faster here is probably to release more monsters      |
+| at the beginning (before going for the red key), as well as to         |
+| to postpone the blue armor pickup - rather risky ideas if you ask me.  |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL06-314.TXT
+
+ PL06-314.ZIP
+
+  PL06-314.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 06 - Baron's Lair
+  
+  Kills    100%
+  Items     75%            ********
+  Secrets  100%  and Time  * 3:14 *
+                           ********
+
+
+  Description :-)
+
+  One of my beloved maps, I've played it for the gmcol, and the previous
+  COMPET-N record was mine two. Since the lmp doesn't playback with doom2.exe
+  (because of the different style teleporters work), I had to learn it again.
+  While I played I remembered from time to time how I've done it before, but I
+  guess I've changed some parts too. The Cyberdemon was easier than 
+  expected, it was less frightening than some years ago, so I release him
+  with the Revenants still alive. Could be that is the only place I am 
+  faster than before.
+
+  Kai-Uwe Humpert
+  gazelle@cs.tu-berlin.de

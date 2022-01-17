@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM17-157.TXT
+
+ MM17-157.ZIP
+
+  MM17-157.LMP - UV Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 17 - House of Thorn
+
+  Kills       35%
+  Items       20%            
+  Secrets     42%  and Time: 1:57 
+                             ==== 
+
+  Description :-)
+
+  11th COMPET-N entry.
+
+  I made this run in between my max run attempts on this map. 
+  It's actually quite fun for speeding, contrary to popular 
+  belief (except for the start, maybe). I remember Erwin Lin 
+  complaining about the lack of health and armour in his 4:28 
+  speedrun of this map, but he missed a very obvious help: the 
+  megasphere! ;-)
+
+  The jump I found to the megasphere is probably a new "trick", 
+  I haven't seen it used elsewhere. With this jump, you lose 
+  very little time and the rest of the run becomes a breeze, as 
+  long as you watch your step at some parts.
+
+  I played carefully in the red key area, but I'd had some bad 
+  past experiences trying to pass the Barons (and Arch-Vile) 
+  without killing them... Another discovery I made was that the 
+  Mancubus trap isn't nearly as dangerous as one might think. 
+  You're quite safe up there -- just waste the Mancubus closest 
+  to the switch, push it, and get out of there. :-)
+
+  The run isn't that quick, the main purpose here was simply to 
+  demonstrate a viable route. Therefore, there are still some 
+  obvious improvements; for example, you can save a couple of 
+  seconds by not going for the SSG (I just used it a bit in the 
+  yellow key area), and by succesfully hitting that switch from 
+  below...
+
+  Kristian Ronge
+  zuckuss@gmail.com

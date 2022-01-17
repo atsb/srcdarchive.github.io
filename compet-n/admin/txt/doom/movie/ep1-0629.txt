@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP1-xxxx.TXT
+
+ EP4-xxxx.ZIP - Ultra Violence
+
+  EP4-xxxx.LMP - Whole Episode on Ultra Violence
+  
+  Recorded using, of course, "The Ultimate DooM"
+  DooM - Episode 1 - Knee Deep in the dead
+
+
+  Map:       Kills: Items: Secrets:   Time:  
+  -----------------------------------------
+  E1M1   -     06%    0%   33%        0:13  :) 
+  E1M2   -     13%    4%    0%        0:27  :/  
+  E1M3   -     35%    8%    0%        0:48  :/ 
+  E1M4   -      9%   15%    0%        0:29  :/   
+  E1M5   -     45%   41%   11%        1:28  ;(  
+  E1M6   -     34%   21%   50%        1:28  :/ 
+  E1M7   -     53%   33%   25%        1:36  :/ 
+  E1M8   -     ??%   ??%   ??%         **   
+  ---------------------------------------- 
+  And, of course, total time:         6:29                                    
+  ----------------------------------------
+
+Note:  Harder than episode 4. Phobos lab in particular gave me a hard time.
+       I played the last two levels a bit too careful maby, but all in all
+       I guess its an ok run...(please quit after e1m7, I did a slow 
+       max-kill of e1m8 :)
+
+
+Author:     Anders Johnsen
+E-Mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

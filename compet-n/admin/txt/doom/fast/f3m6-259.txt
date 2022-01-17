@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+F3M6-259.TXT
+
+ F3M6-259.ZIP
+
+  F3M6-259.LMP - Ultra Violence with -FAST
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 3 Mission 6 - Mt. Erebus
+
+  Kills   100%
+  (Items  41%)
+  Secret  100%  and Time  2:59
+                          ----
+
+Description: Finally 3 mins barrier has been broken. Now is it just one
+             second behind Max record. In my opinion the time should be
+             even faster than Max.
+             
+  
+
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz

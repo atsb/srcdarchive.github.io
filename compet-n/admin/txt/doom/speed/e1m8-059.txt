@@ -1,0 +1,38 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+E1M8-059.TXT
+
+ E1M8-059.ZIP
+
+  E1M8-059.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM ver. 1.9
+
+  DooM - Ep.1 Mi.8. - Deimos Anomaly
+  Kills     ??%
+  (Items    ??%)
+  Secrets    0%  and Time  00:59
+                           -----
+  Description :-)
+
+  Sorry Matthias that I beat your first COMPET-N demo, but as you said, under
+  1 minute is possible. A huge thanx to Matthias for the jump-trick, I wouldn't
+  have found that out myself.
+
+  The route is modified from my last attempt, I leave the first baron sooner
+  (exactly after using 50 bullets). I still don't know if blowing the barrels
+  really helps, but it definately makes things easier.
+  You gotta have luck with the barons (how they walk, how they attack the
+  spectres) and the spectres (how they block your aim, how they attack the
+  barons) and so on.
+
+  I'm quite satisfied with this demo as a whole, and of course I'm happy to
+  beat the 1 minute barrier.
+
+  Adam HA Hegyi
+  alien@eik.bme.hu
+  ha211@hszk.bme.hu

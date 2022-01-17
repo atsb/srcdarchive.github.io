@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL02-242.TXT
+
+ PL02-242.ZIP
+
+  PL02-242.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 02 - Well of Souls
+
+  Kills    100%
+  Items      0%            ********
+  Secrets    0%  and Time  * 2:42 *
+                           ********
+
+
+  Description :-)
+
+  Nice level, though it gets boring after a while, ammo shortage is the main 
+  issue here :)
+
+  Henning Skogsto
+  h-doom@frisurf.no

@@ -1,0 +1,71 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1832UV21.TXT
+
+ 1832UV21.ZIP
+
+  1832UV21.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 3" - Levels 21 thru' 30
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 21  -     55%   55%    0%       1" 18     (106 115)
+  LV 22  -     69%   85%  100%       1" 23     (104  34)
+  LV 23  -     46%   36%   50%       1" 23     (137 138)
+  LV 24  -      7%    0%    0%       1" 58     (108 110)
+  LV 25  -     54%   50%   50%       1" 08     ( 32  49)
+  LV 26  -     48%   36%   50%       1" 56     (133 144)
+  LV 27  -     37%   18%   12%       2" 19     (200  80)
+  LV 28  -     46%   20%   28%       1" 36     (200 200)
+  LV 29  -     64%   80%    0%       3" 31     ( 89 123)
+  LV 30  -   2400%   50%    0%       2" 00     ( 93 101)
+
+                     Total Time =   14" 272
+                                    14" +
+                                     4" 32
+                                    ------
+                     TOTAL TIME =   18" 32
+                                   --------
+
+
+Description: About the levels:
+
+             Level 21: My best time ever.
+
+             Level 22: Pretty good time.
+
+             Level 23: Good time.
+
+             Level 24: You can push this one a lot but you can
+                       also fall down...
+
+             Level 25: Rather good time, I got stuck at some
+                       places though.
+
+             Level 26: Time can be pushed, this level is hard
+                       though.
+
+             Level 27: This one is a total disaster, time can
+                       be about 17 sec. better...
+
+             Level 28: Time isn't that good, those bloody
+                       triggers.
+
+             Level 29: Time is very good.
+
+             Level 30: A total disaster as usual, gotta practice
+                       this one.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

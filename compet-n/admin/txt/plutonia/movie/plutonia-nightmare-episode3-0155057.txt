@@ -1,0 +1,79 @@
+Runner: Zero-Master
+Date: 2015-03-28
+IWAD: Plutonia.wad
+Category: NM-Speed
+Map: Episode 3, 21-30
+Source Port: Competition Doom v2.0.2.1
+Time: 15:46 (15:50.57)
+
+
+Map	Time
+21	00:35
+22	02:10
+23	02:23
+24	01:46
+25	01:36
+26	01:23
+27	01:10
+28	02:00
+29	01:26
+30	01:17
+
+
+Description:
+First episode 3 NM-speed for plutonia, this turned out to not be as difficult as I thought initially.
+Tombstone is a very difficult map in this run, however it's early on and on map 30 you can kill 
+the cyberdemon from a safe distance.
+
+
+Map 21: The first map is not too hard, I just grab a lot of weapons\ammo here and grab the megasphere
+before I exit. Often I will be blocked by lost souls from doing the glide which is a bit annoying.
+
+Map 22: I activate the blue key elevator and try to kill the shotgunners from above, 
+they can do a lot of damage if you just jump straight down. Missed a trigger skip on the
+chaingunner elevator. A lot of health up to this point, after grabbing yellow key I tried
+to do a trigger skip on the elevator preventing the archvile\barons from appearing at red key.
+I failed it but got really lucky anyways and it turned out to be an advantage since I grab soulsphere.
+
+Map 23: Tombstone, by far the hardest map in this run. Just like in my episode 1 run where caged
+was by far the hardest map, I had my best run through it even compared to practice attempts!
+Never have I had such a solid amount of health throughout the map, except the start where
+for the first time ever the spectre got into the archvile\megasphere room which surprised me.
+
+I've tried a lot of different strategies for this map, but the one I used here is very good for survival.
+Very lucky not taking too many revenant rockets... just overall very lucky everywhere.
+
+Map 24: Invurnability here is very nice, I also tried to grab invisibility behind it, but failed.
+I've lost 2 runs here before, because the arch-vile doesn't want to cooperate. He sometimes
+get hit by lost souls or something, and changes target, so I try to kill as much as possible to prevent that.
+
+I try to kill the cyberdemon with BFG plasma ball, because if he is alive and not infighting he will hit you.
+I lost more plasma ammo than I would like from trying to kill him.
+
+Map 25: With a lot of health the start is straightforward. Kind of funny that I was going to do the glide,
+but noticed that there was actually plasma ammo infront of me. That 80 plasma ammo was very useful, I 
+probably would have died at some point without it. I even switched to rockets to kill a revenant before
+the rocket jump, that did not work out well as he managed to hit me twice. I can't do the next map 
+with the health I had if I did a RJ so I had to grab the mega armor first. Of course I get another 
+revenant respawn that hits me so quickly. This map isn't usually this hard.
+
+Map 26: Low on health here, I take it safe and I shouldn't take much damage, so it went pretty good.
+
+Map 27: Invurnability at the start of this map makes it easy, only difficult part is grabbing the second one.
+Everything went fine here.
+
+Map 28: Also an easy map, though I took a lot of damage where I shouldn't.
+
+Map 29: This map can be dangerous, but it went perfect.
+
+Map 30: I almost completely messed this up. At first I was missing BFG plasma balls on the cyberdemon, but when 
+I went for the Icon of Sin I was holding down shift for run on, but I was supposed to use walk. 
+
+What then happens is that I grab the megasphere and miss 2 rockets, I do the same mistake before I realize 
+and I hit both rockets on 3rd attempt. This was very lucky, I've had the cyberdemon respawn in practice attempts
+just after 1 cycle.
+
+Also very lucky with the arch viles, I've already died once on map 30 after they both respawned and threw me out
+before I was able to hit both switches.
+
+

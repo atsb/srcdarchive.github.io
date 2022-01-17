@@ -1,0 +1,72 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E3M1-122.TXT
+
+ E3M1-122.ZIP
+
+  E3M1-122.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.3 Mi.1 - Hell Keep
+
+  Kills    100%
+  (Items    33)
+  Secrets  100%  and Time  01:22  (Par = 01:30)
+                           -----
+
+  Description :-)
+
+  I still can't believe I did it. I think in this .LMP some very special
+  coincidences occured so I'll write about it in detail:
+
+  As an introduction I'll say that I don't think the monsters can fight each
+  other more efficiently, so I'll count the seconds I lose by my stupid
+  mistakes and by that I'll calculate an "optimal" time.
+
+  In the beginning I press the switch and strafe run to the other switch. I
+  lose about 1 second crashing into the cacodemons but it's worth it since I
+  think all 3 imps hit one of the cacodemons, a rare occasion indeed. I run
+  to the shotgun and then I miss (damnit!!) one imp. But I kill all 3 after
+  that miss. So far, a loss of about 2.5 seconds. I get out of that corridor
+  and kill one cacodemon with 6 shotgun shots instead of 5. So far, a loss
+  of about 3.7 seconds I think. Then I go to the room with the many imps and
+  one cacodemon. The cacodemon hits 2 imps and they fight. The imps later
+  kill the cacodemon, I'm not kidding. Meanwhile I go back to check on the
+  monsters I left behind. I can't believe what I see: All 3 imps are dead
+  and the cacodemon dies from 1 shell. It takes me a moment to come back to
+  my senses. Time loss: 5 seconds. I go back. The cacodemon is dead. Two
+  imps die from two shells, two other imps die from one shell. I'm amazed,
+  and acting like an idiot, I take the medikit even though I have 91%
+  health. Stupid stupid stupid! Time loss: 7 seconds. I kill all demons with
+  2 shells except for one taking 3 shells. All imps die with 1 shell.
+  Total time loss caused by the stupid me: 7 seconds. Optimal time (in my
+  opinion) for E3M1: 1:15.
+
+  The coincidences without which I couldn't make this demo: 1. All 3 imps
+  fight one of the cacodemons and nearly kill him. All of them die. 2. Two
+  imps kill a cacodemon and get heavily injured. 3. Most of the demons die
+  using two shells only.
+
+  But still, I improve the old record which was also mine by 10 whole
+  seconds and get 8 seconds under par! It all made me very excited so I'm
+  sorry if I annoy anyone.
+
+  PLEASE give me feedback!! I promise I'll answer and it will make me very
+  happy! Please please please!!!
+
+  My home page is at: http://www.geocities.com/Hollywood/4704 (/doom.html)
+
+  Note: I completed my two .LMP collections for The Ultimate DooM (1) and
+  Doom II. Please get them at:
+  ftp.cdrom.com/pub/idgames/lmps/doom/1.9se/udm1full.zip
+  ftp.cdrom.com/pub/idgames/lmps/doom2/1.9/dm2full.zip
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+

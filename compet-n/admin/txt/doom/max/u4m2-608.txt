@@ -1,0 +1,43 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+U4M2-608.TXT
+
+ U4M2-608.ZIP
+
+  U4M2-608.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only
+
+  Episode 4 - Thy Flesh Consumed
+  Mission 2 - Perfect Hatred
+
+  Kills    100%
+  (Items    81)
+  Secrets  100%  and Time  06:08
+                           -----
+
+
+Comments: A nice level, tons of ammo, some health, no invulnerable and
+          a telefrag. Nearly as nice as doom2 level 29 ;-). I improved
+          the old one by some seconds. Unluckily I failed to jump from
+          the megaarmor behind the blue column. This is the way to get
+          the BFG earlier and to kill those Cacos at the end. Then you
+          have got another 200-300 cells there - which could be rather
+          useful. Plus I fell down some more times. As you see, you do
+          not have to visit any place twice - except perhaps the start
+          point and the Cyberdemon. Especially at the yellow key there
+          is no need to go there twice. As I watched the old .LMP from
+          Paul Falstad I was surprised that you could raise the floor.
+          I didn't know it ! I thought Paul should have been mentioned
+          this here. It seems that U4M2 was his last record :-(
+
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+          humpert@zib-berlin.de
+
+WWW:      http://www.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

@@ -1,0 +1,117 @@
+===============================================================================
+Cheesy Title (TM)       : Hell Track
+Filename                : helltrak.wad
+Author                  : Adam Hegyi
+E-mail address          : ha211@hszk.bme.hu
+Web page                : http://competn.cjb.net/
+Other files by author   : this is my first level from scratch
+Misc. author info       : 22 year old moron with too much free time
+Description             : A racing circuit in Hell.
+Additional credits to   : Bjorn Hamels, my partner in crime, for his ideas
+                          and bugfixes. If there is negative criticism, there's
+                          at least someone to blame (j/k :)
+===============================================================================
+Play Information:
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-6 Player   : No
+Difficulty Settings     : Not implemented. Designed for Ultra Violence and
+                          NightMare.
+New Sounds              : No
+New Graphics            : Yes.
+                          - I use a lavafall animated wall texture from Alien
+                            Vendetta (made by Kim Malde).
+                          - I use the Episode 3 sky from Ultimate DOOM.
+                          - I made a few textures by modifying the
+                             brightness/contrast of existing DOOM2 textures.
+                          - I made a few on my own.
+New Music               : No
+Demos Replaced          : No
+===============================================================================
+Construction:
+
+Base                    : The Hungarian Formula 1 racing circuit (Hungaroring).
+                          I spent a lot of time achieving an exact copy.
+Editors used            : For editing: DETH (primary), Wadauthor (for stuff
+                                       DETH can't do)
+                          For building: Zennode
+                          For WAD management: NWT, WinTex, Wadcat, Cleanwad
+                          For texture manipulation: Paint Shop Pro
+Bugs                    : There are a few HOMs at certain angles, they don't
+                          get in view for a long time, though.
+Construction time       : About 2 weeks of actual work.
+===============================================================================
+Cheesy Storyline (TM)   : 
+(not to be taken seriously :)
+
+You never thought this would happen to you.
+
+You returned victorious so many times you lost track of the count.
+Cyber daddies, spider bitches, icons of sin, they were no longer
+match for you. You became a one-member hall of fame.
+
+Years passed after your retirement, and you became less aware
+of danger. That was a fatal mistake - you forgot that they never
+rest.
+
+They came at night, and in large numbers. You were sleeping, you
+had no chance to resist. Full of confidence, they sent their lowliest
+troops, imps. You have been scratched to death by imps!
+
+Of course, with your past, you could not go to Heaven. The irony is
+that you've done much more for them than they ever done for you.
+The hellspawn took you down to Hell - a place you already knew too well.
+
+To cut a long story short, you were cast into a prison cell of some sort
+with other humans, down in the heart of Hell. After a while, you realized
+what this was for - apparently they used the humans as some type of modern
+gladiators in a running arena, which was placed in a lava lake. The contestant
+had to make three laps in a closed circuit with limited weaponry and
+ammunition - looks like the hellspawn enjoyed their own kind being killed
+in this twisted spectacle. They always made sure that no human managed to
+finish the run. Either way or the other, the contestant ended up wiping
+the floor with his innards. Really gruesome - and you heard another
+death scream from your cell every day.
+
+You got to know your fellow inmates fairly well, though. There was one
+guy who stood out from the rest. He was a bible salesman, they sent
+him down right from Heaven to distribute the Holy Book. (Talk about
+aggressive marketing strategy.) Somehow, he wasn't popular around
+here - and that's how he got locked up in this cage.
+
+Then one day (not that you could make difference between light and day
+anymore), you heard the cage door squeaking open, and one of the hellspawn
+coming in. It hissed at you, and that meant only one thing - it was your turn.
+As you went past the bible salesman guy, he grabbed your hand which revealed
+a small pistol in your palm which you've hidden there. None of the hellspawn
+have noticed luckily, they were too excited about the upcoming show.
+The bible salesman looked at the gun and said:
+'No one has ever done anything like this.'
+'That's why it's going to work.' you said.
+
+You were tossed onto the pentagram gate and teleported right onto the track.
+As you looked around, you saw volcanic rock structures in a deep lake of molten
+lava. For a moment, you thought your skin was going to melt, but you've proven
+too tough for Hell to contain numerous times.
+
+You know this is your only chance to free your tortured soul.
+
+Get running.
+
+===============================================================================
+Copyright / Permissions :
+
+Authors may NOT use the contents of this file as a base for
+modification or reuse.   
+If you use the texture I used from Alien Vendetta, please credit the author.
+If you use the textures I made/manipulated, please mention it in your text file.
+(I doubt anyone needs more than 15 minutes creating these, though.)
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+===============================================================================

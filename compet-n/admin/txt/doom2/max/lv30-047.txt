@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV30-047.TXT
+
+ LV30-047.ZIP
+
+  LV30-047.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.666
+  And Converted to Doom2 Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+  Kills    100%
+  (Items    50)
+  Secrets    0%  and Time  00:47  (Par 3:00)
+                           -----
+
+Computer: 486DX33 ISA with standard VGA and PC-Speaker ;-)
+
+Comments: Why don't I beat my time by 2 seconds???
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

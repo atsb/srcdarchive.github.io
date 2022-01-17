@@ -1,0 +1,39 @@
+This is a Doom LMP Entry
+
+MM23N136.ZIP
+
+	MM23N136.TXT
+	MM23N136.LMP - Nightmare Speed
+
+Recorded using Doom2 Version 1.9
+
+Memento Mori - Level 23 - Showdown
+
+=---+------+---=
+Kills        51%
+Items        50%
+Secrets     100%
+ 
+TIME        1:36	Old record: 1:55 by Drew "stx-Vile" DeVore
+=---+------+---=
+
+Demo entry #9.
+
+Description:
+
+Unlike Andy Olivera, I don't think this level to be bland visually. This nice
+bright map looks somehow like an airport to me.
+
+The time improvement is based on a more straight running through hordes, such as
+the demon group near the end. This run is easy compared to most other PWAD
+levels on Nightmare, you don't need to play it too carefully.
+
+Already in 2005, with my wimpy old control which allowed to straferun in only
+one direction, I recorded my first ever Vile-beater, MM23N151. When I got
+better, I had to rerecord it in a better time. Got 1:44, but in 2007 I
+rerecorded it again :-)
+
+
+
+Author: SAV88 (Artem V. S.)
+Done September 14, 2007, 23:18:00

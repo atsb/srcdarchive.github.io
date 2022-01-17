@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ10-110.TXT
+
+ RQ10-110.ZIP
+
+  RQ10-110.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 10 - The Black Gate
+
+  Kills     25%
+  Items     22%           ********
+  Secrets    0%  and Time * 1:10 *
+                          ********
+
+  Description :-)
+
+  Found a couple of jumps on this level, one jump
+  to the ssg (strafe50) and two across the bars
+  lowering in the cybie room near the end. Don't think
+  they save much time, though.
+  
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

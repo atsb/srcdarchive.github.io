@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M227n024.TXT
+
+M227n024.ZIP
+
+M227n024.LMP - Nightmare! Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos
+      
+Kills        1%
+Items        0%
+Secrets      0%
+
+              ********
+  and Time -  * 0:24 *
+              ********
+
+
+Description:
+
+Well when I did 25 I didn't use sr50 cause I wanted
+to challenge Sedlo's 24 and I thought from his demo
+looks that he didn't use sr50, but when I checked
+his demo's tics I found that he actually did use
+sr50 so I decided to try it again with sr50
+
+It was only a matter of getting switches fast and hoping
+that stupid imp moves out of the way :)
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+MM07-620.TXT
+
+ MM07-620.ZIP
+
+  MM07-620.LMP - Ultra Violence Max
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 07 - Not That Simple
+
+  Kills    100%
+  Items     96%           ********
+  Secrets  100%  and Time * 6:20 *
+                          ********
+
+  Description :-)
+
+  1:36 faster than previous record... could easily be
+  improved further, I think.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

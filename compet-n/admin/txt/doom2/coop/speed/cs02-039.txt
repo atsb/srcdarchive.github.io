@@ -1,0 +1,26 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+cs02-039.txt
+
+ cs02-039.zip
+
+  cs02p039.lmp
+  cs02s039.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 02 - Underhalls
+
+           Kills    Items   Secrets
+
+  Green     26%      66%     100%      SlagDooM
+  Indigo    16%       4%       0%      Python
+
+  Time:    0:39
+
+Comment:   Beating Vincent/Nicolas by 9 seconds and Adam_H by 3 seconds. :)
+  
+
+Green:      Arno SlagDooM                (arnoslag@bart.nl)
+Indigo      Marko "Python" van der Want  (python@quicknet.nl)  

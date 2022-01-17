@@ -1,0 +1,28 @@
+[ Taken from Rudy Jurjako D2P6 exam d2p6rh02 ]
+
+PA14-153.TXT
+
+ PA14-153.ZIP
+
+  PA14-153.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 14
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  01:53
+                           -----
+
+  Description:  
+  Many things can go wrong on this map, you just have to try it until you're
+  lucky. The jump at the end can be especially difficult if the chaingunner
+  is still alive. And even then, I still need a few tries to make it.
+  
+   -> Time: 1:53
+   -> Dance: in the last room with the end switch
+  
+       Author:  Rudy Jurjako
+

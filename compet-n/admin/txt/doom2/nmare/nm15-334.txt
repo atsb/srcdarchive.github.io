@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM15-334.TXT
+
+ NM15-334.ZIP
+
+  NM15-334.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 15  (via normal exit)
+
+  Kills     79%
+  (Items    25%)
+  Secrets   18%  and Time  03:34
+                          --------
+
+Description: 
+
+  Wow, my first Compet-N entry. :-)  A while ago I recorded this map in
+  6:08 but never submitted it, even though I knew of no one else who
+  had completed map15 via the "regular" exit.  But then when I saw Istvan's
+  4:08 lmp, I figured there was room for improvement...
+
+  I took several clues from Istvan's recording (had no idea you could reach
+  the plasmagun w/o going outside) but made a few changes; specifically,
+  saving the invuln. until the end so I could make a beeline for the exit. :)
+
+  Anyway, this is my first (and probably last) Compet-N entry, so forgive
+  the length of this text since I gotta shoot all my marbles at once. :)
+  At least, until Panter or somebody beats this time....
+
+  Jason Henry [aka King God Space]
+
+  space@wgn.net

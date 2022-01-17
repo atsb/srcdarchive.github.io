@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+LV10-025.TXT
+
+ LV10-025.ZIP
+
+  LV10-025.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills      8%           
+  (Items    18%)          
+  Secrets    5%  and Time   00:25
+                            -----
+  
+  And whatnot.
+
+  Thanks to:
+  God for the talent
+  Sedlo for the help with the keygrab
+  Bolton for the glide
+
+  19.12.2003
+  Juho Ruohonen
+  ocelot_78@hotmail.com

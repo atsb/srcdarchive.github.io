@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR32-231.TXT
+
+RR32-231.ZIP
+
+RR32-231.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -file requiem.wad -PlayDemo with Version 1.9
+
+Requiem - Level 32 - Bitter Herb
+      
+Kills      103%
+Items       35%
+Secrets    100%
+
+              ********
+  and Time -  * 2:31 *
+              ********
+
+
+Description:
+
+This one was difficult for me on -respawn mostly because every frikkin' time
+I'd finish off the Cacos and go after the Arch-Vile room, the Cacos would
+start respawning and sneaking up behind me while I'm rocketing the Vile room.
+I died numerous times to get this, and I know it could be easily beaten by a
+good minute.
+
+The reason this is long is because the way I do this level is by getting the
+Cacos all clustered together and then just Chaingun them all, then SSG the
+rest. I did this one more for fun, but it eventually became frustrating >.<
+
+I'd say optimal would be equal to the Max-Kill's optimal...although I'm not
+THAT good... ^^'
+
+Oh yes, the end was luck. The suicidal Arch-Vile really helped me...I thought
+I was a dead man while he was standing there...
+
+Anyone for -fast or below 2:00? ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+11.04.2002

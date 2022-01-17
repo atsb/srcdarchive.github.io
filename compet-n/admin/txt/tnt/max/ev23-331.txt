@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV23-331.TXT
+ 
+ EV23-331.ZIP
+
+  EV23-331.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 10 - Lunar Mining Project
+
+  Kills    100%
+  Items    100%           
+  Secrets  100%  
+
+         ...and Time  3:31
+                     ------
+
+
+Description: Gemini wrote in his 3:49:
+            >  I got 3:37 once, but forgot a couple monsters, 
+            >  maybe i'll make another demo later...
+	     
+            Good luck.
+
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz
+

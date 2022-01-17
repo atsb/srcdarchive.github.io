@@ -1,0 +1,29 @@
+This is a Doom .LMP "Competition" Entry
+
+pl19-139.txt
+pl19-139.zip
+
+pl19-139.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP19 - NME
+
+=--------------=
+Kills      100%
+Items      100%
+Secrets    100%
+
+Time       1:39
+=--------------=
+
+C-N entry #117.
+
+Thanks to Andy for his run.  I skip
+trying to distract the cyberdemon and
+simply rush him with the BFG, which
+results in a much lower success rate,
+I might add. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M204S706.TXT
+
+ M204S706.ZIP
+
+  M204S706.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 4 - Ratamahatta
+        
+  Kills    104%
+  (Items    66%)          ********
+  Secrets  100%  and Time * 7:06 *
+                          ********
+                          
+
+  Description :-)
+    
+  This was a fairly easy demo for me. It could probably be
+  quite a bit faster, for example It should be possible to
+  do the linedef skip twice, as well as not going all the
+  way to the armor in the last secret. This demo is OK I
+  think. I was sloppy in the first area, but was able to
+  maintain enough health to get to the soulsphere. From
+  there things went smoothly enough. I probably could have
+  used some more practice with the ending.
+
+  Jim “Xit Vono” Leonard
+  xit_vono@yahoo.com

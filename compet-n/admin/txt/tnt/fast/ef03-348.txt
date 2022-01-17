@@ -1,0 +1,42 @@
+| This is a Compet-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filenames: ef03-348.lmp, ef10-348.txt & ef10-348.jpg
+Date     : 2017-05-13 19:17 Philippine Standard Time
+Game     : Final Doom - TNT:Evilution
+File     : Doom II v1.9
+Category : UV-Fast
+Map(s)   : MAP03: Power Control
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Player1  : Justin Baliao
+Nickname : tinotormed
+Country  : Philippines
+Email    : justinbaliao@yahoo.com
+YouTube  : https://www.youtube.com/channel/UC88vplWgds4i4Ua-2bJMDIA
+Facebook : http://www.facebook.com/justinbaliao
+-------------------------------------------------
+Kills    : 100%
+Items    : 33%
+Secrets  : 100%
+Time     : 00:03:48.46
+===================================
+
+Almost every part of this map is luck-based, especially when going for the fastest time on
+this one. Sometimes, the Spectres would even drag you to the wrong teleporter in the wrong
+moments, or even worse, get surrounded by them if you are not quick or alert enough.
+
+Tried to do something different from what Radek had from his previous run.
+
+There are two ways to kill the Spectre in the starting area: either by telefrag or by
+dragging it in a crossfire at the starting area, and I did brought it to the latter instead
+of a warp kill.
+
+Tried somethind different on the outer area by picking up the SSG first, then dashing my 
+way towards the red key then gone back to take cover at the secret area for a bit before 
+heading for the red key area.
+
+Also had to do a bit of efficiency by not picking up the Blurspheres so as not likely to
+misdodge on the enemies' attacks.
+
+Also managed to save a few rockets just for the yellow key entrance to take out a couple of
+zombies & imps grouped together & on the last Revenant at the exit.

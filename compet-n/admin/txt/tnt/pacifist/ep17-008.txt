@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ep17-008.txt, ep17-008.lmp
+Date     : 2013-7-18 12:00
+Game     : TNT: Evilution
+Client   : doom2.exe v1.9
+Category : Pacifist
+Map(s)   : MAP17: Processing Area
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 1%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:08
+===================================
+Description
+If I'm going to take back my record, I'll do it for real this time. :)
+Actually not too hard to do Pacifist (all you need is a lucky glide and some lucky infighting).

@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV28-042.TXT
+LV28-042.ZIP
+
+LV28-042.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 28 - Spirit World
+
+Kills      ??%
+(Items     ??)		   
+Secrets    ??%  
+
+   ...and Time       0:42
+                    ------
+
+
+Description: Wanna make your LMP of your life Adam, do a 0:41, not sure
+             if it's possible though. I'm not saying that mine is perfect.
+             In this LMP there are some mistakes, but it's not easy to earn
+             the requierd 0:91 sec to get it below 0:42. I guess with perfect
+             straferunning, and wall running ++only killing one specter each
+             time you pass the exit room will do the job for you.
+             I had to try for 3 days to get this record, the main problem was
+             always to get past the specters for the second time, this same
+             problem occuerd when I did the nm-speed. You only have the 
+             time to kill one of them. 
+             Anyway this is ONLY 1 sec away from d2dq.
+
+             Btw, finaly I got this map in every cat, think that's cool :))
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net

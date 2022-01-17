@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF291224.TXT
+
+ HF291224.ZIP
+
+  HF291224.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 29 - Temple of Fear
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 12:24 
+                          
+                          
+  Description: There's more timewasting in this demo, although it's my fault
+               this time. I forgot you needed to trigger a linedef to
+               get the Cybers to teleport in, and so there's more than
+               half a minute of me looking stupid. In fact really pushing
+               here you could probably go below the max record. My
+               route is optimised for infights and ammo usage, and it's
+               pretty much Claudio's invention, so thanks go to him.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

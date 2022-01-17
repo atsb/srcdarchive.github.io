@@ -1,0 +1,28 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2094113.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP09
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     92%           *********
+  Secrets   81%  and Time * 41:13 *
+                          *********
+
+
+==============================================
+
+At first I though it is impossible, so I din't even try.
+In between Pacifist runs I tried this Tyson and got my first exit (49:10)
+almost right away. Then I couldn't finish it again for a long time.
+All in all, I don't know how difficult this level is. It is longer
+than MAP18, but definitely easier, with plenty of power-ups.
+The chainsaw is pretty useless, as it comes too late, when most
+of the cacodemos should be dead already.
+
+Lots of mistakes, some luck, but it is understandable in such a long demo.
+The biggest LOL of the mancubus in about (14:05). As you can see,
+now I am not very afraid of punching mancubi, still I am not able
+to fight against cacodemons with fists.

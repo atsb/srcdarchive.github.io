@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E3M1-132.TXT
+
+ E3M1-132.ZIP
+
+  E3M1-132.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.3 Mi.1 - Hell Keep
+
+  Kills    100%
+  (Items    33)
+  Secrets  100%  and Time  01:32  (Par = 01:30)
+                           -----
+
+  Description :-)
+
+  I'm getting pretty close to the par time with this demo. I'm 100% sure it
+  is possible under par, and the reason for that is that I did it in 01:27
+  with 96% kills, and after checking with iddt-iddt in -playdemo I saw that
+  I forgot 1 imp. Killing an imp doesn't take 3 seconds.
+
+  This LMP has many things that aren't perfect. But I'll wait for someone to
+  do better for now.
+
+  Is someone going to do fast whole-episode-plus-level-9 recording with 100%
+  kills/secret? It's not difficult, and it's a different kind of challenge.
+  (Just an idea.)
+
+  PLEASE give me feedback!! I promise I'll answer and it will make me very
+  happy!
+
+  My home page is at: http://www.geocities.com/Hollywood/4704 (/doom.html)
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+

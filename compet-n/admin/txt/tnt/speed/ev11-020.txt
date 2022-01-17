@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV11-020.TXT
+
+ EV31-020.ZIP
+
+  EV31-020.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 31 - Pharoah
+
+  Kills      3%
+  (Items     0%)
+  Secrets    0%  and Time  00:20
+                           -----
+
+  Description :-)
+
+  Vincent was right, 0:20 is possible. Thanks to him for all the
+  little tricks he implemented.
+
+  Note: Because Final Doom's EXE can't handle "joyb_speed 31",
+        I used the original DOOM2.EXE (version 1.9). So, to get a
+        correct playback of this LMP, you'll have to type:
+        DOOM2 -FILE TNT.WAD -PLAYDEMO WHATEVER
+
+  Adam Hegyi
+  alien@eik.bme.hu
+  ha211@hszk.bme.hu

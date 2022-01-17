@@ -1,0 +1,46 @@
+This is a DooM. LMP "Competition" entry - Please forward it...
+
+E3M3-026.TXT
+
+ E3M3-026.ZIP
+
+  E3M3-026.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM ver. 1.9
+
+  DooM - Ep.3 Mi.3. - Pandemonium
+  Kills      0%
+  (Items     0%)
+  Secrets   16%  and Time  00:26
+                           -----
+
+  Description :-)
+
+Woo! This was a really hard run to do :). I was just idly looking for a more
+reliable way of doing p3m3 when I stumbled on this method of doing the end
+room and realised that it was actually faster than doing it with a shotgun,
+when it works. It's simple - you just push up right to the left hand side of
+the door before opening it. On opening the door, you'll find the imp directly
+in front of you will invariably turn round and walk away from you. you go
+straight in and go left straight away, hugging the left hand wall. 90% of the
+time the imp on the left hand side will walk towards you and trap you there,
+but 10% of the time he'll go in a different direction and you'll slide through
+the gap towards the exit door. It doesn't work *quite* perfectly in this demo
+- when it works perfectly you can hardly tell the imps are there, you just
+slide straight round the corner and end up completely unimpeded directly in
+front of the exit door. In this demo I just snagged the corner of the last
+imp along and had to jerk left slightly, so i ended up against the wall, not
+the exit door. Still, it's good enough :). 0:25 is certainly possible, but
+you need a TAS quality run - perfect running, a perfect jump (in this one
+I drop off rather than flying off, if you see what I mean) and a perfect run
+at the exit room. Just in case it's not clear from the rest of this, this is
+a speedrun record and a pacifist record. It's also actually a Lemmings-style
+run as well, 0% kills under par :). Oh yeah, one more thing...it's a DDQ
+beater by 1 second. :)
+
+Adam Williamson
+adam@scisoft.force9.co.uk

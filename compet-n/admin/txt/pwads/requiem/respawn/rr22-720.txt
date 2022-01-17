@@ -1,0 +1,23 @@
+﻿| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rr22-720.lmp & rr22-720.txt
+Date     : 2013-01-25 23:22 -- (January 25, 2013, 11:23 PM)
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV-respawn
+Map(s)   : Map22: Arachnophobia
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : 
+Nickname : Revved
+Country  : Canada
+Email    : 
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 102%
+Items    : 100%
+Secrets  : 100%
+Time     : 00:07:20:XX
+===================================
+Description:
+My god, I hate this map on respawn. There's not an abundant amount of rocket and cell ammo, so many parts look inconvenient. Still nice to have this one done, however.

@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+t3m61129.TXT
+t3m61129.ZIP
+
+t3m61129.LMP - Ultra Violence
+
+Recorded using Ultimate Doom Version 1.9
+Doom -PlayDemo with Version 1.9
+
+Doom - Episode 3 Mission 6 - TYSON
+
+Kills   100%
+(Items  ??)
+Secret   ??%  
+
+   ...and Time       11:29
+                    -------
+
+Description:
+ A very wierd level, tyson mode...let out all the monsters, let them fight,
+ clean up as many as you can with invulns...very different from most other
+ levels where you kill the monsters as they come, in groups.
+
+Author:   Andy Kempling
+E-mail:   aurikan@hotmail.com, kempling@challenger.net

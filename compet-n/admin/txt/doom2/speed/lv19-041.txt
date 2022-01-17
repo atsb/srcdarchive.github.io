@@ -1,0 +1,16 @@
+Author: Esko Koskimaa
+E-mail: koskimaa@cs.helsinki.fi
+Skill:  4
+Game:   Doom ][
+Map:    19 (The Citadel)
+Time:   0:41
+
+Well, I've quit playing already, but because Anders asked for it, and
+because nobody has uploaded a speed entry for lv19 using this jump
+(discovered by Ilya Britvich), I decided to upload this lmp I did
+weeks ago.
+
+Panter, can you beat this? The exact time is 41.02 I think, so it
+certainly is possible. Prepare yourself for a long session though -
+making the jump with monsters around is the hardest thing for sure
+I've ever done in this game...

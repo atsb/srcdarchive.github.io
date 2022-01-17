@@ -1,0 +1,31 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq18-354.lmp, rq18-354.txt
+Date     : 2013-10-13
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV-Max
+Map(s)   : MAP18: Base of Thorn
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  70%
+Secrets  : 100%
+Time     : 00:03:54
+===================================
+Description:
+
+This map was hard. There was no aromor in the first half of this map. 
+Hitscanners and pain elementals always upset me. BFG's room depended on 
+luck. When three arch-viles completely blocked me, I was checkmated. 
+I don't like it. Under 4 min is OK.
+
+
+95th Comepet-N Entry

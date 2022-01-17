@@ -1,0 +1,28 @@
+PA03-028.TXT
+
+ PA03-028.ZIP
+
+  PA03-028.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 03
+
+                     Time   00:28.40
+
+Description: Yeah, it really IS the end of the world...I recorded a new LMP!
+             Someone in #nightmare was trying pa03, so I thought I'd have
+             a quick look at it...made 0:34 in prboom in Linux, so I thought
+             what the hell and rebooted to Windows to have a proper go at it.
+             So, down goes the second-oldest pacifist Doom2 record! (Oldest
+             is MAP01 of course :>). The big pick-up over Panter's demo isn't
+             actually the different route at the blue key area, but the route
+             change at the start - this saves a second or so. I had a 29.00
+             using Panter's start route, so 27 is certainly possible. It's an
+             annoying run, though.
+
+  Author:    Adam Williamson (yes, really :>)
+  E-mail:    adam.williamson1@btinternet.com
+
+

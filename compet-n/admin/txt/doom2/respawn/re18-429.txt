@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE18-429.TXT
+
+ RE18-429.ZIP
+
+  RE18-429.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 18 - The Courtyard
+
+  Kills    103%
+  (Items    50)
+  Secrets  100%  and Time  04:29
+                           -----
+
+  Description :
+  I think the -RESPAWN with 100% Kills and 100% Secrets section is really
+  worth notion. In some maps this requirement is much harder than Nightmare
+  or -FAST. You don't believe me? Play MAP08 -RESPAWN with 100%/100%!
+
+  Back to this map again ;-)
+  First I've played it as in plain UV and ended with 140% kills in 6:04 :(
+  Then made some minor adoptions to the changed requirements and ended close
+  to my best time in plain UV (4:22) and -FAST (4:39).
+
+  BTW: I'm sorry for the jerky manouevering :<
+  1) I'm not used playing on a 486 any more
+  2) I need much more practice with my new controller configuration.
+
+  Author: Rini (Steffen Udluft)
+
+  email: rini@mppmu.mpg.de
+

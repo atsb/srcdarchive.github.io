@@ -1,0 +1,37 @@
+This is a Final Doom .LMP "Competition" Entry - Please forward it...
+
+PN13-212.TXT
+
+  PN13-212.ZIP
+
+    PN13-212.LMP - Nightmare!
+
+    Recorded using Doom2.exe Version 1.9 
+    Doom2 -PlayDemo with Version 1.9 - only!
+
+    Final Doom - The Plutonia Experiment - Level 13
+
+    Kills     ??%
+    (Items    ??%)
+    Secrets   ??%   ...and Time = 02:12
+                                  -----
+
+Description: Another unbested map on skill 5 falls :)
+             It's not that easy i must admit, the hardest is to get out of archie place
+             alive... the baron sitting at the bottom of the stairs sometimes do not
+             want to get out .. (this time it was ok :).
+             You'll say that the archie room is easier with the blue armor, that right
+             but try to get it b4 (lots of mancos:) and when you come back with the blue 
+             key the mancos block your way. So skipped it by using a key grab (similar to
+	     doom2 map06 yellow key grab).
+             In fact that's the 2nd time i can return to the yellow key room. The 1st time
+             i died cause of the mancos :).
+             The rest is pretty easy.
+   
+             Tip : i think it's possible to exit archie's room w/o killing him...  
+                   that would be a lot faster.
+
+
+Author: Vincent Catalaa	
+
+E-mail: vincentds@netcourrier.com

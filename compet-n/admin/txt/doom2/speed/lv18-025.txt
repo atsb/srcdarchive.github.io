@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV18-025.TXT
+
+ LV18-025.ZIP
+
+  LV18-025.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 18 - The Courtyard
+
+  Kills      0%
+  (Items    20)
+  Secrets    0%  and Time  00:25
+                           -----
+
+
+Description: Demonlord thought I could improve it and I did...
+             By TWO seconds ;-) I got a lot of 0:26 meanwhile.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+Performance: timed 1391 gametics in 892 realtics ;-)
+
+

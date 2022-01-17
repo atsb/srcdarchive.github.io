@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN12-649.TXT
+
+ TN12-649.ZIP
+
+  TN12-649.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 12 - Crater
+
+  Kills    100%
+  Items    100%           ********
+  Secrets  100%  and Time * 6:49 *
+                          ********
+
+
+Description: Less than 7:00, was not easy. You need some luck that the
+	     arachnotrons really fight the Barons.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

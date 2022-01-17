@@ -1,0 +1,27 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+Green:      Marko van der Want <markowant@freemail.nl>
+Indigo:     Arno Slagboom      <slagboom@cybercomm.nl>
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Movie 
+            
+level:      Episode 3 - Inferno
+            
+stats:      
+
+   Level       Time   
+                        
+----------------------
+   E3M1        0:44     
+   E3M2        0:24
+   E3M3        0:40 
+   E3M4        1:14 
+   E3M5        0:38
+   E3M6        0:43    
+   E3M7        1:14     
+   E3M8        0:14  
+----------------------
+   Total       5:51
+

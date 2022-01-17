@@ -1,0 +1,265 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NMDM1BHB.TXT
+
+ NMDM1BHB.ZIP
+
+  N?M?-mtt.LMP - NightMare!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1,2,3 & some 4 on Nightmare! ( except N2M6 & N1M9 ):
+
+  There are 4 LMPs (see below) of 3
+  never recorded before Ep.4 levels
+
+
+            Kills Items Secrets      Time    Health Armour
+
+  N1 M1  -     24%    5%    0%       0:12      ( 23   1)
+
+  N1 M2  -     40%   11%   33%       1:04      ( 99  49)
+
+  N1 M3  -     72%   46%   71%       3:08      ( 18  17)
+
+  N1 M4  -     58%   64%  100%       1:43      ( 94  89)
+
+  N1 M5  -    127%   86%   77%       4:46      (  6  57)
+
+  N1 M6  -     68%   47%  100%       3:50      ( 88  47)
+
+  N1 M7  -    110%   54%   75%       3:49      ( 51  56)
+
+  N1 M8  -    ???%   ??%    ?%     ~ 2:15      ( 32   0) <- 1  0:) you'll see
+
+  N1 M9  -    Not enough time to complete
+
+  N2 M1  -    124%   93%  100%       2:25      (100 192)
+
+  N2 M2  -     30%   41%   25%       2:23      (100   0)
+
+  N2 M3  -     58%   51%   66%       1:33      ( 92 113)
+
+  N2 M4  -     23%   10%   30%       1:33      (135   0)
+
+  N2 M5  -      8%   25%    0%       0:59      ( 25   0)
+
+  N2 M6  -    Not enough time to complete
+
+  N2 M7  -     58%   33%   33%       3:05      ( 26  20)
+
+  N2 M8  -    ???%   ??%    ?%     ~ 2:40      ( 62  11)
+
+  N2 M9  -     78%  100%  100%       1:47      ( 61  44)
+
+  N3 M1  -     96%  100%  100%       1:39      ( 99   0)
+
+  N3 M2  -      0%    0%   33%       0:23      ( 70   0)
+
+  N3 M3  -     35%   28%   16%       1:36      (176 180)
+
+  N3 M4  -     25%   18%    0%       1:37      ( 42   0)
+
+  N3 M5  -      6%    8%   10%       0:51      ( 86   0)
+
+  N3 M6  -     39%   20%    0%       1:21      (100 101)
+
+  N3 M6  2      0%    0%    0%       0:15      ( 40   0)
+
+  N3 M7  -    128%   12%   50%       4:30      ( ??  ??)
+
+  N3 M8  -    ???%   ??%    ?%     ~ 0:54      ( 46 149)
+
+  N3 M9  -     97%   83%  100%       4:32      ( 10  27)
+
+  N4 M1  -       N      O        W      A      Y   !!!!
+
+  N4 M2  -  W  H  A  T   A  R  E   Y  O  U   C  R  A  Z  Y  ?
+
+  N4 M3  -     75%   40%   90%       2:07      ( 45  81)
+
+  N4 M4  -     48%   47%   50%       1:30      (158   0)
+
+  N4 M5  -  Haven't tried
+
+  N4 M6  -  Same
+
+  N4 M7  -     81%   72%   25%       2:46      (122  47)
+
+  N4 M7  2     61%   72%    0%       2:22      (  7  24)
+
+  N4 M8  -    ???%   ??%    ?%     ~ 3:39      ( 81 117)
+
+  N4 M9  -     32%    0%    0%       0:43      ( 73 181)
+
+
+  Descriptions
+
+  Wow... this shows what I do with my free time. Here's a description
+  of each level.  Thanx to ALL those .LMP makers out there who's
+  techniques I mimicked or worked on.  A huge thanks to Steffen and
+  Anthe, who's skills and movies drove me back to single player.
+  This took about one week during my free time to finish.
+
+  N1M1 - I hope there isn't a soul on earth who can't do this... the
+         Ultimate DooM route is easiest, but I chose the faster route
+         which can easily kill you, took me 7 tries to get 12 seconds.
+         I didn't want to waste too much time with this one.
+  N1M2 - Not too rough.  No critical parts.
+  N1M3 - Thanx id for making such a beast of a level!  But isn't it
+         amazing how so many levels are possible?  I exit to the
+         secret level.  I planned this route myself.  Though I mess up
+         in getting the rocket launcher secret twice!
+  N1M4 - Very simple if you know the path to take... I missed the key
+         like a fool :)
+  N1M5 - Another near impossible map.  I didn't want to do this one
+         again so I copied my D1I DHT exam for it.  Very watchable and
+         cool, like N1M3.  I get near death twice (below 10%), my
+         route also.  I saw two other recordings of this from scratch
+         recently.  One of Anthe (good job!) and a keyboarder (agh!).
+         Well done!  I would never expect a keyboarder to do such a
+         difficult level on NightMare!  But maybe my route needs some
+         work ;)  Damn dances :)  I fall apart totally when I entered
+         the third building :(
+  N1M6 - Simple.  The *only* hard part is the end. I didn't feel like
+         re-recording so I copied my DHT lmp.  This one was done way
+         back with my crappy old mouse.
+  N1M7 - This one sucks!  Too many enemies, too many barrels (of fun),
+         not enough chaingun ammo.  A decent amount of health.  It's
+         run or be killed (what fun... just like N1M3 and N1M5, but
+         somewhat simpler).  This one took me a great many tries and
+         the fact that you can get shot from everywhere doesn't help.
+         Plus, the respawn time sucked for me.
+  N1M8 - The beginning's all luck with how many demons die and the end
+         you wanna ignore the Partial Invis, otherwise relatively easy
+         although I got the Invisibility and I get nailed repeatedly
+         by my good friend, the Baron.  A very poor lmp file, but the
+         level was boring.
+  N1M9 - I didn't have enough time to complete this one :P
+
+  N2M1 - A pretty hard map considering it's the first level.  Just aim
+         well and you should do OK.  And make sure to get the shotgun
+         first and plasma right afterward.  Can be hard if you don't
+         keep calm and play well.
+  N2M2 - I didn't have a plan going into this map.  I just tried to
+         remember Steffen's D1S which is why I got the (useless)
+         yellow key.  I even start to get crushed... heh.  Too
+         annoying to get the weapons and I didn't need 'em so it's
+         better to take the quick way out.
+  N2M3 - Simple level.  Strafe run at the beginning, grab the shotgun.
+         Get the plasma and key, and plasma your way to the health and
+         end.  2nd try.  I've done this one MUCH better.  But check
+         out the health I've got at the end.  If not for the Mega-
+         Armor I'd have been dead!
+  N2M4 - I start out great and get wrecked by some sergeants.  Don't
+         ask why I got the Supercharge at the end.  Fairly easy if you
+         know the route.  And if the Caco waits for you at the last
+         step... use Shotgun or he can take you out, plasma sux around
+         corners.
+  N2M5 - The hardest part is getting the shotgun at the beginning.
+         Otherwise, it's just a run to make it to the end.  Took me 3
+         tries I think.
+  N2M6 - I didn't have enough time to complete this one either :(
+  N2M7 - An all around pretty cool map.  The look and play is fun.
+         Too bad I don't get to visit it all.  Getting the shotgun
+         isn't really hard either.  The only part to worry about is
+         with the demons during Invulnerability; if you can't get out
+         in time, you can get screwed.
+  N2M8 - I'm not re-recording this because it's just a boring level.
+         Yeah I get hit; no, I don't care :)  I got some pretty cool
+         moving shots against the souls though.
+  N2M9 - I almost forgot it was on Nightmare!  Dodge and get them to
+         fight, then run for it... I half expected everyone to respawn
+         and I messed up the final room sorta (not knowing what to
+         flip).
+
+  N3M1 - Getting past the initial cacos *can* be hard but really isn't
+         if you use the imps.  Getting the shotgun safely is also
+         annoying.  The rest shouldn't be too hard for a seasoned
+         DooMer.
+  N3M2 - Simple.  Just a run for plasma, a grab of a key, about 80
+         shots, a flip of a switch and you're out!
+  N3M3 - In all honesty, this must be the hardest start of any
+         possible NightMare level in DooM (from scratch anyway).  I
+         found out that if I turn right after the init refresh daemon
+         is done, and start to strafe left and run forward, I'd get
+         past the demon.  I can't read what the AI will do next so I
+         kept dying and I also tried to get the rocket launcher a
+         couple of times, and almost made it once (except I killed
+         myself like a moron.  After I got the shotgun I forgot the
+         route! As you will see.
+  N3M4 - 3rd try.  I had bad luck with rockets the first two times :P
+         After the start the rest is damn easy.  Not that the
+         beginning is hard either.  I even totally miss the two
+         switches and I still exit.
+  N3M5 - The only thing standing between you and the exit is a simple
+         route, *slight* luck with Demon AI, and how far you get with
+         the Invul.
+  N3M6 - Damn.  They can't get much easier can they?  3 unbelievably
+         simple routes to this.  I include two.  One without any
+         killing, and one that's interesting (secret then normal exit).
+         The other way is to get into the secret exit with the rocket
+         launcher.  1st one's a D1I.
+  N3M7 - Completed on my first nightmare run!  Sadly... I missed the
+         strafe run jump about a million times at the end.  A simple
+         level, except maybe the beginning sergeants which can kill
+         you quickly, but don't give ME a hard time.
+  N3M8 - Get the SpiderMastermind to fight the others and you have a
+         big ugly, shiney, wall guarding you, not to mention you can
+         destroy that wall and beat the game! :D
+  N3M9 - My D1I Free... I did it my first try.  Cut it close at the
+         end, but I achieved my first try goal.
+
+  N4M1 - I can't do this one...  I suggest getting the Shotgun
+         immediately followed by rockets to telefrag 2 sergeants.  No
+         health is total BS on id's part (6% doesn't count).  Go ahead
+         Steffen, Anthe, Daniel... try this one!
+  N4M2 - Another impossible Nightmare level brought to you by the
+         psychos at id.  Tried this one a billion times.  I somehow
+         got the key blue key once.  PURE LUCK on my part.  Any takers
+         on this one?
+  N4M3 - The start's a bitch.  You nail that, most of the rest is easy,
+         except for a hard jump that I never thought possible until I
+         saw Mike Pratt's D1I.  I kinda mess up but it won't seem very
+         noticeable to the watcher.  Another D1I.
+  N4M4 - The start's luck.  Took me 10 tries.  Not too difficult if
+         you know the secrets.  I took the wrong teleporter.  I wanted
+         the rockets and chaingun.  Oh well.  Still a pretty good run.
+  N4M5 - ???
+  N4M6 - ???
+  N4M7 - The beginning's hard.  But if you get to the Cyber room, the
+         rest is a snap.  This was going to be my out of base D1I if
+         someone uploaded E4M3 as their out of base.  No one did so I
+         was stuck with this; hence, the dance.  There's also a second
+         route included without the invulnerability and it's probably
+         about 10 times as difficult.
+  N4M8 - Pretty damn hard.  If id didn't include all the weapons and
+         health... it would probably be impossible.  It requires a lot
+         of skill, luck, ammo, and the Partial Invisibility.  Without
+         it, the sergeants and troops make quick work of you.  This
+         one for me was pretty damn hard.  Took me about 20 tries.
+  N4M9 - I saw this on a D1I and the jump is really hard.  An easy map
+         if you have patience.  But the jumps at the beginning were
+         luck for me.
+
+
+  Hey id, great job on Quake.  It's not perfect but it grows on you.  But
+  rest assured DooM will never die!  It's a near perfect product.  My only
+  complaint with it is that there isn't a third installment. (I want the
+  HeXeN engine! :)
+
+  I did this set of .LMP's to get myself to stop playing DooM and DooM II
+  on single player.  It worked!  I'll be quitting for about a month or two.
+  And if anyone who has good skill with a mouse thinks that Anthe, Daniel
+  and Steffen are "DooM gods"... well... they're right.  But these .LMP's
+  show that, with dedication, anyone has a decent chance.
+
+
+ Branimir Beric
+
+ IronLich@aol.com
+
+

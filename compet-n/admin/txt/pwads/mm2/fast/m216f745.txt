@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m216f745.TXT
+
+m216f745.ZIP
+
+m216f745.LMP - Ultra-Violence -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 16 - The Nephilim by Denis Moeller
+
+Kills      100%
+Items       47%
+Secrets    100% and Time - 7:45
+
+
+Description:
+
+First exit. Nothing to watch here.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+26.10.2007

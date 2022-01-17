@@ -1,0 +1,43 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL11-315.TXT
+
+ PL11-315.ZIP
+
+  PL11-315.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills     88% (<- a maxkills entry?)
+  Items    100%           ********
+  Secrets  100%  and Time * 3:15 *
+                          ********
+
+
+Description:
+	I owed it to you, guys. Can you imagine that pure Ultraviolence is
+	much more difficult thanwith fast monsters? There is still a 4 seconds
+	gap to my fastest "GM" style LMP. You need much more luck with all the
+	Archies, when they run around they are hard to hit from close range.
+	I dunno if there is a faster route through the maze, but this way you
+	have got the least trouble with Archies running out of their area.
+	There are still some seconds left for improvement, taking the berserk
+	was plain silly, you don't need to take the secret exit (somehow 2
+	Archies died there, I guess one with me by an Archvile attack), and
+	I collected all the health potions, you can leave at least the lowest
+	2 or 3, that means 81% items. I like a 100 100 100 screen more, but
+	that is impossible here. This is not the last LMP for that map, I
+	recorded it in Tyson style (even without pistol), and because UV is so
+	difficult, I added -fast in the command line. That LMP should be in the
+	/misc directory in the COMPET-N site within the next year :)
+
+Author: Kai-Uwe Humpert
+
+E-mail:	gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:	@#berlin	( irc.uni-*.de / irc.funet.fi / irc.stealth.net )

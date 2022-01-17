@@ -1,0 +1,44 @@
+This is a .LMP "COMPET-N/class_ep/" Entry - Please forward it...
+
+CF22-411.ZIP
+
+ CF22-411.LMP
+
+  CF22-411.TXT - Ultra-Violence -FAST
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -file class_ep.wad -PlayDemo with Ultimate Doom Version 1.9
+
+  classic episode - Level two - Mars Outpost by Anthony Soto
+
+  Kills:  100 / 100 (100%)
+  Items:    ? / ??  (??%)            ********
+  Secrets:  2 / 2   (100%) and Time  * 4:11 *
+                                     ********
+  C-N entry #33.	Date:03/11/2012
+
+  Description :)
+  Still not great, under 4:00 is defiantly possible; I'll try this map
+  out on -FAST tomorrow.
+  								
+  								
+  By the way, COMPET-N record was 4:27 by me, timestamped:
+  Friday, March 09, 2012, 12:43:45 AM
+
+  Complete Historic COMPET-N Leaderboard:
+  CF22-502 - Revved - 12/31/2010
+  CF22-427 - Archy  - 03/09/2012
+  
+  Note: Since this demo was recorded with class_ep.wad, I suggest you 
+        drop by at http://doomedsda.us/lmps/316/class_ep.zip
+        and pick it up if you havn't already :) 
+  
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

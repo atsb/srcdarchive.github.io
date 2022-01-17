@@ -1,0 +1,43 @@
+E1M1-032.TXT
+
+ E1M1-032.ZIP
+
+  E1M1-032.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom
+  Playback with Ultimate Doom v1.9 or regular Doom v1.9
+
+  DooM - Ep.1 Mi.1 - Hangar
+
+  Kills    100%
+  (Items    10%)
+  Secret   100%  and Time  00:32
+                           -----
+Description:
+
+Some time ago I said that I've quit Doom. But following a discussion with
+Adam, I watched one of my old recordings for this map and wanted to see what
+time I could get now. After getting 0:36 in only a few tries, I knew I should
+make one final lmp :)
+
+This demo is the result of a two hour session. At first I kept getting 0:36's,
+then I got many 0:34's. Each one of them had at least one mistake, so my
+goal was to get 0:33 and then stop. Finally, I had a try which seemed like
+everything went great. I expected to finally get 0:33, but I was amazed to see
+the time was 0:32!
+
+The time can still be improved. It's possible to kill the sergeants in the
+start from below, which saves about half a second, but depends a lot on
+luck. When leaving the secret area with the lift, two humans were alive.
+It's possible to leave it with only one alive. I could have also killed the
+imp in that area from closer to the last secret. And, of course, it's
+possible to kill the two sergeants in the last secret with one shot. A
+perfectly played recording with perfect luck could even get below the par
+time - 0:29 is possible. But can anyone do it?
+
+I still consider this lmp to be one of my best ever, and worthy to be my final
+lmp :)
+
+Yonatan Donner <ruthd@post.tau.ac.il>
+http://www.geocities.com/Hollywood/4704/
+

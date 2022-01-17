@@ -1,0 +1,82 @@
+This is a Doom .LMP "Competition" Entry
+
+30nm2939.txt
+30nm2939.lmp 
+
+30nm2939.zip
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - Full game run on Nightmare skill!
+
+
+Map     	       Time  
+-----------------------------
+01 Entryway            0:06 
+02 Underhalls          1:02
+03 The Gantlet         0:34
+04 The Focus           0:40
+05 The Waste tunnels   0:40
+06 The Crusher         1:27
+07 Dead Simple         0:59
+08 Tricks and Traps    0:58
+09 The Pit	       1:04
+10 Refueling Base      0:42 
+11 Circle of Death     0:43
+12 The Factory         0:54
+13 Downtown            1:30 
+14 The Inmost Dens     0:55
+15 Industrial Zone     0:37
+
+31 Wolfenstein         0:35
+
+16 Suburbs	       0:45
+17 Tenements           2:04
+18 The Courtyard       0:36
+19 The Citadel         1:03 
+20 Gotcha!	       0:42
+21 NIrvana             1:00 
+22 The Catacombs       1:05
+23 Barrels O' Fun      1:12 
+24 The Chasm	       0:58
+25 Bloodfalls	       1:09 
+26 The Abandoned Mines 1:06 
+27 Monster Condo       0:32
+28 The Spirit World    0:54 
+29 The Living End      2:06 
+30 Icon Of Sin         1:01  
+
+-----------------------------
+   ...and total time  29:39 
+		     -------	  
+
+Description: 
+
+Some new routes and tactics this time around, I was however hoping for a better 
+total time. Something like closer to 29min. Sub 29min is gonna be very hard but definatly within reach I think. 
+
+Some big screwups in map06, and 30. The inclusion of FJS jump in 29 did compensate abit but still. 
+
+This is however my first successful run under 30min so I'm satisfied to just get it done I guess :) 
+I remember starting doing 30nm runs in late '99, getting a total time of 40:48 in year 2000. 
+So 10min over a 10year period :-) 
+
+I might find the motivation to give this a few more goes, who knows. Its really hard
+to consentrate to the degree needed in all maps and not make any time consuming mistakes. 
+I don't think I will ever get a run I'm fully satisfied with as there will always be screwups 
+in various spots. I do however usualy play alot better in maps like 4,5,6 and 9 which is the 
+most annoying thing on my mind right now :-) 
+
+Anyhow, it was fun doing a doom comeback, its been like 5years since I played it seriously. I had to spend a considrable amount of time to get back into it though...the rustyness was unbelivable when I started in early january. 
+So around 7 almost 8 months to get this, good thing I didn't knew :)  
+
+Hope you enjoy whatching it and feel less frustration over it than I felt in the proccess 
+of making it :) 
+
+
+Date: 23.07.2009
+
+
+Author: Henning Skogsto
+E-mail: skogstoe@gmail.com

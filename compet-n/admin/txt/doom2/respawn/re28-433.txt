@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE28-433.TXT
+
+ RE28-433.ZIP
+
+  RE28-433.LMP - Ultra Violence with -Respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 28 - The Spirit World
+
+  Kills    102%
+  items     72%
+  Secrets  100%  and Time  04:33
+                           -----
+
+  Description:
+  This map is so nice! But if you play it on speedy gonzales rules or
+  on nightmare you won't visit the mancubus/revenant room - what a pity.
+  On the other hand, if you play it on plain UV or -FAST it's not always
+  fun to visit every single monster.
+  So in this map "RESPAWN 100%/100%" is a good choice. Lot's of action,
+  respawning archviles and spidermasterminds, playing all the nice parts
+  of the map, but with no need to look after the last little imp.
+
+
+  Author:      Rini (Steffen Udluft)
+
+  E-mail:      rini@mppmu.mpg.de
+

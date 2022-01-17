@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV11-043.TXT
+
+ LV15-043.ZIP
+
+  LV15-043.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 11 - Circle Of Dearth / 'O' Of Destruction
+
+  Kills     19%
+  (Items     0)
+  Secrets    0%  and Time  00:43
+                           -----
+
+
+Description: How is this, Steffen? No strafe 50, Anthe! (The jump is more
+             complicate this way, perhaps I'm not so used in the strafe 40
+             diagonal direction ;-)
+             Don't want to try more, I think 4.30 am. is late enough.
+             I don't know how to pass the Spectre, and I had some luck with
+             the Arachnotron. Got a 0:33 without monsters. Much time for
+             improvements. The problem is to get a weapon (fast).
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle (/doom.html)
+
+

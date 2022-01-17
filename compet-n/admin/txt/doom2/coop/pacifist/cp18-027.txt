@@ -1,0 +1,12 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Marko van der Want (markowant@freemail.nl) 
+Indigo:    Arno Slagboom (slagboom@cybercomm.nl)
+
+game:     doom2 v1.9
+category: coop pacif
+level:    map18
+
+time:     0:27
+
+comments:

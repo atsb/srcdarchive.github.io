@@ -1,0 +1,67 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NS32-024.TXT
+
+ NS32-024.ZIP
+
+  NS32-024.LMP - Nightmare 100% Secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - MAP32 - Grosse
+
+  Kills      57%
+  Items      66%           ++++++++++++
+  Secrets   100%  and Time + 00:24.91 +
+                           ++++++++++++
+
+
+  Description :)
+
+  Adam Hegyi said in ns32-025.txt
+    Well I don't know how to get a 0:24,
+    maybe someone else does :)
+  You get it using sr50 :D, but you still need pretty damn good running
+  
+  I tried this a long time ago in May 28, 2009 but settled with 0:25.83
+  back then, and never speedran it again untill today
+  Now I tried it again and the goal seemed easier after more experience
+  and skills' improvement, it took 2.5 hours, about ~8 good attempts that
+  were possibly 0:24 were ruined at the end by one of these possibilities:
+   1. BFG not killing all keens
+   2. rocket only hitting close to the last keen and thus not killing him
+   3. stuck on the last keen's dying animation at the end
+   4. Trying to avoid being stuck on the last keen but instead I try to
+      avoid him overly, miss the white platform and thus fall over the red
+      sky floor
+
+  Highlights of the run:
+   When getting the SSG secret, I open the wall from the nearest side then
+   rush over the secret from the left side which is nearer to the cyberdemon
+   It's done brilliantly for this particular secret
+
+   At the beginning of the run, I sort of glide the green pillar, you
+   should turn on slow motion to see it :)
+   In DRE, the distance moved is like this:
+    #94 22.986740 (SR50)
+    #95 23.041429 (SR50)
+    #96 32.079705 (SR50 + gliding the green pillar)  
+    #97 42.398697 (SR50 + gliding the green pillar)
+    #98 23.176344 (SR50)
+    #99 23.213254 (SR50)
+    So it saved about 1.5 tics ;)
+   BTW, the same kind of boost is in Sedlo's e3m2-012 with a tree
+   Ocelot a while back told me about that boost and to watch it in slow
+   motion when we were discussing e3m2-012 which I think is the best movement
+   demo out there. Sedlo's time is 12.97 with no SR50 at all, and his demo is
+   full of smooth movement and elegance, the fact that that tree boost was
+   necessary for his 12s makes it awesome!
+   For Comparison
+   Andrey Budko's TAS time with sr50 in e3uv-315 is 12.94
+   Akse's TAS time with sr50 in e3dq-310 is 12.74
+
+  Enjoy!
+
+  Author:   Kimo Xvirus
+  E-Mail:   kimo_xvirus@hotmail.com

@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+m220n116.TXT
+
+ m220n116.ZIP
+
+  m220n116.LMP - Nightmare
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 20 - The Experiment by Alden Bates
+
+
+  Kills     35%
+  Items      0%
+  Secrets   25%  and Time  1:16
+
+
+  Description
+
+First exit. I'm going for -fast here but had no luck with all chaingunners teleported in.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+28.10.2007

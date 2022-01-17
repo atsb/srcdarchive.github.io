@@ -1,0 +1,24 @@
+
+E1M9-500.TXT
+
+ E1M9-500.ZIP
+
+  E1M9-500.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Ep.1 Mi.9 - Military Base
+
+  Kills    100%
+  (Items    xx )
+  Secrets  100%  and Time  05:00
+                           -----
+
+ Done by Eelco de Vries
+ eelco.devries@kub.nl
+
+ D1M :-> d1m-edv.zip
+ at ftp.cdrom.com
+
+

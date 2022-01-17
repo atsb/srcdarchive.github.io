@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM26F816.TXT
+
+ MM26F816.ZIP
+
+  MM26F816.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 26 - Between Scattered Corpses
+    
+  Kills    101%
+  (Items   100%)          
+  Secrets  100%  and Time = 08:16 
+                                                  
+
+  Description: Easier than it seems at first. Pity about the crap ending.
+
+  
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com

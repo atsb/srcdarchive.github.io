@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM25-222.TXT
+
+ NM25-222.ZIP
+
+  NM25-222.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - "Bloodfalls"
+
+  Kills     90%
+  (Items    50)
+  Secrets   50%  and Time  02:21    [ :01 second "penalty" added for
+                           -----      being the 2nd. 02:21 entry :-( ]
+
+
+Description: Rather easy level in NightMare mode.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

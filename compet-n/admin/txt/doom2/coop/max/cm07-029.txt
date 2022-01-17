@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CM07-029.TXT
+
+ CM07-029.ZIP
+
+  CM07-029.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 7 - Dead Simple
+
+           Kills    Items   Secrets
+
+  Green     63%      28%     100%      Adam
+  Indigo    36%      14%       0%      Waldon
+
+
+              *********
+     and Time * 00:29 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+  
+  I should have some luck in this demo...
+  Three rockets/mancubus isn't a good thing,
+  the arachnotrons died quite fast at least.
+  Maybe if we will have some damn much time,
+  we'll try to improve...let's make it optimal.
+
+  [ Adam : ]
+  
+  Damn, this took quite some time...
+  We set the goal of doing this under 30
+  long ago, but we needed a couple of weekends
+  to manage it. This doesn't look like optimal
+  and it isn't, but I think it's a nice run...
+  especially compared to the old 0:42 by Kai/Dasa.
+  
+  Authors:
+  
+  Laszlo Vecsei
+  waldon@matavnet.hu
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

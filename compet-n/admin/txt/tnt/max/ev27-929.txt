@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV27-929.TXT
+EV27-929.ZIP
+
+EV27-929.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 27 - Mount Pain
+
+Kills    100%
+Items     59%           
+Secrets  100%  
+
+   ...and Time  9:29
+               ------
+
+
+Description: Well, this is a nice map, altough it has some annoying parts. Like
+	     those tunnels with those Imps, plus it's too dark certain places.
+	     The end can be pretty hard, with all those Lost Soul's and 
+	     everything, also it's easy leaving monsters behind. I got a 9:17
+	     but left one Chaingunner/Revenant in the red key area. It's
+	     actually medium sized, this map, even though it seems much bigger,
+	     like map20. It could probably go below 9 minutes. There's a jump
+	     in the end i didn't make, could save 5-6 seconds only there, so...
+            	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

@@ -1,0 +1,16 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        Speed
+Map:             E3M7
+Players:         2
+
+Kills:           17%
+Secrets:         0%
+Time:            0:50
+
+Green:           Arno Slagboom
+Indigo:          Marko van der Want
+
+Comments:        Adam: 0:50 is optimum ??
+            
+                 

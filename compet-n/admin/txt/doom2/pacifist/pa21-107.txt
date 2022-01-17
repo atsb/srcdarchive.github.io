@@ -1,0 +1,19 @@
+PA21-107.TXT
+
+ PA21-107.ZIP
+
+  PA21-107.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 21
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  01:07
+                           -----
+
+  Description:  [ None received. ]
+  
+       Author:  Andy Badorek

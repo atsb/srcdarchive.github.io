@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PA13-204.TXT
+PA13-204.ZIP
+PA13-204.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 13
+
+  Kills      7%
+  (Items    21%              --------- 
+  Secrets    0%  and Time    - 02:04 -
+                             ---------
+
+Description : 
+
+Sedlo was really happy here that he was under par, my goal was
+to be under 2 minutes which I did not manage :(
+Definitely is possible to get at least 1,50 this way, just watch
+the mistakes I did damnit, why should I always do them ?!
+Perhaps I am a lame ...
+One year ago I did 2,12 and 2,10 and sometimes I just tried to improve it,
+this time I lost all my nerves, something just could not work as it should,
+thats what happened everytime, while is all ok and you already got the key
+(yellow one) you get blocked either even in the room or outside. This pissed 
+me off totally.  
+I used a bit different way of getting the key than Sedlo. It needs invisiblity 
+to make the caco hit that spurious imp insted of waiting for him
+to hit caco. But dont think it works everytime you want, 
+you still need a good luck really.
+
+
+Author: Vasek Kunes 
+E-mail: boltn1@seznam.cz

@@ -1,0 +1,23 @@
+author:     Vincent "PerOxyd" Catalaa <peroxyd@wanadoo.fr>
+
+game:       DOOM 2 version 1.9
+
+category:   Respawn
+            
+level:      Map29
+
+stats:      Kills     106%
+            Items      ??%
+            Secrets     0%
+
+	    and Time  3:53
+
+comments:   4:00 min barrier broke !
+	    Still far from perfect, many errors
+	    Under 3:30 possible
+		
+	  
+ 
+
+
+       	

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ25-327.TXT
+
+ RQ25-327.ZIP
+
+  RQ25-327.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 25 - Chaos Zone
+    
+  Kills    101%
+  (Items    98%)          *********
+  Secrets  100%  and Time * 03:27 *
+                          *********
+                          
+
+  Description :-)
+  
+  This map can get pretty chaotic (hence the name, I guess :) if you don't know
+  what you're doing (especially in the final area, with all those teleporting
+  monsters), but if you go at it carefully it's not that difficult.
+
+  Rudy Jurjako
+  rudyj@total.net

@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry
+
+RE15-828.TXT
+
+ RE15-828.ZIP
+
+  RE15-828.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 15 - Industrial zone
+
+  Kills    127%
+  (Items    75%)
+  Secrets   90%  and Time  08:28
+                           -----
+
+  Description:  This comletes the -respawn >= 100% kills and maximum secrets
+                collection. I finished this map last, because I hate it when
+                playing for 100% kills - all those stupid jumps.
+                Time is quite bad, but I won't do it again just to make it
+                faster (I leave that to you, poeppy ;-)
+               
+                When I think of all the maps I played in re100/100 style
+                (we need a name for it!) the hardest were 09 and 22.
+                Some of them are very enjoyable, like 23, 27, 28 with lot's
+                of action and very short times. Maybe we should make it a
+                DHT title ?!
+
+                > what 100/100? You scored only 90% secrets!
+
+                Oh yes, that's a bug, there are only 90% - sorry ...
+
+                Btw:
+                None of my -respawn entries is ment to be very fast, they
+                surely will all be beaten easily. My intention was just to
+                complete this collection.
+
+                Enough bla bla .......
+
+
+               
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

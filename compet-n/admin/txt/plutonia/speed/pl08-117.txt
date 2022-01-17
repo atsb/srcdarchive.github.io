@@ -1,0 +1,29 @@
+This is a Doom .LMP "Competition" Entry
+
+pl08-117.txt
+pl08-117.zip
+
+pl08-117.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP08 - Realm
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:17
+=--------------=
+
+C-N entry #144.
+
+Thanks to xit for giving me reason to
+return to my very first Compet-N run. :)
+The main source of improvement comes in
+my strategy at the always painful room
+following the blue key.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

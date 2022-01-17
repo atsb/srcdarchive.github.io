@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+052-N2M6.TXT
+
+ 052-N2M6.ZIP
+
+  052-N2M6.LMP - Nightmare
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 6 - Halls Of The Damned
+
+  Kills     97%
+  (Items    41)
+  Secrets   66%  and Time  06:18
+
+  Maximum Minimum Health =  52 %
+                           -----
+
+  Description:  No 200% this time - sorry, but lots of room for
+                improvement. Let's start the competition ...
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M7-238.TXT
+
+ R4M7-238.ZIP
+
+  R4M7-238.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 7 - And Hell Followed
+
+  Kills    100%
+  (Items    77%)
+  Secrets   50%  and Time  02:38
+                           -----
+
+ Description:  	This was easy to do :) BTW. it's not possible to get 100%
+		secret in this map!
+
+
+Author:	   Jan Endre Jansen
+E-mail:	   jejansen@hotmail.com
+Doompage:  Comming soon
+

@@ -1,0 +1,16 @@
+Runner: Zero-Master
+IWAD: TNT.wad
+Category: NM-Speed
+Map: 17
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 7%
+Items    : 4%
+Secrets  : 0%
+Time     : 00:15.46
+
+Description: 
+So many attempts for this one, sometimes you even die before you can run past the 2 imps by the exit.
+It is possible to grab the invisibility through the door, hard to get consistent.
+It is also possible to do this pasifist, which should save some seconds,
+however you would need an extreme amount of luck, not only with all the enemies but with the glide as well.

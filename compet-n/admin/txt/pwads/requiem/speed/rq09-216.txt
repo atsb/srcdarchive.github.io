@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ09-216.TXT
+
+ RQ09-216.ZIP
+
+  RQ09-216.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 9 - Deep Down Below
+
+  Kills     35%
+  (Items     4%)          *********
+  Secrets   20%  and Time *  2:16 *
+                          *********
+                          
+
+  Description :-)
+  
+  There's now a trick with the yellow key.  There are two ways
+  to get the key without lowering the bars.  The first way is
+  to slowly creep up to the key in a way so you don't actually
+  cross the linedef that closes the door.  The other way is to
+  use strafe 50 through it so it doesn't get activated because
+  you are going too fast.  That means now that there are no
+  less than 3 tricks used in this demo.  I would say that is
+  pretty sloppy level design to allow all these tricks.
+
+  Xit Vono
+  xit_vono@yahoo.com

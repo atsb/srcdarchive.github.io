@@ -1,0 +1,42 @@
+This is a DooM .LMP "COMPET-N/MM2/" Entry - Please forward it...
+
+M230F306.ZIP
+
+ M230F306.LMP
+
+  M230F306.TXT -Ultra-Violence -FAST
+
+  Recorded using "DooM 2 v1.9 - Memento Mori 2" ! (Complevel 2)
+  DooM2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 30 - It by Jim Wraith
+
+  Kills:  76 / 70 (108%)
+  Items:   3 / 14 (21%)            ********
+  Secrets: 0 / 0  (ERROR) and Time * 3:06 *
+                                   ********
+  C-N entry #50.	Date: 12.03.2013
+
+  Description :)
+  Love the music! Reminds me of d_bunny!
+  Anyways, under 3:00 is easily doable. I might strive for that later...
+
+  And really Altima? Six minutes? Really?
+  								
+  								
+  By the way, COMPET-N record was 3:10 by Doug Merrill
+, timestamped:
+  Friday, August 16, 2002, 12:29:32 AM.
+
+  Complete Historic COMPET-N Leaderboard:
+  M230F603 - Casey Alvis  - 26.03.2002
+  M230F310 - Doug Merrill - 16.08.2002
+
+  Note: Since this demo was recorded with MM2.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/675/mm2.zip
+        and pick it up if you havn't already :) 
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

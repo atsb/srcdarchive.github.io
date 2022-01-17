@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ10-101.TXT
+RQ10-101.ZIP
+
+RQ10-101.LMP 
+
+Recorded using DooM2 Version 1.9
+DooM2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+Requiem - Level 10 - The Black Gate
+
+Kills     20%
+Items     22%
+Secrets    0%
+Time     1:01
+         ----
+
+Description:
+My 6th entry total, with what seems to be a popular map
+(Already had 3 entries from other players :).
+
+Better luck with the demons at the beginning and the end would make a time
+of under 1 minute possible, but you'll rarely see both in the same demo.
+
+Trying to see spectres against wood textures and a red haze is a pain, btw.
+
+Author: stx-Vile (stx is the Stickmen, one of the best Quake 3 clans today.
+Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com (maybe not subject to change :)

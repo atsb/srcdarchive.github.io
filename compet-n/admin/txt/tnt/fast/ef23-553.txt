@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+ef23-553.TXT
+
+ ef23-553.ZIP
+
+  ef23-553.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file tnt.wad -playdemo with version 1.9
+
+  TNT: Evilution – Map 23 – UV Fast
+
+A bit slow here, mainly due to me killing more gunners due to them being more dangerous in -fast. Missed the lift the first time, but the invuln still was going long enough to me going on the second time. This could probably be improved to something like under 5:30.
+
+Author: Revved

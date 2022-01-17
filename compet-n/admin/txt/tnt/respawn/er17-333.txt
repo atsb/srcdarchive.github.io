@@ -1,0 +1,24 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+ER17-333.TXT
+
+ ER17-333.ZIP
+
+  ER17-333.LMP - Ultra Violence - Respawn
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Doom2.Exe Version 1.9
+
+  Final Doom - TNT Evilution - Level 17 - Processing Area
+
+  Kills    126%
+  Items     52%           
+  Secrets  100%  and Time = 3:33 
+
+
+  Description: First exit, wildly high kill ratio. Under 3:00 should be
+               simple here.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

@@ -1,0 +1,161 @@
+This is a Doom .LMP "Competition" Entry
+
+30uv2657.txt
+30uv2657.zip
+
+30uv2657.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - 1-30 on UV skill
+
+LV01 -  :06
+LV02 -  :47
+LV03 -  :31
+LV04 -  :38
+LV05 -  :30
+LV06 - 1:01
+LV07 -  :58
+LV08 -  :30
+LV09 - 1:08
+LV10 -  :39
+LV11 -  :58
+LV12 -  :57
+LV13 - 1:26
+LV14 -  :43
+LV15 -  :40
+LV31 -  :36
+LV16 -  :41
+LV17 - 2:10
+LV18 -  :27
+LV19 -  :51
+LV20 -  :39
+LV21 -  :55
+LV22 -  :47
+LV23 -  :58
+LV24 -  :55
+LV25 -  :56
+LV26 -  :47
+LV27 -  :59
+LV28 -  :55
+LV29 - 1:58
+LV30 -  :51
+
+Total - 26:57
+
+C-N entry #152, movie run #31.
+
+I spent more time on this one than I have for most of my movies, regardless of
+my overall opinion about doom2 maps.  This one was especially fun for some reason
+so I kept at it.  Breaking the 29 minute barrier was my first surprise, so you
+can only imagine how I felt about 28 and 27.  Anyways, I've done well over 10 of
+these damn things by now, so I hope the end result is enjoyable!  On to comments:
+
+lv01: I always get 6-7 here, but I restart for 6 out of spite if I get 7.  Never
+      got a 5 here.. yet.
+
+lv02: A good time, my best being :44 if I remember right.  I used to die here a
+      lot, now only occasionally if I mess up the dark rooms near the blue key.
+
+lv03: Got hung up at the chaingun, otherwise no problems.
+
+lv04: Missed the end jumps but recovered fast and got one of my usual times.  My
+      best here is :34!
+
+lv05: Can't complain, this is my average time.  Sometimes I got as low as :27.
+
+lv06: I started messing up the first jump for no reason lately, but not this time.
+      I did something silly and fell off at the end before even trying the end jump,
+      but recovered fast again.  Time is good. :)
+
+lv07: I used to be terrible at this map, so I'm pleased with times under 1 minute.
+      I believe my best here was :52, and my next time up was :56, so it was damn
+      rare.
+
+lv08: A luck run, as they say, and my luck was fine here. :)
+
+lv09: Could have been better or worse, so I'm not unhappy with the time.  I use the
+      speed route here for the end.
+
+lv10: I don't take Henning's route here (which only saves around 5 seconds if the
+      cyber doesn't kill you).  The extra cells in the cyber room are helpful many
+      levels from now, anyway.
+
+lv11: Ohh, under 1 minute, this was rare.  Happy happy, joy joy.
+
+lv12: Meh, not bad, but not that good, my best time here was :50.  It all depends on
+      how the end platforms want to react.
+
+lv13: Not bad.  My first impressions of the blue key jump were that it was difficult,
+      but I tried it and nailed it everytime, hehe.  Silly me... I also had a rare
+      problem near the end (actually, this was the first time) where the monsters
+      really tried to keep me from getting away from the yellow key building, so I
+      had to circle around a bit.
+
+lv14: No missed jumps, great time here. :))  I also got to see the archvile launch a
+      trooper into air gibs for a brief instant.
+
+lv15: No complaints, getting stuck at the yellow key is common.
+
+lv31: Sieg Heil, mein Furher.  No Grosse anymore, sorry. :)
+
+lv16: The only disadvantage of skipping map32 is no megasphere, so I snag the invuln.
+
+lv17: An ok time, would have been closer to 2 mins if I hadn't messed up the archvile
+      room, but I got a soulsphere for my troubles.
+
+lv18: An easy level for potion fillups!
+
+lv19: About as fast as I get here, no problems.
+
+lv20: Very low health at one point, but nothing serious.  Great time.
+
+lv21: I took a slight detour for some extra insurance (medikits) before playing the
+      yellow key game with the imps.
+
+lv22: A lot of cells makes this one easy, and a healthy exit is nice for the early
+      parts of map23.
+
+lv23: No problems here, and under 1 minute was rare, so yippie!  Actually, I died
+      sometimes at two areas if I was unlucky.  Sneaking between the spider boss
+      and the arachs didn't go so well sometimes, and even less lucky was getting
+      blocked by the archvile and being pounded before I can even react.  I keep
+      the BFG ready for both areas now. :)
+
+lv24: I used to hate this level because of the ledges (must have fallen off in the
+      skull room +5 times).  Under 1 minute is just fine by me...
+
+lv25: My fastest time ever here, an interesting development.  I didn't execute the
+      bulk cell grab at the end, which was a shame, but I had enough cells. :)
+
+lv26: Another great time here, lots of cells means little danger.
+
+lv27: I had told myself (and discussed it with ocelot) that the archvile trick at
+      the red door would be my trump card if the run was going worse than usual,
+      and my success rate isn't that great with it.  I didn't this time because of
+      some good times earlier, so I wanted to play it out normally.  Under 1 minute
+      was a surprise for me, though. :)
+
+lv28: I got rocked by an archvile at the end, it serves me right for hitting the use
+      key and not having the door open.  I also tried something sneaky by using st50
+      to try and dash over the linedef that releases the archviles (near the spiders)
+      and then I could grab the megasphere uninhibited.  SHAME ON ME.
+
+lv29: I really wanted to have a time under 2 minutes for my uploaded run, and here it
+      is.  I got jumped by the archvile and had to climb the stairs again, but I made
+      up for it with interest by executing the FJS jump in one try.  As of late it was
+      taking me up to 3 tries, so I was happy to see 1:5x again, hehe.
+
+lv30: I used to have problems with this map, but I got the strafe jump to catch the
+      elevator and also used Doomgeek's elevator-lowering technique to get a sub
+      1-min time.  No complaints, dammit.
+
+All in all, I didn't expect to get 26:5x without an effort which included the map27
+trick, so I'm pleased with the result.  There were some slightly slower times than
+in ep1 usual but the rest of the run turned out pretty good.  Perhaps this is the
+last minute barrier to be broken in this run, but who knows what may end up in
+incoming one day... ;)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

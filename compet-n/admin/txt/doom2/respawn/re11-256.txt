@@ -1,0 +1,68 @@
+This is a DooM .LMP "Competition" Entry
+
+RE11-256.TXT
+
+ RE11-256.ZIP
+
+  RE11-256.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 11 - Circle Of Death
+
+  Kills    101%
+  (Items    28%)
+  Secrets  100%  and Time  02:56
+                           -----
+
+  Description :  In my initial re11-345.txt I wrote:
+                 >> I think this is a nice map for really exciting
+                 >> recordings. Let's wait for someone playing this in 2:30.
+                 And Thomas Pilger wrote in his re11-334.txt:
+                 > As you see...I'm really unable at these 100% .recordings..
+                 > I dont'even know what the secrets are in this map...
+                 > I just hate 100/100...
+
+                 Now my comments:
+                 I just have to repeat myself -
+                  1) this is a nice map for really exciting recordings.
+                  2) it can be done in 2:30
+               
+                 To you Thomas:
+                  Don't bother about secrets, there are three, but need to
+                  worry, just take my route and go for 2:30 ;-)
+
+                 ... and this definitely will be an exciting recording!
+  
+       Author :  Steffen "Rini" Udluft
+
+       E-mail :  rini@mppmu.mpg.de
+
+
+PS:
+   I wrote alot of things in the re11-345.txt, I'd like to add some
+   comments on them:
+   >> Pacifist
+   >> Yeah! This is a new mode of doom playing - the "Pacifist" style.
+   >> This is completing a level on UV without harming any monster.
+   >> There already exist some templates in
+   >> COMPET-N/speed e.g. Anthe's lv24-48 or an "unbeatable" record
+   >> from the master himself e1m4-024.
+  
+   Now that I know the reason for Steffen Winterfeldt's "godlike" playing
+   style I would not call him "the master himself" anymore. In addition
+   Yonatan has managed to beat the e1m4-024 by two seconds.
+  
+   >> It's quite amazing how many maps are possible in pacifist style.
+   >> I only mention pa06 by Kai-Uwe, p4m8 (yes, the spider must be dead!)
+   >> by the Tyson-expert Patrick Martin, p1m9 by Yonatan, pa14 by Istvan,
+   >> pa09 by Peo ...
+   >> But no one has succeded in pa11 so far!
+
+   This is no longer true, Thomas Pilger has completed pa11!
+   Interested?
+   Check out the "Pacifist Collection":
+
+   http://www.cdrom.com/pub/idgames/lmps/pacifist
+

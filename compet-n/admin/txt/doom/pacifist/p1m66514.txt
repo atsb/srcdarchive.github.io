@@ -1,0 +1,97 @@
+This is a DooM .LMP "Competition" Entry
+
+P1M66514.TXT
+
+ P1M66514.ZIP
+
+  P1M66514.LMP - Pacifist Style - Central Processing
+
+  Recorded using Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Kills     63%
+  (Items    56%)
+  Secrets   75%  and Time  65:14  :)
+                           -----
+
+  Description:  :))))))
+
+                This is going to be a long .txt, so put on your reading
+                glasses... At first I thought this level was impossible
+                pacifist style. The way into the last room was completely
+                blocked, and those monster_impassable lines meant you
+                couldn't lure them out... Then, while playing from
+                savegames, I found a very safe and reliable way of clearing
+                out that final room. Those monster_impassable lines became
+                my friend :)
+
+                About this lmp -  well, the start is very ragged: ten sec
+                pause at start, missed the blue key and the blue armor (was
+                very lucky to get out of this). Things got a bit better
+                when I got the yellow key. From this point on (getting the
+                second soulsphere) the level stops being a runthrough and
+                you have to make every monster fight every other monster.
+                When I cleared out the radiation room I started to think
+                that this time I'd make it, and my hands got very sweaty...
+                So if you're wondering why the recording's so long, it's
+                because I was scared shitless :) Definitely -timedemo only.
+
+                There were a couple of other reasons for the slow time...
+                a sargeant came in when I wasn't expecting him, and I got
+                surprised a number of times during the recording... still
+                don't know this level well. And getting an imp for the
+                final section proved difficult. A good time for this level
+                would be under 40min.
+
+                So now every level in Episode 1 has been done pacifist.
+                This means a pacifist movie is possible... definitely a
+                Dosdoom or MBF-only project... someone else can do this if
+                they want :)
+
+                I'm not sure I like this long
+                get-every-monster-to-kill-every-other-monster style of
+                pacifist recording - so much different to the usual
+                run-past-them-all. You need *endurance*. It was physically
+                tiring making this recording. Plus, it doesn't quite seem
+                in the pacifist spirit to exit a level with >60% kills :)
+
+                Maybe we need a new style.
+
+                Enter: Hypocritical Pacifist (or, Antilemming)
+
+                In Hypocritical Pacifist recordings, the aim is to kill as
+                many monsters on a level as possible - *without actually
+                kiling them yourself*. Like a cross between Tyson and
+                Pacifist. So acceptable techniques would include:
+                  * encouraging monsters to fight each other
+                  * getting monsters to blow up barrels and kill themselves
+                  * punching barrels that kill monsters ("How was I to know
+                  it was explosive - I was just letting off steam!")
+                  * luring monsters under crushers ("Honest officer, I
+                  didn't know he was going to follow me there... pleez
+                  officer, not the cuffs...")
+                  * hitting switches that activate traps that kill monsters
+                  ("Don't look at me - *I* didn't wire up this place...")
+                  * intentional telefrags ("I thought he got out of the way
+                  in time... don't look at me like that")
+
+                You could have Hypocritical Grandmaster, which is just
+                Hypocritical Pacifist with -respawn: no records would be
+                absolute here.
+
+                There's already a WAD based around the Hypocritical
+                Pacifist idea - see Cyberdreams (and also Yonatan Donner's
+                lmp collection for same)
+
+                Certain levels lend themselves well to the style: e2m9,
+                lv16, lv18 etc. Levels with crushers are interesting: is it
+                possible to get 100% on e2m2, for instance?
+
+                Anyway, I'll shut up now :) Got my COMPET-N point back, and
+                I'm happy...
+
+                P.S. Thanks to Rini for encouraging me to keep recording.
+
+       Author:  Chris "Ryback" Ratcliff
+       E-mail:  ryback@fcmail.com
+

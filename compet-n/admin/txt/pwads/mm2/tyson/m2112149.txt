@@ -1,0 +1,32 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2112149.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP11
+Exe/Port used: Doom2 1.9
+
+  Kills    100%
+  (Items    86%)          *********
+  Secrets  100%  and Time * 21:49 *
+                          *********
+
+
+==============================================
+
+I could raise some objections about this level (which has never been my favourite), but instead I will concentrate
+on its good points:
+
+1) For any kind of run (speed, max, casual), the room with 2 hell knights, imps, sergeants,
+PE and some demons and spectres waiting behind the bars is just perfect. It is all about "how to put
+a moderate set of monsters and really threaten the player". I had a lot of trouble with all these monsters
+until I recalled the Xit Vono's speedrun and I realized it is possible to sneak past the demon&spectre horde.
+
+2) Although the beginning is pretty slow (lots of fist fights due to notorious ammo shortage), Eric Sargent
+put 3 ammo boxes on the player's way and they appear RIGHT WHEN THEY ARE NEEDED.
+
+3) The final battle - 3 barons and 2 hell knights is a real climax of the level for Tyson runners. Fun, fun, fun!!!
+
+
+Quite an ordinary run. One mancubus confused me a lot. After picking up the megasphere I made just as
+many mistakes as I was allowed to.
+vdgg

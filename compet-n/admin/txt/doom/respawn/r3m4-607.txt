@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M4-607.TXT
+
+ R3M4-607.ZIP
+
+  R3M4-607.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 4 - House Of Pain
+
+  Kills    103%
+  (Items    64%)
+  Secrets  100%  and Time  06:07
+                           -----
+
+  Description:  Now that ALL Doom2 maps are done on re100/100 I start
+                to collect some more for Doom1.
+                This map really is a "House Of Pain".
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

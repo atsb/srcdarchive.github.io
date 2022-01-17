@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE32-049.TXT
+
+ RE32-049.ZIP
+
+  RE32-049.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 32 - "Grosse"
+
+  Kills    100%
+  (Items   100%)
+  Secrets  100%  and Time  00:49
+                           -----
+
+
+Description: mission: beat rini by 2 and stay 50 seconds.
+             mission: completed. :)
+
+
+Author:      Thomas "Poeppy" Kroppen
+
+E-mail:      poeppy@aol.com

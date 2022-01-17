@@ -1,0 +1,30 @@
+This is a Doom .LMP "Competition" Entry
+
+ep21-304.txt
+ep21-304.zip
+
+ep21-304.lmp 
+
+Recorded using Final Doom Version 1.9
+
+TNT Evilution - Level 21 - Administration Center
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       3:04
+=--------------=
+
+C-N entry #193.
+
+Another undone done, one unintentional
+telefrag on a hellknight but you can't
+see what's on the teleport destination.
+There's not much to this run that's any
+different from the speedrun, except the
+need for the megasphere's added defense.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

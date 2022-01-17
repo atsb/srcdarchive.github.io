@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV03-305.TXT
+ 
+ EV03-305.ZIP
+
+  EV03-305.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 03 - Power Control
+
+  Kills    100%
+  Items    100%           
+  Secrets  100%  
+
+      ...and Time  2:55
+                  ------
+
+
+Description: Yashar wrote in his 3:05 :
+            > The time could probably go below 3 minutes, this was my 
+            > 7th try or something.
+            
+            As it seems, only 7 tries wasn't enough.  :)  	     
+            The route credits go to John Keniry.
+
+
+Author:    Radek Pecka
+E-Mail:    r.master@email.cz
+Doompage:  http://doomers.zde.cz

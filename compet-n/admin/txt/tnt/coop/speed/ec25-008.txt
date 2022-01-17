@@ -1,0 +1,46 @@
+This is a "COMPET-N/tnt/coop/speed" entry, please forward it.
+
+ev25c008.txt
+
+ev25c008.zip
+
+ev25a008.lmp
+ev25o008.lmp
+
+Recorded using Doom2 Version 1.9
+Doom2 -file tnt.wad -playdemo with Doom2 Version 1.9
+
+Final Doom: TNT Evilution - Map 25 - Baron's Den
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+Altima         0%       0%       0%
+OgreSlayR      0%       9%       0%
+
+            ********
+  Time:     * 0:08 *
+            ********
+
+
+Altima:  Yay! An optimal run in which I do NOTHING! XD Watch my amazing
+         talent of standing perfectly still...after a little debating, I
+         decided to let Ogre do the running, since he is much faster than
+         I am. I discovered the route while watching the max for this one
+         and I just started wondering about the map's design. So I looked
+         at it in an author and I found out there's a small area that
+         is inaccessable in single-player mode because when you run out of
+         the start area, it closes permanently and there's no way to open
+         it up again. Anyway, after looking at it, I was wondering where
+         the coop starts were, and found that the remaining 3 players
+         start outside of the opening hallway. Now, go watch the demo,
+         since you know the story to this route ^_^ Pacifist is possible,
+         but will require 3 people to do.
+
+OgreSlayR:  my best run yet..took awhile to get this..demons arent very
+            cooperative..lots of random times..
+
+     
+Green:      Casey "Altima" Alvis             (altima_mantoid@hotmail.com)
+Indigo:     Michael "OgreSlayR" Lastovica    (akira101@comcast.net)
+
+28.04.2003

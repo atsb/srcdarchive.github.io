@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF19-532.TXT
+
+ HF19-532.ZIP
+
+  HF19-532.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 19 - Everything Dies
+
+  Kills    100%
+  (Items   100%)          
+  Secrets  100%  and Time =  5:32 
+                          
+                          
+  Description: Not much faster than the last demo, only decent part
+               is the 2 BFG cyber kill.
+  
+
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com
+  

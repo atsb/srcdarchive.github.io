@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+MM14p118.TXT
+
+ MM14p118.ZIP
+
+  MM14p118.LMP - Pacifist!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+
+  Kills      ?%
+  Items      ?%            
+  Secrets    ?%  
+
+    and Time    (: 01:18 :)
+
+
+  Description :-)
+
+  Just doing some quick tablefilling while I am into this map,
+  ran into big trouble near the end.. was happy just to exit.  
+ 
+  Erik Alm
+  erik_a80@hotmail.com 

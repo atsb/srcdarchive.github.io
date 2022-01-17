@@ -1,0 +1,26 @@
+This is a Final DooM .LMP "Competition" Entry - Please forward it...
+
+PL20-044.TXT
+PL20-044.ZIP
+
+PL20-041.LMP 
+
+Recorded using DooM II Version 1.9
+Use : DooM2 -file PLUTONIA.WAD -PlayDemo pl20-044
+
+Final Doom - Plutonia Experiment - Level 20
+
+ Kills     ??%
+(Items     ?? %)
+ Secrets   ??%  
+
+   ...and Time     0:44
+                  -------
+
+Description:
+
+   Henning... I saw better runs from you :)
+   I lost time at the barrels so 0:43 is possible.
+
+Author: Vincent Catalaa 
+E-mail: peroxyd@wanadoo.fr

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+PL21-034.TXT
+PL21-034.ZIP
+
+PL21-034.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 21 - Slayer
+
+Kills     18%
+Items     66%
+Secrets    0%
+Time      :34
+         ----
+
+Description:
+Entry #14, more plutonia again. :)
+
+I don't fire to keep some of the monsters from waking up.  For that
+reason, this is both a speed and a pacifist demo.
+
+One of the few times I'll get a two-for-one deal, so I tried it. :)
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

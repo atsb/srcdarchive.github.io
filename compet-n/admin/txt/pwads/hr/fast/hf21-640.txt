@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF21-640.TXT
+
+ HF21-640.ZIP
+
+  HF21-640.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 21 - Siege
+
+  Kills    101%
+  (Items    80%)          
+  Secrets  100%  and Time = 6:40 
+                          
+                          
+  Description: All hail the mighty -fast. I watched Opulent's max record
+               for this map, and after playing through basically his route,
+               got nearly a minute and a half faster. Some lucky rocket
+               dodging here and there, but the whole thing only took
+               fifteen minutes to record, so you can try your luck a little.
+  
+
+  Author: Chris "Ryback" Ratcliff
+  Email: ryback@fcmail.com
+  

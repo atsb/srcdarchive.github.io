@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M2-329.TXT
+
+ E1M2-329.ZIP
+
+  E1M2-329.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 2 - Nuclear Plant
+
+  Kills    100%
+  (Items    45)
+  Secrets  100%  and Time  03:29
+                           -----
+
+  Description :-)
+
+  Woke up today with one thought on my mind: I guess I'll try to beat
+  Eelco's best times on DooM COMPET-N, just to show that he's not the
+  only one still playing good ol' DooM. So I did, and it felt like home
+  to wander through the ExMy maps :-) This is the first level I tried,
+  and it's played quite sloppy (I only had one cup of coffee since I
+  left my bed ;-) - I didn't care about health'n'ammo either, there's
+  enough goodies around. I will *not* even think about trying to beat
+  Uwe's E1M1-040 ... the skill gap is just too big! :-(
+
+  I did *not* include a .BAT with this, 'coz every serious LMPer (like
+  Anthe and me) has a high-sophisticated one of his own to handle this
+  stuff - right? ;-)
+
+ Thomas
+
+ PS: If you want to see *really* great LMPs, check out all the stuff my
+     friend Anthe recorded (both COMPET-N and DHT. His initials are AAK
+     available .LMP's at the time of writing are: D2M, D2SG and D2I-AAK
+     - D2GM still under construction :-) His brother, Satanic Mechanic,
+     is also ready to go in the meantime!
+
+ Thomas Zajic
+
+ thomas_zajic@non-hp-austria-om1.om.hp.com
+
+

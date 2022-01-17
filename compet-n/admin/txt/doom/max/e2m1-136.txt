@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M1-136.TXT
+
+ E2M1-136.ZIP
+
+  E2M1-136.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 2 Mission 1 - Deimos Anomaly
+
+  Kills    100%
+  Secrets  100%  and Time  01:36
+                           -----
+
+Description:
+
+Hmm... I can't really get my episode 2 max movie right, so I figured out it
+was more fun to try this single map rec instead. This map is absolutely great
+for maxkills playing. I believe that under 1:30 is possible within the limits
+of the Doom engine, but is it possible within the human limits? I think not,
+so "human optimal" should be about 1:31-1:32. Really annoying that the Caco
+before the exit needed 7 shotgun blasts to die. Normal is 5-6 blasts, so I
+lost about two seconds there. Also I lost a sec on the imp that blocked me
+at a teleport and the imp just before I got the red key. Btw, exact time for
+this demo is 1:36,82.
+
+
+Ole Hartvigsen
+sg-3data@online.no

@@ -1,0 +1,18 @@
+DooM Speed Demos Archive <http://www.goodnet.com/~opulent/sda/doom_sda.htm>
+
+Pwad:      class_ep.wad
+Level:     e2m3
+Category:  Ultra-Violence Max
+Exe:       Original Doom.exe
+
+Time:      5:37.80
+Kills:     184/184
+Secrets:   2/2
+
+Comment:   With some better shooting this could go under 5:20.
+           If someone beats this I'll try again.
+
+name:      Arno SlagDooM
+mailto:    arnoslag@bart.nl
+visit:     www.doomworld.com/publicdang
+

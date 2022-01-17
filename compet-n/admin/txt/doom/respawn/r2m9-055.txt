@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R2M9-055.TXT
+
+ R2M9-055.ZIP
+  
+  R2M9-055.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with (Ultimate) DooM
+
+  DooM - Ep.2 Mi.4
+
+  Kills   100%
+  Secrets 100%
+  Time    00:55
+          -----
+
+  Description :
+
+Don't know why the record for this was so slow...Adam's -fast record
+was a full four seconds faster than his respawn record :). The time for this
+level depends on how many shotgun shells you fire. I count it by how many
+are left, assuming you pick up both shell boxes. For a 1:00 run you have
+24 or 25 shells left. Kai's amazing :51 record had 31 left, which is why it
+was so fast - he fired far fewer shotgun shells than you normally have to
+but still killed everything with plasma and rockets afterwards. I went for
+about 28 or 29 shells to get a 0:55. It's exactly linked to success rate,
+also...if you went for 33 shells, eventually you would probably get it, and
+get a faster time than 0:51...it'd just take a huge amount of time. By
+contrast, if you go for 20 shells, you'll get a finished run every time,
+it'll just take about 1:05 or more :)
+
+Adam Williamson
+adam@scisoft.force9.co.uk

@@ -1,0 +1,40 @@
+This is a Compet-N entry 
+
+authors:   Green - Chris Laverdure		( dashevil@gmail.com )
+           Indigo - Vincent "Peroxyd" Catalaa	( vincentDS@netcourrier.com )
+
+game:     ultimate doom
+category: coop max
+mission:  e4m7
+
+Player	Kills	Items	Secrets
+-------------------------------
+Green	43%	44%	50%
+Indigo	54%	50%	0%
+
+time:     1:55
+
+Chris	:	A few parts of this are really depressing on my end. You must keep
+		in mind the 160ms of lag, and the fact that my monitor is dark. Even
+		with the highest brightness setting, the blue sphere room is pitch
+		black to me. That's why I was shooting at the wall. Bad combination.
+
+		Anyway, as I'm sure most of you know (because he's a Doom whore) Vince
+		is a lot of fun to coop with. Very skilled, and capable. He came up
+		with the route, and I fucked up my bit in parts, but what can you expect.
+		I'm used to being able to comfortably go through the route slowly and then
+		as I'm playing make random varations on it. No room for this with poor
+		Vincent having to restart every time I test something stupid. So I tried
+		to play relatively safe. If we were at a LAN I'd be quite a bit more
+		liberal on this front, and probably throw pizza at him if he complained.
+
+		Maybe mints... which ever.
+
+Vincent : 	nice to cooperate with Chris, we played a lag around 160 ms 
+		which makes this not so good looking. Otherwise we struggled 
+		a bit to break the 2 mins... Route is good but I guess 1:3x 
+		would be excellent without lag.
+
+          
+
+          

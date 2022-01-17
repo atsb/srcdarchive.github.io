@@ -1,0 +1,18 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        Respawn
+Map:             E3M7
+Players:         2
+
+Kills:           115%
+Secrets:         100%
+Time:            1:43
+
+Green:           Arno Slagboom
+Indigo:          Marko van der Want
+
+Comments:        With Arno holding the current 1-player record 
+                 and Marko being only 4 seconds slower, we just
+                 had to do this. Time sucks however, but we tried
+                 only a few times. We have to be challenged... :)
+                 

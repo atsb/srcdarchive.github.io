@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+MM19-735.TXT
+
+ MM19-735.ZIP
+
+  MM19-735.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 19 - Maltraiter
+
+  Kills    100%
+  Items     ??%            ********
+  Secrets  100%  and Time  * 7:35 *
+                           ********
+
+  Description :
+
+               Just a tablefiller with lots of room for improvement. :)
+
+  Author: Tomas "DeDo" Kollar
+  E-mail: akollar@edoma.sk

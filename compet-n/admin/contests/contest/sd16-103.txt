@@ -1,0 +1,17 @@
+Compet-N Contest #4 Entry
+=========================
+
+Description
+-----------
+Game    : Doom2 
+Skill   : 4
+Map     : 16
+Style   : Speed Run
+Special : Pick up all weapons
+
+Player  : Marijo "Sedlo" Sedlic
+Time    : 1:03
+
+Comments
+--------
+It can be done much better, but I don't have time to do that.

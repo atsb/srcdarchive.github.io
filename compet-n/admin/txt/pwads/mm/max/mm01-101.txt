@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM01-101.TXT
+
+ MM01-101.ZIP
+
+  MM01-101.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 01 - The Teleporter
+    
+  Kills    100%
+  (Items     0%)          *********
+  Secrets  100%  and Time * 01:01 *
+                          *********
+                          
+
+  Description :-)
+  
+  The teleporter here drives me crazy, never seen such a
+  bad design in my life.
+
+  I pressed the switch in this demo accidentally, but
+  it isn't needed to finish the level. If you check out the
+  area behind the bars, it works like this:
+  1) If you cross the bars a little, the teleporter closes.
+  2) If you go close to the switch, the exit opens revealing
+     the 3 demons.
+  3) If you press the switch, the teleporter destination
+     closes, which is totally unnecessary because the teleporter
+     is already closed.
+
+  This design means you can't open the exit without closing
+  the teleporter; or in other words, if you decide to open the
+  exit and run for the exit, there could be monsters which
+  won't have a chance to teleport. Simply put, a fast 100/100
+  time on this level is 90% luck, 10% skill (that's why I needed
+  2 days to get this time).
+
+  Oh yeah didn't even mention that sometimes the bars refuse
+  to open at all... for whatever reason.
+
+  There's still lots of improvement left (my TAS time is 0:50),
+  but there's no way I'm playing this again in 100/100.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

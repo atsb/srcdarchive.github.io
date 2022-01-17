@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+U4M3-010.TXT
+
+ U4M3-010.ZIP
+
+  U4M3-010.LMP - Ultra Violence
+
+  Recorded using The Ultimate Doom v. 1.9
+  DooM -PlayDemo with The Ultimate Doom v. 1.9 ONLY
+
+  DooM - Ep.4 Mi.3 - Sever the Wicked
+
+  Kills      1%
+  (Items    20%)
+  Secrets    0%    and Time  00:10
+			     -----
+
+  
+  Description :-)
+
+  Nice trick Ralf... I had to change my config to do this...
+  Turn right, strafe right and strafe-on all on one key...
+  So normal straferunning will do strafe50 running...
+  
+  I did 9.77 on -nomonsters... good luck guys...
+
+  Adam Hegyi
+  ha211@hszk.bme.hu 

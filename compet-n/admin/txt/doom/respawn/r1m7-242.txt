@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M7-242.TXT
+
+ R1M7-242.ZIP
+
+  R1M7-242.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    102%
+  (Items    44%)
+  Secrets  100%  and Time  02:42
+                           -----
+
+Description:	This is what Compet-n is all about, raising each other's
+                level of playing!
+
+                I'm sure you will come up with a demo under 2:40, Jan Endre
+                and it's just a matter of time before one of us reaches the
+                2:30 goal. Maybe Anders isn't even needed for that...  :)                
+                              
+                
+
+Author:   Arno Slagboom
+E-mail:   slagboom@cybercomm.nl
+Doompage: members.xoom.com/publicdang

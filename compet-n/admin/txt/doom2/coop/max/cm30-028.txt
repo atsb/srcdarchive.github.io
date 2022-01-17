@@ -1,0 +1,43 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CM30-028.TXT
+
+ CM30-028.ZIP
+
+  CM30-028.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+           Kills    Items   Secrets
+
+  Green      0%      22%       0%      Adam
+  Indigo   100%      11%       0%      Waldon
+
+
+              *********
+     and Time * 00:28 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+  
+  It wasn't too hard. You just have to be careful not
+  to telefrag your fellow :)
+  
+
+  [ Adam : ]
+  
+  This should be optimal for two players...
+    
+  Authors:
+  
+  Laszlo Vecsei
+  waldon@doom2.net
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

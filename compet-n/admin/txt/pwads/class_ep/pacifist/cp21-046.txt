@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CP21-046.TXT
+
+ CP21-046.ZIP
+
+  CP21-046.LMP
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M1 - Pacifist style
+
+  Kills     15%           
+  (Items    42%)             ++++++++
+  Secrets  100%  and   Time  + 0:46 +
+                             ++++++++
+  Description: 
+
+  Not a easy map on pacifist, took me some while to just
+  finish it.
+  
+  
+  Radek Pecka
+  r.master@email.cz

@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M3-211.TXT
+
+ R3M3-211.ZIP
+
+  R3M3-211.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 3 - Pandemonium
+
+  Kills    100%
+  (Items    28%)
+  Secrets  100%  and Time  02:11
+                           -----
+
+Description: 
+
+05.01.2000 - SlagDooM 2:16
+20.10.2000 - Radeg    2:14
+23.07.2005 - SlagDooM 2:11
+
+After 5.5 years of playing this every day, I finally did it.
+It took 452,631 tries, but it was worth it!
+
+
+
+Author:   Arno SlagDooM
+E-mail:   slagdoom@hotmail.com
+ZDaemon:  Slag
+
+
+

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ09-552.TXT
+
+ RQ09-552.ZIP
+
+  RQ09-552.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -file REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 9 - Deep Down Below
+
+  Kills     100%
+  Items       6%           ********
+  Secrets   100%  and Time * 5:52 *
+                           ********
+
+  Description :-)
+
+  Very nervous finish - I nearly have killed myself (three hp left) ;)
+  Good map for maxing.
+
+  
+  Hitherto (rcdemo@mail.ru)
+  27 august 2008
+  

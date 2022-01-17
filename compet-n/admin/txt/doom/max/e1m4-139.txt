@@ -1,0 +1,34 @@
+This is a Doom .LMP "Competition" Entry
+
+e1m4-139.txt
+e1m4-139.zip
+
+e1m4-139.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E1M4 - Command Control
+
+=--------------=
+Kills      100%
+Items       26%
+Secrets    100%
+
+Time       1:39
+=--------------=
+
+C-N entry #127.
+
+Thanks to Radek for his demo here, it was
+quite a solid run.  This level is a classic,
+although 97-98% kills runs were highly common.
+Some monsters on the upper hallways near the
+start will head away from the barrels and are
+easy to miss, so a little caution was needed
+(playing normally is tough when I'm not sure
+that everyone was dispatched.. getting a good
+time with a missing monster just sucks :).
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

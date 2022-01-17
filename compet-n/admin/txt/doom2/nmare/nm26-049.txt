@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM26-049.TXT
+NM26-049.ZIP
+
+NM26-049.LMP - NightMare!
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 26 - The Abandoned Mines
+
+Kills     ??%
+(Items    ??%)
+Secrets   ??%  
+
+   ...and Time        00:49
+                     -------
+
+
+Description: 
+
+Henning wrote :
+
+ > Hmmmm only one 1sec away from the the uv-record :) I wonder
+ > what time will be if you do the yellow key strafe, you will 
+ > probably get in the late 40's. 
+ > Wanna play another round Adam ?
+
+Sorry that's not Adam :)))
+I implemented the jump... i used some strafe50 do it... and just to do it :-)
+With it i perform the jump 9/10 (on nomonsters:).
+
+Author: Vincent Catalaa
+E-mail: peroxyd@wanadoo.fr
+
+
+  
+
+
+
+
+
+
+    

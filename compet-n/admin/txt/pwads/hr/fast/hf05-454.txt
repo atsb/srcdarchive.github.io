@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF05-454.TXT
+
+ HF05-454.ZIP
+
+  HF05-454.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 05 - Core Infection
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 4:54
+
+                          
+  Description:  Very hard to push this level for speed with -fast monster,
+                the best I'm able to do here is run past the mancubuses
+                and kill them later. Only a small improvement over my last
+                demo here, mainly because I'm just faffing around.
+
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

@@ -1,0 +1,71 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV10-832.TXT
+
+ LV10-832.ZIP
+
+  LV10-832.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills    100%
+  (Items    65)
+  Secrets  100%  and Time  08:32
+                           -----
+
+  Description :-)
+
+  Just had a thought... anybody who sees this at ftp.cdrom.com as
+  LV10-832.TXT without knowing who's responsible for this entry will
+  probably know by the long .TXT that it's me before getting to the
+  part where it's written ;-)
+
+  OK, about the .LMP:
+
+  Ah, level 10 without corner inspections, how nice! An obvious improvement
+  from my DM2FULL map10... Also 16 minutes faster, 19 minutes faster than my
+  COOP/DM partner Edo, who probably adores all corner inspectors whereever
+  they are, judging the number of times he hid to try and use the berserk
+  right.
+
+  This one is for level 14, Peo!
+
+  If anybody cares, it's my 5th try... 1st one was 9:17 with 99% kills,
+  second 8:57, these I did yesterday. Today I did three right in the morning
+  so that no phone call will disturb me, wow, how brilliant ;-) First one I
+  died :-( Second one was 9:07, this is the 3rd!!
+
+  Well, the demo... OK, the beginning goes fine, I suppose. Pain elemental
+  dies pretty fast, I don't take *too* much damage. Part with arachnotrons,
+  imps, demons, revenants goes fine too, I try to make as few "circles"
+  around as possible, getting rid of these arachnotrons as quickly as
+  possible. Part with humans is OK, could be faster but there are so many of
+  them it's hard to be sure you don't forget anyone... I decided to use the
+  BFG on the demons after all, since I do have the ammo. Cyberdemon is the
+  worst I ever had... he takes 4 shots and I waste some time boxing &
+  chaingunning him, also an imp beams out, remember him later! After I
+  finally waste the 4th BFG shot I go out, dark room goes fine, next part
+  also OK except for a "secret screwup" with the soulsphere which takes two
+  tries, and some boxing that suits someone without separate strafing keys ;-)
+  Boxing is really bad, but no matter, next part goes OK with all the
+  painelementals and humans, then last two parts also go fine. I go to the
+  exit, but WAIT! There's a monster alive... and no it's not a lost soul,
+  it's an imp gurgling at me. Frightening (not the imp, the 99% kills
+  thought...), but then I remember (and so should you!) the imp that beamed
+  earlier, oh god where can he be? Must be on the way to the exit, so I take
+  the plasma, but he's not there! I'm writing all this just to make you
+  understand that my heart rate wasn't too calm at that moment...
+  Super-depressed, I plan to exit and see the 99% kills but no, he's in the
+  exit room... Hi imp, get some plasma, bye imp, bye level, 100% kills,
+  hip-hip, hooray!! ;-)
+
+  Ok, buddies, wake up, it's the end of the text file!!! ;-)
+
+ Yonatan Donner
+
+ yonatan.donner@tbu.excellnet.co.il
+
+

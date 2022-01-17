@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+20	33.80	Just wanted faster one than Ian's, got it in 15mins
+
+
+Author:		Looper

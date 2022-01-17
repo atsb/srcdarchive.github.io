@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL27-035.TXT
+
+ CL27-035.ZIP
+
+  CL27-035.LMP - Ultra Violence !
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M7 - Deimos Anomaly
+
+  Kills     20%           
+  (Items     0%)          
+  Secrets  100%  and Time   0:35
+                           ------ 
+                          
+
+Description:  I did 0:39 quite easily, then after next 20 mins i got 
+              0:35. Thought that time is bad, but then i watched it
+              again and found out how lucky i was (except that annoying
+              teleport). I look forward to see a Pacifist demo. 
+             
+              The route credits go to Chris Ratcliff.
+
+
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz

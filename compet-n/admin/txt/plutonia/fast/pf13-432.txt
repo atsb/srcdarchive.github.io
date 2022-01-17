@@ -1,0 +1,38 @@
+Game: Doom 2
+Pwad: plutonia.wad
+Filename: pf13-432.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP13
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    103%
+  Items    100%           ********
+  Secrets  100%  and Time * 4:32 *
+                          ********
+
+
+==============================================
+
+Aesthetically speaking, one of my best demos.
+The time is not so good, however, I expected at least 4:25
+at the exit... not to mention Tatsurd or Kimo could undoubtly
+get ~3:50, they are much better arch-vile killers.
+
+Yellow key door   :37      Happy with the beginning, 5 sec.faster
+                           than my second best.
+Ladder           1:57      4 seconds lost. The cacos were in good
+                           positions to kill them quickly.
+                           No luck with HK/chainee or arach/manc
+                           infighting. Playing safe with the rev
+                           (credits go to z0diac).
+Soulsphere       2:38      6 seconds gained. Still, the arch-vile
+                           can be killed faster.
+Baron - 5 SSG shots        I like it :)
+Rocket launcher  3:16      1 second gained.
+Switch           4:02      No time gained. But hey! I have lots
+                           of health at this point, unusual!
+Exit             4:32      4 seconds gained, 12 overall compared
+                           to 4:44, my second best. Of course,
+                           the last pain elemental could have been
+                           killed faster.

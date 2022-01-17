@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+F3M6-323.TXT
+
+ F3M6-323.ZIP
+
+  F3M6-323.LMP - Ultra Violence with -FAST
+
+  Recorded using Ultimate Doom
+  Doom -PlayDemo with Version 1.9
+
+  DooM - Episode 3 Mission 6 - Mt. Erebus
+
+  Kills   100%
+  (Items   37)
+  Secret  100%  and Time = 03:23
+                             
+
+  Description: Joe's route kicks ass. I go more or less the max way,
+               but the main time improvement probably comes from
+               having the cacos in such convenient punching positions :)
+             
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

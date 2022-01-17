@@ -1,0 +1,20 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2292550.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP29
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    119%
+  Items     50%           *********
+  Secrets  100%  and Time * 25:50 *
+                          *********
+
+
+==============================================
+
+Insane on -fast, the only way I can complete this map (at all) is to play it safe and slow.
+Did I say safe? You know, when mancubus fireballs and baron plasma pass through walls, you
+can never be really sure of anything. I hope to beat UV Max one day, it would be more
+interesting.

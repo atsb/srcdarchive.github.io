@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+ec01-056.txt
+
+ ec01-056.zip
+
+  ec01x059.lmp
+  ec01h059.lmp
+  ec01x058.lmp
+  ec01h058.lmp
+  ec01x056.lmp
+  ec01h056.lmp - Ultra Violence
+
+  Recorded using original doom2 Version 1.9
+  Doom2 -file tnt.wad -playdemo with Version 1.9
+  sorry, we had to do it this way because final doom' sersetup is full of bugs.
+
+  Final Doom - Evilution - Level 01 - System Control
+
+  Kills    max
+  Items    whatever        ********
+  Secrets  100%  and Time  * 0:56 *
+                           ********
+
+
+  Description:
+
+	green: ethhoack ethandphi exbeess <ethh@enemy.org>
+	indigo: ex
+
+	we eventually did a decent coop demo for this map :)
+	look out for more final doom coop demos from us.

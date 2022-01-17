@@ -1,0 +1,23 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : plutonia_speed_map14_0002651.lmp & .txt
+Date     : 2013-09-15 
+Game     : Final Doom - Plutonia
+Client   : cndoom.exe v2.0.2
+Category : Nightmare!
+Map(s)   : MAP14: Genesis
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+-------------------------------------------------
+Kills    : 12%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:26.51
+===================================
+Description :-)
+
+One of the maps where nm100s is much more interesting than regular nm.
+But there wasn't a proper nm speed for this so oh well.

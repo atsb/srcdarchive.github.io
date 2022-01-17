@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c3m1-055.TXT
+
+c3m1-055.ZIP - Coop UV max
+
+c3m1e055.LMP - Eugene - Green
+c3m1s055.LMP - Sergey - Indigo
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 3, Map 1 - Hell Keep
+      
+Kills       57%
+Items       33%
+Secrets    100%	
+
+Kills       30%
+Items       33%
+Secrets      0%	
+
+and Time - 0:55
+
+
+Description:
+
+We barely beat previous demo.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+08.12.2006

@@ -1,0 +1,45 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2321029.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP32 - Dances With Demons         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     50%           *********        |
+            |      Secrets    0%  and Time * 10:29 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| This time I got three exits (12:52, 10:29, 11:29). Apparently no luck  |
+| with breaking the 10 minute barrier. The third demo was wimpy, but     |
+| interesting, as for the first time I still had bullets left after      |
+| killing the cybers.                                                    |
+|                                                                        |
+| I also tried m223 Tyson again, after a six month break. Got to the     |
+| megasphere for the first time. It turns out this map is more difficult |
+| than I thought. When playing with savegames from the point I died, I   |
+| had extreme trouble with pain elementals / cacos. Not sure now if I    |
+| ever beat that map.                                                    |
+|                                                                        |
+| When watching using PrBoom+, you may use -trace_thingshealth 146 147   |
+| and cyberdemons' health will be shown if HUD is activated.            }|
+|                                                                        |
++========================================================================+

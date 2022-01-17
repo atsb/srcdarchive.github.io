@@ -1,0 +1,38 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PF11-242.ZIP
+
+ PF11-242.LMP
+
+  PF11-242.TXT -UV FAST
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills       77%
+  (Items      87%)           ********
+  Secrets    100%  and Time  * 2:42 *
+                             ********
+  C-N entry #7.		Date:03/03/2011
+
+  Description :)
+  Just like my last demo but with less SR50, I guess it's about time I learn
+  that slow and steady wins the race...
+
+  [Btw, 77% kills is maximum on this map (in UV) with out going to the exit on
+  the right and with out the "-respawn" parameter.]
+
+  
+  By the way, COMPET-N record was 2:44 by me.
+
+  Utility's: Doom Mouse Spinner, you can download it @
+             ftp://mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

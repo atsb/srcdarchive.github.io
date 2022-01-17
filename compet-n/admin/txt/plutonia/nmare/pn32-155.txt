@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN32-155.TXT
+
+ PN32-155.ZIP
+
+  PN32-155.LMP - Skill 5 - Nightmare!
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 32
+
+  Kills     89%
+  (Items    66)
+  Secrets  100%  and Time  01:55
+                           -----
+
+Description: Anders 98' wrote:
+             >I've wanted to nail this one on skill 5 before. Couldn't do
+             >it 8 months ago, but that's an ocean of Dooming since :)
+             >I know it dosn't look that good- or hard. But belive me, its
+             >*hard*.             
+	
+             Well...guess a few more oceans passed since then, cus this was 
+	     rediculously easy...spent about as much time on it as the 
+	     uv speed. Can't belive I found this to be hard really :D 
+	     A few bfgs here and there, some rockets to dodge and you are 
+	     home safe. Its less of a pain than underhalls on skill 5...
+	     Of course this demo is timewise a big joke, just wanted to
+	     try it out for nostalgic reasons :)
+ 
+             [To playback this lmp, you'll have to run plutonia.wad 
+             together with Doom2.exe]
+
+Author:    Anders Johnsen
+E-Mail:    nfp7065@privat.cybercity.no
+Doompage:  http://www.geocities.com/Broadway/Booth/3568

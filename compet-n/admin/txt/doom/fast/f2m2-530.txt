@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+F2M2-530.TXT
+
+ F2M2-530.ZIP
+
+  F2M2-530.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 2 - Containment Area
+
+  Kills    100%
+  (Items    58%)
+  Secrets  100%  and Time  05:30
+                           -----
+
+  Description:  Well Panter - this was my first try too ...
+                - my first SUCESSFUL try, to speak the truth ...
+                I just took the route I invented for r2m2 and did
+                some minor modifications. Maybe this route is good
+                for playing MAX also.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

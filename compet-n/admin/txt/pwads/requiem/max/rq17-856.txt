@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ17-856.TXT
+
+ RQ17-856.ZIP
+
+  RQ17-856.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 17 - Dens of Iniquity
+
+  Kills    100%
+  (Items    56%)          *********
+  Secrets  100%  and Time * 08:56 *
+                          *********
+                          
+
+  Description :-)
+  
+  Yuck. One of my least favourite maps in Requiem. First the standard texture
+  (BROWN1) is just awful. Then, when you finally learn the level
+  and your possible route, things are starting to go bad. Like Istvan said
+  before, you'll want to use plasma here a lot if you wanna finish fast.
+  But, this is the perfect example of the "lost monster map". I had
+  many many tries with 98-99% of kills. It was quite hard to come up with
+  this one.
+
+  Adam Hegyi
+  ha211@hszk.bme.hu

@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry
+
+1425NS01.TXT
+1425NS01.ZIP
+
+1425NS01.LMP 
+
+Recorded using DooM 2 Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+DooM 2 - Levels 1-10 on Nightmare! skill w/ 100% secrets
+
+01 - Entryway          -  :46
+02 - Underhalls        - 1:08
+03 - The Gantlet       -  :37
+04 - The Focus         - 1:10
+05 - The Waste Tunnels - 1:42
+06 - The Crusher       - 1:23
+07 - Dead Simple       - 1:08
+08 - Tricks and Traps  - 1:45
+09 - The Pit           - 2:24
+10 - Refueling Base    - 2:22
+
+Total - 14:25
+
+C-N entry #35, movie run #9.
+
+My progress on the 30ns has been good so far; this was one attempt I didn't feel like
+continuing, but it turned out to be faster than the previous run.  As for the
+30ns itself, I'd better tell you now that you shouldn't keep your hopes up. :)
+
+While the 30ns will come eventually, it will probably not be faster than Henning's run,
+so don't expect anything new.  I'm taking this opportunity to challenge myself by doing
+this run, and it will be a run that I'll be proud of, regardless of the time.
+
+In case you're wondering, the farthest I've gotten in my attempts is level 24, so
+I'm getting close, but don't expect it anytime soon. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

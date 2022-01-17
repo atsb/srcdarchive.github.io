@@ -1,0 +1,107 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+2603NM11.TXT
+
+ 2603NM11.ZIP
+
+  2603NM11.LMP - Nightmare!!
+
+  This is a Compet-N/Doom2/10LVS Entry...  
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 2" - Levels 11 --- 20 + (LV 31 & LV 32)
+
+
+              Kills Items Secrets     Time     Health Armour
+
+  LV 11  -     64%    9%   66%       1:57     ( 90    2)
+  LV 12  -     24%   20%    0%       2:58     ( 15   37)
+  LV 13  -     40%   36%   12%       2:46     (100  193)
+  LV 14  -    114%   50%    0%       3:09     (118  119)
+  LV 15  -     26%   12%   18%       1:29     (100   69)
+  LV 31  -     56%    4%  100%       1:27     (200  110)
+  LV 32  -     48%  100%   33%       0:27     (200  200)
+  LV 16  -     30%   40%    0%       1:15     (200  200)
+  LV 17  -    104%   64%    0%       5:17     (109   64)
+  LV 18  -     17%   21%    0%       0:58     (200  100)
+  LV 19  -     28%    5%    6%       2:25     (100  200)
+  LV 20  -     39%   24%   42%       1:55     (138   62)
+
+                     Total Time =  19:423
+                                   19+
+                                    7:03
+                                    ------
+                     TOTAL TIME =  26:03
+                                   --------
+
+
+  Description: 
+
+          Map 11:
+          Quite good, considering that I had to go upwards twice with one 
+          of the lifts at the end of the map. Had 1:35 in one try.
+
+          Map 12:
+          Really hard in this lmp, sometimes it can go very easy, 
+	    the timing was bad and I was unlucky with the respawning in the
+          Caco room, very close, I sacrify the par time for fetching the SSG
+          which I need for the demons on map13..
+	
+          Map 13: No problems, pretty good time.. I keep the soulsphere
+          as a reserve if something should go wrong.. 
+
+          Map 14:
+          I never fail here. Although, in this recording I actually had 
+          some problems in the first part of the map. In all my practising 
+          and recordings I have only died here once..
+
+          Map 15:
+          I took the green armour just in case.. Can be tricky without 
+          armour, I died here in an earlier try!
+
+          Map 31 & 32:
+          Easy as always..;-)
+          
+          Map 16: 
+          Everything went as planned, except that I wasted too much plasma
+          that could have been handy for map17..            
+          
+          Map 17:
+          Whoa! The fight of my life! A lot went wrong.. First I 
+          timed the first bfg shot wrong and went from approx 185% health
+          to 120-125%. Secondly: I opened for the Cacos and Dudes in the
+          blue key area by triggering that hidden part. After that I had not 
+          great expectations of survival. I managed to sneak through and it
+          became one helluva fight..
+
+          Map 18: 
+	    Relaxed a bit and played it safe..
+          
+          Map 19: 
+          Thanks to Istvan´s route, this map is now quite easy,
+          I wanted the mega-armour but almost screwed up..
+          
+          Map 20: 
+          I died here in an earlier try so I didn´t want to take any 
+          chances, normally one of the easiest maps of all, not hard
+          this time either ..
+
+     
+          Credits to the usual gang, but especially for this run: Andi,
+          Istvan and Yonatan. Andi and Istvan for providing solutions
+          to some technique problems I had, and even recording special
+          lmps for me, Yonatan for telling me to keep a low profile at 
+          the exit of map16 and not stir up the imp army and also providing
+          Hell Revealed, a nightmarish wad that gave me the self-confidence
+          to start with nightmare for real.. I also strongly recommend all 
+          lmps by the mentioned players, plus the ones by Kai and Daniel 
+          as well..
+
+          I had really wanted to do this as a superlightning but some maps
+          were too hard to do under par (12 for instance)..
+
+
+  Author:      Peo Sjoblom
+
+  E-mail:      peo.sjoblom@mbox300.swipnet.se

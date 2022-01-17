@@ -1,0 +1,49 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop max movie with -fast
+mission:  01 to 32 max kills and secrets
+
+   Level       Time         
+--------------------
+   MAP01       0:37
+   MAP02       1:04
+   MAP03       1:07
+   MAP04       1:08
+   MAP05       2:07
+   MAP06       3:01
+   MAP07       1:07
+   MAP08       3:12
+   MAP09       4:22
+   MAP10       5:11
+   MAP11       4:08
+   MAP12       4:02
+   MAP13       4:52
+   MAP14       2:10
+   MAP15       6:58
+   MAP31       1:55
+   MAP32       1:04
+   MAP16       3:52
+   MAP17       5:02
+   MAP18       3:40
+   MAP19       3:35
+   MAP20       4:32 
+   MAP21       2:19
+   MAP22       1:47
+   MAP23       4:02
+   MAP24       6:02
+   MAP25       3:01
+   MAP26       4:48
+   MAP27       5:16
+   MAP28       3:57 
+   MAP29       5:51 
+   MAP30       0:56 
+--------------------
+   Total    1:46:45
+
+xit-vono : I played like crap here
+
+Vincent : We played very safe, it does not look too good, but hey ... its a 1st ever :)

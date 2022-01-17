@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+r4m8-149.zip
+
+ r4m8-149.lmp -md5sum 5457e1317ec22c477321712793d83533
+
+  r4m8-149.txt -Ultra-Violence -respawn
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Episode four - Thy Flesh Consumed - Unto The Cruel
+
+  Kills:   100%
+  Items:    ??%           ********
+  Secrets: 100% and Time  * 1:49 *
+                          ********
+  C-N entry #63.	Date: 2015.08.22
+
+  Description :)
+  A table filler that's long overdue. Thanks to Altima for convincing
+  fx to get rid of that old, obsolete, self-serving, and racist rule.
+  Well okay it wasn't that bad.
+
+  Once someone gets a pacifist E2M8, the Ultimate Doom tables will be
+  complete.
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

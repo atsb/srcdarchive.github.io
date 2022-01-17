@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA11-310.TXT
+FA11-310.ZIP
+
+FA11-310.LMP - Ultra Violence & Fast
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 11 - "Circle of Deth"
+
+Kills    100%
+(Items    61)
+Secrets  100%  
+
+   ...and Time      03:10
+                    -----      
+
+
+Description: I like this map, and belive it or not: It's very easy when playing
+             -fast monsters. I managed to beat DL's 04:26 from 96' on first 
+             try, so I had a few attempts afterwords and ended up with 03:10.
+             I think somewhere around 02:40 is quit possible.....
+
+
+Author:    Henning Skogsto     
+E-mail:    hskogsto@c2i.net      
+Doompage:  http://home.sol.no/~doom/

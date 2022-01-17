@@ -1,0 +1,63 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM17-435.TXT
+
+ MM17-435.ZIP
+
+  MM17-435.LMP - UV Max
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 17 - House of Thorn
+
+  Kills      100%
+  Items       32%            
+  Secrets     85%  and Time: 4:35 
+                             ==== 
+
+  Description :-)
+
+  12th COMPET-N entry.
+
+  Just another great map from "Memento Mori". There is constant 
+  action, beginning with very cramped room-to-room fighting,  
+  then evolving to more open fighting in the garden section 
+  later on. And the secrets are simply ingenious!
+
+  I guess few people like for this map, which is sad. It really 
+  is fun to play. I did my best to come up with a quick route, 
+  and although this demo looks a little sloppy in parts, the time 
+  is quite good. Getting a decent time depends much on luck, 
+  since this route tends to leave stray monsters (mostly outside 
+  the house). There are some important route improvements here 
+  compared to the previous record run, most notably taking the 
+  megasphere inside the house, which allows for much more daring 
+  play through-out the rest of the run. Note that the way I take 
+  it is not what the author intended, but rather a "trick jump". 
+  This way, the time loss in taking it is minimal.
+
+  Some things went well; for example, the monsters at the yellow 
+  key teleported to just the right place. It's always a lottery 
+  and you can lose quite some time there blasting through those 
+  damn Lost Souls. And at the end, the monsters placed themselves 
+  almost perfectly. OTOH, some things didn't go so well -- the 
+  number of SSG shots I had to use to kill the Pain Elemental 
+  has to be some kind of record... But all in all, I can't really 
+  complain, since this was the only exit I had below 4:40 (I had 
+  two "second-best" attempts in 4:43).
+
+  Other notes -> I was lucky to discover that stray zombieman! 
+  If it hadn't fired at me as I was going for the megasphere, 
+  the attempt would most likely have been runied. Also, I chose 
+  to pick up some extra cells in the end because I think the time 
+  saved by being able to use the plasma rifle to kill the last 
+  Barons more than makes up for the few seconds you lose by 
+  picking up those cells. Perhaps I'm wrong? ;-)
+
+  I should point out that 6/7 secrets (85%) is the best you can 
+  do because one secret sector (the switch in the soulsphere 
+  room right at the start) is impossible to get into.
+
+  Kristian Ronge
+  zuckuss@gmail.com

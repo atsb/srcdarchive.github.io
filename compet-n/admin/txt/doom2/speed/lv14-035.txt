@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry
+
+LV14-035.TXT
+
+ LV14-035.ZIP
+
+  LV14-035.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 14 - The Inmost Dens
+
+  Kills     25%
+  (Items     0%)
+  Secrets    0%  and Time  00:35
+                           -----
+  
+  Description :-)
+
+  This magnificient brand new route was created by Anders Johnsen.
+  Some weeks ago he mailed me and explained the trick... but I was
+  quite sure that this cannot be done in normal play. I was wrong...
+  I practiced this today and finally realized how I can preserve
+  enough health for the route. My aim was to beat the D2dQ time
+  of 0:36. It was a hard fight and I'm satisfied with the result.
+  Yet, I feel 0:31-0:32 would look much better.
+  I included a 0:39 with the old route, which also beats Panter's
+  record so no one can say it's only the route which makes me fast :)
+
+  Thanks again to Anders for the route and I hope you won't be
+  angry that I stole it. There's still some time left and I guess
+  it's only a matter of time when this gets beaten?
+
+  Adam Hegyi
+  ha211@hszk.bme.hu  

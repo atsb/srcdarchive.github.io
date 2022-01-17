@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RF081437.TXT
+
+ RF081437.ZIP
+
+  RF081437.LMP - Ultra Violence with fast monsters!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 08 - The Reactor
+
+  Kills    100%
+  (Items    85%)          *********
+  Secrets  100%  and Time * 14:37 *
+                          *********
+                          
+
+  Description : Man, this map has some serious ammo problems. Nothing is easier here then to                 run out of amunition. Well maybe except dying.:) The music here is one of my                 favorites so I wanted to have something in this map. I did two things that                  anger me(the berserk Revenant was not activated as planned; I thought I                     activated the lift to the "second floor switch" area but didn't) but looking                 at the demo as a whole, I think it's good.
+  
+  
+  
+  Author: Tomas "DeDo" Kollar
+  Email: kollarant@stonline.sk

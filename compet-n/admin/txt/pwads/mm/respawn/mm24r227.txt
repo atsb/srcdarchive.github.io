@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm24r227.TXT
+
+ mm24r227.ZIP
+
+  mm24r227.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 24 – UV Respawn
+
+Really lazy demo which I put hardly any effort into, easy.
+
+Author: Revved

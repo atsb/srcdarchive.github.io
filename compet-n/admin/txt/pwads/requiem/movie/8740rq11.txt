@@ -1,0 +1,71 @@
+﻿
+This is a Doom .LMP "Competition" Entry
+
+8740rq11.TXT
+
+ 8740rq11.ZIP
+
+  8740rq11.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Episode 2 – UV Max
+
+I had been working on this for some time, but sort of stopped for a while due to real life. However, SAV88's recent RQ15 record had encouraged me to work on this again. Took me a couple of attempts, but I finally got this. With all the max episode runs done for this WAD, it opens up the possibility for a 30rqmax run. However, it would take about 4-5 hours, and I don't have that time in my life to do it right now.
+
+                            Time     Kills      Secrets 
+---------------------------------------------------------
+11 – Rats in the Walls      4:26      100%        100%
+12 – Militant Reprisal     10:06      100%         86%
+13 – Town of the Dead       8:16      100%        100%
+14 – The Portal             7:53      100%        100%
+15 – Last Resort           13:40      100%        100%
+31 – Doorway to Quake       3:33      105%        100%
+32 – Bitter Herb            2:20      106%        100%
+16 – Escape From Chaos      9:54      100%        100%
+17 – Dens of Inquity       13:42      100%        100%
+18 – Base of Thorn          6:38      100%        100%
+19 – Skinny Puppy           6:17      100%        100%
+20 – The Forsaken Hall      0:55      100%        100%
+---------------------------------------------------------
+Total                    1:27:40
+
+11 – Rats in the Walls
+A nice little tech-base level to start off the run. Sometimes, I get low on health, like here, and yet I still manage to start the next level relatively healthy. Wanted to use a safer strategy for more chance of success. Fun fact: this run actually equals Peo Sjoblom's record of the level.
+
+12 – Militant Reprisal
+A large level with lots of secrets, which I never had any trouble remembering. One thing that usually happens is I get pummelled by all the hitscanners and decide I have nothing to lose, so I act all careless to justify the ending of my run. However, I didn't lose that much, so I continued on. There are 3 secrets that I can't go into unless I use noclip to get into them. This means I can only get 20 out of 23 secrets in the level. 
+
+13 – Town of the Dead
+A nice little city level. I screwed up the infight with the mancubus and end up losing a bunch of health, but I made it through the rest of the level, no sweat. There was also a couple of demons that helped me out in punching a revenant.
+
+14 – The Portal
+This level is claimed to be pretty hard due to the lack of ammo in the map. However, this isn't a problem as I had gathered ammo from all the previous maps to make up for that. Didn't hurt to use tysoning strats though.I decided to leave the berserk for if I somehow had less than 100% health after the yellow key and I end up chainsawing demons. In one of my attempts, a funny thing happened in the final area where I was shooting a chaingunner, an arch-vile blasted me and it went into an intercepts overflow and it went into noclip and ended my run.
+
+15 – Last Resort
+A bit of a confusing level; sometimes I forget how to open something and end up wasting a bit of time because of it. However, that didn't happen here. I ended up getting the berserk a bit early and ended up getting health blown by the chaingunner. I was also a bit slow with the pain elementals as I didn't want lost souls everywhere. My strat for the secret exit is to fire one or two SSG shots at the vile (3 might kill him) and then after the jump, finish him with rockets.
+
+31 – Doorway to Quake
+A good recreation of E1M6 from Quake, hence the title. Kept taking a lot of health in the blue key area by the chaingunners. If only they didn't react as much. I've also noticed in normal Doom, there's coverage surrounding the hole to that area. However, in GLBoom, that doesn't happen. Just kind of an oddity.
+
+32 – Bitter Herb
+Another trivial level with a bunch of cacodemons. Tried executing the -fast strat for this level, but failed and ended up killing the arch-viles the hard way. 
+
+16 – Escape From Chaos
+This level is where I start to forget things. 3 minutes in, I remember a secret I forgot to get at the start and I end up wasting a bit of time. I also did a terrible job punching those demons. I also forgot to press the button leading to the red key area.
+
+17 – Dens of Inquity
+For some reason, I'm really slow at this level. I guess it's because I keep ignoring it when I try to do the -fast for this level which I doubt I'll ever do. In the soulsphere area, I had an invalid run where I forgot to go into the alcove where a sergeant was and ended up wasting 90 more minutes of my life. The good thing about it was before, I had a 91:xx and now I have a 87:xx. I also had a failed attempt where I shot the revenants with my rocket launcher and came down but demons were in my way....splat.
+
+18 – Base of Thorn
+Pretty easy level with all the arsenal acquired. The part where I plasma all the imps and sergeants isn't as hard as you'd think. I had quite a bit of difficulty with the BFG secret, but how I made it out I'll never know.
+
+19 – Skinny Puppy
+Pretty easy since I have the -fast record for this. I also have a bunch more rockets than I really need. Things are made easier with the BFG in hand, as well. 
+Somehow I crossed a teleport linedef in one of the areas and lose a couple of seconds.
+
+20 – The Forsaken Hall
+A nice, short level to end off the run. Probably wouldn't be slow if I wasn't checking for stray enemies and trying to kill off the lost souls.
+
+Author: Revved

@@ -1,0 +1,20 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2252239.lmp
+Skill and Style: 4 (UV -fast)
+Map Level: MAP25
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    105%
+  Items     84%           *********
+  Secrets  100%  and Time * 22:39 *
+                          *********
+
+
+==============================================
+
+If I recall correctly, Andy Olivera requested this one last year.
+It's maybe not as exciting as mm28 -fast, though (not done yet).
+First exit, and this one was quick, so yeah, not a quality demo,
+it's even slower than Migru's UV Max.

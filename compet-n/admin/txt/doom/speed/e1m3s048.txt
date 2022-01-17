@@ -1,0 +1,39 @@
+This is a DooM .LMP "COMPET-N/doom/speed" Entry - Please forward it...
+
+E1M3s048.TXT
+
+ E1M3s048.ZIP
+
+  E1M3s048.LMP - Ultra Violence
+
+  Recorded using Ultimate DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Map 3 - Toxin Refinery (Secret Exit)
+
+  Kills      ??%
+  Items      ??%
+  Secrets    ??%  and Time  00:48
+                            -----
+ 
+Description:  
+             I'm not faster than Anders, but I do have a couple of tricks
+             up my sleeve.
+
+             Tricks to make it go faster:
+             The 2nd room barrel trick, I find more enemies get killed
+             if you run through, turn and shoot the barrel you passed,
+             then turn and shoot the barrel in the alcove.  I actually
+             tend to shoot the shotgunner in-between because he hurts you
+             pretty bad, it's hard to do a complete 180 in one shotgun
+             reload, and because it allows the imps to gather around the
+             barrel more.
+
+             Revised ending, which I screwed up anyway.  Ideally, hit the
+             center/right barrel, and go through the trail of guts, shoot
+             the blocking imp and exit.
+
+             Close enough.  Anders, I expect at least a :45 on this.
+
+Andy Kempling
+aurikan@hotmail.com

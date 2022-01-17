@@ -1,0 +1,250 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30NM5839.TXT
+
+ 30NM5839.ZIP
+
+  30NM5839.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+
+        Time
+
+  MAP01 0:38
+  MAP02 1:45
+  MAP03 1:09
+  MAP04 1:23
+  MAP05 1:31
+  MAP06 3:47
+  MAP07 2:01
+  MAP08 1:46
+  MAP09 2:05
+  MAP10 1:29
+  MAP11 1:35
+  MAP12 1:58
+  MAP13 2:43
+  MAP14 2:26
+  MAP15 1:18
+  MAP31 0:44
+  MAP32 0:37
+  MAP16 0:43
+  MAP17 3:10
+  MAP18 0:42
+  MAP19 1:25
+  MAP20 1:49
+  MAP21 1:38
+  MAP22 2:06
+  MAP23 2:17
+  MAP24 4:33
+  MAP25 1:39
+  MAP26 1:29
+  MAP27 1:54
+  MAP28 1:29
+  MAP29 3:43
+  MAP30 1:07
+--------------
+  
+ TOTAL 58:39
+
+    
+  Description:
+  
+  I'm quite glad to have done this, even though the time isn't very good by
+  today's standards. I wanted to do a "safe" 30nm to get comfortable with the
+  maps; maybe eventually I will try to produce a competitive 30nm with quicker
+  routes.
+  
+  I started playing nightmare in early 1996, after seeing a e1nm and a 12nm,
+  both by Steffen Winterfeldt. I thought they were great runs, and I was
+  particularly impressed by his style, which involved a lot of walking and
+  regular shotgun.
+  
+  Of course, back then I was mostly into deathmatch, and nobody I knew really
+  cared about single-player. Nonetheless, I thought nightmare play could help
+  improve my movement and aim, so I gave it a shot. After a while, I managed a
+  e1nm of my own (I deleted the lmp a long time ago, hehe), and a 13nm (I had
+  access to Winterfeldt's 30nm6520 by then, and was following his routes).
+  
+  Then I stopped playing doom altogether for roughly 5 years. I started again
+  in late 2001, and figured I should get back to nightmare play. I got to map14
+  again after a while.
+  
+  More recently, I reached map15 for the first time (this was on 2002-02-16).
+  That motivated me, and I started studying the maps/routes more seriously, and
+  using FILLUP.WAD. The next time I tried a run from scratch, I got to map22
+  (2002-02-27). I made it to map23 later the same day, and after a few more
+  tries I reached map29 twice (2002-03-02).
+  
+  I talked a bit with Andy and Henning about map29, and various things were
+  suggested... I watched Panter's, Vince's, and Adam's 30nm runs to study the
+  map29 handling. After a while I decided that this route was safest for me,
+  and practiced it a lot.
+  
+  Now I got this run. This time I pressed alt-tab after map28, to relax for a
+  few minutes, and to visualize the map29 route. I got lucky and both map29
+  and map30 were pretty much a breeze - I did fall in the archvile room in
+  map29, but no harm was done.
+  
+  Naturally, stuff went wrong in my first successful 30nm. I was even slower
+  than planned in episode 1, and in map13 I thought for sure I was dead (see
+  below for details). I can't really complain though, because map29 went easy
+  on me. :)
+  
+
+  Map comments:
+
+  MAP01: I take the armor to have an easier time in map02. Safety first. ;)
+         The imps in the armor room were refusing to cooperate this time. The
+         chainsaw is convenient to have for the last imp, and so you don't
+         pick it up in map28.
+  
+  MAP02: Quite easy with the armor from map01.
+  
+  MAP03: Very easy.
+         <sarcasm> You can see my brilliant ssg at the exit room. </sarcasm>
+         
+  MAP04: Easy if you exit map03 with lots of health/armor.
+  
+  MAP05: Sometimes you can lose health quickly in the exit room. :/
+         
+  MAP06: Sorry for the long wait at the plasma gun (I like to have it to get
+         the megasphere just before exiting). I tried some fancy shit with
+         the lift when taking the plasma gun, but failed miserably. :) Not
+         a big deal though. I also managed to miss the jump in the red key
+         room - that's something to be proud of.
+         
+  MAP07: This system is pretty consistent. I take all the invisibilities
+         early on and let them wear off while I run around firing ssg. That
+         way the arach fire is more predictable because I'm not invisible,
+         I can dodge without worrying about picking up a damn invis, and I
+         save some rockets/cells. I couldn't seem to hit the switches this
+         time.
+  
+  MAP08: I used to go do something else while the cyber and barons fought,
+         but once I was met by a lost rocket when I came back. So now I stay
+         there and wait. Usually I get 1:30 or so because the fight doesn't
+         last this long.
+         
+  MAP09: Routine; got to be careful in the yellow key room though.
+         
+  MAP10: Hurray for Winterfeldt's route here.
+         
+  MAP11: Quite easy with all the health/armor from map10. If you're not
+         careful, the archvile can get fancy and whack you as you go down
+         the stairs.
+         
+  MAP12: The exit room is difficult. Nice projectile dodging practice, hehe.
+         
+  MAP13: I had a fine plan here: clear the monsters near the blue door, and
+         leave the invul outside for later, to take the sphere before
+         exiting. I fell in the blue door room though, and got down to 7%.
+         I was about to press 'q', because I had to teleport to the red key
+         and those imps without the invul. Then I got this idea with BFG,
+         and it worked. I took the invul outside immediately because of low
+         health, and never got to take the supercharge. Oh well. :)
+         
+  MAP14: I used more cells than usual here to preserve my health. The way I
+         rush into the archvile room is safer than it looks, and then it's
+         quieter while I do the blue key room.
+  
+  MAP15: Because of abnormal cell usage in maps 13 and 14, I couldn't use
+         BFG at the blue armor/rad suit spot, at the invul, or at the
+         yellow key without awakening the monsters. Thus this map took a
+         bit longer than usual (usually 1:00 or so). After I exited, I was
+         back on track with the plan though.
+  
+  MAP31: Not a problem with over 100% armor from map15.
+         
+  MAP32: First pit stop.
+         
+  MAP16: Got to be quick to exit before the invul wears off.
+         
+  MAP17: Easy when you take the sphere and invis just before doing the
+         last area, and fire a few BFG shots when entering it.
+         
+  MAP18: I didn't even bother trying the invul grab, hehe.
+         
+  MAP19: About the only trick that made it into my run. After that it's
+         easy, but there's no time to waste.
+         
+  MAP20: I go all the way up there at the start to telefrag the pain
+         elemental. Then I'm left alone while I kill the other one.
+         
+  MAP21: Damn teleporter bug. Was on my way to a 200/200 exit. :\
+         
+  MAP22: Entering with a little less health isn't a big deal... Exiting
+         with high health/armor is what matters. I messed up my BFG timing
+         when leaving the red key room. I also fumbled a bit with the exit
+         switch. I usually exit in better shape than this.
+         
+  MAP23: It's good to have lots of cells here. That way you can use plasma
+         on the barrels from afar on the pain elemental ledge; use BFG on
+         the revenant/archvile group; etc. They hurt me a lot this time,
+         but I didn't really mind, as long as I killed them fairly quickly.
+         I didn't want them to respawn in my back.
+  
+  MAP24: My route is really boring, but I exit with close to 200/200 almost
+         every time, even if I enter with close to 0/0. The caco at the
+         backpack was annoying throughout: respawned early, and then hid to
+         the right of the ledge when I was coming back with invul. I find
+         this map a lot easier without -record, because of the finer mouse
+         control.
+         
+  MAP25: Not so bad if you enter with high health/armor. Exiting with >50
+         health is all you can ask for, in my opinion. You get two medikits
+         at the beginning of map26 anyway.
+         
+  MAP26: This one is a bit difficult. I unexpectedly ran out of BFG shots
+         for the baron at the yellow key. Luckily he didn't get in the way.
+         
+  MAP27: That was the second time the teleporter to blue door didn't work
+         in a 30nm attempt. This time I was prepared. :)
+         
+  MAP28: Second pit stop.
+         
+  MAP29: This is certainly the most difficult map of the whole run. I'm
+         pretty satisfied with the route, and with how things turned out
+         during the actual run. I used to kill the cacos with BFG from the
+         switch ledge, avoiding the sphere to save it for the last room.
+         This proved too difficult to do in an actual 30nm though (I found
+         out in my first 28nm), so I killed them with rockets from below
+         instead. When stuff teleports in from the other ledge, I just
+         move away and kill it without changing weapons. There are lots of
+         medikits in that area anyway.
+         
+         I left the blue armor and the sphere for as late as I could,
+         spamming BFG to get to the sphere safely. Then I'm sure the caco
+         thought he was being funny when he blocked the last doorway. :P
+         The baron was a team player and tagged along with some more
+         "funny" stuff that came close to hitting me. I passed through
+         pretty much unharmed though.
+         
+         The last room is a true challenge. Killing the last two barons
+         from the lava worked great though. I was pretty confident of
+         exiting after that, having lots of health/armor.
+         
+  MAP30: Went really well.
+  
+  
+  Acknowledgements, and stuff:
+  
+  I plagiar... I mean, analyzed as many routes as I could from other
+  players. I studied Winterfeldt, Henning and Vince the most. Special
+  thanks to Henning and Andy for some cool suggestions and for being so
+  damn positive all the time. Also thanks to everyone who said it could
+  be cool to see a 30nm from me, or just supported me in my endeavor.
+  And also thanks to the #nightmare people, and the whole single-player
+  community, who keep raising the bar in terms of demo quality.
+  
+  If you've read this far, thank you, too. :)
+  
+  Finally, thanks to Xenos for getting me back into Doom in late 2001.
+  Be well, man.
+  
+  
+  Ian Sabourin (Sslasher) D2S
+  iansabourin@sympatico.ca

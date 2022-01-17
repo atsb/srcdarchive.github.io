@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom/coop/nightmare" entry, please forward it.
+
+c4s7-013.txt
+
+ c4s7-013.zip
+
+  c4s7p013.lmp
+  c4s7s013.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m7 - And Hell Followed
+
+              Kills    Items   Secrets
+
+  SlagDooM      5%       5%       0%      
+  Python        7%       0%       0%      
+
+  Time:    0:13.65
+
+
+Python:       Why did slag shoot me on hiz way back?? :)  
+              strafe 40??? what strafe 40?? I had strafe 70. :)
+
+SlagDooM:     Sometimes you have to make things a little more exciting. :)
+              Anyway, nice coop action, but still too slow, compared to the solo record.
+     
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

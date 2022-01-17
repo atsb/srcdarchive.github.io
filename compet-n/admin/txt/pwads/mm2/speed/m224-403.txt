@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M224-403.TXT
+
+ M224-403.ZIP
+
+  M224-403.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+  Memento Mori II - Level 24 - Io Lab
+    
+  Kills      68%
+  (Items     31%)          ********
+  Secrets     0%  and Time * 4:03 * 
+                           ********
+                          
+
+  Description:   
+
+  This is my first contribution to COMPET-N.
+
+  I was going for the max category, but it started to become a
+  bit frustrating for a newbie like me, so I left it aside and
+  took up speed, which doesn't have any submissions. Plus it
+  helped since the start is pretty much the same for both
+  categories, because you have to clear the beginning, which
+  is monster packed. I'm no expert but this run seems to require
+  some luck; if monsters aren't cooperative (particularly the
+  Barons from the central room and the Pain Elementals outside)
+  it's no good. Now I think I'll go back to trying max again.
+
+  By the way, this map seems to be based on Birkel's map in
+  01SHIT.ZIP, that he states is something that was left in his
+  harddrive after he lost mapping inspiration, so I was wondering
+  if he joined the MM2 team to finish it. The map has a start
+  area that's much like FAVA's E1M7.
+
+  Miguel "myk" Folatelli
+  myk@helnyte.zzn.com

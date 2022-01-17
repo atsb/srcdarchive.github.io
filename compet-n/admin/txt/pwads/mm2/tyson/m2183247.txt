@@ -1,0 +1,26 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2183247.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP18
+Exe/Port used: Doom2 1.9
+
+  Kills    105%
+  (Items    75%)          *********
+  Secrets  100%  and Time * 32:47 *
+                          *********
+
+
+==============================================
+
+42th time I reached the Berserk
+23th time with the red key
+10th time past the arch-vile
+2nd time with the blue key
+1st exit
+
+Well, it's similar to MAP07 in the way there is a berserk pack in the middle
+and many areas have to be visited more than once. However, this level is MUCH MORE
+difficult Tyson-style because there is no armor. This basically means, with mancubi,
+revenants and hell knights, that the player is constantly one or two steps away from death.
+vdgg

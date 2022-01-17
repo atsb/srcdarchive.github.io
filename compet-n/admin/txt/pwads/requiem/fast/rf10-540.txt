@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RF10-540.TXT
+
+ RF10-540.ZIP
+
+  RF10-540.LMP - Ultra Violence with fast monsters !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 10 - The Black Gate
+
+  Kills    100%
+  (Items    44%)          *********
+  Secrets  100%  and Time * 05:40 *
+                          *********
+                          
+
+  Description :
+    
+               Except the beggining this is an easy map.
+
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

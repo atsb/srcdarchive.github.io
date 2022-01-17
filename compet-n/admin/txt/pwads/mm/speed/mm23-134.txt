@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+MM23-134.TXT
+
+ MM23-134.ZIP
+
+  MM23-134.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 23 - Showdown
+
+  Kills     38%
+  Items     50%           ********
+  Secrets    0%  and Time * 1:34 *
+                          ********
+
+  Description :-)
+
+  BFG fun :) Trick and route is more or less straight
+  from Drew's demo, though I decided to fight my way
+  through the demon horde at the end instead of
+  manouvering around them pacifist style.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

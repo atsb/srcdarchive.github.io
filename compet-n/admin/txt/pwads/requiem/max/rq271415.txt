@@ -1,0 +1,33 @@
+This is a Compet-N Entry
+------------------------------------------------------
+Filename : RQ271415.LMP
+Game     : Requiem
+
+Map      : MAP27: Cursed Kingdom
+Category : UV-Max
+Client   : DOOM2.EXE V1.9
+
+Player   : GuyNamedErick
+Email    : guynamederick@gmail.com
+
+Time     : 14:15
+Date     : 1-1-2019
+
+Description: Surprised nobody thought of replaying this map or anything,
+I think this is one of the better maps in the WAD and is one of my
+favorites. Now going under 15 minutes was definitely possible, and with
+my run here, going under 14 minutes should also be possible! Being a
+long map, I sometimes forget where I was supposed to go or do which is
+funny since it is actually pretty linear.
+
+I got some good infighting going in some places, some a little tricky to
+pull off while others are not too difficult to do. Ammo is tight so use
+shells and cell ammo well, same for rockets. Don't mind bullets too
+much, there's plenty on this map. Sometimes it might be better to forget
+trying to make the monsters fight each other and just kill them
+outright, assuming they are spending too much time wandering around.
+Going for multiple kills with the BFG is one way to improve, I kind of
+wished it was done better here in some spots. I might go back to this
+map at some point.
+
+Happy New Years!

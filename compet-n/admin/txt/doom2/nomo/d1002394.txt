@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+10	23.94	Read no102394.txt (can be found in loopnomo.zip)
+
+
+Author:		Looper

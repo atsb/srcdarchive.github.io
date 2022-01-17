@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+E22N-019.TXT
+
+ E22N-019.ZIP
+
+  E22N-019.LMP - NightMare!
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 22 - "Habitat"
+
+  Kills      1%
+  (Items     5)
+  Secrets    0%  and Time  00:19
+                           -----
+
+
+Description: Not much to say... really.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

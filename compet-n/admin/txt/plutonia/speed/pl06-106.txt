@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+PL06-106.TXT
+PL06-106.ZIP
+
+PL06-106.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 06 - Baron's Lair
+
+Kills     25%
+Items     25%
+Secrets   16%
+Time     1:06
+         ----
+
+Description:
+My 8th entry.. strange, not a single baron to be found here..
+
+I'm very pleased with this demo because I got it on the 5th try. :)
+The revenants at the end behaved perfectly.
+
+Author: stx-Vile (stx is the Stickmen, one of the best Quake 3 clans today.
+Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com
+

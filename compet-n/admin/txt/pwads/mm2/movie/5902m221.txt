@@ -1,0 +1,121 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: 5902m221.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAPS 21-30
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    n/a
+  Items    n/a          *********
+  Secrets  n/a and Time * 59:02 *
+                        *********
+
+
+==============================================
+
+A rather early first exit (the first time I finished MAP26) and
+not-very-stunning performance, but IT IS DONE!!!
+I had enormous luck in MAP22 and even more in MAP28.
+
+Credits:
+I think I watched all the demos related to maps 21-30 from MM2.
+The ones which I found particularly useful:
+
+m221-201 by Xit Vono (Speed)
+m221-216 by Eugene Kapustin (Speed)
+m222-554 by Eugene Kapustin (Speed)
+m223-252 by Eugene Kapustin (Speed)
+m224-403 by Miguel Folatelli (Speed)
+m224-542 by Eugene Kapustin (Max)
+m226-305 by Method (Speed)
+m2281413 by stx-Vile (Max)
+
+
+
+      +--------------------------+-----------------+
+      |        Single level      |  Cummulatively  |
++-----+--------+--------/========+========\--------+
+|     | Pistol |   My   |        |        |   My   |
+|Level|  start |  best  |  This  |  This  |  best  |
+|     | record |  time  |   run  |   run  |  time  |
++-----+--------+--------|--------+--------|--------+
+|  21 |  2:01  |  3:03  |  3:05  |  3:05  |  3:03  |
+|  22 |  5:54  |  8:26  |  9:19  | 12:24  | 11:29  |
+|  23 |   :05  |  4:31  |  4:31  | 16:55  | 16:03  |
+|  24 |  4:03  |  5:07  |  5:07  | 22:02  | 21:41  |
+|  25 |  5:17  |  6:59  |  7:02  | 29:04  | 28:40  |
+|  26 |  3:05  |  5:16  |  5:16  | 34:20  | 34:20  |
+|  27 |   :24  |  1:48  |  1:48  | 36:08  | 36:08  |
+|  28 |   -    | 10:46  | 10:46  | 46:54  | 46:54  |
+|  29 |  4:25  |  9:25  |  9:25  | 56:19  | 56:19  |
+|  30 |  1:04  |  2:43  |  2:43  | 59:02  | 59:02  |
++-----+--------+--------\========+========/--------+
+
+
+
+
+MAP21 Difficulty: medium/hard, performance: :)
+
+The episode starts slightly easier than m211, I enjoy it while I can :)
+The good thing was, I didn't take any damage from the arch-viles.
+I somehow spoiled the ending with the cacos, but still the time is
+rather good.
+A sidenote about the BK shortcut: in my opinion it is not intentional.
+I think Andy Badorek assigned an Action to the linedef in the
+testing phase and later forgot to delete it.
+
+MAP22 Hard :(
+
+I lost plenty of time due to a baron standing on the BK ledge. I was
+also unlucky with the moving platform. This is the most difficult level
+of the episode, I think.
+
+MAP23 Medium :)
+
+I remember watching Eugene Kapustin's speed demos with real amazement.
+I expected it to be a very tough map, but surprise! it is very
+straightforward and almost nothing can go wrong here. The only thing
+I am unhappy with is the number of cells left at the exit...
+
+MAP24 Easy :|
+
+...because I like to clear the first room with the BFG. It's my best
+time, but still it is very slow.
+
+MAP25 Hard :|
+
+Yeah, a rather cautious play here, but why bother with all the revenants
+if one BFG shot kills nearly all of them? I like the cyber escape.
+
+MAP26 Medium :(
+
+My least favourite MM2 map. Can you see it by the way I play it? No
+arch-vile jump, sorry, I have trouble with this one. A very bad
+ammo management cost me a lot of time in the silver room (arachnotrons,
+cacodemons and sergeants).
+
+MAP27 Easy :(
+
+STUPID STUPID SWITCH!!! I lost plenty of health, ammo and time here.
+WATCH IT AT YOUR OWN RISK!
+
+MAP28 Hard :(
+
+The first thing which makes me laugh at: the crates room. Oh my, it
+is so funny I don't even feel ashamed of my performance here.
+And the penultimate room. 2% health...
+
+MAP29 Hard :|
+
+A real struggle. I decided to play cautiously... only to get shot
+by a sergeant right at the start. Then I chose the wrong teleporter
+(not the one with green armor). I would give it a :(, but at least
+the only successful arch-vile jump is present here.
+
+MAP30 Easy :(
+
+Yeah, slower than UV Max. 9 BFG shots needed to kill the cyberdemon.
+Is this how I play normally?
+
+

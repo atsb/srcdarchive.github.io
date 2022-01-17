@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM05r554.TXT
+
+MM05r554.ZIP
+
+MM05r554.LMP - Ultra-Violence -respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 05 - Hell's Kitchen
+      
+Kills      115%
+Items       97%
+Secrets    100%
+
+              ********
+  and Time -  * 5:54 *
+              ********
+
+
+Description:
+
+Nothing too difficult, needed something to relieve stress on so I opened
+up Memento Mori and decided to do a -respawn demo. Lots of shotgun action
+all the way though ^_^
+
+I know there's some overkill, but this is one of those maps you gotta
+guess at how many you've killed...it's a very nice Memento Mori map
+
+This demo crashes in timer.exe at 2:31 into the demo ^^'
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+19.09.2002

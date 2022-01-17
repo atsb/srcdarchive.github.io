@@ -1,0 +1,11 @@
+Competition:     Coop-N (members.xoom.com/coop-n)
+Game:            DooM ][
+Category:        Nightmare Speed
+Map:             02
+Players:         2
+
+Time:            0:51
+
+Player1:         Patrick "BauM" von Massow
+Player2:         Arno "SlagDooM" Slagboom
+

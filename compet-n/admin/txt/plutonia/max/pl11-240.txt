@@ -1,0 +1,58 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PL11-240.ZIP
+
+ PL11-240.LMP
+
+  PL11-240.TXT -Ultra-Violence MAX
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 11 - Hunted
+
+  Kills:  14 / 18 (77%)
+  Items:  14 / 16 (87%)            ********
+  Secrets: 1 / 1  (100%) and Time  * 2:40 *
+                                   ********
+  C-N entry #27.	Date:03/09/2012
+
+  Description :)
+  Insane SR50, but it's virtually impossible to get on record on this map
+  without using it extensively. I've been playing this map for a while
+  trying to bring my PL11-241 down since it's 7 seconds slower than the
+  UV -FAST record. I got a time of 2:37 but somehow, the secret didn't
+  register so I'll have to settle for 2:40 for now.
+  
+  I think 2:32 is realistically possible without tool-assistance, but it
+  would be very difficult and require not getting stuck while using SR50 and
+  each Arch-Vile would have to die in four shots and you better not miss a
+  shot if you want this time. I'll keep playing this map till I get a 2:37
+  or lower, but 2:32 is for sure possible - but not by me... yet.
+  
+  I wonder if anyone, besides my self, will beat one of my Plutonia map 11
+  entries... PT11-420 is easily beatable, the rest, not so much.
+  								
+  								
+  By the way, COMPET-N record was 2:41 by me, timestamped:
+  Wednesday, February 15, 2012, 4:49:47 PM
+
+  Complete Historic COMPET-N Leaderboard:
+  PL11-828 - Kai-Uwe Humpert - 10/12/1996
+  PL11-315 - Kai-Uwe Humpert - 03/26/1997
+  PL11-252 - Radek Pecka     - 03/28/2002
+  PL11-250 - Xit Vono        - 06/12/2006
+  PL11-246 - Archy           - 11/18/2009
+  PL11-244 - Archy           - 12/22/2011
+  PL11-241 - Archy           - 02/15/2012
+
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

@@ -1,0 +1,22 @@
+EV07-057.TXT
+
+ EV07-057.ZIP
+
+  EV07-057.LMP - UV - Speed
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 7 - Prison
+
+  Time  00:57
+
+
+  Description: I've slightly optimized Ilya Britvich's time (59s)
+               and my old time (1:04!).
+               I think it could be more optimized (55s or less possible?).
+
+  Author:      Vincent "PerOxyd" Catalaa
+
+  E-mail:      bernard.catalaa@wanadoo.fr
+

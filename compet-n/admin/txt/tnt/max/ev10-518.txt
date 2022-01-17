@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+EV10-518.TXT
+
+ EV10-518.ZIP
+
+  EV10-518.LMP - Ultra Violence
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+  Final DooM - TNT Evilution - Level 10 - Redemtion
+
+  Kills    100%
+  (Items   100)
+  Secrets  100%  and Time  05:18
+                           -----
+
+
+Description: It's long ago since I played this level. Was it this
+             one where I left with 200 cells? Silly, isn't it? :)
+
+             Only an initial entry, hope there will be improvements.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

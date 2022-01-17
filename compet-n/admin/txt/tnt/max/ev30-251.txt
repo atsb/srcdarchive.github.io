@@ -1,0 +1,31 @@
+This is a Doom .LMP "COMPET-N/FDOOM/TNT/MAX" Entry - Please forward it...
+
+EV30-251.TXT
+EV30-251.ZIP
+
+EV30-251.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 30 - Last Call
+
+Kills    103%
+Items    100%           
+Secrets  100%  
+
+   ...and Time  2:51
+               ------
+
+
+Description: Hey! Here's another TNT: Evilution map that sucks! Why the hell
+	     would id Software wanna release this piece of shit as one half of
+	     Final Doom? And what's the deal with those monsters outside the
+	     windows in the end? Were they gonna make it harder for you to get
+	     through? Damn this crappy .wad pisses me off.	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

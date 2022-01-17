@@ -1,0 +1,57 @@
+This is a Doom "COMPET-N/doom/speed" entry. Please forward it...
+
+E1M3s101.TXT
+
+ E1M3s101.ZIP
+
+  E1M3s101.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 1 - Knee-Deep In The Dead
+  Map     3 - Toxin Refinery (Secret Exit)
+
+  Kills     26%
+  (Items    23)
+  Secrets   57%  and Time  01:01
+                           -----
+
+
+Description: You have more time to kill all the imps & sergeant at the
+             (first) secret route button than in the normal exit route
+             when speeding. But it is difficult to survive the way to
+             the secret exit lift button, and not to be blocked there.
+             If you kill the pig, the sergeant and imp first, you lose
+             around ten seconds - Too much for speeding. I have not
+             seen Uwe's old 1:07 .LMP so I tried this as I thought it
+             would be the best way. It is more frustrating than the
+             normal exit speed route because if the pig gets in your
+             way the time will suck ... In the normal exit route you
+             know you die because you missed a sergeant. By the way,
+             it was the 3rd or 4th .LMP of all I reached the exit.
+
+             I wrote this first - as I got a 1:03 - then I tried to
+             -PlayDemo the .LMP and I saw a nightmare... I had not
+             recorded it ! It was still " doom -warp 1 3 -skill 4 ",
+             with some control-e after it, so I didn't notice I hadn't
+             typed in " record e1m3- "... What a nightmare ! So I had
+             to sit down for another session. Tried, tried and tried.
+
+             Changed my route, to prevent getting blocked, a little.
+             In the 1:03, I managed to kill the sergeant then blow
+             away the barrel and escaped through the gap. This time
+             I hoped the sergeant wouldn't shoot, therefore the pig
+             stood still near the barrel, which I hit fortunately and
+             the way was free. I think it is a quite good time, even
+             Uwe's old time is a very good one...
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

@@ -1,0 +1,26 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq29-507.lmp & rq29-507.txt
+Date     : 2013-04-07 01:54
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV Speed
+Map(s)   : Map29: Downer, by Adam Williamson
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    :  35%
+Items    :  58%
+Secrets  :  50%
+Time     : 00:05:07.71
+===================================
+Description:
+
+Credits to Xit Vono for his run.
+
+===================================

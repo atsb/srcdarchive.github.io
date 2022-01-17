@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR11-348.TXT
+
+ RR11-348.ZIP
+
+  RR11-348.LMP - Ultra Violence with respawn monsters!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 11 - Rats in the Walls
+
+  Kills    122%
+  (Items    50%)          *********
+  Secrets  100%  and Time *  3:48 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is a relatively hard map to play -respawn style.
+  The best style is to get all the secrets right away, and
+  when you get the red key, run as quickly as possible to the
+  exit before all the monsters teleport.  The obvious
+  question is whether it can be done in Nightmare, and I
+  think it would probably be very hard, but I should be able
+  to do a TAS recording.
+  
+  Xit Vono
+  xit_vono@yahoo.com

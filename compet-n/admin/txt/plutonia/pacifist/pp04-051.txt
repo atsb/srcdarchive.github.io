@@ -1,0 +1,22 @@
+This is a DooM .LMP "Competition" Entry
+
+PP04-051.TXT
+PP04-051.ZIP
+
+PP04-051.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final Doom - Plutonia Experiment - Level 04 - Caged, PACIFIST style
+
+Time     0:51
+         ----
+
+Description:
+
+Didn't think my other time was good enough, then logged on to ftp and noticed
+someone else had a pp04 there. Well, this is faster, so ner. :)
+
+Author: Adam Williamson
+E-mail: adam.williamson1@btinternet.com

@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+cf29-907.TXT
+
+ cf29-907.ZIP
+
+  cf29-907.LMP 
+
+  Recorded using Doom Version 1.9
+  Doom -file class_ep.wad -playdemo with version 1.9
+
+  Classic Episode – E2M9 – UV Fast
+
+Well, that's the Classic Episode -Fast table finished. Definitely played a lot slower than I could've been, but since nobody's going to ever improve it, I'm fine with this.
+
+Author: Revved

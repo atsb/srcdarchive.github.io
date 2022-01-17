@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        NM Speed
+Map:             e3m1
+Players:         2
+
+Kills:           50%
+Secrets:         0% 
+Time:            0:47
+
+Green:           Marko "Python" van der Want
+Indigo:          Arno "SlagDooM" Slagboom
+
+Comments:        Little improvement, next time with BauM-trick.

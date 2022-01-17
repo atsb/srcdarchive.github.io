@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c1p2c030.TXT
+
+c1p2c030.ZIP - Coop UV pacifist
+
+c1p2e030.LMP - Eugene - Green
+c1p2s030.LMP - Sergey - Indigo
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 1, Map 2 - Nuclear Plant
+      
+Kills        0%
+Items        2%
+Secrets      0%	
+
+Kills        0%
+Items        2%
+Secrets      0%	
+
+and Time - 0:30
+
+
+Description:
+
+We have luck with the exit room imps.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+24.11.2006

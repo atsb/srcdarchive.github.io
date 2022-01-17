@@ -1,0 +1,29 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : r1m9-207.txt, r1m9-207.lmp
+Date     : 2013-08-17 11:00
+Game     : Ultimate Doom
+Client   : doom.exe v1.9
+Category : Respawn
+Map(s)   : E1M9: Military Base
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Mate Crncevic
+Nickname : Relic
+Country  : Australia
+Email    : mate.crncevic@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 23%
+Secrets  : 100%
+Time     : 00:02:07
+===================================
+Description:
+
+This is my first ever C-N entry! I can't believe I actually managed to beat a record on the database at all and it's not even a pwad! The reason I even attempted the run in the first place is because I saw the original run time of 02:15 by Radek Pecka uploaded onto the C-N youtube channel. It looked like it desperately needed an update so I attempted to beat it. My run isn't the best either, but I beat the original record by 8 seconds so I'm pretty proud of that.
+
+Anyway, the run took me over 4 days to complete, most attempts that were made never even made it out of the first room. It was either I didn't kill the shotgun guy near the yellow key or I just couldn't move because there were too many enemies were in my way. On the odd run that I made it out of there without it looking too messy, the rest wasn't too hard. The only things I found difficult was keeping alive towards the end as countless enemies were spawning. Making the strafe jump to the exit was hard too, but it seemed more like luck to me. I had many attempts where I had gotten under 2:05, but I kept getting 99% kills so I would say that under 2 minutes is definitely possible.
+
+
+

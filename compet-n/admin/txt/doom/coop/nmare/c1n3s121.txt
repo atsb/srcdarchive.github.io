@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop nm speed
+mission:  e1m3 - secret exit
+
+time:     1:21
+
+Vincent: played rather safe
+
+xit-vono: Not too bad i guess.
+
+
+          

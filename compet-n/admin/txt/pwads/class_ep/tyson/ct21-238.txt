@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CT21-238.TXT
+CT21-238.TXT
+CT21-238.ZIP
+
+CT21-238.LMP - Ultraviolence!
+  
+This is a Compet-n/Doom/pwad entry.  
+
+Recorded using Doom Version 1.9 !
+Doom -PlayDemo with Version 1.9 - Only
+
+Doom - class_ep.wad e2m1 done Tyson style.
+
+---------------
+
+     -------
+
+  Kills    100%           
+  (Items    64%)          |--------|
+  Secrets  100%  and Time | 02:38  |
+                          |--------|
+
+     -------
+
+Map description
+-------------------
+e2m1: class_ep is small Doom1 stiele map with buenches shotgun guys.
+The shotgun guys made finnishing map hard for compleat on Tyson, 
+just a couple shots from them and dead.
+
+-------------------       
+
+Description: Hiya folks, I not played COMPET-N in a while. And I saw
+this pouints from ZIT-VONO. class_ep is noit bad it just like DOOM1.
+
+Date: November 14, 2002
+
+Author: Ranjo "Mummi" Kahluff
+E-mail: ranjo@doom2.net

@@ -1,0 +1,44 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV21NET2.TXT
+
+ UV21NET2.ZIP
+
+  UV21NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 21 - Nirvana
+
+           Kills    Items   Secrets
+
+  Green      28       44        0
+  Grey       47       50        0
+
+  Time:    2:46  Approx.
+
+
+Comment:        Where is the plasma gun or the refreshing shell box.
+                OK, I missed the Imp 3 times, shame on me.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+
+---------------
+Admin note... more than two years after the demo was made :)
+
+When checking this demo by inserting a SG1 tic before the demo ends and
+loading the savegame i found two living Lost Souls.  Nothing wrong with
+that but one has a very strange behavier, it shouts like a Demon! Huh??
+
+Time is actually 2:44.00
+

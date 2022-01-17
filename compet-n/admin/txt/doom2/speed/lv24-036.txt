@@ -1,0 +1,126 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV24-036.TXT
+
+ LV24-036.ZIP
+
+  LV24-036.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 24 - "The Chasm"
+
+  Kills      0%
+  (Items     0%)          *********         !!!!!!!!!!!!!
+  Secrets    0%  and Time * 00:36 *         ! NEW TRICK !
+                          *********         !!!!!!!!!!!!!
+
+  Description :-)
+
+  :))))))))))))))))
+  
+  This pretty damn cool trick was found by Adam Williamson
+  and myself.
+  
+  That's right, we found the trick in teamwork, together :)
+  
+  I hope AdamW doesn't mind if I paste here the magic moment:
+  (also to clarify how the hell we discovered it together)
+  
+  [21:37:42] <Adam_H> I did all 3 rj's now in normal play
+  [21:38:14] <Adam_H> the one in map24 from the teleporter to the exit is weird
+  [21:38:31] <AdamW> yeah, i've done it
+  [21:38:31] <Adam_H> I suspect it uses a bug which isnt yet understood how it works
+  [21:38:37] <AdamW> it's very strang
+  [21:38:51] <AdamW> i think it might actually be a bit of reverse-angle wallrun...
+  [21:38:51] <Adam_H> because the gap is 256 units... and the velocity there isnt high at all
+  [21:39:05] <Adam_H> so it should be technically impossible, w/o the wall
+  [21:39:24] <AdamW> try making a modified version of the level, take out both teleporter pads,
+                     and run along the wall at a rj angle...see if you get a wallrun speedup
+  [21:39:40] <Adam_H> I dont think its a wallrun... just doesnt feel like it
+  [21:40:17] <Adam_H> that wouldnt help much imo regarding distance
+  [21:40:43] <Adam_H> biggest RJ I got is 242 units... using backwards wallrun
+  [21:40:56] <AdamW> hmm yeah
+  [21:40:59] <AdamW> very weird
+  [21:41:19] <Adam_H> in the tas demo... the time in midair is not noticeable
+  [21:41:37] <Adam_H> you cant even see the player hanging in midair
+  [21:42:07] <Adam_H> it looks "as if" there is a 1 unit ledge alongside the wall
+  [21:42:13] <Adam_H> but there isnt
+  [21:45:10] <AdamW> v. weird
+  [21:45:27] <AdamW> so maybe it'd work even without a rocket...? :)
+  [21:45:36] <AdamW> man, that'd piss sedlo off. heheheheh.
+  [21:45:52] <Adam_H> OMFG!
+  [21:45:58] <Adam_H> I just removed the teleporters
+  [21:46:03] <Adam_H> guess what I managed
+  [21:46:10] <AdamW> you did it without a rocket?
+  [21:46:13] <Adam_H> yep
+  [21:46:17] <AdamW> ehehehehehh.
+  [21:46:21] <AdamW> now try it with the porters in...
+  [21:46:39] <Adam_H> hmm
+  [21:46:54] <Adam_H> my suspicion is that the drag effect comes in if you reach a certain velocity
+  [21:47:14] <Adam_H> lemme see tho
+  [21:48:13] <AdamW> yeah i agree
+  [21:48:22] <AdamW> what if you try it after teleporting back?
+  [21:48:33] <AdamW> so you can use the 64 units of the teleporter space, too?
+  [21:48:52] <Adam_H> thats even worse somehow... I couldnt manage the rj that way at least
+  [21:49:02] <Adam_H> somehow the drop you make isnt helping you
+  [21:50:12] <AdamW> hmm
+  [21:50:26] <AdamW> if you put idclip on and look, the actual wall itself seems to be almost a very thin ledge
+  [21:50:40] <AdamW> i can't explain why i say that, but check it out yourself, you'll see what i mean
+  [21:51:01] <AdamW> put idclip on and do the trick, see what it looks like just inside the wall
+  [21:51:41] <Adam_H> hahaha
+  [21:51:46] <Adam_H> because the ledge is there!
+  [21:51:50] <Adam_H> check yer editor
+  [21:52:47] <Adam_H> the reason why you cant step on it... the wall on the side is impassible
+  [21:53:08] <AdamW> ohhhhhg
+  [21:53:09] <Adam_H> but as you do the RJ or the wallrun you seem to overcome this somehow and use the ledge
+  [21:53:23] <AdamW> v. weird
+  [21:53:26] <Adam_H> yeah
+  [21:53:44] <AdamW> now come on, let's figure this out. there's just gotta be a way of really pissing sedlo off
+             with this, somehow. =)
+  [21:53:46] <Adam_H> i dunno how i missed this before
+  [21:55:00] <Adam_H> hmz
+  [21:55:20] <Adam_H> well, i dunno how because speed is not enough and you're not able to step on it and stay there
+  [21:55:40] <AdamW> OH SHIT
+  [21:55:41] <AdamW> i just did it
+  [21:55:52] <Adam_H> you recorded?
+  [21:55:53] <AdamW> you don't HAVE to run along the wall
+  [21:55:55] <AdamW> no
+  [21:55:55] <AdamW> i'
+  [21:55:58] <AdamW> i'll try and record
+  [21:56:06] <Adam_H> how do you do
+  [21:56:15] <Adam_H> it
+  [21:56:35] <AdamW> i can't explain exactly
+  [21:56:42] <AdamW> build up speed running past the teleporters
+  [21:56:44] <AdamW> um
+  [21:56:48] <AdamW> let me come up with a demo
+  [21:56:54] <AdamW> hell, why bother making it a nomonsters?
+  [21:56:55] <AdamW> :)
+  [21:57:01] <Adam_H> you stepped on it and stayed?
+  [21:57:09] <Adam_H> or just blazed alongside the wall
+  [21:57:42] <AdamW> you sort of run past the teleporters to build up speed
+  [21:57:57] <AdamW> then you turn left a bit and just do a standard wallrun maneuver
+  [21:58:22] <Adam_H> I'm trying
+
+  etc. :)
+  
+  AdamW was the first to perform the jump on the standard MAP24, I did it a few minutes
+  later... After that AdamW uploaded lv24trik.zip to incoming and said he'll leave the UV
+  record alone.
+  
+  As I had lv24-038 with the old way I knew the record is gonna fall... and here it is,
+  just 2 hours later :)))))
+
+  I know this record won't hold long... my time is 36.42 and obviously Sedlo is going to
+  do 0:35 (or even 0:34 - it could be possible) very soon... However I don't mind to
+  be 'only' the 2nd best player on this map...
+
+  For your information:
+  Sedlo was trying very hard for 0:36 and he collected no less than 70 or so demos of 0:37.
+  (best being 37.22). Now he's gonna do 0:35 easily... but hey! This is DOOM! :)))
+
+  Adam Hegyi
+  ha211@hszk.bme.hu
+  
+  PS. Will we ever end finding new tricks?

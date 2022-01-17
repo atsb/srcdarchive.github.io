@@ -1,0 +1,41 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV07NET2.TXT
+
+ UV07NET2.ZIP
+
+  UV07NET2.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 07 - Dead Simple
+
+           Kills    Items   Secrets
+
+  Green      42       28      100
+  Grey       57       42        0
+
+  Time:    0:44
+
+
+Comment:        As usual, dasa has all the ammo (backpacks).
+                and that's why I've got the megasphere.
+                Only a little gap to the solo record.
+
+
+Authors:        Kai-Uwe Humpert
+                Sven Huth
+
+E-mail:         gazelle@cs.tu-berlin.de/humpert@zib-berlin.de
+                dasa@cs.tu-berlin.de
+
+
+
+
+
+------------
+Admnin note:   Time is actually 0:42.17 :). You must have had a slow
+               watch, this is the second demo which is 2 secs faster
+               than you claimed.
+

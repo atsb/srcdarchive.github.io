@@ -1,0 +1,53 @@
+Runner: Zero-Master
+Date: 2017-04-24
+IWAD: Plutonia.WAD
+Category: UV-Speed
+Map: Movie 1-30
+Source Port: Competition Doom v2.0.3.2
+Time: 20:07 (20:19.69)
+
+Map	Time	
+01	00:17	:)
+02	00:54	:)
+03	01:01	:)
+04	00:48	:))
+05	00:33	:|
+06	01:04	:))
+07	00:24	:)
+08	00:22	:)
+09	00:52	:)
+10	00:29	:((
+11	00:57	:)
+12	00:32	:(((((
+13	00:36	:))
+14	00:21	:|
+15	00:33	:((
+16	00:25	:)
+17	00:08	:)
+18	00:10	:))
+19	00:27	:(
+20	00:47	:))
+21	00:08	:)
+22	01:02	:)
+23	01:28	:)
+24	00:42	:))
+25	00:19	:)
+26	00:47	:))
+27	00:54	:)
+28	01:32	:|
+29	01:09	:)
+30	00:26	:))
+
+
+Description:
+A good run destroyed by a very unlucky jump on map 12. Had I turned the smallest 
+amount to the left or right I would have made the jump, but instead because
+of a rare combination of position, speed and angle I failed it. I should never
+have continued this run, but I haven't gotten an exit since 30pl2523 so I would
+like to get at least a demo incase I ever give up on getting under 20 minutes.
+
+Combined with a couple of other mistakes on map 10 and 15 pushed this above 20 minutes.
+
+
+
+

@@ -1,0 +1,13 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        Speed
+Map:             e3m6
+Players:         Adam Williamson, Tom Gregory
+
+Time:            0:36
+
+Player1:         Tom
+Player2:         Adam
+
+Comments:        Tom takes first shotgun and does switch, Adam takes shotgun
+                 in marble house, gets blue key and exits level.

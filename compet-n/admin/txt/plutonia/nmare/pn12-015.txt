@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PN12-015.TXT
+
+PN12-015.ZIP
+
+PN12-015.LMP - Nightmare Speedrun
+
+Recorded using Doom II version 1.9
+Doom2 -file plutonia.wad -playdemo with Doom II version 1.9
+
+Final Doom: Plutonia Experiment - Level 12 - Speed
+
+Kills      5%
+Items     44%
+Secrets    0%
+
+              ********
+  and Time -  * 0:15 *
+              ********
+
+
+Description :
+
+Well Vile, I actually didn't think I'd beat your time, ever. I guess I
+just got an amazing lucky break on this demo. I dunno where the Pain
+Elemental went this time either, but I don't care, he's out of the way.
+
+I've been working on this one since Vile did pn12-020 (I recommend
+watching his as well), and it was a VERY difficult demo for me to take.
+This is my first exit in about...oh....1000+ attempts ^^' It didn't
+become my main project until about a week ago...
+
+Had one attempt where I got the jump and just missed the exit by a small
+distance, the time on it was 19 seconds.
+
+I'm really proud of this demo, my personal fastest one I've ever done.
+Although it's funny when I blast myself, I quickly switch to the automap
+to see how badly angled I was for the jump, but as you can see, I made
+the jump ^_^
+
+The route credits and Archie-Rocket-Jump credits go to stx-Vile.
+
+Sedlo, I think it's your turn to optimize this one like you did the
+UV-Speed ;)
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+17.10.2002.

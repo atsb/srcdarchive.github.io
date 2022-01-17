@@ -1,0 +1,41 @@
+1. General information
+-----------------------
+
+Your name: 
+
+You live in (city & country): 
+
+Your birthdate (or age): 
+
+Your occupation/job/studies: 
+
+Your hobbies: 
+
+Anything you want to add here (about yourself):
+
+2. DOOM-related information
+-------------------------------
+
+Your DOOM config (key bindings, controllers): 
+
+CONFIG :
+
+Size of DOOM directory on your HD: 
+
+First contact to COMPET-N (when, how etc.): 
+
+First COMPET-N demo: 
+
+Favourite COMPET-N demo(s) from yourself (the one(s) that you're most proud of): 
+
+Favourite COMPET-N demo(s) from others: 
+
+Favourite DOOM or DOOM2 map: 
+
+Favourite TC/megawad: 
+
+Do you like Quake? 
+
+What do you think of DOOM now? 
+
+Anything you want to add here: 

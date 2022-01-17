@@ -1,0 +1,14 @@
+200-R3M9.LMP --> E3M9 on UV with respawning
+-------------------------------------------
+
+  Kills   : 69%
+  Items   : 83%
+  Secrets :  0%
+  Time    : 01:57
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: This was no harder than 102-r3m1 due to the two invulns.
+
+Robert Reevy <drparadox@usa.net>

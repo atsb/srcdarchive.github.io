@@ -1,0 +1,405 @@
+Memento Mori 2 take III - complete lmp collection done in Compet-n style or
+Scandinavian style or the UNREAL UV collection :)
+---------------------------------------------------------------
+
+Recorded by Chrozoron, Anders Johnsen, Peo Sjoblom and Henning Skogsto AKA "The Nordic Connection" :)
+
+This is a collection of recorded demos (lmps) for all 34 levels of Memento Mori 2. All lmps were recorded on skill 4 (Ultra-Violence), ending with at least 100% kills and 100% secrets where it's possible, since the earlier collections are pretty boring to watch and one (Migru´s) is also incomplete since it doesn´nt show all secrets (map06) or includes a LMP with less than 100% kills (map20 with 98% kills although 100% is possible). We decided to add some spice and go for a pretty daring and speedy playing (contrary to the earlier ones). Our goal was to be 2 hours faster than the latest collection by Migru which we did with quite a large margin actually reaching 3 hours even though he didn´t do all maps (he wimped out on map19) so in fact it is even faster and we think he should have a "Time Sucks!" (plus 60 minutes) added to his total time for failing to do all maps..
+
+To playback these demos, go to the suiting directory and type: 
+
+ doom2 -file mm2.wad mm2mus.wad -playdemo mm2-lv??
+ 
+where ?? is the level number 
+
+  
+Comments about this wad
+
+
+Chrozoron (Jonas Feragen) 
+---------
+Memento Mori II is a great sequel to one of the best megawads ever
+released on the net. Some maps are pretty large and difficult;
+(That's not necessarily negative, but it can be pretty frustrating at
+times. Dying near the end sucks.) Jens Nilsen, you hear me??? ;)
+Well, since I only recorded one demo (map29) for the collection, I won't
+write much more ;) Of course Anders, Peo and Henning are the ones who
+really deserve credit here! They're all really excellent players! 
+
+By the way: Why do so many people say "mOmento mori" instead of "mEmento
+Mori?" :)
+
+
+Anders Johnsen
+--------------
+It has been a great Dooming experience to be on this team, and I'm very
+happy with the lmps we have produced. They are all good recordings, even the 
+not very inspiring maps have gotten hours of attention. MM2 is not a bad
+MegaWad although the maps are generally too big IMO. For my part the 
+inspiration needed to complete my levels, mainly came from the great team-
+spirit rather than the maps. Many of the lmps in this collection have become 
+personal favorites of mine. The ones I enjoy most watching, are Peo's map14
+Henning's map07 and of course that incredible map29 demo by Chrozoron. A 
+special thanx goes to Peo for assisting when there where problems in the maps 
+which I couldn't solve. Not only is he one of the best players ever, but also a
+GREAT teamworker. Besides, I want to thank Henning for doing map28, a map I was
+glad to skip :) Another thanx goes to Jonas (AKA Chrozoron) for doing this 
+wonderful map29 demo, despite his lack of time...
+
+
+Peo Sjoblom
+-----------
+This will probably be my final doom project and what better way to end it than with 3 of the new players that have making their names heard in the last months. I am very proud to be a part of a team with these excellent players who I met through another awesome collection (Hell Revealed part II) where they made fantastic contributions..
+I was also part of the first MM2 collection and I always felt my lmps there weren´t very good, in this they are quite good and I also got a bit irritated by Migru´s txt in where he put down the first collection and delivered both a wimpy and incomplete collection himself and had the nerve to call it the "THE REAL SKILL 4 DEMO COLLECTION", here is another quote: "But then I saw this very bad, slow and boring collection MM2UVDMO " Those words can describe his own collection .
+In general I am not too fond of MM2 (I base this on a single map point of view where the gameplay really sucks in some maps), I like Matthias Worch´s maps though but I have only played the maps I did for this collection and don´t know how the gameplay is in the other maps. MM1 is much better IMHO, some of the music is great though .. If I should comment on the other team members lmps, they are all great but if forced to choose, I would recommend map26 by Anders, map28 by Henning and map29 by Chrozoron. Some people might think it is unfair to compare a collection made by four members to one by two, but I believe each of us could have gotten this time doing all maps alone, it would only have taken longer time to record.. I would also
+like to state that I am no expert on wads, never built any maps and only like the challenge of
+playing maps as fast as possible, I do appreciate original and nice looking ideas like for
+instance HR map26 which is probably the most original and goodlooking map ever (probably
+one of the hardest as well, yes it is harder than map 22 and 24, at least if you start it from 
+scratch, then you´ll have only SSG for most of the map), so I mainly judge maps by their
+playability from a Compet-n 100/100 point of view (that is: kill all opposition and find all
+secrets as fast as possible)..
+
+
+Henning Skogsto
+---------------
+This MM2-collection is one of the first Doom projects I've participated in. 
+I want to thank the other team-members for all the great demos they have 
+produced, and for letting my lmps being a part of this collection. 
+Unfortunately I didn't have the time to record more than five lmps, but I 
+hope there will be more than this the next time :) All in all MM2 is a great 
+megawad IMO. Some maps are too big though, and that makes it even more 
+difficult than it looks to produce a good lmp. I would like to thank Peo for
+his almost perfect lmps, especially in maps like 19 and 11, they are both very 
+big and he doesn't waste a single shell! Just that he volunteered to record map19
+says a bit about this guy. I'm very fond of watching demos without a mistake, 
+like map 19 among others....Think I'll pick this one as my favorite by Peo. 
+Anders is just like Peo- they never miss :). Also Anders recorded many boring 
+and big maps like 21 and 15, both maps are big, though 21 has a great 
+architecture and is generally very nice, map21 is also one of my favorite demos 
+together with the one of map 26. I could go on and on mention all my favorite 
+demos by him, but check them out for yourself instead.  
+Chrozoron didn't have the time to record more than one lmp, though it was more 
+than perfect...I would like to thank him for this splendid contribution
+as well.
+
+
+
+Memento Mori 2
+--------------
+
+Here is a quick table listing all lmps - detailed descriptions come later.
+
+* LMP done by Andy Badorek in Migru´s collection
++ 100% kills not possible.
+
+Level  Level Name               Recorder              LMP time Migru´s time
+-----  ----------               --------              -------- ------------
+01     Outpost                  Peo Sjoblom  		01:27  	01:57
+02     The Feeding Pit          Anders Johnsen  	01:23  	01:50
+03     ...And Hell Beneath      Henning Skogsto  	05:50  	08:28
+04     Ratamahatta              Peo Sjoblom  		06:29  	09:49
+05     Rites of Passage         Anders Johnsen  	07:05  	10:50
+06     Trapped                  Peo Sjoblom  		10:11  	17:01   
+07     Frustration              Henning Skogsto  	07:21  	13:26
+08     Stigmata                 Peo Sjoblom  		05:16 		08:47
+09     Sabbath Sewer            Peo Sjoblom           14:09  	21:52
+10     Clear For Death          Anders Johnsen  	06:45  	12:24
+11     Sewer Shutdown           Peo Sjoblom  		06:18  	11:39
+12     The Waterway             Peo Sjoblom           03:23  	05:17
+13     Devils Paradise          Peo Sjoblom           08:30  	17:36
+14     A Question of Time       Peo Sjoblom  		10:46  	21:36
+15     The Devils Coterie       Anders Johnsen  	11:22  	16:48
+16     The Nephilim             Anders Johnsen        06:10  	11:50
+17     No One                   Anders Johnsen  	08:07  	13:28
+18     Regulate                 Anders Johnsen  	10:27  	18:32  
+19     The Shaft                Peo Sjoblom           16:56  	:D 
+20     The Experiment           Anders Johnsen  	05:47  	11:22
+21     Sanctuary                Anders Johnsen  	15:10  	20:16
+22     R.R.F. Refinary          Henning Skogsto  	18:07  	29:00 *
+23     No Way Out               Peo Sjoblom           12:44  	23:46
+24     Io Lab                   Peo Sjoblom  		06:05  	08:44
+25     Forgotten Town           Anders Johnsen  	12:02  	19:25
+26     Base Exposure            Anders Johnsen  	11:19  	19:25
+27     The Silos                Peo Sjoblom  		14:23  	20:18
+28     Corporate Hell           Henning Skogsto  	16:37  	27:47
+29     Kings of Metal           Chrozoron    		11:45		20:04 *
+30     It                       Anders Johnsen  	02:54  	04:29
+31     Dejavu                   Henning Skogsto  	06:09  	08:56 +
+32     Dances With Demons       Anders Johnsen  	02:10  	05:35
+S1     Secret Operation 1       Anders Johnsen  	01:25  	01:41
+S1     Secret Operation 2       Anders Johnsen  	10:05  	17:35
+
+Note) To find the supersecret maps, download the infopack and rename the
+mm2info.dat to mm2info.wad, then use: doom2 -file mm2.wad mm2info.wad -warp 1 (or 2)
+but both maps suck and it is not worth the downloading time..
+
+Descriptions
+------------
+
+The descriptions were written by the team member who recorded the map.
+
+MM2-01 - Outpost
+----------------
+A typical small map01 with little opposition, I was never good
+at these kind maps.
+
+
+MM2-02 - The Feeding Pit
+------------------------
+Very small, not much to say about it really. A bit annoying and 
+not much fun...
+
+
+MM2-03 - ...And Hell Beneath
+----------------------------
+IMO the first map with a nice architecture. I like this one. 
+Not that easy in fact. 
+
+
+MM2-04 - Ratamahatta
+--------------------
+I agree with what Andy Olivera said about it: "Looks like the whole
+episode 2 from Doom 1 in one map" :) Awful!
+
+
+MM2-05 - Rites of Passage
+-------------------------
+Medium good level, I like the beginning but further on it's too dark. 
+There should really be an RL near the exit...My way of getting the
+redkey here is not what the author planned :) 
+
+
+MM2-06 - Trapped
+--------------------
+This map´s gameplay is just awful! (I hate to have to kill mancubi and
+revenants with minor weapons far away)
+
+
+MM2-07 - Frustration
+--------------------
+In this lmp you'll sure see that there are some frustration present :) 
+Some sections in this level are great, apart from that I would like to kill 
+someone for making that annoying door.
+Still, I like this level a lot specially the part where you meet the first
+mancubi. Also want to add that there's great gameplay here.
+
+MM2-08 - Stigmata
+-----------------
+Quite a nice little map to play, the teleporting
+in the end can be annoying though. I take a shortcut
+to the green armor, the map builder put a hidden door
+with stairs but I jumped to it to save time..
+
+
+MM2-09 - Sabbath Sewer
+----------------------
+Hate it! The start the way I play it is extremely hard and
+I survived that part about one out of five, played slowly it 
+is easy except for that damn jump which is hard, not good looking 
+either..
+
+
+MM2-10 - Clear For Death
+------------------------
+Easy and small map. The architecture is pretty good, my taste
+in particular when it comes to tech-levels. There should be 
+an SSG here though (then again; no map should ever be w/o SSG :)
+
+
+MM2-11 - Sewer Shutdown
+-----------------------
+A bit too dark and also easy to leave monsters behind,
+I always got a bit confused in the teleporter area, quite
+fun to do somehow.
+
+
+MM2-12 - The Waterway
+---------------------
+Great design and gameplay, only a bit small.It
+probably has the most health and armor of any map
+I have ever played per virtual square meter.
+
+
+MM2-13 - Devils Paradise
+------------------------
+Not one of my favorites, don´t like to have to go
+back to the start again for a secret, the lmp is
+good though..
+
+
+MM2-14 - A Question of Time
+---------------------------
+Great map! Very fun to speed through..
+One of my best lmps.
+
+
+MM2-15 - The Devils Coterie
+---------------------------
+Horrible map :( Sucking from beginning to end. I could 
+have been more daring in the end of this lmp, but the 
+map got more attention than it deserved anyway. Ok, maybe 
+the caco-garden isn't all that bad. The start tends to be 
+very hard if you're speeding, mainly cause of all the 
+rapid-fire.... 
+
+
+MM2-16 - The Nephilim
+---------------------
+One of MM2's better maps I suppose. Very simple and plain 
+design, though its very clean. Lots of action here too. It 
+seems somewhat frustrating if watching the lmp, but its pretty
+easy to learn. Medium sized, and rather easy...
+
+
+MM2-17 - No One
+---------------
+Really cool one! Action and speed all the time, just the way I 
+want it :) Maybe the design could have been better (specially in
+the early stage of the map). But that´s rather unimportant because 
+of the quality gameplay.
+
+
+MM2-18 - Regulate
+-----------------
+Rather big and boring map. Ok design, but totally lame secrets.
+IMO this map demonstrates very well what´s ruining much of the fun 
+in MM2...
+
+
+MM2-19 - The Shaft
+------------------
+According to Migru (who chickened out from it) one of
+the hardest maps, it is not easy but compared to HR only
+medium.. I don´t like the design and it is confusing but
+this lmp is almost unbeatable and close to 30 minutes faster
+than my first recording..
+
+
+MM2-20 - The Experiment
+-----------------------
+Another ugly designed level- but with great playability. Lots of
+fun all the time. My route here is a bit dangerous compared to 
+Migrus old one. Can anyone tell me what the point of that
+2nd cybie is??
+
+
+TNT-21 - Sanctuary
+------------------
+IMO this is MM2's best looking map (at least in my share).
+The difficulty is in fact pretty hard if speeding. It has some
+hard points. Guess my demo could have been faster, but some rather
+funny coincidence made me keep it. Watch those three barons fight each
+other btw...
+
+
+MM2-22 - R.R.F. Refinary
+------------------------
+The biggest map I recorded for this collection, typical MM2. Very big but 
+still it's a nice built level with a varied architecture.  
+It took me some time to learn this one.... 
+
+
+MM2-23 - No Way Out
+-------------------
+Not the greatest of maps but quite fun to play
+nevertheless, together with map14 one of my best
+lmps from this collection (except maybe for the end).
+
+
+MM2-24 - Io Lab
+---------------
+Great map, fun to play too, but I would have
+preferred to have the big weapons a bit earlier,
+nice to frag those small monsters in the end with 
+the BFG though..
+
+
+MM2-25 - Forgotten Town
+-----------------------
+Very, very complex map. Another "hard-when-speeding" kind
+of level. Rather easy to get lost here, but if you know the
+map its pretty enjoyable. Pretty crowded level with lots of
+good qualities...
+
+
+MM2-26 - Base Exposure
+----------------------
+Fun, simple and straight. I just love maps with lots of BFG and 
+plenty of bad-asses to spend it on :) Many huge, open areas and 
+some really bad silver-parts are other ingredients though....
+The lostsoul cave can be dangerous, specially if you use RL :)
+85% secrets is the maximum on this map!
+
+MM2-27 - The Silos
+------------------
+Quite a good lmp of a boring map. That fat painee in 
+that enormous lift almost drove me mad since they together 
+with cacos are chickens on their own and she really tried
+to hide from me..
+
+
+MM2-28 - Corporate Hell
+-----------------------
+Another typical MM2 size. I kind of like this one, there are many different 
+routes to the exit. Map-knowledge is very important here. 
+I like the town-part in the beginning, maybe except from those lethal 
+chaingunners who hang out there. Things can go wrong in the exit area too, 
+and that´s a bit depressing since you've played quite a while before reaching 
+it :) Really annoying those doors and lifts in the end btw.
+
+
+MM2-29 - Kings of Metal
+-----------------------
+Ahh an excellent level. Jens Nilsen was a great WADauthor in his days.
+Of course, MM2-29 is a large and very difficult level with unfindable
+secrets, but the looks and feel is very nice. Personally I really like
+wood/metal style levels. Recording the demo was quite a job though;
+(hard level!) Also, my first demo got an out of sync error for unknown
+reasons, so I had to do another. My time was improved, (but I was
+lucky to finish the level since I played pretty reckless.) I didn't
+really deserve to survive that Cybie fight near the end ;)
+
+
+MM2-30 - It
+-----------
+Fun and fast to play, but really not very original. The keys
+in the end are just annoying.
+
+
+MM2-31 - Dejavu
+---------------
+I got a Doom1 flashback while playing this one :) Use your rockets carefully 
+here btw, its easy to mess things up. I like Doom1 so I guess I like this 
+map too....
+
+
+MM2-32 - Dances With Demons
+---------------------------
+The most fun map of the ones I did. Definitely worth playing if
+you need to hurt some sleeze-bags really quick :) No fuzz after
+well hidden  keys or switches, just plain action...
+
+
+MM2-S1 - Secret Operation 1
+---------------------------
+YUK! Need I say more? Oh well: Small, idiotic, mainly red/hellish team.
+Almost all parts are damn ugly, maybe the first room is ok?
+
+
+MM2-S2 - Secret Operation 2
+---------------------------
+The game-play is ok, but the design is very ugly. A lot better than
+the Secret Operation 1 though. The two archies can be tricky, but 
+its by no means a very hard map....Rather stupid placement of a
+dozen cacos outside a sealed of garden, which can only be cleaned
+through a window :(
+
+*****
+
+
+
+This TXT file was made using the FDUVDEMO.TXT template.
+
+
+PS We were close to 8 hours faster than the first UV collection! :)

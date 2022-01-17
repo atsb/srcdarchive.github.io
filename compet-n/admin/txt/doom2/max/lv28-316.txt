@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV28-316.TXT
+LV28-316.ZIP
+
+LV28-316.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 28 - "The Spirit World"
+
+
+ Kills   100%
+(Items    44)            
+ Secrets 100%  
+
+   ...and Time       03.16 
+		     ------
+
+		
+Description: I like this level a lot, lot's of cells, and most important:
+	     you can easily get the BFG ;)
+
+	     Finaly I managed to beat DL's 03.22, after recording nonstop
+	     for 7 houers now, belive it or not. Some houers ago I had 03.10
+	     but unfortantly an Imp survived somewhere, In total frustration
+	     I destroyed parts of my desk :(
+             I think I keep this one as a memory.
+
+	     Couldn't understand the time 03.16 in this demo, I was sure
+	     the time would be somewhere around 03.30, to many mistakes to be 
+             a DL-beater. 
+
+	     The only thing you have to worry about are the cells. If you
+	     have less than 400 when you meet the first archi in the yellow-key
+	     area, then you need more than luck if you are planning to beat 
+             this one. Still I think It's possible to breake the 03.10...
+ 
+         
+
+Author:	     Henning Skogsto 
+E-mail:	     hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

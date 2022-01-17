@@ -1,0 +1,27 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt_speed_map31s_0003157.lmp
+Date     : 2013-09-11 19:49
+Game     : TnT 
+Category : Speed
+Map(s)   : MAP31 (secret exit)
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Marijo Sedliæ
+Nickname : Sedlo
+Country  : Croatia
+Email    : msedlic@gmail.com
+WWW      
+-------------------------------------------------------------------------
+Kills    : 1%
+Items    : 28%
+Secrets  : 0%
+Time     : 00:00:31.57
+===================================
+Description :-)
+
+This one was obvious thing after normal exit, achieved my goal of getting 31.
+Better runnings also then in other run, except that stuck on the end, but hey
+lets see if there is answers to this before further work on this level.
+
+Cheers!

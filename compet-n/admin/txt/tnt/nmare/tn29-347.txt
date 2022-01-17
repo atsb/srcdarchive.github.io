@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TN29-347.TXT
+
+TN29-347.ZIP
+
+TN29-347.LMP - Nightmare! Speedrun/Nightmare! 100% Secrets
+
+Recorded using Doom 2's doom2.exe
+Doom2 -file tnt.wad -playdemo with Doom 2 v1.9
+
+Final Doom: TNT Evilution - Level 29 - River Styx
+
+Kills     53%
+Items     63%
+Secrets  100%
+
+              ********
+  and Time -  * 3:47 *
+              ********
+
+
+Description :
+
+Heh, I got this only around 30 minutes after I uploaded the 4:04. Who knew? -_-'
+This time around it was really easy ^^' I should've watched Jakub "method_man"
+Razek's 1:58 UV-Speed, I would've known about the teleporter before. Oh well,
+I got under 4 minutes at least ^_^ Basically the same route as my 4:04 as well,
+I just used the teleporter ;) Saves around 5 - 10 seconds on that.
+
+This one also has 100% secrets.
+
+Here ya go, enjoy ^_^
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+10.05.2003

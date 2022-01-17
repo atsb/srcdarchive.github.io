@@ -1,0 +1,235 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30NM4654.TXT
+
+ 30NM4654.ZIP
+
+  30NM4654.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+
+        Time     Par
+
+  MAP01 0:08	0:30    
+  MAP02 1:32	1:30       
+  MAP03 0:46	2:00
+  MAP04 1:24	2:00
+  MAP05 1:24	1:30
+  MAP06 2:18	2:30
+  MAP07 1:06	2:00     :)
+  MAP08 1:16	2:00
+  MAP09 1:32	4:30
+  MAP10 1:08	1:30
+  MAP11 1:19	3:30
+  MAP12 1:35	2:30
+  MAP13 1:53	2:30
+  MAP14 2:07	2:30
+  MAP15 1:15	3:30
+  MAP31 0:39	2:00
+  MAP32 0:24	0:30
+  MAP16 0:46	2:30
+  MAP17 3:16	7:00
+  MAP18 0:33	2:30
+  MAP19 1:11	3:30
+  MAP20 1:02	2:30
+  MAP21 1:29	4:00
+  MAP22 1:49	2:30
+  MAP23 2:11	3:00
+  MAP24 1:43	2:30
+  MAP25 1:38	2:30
+  MAP26 1:33	5:00
+  MAP27 1:19	5:30
+  MAP28 1:30	7:00
+  MAP29 3:02	5:00     :)
+  MAP30 2:06	3:00     :(
+  ------------------
+  
+
+  Total Time =  34:774			Health low points:
+                34+			MAP01 22%
+                12:54			MAP04 43%
+               ------			MAP05 21%
+  TOTAL TIME =  46:54			MAP06 10%
+              --------			MAP15 35%
+					
+					Maximum minimum health: 10%
+    
+  Description:
+  
+  I'm really excited that I finally finished the run. My first 30nm tries
+  were back in year 2000. I reached map11 and that was my maximum in that 
+  time. I haven't worked on it since then, but I still had the idea in 
+  my head. About two weeks ago I decided to go for it. There was nothing
+  better to play in c-n anyway. I obviously started with watching some 
+  NM runs, studying routes and practising. Quite easily reached map12,
+  later map14 and map22. The next day I reached map29 for the first time,
+  I was really nervous and died. The next day I play from morning till
+  night and got to map29 twice, but also died twice. It was very 
+  disappointing for me, but I knew I could do it. So I took one day break
+  and didn't play at all. Then I played again and reached map30! One
+  damn rocket to the brain and it was over, I was already staying on 
+  the lift but something hit me from back and I died again. It was like
+  a shock, I couldn't belive, I felt like smashing all the comp and 
+  crying at the same time. I didn't give it up, a few days later this
+  nice baby was birth. It was very bloody. I can't count how many times
+  I died, but I think it goes to hundreds :) I died nearly in every map,
+  mostly map07/map22/23, also map26 and map29. I must say this demo
+  is kinda a copy of Adam Hegyi's one, I used 99% of his routes and 
+  tactics, just compare my and his times. :) Of course, this is not
+  my last 30nm for sure...
+  
+
+  Map descriptions:
+
+  MAP01: 8 seconds suck, but I don't really care.
+  
+  MAP02: I don't like the dark part of the map, cuz I don't see anything
+         on my screen and usually screw it up there. This time an Imp got
+         me stuck and took me some seconds which ended up being 2s over
+         par time.
+  
+  MAP03: Not as easy as it looks, chaingunners can give you the real hell
+         sometimes.
+
+  MAP04: I played the end a very safe way, when I have enough health I just
+         do the exit jumps.
+  
+  MAP05: I made a mistake at the end and fell down, fortunately the pigs 
+         didn't eat me.
+         
+  MAP06: I can the the first jump just once of five tries (never practised
+         it), so I do it a save way. I made another mistake and fell to 
+         the slime, really horrible to watch. 
+         
+         
+  MAP07: The first map I'm really satisfied with. A cool run I think and 
+         even could have been below 1min. Pity not always it goes like this,
+         sometimes it's like a neverending story.
+  
+  MAP08: Easy.
+
+  MAP09: Yeah, BFG is a very helpful weapon here.      
+        
+  MAP10: I don't like this map on NM, especially the end part. I mean, when
+         Cybie is staying in front of the exit and shooting rockets all 
+         the time. It happened at least 5 times to me.
+         
+  MAP11: I used to die here a lot, but with Adam's tactic it's not so hard.
+
+  MAP12: The last room went nearly perfect. 
+
+  MAP13: Two Invuls make the map easy. It would be much harder without them
+         I guess.
+         
+  MAP14: This is kinda a plasma madness. I'm always happy when I finish the
+         map, no matter what time I get. At first I was trying the window 
+         jump near the exit, but after a few deaths I realized it's much
+         saver to go the normal way.
+         
+  MAP15: I rarely skip the blue armor, cuz I'm mostly low health after 
+         map14.
+  
+  MAP31/32: Easy.
+        
+  MAP16: I wasted one shot more in the Archie room.
+         
+  MAP17: Easy to screw up the whole run. I took Doomgeek's route here, 
+         cuz I think it's saver. Once or twice I tried the shortcut with 
+         jump to the yellow key, but didn't feel good without invisibility 
+         later.
+         
+  MAP18: Nice and easy to finish with 200/100.
+         
+  MAP19: I prefer going for the yellow key instead of the blue one. 
+         Sometimes pigs blocked me right under the window on the way to
+         the exit which is damn annoying.
+
+  MAP20: Oh, stupid me, I missed Megasphere, didn't know what to do for
+         a few seconds, then realized there's another secret room there.
+ 
+  MAP21: Just getting ready for the hell.
+        
+  MAP22: Damn, I was nervous here. I thought I was dead when I did an early 
+         shot while staying on the lift. Somehow managed to survive, then 
+         again a few unwanted BFG shots that nearly cost me my life. But 
+         at the end I had 50/50, not too much, but still better than rebirth 
+         in map01. ;)
+         
+  MAP23: At the start, the street of truth, very easy to die, especially 
+         when you have low health after map22. I killed all Knights, cuz it's
+         not very pleasant to get any slime to your face right after you 
+         teleport to the room again. Couple of times I missed Megasphere on
+         the first attempt, so I went for another one, it's possible but
+         cost you from 80 to 120 cells that are needed in map25. Btw. once
+         I survived the map even when I had just 3% health at the start. 
+         (but just once :)
+
+  MAP24: Didn't fall down, so an Ok run.
+         
+  MAP25: The central room with revenant on the lookout is a pain sometimes. 
+         I didn't feel guilty for wasting 2 BFG shots, more important is to 
+         have enough health for the next map.
+        
+  MAP26: I don't like this map at all. Damn annoying chaingunners are 
+         everywhere.
+         
+  MAP27: Grabbing cells in the Archie room is kinda risky, cuz if you get 
+         stuck for a while and the door closed, you have to waste lot of ammo
+         to get out of there, and also run out of Invul. Fortuntely that 
+         doesn't happen very often.       
+
+  MAP28: I never have problem with this map. Finishing 200/200 is easy 
+         and neccessary, of course.
+          
+  MAP29: Oh..there is one word that describes this map indeed -> hell! 
+         I had about 5mins break after map28, tried to calm down a bit 
+         and stop my hands shaking. The start went fine, didn't loose much
+         health. I always want Knight to loose about 80% of his health, 
+         then I finish him from upstairs, that helps to avoid an early respawn.
+         This time I was kinda lucky in that part, cuz lonely Caco flew to the
+         teleport, otherwise I would've killed it by BFG. Then I grabbed some 
+         health, maybe could've saved it, but I killed all Cacos with no harm.
+         I don't like running on the raising platform, so I stayed right at
+         the wall. The next room went perfect I have to say. Saved blue 
+         armor on the way back and also managed to clean up the room with 
+         just 2 BFG shots what is cool. In practising I tried to kill PE by 
+         plasma and then use BFG, but usually some Cacos were annoying me
+         from behind, so I left that tactic. The archie room went fine too. 
+         I still had a lot of health for the hardest place on the map. 
+         I shot 2 BFGs while entering the Revenant room, but lost 60% health
+         anyway. Then the middle switch followed by the right one. The jump 
+         is not hard, but those two barons can be deadly, I died on that 
+         place 2 times, cuz I wanted to hurry up when heard the sound of
+         respawn revenant. Once I died on the hill, althought I had 90% 
+         health after the teleport. You can never be sure, you will finish it.       
+ 
+  MAP30: I got quite nervous when I didn't kill the revenant, cuz I wanted to 
+         do a jump on the raising lift. Nevermind, I got that bastard later 
+         from short distance. It seemed everything's going well, I was just 
+         praying not to see Archie or PE. But what happened then ??? WHAT
+         THE HELL WAS THAT ??? Count with me....yeah..5 rockets to the brain!!
+         Have you ever seen anything like that ?? Me definitely not. I couldn't
+         belive, I knew I needed just one rocket to the brain (supposed to 
+         be the third one, the last one), that's why I didn't jump down to 
+         get the Megasphere, the same with the fourth rocket. My health was 
+         going down quick, and revenant appeared up there again, fortunately 
+         the fifth rocket ended the whole run....
+         
+
+  Now I have to thanks to you all, for reading, watching, playing DooM and
+  thinking it's the best game ever. Special thanks to Adam Hegyi for his demo,
+  Istvan Pataki for his FILLUP.WAD (we all would have been lost without that) 
+  and all D2S guys out there.
+
+  ENJOY!  
+  
+ 
+  Radek Pecka D2S
+  r.master@email.cz  
+  http://doomaniax.bonusweb.cz
+
+  23.08.2002. 

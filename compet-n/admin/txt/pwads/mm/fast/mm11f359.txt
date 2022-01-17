@@ -1,0 +1,30 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm11f359.lmp, mm11f359.txt
+Date     : 2013-11-24
+Game     : Memento Mori (with MM11FIX.WAD)
+Client   : doom2.exe v1.9
+Category : UV-Fast
+Map(s)   : MAP11: Halls of Insanity
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  33%
+Secrets  :   0%
+Time     : 00:03:59
+===================================
+Description:
+
+This is not very good one. I forgot to pick up a rocket. Some parts were 
+really tricky. Demons, lost souls, and hitscanners usually annoyed me. 
+I just wanted to do correct UV-Fast.
+
+
+97th Comepet-N Entry

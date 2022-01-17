@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV11-036.TXT
+LV11-036.ZIP
+
+LV11-036.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 11 - "Circle of Death"
+
+
+Kills   11%
+Items    0%            
+Secrets  0%  
+
+   ...and Time     00:36 
+                  -------
+
+
+Description: Adam H wrote:
+             > Your turn Panter...
+             
+             Nahh think it's my turn now :))             
+             
+             Around optimal time here should be 0:33 or something....
+             The only thing that I can think of which will save 2sec at least
+             will be to fool that specter guarding the first elevator in the 
+             exit building. And maybe it's faster to kill him with two sg 
+             shot's, but as we all know this dosn't happen very often.
+
+             Hmmm anyone ??
+         
+Author: Henning Skogsto	     
+E-mail:	hskogsto@frisurf.no     

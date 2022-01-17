@@ -1,0 +1,48 @@
+This is a DooM 2 .LMP "Competition" Entry - Please forward it...
+
+LV19-247.ZIP contains:
+
+ - LV19-247.TXT
+ - LV19-247.LMP
+ & LV19-247.BAT [ S.;-) ]
+
+ Which is a -Recording of John Upper completing
+ DOOM 2 MAP 19 "The Citadel" on UV from scratch
+ in a time of 2:47.
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - The Citadel
+
+  Kills     16%
+  (Items     6)
+  Secrets   22%  and Time  02:47
+                           -----
+
+  S.;-) Widlake was right: the old time (8:25??) *was* WAY
+  too slow. This is better, but somebody with better hands
+  and a smoother machine (and a bit of luck) could knock
+  5-10 sec. off this one. It only took me a day to cut my
+  time from about 10 min. to this - 2:47; so I'm sure it
+  can and will be bettered soon.
+
+  Honestly, the hardest part of this was going around the
+  first two corners: my machine, allegedly a 486/66 (4megs)
+  is SO jerky that I had to make this playing at Low Detail
+  and the screen at half size.
+
+  Suggestion: I think you need to run across the bridge at
+  the start to deflect the arachnotron from the front door
+  of the gatehouse. If so, you could try saving time by
+  opening the door to The Citadel when you first cross the
+  bridge: this might draw the cacodemon and two lost souls
+  out, and avoid spending time killing them.
+
+ John Upper - Feb. 2nd. 1996.
+
+ 3JKU@qucdn.queensu.ca
+
+P.S. check out my .WAD -- think2wc.zip -- at ftp.cdrom.com
+
+

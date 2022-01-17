@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV08-023.TXT
+
+ LV08-023.ZIP
+
+  LV08-023.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 8 - "Tricks and Traps"
+
+  Kills     ??%
+  (Items    ??)           /-----\
+  Secrets   ??%  and Time |00:23|
+                          \-----/
+
+
+ Description: 
+              
+Panter> I was wrong in my nm08-023.lmp...the Barons aren't the main
+Panter> problem, this **** Imps take the 2 secs.
+Panter> Ok, it looks a bit slow with some mistakes, but don't even think
+Panter> about a 23sec .lmp (:
+
+	The Imp part went nearly perfect...
+        That's the first that i'm under 0:25... (my second best 0:27) 
+        So this level is pure luck. 
+        0:22 should be possible
+
+
+  Author:    Vincent Catalaà
+
+  E-mail:    peroxyd@wanadoo.fr

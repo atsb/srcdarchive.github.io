@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CS21-150.TXT
+
+ CS21-150.ZIP
+
+  CS21-150.LMP - Nightmare! with 100% secrets
+
+  Recorded using Doom Version 1.9
+  Doom -file Class_Ep.Wad -playdemo with Version 1.9
+
+  Classic Episode - E2M1 
+  Kills     ??%           
+  (Items    ??%)          
+  Secrets   100%  
+       
+             ... and Time  1:50 
+                          ------  
+                          
+
+  Description:)
+  
+  Hello everyone! 
+  
+  Well, after having died like 2 or 3 million times I finally found myself having 
+  the enough amount of luck to send my first demo to C-N (hope everything is correct).
+  I know this one sucks technically, but the fault is yours, for not having done this 
+  one before. Come one guys, don't let this thing enter the C-N record database! 
+  I DID it, it can't be that hard!
+  BTW, this is also the NM record for this level, do you think it's possible a 
+  "pure" NM run here?
+
+Author:    Joan Bagudà
+E-Mail:    brjoan@hotmail.com

@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        Speed
+Map:             e3m7
+Players:         Adam Williamson, Tom Gregory
+
+Time:            0:58
+
+Player1:         Tom
+Player2:         Adam
+
+Comments:        Very good co-op level. Adam runs normal speedrun route up
+                 to red key. Tom does yellow key section with Adam on exit
+                 bridge. Optimum time about 0:50-0:51.

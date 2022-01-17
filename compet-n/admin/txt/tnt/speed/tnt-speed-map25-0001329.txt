@@ -1,0 +1,27 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : tnt-speed-map05-0003766.txt, tnt-speed-map05-0003766.lmp
+Date     : 2015-4-28 02:45
+Game     : TNT: Evilution
+Client   : cndoom.exe v2.0.3.1
+Category : UV-Speed (also Pacifist)
+Map(s)   : MAP25: Baron's Den
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 0%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:13.29
+===================================
+Description
+Second CNDoom submission
+
+The idea for the linedef skip came from Cyberdemon531. During a stream where he was practicing TNT D2ALL UV-Speed, he mentioned a possible linedef skip over a linedef at the start of this map that closes a multiplayer exit path. Problem is that the linedef skip is north (which makes it impossible with normal speed), but, conveniently, there is a shotgun guy placed right on the linedef for a monster boost. Eventually, I managed to get the skip in TAS, and I decided I'd try for a non-TAS run. Over time, I figured out that the strategy used in this demo works quite well, the skip is relatively consistent (given the direction), and for a while, I was getting it almost regularly. The spectres at the end are unkind almost every time for me, though, and it seems like they are most unkind when I do get the skip. My first exit was 16s, and afterwards I managed to get some decent consistency going, so I assumed I'd get an improvement relatively soon, but that consistency got worse over time, and here I am over one hour and 30 minutes later with an improvement. Still obviously improvable, but it is quite a luck-based run and the spectres at the end went quite well this time despite them being somewhat slow anyway.
+
+For continuous runs, this trick is probably way too hard, but I do believe that going for it at the start is probably worth it, as it doesn't cost much time and could amount to a huge improvement. This could obviously be very useful in D2ALL TAS UV-Speed.

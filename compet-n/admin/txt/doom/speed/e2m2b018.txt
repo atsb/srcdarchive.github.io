@@ -1,0 +1,30 @@
+This is a Doom "COMPET-N/doom/speed" entry. Please forward it...
+
+E2M2b018.TXT
+
+ E2M2b018.ZIP
+
+  E2M2b018.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 2 - The Shores Of Hell
+  Map     2 - Containment Area
+
+  Kills      0%
+  (Items     2)
+  Secrets    0%  and Time  00:18
+                           -----
+
+
+Description: This is my way. Just jump to the exit. But you need to be rather
+             fast, so I have to make a step back instead of just run through.
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+

@@ -1,0 +1,185 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 30pl3239.txt, 30pl3239.lmp
+Date     : 2013-8-28 11:41
+Game     : Final Doom: Plutonia
+Client   : doom2.exe v1.9f
+Category : UV Speed movie
+Map(s)   : MAP01-MAP30
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : 
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : x%
+Items    : x%
+Secrets  : x%
+Time     : 00:32:39
+===================================
+Individual level times:
+MAP01 - 0:37.57 ( 0:37)  
+MAP02 - 0:59.29 ( 1:36) 
+MAP03 - 1:21.09 ( 2:57) 
+MAP04 - 1:11.80 ( 4:08) 
+MAP05 - 0:40.43 ( 4:48) 
+MAP06 - 1:40.94 ( 6:28) :(
+MAP07 - 0:28.17 ( 6:56) :)
+MAP08 - 0:35.80 ( 7:31) :))
+MAP09 - 1:02.46 ( 8:33) :)
+MAP10 - 0:37.49 ( 9:10) :(
+MAP11 - 1:05.74 (10:15)
+MAP12 - 1:30.29 (11:45)
+MAP13 - 1:31.17 (13:16)
+MAP14 - 0:36.46 (13:52) :)
+MAP15 - 1:11.69 (15:03)
+MAP16 - 0:24.74 (15:27) :)
+MAP17 - 2:01.43 (17:28) :(
+MAP18 - 0:12.60 (17:40)
+MAP19 - 1:04.54 (18:44) D:<
+MAP20 - 1:02.66 (19:46)
+MAP21 - 0:10.91 (19:56) :))
+MAP22 - 1:28.00 (21:24) :)
+MAP23 - 2:13.26 (23:37) :))
+MAP24 - 1:21.60 (24:58)
+MAP25 - 1:36.83 (26:34)
+MAP26 - 0:57.94 (27:31) 
+MAP27 - 0:56.46 (28:27) :)
+MAP28 - 1:50.77 (30:17)
+MAP29 - 1:18.74 (31:35) :)
+MAP30 - 1:04.91 (32:39) :(( but idgaf it's done
+
+(just so you know, this .txt is really long)
+
+The main inspiration for this was (in no particular order):
+Viles original 30pl runs
+cack_handeds guideless glide demos which is where I think I first saw those tricks were doable non-TAS
+Aleksander Nikulins 30pl1316 TAS
+Loopers 30uv2335 which I tried to replicate in some way in plutonia
+
+also special thanks for
+fx for showing me a different dosbox version and reviving compet-n, wahey
+Andy for dsda
+Dime for being that other plutonia runner (hope it gets into AGDQ)
+tatsurd-cacocaco for actually wanting to see this and having a spiffy youtube channel
+all the other youtube doomers as well, especially Altima for keeping up the competnrecords channel
+anyone else who feels left out
+
+So yeah, the humble start for this was around April when I started working on guideless glides and first beat Xit Vonos pn08-042 by accident of all things. I think that demo is still in dsda in the same zip as the pn08-024 run. I wasn't happy to find out cack_handed had already done it in 19 secs (much as I expected, the demo just wasn't on dsda or compet-n). Anyway, it showed to me Viles old ep1 record was easily beatable with this newfound technology if I could just get even a half decent run on the rest of the maps. So for practice I did a bunch of ILs on nightmare and map09 on UV, then started working on a full ep1 which I got surprisingly fast. At first this seemed impossible because getting past map04 is a pain in the ass but somehow things get MUCH easier from there on... kinda. 
+
+After ep1 I tried to find cheesy ways to improve the other two episodes. Figuring out a route for ep2 was pretty difficult. I saw the Map12 jump from imp cage to exit in Aleksanders TAS and in cacatous nomo demo but couldn't find a consistent way to do it without rocket boosting, and that puts you into a pretty shitty position for map13 since there's no armour before it and you start with much less cells than with Viles route. Then I found map14 keygrab and realised I can be pretty busted after Map13 with only 40 cells and still have a good chance of making it to Map15 where you're showered with all sorts of goodies and things started looking promising. Combined with not blasting the hell out of the exit room in Map16 with BFG there was plenty of cells to play around for the rest of the ep (which I didn't really utilise). Map19 glide I always do from north because it's the most consistent for me (USUALLY ANYWAY) as opposed to cack who did glides from east because that worked much better with his method.
+
+Ep3... there was that one obvious glide at Map21. It means doing Map22 without armour which is not exactly fun but is doable. There's Map24 with either the archvile jump to exit which looks nuts and a rocket jump that takes you right in front of the cyberdemon... and you have to do the rj with a bunch of hitscanners blasting the hell out of you. Decided against trying either of those. Map25 rj is actually pretty legit and not terribly difficult with the correct setup. Then to finish things off there's yellow key skip in Map27 but fuck that, it's less than 10 seconds with a high chance of failure. I actually got very consistent at killing the icon in 2 goes (even 1) but obviously... well, see map30 notes.
+
+Map01: Pretty standard run. If you're brave you can skip the blue armour (I'm not brave). Best time with this route was around 32, skipping the armour can get under 20s. Jump to the exit platform is very easy with strafe50, but the mancs will sometimes block or shoot you.
+
+Map02: Also pretty standard. Sometimes crazy things happen and you just DIE, usually at yellow switch. Also the invisible bridge can go fuck itself.
+
+Map03: Very messy overall... sloppy with the chaingunners at blue key, missing that little hop over the mancubus pit, getting stuck on revenants near the end. Time is still ok-ish so oh well.
+
+Map04: The time isn't that great but it's the same that Vile got so I'm fine with it. This map is absolutely loaded with different types of bullshit (barons blocking the corridors and killing you, cacodemons blocking the corridors and then revenant missiles killing you, revenants just killing you, pain elementals bringing the pain, chaingunners killing you, everything killing you and you just die jesus christ this is balls) so just not dying is pretty good.
+
+Map05: I try to leave the chaingunner standing at the entrance to that spider area alive just so it hits the spider. Not sure if it actually makes any difference but the spider usually ignored me. If it didn't there's always SSG. Pretty easy level usually. I did lose attempts here, sometimes right next to the megasphere which wasn't too fun.
+
+Map06: First bad map on this run. Everything goes fine until the last room where the revenants standing at pillars just refuse to die and then everything goes sloppy. My best times with these strats were under 1:30 so ehhhh.
+
+Map07: Mancubus part is pretty much routine where the biggest factor is if they die in 3 or 4 hits and if autoaim wants to aim at the mancs or at the guys standing on the walls. That spider pattern where most of them are at the door but one is at northwestern corner leaving you in between is pretty nasty but I dealt with it reasonably enough this time. Sometimes the last spider at the exit can mess you up (it can shoot at you before you can shoot at it because the chaingunners block your shots) but thankfully that didn't happen this time or I would've probably died.
+
+Map08: Doing the glide like this is very luck based. With mouse strafing, the smallest movement tic you can get is SR2 / SL2. The reason why cack_handeds way of pushing through with vertical mouse movement is so good is that it can give you GF1 tics. With SR2 tics it's possible to get stuck one fraction of a map unit from the position that gives the glide. Thanks to Looper for this info, spent a lot of time trying this checking my coordinates with idmypos to figure out how this works (in the end it works with luck so this is the time I pay my respects to the almighty RNGgod). Even after the glide this map can screw you over with having the archvile block your way to the exit and the the revenants popping up and then you usually die or fall of the platform. The benefit of mouse strafing method rather than the in-out thing I use on Map09 and Map19 is that I know when I get the glide instead of randomly getting through the gap. Having time to prepare movements after getting the glide increases chances of survival considerably. Also that in-out is much less consistent in this compass direction.
+
+Map09: Very nice. Especially the glide, this is how it's done... remember that when we get to Map19. The ending room can be nasty because there's no way up from the nukage and this route skips the invisibility. If you get hit, especially at the switch, and fall, you're done gg no re. This did happen on several tries. Except the no re part.
+
+Map10: Pretty good, but I fail the wallrun at the end and the baron blocks me. That wallrun was one of the things that felt almost impossible on the older dosbox version for some reason, I'd just get stuck on the pole at the end of the fence for no reason. Now I just mess it up.
+
+Map11: I get a pretty good archvile pattern - I wake up two, and the other one is behind another AV that doesn't wake up so it doesn't get to teleport in (there's no way to tell this while playing, in case someone is wondering - I checked that from watching the demo with iddt iddt). Regardless of that I still get hit. Time is at the bad-ish end of ok. The reason I go to the left instead of tight after exiting that first room is that going to the right sometimes wakes up more archviles which is undesirable. It's probably stupid but I believe it works so I do it anyway.
+
+Map12: Nothing impressive but fairly solid overall. Really careful strat though, if you're into yolo stuff I'm sure even below 1 min is doable. I think I slightly mess up the rj timing and take a bit too much damage from it but that's exactly why that jump is so good, you can mess it up and still make it (assuming you have the health/armour). 
+
+Map13: Lot of parts that could've gone better, especially THE MOST IMPORTANT BFG SHOT ON THE WHOLE RUN HOLY SHIT (the room with an archvile and a billion chaingunners). Unlike in ep2 movie I kill a bunch of stuff and get the supercharge because it make the exit room and next level somewhat less scary. It doesn't take that much time with all the extra cells I've saved up from before.
+
+Map14: How it's supposed to be done! Well, I guess you could skip killing one of the revenants. Still, this is pretty solid.
+
+Map15: Killing the HK at the start instead of at that secret with the supercharger was something I saw at Dimes stream. I lost one run where I got shot when trying to shoot the HK from up that secret area, got knocked back and hit the floor instead. Yeehaw. Other than the first BFG shot being kinda ass (it's supposed to kill most of the chaingun chaps) this is decent enough. I do like having (and spending) loads of cells here just in case though. You get lots of them from the two secret areas anyway.
+
+Map16: Nothing went wrong and that's good enough. I never went for the "BFG everything near exit" strats because I felt this was consistent enough but if you can find the failed demos pack you'll probably notice it wasn't. Sometimes I'd just mess it up, sometimes the archvile wouldn't show up or a bunch of spectres would come before the archvile and block me or whatever. Still, this strat is usually pretty fast and saves a lot of ammo.
+
+Map17: Time is pretty bad but sometimes that just happens here. Not the best play and I lost time on stupid crap like missing the chaingunners with rockets and whatever.
+
+Map18: Two things usually happen here: you get the jump or you don't. It's also possible to miss the jump once and then get it on second try but don't count on that, after the first attempt there's a lot more variables into it (the chaingunners wake up and all that). Vile killed a bunch of crap here for some reason, I just went for the armour then straight for the exit which gained me some time.
+
+Map19: Best glide in the game - skips the entire level, saves lots of ammo, no risk involved. I mess it up completely. I consider anything above 40s a bad time and this... eh. In retrospect the 30 seconds I spent here being an idiot probably helped me to relax a bit and not mess up at later levels. This glide works exactly the same as the map09 one by the way, this time I just choked it up. Funnily enough this is still faster than Viles time on this map (1:36). Goes to show that these skips are just too stronk.
+
+Map20: I think this map best shows that Vile had no competition for plutonia ep/movie runs. Why did he get the supercharge? Why was he so worried about the barrels? I know sometimes the barrels get hit without exploding and end up completely blocking the way but still, you can get a boost from them that actually helps with making the jump to that blue key pool. If they get hit they often blow up instead of moving and blocking the way. The situation he was preparing for just happened very rarely when I was practising. If there were more people doing 30pl runs I'm sure they would've pushed this way under 40 mins even back then without all the bs strats I used.
+
+Map21: This glide is easy, getting the monsters to let you do it always isn't. Sometimes the spectres down in that pit will block you, sometimes the skulls or pain elementals would fly above the gap I was trying to glide in blocking the way and there was nothing I could do about it because I couldn't see that high. Curse doomguys stiff neck. That said, I lost only one or two attempts at this level out of the six or seven that even got this far.
+
+Map22: This and map23 went so well I don't even give a fuck about the messed up map19 glide. Lots of places to mess up but surprisingly enough I don't. Much better to fail a stupid trick and succeed in "real gameplay" than other way round. But tbh this map rarely went this well in practice. 
+
+Map23: See map22. I think the only big mistake I did was a bit before two minute mark when I run to a cacodemon firing plasma expecting it to die, it's not good to stop in one place for too long in this level. Killing it from further away while constantly moving would've in theory been good but didn't matter this time. Still, there was potential for a hell knight or revenant to blow me up while standing there blasting the caco.
+
+Map24: There's potential for all kindsa crap here (mostly something attacking the archvile and messing up the jump) but most of it didn't happen and what did didn't kill me. Routine run outside of the cyberdemon excitement at the end. 
+
+Map25: Was kinda shaken after the ending to previous level. I skip the little hop to switch because I found it very inconsistent with the old dosbox version (with low graphics this map is just one red blob) and never bothered to learn it with the new one. Doesn't save that much time anyway. Bigger mistake is at the fight with the baron and hell knights where I just mess things up for no reason. In retrospect I should've taken one extra BFG shot instead of messing with plasma rifle but I was almost dead and really wanted to stick to the "almost" part. Rj to exit isn't terribly difficult but god damn doing it 25 maps into already fairly difficult demo is pretty nasty. Thankfully I only fail it once.
+
+Map26-29: I don't know what to say. These maps are imo very easy compared to the rest of plutonia. Not going to complain but they don't make for very interesting .txt file material. 27 has some run stopping potential (lots of lost souls somewhere you can't see blocking you way) as do the rest of them but... just not that much.
+
+Map30: I totally mess this up - in practice I never took more than two pillar rises to kill the icon. Often even killed it in one. Not so lucky this time. Using this setup (hug a corner and use the wall textures for aiming before the pillar even rises) hitting that "drop" shot is actually ridiculously easy. Archviles also caused some unnecessary excitement. But I got it done so I don't really care.
+
+Overall I'm more than happy with this - my goal was 35 something, I thought 36 would be fine and 37 and I might consider doing another run. 34 and I'd move to China and become a male prostitute. I didn't think I even had a shot at even 33 or especially 32. Best thing is now I don't have this shit on my mind all the time and can relax. This is probably the last demo I do for old compet-n and only time I'll be "serious" about longer runs like this. I'll probably get back into recording when competition doom and all that new stuff becomes a thing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+But I bet Looper would've got under 30 mins.

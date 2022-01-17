@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry
+
+MM16-858.TXT
+
+ MM16-858.ZIP
+
+  MM16-858.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 16 - Stoned
+
+  Kills    101%
+  Items     xx%           ********
+  Secrets  100%  and Time * 8:58 *
+                          ********
+
+  Description : 
+
+The goal here was to get a proper 100/100% and to get it under 9 minutes. At first
+I got a time of 9:29. Twice. Then I watched a Ryback -fast and realized that I 
+could use my rockets a lot better. Then I bested my original submission of 9:12 with
+a 9:06. Followed that with a 9:05. Then I got a 9:04. Grr. This finally came and
+not soon enough. I was at wits end.  
+
+Thanks to Adam Hegyi and Andy Olivera for pointing out and explaning how 
+100% secrets is indeed possible. 
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

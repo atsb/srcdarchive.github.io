@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM16-041.TXT
+
+ NM16-041.ZIP
+
+  NM16-041.LMP - NightMare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills     12%
+  (Items    20%)
+  Secrets    0%  and Time  00:41
+                           -----
+
+
+  Description :-)
+
+  Really ugly Nightmare level...
+  I modified Panter's route a bit at the megasphere, just a bit faster this
+  way.
+  I tried for 0:40, I know it's possible, but I'm not patient (or lucky?)
+  enough to get it.
+
+  Adam HA Hegyi
+  alien@eik.bme.hu
+  ha211@hszk.bme.hu
+  

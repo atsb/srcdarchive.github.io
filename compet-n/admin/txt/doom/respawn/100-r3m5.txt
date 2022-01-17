@@ -1,0 +1,14 @@
+100-R3M5.LMP --> E3M5 on UV with respawning
+-------------------------------------------
+
+  Kills   :  2% 
+  Items   :  8%
+  Secrets : 10%
+  Time    : 00:49
+
+  Maximum Minimum Health = 100%
+                           ----
+
+Comments: Easy. Just get to the exit while the invulnerability lasts.
+
+Robert Reevy <drparadox@usa.net>

@@ -1,0 +1,17 @@
+100-N3M5.LMP --> E3M5 Nightmare
+-------------------------------
+
+  Kills   :  4%
+  Items   :  8%
+  Secrets : 10%
+  Time    : 00:44
+
+  Maximum Minimum Health = 100%
+                           ----
+
+  I lost the nm speed record on this one to Peo, who did it in 0:32 (the
+best time I have made trying to beat it is 0:33).
+  I don't know if this entry is beatable. There is a secret room containing
+a soul sphere in the main room but I have no idea where the yellow key is.
+
+Robert Reevy <drparadox@usa.net>

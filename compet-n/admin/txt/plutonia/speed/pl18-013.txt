@@ -1,0 +1,28 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PL18-013.TXT
+
+  PL18-013.ZIP
+
+  PL18-013.LMP  - 
+
+  Recorded using Final DooM Version 1.9
+  DooM2 -PlayDemo with Version 1.9
+
+  DooM2 - Level 18 - Neurosphere
+
+  Kills     ??%
+  (Items    ??%
+  Secrets  100%  and Time    0:13
+                            ------
+Comments:
+
+	Some modifications to Istvan's route, i take the BFG and megasphere
+	in a secret. That allow me go a lot faster. 
+
+	Optimal may be 0:10
+
+ Vincent Catalaà
+ 
+ peroxyd@wanadoo.fr

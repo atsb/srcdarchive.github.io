@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CS23-054.TXT
+
+ CS23-054.ZIP
+
+  CS23-054.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - "Barrels O' Fun"
+
+           Kills    Items   Secrets
+
+  Green      8%       36%      0%    - Bolton
+  Indigo     4%        4%      0%    - Radek
+
+
+              ************
+     and Time * 00:54.97 *
+              ************
+
+
+  Description :-)
+  
+  [ Bolton: ] 
+
+  The way this map is played doesn´t bring any interesting missions
+  for pl2, maybe there could be some useful job in spider room ...
+  Time sucks ofcourse :P
+
+  [ Radek: ]
+
+  Don't watch my view, it's just boring.
+  
+  
+   
+  Radek Pecka                  r.master@email.cz
+  Vaclav "Bolton" Kunes        boltn1@hotmail.com   
+
+  Members of DooManiaX clan -> http://doomaniax.bonusweb.cz

@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PR28-415.TXT
+
+ PR28-415.ZIP
+
+  PR28-415.LMP - Ultra Violence - Respawn
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 28 - The Sewers
+
+  Kills    104%
+  Items     11%                    
+  Secrets  100%  and Time = 4:15  
+                                   
+
+  Description: vdgg recently did a lot of work to compile an up
+               to date list of Compet-N records across all IWADS and
+               PWADS, and looking at it I saw an old record of mine
+               in a very glaringly bad time of 7:58. Hence this demo.
+               A bit more of a push on the speed and under 4 minutes
+               shouldn't be too hard, but this'll do for now.
+
+ 
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com

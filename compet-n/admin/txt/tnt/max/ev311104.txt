@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV311104.TXT
+
+ EV311104.ZIP
+
+  EV311104.LMP - Ultra Violence
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -file tnt31.wad -PlayDemo with The Final Doom Version 1.9 - Only
+  using teamtnt's fix for map 31: tnt31.wad
+  (available from http://www.teamtnt.com/other/tnt31fix.zip )
+
+  The Final Doom: TNT: Evilution - Level 31 - Pharaoh
+
+  Kills      100+% (max, my previous demos don't count)
+  (Items     whatavr)       *********
+  Secrets    100%  and Time * 11:04 *
+                            ********* 
+
+  description:
+
+  a defly improvable demo, 3rd upped recording meant as a base
+  to make a more effective and dangerous route.
+  i'll do it sometimes later or when someone beats this, but this
+  map is so boring that the boredom makes this demo a decent
+  one...
+  well actually it's a bit more exciting when you take more risks ... :)
+  but right now i'm sick of this map.
+
+  ethh <dimethyl@pandora.be>

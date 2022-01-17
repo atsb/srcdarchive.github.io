@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom2/coop/tyson" entry, please forward it.
+
+ct01-031.txt
+
+ ct01-031.zip
+
+  ct01p031.lmp
+  ct01s031.lmp
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 01 - Entryway
+
+          Kills    Items   Secrets
+
+  Green     48%       0%      40%      SlagDooM
+  Indigo    51%       0%       0%      Python
+
+  Time:    0:31.40
+
+
+Comment:      Work sux...we're tired...and: we REALLY hate chainsaws, they
+              make such a noise...
+              
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

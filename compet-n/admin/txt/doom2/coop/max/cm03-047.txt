@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm03-047.txt
+
+ cm03-047.zip
+
+  cm03d047.lmp
+  cm03s047.lmp
+
+  Recorded using DooM ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 03 - The Gantlet
+  
+           Kills    Items   Secrets
+
+  Green     60%      20%     100%      SlagDooM
+  Indigo    30%       0%       0%      Dark Friday
+
+
+  Time:    0:47.51
+
+
+Dark Friday: Well, went ok, just on time with my last shot.
+             (3rd demo of 9-sept).
+
+SlagDooM:    Another Kai/Dasa demo from the Stone Age down...
+                         
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Bjorn "Dark Friday" Hamels       (bjorn@hamels.nl)       
+  

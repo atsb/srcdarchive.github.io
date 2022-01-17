@@ -1,0 +1,52 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CM02-042.TXT
+
+ CM02-042.ZIP
+
+  CM02-042.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 2 - "Underhalls"
+
+           Kills    Items   Secrets
+
+  Green     44%      38%     100%      Adam
+  Indigo    45%      23%       0%      Waldon
+
+              *********
+     and Time * 00:42 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+  
+  Oh my God, what a massacre...
+  Now Waldon can give back that plasma package,
+  he has got.
+  (If you didn't understand the previous sentence,
+  ask me about my nick)
+  
+  [ Adam : ]
+  
+  The main improvement here is that we used the
+  cell pack as much as we could. My route is
+  pretty much a speedrun route, while Waldon
+  gets the cell pack and plasma gun, so he has
+  lots of cells to play with. This way I can
+  speed up my part nearly as much as in a speedrun,
+  and we still manage to kill all the monsters.
+  Btw, 90 monsters killed in 42 seconds, I think
+  that's nice :)
+ 
+  Authors:
+  
+  Laszlo Vecsei
+  waldon@matavnet.hu
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

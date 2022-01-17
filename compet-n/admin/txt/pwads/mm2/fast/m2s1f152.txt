@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m2s1f152.TXT
+
+ m2s1f152.ZIP
+
+  m2s1f152.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad mm2info.wad -playdemo with version 1.9
+
+  Memento Mori 2– Secret Map 1 – UV Fast
+
+Could be better, but nobody wants to do anything else with this level.
+
+Author: Revved

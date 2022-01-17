@@ -1,0 +1,14 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM
+Category:        NM Secrets
+Map:             e1m1
+Players:         2
+
+Kills:           33%
+Secrets:         100% 
+Time:            0:17
+
+Green:           Marko "Python" van der Want
+Indigo:          Arno "SlagDooM" Slagboom
+
+Comments:        Frustrating level, you need luck with the elevator.

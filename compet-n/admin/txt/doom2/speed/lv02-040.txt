@@ -1,0 +1,34 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+lv02-040.txt
+lv02-040.ZIP
+
+lv02-040.LMP - Nightmare
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 02 - "Underhalls" 
+
+Kills       %
+(Items      %)
+Secrets 100 %  
+
+   ...and Time  00:40
+               -------
+
+Description:
+
+Henna wrote:
+
+>It would really take a good player to push it down to 39sec.
+
+Well, as shown here, a bit better than that is certainly possible. This is
+an OK run literally - absolutely every little chunk of the level went OK,
+not great, but nothing fucked up, which is why it got the record. 38 would
+be a nice time here...also be nice to do it without blue armour (certainly
+it's possible). Running is very ugly - sorry, i'm playing under XP, it's
+jerky and the mouse input isn't very smooth.
+
+Adam Williamson
+adam.williamson1@btinternet.com

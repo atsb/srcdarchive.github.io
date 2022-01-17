@@ -1,0 +1,59 @@
+[ This is the description Kai-Uwe wrote as he did this map for the proposal
+  of the DHT6 pacifist title. ]
+
+LV06-PCF.TXT
+
+ LV06-PCF.ZIP
+
+  LV06-PCF.LMP - Pacifist style!
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom ][ - Level 06 - The Crusher
+
+  Kills     29%
+  Items     17%
+  Secrets   66%
+  Time    6:39
+
+Description:    Oh man, I'm really an expert now for every scene up to the
+                last room, but this one is a real mess with all these Dudes.
+                But finally I made it to the end. Dunno if one should rate
+                this map, up to the second megasphere it's medium to hard,
+                but the yellow door room is hard to survive with 200%.
+                Maybe it's one of the hardest, dunno how difficult is e3m8.
+                You need quite a lot of luck here.
+                Just the tips to complete this map:
+                Run quick past the 1st sergeant, sometimes the Revenant will
+                not see you. Then (on the way down or up) stand the way one of
+                the Imps next to the Supercharge can see you (not necessary,
+                you can awake them later when you've taken the blue key).
+                When you've jumped and pressed the button, wait a bit, because
+                if the Spider starts to shot, she will only hit the Pigs.
+                Most of the time you can survive with your 100% then.
+                Take thew Supercharge, just easier to run back then.
+                I recommend to take the Megasphere now, pass the blue door,
+                and have the sergeant be hit. Stand at the right side, and run
+                past the 3 sergeants to the left to the wall, wait there until
+                there is a gap to the left of the Imps, and the remaining 2
+                sergeants always ( :) stand in your way.
+                Have all Dudes killed but one, who will be killed by sergeant
+                Imp. At least that's the best way. If not, maybe the way it's
+                done here. Take the 2(!) medkits, and kill the 3 Imps (I'm
+                pacifist :), then take the red key or the megasphere if you
+                must, and have the Lost Soul and the remaining Imps killed.
+                If all 3 spectres are hit, you can simply wait in the corner
+                (I tried to hit them with the Revenants and gave that up after
+                the 1st hit.) Then there will be the difficult part, and I've
+                got no tips, how to complete it, I leave it to those who
+                will (have to) play that map.
+               
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:    http://user.cs.tu-berlin.de/~gazelle [/doom.html]
+
+IRC:    @#berlin        ( irc.uni-*.de / irc.funet.fi / irc.stealth.net )
+

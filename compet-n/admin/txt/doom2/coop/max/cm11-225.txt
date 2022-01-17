@@ -1,0 +1,33 @@
+This is a "COMPET-N/doom2/net-x/" entry, please forward it.
+
+UV11-225.TXT
+
+ UV11-225.ZIP
+
+  UV11-225.LMP
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 11 - "O" of Destruction - Circle of Death
+
+           Kills    Items   Secrets
+
+  Green      40       ??       66      Adam
+  Indigo     51       ??       33      Istvan
+
+  Time:    2:25
+
+
+Comment:   
+  
+   How I hate that fucking cyber, he killed me so many times during 
+ the first jump. What a recompense at the end to kill him myself (Istvan)
+
+   My route was easier, so we always had to restart because of Istvan :)
+   Not much to say really, time tells everything... (Adam)
+
+
+  Authors: 
+             Adam HA Hegyi <ha211@ural2.hszk.bme.hu>
+             Istvan Pataki <deity@balu.sch.bme.hu>

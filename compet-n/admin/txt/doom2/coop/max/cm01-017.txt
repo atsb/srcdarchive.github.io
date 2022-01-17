@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CM01-017.TXT
+
+ CM01-017.ZIP
+
+  CM01-017.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 1 - "Entryway"
+
+           Kills    Items   Secrets
+
+  Green     55%       0%      60%      Waldon
+  Indigo    44%      66%      40%      Adam
+
+
+              *********
+     and Time * 00:17 *
+              *********
+
+
+  Description :-)
+  
+  [ Waldon: ] 
+
+  Well, after the first hour I simply couldn't do a perfect run,
+  so it took me another two hours to make it. But finaly... :)
+  I recommend to see the standing "dead" Imps at the end.	
+  
+  [ Adam : ]
+  
+  Hmmm this was quite hard... we got 0:18 after an
+  hour of play, but decided that we should go for
+  something better... Needed 3 hours to get 0:17,
+  something always went wrong, we had 18.02 with 100%, then
+  17.xx with 96%, but finally we made it.
+  0:16 is optimal IMO, but it takes two MAP01 experts to
+  make it *hint* *hint*.
+  
+  Authors:
+  
+  Laszlo Vecsei
+  waldon@matavnet.hu
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EF01-107.TXT
+
+ EF01-107.ZIP
+
+  EF01-107.LMP - Ultra Violence - Fast - Speed
+
+  Recorded using "Final DooM"
+  DooM2 -PlayDemo with TNT - Evilution
+
+
+  Evilution - Map01 - System Control
+
+  Kills      100%
+  Secrets    100%  and Time  01:05
+                             -----
+
+Description:
+                Hmm, a half point maybe will. A nice was shattering troopers
+                and imps at the begin of this level.
+
+2 Vincent C. -> It wasn't easy to beat your good record, but your run had
+                some small bugs, which I fixed and added some improvements.
+
+2 ALL ->        btw. "joyb_speed 31" hasn't any effect in F.doom
+                but I tried to use "keyb_speed 31". Is this allowed? The
+                lmpc reported no problem. The visual and speed effect is
+                as same as autorun with "joyb_speed 31" in any versions of
+                DooM. Check it out, Adam!  :-)
+
+
+
+Author : Jakub "Avenger" Mahdal
+E-Mail : avenger@mail.cz

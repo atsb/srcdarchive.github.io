@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+LV16-246.TXT
+
+ LV16-246.ZIP
+
+  LV16-246.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - Suburbs
+
+  Kills      100%
+  (Items      80%)
+  Secrets    100% 
+      
+            ...  and Time  02:46
+                           -----
+  
+  Description:
+
+  I had dozens of demos beating Ian's record,
+  but this is the first one I got 100% kills.   
+  A cool map btw.
+ 
+
+  Radek Pecka
+  r.master@email.cz

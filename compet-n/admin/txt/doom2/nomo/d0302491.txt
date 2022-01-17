@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : d0302491.lmp & d0302491.txt
+Date     : 2012-11-07 16:01
+Game     : Doom 2: Hell on Earth
+Client   : doom2.exe v1.9
+Category : nomonsters
+Map(s)   : MAP03: The Gantlet
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 0%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:24:91
+===================================
+Description :
+
+Well, this level depends on monsters but I was bored so did it...

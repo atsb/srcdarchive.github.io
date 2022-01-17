@@ -1,0 +1,31 @@
+DOOM2:        Ver 1.9
+LEVEL:        7
+SKILL:        4
+TIME:         0:55
+ITEMS:        100%
+KILLS:        100%
+WHEN:         19 May 96  2:46am
+WHO:          Devereaux (Vincent E. Smith, SSgt, U.S. Air Force)
+WHERE:        Base Housing, RAF Alconbury England
+
+COMMENTS:  Special Thanks to Pigman and Danny.  Pigman for getting me
+           started on this damn level 7 speed kick. Danny for the
+           competition, because without it I could have never been
+           able to achieve this time.  I think this is about as fast
+           as it can be done....(I've said that a few hundred times)
+           I hope, because I just don't want to do this anymore. 
+	   The nightmares are getting pretty bad.
+
+MACHINE: AMD DX4/120 (256k cache), 16 Meg Ram , D.Stealth 64 (2 meg DRam)
+         And *most importantly* a 400dpi ALPS 500 series mouse, with NO
+         acceleration, vertical sensitivity ZERO, Horizontal cranked.
+
+MY CONFIG: LMB=Foward/RMB=Fire, A=L.Strafe, W=Backwards, E=Fire, D=Use,
+           SpaceBar=R.Strafe, Speed/Run is JoyB_Speed=31 in default.cfg
+           Special thanks again to Danny for the Speed trick, no more
+           key to press or key to wedge down.
+
+HOW TO REACH ME:   	vin-devereaux@msn.com
+			smithv@423abs.molesworth.af.mil
+
+ 

@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+FA02-111.TXT
+
+ FA02-111.ZIP
+  
+  FA02-111.LMP - Ultra Violence - Fast
+  
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+  
+  Doom2 - Level 2 - Underhalls
+  
+  Kills    100%
+  Items     70%
+  Secrets  100%  and Time  01:11
+                           -----
+  
+  Description:
+  
+  Fairly consistent shooting.
+  
+  
+  Ian Sabourin (Sslasher)

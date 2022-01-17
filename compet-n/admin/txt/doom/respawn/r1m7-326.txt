@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M7-326.TXT
+
+ R1M7-326.ZIP
+
+  R1M7-326.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    102%
+  (Items    45%)
+  Secrets  100%  and Time  03:26
+                           -----
+
+  Description:  A great map for -respawn. No problems with getting the
+                sufficient kills ratio.
+    
+       Author:  Donatas Tamonis
+
+       E-mail:  dtamonis@hotmail.com
+

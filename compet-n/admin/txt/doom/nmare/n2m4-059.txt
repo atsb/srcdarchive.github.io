@@ -1,0 +1,7 @@
+Author: Peo Sjoblom
+E-mail: peo.sjoblom@mbox300.swipnet.se
+Skill:  5
+Game:   Ultimate Doom
+Map:    e2m4
+Time:   0:59
+

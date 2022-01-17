@@ -1,0 +1,30 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cn19-100.txt
+
+ cn19-100.zip
+
+  cn19v100.lmp  
+  cn19z100.lmp  Nightmare !
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP19
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim	
+  
+  Time:    1:00
+
+
+Selim   :  Table-filling stuff :)
+Vincent :  1st entry, 1st try :) the BFG makes the en easier.
+
+
+Green:       Vincent "Peroxyd" Catalaa   (vincentDS@netcourrier.com)
+Indigo:      Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+

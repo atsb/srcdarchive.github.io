@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+R2M1-157.TXT
+
+ R2M1-157.ZIP
+
+  R2M1-157.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 1 - Deimos Anomaly
+
+  Kills    100%
+  (Items   100%)
+  Secrets  100%  and Time  01:57
+                           -----
+
+  Description:  The -respawn switch makes it easier to score 100% in that
+                map. You can leave the cacodemons and kill some soldiers
+                twice.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

@@ -1,0 +1,38 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL28-557.TXT
+
+ PL28-557.ZIP
+
+  PL28-557.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 28 - The Sewers
+
+  Kills    100%
+  Items     11%            ********
+  Secrets  100%  and Time  * 5:57 *
+                           ********
+
+
+  Description :-)
+
+  Ack! One of the least impressive maps in Plutonia. The sewer textures are
+  awful, and those tunnels make you sick. The gameplay is good over the
+  first four minutes (I especially like pumping those cells into those
+  monsters). But then it's player's nightmare! There are two LARGE monster
+  teleport places, and in 19 out of 20 demos you won't get them all teleported
+  in in reasonable time. The 2nd teleporter is worse, sometimes it takes
+  minutes for the last monster to finally come in! That's why my route
+  there seems stupid with all the messing around, going from place to place;
+  but it's still the best if you want to get under 6 minutes, heh.
+  My best exit with 99% was 5:52, and it was VERY tough to have this LMP
+  with 100% kills and under 6 minutes.
+  So level design people out there: ALWAYS test your monster teleporters
+  before you release your levels and don't let the monsters wander around
+  trying to teleport in!
+ 
+  Adam Hegyi
+  ha211@hszk.bme.hu

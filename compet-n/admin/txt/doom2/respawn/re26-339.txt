@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+RE26-339.TXT
+
+RE26-339.ZIP
+
+  RE26-339.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 26 - The Abandoned Mines
+
+  Kills    102%
+  (Items    72)
+  Secrets  100%  and Time  03:39
+                           -----
+
+Description:	This round I played safe. I'm so damn tired of getting kills in
+		the 90% category.
+               
+
+Author:   Jan Endre Jansen
+E-mail:   jejansen@uldals.vgs.no
+Doompage: http://home.sol.no/~doom/

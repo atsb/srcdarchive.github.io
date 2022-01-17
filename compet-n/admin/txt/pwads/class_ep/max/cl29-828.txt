@@ -1,0 +1,33 @@
+************************************************************************
+LMP Title  		: Classic Episode map 9 UV max run
+Filename                : clm9-828.lmp
+LMP Version             : 1.9
+Game                    : Ultimate Doom
+Pwad(s)                 : Class_Ep.wad
+Map Level(s)            : E2M9
+Skill                   : 4 (Ultra Violence)
+Length                  : 8:28
+
+Author                  : Anthony Soto
+Email Address           : neworderdatabase@hotmail.com
+Webpage 	        : http://thefish.8m.com/
+************************************************************************
+
+Description             : 
+
+I recorded this one for Doug. It's about time this one gets an initial
+entry also. Doug told me he is attempting a complete episode movie run
+but is having troubles with this map. So I whipped up this demo to show
+him how I deal with the map. I reckon this map should be easier in an
+episode run if you can carry over some rocket or cell ammo. 
+
+1st successful run through with 4 attempts taken. 
+
+Running quality is poor - I have been away from DOOM playing for at least
+a month. Aim wise I think I did alright considering the time that has
+passed since I played seriously.
+
+Recorded on February 3rd, 2001
+
+
+

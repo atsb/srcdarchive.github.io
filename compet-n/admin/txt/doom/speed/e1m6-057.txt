@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M6-057.TXT
+
+ E1M6-057.ZIP
+
+  E1M6-057.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 6 - Central Processing
+
+                       Time  00:57
+			     -----
+
+Description:
+
+So here's my first demo of 2004...have to keep going :). Was watching Andrey's
+TAS run of Episode 1 and it made me think I could push the end of this level
+even harder...got a couple more 0:59s then this, very nice :). Couple of moments
+where I miss shots or run into monsters, but overall pretty good run for this
+chaotic map. And this one is made on Linux (using dosemu to run doom.exe) with
+my nice Logitech MX700 cordless mouse...fun.
+
+Author:     Adam Williamson
+E-mail:     adam.williamson1@btinternet.com
+

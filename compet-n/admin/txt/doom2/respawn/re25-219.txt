@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+RE25-219.TXT
+
+RE25-219.ZIP
+
+  RE25-219.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - BloodFalls
+
+  Kills    106%
+  (Items    50)
+  Secrets  100%  and Time  02:19
+                           -----
+
+  Description:  I know this can be done alot faster, but this is the best
+                I get today (and it will cost poeppy some dozend tries to
+                beat it again ;-)
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

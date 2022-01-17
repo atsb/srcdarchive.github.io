@@ -1,0 +1,61 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV24-044.TXT
+
+ LV24-044.ZIP
+
+  LV24-044.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 24 - "The Chasm"
+
+
+  Kills   0%
+  Items   0%            /-------\
+  Secrets 0%  and Time  | 00.44 |
+			\-------/
+
+
+
+
+
+Description: Well, I REALLY hate those ledges... It was the end for a lot of
+	     my multiple Level-runs.
+	     I saw the very old entry by DL who had 56sek, and I thought it 
+	     is possible to improve this by at least 1 sec...
+	     So I took exactly his route (the ledges before the demonroom)
+	     After half an hour I had an unbelievable 47sec .lmp (give me a
+	     mail if you want to have it...looks really great)
+	     
+	     Then I saw the new record (45s) with a better route...and I
+	     thought I had lost at least 4 sec while waiting to teleport. So it
+             should be possible to break his time...and it was (:
+
+             DL...come on, give this map one more try...43sec iss possible. (:
+	    
+	     By the way...I don't think the ledges are the biggest problem.
+	     In my opinion the scene with the second switch is extremly hard to
+	     do.
+
+             09.01.98  18:30 pm CET
+	     
+             
+
+             Oh, I also upload, my other entries (map 20, 21, 25, u4m3,
+             25 100/100 and two coop uv single level .lmps...maybe sb. will
+             invent this new categorie) which are already in ftp.cdrom.com, to
+             this site... they are old but still not mentioned on this server. 
+             I haven't changed any of the texts.
+
+             I'm back (: with some more time to play Doom. Watch out for newer
+             entries 
+
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Hompeage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/           

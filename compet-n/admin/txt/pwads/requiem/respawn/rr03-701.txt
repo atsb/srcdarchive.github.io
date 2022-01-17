@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR03-701.TXT
+
+ RR03-701.ZIP
+
+  RR03-701.LMP - Ultra Violence with Respawn Monsters!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 03 - Poison Processing
+
+  Kills    108%
+  (Items    50%)          *********
+  Secrets  100%  and Time * 07:01 *
+                          *********
+                          
+
+  Description :-)
+  
+  I don't have much experience with -respawn, so I over-
+  estimated the number of monsters I had to kill.  It's
+  not a very dangerous level.
+
+  Xit Vono
+  xit_vono@yahoo.com

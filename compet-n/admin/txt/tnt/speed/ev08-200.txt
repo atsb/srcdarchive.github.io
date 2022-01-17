@@ -1,0 +1,22 @@
+This is a Doom .LMP "Competition" Entry
+
+ev08-200.txt
+ev08-200.zip
+
+ev08-200.lmp
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+TNT - Level 08 - Metal
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       2:00
+=--------------=
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

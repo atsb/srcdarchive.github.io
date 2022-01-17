@@ -1,0 +1,6 @@
+Author: Istvan Pataki
+E-mail: deity@balu.sch.bme.hu
+Skill:  5
+Game:   Doom2
+Map:    26
+Time:   01:58

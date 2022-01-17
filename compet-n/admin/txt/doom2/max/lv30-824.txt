@@ -1,0 +1,50 @@
+This is a DooM .LMP "COMPET-N/doom2/misc" Entry - Please forward it...
+
+LV30-824.TXT
+
+ LV30-824.ZIP
+
+  LV30-824.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 30 - Icon of Sin
+
+  Time    8:24
+  Items    83)             *************
+  Secrets   0%  and Kills  * Watch it! *
+                           *************
+
+
+Description: Even if it is annoying. (-timedemo ?)
+             Evil Monsters are: Archviles
+                                Pain Elementals
+                                Ravenants
+                                Cyberdemon
+                                Spider Mastermind
+                                Heavy Weapon Dude
+                                The last 3 don't appear :-(
+             I like:            Imps
+                                Spectres
+                                Pigs (What's their exact name ? Demon ?)
+                                Soldiers
+                                SS Soldiers
+                                The last 2 don't appear :-(
+             Indifferent are:   Cacodemons (they climb the levels themselves)
+                                Barons & Knights
+                                Mancubus'
+                                Arachnotrons
+                                Seargents
+
+I had some nice scenes while recording (not that, perhaps):
+                                A Mancubus fired, but nothing appeared.
+                                A spider fell down one level.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+

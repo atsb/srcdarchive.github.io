@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+pl19-021.zip
+ pl19-021.lmp
+ pl19-021.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file plutonia.wad -playdemo pl19-021
+
+Plutonia - Level 19 - NME
+
+Category: UV Speed 
+
+Totals:
+
+Kills	  6%
+Items	  0%
+Secret	  0%
+
+Time    0:21
+
+
+Comments: 
+
+I'd dismissed the exit glide as a waste of time, but just
+half an hour ago I found myself trying it again out of 
+insomnia and sheer boredom. To my amazement I got a 3:22 
+... then 1:21 ... then 0:53 - obviously this was leading 
+somewhere ;-) 
+
+So not so useless a glide after all, in fact it works 
+almost immediately in this run, though the time could be a 
+bit better due to bad running and snagging on the walls. 
+But I think I'll wait till someone beats it before trying 
+it again...
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+04/10/2006

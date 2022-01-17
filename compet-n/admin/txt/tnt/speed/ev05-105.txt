@@ -1,0 +1,22 @@
+This is a Doom .LMP "Competition" Entry
+
+ev05-105.txt
+ev05-105.zip
+
+ev05-105.lmp
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+TNT - Level 05 - Hanger
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time       1:05
+=--------------=
+
+Author: Drew DeVore "stx-Vile"
+E-mail: dadevore@oakland.edu

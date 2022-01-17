@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M207N759.TXT
+
+ M207N759.ZIP
+
+  M207N759.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 7 - Frustration
+
+  Kills    139%
+  (Items    63%)          ********
+  Secrets  100%  and Time * 7:59 *
+                          ********
+                          
+
+  Description :-)
+  
+  This map is not of extreme difficulty.  Once you get to the
+  berzerk you're past the hard part.  I use a trick where the
+  revenant opens a door so I can get a medikit.  It's not
+  necessary to do this to finish the map, but it's a secret
+  and this is a 100% secrets demo.
+
+  Xit Vono
+  Xit_vono@yahoo.com

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+U4M9-240.TXT
+
+ U4M9-240.ZIP
+
+  U4M9-240.LMP - Ultra Violence 
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 4 Mission 9 - Fear
+
+  Kills     100%
+  (Items     28)
+  Secrets   100%    and Time  02:40
+			      -----
+	    
+Description:    One of the more underrated Doom levels, this. Anders' demo
+                was very good, but finally I found a way to beat it. Made a
+                couple of changes to the route, particularly getting the
+                rockets and chaingun earlier. That's probably where the twelve
+                seconds came from...
+
+
+Author:    Chris "Ryback" Ratcliff
+
+E-mail:    ryback@fcmail.com

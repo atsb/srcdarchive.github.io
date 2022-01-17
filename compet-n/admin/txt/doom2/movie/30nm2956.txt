@@ -1,0 +1,63 @@
+This is a Doom .LMP "Competition" Entry
+
+30nm2956.txt
+30nm2956.zip
+
+30nm2956.lmp 
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2: Hell on Earth - Full game on Nightmare! skill
+
+           Time  
+---------------------
+LV 01  -   0:06  
+LV 02  -   0:59  
+LV 03  -   0:33  
+LV 04  -   0:40  
+LV 05  -   0:38  
+LV 06  -   1:08  
+LV 07  -   0:55  
+LV 08  -   0:57  
+LV 09  -   0:58  
+LV 10  -   0:39  
+LV 11  -   0:44  
+LV 12  -   1:15  
+LV 13  -   1:26  
+LV 14  -   0:59  
+LV 15  -   0:36  
+LV 31  -   0:36  
+LV 16  -   0:46  
+LV 17  -   2:06  
+LV 18  -   0:35  
+LV 19  -   1:01  
+LV 20  -   0:41  
+LV 21  -   1:03  
+LV 22  -   1:20  
+LV 23  -   1:11  
+LV 24  -   1:10  
+LV 25  -   1:08  
+LV 26  -   1:10  
+LV 27  -   0:34  
+LV 28  -   1:01  
+LV 29  -   2:17  
+LV 30  -   0:44  
+---------------------
+Total     29:56  
+        ---------
+
+C-N entry #207, movie run #40.
+
+No different route, just a broken milestone. :)
+
+You'll find little nagging mistakes all over this
+movie (12, 14, 17, 22, 24, 28, 29), but it's more
+experience for me and a few more seconds knocked
+off the final time.  I managed to once again bring
+down the time of my favorite map, 30 (cough) and
+I'm sure you'll enjoy the finale considering the
+first enemy I drew from the Icon's deck... lucky me.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+n4m1-035.txt
+n4m1-035.zip
+
+n4m1-035.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M1 - Hell Beneath
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets       ?
+
+Time        :35
+=--------------=
+
+C-N entry #140.
+
+Some gutsy play at the start was rewarding
+here.  Somehow, I stayed very healthy.  Also,
+for some strange reason, the demo desyncs in
+PrBoom.  Instead of telefragging the sarge, I
+get stuck inside of him when I go through the
+teleport.  Sorry about that. :(
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

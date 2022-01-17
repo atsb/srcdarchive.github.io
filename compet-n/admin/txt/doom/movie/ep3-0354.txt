@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+ep3-0354.txt
+ep3-0354.zip
+
+ep3-0354.lmp
+
+Recorded using Ultimate Doom Version 1.9
+Ultimate Doom -PlayDemo with Version 1.9
+
+Ultimate Doom - "Inferno" on UV Skill
+
+E3M1 - Hell Keep           -  :33
+E3M2 - Slough of Despair   -  :17
+E3M3 - Pandemonium         -  :28 
+E3M4 - House of Pain       -  :44 
+E3M5 - Unholy Cathedral    -  :26 
+E3M6 - Mt. Erebus          -  :27
+E3M7 - Gate to Limbo       -  :59
+E3M8 - Dis                 - excluded
+
+Total - 3:54
+
+Ugh... I don't think I'll ever be satisfied
+with these short episode runs.  For a 30nm
+I can excuse small mistakes over the course
+of a half-hour, but... meh, everything will
+bother me eventually. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+---------------------------------------------------------------
+
+  9132EV21.TXT
+  9132EV21.ZIP
+
+  9132EV21.LMP - TNT:Evilution / episode 3 / UV Max movie
+
+  Recorded with the Final DOOM executable (DOOM2.EXE)
+
+  level                        |  time 
+  ------------------------------------
+  Administration Center (MAP21): 14:26
+  Habitat               (MAP22):  6:13
+  Lunar Mining Project  (MAP23):  5:12
+  Quarry                (MAP24):  2:55
+  Baron's Den           (MAP25):  9:18  
+  Ballistyx             (MAP26):  7:15
+  Mount Pain            (MAP27): 15:48
+  Heck                  (MAP28):  9:27
+  River Styx            (MAP29): 12:24
+  Last Call             (MAP30):  8:34
+  
+  Total time: 1hr 31min 32sec
+
+  All maps 100% kills and secrets, except for the extra kills 
+  on the following levels:
+  MAP28: 103%
+  MAP29: 110%
+  MAP30: 103%
+  
+  Description :-)
+  I've been working on a TNT Max movie on and off since about 2001.
+  Eventually I realized that I had no hope of ever completing it
+  without doing this one first. Besides, DeDo asked for it. =) Well, 
+  here it is, it only took a little over a year...
+
+  Never_Again
+  tpoppins@juno.com

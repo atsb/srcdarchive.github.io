@@ -1,0 +1,13 @@
+==================================================
+   Entry for Gothcha! speedrun contest at Compet-N
+==================================================
+
+Player:   Ilkka Kurkela <mineral@planetquake.com>
+Homepage: www.planetquake.com/sda/mineral
+==================================================
+Type:	  skill 4 run
+Rules:    Kill Cyberdemon & Spider Mastermind
+Deadline: 28th March 1999
+==================================================
+Time:     1:05
+==================================================

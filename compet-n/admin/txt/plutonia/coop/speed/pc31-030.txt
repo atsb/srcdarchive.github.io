@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PC31-030.TXT
+
+PC31-030.ZIP
+
+PC31-030.LMP - Ultra-Violence, coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -File Plutonia.WAD -PlayDemo with Version 1.9
+
+Plutonia level 31 - cyberden 
+
+Kills       ?%
+Items       ?%
+Secrets     ?%
+
+              ********
+  and Time -  * 0:30 *
+              ********
+
+
+Description:
+player 1: Erik 
+player 2: Torn
+
+Erik:
+This could easily have been 29 if the exit slide was faster or if I hadn't get
+stuck on a demon. Much room for improvements in other words.
+   
+Torn:
+I got the robot movement, press switch, etc. This type run is annoying on zone, 
+would have been better on LAN
+
+Authors:      Erik Alm
+	      Kim "Torn" Bach
+
+E-mails:      erik_a80@hotmail.com
+	      tornthedark@hotmail.com
+

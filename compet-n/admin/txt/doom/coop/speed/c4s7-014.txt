@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c4s7-014.txt
+
+ c4s7-014.zip
+
+  c4s7p014.lmp
+  c4s7s014.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e4m7 - And Hell Followed
+
+          Kills    Items   Secrets
+
+  Green      4%       5%       0%      SlagDooM
+  Indigo     5%       0%       0%      Python
+
+  Time:    0:14.97
+
+
+Comment:      Nothing special, just deleting an AdamW demo. :)
+              
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

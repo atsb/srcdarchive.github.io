@@ -1,0 +1,40 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m210-624.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP10 - Clear For Death            |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items    100%           ********         |
+            |      Secrets  100%  and Time * 6:24 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Showing a possibility rather than recording a good Max - there's still |
+| room for improvement. An ambitious approach would involve TWO barons   |
+| killed indirectly - one by a telefrag, one by a crusher. Too difficult |
+| for me... I suspect if this map had been taken by Peo instead of       |
+| Anders, the time would have been 6:2x back then in 1998. I think so    |
+| because Peo put much more effort into the demos, especially the short  |
+| ones. I have beaten 3:23 on MAP12 only once, and didn't even get close |
+| to 1:27 on MAP01.                                                      |
+|                                                                        |
++========================================================================+

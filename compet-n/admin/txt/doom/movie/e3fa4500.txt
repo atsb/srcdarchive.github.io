@@ -1,0 +1,30 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+author:     Vincent "DS" Catalaa <vincentDS@netcourrier.com>
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Fast - Movie - 100% Kills & 100% Secrets
+            
+level:      Episode 3 - Inferno
+            
+stats:      
+
+   Level       Time    Kills   Secrets
+----------------------------------------
+   E3M1        2:20    100%     100%
+   E3M2        6:17    100%     100%     
+   E3M3        5:01    100%     100%     
+   E3M4        7:28    100%     100%     
+   E3M5        8:03    100%     100%     
+   E3M6        7:46    100%     100%     
+   E3M9        4:06    100%     100%     
+   E3M7        3:59    100%     100%    
+----------------------------------------
+   E3M8        -----[Excluded]------
+----------------------------------------
+   Total      45:00
+
+Description :
+
+	Definatly not an easy one.

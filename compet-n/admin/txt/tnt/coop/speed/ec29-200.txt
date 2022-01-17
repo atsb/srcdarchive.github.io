@@ -1,0 +1,33 @@
+This is a "COMPET-N/tnt/coop/speed" entry, please forward it.
+
+ec29-200.txt
+
+ec29-200.zip
+
+ec29-200.lmp - Ultra-Violence Speed
+
+Recorded using Doom 2 Version 1.9
+Doom2 -PlayDemo -file Tnt.wad with Version 1.9
+
+Final Doom: TNT Evilution - Level 29
+  
+              Kills   Items   Secrets
+             ------- ------- ---------
+green          0%       1%       0%       Vincent
+indigo         0%       0%       0%       Method
+
+            ********
+  Time:     * 2:00 *
+            ********
+
+
+Description: 
+
+            Not too hard map, coulda been faster but we were satisfied
+            with the time.
+
+notes:      Recorded on MS Zone with ping of 150 ms. 
+
+     
+Green:      Vincent "PerOxyd" Catalaa        (vincentds@netcourrier.com)
+Indigo:     Jakub "method_man" Razak         (dale007@volny.cz)

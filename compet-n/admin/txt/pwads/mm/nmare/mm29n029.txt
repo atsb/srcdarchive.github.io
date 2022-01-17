@@ -1,0 +1,40 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM29n029.TXT
+
+MM29n029.ZIP
+
+MM29n029.LMP - Nightmare Speedrun
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 29 - Island of Death
+
+Kills        1%
+Items       14%
+Secrets      0%
+
+              ********
+  and Time -  * 0:29 *
+              ********
+
+
+Description:
+
+The Red Key lift thing didn't lower so I had to grab
+it through the wall ^^'
+
+That probably cost me a second or two, but oh well, I
+got this thing out of the way. It's not that hard,
+just that first Chaingunner can be painful if you
+don't take him out on the first shot ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+27.04.2002

@@ -1,0 +1,14 @@
+108-E15N.LMP --> EV15 on Nightmare
+----------------------------------
+
+Kills   : 11% 
+Items   : 41% 
+Secrets : 33% 
+Time    : 00:48
+
+Maximum Minimum Health = 108%
+                         ----
+
+Comments: This is almost as easy as on plain respawn.
+
+Robert Reevy <drparadox@usa.net>

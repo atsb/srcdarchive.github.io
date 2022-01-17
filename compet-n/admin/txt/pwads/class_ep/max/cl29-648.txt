@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL29-648.TXT
+
+ CL22-648.ZIP
+
+  CL22-648.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M9 - Dissension
+
+  Kills    100%           
+  (Items    XX%)          
+  Secrets  100%  
+              .... and Time  06:48
+                             -----
+                          
+  Description: (I'd like to do some greetings first)
+
+Henna:  Hey, how have you been surviving with no internet?? :)
+Waldon: Damn, so vocal to get class_ep as one of the pwads and I don't see
+	many demos from yah. 
+Anders: You lazy bastard! ;) I still want my DE2 map4. Takes 5 minutes. heh
+Radek:  Thanks for the nice comments on CL21 and CL22. :)))) Nice demos.
+Chris:  Take a break from the HR -fast and try some classic. hehe
+Doug:   Whatever happened to doing that classic episode run? :~(
+Slag:   Stop playing darts and chess. More coop demos! hehe
+Adam H: heh. 
+
+Hmm, I'm seeming to make a lot of demands. To really get demos out of these people 
+you literally have to harass them everyday in IRC. :)) And that doesn't even work
+for Anders. heh. 
+
+Well, I redid this demo for fun, and perhaps to regenerate interest into doing 
+lmp's for classic episode. Althogh don't ask me how my demos could inspire 
+anyone to do anything, unless they think it's so pathetic they need to redo it.
+Which could be likely. I was hoping to get my previous first-run time of 8:38
+below 8 minutes. Well, I'll settle for 1:50 of improvement. :) Still crappy 
+though, and decent would be around 5:45. New approach at the beginning, which
+probably accounted for a good part of the improvement.
+
+Looking back, I'd probably remove that upper baron area with the hallway and 
+dungeon room. Just doesn't fit the level, and wasn't that impressive in the
+first place. But I was cutting and pasting various wad pieces from Jan and 
+Travers and wanted to include everything. Also, I died many times sometime 
+after the red key. Needs a tad more health. Doable, but not too fun. Ack,
+I wish I wasn't a perfectionist when it comes to levels design. Had it not
+been a compet-n wad I might have opted for a version 1.1 of the episode.
+
+blah blah, ok go watch now.
+
+Author:   Anthony Soto
+E-Mail:   neworderdatabase@hotmail.com
+Webpage:  http://thefish.8m.com/

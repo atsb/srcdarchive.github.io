@@ -1,0 +1,65 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN15S854.TXT
+
+ RN15S854.ZIP
+
+  RN15S854.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 15 - Last Resort - Secret Exit
+
+  Kills     99%
+  (Items    50%)          *********
+  Secrets   71%  and Time *  8:54 *
+                          *********
+                          
+
+  Description :-)
+  
+  This one turned out to be harder than I expected. I started
+  trying it some time ago after finishing rn22 but after a
+  couple days without success I got distracted with other
+  things and started trying again recently. I think there's
+  about 3 spots where things can get hectic. Well, the first
+  one starts from the bridge in the room with 2 spiders.
+  Sometimes if the hell knight respawns early you can kill him
+  with rockets so the door stays open. This doesn't happen that
+  often but when you can do that it is quite convenient. After
+  that you have to kill a couple of barons and then get through
+  the blue key room which can have up to 3 mancos in it. In my
+  TAS demo and in my early attempts I would kill the mancos with
+  single barrel shotgun so they wouldn't get into that room, but
+  then that's boring to kill them that way and they can still be
+  a pain outside since probably all 3 will respawn. With this
+  method you can either make a run for it preferrably with the
+  caco holding open the door or kill a few mancos and hide in
+  the far corner for a while. After that I found that once
+  up the stairs the best way to deal with a bunch of gunners is
+  with rockets and then chaingun to finish them off. From here
+  until the soulsphere things are less intense. In this demo you
+  can see that a pain elemental shot a skull out which bothered
+  me for a while. Anyways at the sphere it can be a problem to
+  get down without getting stuck on pigs and imps, and then one
+  has to hope that one can avoid the teleporting pigs at the key
+  and preferrably avoid the closing bars as well. The red key
+  spot is very dangerous. In my TAS demo I killed both pain
+  elementals before dealing with the baron, but I think that's
+  at least as dangerous as the way I did it. After that if you 
+  have decent health left it shouldn't be too hard. I only made
+  it here twice and the last time I had low health and had ammo
+  problems with the teleporting pigs. I took the secret exit
+  in this demo, but after reaching the megasphere, I think it's
+  not difficult to proceed to the normal exit either. Nightmare
+  secrets may be worth looking at as well, as I missed only 2
+  secrets, and I think one of them was the berzerk. The other
+  one is a green armor, which shouldn't be too hard to get.
+  It probably doesn't make much sense to get that in a regular
+  nightmare run because there's another green armor later on
+  and I'm usually at 100/100 there anyways, so it would only
+  help with the mass of gunners.
+
+  Xit Vono
+  Xit_vono@yahoo.com

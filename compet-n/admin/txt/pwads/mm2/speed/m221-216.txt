@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+m221-216.TXT
+
+ m221-216.ZIP
+
+  m221-216.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 21 - Sanctuary by Andy Badorek
+
+
+  Kills     18%
+  Items     31%           
+  Secrets   16%  and Time  2:16 
+                         
+
+  Description
+
+Two years ago I recorded a 2:37 run after Casey beat my first exit demo with the shortcut. I was going to upload my new demo to incoming and found there a new record with time 2:27. Next several evenings I was trying to beat Oyvind's time. Got two 2:27 demos but no faster ones. Now I tried this a run style level for a change after map 22 and in twenty minutes got this lucky demo. My first exit was 2:30. This is second one. 
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+17.05.2005
+

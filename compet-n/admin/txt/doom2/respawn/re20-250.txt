@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE20-250.TXT
+RE20-250.ZIP
+
+RE20-250.LMP - Ultra Violence with -RESPAWN
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 20 - "Gotcha!"
+
+Kills    104%
+(Items    53%)
+Secrets  100%  
+
+   ...and Time    02:50
+                  -----
+
+
+Description: Hmm, it was very easy beating "Poeppys" long standing record
+	     from late -97. I got 03:20 after first try so I had to get it 
+	     below 3 min. I'm sure it's possible to come up with a better route
+	     but hey, you figure it out :)
+	   
+             Hmmmm that will be another 0.5 to Norway, think I'll do this
+	     with the -fast option.
+   	
+
+Author:      Henning Skogsto
+E-mail:      hskogsto@c2i.net
+Doompage:    http://home.sol.no/~doom/

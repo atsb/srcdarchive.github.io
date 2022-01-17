@@ -1,0 +1,7 @@
+Author: Istvan Pataki
+E-mail: deity@balu.sch.bme.hu
+Skill:  5
+Game:   Ultimate Doom
+Map:    e2m1
+Time:   0:55
+

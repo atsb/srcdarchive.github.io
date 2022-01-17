@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HF242245.TXT
+
+ HF242245.ZIP
+
+  HF242245.LMP - Ultra Violence with -fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 24 - Post Mortem
+
+  Kills    100%
+  Items     ??%           
+  Secrets  100%  and Time = 22:45 
+                          
+                          
+  Description: Was never happy with the time on my last recording here,
+               but then nobody's bothered to beat it either :) My normal
+               route at the start here was to use the invuln time
+               to release the revenants, and since that didn't happen
+               in this demo you could gain a minute easy. With the slightly
+               sloppy handling of the end it should be quite easy to get
+               below 20min here. 
+  
+
+  Chris "Ryback" Ratcliff
+  ryback@gmail.com
+  

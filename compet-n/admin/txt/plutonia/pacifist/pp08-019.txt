@@ -1,0 +1,35 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+pl08p019.zip
+ pl08p019.lmp
+ pl08p019.txt
+
+Recorded using Doom2 Version 1.9
+
+doom2 -file plutonia.wad -playdemo pl08p019
+
+Plutonia - Level 08 - Realm
+
+Category: UV Speed / Pacifist
+
+Totals:
+
+Kills	  2%
+Items	  0%
+Secret	  0%
+
+Time    0:19
+
+
+Comments: 
+
+Credit to Grazza for pointing out the glide possibility.
+It's a very easy one to do, but getting yourself aligned
+quickly is the real problem here. A sky-high Archie jump
+would finish off nicely, but he never seems to attack
+soon enough :-(
+
+
+Author:	"cack_handed"
+Email:	cack@emil.vbox.co.uk
+01/11/2006

@@ -1,0 +1,93 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+---------------------------------------------------------------
+
+2638EV01.TXT
+
+ 2638EV01.ZIP
+
+  2638ev01.lmp - The first ten TNT:Evilution levels done on 
+  Ultra Violence nonstop.
+
+  Recorded using Doom ][ executable v1.9.
+  To play this demo back correctly, use Doom ]['s doom2.exe
+  v1.9, as in the example below:
+  
+  doom2 -file <tnt_path>tnt.wad -playdemo 2638ev01
+  
+  where <tnt_path> is the directory where your TNT.wad resides. 
+  Note that if played back with the Final Doom's doom2.exe, the 
+  demo will go out of sync on Open Season (map06)! This is due 
+  to the different way Final Doom's exec handles teleporting.
+ 
+  A lot of ppl forget to mention they use Doom ]['s doom2.exe in 
+  their .TXT files, which is *very* annoying. Hope the above mod 
+  to the standard Compet-N form will help keep things clear from 
+  now on. :>
+
+  System Control (map01):  0:39
+  Human BBQ      (map02):  2:05
+  Power Control  (map03):  2:32
+  Wormhole       (map04):  0:41
+  Hanger         (map05):  2:17
+  Open Season    (map06):  3:40
+  Prison         (map07):  1:30
+  Metal          (map08):  5:15
+  Stronghold     (map09):  5:07
+  Redemption     (map10):  2:42
+
+  Total time: 26:38
+
+  Description :-)
+  
+  (map01): I have no idea how Vince does this one in 27 seconds. 
+           The fastest I was ever able to manage was :35. Guess 
+           it's things like this that separate Doom Gods from 
+           good players :P
+  
+  (map02): I used to spend over four minutes here - I'm a cautious 
+           mofo! With luck, you can ignore the crowd of Pinkos and
+           Specters on the main battlefield; but you often pay the 
+           price later on if they start acting up when you have to 
+           jump to the Yellow Key ... With lots of luck, I get 
+           around 1:50 sometimes.
+
+  (map03): Xit's average (1:57) is much better than mine. But he's 
+           a much better player anyway ...
+
+  (map04): ... even when he plays it safe (:33). I don't remember 
+           having anything under :37 here even if I threw caution 
+           to the winds.
+
+  (map05): There's no need to waste time on either the Supercharge 
+           or the Blue Armor - the next board is quite easy and 
+           has plenty of Medkits. Perhaps it's possible to cut down 
+           some time by braving all those Chain Dudes on the balcony 
+           instead of feeding them some rockets from afar.
+
+  (map06): A very easy level; except no matter how fast you run and 
+           dodge, you won't be able to get below three minutes due 
+           to the map's size and lack of shortcuts. 
+           Well, at least not if your name doesn't have a Catalaa 
+           or Vono somewhere in it :P.
+
+  (map07): Run like hell, and hope the Skeleton at the end will be 
+           nice to you :>.
+
+  (map08): This is just a sneak preview of the sheer size of the TNT 
+           maps to come. I used to spend over seven minutes here. Gah.
+
+  (map09): It's not uncommon to have difficulties shortcutting to the 
+           Red Key switch. Fortunately, I managed to avoid them this 
+           time around.
+
+  (map10): I didn't realize the run was practically over almost until 
+           the end. This TXT file took longer to write, I think!
+
+  This is my first submission to Compet-N, a route that I worked out 
+  largely on my own. My humble respects go out to the incredible skills 
+  of all Compet-N'ers. You guys are out of this world!
+  Thanks to Rob Elwood and Doug "Opulent" Merill of the r.g.c.d.* fame 
+  for their support of my TNT endeavor.
+
+  Serge "Never_Again" Marudov
+  tpoppins@juno.com

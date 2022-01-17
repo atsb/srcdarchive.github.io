@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+RE16-318.TXT
+
+ RE16-318.ZIP
+
+  RE16-318.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - Suburbs
+
+  Kills    101%
+  (Items    80%)
+  Secrets  100%  and Time  03:18
+                           -----
+
+  Description:  A very easy one. I tried to do it below 3:00 but it's not
+                easy to score 100% kills then. But as this one is short,
+                easy and full of action it is a candidate for a little
+                poeppy vs rini competition ;-)
+               
+                Now only map 15 is missing ...
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

@@ -1,0 +1,29 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV05-328.TXT
+
+ EV05-328.ZIP
+
+  EV05-328.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 05 - Hanger
+
+  Kills    100%
+  (Items    33%)           
+  Secrets  100%  
+
+   ...and Time  3:28
+               ------
+
+
+Description: I wasn't much lucky in the room with Revenants. I think it's
+             possible to go below 3:20.
+            	     
+
+
+Author:  Radek Pecka
+E-mail:  r.master@email.cz
+

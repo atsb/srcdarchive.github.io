@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+100-R1M4.TXT
+
+ 100-R1M4.ZIP
+
+  100-R1M4.LMP - UltraViolence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 4 -
+
+  Kills     71%
+  (Items    44)
+  Secrets  100%  and Time  03:58
+
+  Maximum Minimum Health = 100 %
+                           -----
+
+  Description :
+
+  To get the soul-sphere you've got to pass the lava. That costs up to 10%
+  as S. ;-) showed in his 090-r1m4. It's no problem to do it with just 5%
+  loss and to score 95%. On addition there are some health boni one can take 
+  before passing the lava. Going to the mega-armor looks too dangerous to me, 
+  so I take the health boni at the blue key card. That's much easier if one 
+  has a shotgun - costs some time to get one, but SAFETY is the goal. 
+  With a health of 105% I'm prepared for the lava run and end it with 100%.
+  That's the first damage I take and I think therefore the score has to 
+  be 100%.
+  (of course health doesn't drop below 100% after getting the soul-sphere :-)
+
+  If someone is able to pass the lava without any loss, he will propably 
+  score something like 190% ... 
+
+  Author: Rini (Steffen Udluft)
+
+  E-mail: rini@mppmu.mpg.de
+

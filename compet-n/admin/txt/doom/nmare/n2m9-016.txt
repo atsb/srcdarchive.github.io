@@ -1,0 +1,11 @@
+N2M9-016.LMP --> E2M9 Nightmare!
+--------------------------------
+
+  Kills   =   7%
+  Items   =  50%
+  Secrets = 100%
+  TIME     = 00:16
+
+Comments: This level is not so easy at this pace on nm.
+
+Robert Reevy <drparadox@usa.net>

@@ -1,0 +1,39 @@
+This is a Doom .LMP "Competition" Entry
+
+pl32-337.txt
+pl32-337.zip
+
+pl32-337.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP32 - Go 2 It
+
+=--------------=
+Kills      113%
+Items      100%
+Secrets    100%
+
+Time       3:37
+=--------------=
+
+C-N entry #120.
+
+Thanks to Andy for his demo here.  This
+is one of the few levels of any doom that
+I have never played through completely.. I
+believe the only other one was ev31 because
+it lacked a certain key. :)
+
+The gameplay is similar to av32, IMO.  It
+was fun for a while, but relying too much
+on infights to produce fast times made me
+lose interest (no offense to Andy, who made
+AV32). I tried to improve this one, but perhaps
+this demo was too lucky for me to beat, or I was
+too bored to stick with it.  I thought about
+starting a small max pack for HR, so enjoy this
+plutonia pack in the meantime.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

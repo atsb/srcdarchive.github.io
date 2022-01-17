@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop UV max
+mission:  e2m4
+
+time:     3:11
+
+xit-vono: Mostly punching on my part.
+
+Vincent:  no punching = good for me :P
+
+
+          

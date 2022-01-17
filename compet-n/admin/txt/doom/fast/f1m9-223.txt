@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+f1m9-223.zip
+
+ f1m9-223.lmp -md5sum aa0688964f25ca9908067acf148663c6
+
+  f1m9-223.txt -Ultra-Violence -fast
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Knee-Deep in the Dead - Military Base
+
+  Kills:  103 / 103 (100%)
+  Items:   13 / 43  (30%)            ********
+  Secrets:  2 / 2   (100%) and Time  * 2:23 *
+                                     ********
+  C-N entry #73.	Date: 2015.09.20
+
+  Description :)
+  My goal was 2:24. I wanted to beat Anders Johnsen by 30
+  seconds. I've spent a lot of time on this map and learned
+  quite a lot about it, but the simplest thing to take away is
+  that if you want UV-FAST records, just fallow the MAX rout
+  more closely than the record-holder did. This fallows the MAX
+  rout quite closely, though weapon usage is much different.
+  I'm disappointed that the door behind the final imp didn't
+  raise, that could have saved 2 seconds if an invisible pinky
+  died there. The barrel switch incident is also embarrassing.
+  I tried to improve this demo for a few hours but I'm ready to
+  move on to other maps. The time is good enough that I don't
+  have to worry about someone else beating this on a simple whim.
+     
+  By the way, COMPET-N record was 2:28 by me, dated:
+  2015-09-16.
+
+  Complete Historic COMPET-N Leaderboard:
+   6:15 - Thomas Pilger    - 1998-04-01
+   4:06 - Jan Endre Jansen - 1998-08-15
+   3:51 - Anders Johnsen   - 1999-04-04
+   3:17 - Chris Ratcliff   - 2000-03-06
+   2:54 - Anders Johnsen   - 2000-03-07
+   2:47 - Archy            - 2015-09-06
+   2:36 - Archy            - 2015-09-12
+   2:32 - Archy            - 2015-09-13
+   2:28 - Archy            - 2015-09-16
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

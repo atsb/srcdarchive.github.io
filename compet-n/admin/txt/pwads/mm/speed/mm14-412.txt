@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm14-412.TXT
+mm14-412.ZIP
+
+mm14-412.LMP - Ultra Violence!
+  
+This is a Compet-n/Memento Mori entry...  
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -File MM.wad -PlayDemo with Version 1.9 - Only
+
+Memento Mori - Map14
+
+Time - 4:12
+     -------
+
+Map description
+-------------------
+A good level for speedrunning, imho.
+
+Description: This is my first demo for compet-n. It sucks, but hey, now I'm on the map. =)
+	     The place I messed up the most was fighting the cloud of chaingunners which
+	     comes out from that little nook by the mancubus. I started off by trying to
+	     snipe at them, but it appears a SSG rush works better.
+
+Date: 3/25/2002
+
+Author: SpinSpyder<KaK>
+E-mail: crow1126@bolt.com

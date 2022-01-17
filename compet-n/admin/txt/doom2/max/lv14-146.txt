@@ -1,0 +1,33 @@
+This is a Doom .LMP "Competition" Entry
+
+lv14-146.txt
+lv14-146.zip
+
+lv14-146.lmp 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom 2 - Level 14 - The Inmost Dens
+
+=--------------=
+Kills      100%
+Items       50%
+Secrets      0%
+
+Time       1:46
+=--------------=
+
+C-N entry #65.
+
+When I first started running this level, I couldn't get below two minutes. :)
+Eventually I got a 1:52 and just couldn't stop playing it.
+
+I think my approach to the archvile room helps out quite a bit, as it keeps him
+moving in a straight line the majority of the time.
+
+One last note: this run is 3 seconds faster than the TAS record (by Peo) so I
+guess it can't suck THAT bad. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

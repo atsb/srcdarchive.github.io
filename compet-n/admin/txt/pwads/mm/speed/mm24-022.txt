@@ -1,0 +1,26 @@
+This is a Doom .LMP "Competition" Entry
+
+MM24-022.TXT
+MM24-022.ZIP
+
+MM24-022.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm.wad -playdemo with Version 1.9
+
+Momento Mori - Level 24 - Diehard
+
+Kills     ???
+Items     ???
+Secrets   ???
+Time      :22
+         ----
+
+C-N entry #51.
+
+Another easy level from the third episode, and another plus for the movie.
+
+Adam or Sedlo: improve this crap. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

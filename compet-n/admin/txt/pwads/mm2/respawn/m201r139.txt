@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M201r139.TXT
+
+  M201r139.ZIP
+
+    M201r139.LMP - Ultra-Violence -respawn
+
+    Recorded using Doom2 Version 1.9
+    Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+    Memento Mori 2 - Level 01 - Outpost
+
+    Kills      110%
+    Items       51%
+    Secrets    100%
+
+                 ********
+      and Time - * 1:39 *
+                 ********
+
+  Description:
+
+  I wanted to try out -respawn. Mm, carnage.
+
+  Jason Dyer
+  jdyer41@aol.com

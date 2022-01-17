@@ -1,0 +1,33 @@
+This is a DooM .LMP "Copetition" Entry - Please forward it...
+
+LV32-014.TXT
+
+ LV32-014.ZIP
+
+  LV32-014.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.666
+  And Converted to Doom2 Version 1.9
+
+  Doom2 - Level 32 - "Grosse"
+
+  Kills     15%
+  (Items    33)
+  Secrets    0%  and Time  00:14
+                           -----
+
+
+Computer:  486DX33 ISA with standard VGA and PC-Speaker
+           (I insist to write this)
+
+Commenta: It was not simple to beat those 16 secs by "Demonlord"
+          but it was also not sooo difficult. It looked as if 14
+          secs will be the Ultimate, never-to-be-beaten, record.
+          And I tried for almost 2 hours and got this one. YEAH!
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+

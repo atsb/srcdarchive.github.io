@@ -1,0 +1,24 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+ER26-541.TXT
+
+ ER26-541.ZIP
+
+  ER26-541.LMP - Ultra Violence - Respawn
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Doom2.Exe Version 1.9 - Only!
+
+  Final Doom - TNT Evilution - Level 26 - Ballistyx
+
+  Kills    103%
+  Items     ??%           
+  Secrets  100%  and Time = 5:41 
+
+
+  Description: Slower than max, but this level can be harder having to
+               kill respawning monsters.
+
+
+  Chris "Ryback" Ratcliff
+  jaranbue@yahoo.com.au

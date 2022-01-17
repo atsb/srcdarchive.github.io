@@ -1,0 +1,28 @@
+This is a DooM .LMP UV-speed "Competition" Entry - Please forward it...
+
+ec17-045.TXT
+
+ ec17-045.ZIP
+
+  ec17-045.LMP - uv speed
+
+  Recorded using doom2 1.9 -file tnt.wad ! @nederlan 2002
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: evilution - Level 17
+
+              *********
+     and Time * 00:45 *
+	      *********
+
+	green:  ethh	dimethyl@pandora.be
+	indigo: df	bjorn@hamels.nl
+
+  Description :-)
+  
+  [ ethh: ]
+
+	we used vince's old route to make a funny demo that focuses on 
+	2 players sync.
+
+  15 july 2002

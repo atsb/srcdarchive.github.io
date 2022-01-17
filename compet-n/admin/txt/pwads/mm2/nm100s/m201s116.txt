@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M201S116.TXT
+
+ M201S116.ZIP
+
+  M201S116.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 1 - Outpost
+        
+  Kills     87%
+  (Items    53%)          ********
+  Secrets  100%  and Time * 1:16 *
+                          ********
+                          
+
+  Description :-)
+    
+  My goal was to get a demo that was about as good as my
+  nm speed demo on this map.
+
+  Jim “Xit Vono” Leonard
+  xit_vono@yahoo.com

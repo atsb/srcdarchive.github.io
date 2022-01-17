@@ -1,0 +1,98 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+10NMNET2.TXT
+
+ 10NMNET2.ZIP
+
+  10NMNET2.LMP - Two Players COOPerative NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 1 to Level 10
+
+                                               Approx
+                        Kills Items Secrets     TIME    Health Armour
+
+  LV 01 Entryway          29%   0%    0%        0:22     100%    0%  Green
+                          14%   0%   20%                  72%   97%  Indigo
+
+  LV 02 Underhalls        37%  38%    0%        1:39      66%    0%  so on
+                          42%  42%  100%                 108%  152%   ...
+
+  LV 03 The Gantlet       35%  20%  100%        1:16      76%  115%
+                          19%  10%    0%                 182%  152%
+
+  LV 04 The Focus         70%  60%   33%        1:52     169%  176%
+                          43%   0%    0%                  83%   62%
+
+  LV 05 Waste Tunnels      5%   0%    0%        0:50     158%  166%
+                          14%  42%    0%                 132%  162%
+
+  LV 06 The Crusher       47%   5%    0%        4:38     124%   92%
+                          38%  11%   66%                  92%  102%
+
+  LV 07 Dead Simple       52%  28%    0%        1:03     197%  198%
+                          42%  28%  100%                 147%  148%
+
+  LV 08 Tricks and Traps   0%   0%    0%        0:43     197%  198%
+                          11%  60%    0%                 200%  148%
+
+  LV 09 The Pit           22%  34%    0%        2:28      77%   45%
+                          24%   6%    0%                 196%   96%
+
+  LV 10 Refueling Base     6%  10%    0%        1:57      65%    0%
+                          10%  28%   33%                 146%  200%
+
+
+                                  Total Time = 16:48 min
+
+                                [ Gross Time = 19:19 min ]
+
+ Description:
+
+ Level 02: Nice coop, this way it's really easy.
+
+ Level 04: Green collecting the keys, while Indigo makes some cover action.
+
+ Level 05: The invulnerability makes extremly easy, no cooperation needed,
+           the exit room can be tricky...
+
+ Level 06: Nice coop, some role changing in red key room (green had too many
+           energy :) ) it cost some seconds.
+
+ Level 07: It's rather easy...
+
+ Level 08: Another single player level, too much invulns.
+
+ Level 09: It's a good place to cooperate, and we really use this chance.
+
+ Level 11: Sorry but we were not prepared for this one :)
+           At the begining we tried to discus the plan, but the cyberdaemon
+           doesn't want to cooperate with us, he stands in the way :(
+
+ This lmp is a result of a 3 days practice, but we keep on working, soon we
+ do the remaining levels too :)
+
+ Hope you like it!
+
+
+ Green: Istvan Pataki   <deity@balu.sch.bme.hu>
+ Indigo: Laszlo Magori   <gorila@sirkan.sch.bme.hu>
+
+
+[  Admin. Note :-) Yes, love it ! Note that although you make this look
+   rather easy it is a *lot* harder than it looks. Thanks for providing
+   your own table data... If anyone wants to beat this they must get as
+   far as level 12 and remember NO respawning - If you get fragged, you
+   must let your buddy/ies finish the level and may rejoin at the start
+   of the next level, without any big weapons.
+
+   So how many points is this worth... easy 1 point each for each level
+   completed - so that's 10 points each... until this gets beaten.
+
+S.;-) aka. The "Judge". ]
+
+

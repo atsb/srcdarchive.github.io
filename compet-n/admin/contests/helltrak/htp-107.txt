@@ -1,0 +1,18 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htp-107.lmp
+
+LMP Version             : Doom2 v1.9
+Map - Level             : Helltrak - map01
+
+Length                  : 1:07, UV pacifist
+
+Author                  : Ian Sabourin (Sslasher)
+Email Address           : iansabourin@sympatico.ca
+
+Description             : A pretty good run.
+                                                    
+************************************************************************

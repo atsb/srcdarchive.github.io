@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m208f646.TXT
+
+m208f646.ZIP
+
+m208f646.LMP - Ultra-Violence -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 08 - Stigmata by Denis Moeller
+
+Kills     100%
+Items      68%
+Secrets   100%	and Time - 6:46
+
+Description:
+
+This is my second exit without live monsters. I have six exits with 99% kills and the fastest of them is 6:28.
+          
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+18.05.2007

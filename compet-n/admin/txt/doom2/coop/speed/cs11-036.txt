@@ -1,0 +1,32 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+cs11-036.txt
+
+ cs11-036.zip
+
+  cs11-036.lmp Speed
+
+
+  Recorded using Doom ][ Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level MAP11
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:36
+
+
+Selim   : not too bad ... could be a lot better though :p
+Vincent : 1 sec better, my demo with nico wasn't that bad.
+          
+
+
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

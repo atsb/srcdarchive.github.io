@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS02-041.TXT
+
+ RS02-041.ZIP
+
+  RS02-041.LMP - NightMare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 02 - Sacrificium
+        
+  Kills     20%
+  (Items   100%)          *********
+  Secrets  100%  and Time * 00:41 *
+                          *********
+                          
+  Description:
+
+  An easy run.
+
+
+  Radek Pecka
+  r.master@email.cz
+   

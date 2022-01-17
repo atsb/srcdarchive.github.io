@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m2261225.TXT
+
+m2261225.ZIP
+
+m2261225.LMP - UV -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 26 - Base Exposure by Mark Klem
+      
+Kills     101%
+Items      88%
+Secrets    85%	and Time - 12:25 
+
+
+Description:
+
+First exit.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+11.06.2007

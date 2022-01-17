@@ -1,0 +1,44 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Filename: m2321224.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP32 - Dances With Demons         |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     50%           *********        |
+            |      Secrets    0%  and Time * 12:24 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Haha, almost everything is wrong in this demo, but I really must stop  |
+| taking this stuff too seriously. There is my trademark mistake here    |
+| featuring a message "you need a blue key to activate this object" :-)  |
+|                                                                        |
+| I'll try to get this below 10:00, but not today, not this month. If    |
+| someone else does it under vanilla, I'll be equally satisfied and will |
+| rather not try to beat their time. If you're afraid of cybers, watch   |
+| my m232fai2.lmp demo: I managed to kill one cyber using only arachno-  |
+| trons, unfortunately my keyboard went berserk after this.              |
+|                                                                        |
+| When watching using PrBoom+, you may use -trace_thingshealth 146 147   |
+| and cyberdemons' health will be shown if HUD is activated.             |
+|                                                                        |
++========================================================================+

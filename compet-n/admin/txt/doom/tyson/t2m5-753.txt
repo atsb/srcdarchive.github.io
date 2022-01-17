@@ -1,0 +1,26 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+T2M5-753.TXT
+
+ T2M5-753.ZIP
+
+  T2M5-753.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Doom - Episode 2 - Shores of Hell  Mission 5 - Command Center
+
+  Kills    100%
+  (Items    67)		   	
+  Secrets   40%  and Time    07:53 
+                             -----
+
+Description: Didn't watch the former record of this map, sometimes its
+             interesting to work out the route yourselfe :-) Knocking the
+             caged baron can be dangerous. Its important to create some IF's
+             in the "senter-garden". Nice and easy map for tyson-play. 
+
+Author:    Anders Johnsen
+E-mail:    andersjohnsen@hotmail.com
+Doompage:  Soon :-)

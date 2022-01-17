@@ -1,0 +1,24 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ev17-025.txt, ev17-025.lmp
+Date     : 2013-6-6 6:08
+Game     : TNT: Evilution
+Client   : doom2.exe v1.9
+Category : Speed
+Map(s)   : MAP17: Processing Area
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 17%
+Items    : 14%
+Secrets  : 0%
+Time     : 00:00:25
+===================================
+Description
+Slightly less ugly run. As Looper said in his textfile, Pacifist is possible but would require mountains of luck. May continue working on this later, though. First C-N entry.
+Also, a faildemo is included where you can see me enter the glide and leave afterwards. That demo took around 20-30 minutes to make, and this demo came after about an hour of work at least... In between, I also had a 0:30 exit, so my frustration ran high.

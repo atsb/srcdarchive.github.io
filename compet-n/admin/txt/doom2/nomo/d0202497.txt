@@ -1,0 +1,14 @@
+Author:         Ian Sabourin (Sslasher)
+
+Game:           Doom2
+Category:       nomonsters
+Mission:        map02
+
+Time:           0:24.97
+
+
+Comments:       Getting under 25s in this one was more difficult for me than
+                getting under 30s in map11. Many thanks to Ocelot for letting
+                me see his low 25.xx runs, which were both educational and
+                motivational; and for suggesting the possibility of 24.xx,
+                which I wasn't considering initially.

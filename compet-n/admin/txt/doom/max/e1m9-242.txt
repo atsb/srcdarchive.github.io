@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M9-242.TXT
+
+ E1M9-242.ZIP
+
+  E1M9-242.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 1 Mission 9 - Military Base
+
+  Kills    100%
+  (Items    30)
+  Secrets  100%    and Time  02:42
+			     -----
+
+Description:  Very linear and simple map, still quite cool. This took
+              15-20 mins to do, I just played until par was beaten.
+              Fired one rocket in my own face, missed alot of shots and 
+              got confused every now and then...
+
+              Guess this route was originally Yonatans?              
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

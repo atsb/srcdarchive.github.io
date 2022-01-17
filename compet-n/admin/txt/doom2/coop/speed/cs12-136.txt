@@ -1,0 +1,10 @@
+authors:    Vincent Catalaa    <peroxyd@wanadoo.fr>
+            Nicolas Gandou
+
+Game:       Doom2 v1.9
+         
+category:   Cooperative 2 players Max/Speed
+
+map:        Map12   The Factory
+
+time:       1:36

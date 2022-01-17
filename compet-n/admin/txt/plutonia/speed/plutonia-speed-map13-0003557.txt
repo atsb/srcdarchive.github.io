@@ -1,0 +1,15 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Speed
+Map: 13
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 6%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:35.57
+
+Description: 
+Shame abount the ending, this could have been 34 seconds, there's no need to hit the switch either.
+Getting two fast glides is very difficult, so even more time can be saved.
+Also baron can be killed in 5 SSG hits. See pl13o024 for explanation of the glides.

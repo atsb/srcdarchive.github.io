@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV25-150.TXT
+
+ LV25-150.ZIP
+
+  LV25-150.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25 - "Bloodfalls"
+
+  Kills    101%
+  (Items    50)
+  Secrets  100%  and Time  01:50
+                           -----
+
+
+Description: Beating max-records with only 1 sec sux. I won't uploade any
+             more of those. Its very easy to forget specters in this one,
+	     you just have to blast a few away and hope for the best. 
+	     I had one 01:46 where I forgot one lousy imp...
+	     This lmp was my third attampt today btw (which led to the exit).
+
+  Author:    Anders Johnsen
+  E-mail:    gunjohns@online.no
+Doompage:    http://home.sol.no/~doom/
+

@@ -1,0 +1,17 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm07f802.TXT
+
+ mm07f802.ZIP
+
+  mm07f802.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 7 – UV Fast
+
+More agressive strategies and better handling of the maze room helped get this run down to below 10 minutes.
+
+
+Author: Revved

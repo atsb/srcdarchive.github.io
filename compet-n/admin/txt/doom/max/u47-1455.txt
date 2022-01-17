@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+U47-1455.TXT
+
+ U47-1455.ZIP
+
+  U47-1455.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only !
+
+  DooM - Ep.4 Mi.7 - And Hell Followed
+
+  Kills    100%
+  (Items    94)
+  Secrets   50%  and Time  14:55
+                           -----
+
+  Description :-)
+
+  Just like the case was with E4M9, I looked for a .LMP of the level and I
+  couldn't find one anywhere, so I'm once again the first to do this level.
+  I was scared at first because I thought that there was a reason why nobody
+  did this level before, but when I started playing I found out that no,
+  there's no reason and this level is most definitely not difficult. This
+  .LMP wasn't supposed to be fast. I just wanted to complete the level on
+  Ultra-Violence with 100% kills and 50% secrets (which is the maximum in
+  this level, according to the episode 4 secrets list).
+
+  This is my first try, so I still play in an attempt to get hit as little
+  as possible, which results in a pretty unjustified slow .LMP but hey, I'd
+  love to see a better .LMP of this level as you're now *supposed* to know
+  how to complete it.
+
+  ----------------------
+
+  Important note: This .LMP is a part of my .LMP collection for all four
+  episodes of DooM (1). This .LMP collection is complete and it's now
+  available on ftp.cdrom.com in the directory /pub/idgames/lmps/doom/1.9se
+  as the file UDM1FULL.ZIP. Please download it! It has .lmps for all of
+  DooM (1) including episode 4, Thy Flesh Consumed, ending each level with
+  100% kills and almost every one with 100% secrets.
+
+  ----------------------
+
+  PLEASE give me feedback!! I promise I'll answer and I nearly don't get any
+  mail so I'll be very happy to get some, even if it's just "Hi, nice .LMP"
+  or something. I'll also be happy to get feedback about UDM1FULL.ZIP.
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+

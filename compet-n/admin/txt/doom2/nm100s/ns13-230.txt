@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NS13-230.TXT
+NS13-230.ZIP
+
+NS13-230.LMP - Nightmare! with 100% secrets
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 13
+
+Kills     ??%
+Items     ??%           
+Secrets  100%  
+
+   ...and Time     02:30  PAR 2:30 
+                  ------- 
+
+
+Description: Think under par is very possible. First time I hit the exit.
+             I invented a new starfe in this demo. Quit hard yes, espessialy
+             with crazy lost souls around. Once you get the second invul with
+             the useless chainsaw you can strafe directly to get it :))
+             This saves not much time but it looks better and ofcause you save
+             some seconds.                            
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net

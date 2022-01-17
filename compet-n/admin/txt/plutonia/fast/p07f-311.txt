@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+P07F-311.TXT
+
+ P07F-311.ZIP
+
+  P07F-311.LMP - Ultra Violence - Fast Monsters!
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  The Final Doom - The Plutonia Experiment - Level 07 - Caughtyard
+
+  Kills    100%
+  Items    100%            ********
+  Secrets  100%  and Time  * 3:11 *
+                           ********
+
+
+
+Description: Thought I'd give it a try, it's pretty hard even 
+	     in UV so I didn't expect things to get much easier..
+	     Revenents are hell, Barons of hell are not.
+	     Not much to do about the Archvile, just stand and pray
+	     he stops teleporting and that some rockets hopefully
+	     hits him.
+	     This is NOT an easy level, but once you've killed the
+	     Mancubus and the Revenents the remaining part is piece 
+	     of cake...
+
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:	     akllin95@student.umu.se
+	     

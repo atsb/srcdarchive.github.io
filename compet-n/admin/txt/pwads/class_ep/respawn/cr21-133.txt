@@ -1,0 +1,56 @@
+This is a .LMP "COMPET-N/class_ep/" Entry - Please forward it...
+
+CR21-133.ZIP
+
+ CR21-133.LMP
+
+  CR21-133.TXT - Ultra-Violence -RESPAWN
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -file class_ep.wad -PlayDemo with Ultimate Doom Version 1.9
+
+  classic episode - Level one - Foray by Anthony Soto
+
+  Kills:   84 / 84  (100%)
+  Items:   11 / 14  (78%)            ********
+  Secrets:  2 / 2   (100%) and Time  * 1:33 *
+                                     ********
+  C-N entry #41.	Date:06/05/2012 [First C-N demo in three months :O]
+
+  Description :)
+  I just wanted to try out uploading a demo to the new COMPET-N web site
+  ( http://www.doom.com.hr/compet-n/ ) and so I picked a map I knew I could
+  easily beat. I at first was really disappointed with my times (like 1:40)
+  and I wanted to beat the UV-MAX record of 1:29 by Radek Pecka. I quickly
+  realized that that was out of my league but I still wanted to improve my
+  1:40, 1:33 came as a surprise though. I'm actually pretty proud of it
+  (84/84 is perfect) though it can easily be beaten. Anyways, this is
+  nothing to serous, just wanted to put something up on the new site.
+  
+  Also, Ryback, HR ain't no IWAD!
+
+  PS: Zvonimir Bužanic, your upload page says "Only doom2.exe and built
+  demos are accepted!" but this is not a doom2.exe demo but a doom.exe
+  (715,493 bytes) demo. You might want to clear that up before some
+  newcomer get's confused.
+  								
+  								
+  By the way, COMPET-N record was 1:45 by Kyle McAwesome, timestamped:
+  Monday, March 12, 2012, 1:32:05 AM
+  
+  Complete Historic COMPET-N Leaderboard:
+  Just me and Mr. McAwesome.
+  
+  Note: Since this demo was recorded with class_ep.wad, I suggest you 
+        drop by at http://doomedsda.us/lmps/316/class_ep.zip
+        and pick it up if you havn't already :) 
+  
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c3s2-013.txt
+
+ c3s2-013.zip
+
+  c3s2p013.lmp
+  c3s2s013.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e3m2 - Slough Of Despair
+
+              Kills    Items   Secrets
+
+  SlagDooM      0%       0%       0%      
+  Python        0%       0%       0%      
+
+  Time:    0:13.97
+
+
+Comment:      This costed 3(!) tries. 
+              Slag made Pyth's life a little bit easier, by shooting at
+              the lost souls, so this is coop. :P
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

@@ -1,0 +1,20 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2071742.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP07
+Exe/Port used: Doom2 1.9
+
+  Kills    100%
+  (Items    72%)          *********
+  Secrets   80%  and Time * 17:42 *
+                          *********
+
+
+==============================================
+
+Some parts are ugly! The monsters did NOT cooperate as well as they were supposed to.
+The three mancubi near the blue key can be killed without firing a bullet, without using fists.
+Not this time... At the very end (mancubi again!) the doorbell rang (15:45), it distracted me
+and I was lucky to survive, despite a few very unsafe moves...
+vdgg

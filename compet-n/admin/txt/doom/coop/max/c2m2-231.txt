@@ -1,0 +1,38 @@
+This is a "COMPET-N/doom/coop/max" entry, please forward it.
+
+c2m2-231.txt
+
+ c2m2-231.zip
+
+  c2m2d231.lmp
+  c2m2s231.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e2m2 - Deimos Lab
+  
+           Kills    Items   Secrets
+
+  Green     57%      50%      58%      Slag
+  Indigo    39%       4%      41%      Df
+
+
+  Time:    2:31.45
+
+
+Slag:        Our goal was to improve the solo record by 1 minute at least.
+             Didn't cost too much effort, cause this map only has imps, demons
+             and some lost souls. Under 2 minutes might be possible...             
+      
+Df:          Quite funny map, no real hard monsters or situations on it, the only
+             danger is getting stuck between imps. Had better runs on this map.
+             Also got fucked at the barrels, I usualy don't shoot them, saves some
+             time, only this time, i got a jumpy barrel, that was just ready to
+             explode in my face :) That piggy at the end really got in my way
+             when i got the rl.
+
+     
+Green:       Arno "SlagDooM" Slagboom   (ajslagboom@chello.nl)
+Indigo:      Bjorn "df" Hamels          (bjorn@hamels.nl)       
+  

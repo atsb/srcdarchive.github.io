@@ -1,0 +1,75 @@
+Runner: Zero-Master
+Date: 2015-12-28
+IWAD: Doom2.wad
+Category: NM-Speed
+Map: Episode 2, 11-20
+Source Port: Competition Doom v2.0.3.2
+Time: 09:51 (09:55.77)
+
+
+Map	Time
+11	01:20
+12	00:55
+13	01:23
+14	00:28
+15	00:40
+31      00:35
+16	00:22
+17	02:04
+18	00:30
+19	00:56
+20	00:38
+
+
+Description:
+More warmup for 30nm, this episode is easier than ep1, 
+but I did make some pretty bad mistakes in previous attempts.
+At least they showed up here instead during 30nm attempts, 
+still some things I need to figure out. Map 17 turns out to 
+be very difficult during single segment instead of practice.
+
+
+Map 11: A quick look at 1119nm11 by vile and I just copied that here.
+The start is complete luck based, but it doesn't take too long before 
+you reach the soulsphere. 
+
+Map 12: In a previous attempt I took some 100+ damage through the 
+wall at YK, followed up by the shotgunners it was impossible to survive. 
+I've gotten really good at the cacodemon room now, I am not too affraid 
+of it anymore. Somehow I managed to lose 2 seconds trying to go to the exit.
+
+Map 13: Really bad time, I am lacking some cells from ep1 so 
+I don't BFG the revenants like I did in 30uv1959, but I will probably
+copy that since they hit me so often.
+
+Map 14: This map should not be difficult anymore, but I had some
+trouble with the wallrun trick again in previous attempt. I usually
+always get 24 seconds on this map, so not a good time.
+
+Map 15: Took a lot of damage before I jump down to the switch,
+but then I got lucky. 
+
+Map 31: Low on armor, so I used some rockets which costs a second or two.
+Very lucky with the damage taken this time.
+
+Map 16: Shouldn't take a revenant hit like that.
+
+Map 17: After grabbing the blue key I always seem to get in trouble, 
+everything is fine once I reach the elevator though. Terrible time.
+
+I was down to 1% health, and then got lucky by not having the chaingunner 
+in position to kill me when I try to hit the switch. I also assumed I 
+would have plenty of plasma left over for map 19\20, that was a small mistake.
+
+Map 18: I skip the invurnability now, I do grab the soulsphere still. 
+There's an ok chance you can make it with without the soulsphere, 
+but I would rather not risk it for a couple of seconds.
+
+Map 19: This map is easy, I was not to happy with my plasma ammo near the end,
+so I switched to rockets which cost some time. I also forgot I didn't have SSG,
+I wasn't sure if the tip of the shotgun was in the same location as the SSG. 
+Which is why I was a bit slow with the glide. Terrible time.
+
+Map 20: This map is not too hard, much easier for episode 2 only since
+I don't need to avoid taking damage in the last room.
+

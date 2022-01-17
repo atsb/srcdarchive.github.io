@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA07-056.TXT
+
+ FA07-056.ZIP
+
+  FA07-056.LMP - Ultra Violence - FAST
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 07 - Dead Simple
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time  00:56
+                           -----
+
+
+  Description :-)
+  
+  This was the weakest of my MAP07 entries, so I decided to have another go.
+  Still not perfect, I screwed up the arachnotron part pretty much (the mouse
+  was going off the mousepad all the time). At least the mancubi went great.
+  Still 0:54 is possible, but I hope this time is enough to prevent you guys
+  steal that 0.5 point from me...
+  This should be my last MAP07 entry until someone manages the multiplayer
+  trick in single player too...
+
+  Adam Hegyi
+  alien@eik.bme.hu
+  ha211@hszk.bme.hu
+  

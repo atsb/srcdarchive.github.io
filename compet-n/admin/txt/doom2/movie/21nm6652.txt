@@ -1,0 +1,176 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+21NM6652.TXT
+
+ 21NM6652.ZIP
+
+  21NM6652.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  DooM II - NightMare! Run ! - Beginning to the Death !
+
+
+  Level     Time     Kills     Items     Secrets     Health     Armor
+ -------   ------   -------   -------   ---------   --------   -------
+    1       0.44      48%        0%        20%        100%       84%
+    2       2.58      125%       80%       100%       92%        106%
+    3       1.26      69%        22%       100%       126%       137%
+    4       2.25      132%       55%       33%        84%        41%
+    5       3.14      84%        66%       0%         139%       145%
+    6       4.43      85%        17%       66%        95%        110%
+    7       3.24      200%       100%      100%       100%       27%
+    8       1.57      60%        80%       28%        184%       92%
+    9       4.01      59%        44%       0%         174%       60%
+    10      4.06      50%        36%       33%        200%       200%
+    11      2.04      74%        9%        66%        124%       43%
+    12      4.30      43%        40%       0%         15%        60%
+    13      4.49      62%        47%       37%        120%       121%
+    14      4.39      123%       50%       0%         98%        93%
+    15      2.50      40%        12%       18%        100%       124%
+    31      1.33      63%        4%        100%       200%       150%
+    32      0.58      103%       100%      66%        200%       200%
+    16      3.01      25%        40%       0%         188%       189%
+    17      4.55      96%        66%       0%         147%       72%
+    18      1.07      17%        37%       0%         200%       100%
+    19      2.58      33%        1%        33%        57%        75%
+    20      2.06      40%        33%       57%        168%       100%
+    21      2.24      83%        94%       0%         92%        99%
+    22       -         -          -        -          0%         6%
+                                                                 ^
+
+  [ Time:  55 minutes & "712" seconds. ]
+
+  Total time:  66 min. 52 sec. [ 66:52 ]
+
+
+  Description:  Finally I did it !
+
+                This is probably the greatest .LMP I  have ever
+                recorded. There are a lot of things that can go
+                wrong when playing NightMare, and it often did.
+                At one point it almost drove me mad, you are so
+                close all the time but one single mistake is
+                enough to take you down...
+
+                At this very moment while I'm typing this, my
+                keyboard, or what's left of it (after all my
+                NightMare tries) isn't working very well, eight
+                keys are missing from the last time I used it.
+
+                Keyboards are cheap though...
+
+
+                Some comments about the levels...
+
+  Level 01:     Not much to say, everyone can do it...
+
+  Level 02:     This one isn't easy at all, a few mistakes and you're
+                dead.
+
+  Level 03:     Quite simple if you plan it well. A lot of health makes
+                it easier.
+
+  Level 04:     This one isn't a favorite of mine, little health and
+                a lot of guys with guns makes this level very hard.
+
+  Level 05:     This level is very easy if you take it slow...
+
+  Level 06:     This is also a very easy level, especially when using
+                the new trick at the renevents. Thanks Anthe for this !
+
+                The "new" finish is also great, taking the key without
+                opening for all the monsters makes the end very nice and
+                peaceful. Kai-Uwe should have credit for the "exit-jump".
+
+  Level 07:     Easy level, not in this .LMP though
+
+  Level 08:     Imortal all through the level, gotta plan it well.
+                Thanks Steffen and Anthe.
+
+  Level 09:     This one is much harder without the BFG...
+
+  Level 10:     The "Steffen route" is great and you always finish up
+                with at least 150/150.
+
+  Level 11:     This level is easy, though without a good plan it's very
+                hard.
+
+  Level 12:     The end is very hard I never seem to get any better at
+                this either...
+
+  Level 13:     Very easy level with the new route, probably easier then
+                level 01 - Kai-Uwe, the credit goes to you !
+
+  Level 14:     Hard at first sight, but if you plan it well this level
+                is quite easy.
+
+  Level 15:     This level is average, and a miss at the "button-jump"
+                can sometimes be fatal...
+
+  Level 31:     Piece of cake.
+
+  Level 32:     Same as above, no comment.
+
+  Level 16:     In this level I tried to kill the archvile before taking
+                the blue key and then the invunarability, this way you
+                don't have to use the BFG to get the Sphere and you can
+                hereby save some plasma.
+
+  Level 17:     Lots of tricks helped me through this one, this level is
+                probably one of the hardest levels in NightMare mode.
+                Sorry Anthe, I figured out all the tricks by myself...
+
+  Level 18:     Just run through. Imortal all of the time.
+
+  Level 19:     An easy level, a big mistake could probably kill you.
+
+  Level 20:     This route is perfect for NightMare, this is a very easy
+                level because there is a lot of health, the end is a bit
+                caotic though.
+
+  Level 21:     Quite easy, harder than 19 and 20 though...
+
+  Level 22:     The reason you never see me "go down" and die is because
+                I'm trying to lower the elevator at the same time I die
+                (space button), so I reappear at the start immediately
+                after dying.
+
+                [ Except I have "fixed" this - maybe I shouldn't have ]
+
+                Is it possible to finish this one at NightMare ?!?
+
+                I don't think so...
+
+                Additional credits to:
+
+                Steffen Winterfeldt, the legend who made NightMare
+                playable ! Without his -Record'ings I would never
+                have pushed myself this far......
+
+
+  Author:       Daniel "Demonlord" Lindgren
+
+  E-mail:       akllin95@student.umu.se
+
+
+  I would like to thank id software for the greatest computer game of
+  all times. This game is alive !
+
+  DooM II will rule forever !
+
+  Later.
+
+
+[  Admin. Note :-)  WOW !!!  [ Less the 2 bytes at the end ]
+
+   Next stop... "D2S" : Demonlord... Steffen... Anthe... ???
+
+S.;-) aka. The "Judge". ]
+
+

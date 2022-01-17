@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+R1M7-337.TXT
+
+ R1M7-337.ZIP
+
+  R1M7-337.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 7 - Computer Station
+
+  Kills    108%
+  (Items    45%)
+  Secrets  100%  and Time  03:37
+                           -----
+
+  Description:  I wanted to play this for quite a while, but I did not
+                like to take Simon's last compet-n (half) point.
+                It's hard to calculate the kill ratio in this map.
+                Obviously Panter showed us not his usual skill in that
+                r1m7-408 - this has been VERY easy to beat.
+
+      Credits:  To Yonatan for making the secret finder (scrtfind) and
+                to the DEU crew for the nice feature Jump_to_sector.
+    
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

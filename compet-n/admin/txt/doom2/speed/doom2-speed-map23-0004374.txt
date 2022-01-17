@@ -1,0 +1,23 @@
+Runner: Zero-Master
+IWAD: DOOM2.wad
+Category: UV-Speed
+Map: 23
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 11%
+Items    : 27%
+Secrets  : 0%
+Time     : 00:43.74
+
+Description: 
+"Hmmm, 0:43 could be possible here I think." -Adam Hegyi, almost 15 
+years ago since he did that demo (lv23-045), figured I'd try to drag 
+more of the demons out to save time. My goal was 44 seconds, because I 
+was never close to 43 seconds, and this was a very frustrating level to 
+run. 
+
+I was a bit unlucky getting stuck in that 1 demon, but I then got lucky 
+with the 2 remaining ones. So, Obviously this can go even faster, but 
+there is no way I would put myself through such misery and just hope for 
+that amount of luck. 
+

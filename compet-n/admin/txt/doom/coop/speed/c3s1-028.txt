@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop speed
+mission:  e3m1
+
+time:     0:28
+
+Vincent: came while playing for the ep3 speed movie
+
+xit-vono: 27 or 26 should be possible
+
+
+          

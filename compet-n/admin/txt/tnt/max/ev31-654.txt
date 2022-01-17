@@ -1,0 +1,56 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV31-654.TXT
+
+EV31-654.ZIP
+
+EV31-654.LMP - Ultra-Violence Max-Kill
+
+Recorded using Doom 2 Version 1.9 !
+Doom2 -file tnt31.wad -PlayDemo with Doom 2 Version 1.9 - Only
+  using Team TNT's fix for Map 31: Tnt31.wad
+  (available from http://www.teamtnt.com/other/tnt31fix.zip)
+
+Final Doom: TNT Evilution - Level 31 - Pharaoh
+      
+Kills      101%
+Items        2%
+Secrets    100%
+
+              ********
+  and Time -  * 6:54 *
+              ********
+
+
+Description:
+
+2 years with the COMPET-N... go me ^-^ Thanks for the fun, all of ya.
+
+Anyway, this demo is ugly...but as far as the route goes, I think it's
+pretty much optimal. The changes I made are leaving the Arachnotrons
+alive and coming back for them later, and also releasing the shotgunners
+much earlier. Also sped things up at the Red Key area outside.
+
+The first set of Arch-Viles fried me...dunno how they got me, must've
+been waiting for me to step around that corner... =P
+
+Anyway, this is the only exit I had out of probably...200 tries or so that
+was below 7 minutes, which is what I was aiming for. This might also be
+the last demo I do for this map, depending on if someone beats it or not.
+I definately won't be touching my own record, unless I get some unreal
+time out of nowhere... ;) I'm not Sedlo or Ocelot, so don't expect THAT
+one =P
+
+Overall, this demo is ugly, but incredibly fast with some very lucky shots
+(listen to the Revenant and you'll see what I mean...)
+
+Enjoy =)
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima_Mantoid
+
+
+03.12.2003.

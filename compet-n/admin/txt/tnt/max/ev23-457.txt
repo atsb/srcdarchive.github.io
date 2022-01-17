@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ev23-457.TXT
+
+ ev23-457.ZIP
+
+  ev23-457.LMP - Ultra Violence
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 23 - Lunar Mining Project
+
+  Kills    102%
+  Items     66%
+  Secrets  100%  and Time  4:57
+                           -----
+
+  Description : I had two objectives in making this demo:
+		1) Beat Yonatan's Record
+		2) Get it under 5 minutes
+
+		Achieved both those goals by beating Yonantan's 5:08 by 11 seconds.
+
+		Other then that I don't really care enough about this map to do more.
+		It's a nice map to look at but there is a lot of things that made 
+		this level fustrating. The archie is the first issue since you don't
+	        have a chance to get close and you only have a shotgun. This is where
+		I variated from Yonatan. I decided to bypass the archie until later
+		where I'd make a break for the super shotgun. The tunnel area is a 
+		pain. And I rocketed myself three times at the exit door. I would
+		open it and keep firing rockets until, without warning (because I have
+		no sound), the door would lower and I would fly 15 feet to my death.
+
+		According to my reference this was Yonatan's last Evilution max point.
+		Oh well, I'm sure he's got plenty of points elsewhere. :-)
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com

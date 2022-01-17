@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M3-NM1.TXT
+E1M3-NM!.TXT
+
+ E1M3-NM1.ZIP
+ E1M3-NM!.ZIP
+
+  E1M3-NM!.LMP - NightMare! ( Can handle it! :-)
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.1 Mi.3 - "Toxin Refinery"
+
+  Kills    187%
+  (Items    85)
+  Secrets  100%  and Time  07:42
+                           -----
+
+  Description :-)
+
+  I actually recorded this .LMP while training for DooM 1 Incubus.
+  Now I have done both "impossible" Maps (E1M3 and E1M5) with 100%
+  secrets. So this is not thought as a Speed entry, although that
+  only the time counts - I tried to kill every single monster at
+  least once as seen in Steffen Winterfeldt's Version for DooM 1.2
+  (see the DHT homepage for that incredible .LMP)
+
+ Anthe
+
+ anthe.kren@telecom.at
+
+

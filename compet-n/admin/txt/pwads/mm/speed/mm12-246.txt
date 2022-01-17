@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm12-246.TXT
+
+ mm12-246.ZIP
+
+  mm12-246.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 12 – UV Speed
+
+Well, at least I beat Altima's record...
+
+Author: Revved

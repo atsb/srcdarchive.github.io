@@ -1,0 +1,55 @@
+This is a DooM .LMP "COMPET-N/doom/" Entry - Please forward it...
+
+U4M2-304.TXT
+
+ U4M2-304.ZIP
+
+  U4M2-304.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  Episode 4 - "Thy Flesh Consumed"
+
+  Map 2 - Perfect Hatred
+
+  Kills    100%
+  (Items    54)
+  Secrets  100%  and Time  03:04
+                           -----
+
+
+Comments: Ok, that's it. After doing this map in NightMare (watched Anthe's
+          and recorded it the same way, 15 seconds slower - thanks to you
+          Anthe for trying that level in NightMare!) I remembered my training
+          for that difficult jump. I hit the stair at least 75% of my tries.
+          There was an open challenge from Wade who made a fantastic 3:26. As
+          I recorded one month ago, I only had times around 4 minutes. Think I
+          know now how to get rid of the Barons, Spectres and Cacos in the
+          blue key area (without changing weapons :- SG for spectres, BFG for
+          the other). Simply BFG to the next cell box. Don't leave a spectre,
+          I heard one and had the right weapon ready ( <40 cells ;-).
+          Dunno why that Baron took so many cells - finished him with SG.
+          Nice, isn't it? This .lmp is quite close to 3:00. Think one of the
+          heroes (wade?) should try for further improvement. Didn't take that
+          supercharge, think it is worth 8 seconds and I really don't need it.
+          I think I can say I like the level now - it is one of the best there
+          is. Nice level 29 style: much ammo, a neat trick, strong monsters
+          without any chance to get rid of you :) and playable in NightMare.
+          The only lack is deathmatch :-).
+          BTW congratulations to Anthe, Peo and Yonatan and (what was the name
+          of that "DooM-GrandPa" ?) for completing F-DooM some days ago. Some
+          hours of fine .lmps I guess.
+          Sorry for wade, who lost another point. Keep up the DooMing! Your
+          times are great.
+          I think I should stop here, or Simon will delete a third of this
+          description :)
+
+Author:   Kai-Uwe Humpert
+
+E-mail:   gazelle@cs.tu-berlin.de
+          humpert@zib.de
+
+WWW:      http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)
+
+

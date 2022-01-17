@@ -1,0 +1,102 @@
+Runner: Zero-Master
+Date: 2015-07-03
+IWAD: DOOM2.wad
+Category: NM-Speed
+Map: Movie 1-30
+Source Port: Competition Doom v2.0.3.2
+Time: 29:25 (29:39.86)
+
+Map	Time
+01	00:06
+02	01:15
+03	00:39
+04	00:42
+05	01:03
+06	01:09
+07	00:23
+08	00:35
+09	01:13
+10	01:01
+11	00:47
+12	01:03
+13	01:31
+14	01:16
+15	00:42
+31	00:34
+16	00:29
+17	02:07
+18	00:33
+19	00:55
+20	00:41
+21	00:39
+22	00:44
+23	01:11
+24	01:02
+25	01:08
+26	00:59
+27	00:48
+28	00:59
+29	02:09
+30	01:02
+
+
+Description:
+My very first 30nm exit, 14 seconds faster than the 6 year old record (30nm2939) by Henning.
+30nm2939 is probably the main reason why I run doom today!
+
+This run has a different route for some maps 7,8,10,13,14,16,21 and 22 have the biggest changes,
+After many hours of practice with UV difficulty I figured several of the tricks could make the run
+both faster and easier to survive. Unlike plutonia on NM I this time have previous NM runs that 
+I can learn from, so a lot of the route is trying to copy what Henning does in 30nm2939. 
+
+There were some good maps in here, 6,7,31,16,21,22 
+and some straightforward maps like 1,18,19,20.
+The rest were pretty much bad or a complete disaster.
+
+Main reason for improvement was the added tricks, but the quality of this run is far below the
+previous record. Obviously I can't stop at 29:25, but I'm not the only one running this category,
+so we might see someone else improve it soon enough!
+
+Map Description:
+
+Map 2-5: 53 seconds lost, a bit safer strategies, but mostly I'm not good enough to get 
+good times on these maps.
+
+Map 7: 36 seconds time save, map isn't even difficult, as long as you don't get
+too careless and take all the manc fireballs.
+
+Map 8-10: Overall I lose time, I also take a bigger risk I think, I'll need to re consider this route.
+Quite a miracle on map 10, should have died with this health.
+
+Map 14: Completely failed this map, again. Not supposed to be this difficult, 
+lost 21 seconds instead of gaining 20.
+
+Map 16,21,22: Include glides here, saves a lot of time, almost a minute.
+
+Map 27: You will not believe the incredible amount of luck I had here.
+I usually listen to music while I play, when I do UV there are 2 places where sound
+could be useful, like map 15 and 28 switch. However, having too loud music compared to the 
+ingame sound will prevent you from hearing the door on map 27 open!!!
+
+I could absolutely not hear a single thing as I was standing in that corner, 
+I didn't expect to make it this far anyways really, so I was 100% sure I was going to die
+here since getting the arch vile to open the door with this method is the only strategy I have.
+
+So, at some random point, I just went for it... and the door was open!!
+
+Map 28: I was a bit shaken up after map 27, you can tell by how awful I played here, almost died.
+
+Map 29: Failed jump in the end and was really close to dying.
+
+Map 30: I was supposed to stand further back and use the BFG to kill the first 2 spawns I think.
+Never had any trouble with reaching the platform in practice, but getting to this map for the first
+time on nightmare makes things a bit more difficult :)
+
+Now that first exit is out of the way, I'll go back to thinking about the route.
+There's always something that can be done better, for doom 2 uv-speed the first time
+I told myself that the route is done there's probably been a 100 changes, some very small
+obviously, but for nightmare it's even more complicated. Then hopefully I will be able to 
+do a good quality run for this category at some point.
+
+
+

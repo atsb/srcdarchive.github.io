@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+pl01-010.TXT
+
+ pl01-010.ZIP
+
+  pl01-010.LMP - Ultra violence
+
+  Recorded using Doom2 Version 1.9 & Plutonia.wad
+  Doom2 -playdemo with Doom2.exe Version 1.9 - Only
+
+  The Final Doom: The Plutonia Experiment - Level 01 - Congo
+
+  Kills      ??%
+  Items      ??%
+  Secrets    ??%  and Time  0:10.80
+
+
+  Description : 
+             
+  Wow !
+  I tried to do this after watching 38_VITa_38 nomo. 
+  I known about the Looper's TAS demo but I wasn't able to do it in dos.
+  You just need to have Y pos beetween -400.09 and -400.12, then a perfect sr50 to get the wallrun and perform this trick.
+  0:09 should be possible but I'll not try it ... feel free to improve that :p
+
+
+  JC Dorne
+  58th Compet-N Entry
+
+  France
+  02/09/2016

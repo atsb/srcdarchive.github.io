@@ -1,0 +1,37 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+pc29-044.TXT
+
+ pc29-044.ZIP - Coop UV Speed
+
+  pc29e044.LMP - Eugene - Green
+  pc29s044.LMP - Sergey - Indigo
+
+  Recorded using Doom2 Version 1.9 -file Plutonia.wad
+
+  The Final Doom: Plutonia - Level 29
+
+Kills        0%
+Items       14%
+Secrets      0%	
+
+Kills        1%
+Items       14%
+Secrets      0%	
+
+and Time - 0:44
+
+
+Description:
+
+First exit under time of Catalla and Gandou demo.
+
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+12.01.2007

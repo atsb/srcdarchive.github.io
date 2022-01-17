@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV02-046.TXT
+
+ LV02-046.ZIP
+
+  LV02-046.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 02 - Underhalls
+
+  Kills     54%
+  (Items    45)
+  Secrets  100%  and Time  00:46
+                           -----
+
+Description: 
+	     Frustrating map...Spent 30 mins in this one now. Still much
+             room for improvement. I did a bad job in the exit, also got
+             of to a slow start. Still- looks alot better than my 00:47
+             entry...	
+	
+Author:    Anders Johnsen
+
+E-mail:       gunjohns@online.no
+Doompeage:    Http://home.sol.no/~doom
+           

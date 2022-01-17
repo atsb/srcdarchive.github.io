@@ -1,0 +1,29 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c2s7-021.txt
+
+ c2s7-021.zip
+
+  c2s7p021.lmp
+  c2s7s021.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e2m7 - Spawning Vats
+
+          Kills    Items   Secrets
+
+  Green      1%      11%      16%      SlagDooM
+  Indigo     4%       0%       0%      Python
+
+  Time:    0:21.82
+
+
+Comment:      Nothing special, just deleting an AdamW demo. :)
+
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

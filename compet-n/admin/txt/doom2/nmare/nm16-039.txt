@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM16-039.TXT
+
+ NM16-039.ZIP
+
+  NM16-039.LMP - NightMare !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - "Suburbs"
+
+  Kills     13%
+  (Items    20%)
+  Secrets    0%  and Time  00:39
+                           -----
+
+
+Description: I got this 0:39 fairly easy ( <30min. ) and if you analyse the
+             .lmp you'll see that at least 37 should be possible using this
+             route.
+             hmmm...I chosed a higher sensitivity...works great (:
+
+
+             13.05.98 18:45  pm CET
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+ R. Page:    Http://www.geocities.com/TimesSquare/Castle/7571/

@@ -1,0 +1,30 @@
+This is a Doom .LMP "Competition" Entry
+
+pl06-243.txt
+pl06-243.zip
+
+pl06-243.lmp 
+
+Recorded using Final Doom Version 1.9
+
+Plutonia Experiment - MAP06 - Baron's Lair
+
+=--------------=
+Kills      100%
+Items       75%
+Secrets    100%
+
+Time       2:43
+=--------------=
+
+C-N entry #111.
+
+Thanks go to Kai again for the route, he
+also likes his map as much as myself. :)
+
+I use a new strategy for the blue key room
+which puts the barrels to work against those
+nasty PEs.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

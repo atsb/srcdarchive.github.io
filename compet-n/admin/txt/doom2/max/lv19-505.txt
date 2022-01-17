@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry
+
+LV19-505.TXT
+
+ LV19-505.ZIP
+
+  LV19-505.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - The Citadel
+
+  Kills    100%
+  (Items    39%)
+  Secrets  100%  
+
+            ... and Time   5:05
+                          -----
+
+  Description:
+
+  There's some eyesores in this demo but it
+  went OK I think.  The first one is that I
+  started to run to the lift instead of going
+  into that room to kill some imps.  Also I
+  did a stupid switch to regular shotgun, and
+  I kinda got blocked by the pigs while
+  invulnerable.  Fortunately I had good luck
+  with the cacos and arachnotron.
+
+  Xit Vono
+  xit_vono@yahoo.com

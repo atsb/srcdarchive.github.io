@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ20-010.TXT
+
+ RQ20-010.ZIP
+
+  RQ20-010.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 20 - The Forsaken Hall
+        
+  Kills      8%
+  (Items     0%)          *********
+  Secrets    0%  and Time * 00:10 *
+                          *********
+                          
+
+  Description :-)
+  
+  Pretty easy... and pacifist as well.
+  
+  Dunno if 0:09 is possible at all...
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

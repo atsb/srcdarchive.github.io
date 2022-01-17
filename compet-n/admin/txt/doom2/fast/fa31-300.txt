@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA31-300.TXT
+FA31-300.ZIP
+
+FA31-300.LMP - Ultra Violence & Fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 31 - Wolfenstein
+
+Kills    100%
+(Items    31)
+Secrets  100%  
+
+   ...and Time      03:00
+                  ---------
+
+
+Description: I tried to get it below 3 min, 02:59 would have been very nice...
+             Think I was a bit lucky too, I'm sure there is a better way to
+             do this.....I couldn't find Birtwich's 03:15 record at compet-n
+             only got to watch Dl's 03:44, I'm sure Britwich did some route
+             modifications.  
+
+
+Author:   Henning Skogsto   
+E-mail:   hskogsto@c2i.net   
+Doompage: Soon :-)
+
+EOF

@@ -1,0 +1,62 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+FA03-154.TXT
+
+ FA03-154.ZIP
+
+  FA03-154.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 03 - The Gantlet
+
+  With "-Skill 4 (and) -FAST"
+
+  Kills    100%
+  (Items    22)
+  Secrets  100%  and Time  01:54  (par = 02:00)
+                           -----
+
+  Description :-)
+
+  Oops! It seems that my old .LMP in this level [ FA03-158.LMP ] didn't
+  -PlayDemo correctly. I was upset since I already uploaded it. So I decided
+  that to make it up for everyone who was also upset because it didn't
+  -PlayDemo correctly, I'll make it again even faster. It wasn't difficult
+  (took me about 5 tries) and this is the result. I apologize for the first
+  one - this one does -PlayDemo correctly, I verified it!
+
+  The rest of the .TXT is the same as FA03-158.TXT.
+
+  After doing LV03-202.LMP, LV03-155.LMP, LV03-029.LMP I was tired of this
+  level but Peo Sjoblom has diverted my attention to this one with -FAST. I
+  personally think that -FAST and NightMare are stupid, but this was very
+  easy to do and I didn't try too much.
+
+  It's much easier with -FAST since the monsters fight each other much more
+  and much quicker so a lower time is possible. I won't play any more with
+  -FAST unless someone requests that. I am not used to the monster movements
+  so my aiming is terrible. Sometimes they move faster (demons) and
+  sometimes they hardly move because they fire all the time (all the rest)
+  so I have trouble deciding whether to change my aiming direction or not.
+  It doesn't really matter.
+
+  Note: I never uploaded LV03-155.LMP because before I had the chance to do
+  that, Demonlord did LV03-153.LMP ;-(
+
+  Please mail me with feedback!
+
+ Yonatan Donner
+
+ yonatan.donner@master.excellnet.co.il
+
+
+[  Admin. Note :-(  FA03-158.LMP was simply DQ'd because it didn't
+   -PlayDemo correctly. Bad .LMP's using a bad .WAD or .EXE or the
+   wrong version of either simply get DQ'd. Use the LATEST version
+   of DooM ] II [... and an *unmodified* version (of 1.9 - only).
+
+S.;-) aka. The "Judge". ]
+
+

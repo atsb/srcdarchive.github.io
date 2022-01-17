@@ -1,0 +1,28 @@
+This is a DooM .LMP Misc. "Competition" Entry - Please forward it...
+
+pc09-114.TXT
+
+ pc09-114.ZIP - Speed
+
+  pc09m114.LMP - Method
+  pc09v114.LMP - Vincent
+
+  Recorded using Doom2 Version 1.9 -file Plutonia.wad
+
+  The Final Doom: Plutonia - Level 09
+
+    Time * 01:14 *
+
+  Description :-)
+
+Method: This is a first exit..The finnish is hell!
+
+Vincent: credits to method for thinking about this map and for the 
+         running. The end room is a killer with the bonus Cyber. 
+
+
+Authors:
+  
+P1: Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+P2: Jakub "MethoD" Razak (dale007@volny.cz)
+

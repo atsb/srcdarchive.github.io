@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+HR25-500.TXT
+
+ HR25-500.ZIP
+
+  HR25-500.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File HR.WAD -PlayDemo with Version 1.9
+
+  Hell Revealed - Level 25 - Dead Progressive
+  
+  Kills    101%
+  (Items    53%)          *********
+  Secrets  100%  and Time * 05:00 *
+                          *********
+                          
+
+  Description :-)
+  
+  Not that I don't care for Revenant missiles anymore, but have a friendly
+  Cyberdemon at one of the Imp teleport exits. As I checked with iddt I realized
+  that the second Cyberdemon was very close as I decided to step onto the
+  Supercharge. It was the first time I released the Cybies to this side, because
+  they didn't spend many rockets if they were on the other one. I don't know if
+  something still can be improved here, I doubt it (but maybe Yonatan has got
+  another idea?). I like the time.
+
+  Kai-Uwe Humpert
+  gazelle@cs.tu-berlin.de

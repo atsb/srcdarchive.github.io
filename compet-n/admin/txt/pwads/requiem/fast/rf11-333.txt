@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf11-333.TXT
+
+ rf11-333.ZIP
+
+  rf11-333.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 11 – UV Fast
+
+Managed to get this in about ten minutes. I remember once having a session where I tried to complete the level in -fast for 2-3 hours, and yet I always died. Things went surprisingly well in this demo, which is kind of strange considering how much of a pain stuff like this can be at time. Managed to shave off 2 minutes and 16 seconds for this run.
+
+Author: Revved

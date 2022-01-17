@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+RE09-524.TXT
+
+ RE09-524.ZIP
+
+  RE09-524.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 09 - The Pit
+
+  Kills    100%
+  (Items    59)
+  Secrets  100%  and Time  05:24
+                           -----
+
+Description: I agree Rini...this is probably one of the harder D2 maps to 
+             conquer with -respawn. I wasted quite some time in the exit,
+             but the kill-ratio was nice :)
+
+Author:   Anders Johnsen
+E-mail:   gunjohns@online.no
+Doompage: http://home.sol.no/doom/

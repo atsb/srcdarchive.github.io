@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+M223N004.TXT
+
+ M223N004.ZIP
+
+  M223N004.LMP - Nightmare - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 23 - No Way Out 
+
+  Kills     0%
+  Items     0%           ********
+  Secrets   0%  and Time * 0:04 *
+                         ********
+
+  Description :-]
+
+  Pacific nightmare run in 4 full seconds + 1 gametic (4.03) :P
+  Also included nomo-run in 3.43 
+  
+  Route credits go to Kristian Ronge (m223-005)
+
+  
+  My 2nd compet-n entry. :]
+   
+  Hitherto (rcdemo@mail.ru)
+  4 january 2008
+ 

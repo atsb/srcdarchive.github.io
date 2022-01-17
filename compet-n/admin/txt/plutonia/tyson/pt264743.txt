@@ -1,0 +1,50 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: plutonia.wad                            |
+            | Author: Dario Casali & Milo Casali            |
+            | Demo filename: pt264743.lmp                   |
+            | Category: Tyson                               |
+            | Map Level: MAP26 - Bunker (by Dario)          |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    101%                            |
+            |      Items    100%           *********        |
+            |      Secrets   50%  and Time * 47:43 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| All 32 Plutonia maps contain only 16 berserks and 4 chainsaws, which   |
+| explains why most of them are so bitchy in the Tyson category.         |
+| Xit Vono filled some gaps, including seemingly impossible MAP10 and    |
+| MAP14. Then z0diac (and Aqfaq) took over,challenging even more extreme |
+| levels, such as MAP09. This level... has been just overlooked (and, I  |
+| must admit, also by myself). Only the recent discussion involving      |
+| odysseyofnoises and j4rio "forced" me to take another look at it.      |
+| One of these "no berserk, no chainsaw, no chance" maps, but... only    |
+| at first glance. It is easier than Requiem MAP06, for example, and     |
+| surely much easier than at least half of z0diac's Plutonia Tysons.     |
+| On my second day of playing I was already close to finishing this.     |
+|                                                                        |
+| Finished with 36% health, so health is the main problem, though ammo   |
+| can also be lacking, it depends on which monsters survive in the end.  |
+| Obviously, the ones which definitely need pistol ammo are the          |
+| arachnotrons, then cacos (those which cannot join the battle). Well,   |
+| let's stop this chatter, watch the demo only if you like this kind of  |
+| stuff.                                                                 |
+|                                                                        |
++========================================================================+

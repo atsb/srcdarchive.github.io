@@ -1,0 +1,13 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa    (vincentDS@netcourrier.com)
+           Green - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     The Ultimate Doom
+category: coop tyson
+mission:  e1m3
+
+time:      5:03
+          
+Misc: Recorded on Lan at xit-vono's house
+          

@@ -1,0 +1,32 @@
+This is a Doom .LMP "Competition" Entry
+
+MM281742.TXT
+MM281742.ZIP
+
+MM281742.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm.wad -playdemo with Version 1.9
+
+Momento Mori - Level 28 - City of the Unavenged
+
+=--------------=
+Kills      106%
+Items       81%
+Secrets    100%
+
+Time      17:42
+=--------------=
+
+C-N entry #52.
+
+This is one of Momento Mori's finest levels.. but unfortunately, it's also the
+speed-runner's worst nightmare.  Once I begin work on the third episode movie,
+this level will be the biggest obstacle to overcome.
+
+As for this run, I'm pretty satisfied with the way it turned out.  I worked on
+this run several times, so I know the level very well (however, I still don't
+know what all of the switches do. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

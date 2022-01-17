@@ -1,0 +1,55 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EV24-152.TXT
+
+ EV24-152.ZIP
+
+  EV24-152.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 24 - Quarry
+
+  Kills:   100%
+  Items:    25%
+  Secrets: 100%
+  
+
+              *********
+  and Time (: * 01:52 * :)
+              *********
+
+
+  Description:
+
+  1. Thank you part:
+  
+  Thanks to Anthony Soto, and John Keniry for showing me this map.
+  To Anthony again, who persuaded me to use this route, and didn't
+  believe that I'm this mad.
+  To Ethh, who's a great coach :)
+
+  2. Bullshit part:
+
+  This map was something else...I was totally mad, I was playing it for
+  days, 8-9 hours a day straight. When I made a faster run, I always noticed
+  an ugly mistake, and tried it again and again. There are some things that can go
+  wrong here, you know. Telefragging the revenant, opening the secret door, and
+  killing the sergeant with the same shotgun shot, and that damned invul jump.
+  This demo is far from perfect, but will make it.
+
+  3. Anthony wanted to trop some words here:
+
+  Anthony Soto (Swedish Fish): Working to get the best routes and tactics on 
+  this map was fun. We kept bouncing ideas off each other in IRC. It's nice to 
+  see Laszlo get this record. He got me started using the mouse in the first 
+  place so it's kind of like teacher beating student. When I recorded ev24-251 
+  I never imagined that this map would be improved by 1 minute. I'd like to 
+  thank (hehe, it's not even my demo!) John Keniry for starting this in the 
+  first place with a great new route and Laszlo for doing a nice run. Nice 
+  work guys!
+
+  
+Author: Laszlo Vecsei <waldon@doom2.net>
+25.11.2000.

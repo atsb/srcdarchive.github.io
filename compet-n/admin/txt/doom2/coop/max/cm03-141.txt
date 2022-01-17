@@ -1,0 +1,30 @@
+MA03NET2.TXT
+
+ MA03NET2.ZIP
+
+  2 players Cooperative - Ultra Violence - Max Kills & Secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 03 - The Gantlet
+    
+            Kills Items Secrets
+
+  Green  -     56%   30%  100%
+  Indigo -     39%    0%    0%
+
+       and Time  1:41
+          ------------
+
+Description: This demo is pitiful but it beats your time(Arno and Marko)!
+	     Nicolas do a lot of errors in the end and I forgot 
+	     to take the Red Key so I had to wait for Nicolas
+	     to open the Red Door! 
+	     I'm sure we will redo it one day.
+
+Authors:     Green :  Vincent Catalaa
+                      peroxyd@wanadoo.fr
+
+             Indigo:  Nicolas Gandou
+		      ngandou@wanadoo.fr

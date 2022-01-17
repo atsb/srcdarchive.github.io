@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM05-030.TXT
+NM05-030.ZIP
+
+NM05-030.LMP - Nightmare!
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 05 - "The Waste Tunnels"
+
+Kills     ??%
+(Items    ??)
+Secrets    ?%  
+
+   ...and Time      00:30
+                   -------
+
+
+Description: okay I'm a littel pissed of at this one...mainly because I managed 
+             to overwrite a 0:30.lmp that I got 1 houer ago...:(( 
+             
+             Well fortantly for me I did it again within resonable time :=)
+             You really can't do much more than run and hope for the best.
+             But if you're having problems here in a nm movie, I can strongly 
+             recommend that you do try to do it from scratch...
+
+
+
+Author: Henning Skogsto
+E-mail: hskogsto@frisurf.no             

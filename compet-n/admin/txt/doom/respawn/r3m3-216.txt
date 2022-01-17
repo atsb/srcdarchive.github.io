@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+R3M3-216.TXT
+
+ R3M3-216.ZIP
+
+  R3M3-216.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 3 Mission 3 - Pandemonium
+
+  Kills    105%
+  (Items    42%)
+  Secrets  100%  and Time  02:16
+                           -----
+
+  After 100+ tries with 92 or 96% kills.
+  It's time to find another -respawn level...
+
+
+  Author:   Arno Slagboom
+  E-mail:   arnoslag@bart.nl
+  Doompage: members.xoom.com/publicdang
+
+

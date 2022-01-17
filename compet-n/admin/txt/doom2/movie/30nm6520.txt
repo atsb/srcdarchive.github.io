@@ -1,0 +1,150 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+30NM6520.TXT
+
+ 30NM6520.ZIP
+
+  30NM6520.LMP - NightMare!
+
+  This is a Compet-N/Doom2/MOVIE Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - Level 01 to Level 30  (Including Levels 31 and 32)
+
+
+                                Kills Items Secrets    TIME    Health Armour
+
+  LV  1 Entryway             -    37%    0%    20%     0:35      100%   96%
+  LV  2 Underhalls           -   102%   60%   100%     2:32       88%  151%
+  LV  3 The Gantlet          -    60%   22%   100%     1:11      100%  105%
+  LV  4 The Focus            -   134%   52%    33%     2:15       93%   43%
+  LV  5 The Waste Tunnels    -    75%   33%    33%     2:50       60%   75%
+  LV  6 The Crusher          -    98%   17%    66%     3:30      145%  150%
+  LV  7 Dead Simple          -   121%   50%   100%     1:32      183%  186%
+  LV  8 Tricks and Traps     -    54%   60%    28%     1:45      200%  186%
+  LV  9 The Pit              -    46%   36%     0%     2:20      125%  118%
+  LV 10 Refueling Base       -    44%   33%    33%     2:21      200%  200%
+  LV 11 Circle of Death      -    49%    4%    66%     1:28      100%   72%
+  LV 12 The Factory          -    19%   20%     0%     2:08       53%   62%
+  LV 13 Downtown             -    50%   29%    25%     3:26      200%  200%
+  LV 14 Inmost Dens          -   101%   50%     0%     2:41      189%  180%
+  LV 15 Industrial Zone      -    17%   12%    18%     1:02      114%  107%
+  LV 31 Wolfenstein          -    63%    3%   100%     1:37      200%   75%
+  LV 32 Grosse               -    60%   66%    50%     0:40      200%  200%
+  LV 16 Suburbs              -    14%   20%     0%     0:42      178%  182%
+  LV 17 Tenements            -    92%   50%     0%     3:41      123%   89%
+  LV 18 The Courtyard        -     6%   45%     0%     0:36      141%  100%
+  LV 19 The Citadel          -    21%   60%    33%     1:49      131%  100%
+  LV 20 Gotcha!              -    39%   26%    42%     1:47      198%  184%
+  LV 21 Nirvana              -    66%   44%     0%     1:38      200%  200%
+  LV 22 The Catacombs        -   144%   71%     0%     2:49       76%    1%
+  LV 23 Barrels o' Fun       -    89%   36%   100%     2:27      186%  179%
+  LV 24 The Chasm            -    26%   20%     0%     4:09      200%  200%
+  LV 25 Bloodfalls           -    76%   50%    50%     1:37      120%  130%
+  LV 26 The Abandoned Mines  -    63%   25%    50%     1:47      157%  162%
+  LV 27 Monster Condo        -    36%    6%    12%     1:49      200%  100%
+  LV 28 The Spirit World     -    32%   52%    28%     1:40      200%  200%
+  LV 29 The Living End       -    89%   92%     0%     3:37       19%    0%
+  LV 30 Icon of Sin          -  1300%   66%     0%     1:19      168%  170%
+
+
+                                       Total Time  =  65:20 min
+
+                                     [ Gross Time  =  77:50 min ]
+
+
+    When I finished the 21 level recording at the end of last year, I
+    was sure I would not play DooM II ever again...
+
+    But then Demonlord came up with his 23 level LMP and by this time
+    had completely taken over in the Compet-N listings.
+
+    There are a lot of small improvements in his route. He did not face
+    the real task, level 22, though.
+
+    So I installed DooM II again, printed the maps, worked out a way
+    through the remaining levels and started playing...
+
+    There was but one condition: I wanted to do all the levels in less
+    than one hour. So I preferred, whenever possible, faster but more
+    dangerous routes to slower and safer ones.
+
+    Although I didn't quite make it, I think that 65 minutes is not a
+    bad time...
+
+
+    A few words about some of the levels
+    ------------------------------------
+
+      Map  5: I have to get the plasma gun here because I won't do it
+              in level 6.
+
+      Map  6: I leave the Spider alone. It does not kill me, so why
+              should I kill it ?
+
+              The "exit-jump" was not very convincing.
+
+      Map  8: Demonlord is right, the backpacks are not worth the trouble.
+
+      Map  9: I used to follow a rather defensive strategy here. This is
+              now fixed.
+
+      Map 10: This one is easy. And you can still use the second
+              invulnerability to reach the other blue sphere and the
+              plasma gun in case something goes wrong.
+
+      Map 11: Demonlord's route makes this much easier.
+
+      Map 12: Easy. The end is the most accurate timed part of the
+              whole LMP, however.
+
+      Map 13: Easy with Kai-Uwe's route.
+
+      Map 14: I follow Demonlord's way here. Not very hard.
+
+      Map 15: The jump is so simple, it can't go wrong. You might
+              miss the radiation suit, however.
+
+      Map 17: Not so difficult after I watched Anthe's and Demonlord's
+              versions.
+
+      Map 21: You don't have to get the blue key. And make sure you
+              finish with 200%/200%.
+
+      Map 22: By far the hardest level. I think id forgot to put in
+              an invulnerability somewhere. As you see, I don't have
+              a good solution for this one, I just hope for the best.
+              The critical points are the two times when you enter
+              the central room via the elevators as you don't know
+              what awaits you.
+              If you could find a way to the blue sphere that costs
+              less than 100% health...
+
+      Map 23: A nice level, but not as easy as it looks. The Pain
+              Elementals really are a pain...
+
+      Map 24: Just don't fall off... or at least not too often.
+
+      Map 25: You'd better hurry through it.
+
+      Map 26: Similar to level 17, but slightly easier.
+
+      Map 27: Somewhere to relax...
+
+      Map 28: You have 5 invulnerabilities. If that's not enough...
+              I use this one to get max ammo and 200% health/armour
+              so as to be well prepared for level 29.
+
+      Map 29: A tough one. Just stay alive.
+
+      Map 30: You need some good timing to actually hit the brain.
+              Apart from that - No problem.
+
+
+ Steffen Winterfeldt
+
+ wfeldt@tph100.physik.uni-leipzig.de
+
+

@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RS17-554.TXT
+
+ RS17-554.ZIP
+
+  RS17-554.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 17 - Dens of Iniquity
+
+  Kills     78%
+  (Items    33%)          ********
+  Secrets  100%  and Time * 5:54 *
+                          ********
+                          
+
+  Description :-)
+  
+  I realized that the secret is very easy to get and in fact
+  having the backpack allows you to have about 200 additional
+  cells for the rest of the map.  This demo is slower and
+  uglier than the first demo though.
+
+  Xit Vono
+  Xit_vono@yahoo.com

@@ -1,0 +1,53 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E2M5-458.TXT
+
+ E2M5-458.ZIP
+
+  E2M5-458.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 2 - Shores of Hell
+
+  Mission 5 - Command Center
+
+  Kills    100%
+  Items     65%		   ********	
+  Secrets  100%  and Time  * 4:58 *
+                           ********
+
+
+Description: Damn, I'm tired now. Doom the whole day. Last LMP was a 5:01,
+	     not perfect, but it showed that 5 minutes would be possible.
+	     I thought I should leave it with this time, had already written
+	     the .txt file for it, but couldn't resist to record one last time.
+	     I think I should do this more often :) You can see that I miss
+	     doors and buttons, even the stimpacks at the end. Can't concen-
+	     trate anymore, I've played the whole map without thinking, only
+	     reflex actions. Okay, I had luck. Not much, but enough. Both
+	     Cacos were killed by the Barons, it's important to have them
+	     killed before you run to the plasmagun, or they may sometimes
+	     walk to the secret exit amd be out of reach for your cells.
+	     Maybe I've wasted some cells at the exit, just wanted the Baron
+	     behind all the other monsters to help me, that's why I changed
+	     the side. Better would be if the Baron had already decided so
+	     I could have taken the other side, anyway. I think compared to
+	     the other LMPs also the plasmagun area went fine, because I
+	     had still the Radsuit as I jumped down to the 100 cells. Good
+	     luck if you ever play that map, maybe you'll find a better way to
+	     play it. But I hope you don't :)
+	     5 minutes beaten, and 4 minutes are impossible! :)	     
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle
+
+IRC:	@#berlin	(IRCNET)
+
+Deathmatch: gazelle in the German Doom ][ League.
+
+Clan:	QS (Quake Suxx)

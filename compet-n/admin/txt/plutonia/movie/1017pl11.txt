@@ -1,0 +1,40 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 1017pl11.txt, 1017pl11.lmp
+Date     : 2013-7-19 14:37
+Game     : Final Doom: Plutonia
+Client   : doom2.exe v1.9f
+Category : UV Speed episode
+Map(s)   : MAP11-MAP20
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : 
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : x%
+Items    : x%
+Secrets  : x%
+Time     : 00:10:17
+===================================
+Individual level times:
+MAP11 - 1:05.06
+MAP12 - 1:43.60
+MAP13 - 1:26.69
+MAP14 - 0:41.77
+MAP15 - 1:00.09
+MAP16 - 0:32.63
+MAP17 - 1:59.94
+MAP18 - 0:19.74
+MAP19 - 0:37.60
+MAP20 - 0:55.20
+
+Beats the old record by quite a lot because shenanigans.
+Looking at the times it's easy to say this could easily be under 10 mins (13 and 17 were
+especially bad) but this is a pretty brutal run and lowish 10 is already kinda close to my
+limits. I know I can in theory do sub 10 but it's going to require both good play and
+especially good luck which plays a significant role in almost every level. There's only so
+much I can put myself through while waiting for the stars to align for all the vile jumps
+and monster positioning to happen while at the same time playing at my best.

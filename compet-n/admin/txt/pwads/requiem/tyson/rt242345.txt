@@ -1,0 +1,43 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rt242345.lmp & rt242345.txt
+Date     : 2015-07-12 12:22
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map24: Procrustes Chambers
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  73%
+Secrets  :  75%
+Time     : 00:23:45.60
+===================================
+Description:
+
+Finally!
+
+First, the guillotine hall. There is a mancubus and 8 revenants there.
+If taken one by one, a mancubus can kill 4 revs, I think I had 5 only
+once. You can punch the remaining ones, also one by one, but it's slow
+and tedious. You can leave some alive, they tend to occupy that hall.
+On the other hand, you want SOME of these revenants killed. You lure
+three more (after blue key door) and two more (near yeallow doors).
+The more of them alive, the more likely they will find their way out
+and sneak behind you.
+
+Some revs are needed to help with the barons, and two revenants should
+be enough, but I kept alive some more. The archies are easy once
+I took care no corpses were nearby. I always have problems with the
+prison hell knight, though.
+
+Took me > 300 attempts, about 6-7 times I got the berserk.
+
+138th Compet-N entry.
+______________

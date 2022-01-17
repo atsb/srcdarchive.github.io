@@ -1,0 +1,30 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : RE06-226.LMP
+Date     : 2012-10-19 03:01
+Game     : Doom 2 - Hell on Earth
+Client   : doom2.exe v1.9
+Category : Respawn
+Map(s)   : MAP06 - The Crusher
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 104%
+Items    : 11%
+Secrets  : 100%
+Time     : 02:26
+===================================
+Description :-)
+
+After so many years, this is just awful demo, but I got bored with spider,
+sometimes he assists you all the way, but in most cases he doesn't :)))
+so it's annoying like hell. Good time would be 2:10 but I just don't have
+nerves to play this crap. And as you noticed I finally managed to setup
+old PC for Vanilla Doom, so I'll do more COMPET-N demos from now.
+
+Zvonimir

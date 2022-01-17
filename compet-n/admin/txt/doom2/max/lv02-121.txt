@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV02-121.TXT
+
+ LV02-121.ZIP
+
+  LV02-121.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 2 - "Underhalls"
+
+  Kills    100%
+  (Items    40)
+  Secrets  100%  and Time  01:21
+                           -----
+
+
+Description: I know I promised to not uploade more 1 sec. improvements. But
+	     then I had a little discussion with Peo, whom reminded me that
+             many of the max-entries are very optimized allready...I know
+             that 1:17 is possible, cause I got close to this w/o 100%
+             kills (1:19 to be exactly). All in all this is a very frustrating
+             map to record when playing fast, though it's still one of my 
+             favourites.
+
+
+Author:      Anders Johnsen
+E-mail:      gunjohns@online.no
+Doompage:    http://home.sol.no/~doom/

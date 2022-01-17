@@ -1,0 +1,79 @@
+This is a DooM .LMP "COMPET-N/MM2/" Entry - Please forward it...
+
+M205R421.ZIP
+
+ M205R421.LMP
+
+  M205R421.TXT -UV RESPAWN
+
+  Recorded using "DooM 2 v1.9 - Memento Mori 2" ! (Complevel 2)
+  DooM2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level Five - Rites of Passage by Paul Noble
+
+  Kills: 105 / 104 (100%)
+  Items:  21 / 90  (23%)            ********
+  Secrets: 4 / 4   (100%) and Time  * 4:21 *
+                                    ********
+  C-N entry #16.	Date:02/03/2012
+
+  Description :)
+  M205F844 was my second COMPET-N entry, as Rites of Passage is
+  one of my favorite maps. A few days ago, I was playing this map
+  on UV -FAST trying to beat Eugene Kapustin's time of 7:39 but
+  after attempt after attempt, I gave up... for the moment that is.
+
+  After seeing how easy it was for me to do M203R458, I decided it
+  was time I do my favorite MM2 map on UV -RESPAWN. I first got a time
+  of 4:47, I then looked up the record and saw it was 4:37 by Xit Vono.
+  After watching M205R437, I was kinda surprised how poorly Xit Vono
+  played, very unlike him, but it was then that I knew I could for-sure
+  make an entry on this map. This LMP is my second exit, the first, as I
+  said, was done in 4:47.
+
+  Ahh, I wish more people played -RESPAWN, I didn't know how fun it was till
+  I gave it a chance. Reminds me of Doom on the XBOX 360, which in order
+  to get first place on the leaderboard, you must get
+  100% kills/items/secrets on NM with a faster time than anybody else on
+  the leaderboard. NM on the 360 didn't make all the monsters go fast so
+  it was like playing UV -RESPAWN on the Disk Operating System. The
+  XBOX 360 was what got me into Doom, I kinda lied when I said I've
+  played Doom since 2002 here:
+  http://www.doomworld.com/vb/showthread.php?s=&postid=832921#post832921
+
+  I had a computer with Windows 95, and played some First Person Shooting
+  games but not Doom. On the 360, me and my friend briangate1, where
+  getting really good really fast. People literally thought we where
+  cheating. Keep in mind that the XBOX doomers are much newer to Doom
+  and don't understand things like SR40. To explain why I was so good,
+  I always told them that I've been playing Doom for seven years,
+  meaning I started in 2002. Then out of habit, said that to everyone. I
+  don't know what made me thing of this (ohh ya, it's that UV -RESPAWN
+  is like XBOX NM) but I just wanted to get that out of the way...
+  What a weird text document.
+
+  Random: When I got my Windows 95 machine back in 2002 (maybe
+  even a little before that,) my two favorite games where Descent and
+  Tyrian, both DOS games. I got soo good at Tyrian that if there was a
+  COMPET-N equivalent for that game, I would have tons of entries.
+  								
+  								
+  By the way, COMPET-N record was 4:37 by Xit Vono, timestamped:
+  Saturday, August 07, 2010, 12:23:24 PM.
+
+  Complete Historic COMPET-N Leaderboard:
+  M205R439 - vdgg -     7/7/2010
+  M205R437 - Xit Vono - 8/7/2010
+  
+  Note: Since this demo was recorded with MM2.WAD, I suggest you 
+        drop by at http://doomedsda.us/lmps/675/mm2.zip
+        and pick it up if you havn't already :) 
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

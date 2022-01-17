@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/doom2/nmare" Entry - Please forward it...
+
+200-NM27.TXT
+
+ 200-NM27.ZIP
+
+  200-NM27.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 27 -  "Monster Condo"
+
+  Kills      0%
+  (Items     3)
+  Secrets   19%  and Time  01:19
+
+  Maximum Minimum Health =  200 %
+                           -----
+
+  Description :-)
+
+  The cooperative play with the Archville makes it possible.
+  The maximum health possible using my old route is 180%.
+  (The poison always hurts you)
+  BIG thanks to Laci for the route.
+
+ Istvan Pataki
+
+ deity@balu.sch.bme.hu
+
+

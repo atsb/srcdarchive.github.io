@@ -1,0 +1,20 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Michael "OgreSlayR" Lastovica    (Akira101@comcast.net)
+           Green - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+
+game:     ultimate doom
+category: coop pacifist
+mission:  e4m3
+
+time:     0:09
+
+
+
+OgreSlayer : Not very hard. The monsters tend to get in your way and with 
+             a little help with Vince, this jump wasn't bad. Optimal maybe?
+
+Vincent : Who knows, solo record is 8.97, but with quickstart...
+          
+Recorded using Kahn with a ping of 160 ms.
+          

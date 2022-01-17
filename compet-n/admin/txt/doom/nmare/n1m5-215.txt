@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+N1M5-215.TXT
+
+ N1M5-215.ZIP
+
+  N1M5-215.LMP - NightMare!
+
+  Recorded using DooM Version 1.9
+  DooM -PlayDemo with Version 1.9
+
+  DooM - Episode 1 Mission 5 - Phobos Lab
+
+  Kills     98%
+  (Items    62)
+  Secrets   66%    and Time  02:15
+                            -----
+
+Description: 15 seconds faster then Rob Reevy, can still go faster (guess
+             below 2 mins is possible). I choosed to grab the partial
+             invisibility in contrast to Rob...
+            
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+MM03-058.TXT
+
+ MM03-058.ZIP
+
+  MM03-058.LMP - Ultra Violence - Max!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - MAP03 - Interlock
+
+  Kills    100%
+  Items     44%           ********
+  Secrets  100%  and Time * 0:58 *
+                          ********
+
+  Description :-)
+
+  You can change this route in many different
+  ways and there won't be a clear faster one
+  I've just seen Esko's TAS where he opens the exit
+  door and kills the pig inside first before killing
+  the outside enemies so the pig doesn't block you while
+  he's dying. This might've saved 1 second from this run..
+
+
+ Author:   Kimo Xvirus
+ E-Mail:   kimo_xvirus@hotmail.com

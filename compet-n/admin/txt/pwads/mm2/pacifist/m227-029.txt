@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M227-029.TXT
+
+M227-029.ZIP
+
+M227-029.LMP - Ultra-Violence Speedrun/Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos
+      
+Kills        0%
+Items        0%
+Secrets      0%
+
+              ********
+  and Time -  * 0:29 *
+              ********
+
+
+Description:
+
+My favorite map from Memento Mori 2. By far.
+
+I had been wanting to speedrun this one for a long, long time, and I was looking
+for any shortcuts possible. Because the map is rather large and complex, I didn't
+want to speedrun it without some sort of trick.
+
+I started out actually with trying the trick used in pl21 at the bar guarding the
+exit, but that just wasn't big enough to blast through it.
+
+That's when I started looking through the map with WadAuthor to try to find what
+switch opened that bar up. The switch was in a good spot, so then I went in with
+-nomonsters to see if I could flip it from below, which I did. So when I was able
+to flip that one, I decided to add the monsters, and well....this is the result ^_^
+
+And so I finally have a record for my favorite Memento Mori 2 map ^^
+
+This demo is also Pacifist.
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+13.02.2002

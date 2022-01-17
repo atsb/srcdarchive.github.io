@@ -1,0 +1,12 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+Green:     Arno Slagboom (arnoslag@bart.nl)
+Indigo:    Marko van der Want (markowant@freemail.nl)
+
+game:     ultimate doom
+category: coop nmare
+mission:  e3m1
+
+time:     0:51
+
+

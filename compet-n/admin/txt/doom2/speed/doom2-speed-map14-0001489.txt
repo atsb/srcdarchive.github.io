@@ -1,0 +1,21 @@
+Runner: Zero-Master
+IWAD: DOOM2.wad
+Category: UV-Speed
+Map: 14
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 1%
+Items    : 0%
+Secrets  : 100%
+Time     : 00:14.89
+
+Description: 
+Trick is discovered by Looper (BT14-009.lmp), and thanks to 4shockblast 
+for letting me know how to do the the method used consistent. 
+
+After finishing up my 30ev run, I've gotten back into some Doom 2, where 
+I look for every possible small time save I can find for 30uv. After 
+learning how to do this wall wobble I figured I'd take a look at map 14. 
+
+Not sure if it will be viable for 30uv. 
+

@@ -1,0 +1,19 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      13
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      12:44
+
+Author	   j4rio
+
+Previous fastest run 
+was possible to 
+improve notably 
+with a little bit 
+thought put in route.
+Invul usage was a bit
+crap, as it's not that 
+rare to land more hits
+on cyb, but whatever.

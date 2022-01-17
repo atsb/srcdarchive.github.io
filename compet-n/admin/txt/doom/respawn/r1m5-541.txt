@@ -1,0 +1,44 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+R1M5-541.TXT
+
+ R1M5-541.ZIP
+
+  R1M5-541.LMP - UltraViolence with -Respawn
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 5 -
+
+  Kills    131%
+  (Items    89)
+  Secrets  100%  and Time  05:41
+
+  Maximum Minimum Health =  40 %
+                           -----
+
+  Introduction...
+
+  This is an Example for a New Category of UV -Respawn .LMP's...
+
+  Requirements: 100% (or more) Kills and Secrets OR M.M. Health.
+
+
+  Description :-)
+
+  Just an initial effort...
+
+  No need to worry about 100% kills... A rough one and that this
+  is why it is D1I hard... it is the respawn that is the killer.
+
+
+ S.;-)
+
+ S. Widlake
+
+ s.widlake@rl.ac.uk
+
+

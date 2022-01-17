@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m232f200.TXT
+
+m232f200.ZIP
+
+m232f200.LMP - Ultra-Violence Max -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 32 - Dances With Demons by David Kuykendall
+      
+Kills      100%
+Items       50%
+Secrets      0%	and Time - 2:00 
+
+
+Description:
+
+I've had two exits (1:58 and 1:59) both with one arachna refused to teleport in.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+03.01.2010

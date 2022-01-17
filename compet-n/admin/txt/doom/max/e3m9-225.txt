@@ -1,0 +1,84 @@
+This is a DooM .LMP "COMPET-N/doom" Entry - Please forward it...
+
+E3M9-229.TXT
+
+ E3M9-229.ZIP
+
+  E3M9-229.LMP - Ultra Violence
+
+  Recorded using Ultimate Doom v1.9
+  Doom -playdemo with Ultimate Doom
+
+  Episode 3 - Inferno
+
+  Mission 9 - Warrens
+
+  Kills    100%
+  Items     66%		   ********	
+  Secrets  100%  and Time  * 2:25 *
+                           ********
+
+
+Description:	Some weeks ago I thought that I could have a look what
+	had happend to Doom and especially to COMPET-N.	Google revealed
+	BahdKo's nice WWW page. I was a bit curious about e2m9 and e4m2,
+	which were the maps I played last, now more than 4 years ago.
+	I lost both maps (the time in e4m2 was improved by almost one
+	third!), but I've got still some points, mostly for some funny
+	cooperative demos (anyone interested? :) I also had a look at
+	the Golden Cybie pages, and the "famous tricks".
+
+	I got the demos the next day. But there was no Doom directory
+	anymore on my hard disk. Linux swallowed the FAT16 partition I
+	had installed the games on. But I still got an archive containing
+	all the files.
+
+	After I had reinstalled Doom and retrieved all the max and speed
+	demos from the excellent database (with history, even the oldest
+	and funniest demos are there :) I watched them the next evening.
+
+	At last, I felt like playing some Doom myself. As I've seen that
+	I still got the max record at E3M1, I remembered E3M9 to be a
+	nice map (which was also mine some years ago :). So I started
+	playing it. After some unsuccessful demos (don't ask how I died :)
+	the first time I reached the exit I got about 3:40. Not that many
+	tries later, I got less than three minutes, but I couldn't really
+	get close to my old record (2:37) nor the one listed in the
+	database (2:31). But I still enjoyed the game.
+
+	It was pretty hard to get close to my old record. The first day, my
+	best time was about 2:45. The next day I tried to get the BFG first
+	to kill the Cybie with two (maybe three ...) BFG shots. A much safer
+	way to play that map, but not a faster one. Then I got a 2:35, my
+	best time so far beating my old time by two seconds. The next day
+	I got a 2:32, the day after a 2:31 with the last tick at 2:31:02.
+
+	After some days without a game, I got a 2:29, which I sent to Adam,
+	and I was quite happy about the new record. But he mailed back, that
+	Radek already recorded a 2:26. This time seemed much harder to
+	improve, but the demo looked as if it could be possible.
+
+	Now, after some more days of Dooming, I got this 2:25. It can still
+	be improved (maybe to a 2:22), but at least not that easy.
+
+	You need quite some luck (besides the usual skill :) at this map.
+	Very often, the pigs require more than an average of two shotgun
+	shots. The most important place for a good time is, how many rockets
+	it takes to kill the Cyberdemon. See Radek's demo for a very good
+	run, he wastes two rockets grabbing the launcher at full ammo, and
+	still leaves with more than 40 rockets left. Sometimes, even when
+	every rocket hits, you've got only 30-35 rockets left for your way
+	back.
+
+	The other place where things can go wrong is after taking the plasma
+	gun. More than half the runs you are looking for one of the hidden
+	Cacodemons.
+
+	Hope you enjoy my first run after four years (and my last at the
+	age of 29). By the way, it's recorded on my good old Pentium 133 :)
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+
+WWW:	http://user.cs.tu-berlin.de/~gazelle

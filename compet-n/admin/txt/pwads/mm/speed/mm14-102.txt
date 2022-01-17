@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry
+
+MM14-102.TXT
+
+ MM14-102.ZIP
+
+  MM14-102.LMP - Ultra Violence!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 14 - Aquaduct
+
+  Kills      15%
+  Items      50%            
+  Secrets   100%  
+
+    and Time    (: 01:02 :)
+
+
+  Description :-)
+
+  There are still things to improve but this is
+  the best demo I could make so far. Playing
+  without sound is much better for my nerves as I
+  discovered. I've had a 0:59 with the cyber
+  shooting me at the open exit door, so I'm up
+  for another round.
+
+  Laszlo Vecsei
+  waldon@doom2.net

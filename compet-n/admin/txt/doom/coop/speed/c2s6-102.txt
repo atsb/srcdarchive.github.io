@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa    (vincentDS@netcourrier.com)
+           Green - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     The Ultimate Doom
+category: coop speed
+mission:  e2m6
+
+time:     1:02
+
+Vincent : My part sucked
+
+xit-vono : A bit sloppy but it was nice to finally finish the map.
+          
+Misc: Recorded on Lan at xit-vono's house
+          

@@ -1,0 +1,33 @@
+This is a Doom .LMP "Competition" Entry
+
+u4m6-256.txt
+u4m6-256.zip
+
+u4m6-256.lmp 
+
+Recorded using Ultimate Doom Version 1.9
+Doom -playdemo with Version 1.9
+
+Ultimate Doom - E4M6 - Against Thee Wickedly
+
+=--------------=
+Kills      100%
+Items      100%
+Secrets    100%
+
+Time       2:56
+=--------------=
+
+C-N entry #75.
+
+My goal here was under 3 minutes, which came
+with a few seconds to spare.  Getting the red
+key grab to work on the first try was crucial
+when the times got below that mark, and it
+didn't want to happen all the time, unfortunately. :)
+
+This could have been better, but I played this level
+out and want to concentrate on other stuff (pn/ps).
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

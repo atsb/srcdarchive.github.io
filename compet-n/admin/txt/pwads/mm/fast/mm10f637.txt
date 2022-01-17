@@ -1,0 +1,23 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM10F637.TXT
+
+ MM10F637.ZIP
+
+  MM10F637.LMP - Ultra Violence - Fast Monsters
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 10 - The Mansion
+    
+  Kills    100%
+  (Items    27%)          
+  Secrets  100%  and Time = 06:37
+                                                  
+
+  Description: This map looks a bit unfinished to me because the monster population is very                low. But I must say that I enjoyed recording this.
+
+  
+  Author: Tomas "DeDo" Kollar
+  Email: kollarant@stonline.sk

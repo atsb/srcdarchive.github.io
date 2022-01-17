@@ -1,0 +1,62 @@
+This is not just another DooM .LMP "Competition" Entry...
+
+30ns6155.TXT
+30ns6155.ZIP
+
+30ns6155.LMP - NightMare!
+
+This is a Compet-N/Doom2/MOVIE/D2SS/Entry...
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+                     
+           Time  
+---------------------
+LV 01  -   0:47  
+LV 02  -   1:13  
+LV 03  -   0:34  
+LV 04  -   1:06  
+LV 05  -   1:53  
+LV 06  -   1:19  
+LV 07  -   0:57  
+LV 08  -   1:39  
+LV 09  -   3:06  
+LV 10  -   2:58  
+LV 11  -   1:26  
+LV 12  -   2:20  
+LV 13  -   2:49  
+LV 14  -   1:09  
+LV 15  -   4:00  
+  
+LV 31  -   1:09 
+LV 32  -   0:38 
+  
+LV 16  -   1:22
+LV 17  -   3:18 
+LV 18  -   2:15 
+LV 19  -   2:26 
+LV 20  -   2:03 
+LV 21  -   1:14 
+LV 22  -   1:47  
+LV 23  -   1:40  
+LV 24  -   3:44  
+LV 25  -   1:25  
+LV 26  -   1:42  
+LV 27  -   2:41  
+LV 28  -   2:05  
+LV 29  -   2:34  
+LV 30  -   2:36  
+---------------------
+Total     61:55  
+        ---------                          
+
+Description: I did this one during the .nor 2001 summer lan so I thought it was about time
+             I uploaded it. I was originally gonna try and get it down to 59:xx or whatever 
+             but as it turns out this won't be happening but atleast this is quite close :)
+                        
+             Btw mr Hamels sorry that I havn't included your comments I somehow couldn't 
+             find the file I did put together when you were @ .nor lan :( 
+
+
+Author: Henning Skogsto 
+E-mail: skohen@dph.no

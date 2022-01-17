@@ -1,0 +1,36 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Author: Various                               |
+            | Filename: m212r207.lmp                        |
+            | Category: Respawn                             |
+            | Map Level: MAP12 - The Waterway               |
+            |                 (by Orin Flaharty)            |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    103%                            |
+            |      Items     65%           ********         |
+            |      Secrets  100%  and Time * 2:07 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| My old 2:50 didn't look very well, as the Max time was recently        |
+| lowered by Kyle and myself and got dangerously close to the -respawn   |
+| time. Actually below 2:00 should be possible. Very fun to play.        |
+|                                                                        |
++========================================================================+

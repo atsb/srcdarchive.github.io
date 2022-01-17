@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+N1M6-113.TXT
+N1M6-113.ZIP
+
+N1M6-113.LMP 
+
+Recorded using Ultimate DooM Version 1.9
+Ultimate DooM -PlayDemo with Version 1.9
+
+Doom 2 - E1M6 - Central Processing
+
+Kills     44%
+Items     17%
+Secrets   50%
+Time     1:13
+         ----
+
+Description:
+Entry #24.
+
+I hope it's the fact that I'm improving that these demos are coming faster than
+before, especially considering that Adam's ending was spectacular. :)
+Got this one in around 10 minutes, same with n1m7-141.
+
+Author: Drew DeVore "stx-Vile" (stx is the Stickmen, one of the best
+Quake 3 clans today. Visit us on IRC at #stickmen on irc.enterthegame.com)
+E-mail: drwdevore@aol.com

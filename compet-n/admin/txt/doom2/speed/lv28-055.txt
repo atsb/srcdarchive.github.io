@@ -1,0 +1,33 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV28-055.TXT
+
+ LV28-055.ZIP
+
+  LV28-055.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 28 - "The Spirit World"
+
+  Kills     14%
+  (Items     4)
+  Secrets   14%  and Time  00:55
+                           -----
+
+
+Description:  Quite hard to make it this way...
+
+
+Author:       Daniel "Demonlord" Lindgren
+
+E-mail:       akllin95@student.umu.se
+
+
+[  Admin. Note :-)  Even though Demonlord was killed on the exit,
+   the game engine says that this counts - therefore, it counts !
+
+S.;-) aka. The "Judge". ]
+
+

@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m2s1p036.TXT
+
+ m2s1p036.ZIP
+
+  m2s1p036.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad mm2mus.wad mm2info.wad -playdemo with version 1.9
+
+  Memento Mori 2– Secret Map 1 – UV Pacifist
+
+Okay, so that 0:47 was just too ugly. This one's a bit messy at the start (darn spectre) but works out incredibly in the red key area. That sergeant opening the door for me just as he died was just too nice :). Thanks to Green Herring for the stairs trick.
+
+Author: Adam Williamson

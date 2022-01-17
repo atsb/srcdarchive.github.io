@@ -1,0 +1,31 @@
+This is a Doom .LMP "COMPET-N/doom/speed" Entry - Please forward it...
+
+E3M2b017.TXT
+
+ E3M2b017.ZIP
+
+  E3M2b017.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  Doom -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9 ?
+
+  Episode 3 - Inferno
+  Mission 2 - Slough of Despair
+
+  Kills      0%
+  (Items     0)
+  Secrets    0%  and Time  00:17
+                           -----
+
+
+Description: Who has put those trees there? Get out of my way!
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+

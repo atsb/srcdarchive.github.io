@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV32-016.TXT
+
+ LV32-016.ZIP
+
+  LV32-016.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 32 - "Grosse"
+
+  Kills     24%
+  (Items    33)
+  Secrets    0%  and Time  00:16
+                           -----
+
+
+Description: Well not much to say really, just:  Run like hell...
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

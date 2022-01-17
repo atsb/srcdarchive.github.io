@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM12-733.TXT
+
+MM12-733.ZIP
+
+MM12-733.LMP - Ultra-Violence Max-Kill
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+Memento Mori - Level 12 - Kinetics
+      
+Kills      100%
+Items      100%
+Secrets      0%
+
+              ********
+  and Time -  * 7:33 *
+              ********
+
+
+Description:
+
+Yonatan had a good demo, unfortunately due to the ugly map design, I don't
+think there will ever be a "good" demo from this map...it's just that
+horribly designed.
+
+Anyway, Yonatan's demo was kinda layed back, but I'm sure that only a crazy
+person would want to actually spend time doing ANY demo for this map...
+
+This can go faster, just need better ammo usage and such...better aim might
+help too. My 4:37 Speedrun is much better than this ^^
+
+Also, this is my contribution to Fish's goal of improving the Max-Kill
+tables for Memento Mori ^_^
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+30.09.2002

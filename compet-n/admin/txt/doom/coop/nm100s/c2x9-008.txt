@@ -1,0 +1,15 @@
+Competition:     Coop-N (members.xoom.com/coopn)
+Game:            DooM 
+Category:        Nightmare 100% Secrets
+Map:             e2m9	
+Players:         2
+
+Kills:           0%
+Secrets:         100%
+Time:            0:08
+
+Green:           Arno "SlagDooM" Slagboom
+Indigo:          Marko "Python" van der Want
+
+Comments:        While Marko was following the one-player route,
+                 Arno was distracting the cacos. Real coop!  ;))

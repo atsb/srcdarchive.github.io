@@ -1,0 +1,30 @@
+
+  This is my fastest time for episode 2 of Doom vs. 1.9.
+
+  If you've only got vs. 1.666 then just change the first byte
+  from 6D to 6A.
+
+
+  Episode-Level     Time
+--------------------------
+  2-1               1'30"
+  2-2               3'13"
+  2-3               1'59"
+  2-4               2'49"
+  2-5               2'40"
+  2-6               6'19"
+  2-7               6'29"
+  2-8               ?'??"
+--------------------------
+  Total            24'59"
+
+
+  I'm sure this isn't the fastest time, but it's good enough
+  for me. Any comments?  Send E-mail to gcauthon@umr.edu
+
+
+ Gary Cauthon
+
+ gcauthon@umr.edu
+
+

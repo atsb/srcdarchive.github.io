@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PR31-437.ZIP
+
+ PR31-437.LMP
+
+  PR31-437.TXT - Ultra Violence with respawning monsters
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom - Plutonia Experiment - Level 31 - Cyberden
+
+  Kills      119%
+  (Items     100%)           ********
+  Secrets    100%  and Time  * 4:37 *
+                             ********
+  Description :)
+  
+  It's annoying to try to go through this map without killing
+  the cybers, but it's basically no harder than a speedrun
+  because the other monsters respawning doesn't really make
+  much difference.  I didn't bother with the rocket jump, which
+  probably could have saved some time but I felt this was the
+  safest way to do it.
+
+  Xit Vono
+  xit_vono@yahoo.com

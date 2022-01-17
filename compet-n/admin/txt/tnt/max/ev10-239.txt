@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV10-239.TXT
+
+ EV10-239.ZIP
+
+  EV10-239.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 10 - Redemption
+
+  Kills    100%
+  (Items    20%)           
+  Secrets  100%  
+
+   ...and Time  2:39
+               ------
+
+
+Description: I agree with Gemini. Nice, small and funny map.
+
+
+Author:  Radek Pecka
+E-mail:  r.master@email.cz
+

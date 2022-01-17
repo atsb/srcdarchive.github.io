@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M6-131.TXT
+
+ E2M6-131.ZIP
+
+  E2M6-131.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 2 Mission 6 -  Halls Of The Damned
+
+  Kills     18%
+  (Items     9)
+  Secrets    0%  and Time  01:31
+                           -----
+
+
+Description: Big level with a lot of room to cover. Need to be a little
+             lucky when going to get the red key. I had to do a remake:
+             the previous author showed me a better way of running this
+             level. "Thanks" :)
+
+
+Author: Wade ( Shot-Gun ) Cayton
+
+E-Mail: Swade@infoave.net
+
+

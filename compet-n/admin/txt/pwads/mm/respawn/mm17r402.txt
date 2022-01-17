@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+mm17r402TXT
+
+ mm17r402.ZIP
+
+  mm17r402.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Map 24 – UV Respawn
+
+Simply avoiding enemies is the key to getting a good time while still getting 100% kills. I avoid a hell knight, a couple of hitscanners as well as a PE, as well as the knights in the yellow key room. I also don't go into the place with an arch-vile and 4 mancubi because of this.
+
+Author: Revved

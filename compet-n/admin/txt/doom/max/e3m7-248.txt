@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry
+
+E3M7-248.TXT
+
+ E3M7-248.ZIP
+
+  E3M7-248.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Ep.3 Mi.7 - Limbo
+
+  Kills    100%
+  (Items    75)
+  Secrets  100%    and Time  02:48
+                             -----
+
+  Description:  Usually I don't try to break any speed or max records,
+                they are just too good. But this LMP has its own story:
+                Frank Siebers told me how to strafe50 with keyboard
+                only (just press StrafeRight + StrafeOn + TurnRight)
+                and I planned to play this map on -Respawn with 100%
+                kills and secrets, because it gives the opportunity for
+                some funny jumps (which become easier with strafe50).
+                As usual I first watched the COMPET-N/max record,
+                but my HDD wasn't up to date and I watched Blake Cole's
+                4:31. That obviously had to be improved, he uses no jump
+                trick.
+                I played until I got 3:12 and was quite happy until I
+                discovered that Yonatan has already done it in 2:52.
+                Using his route it has been easy to reach 3:00.
+                Especially the kill_four_cacos bfg shot saves some seconds.
+                As you can see I'm not used to strafe50 yet and I miss
+                two jumps.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+
+

@@ -1,0 +1,24 @@
+PA21-059.TXT
+
+ PA21-059.ZIP
+
+  PA21-059.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 25
+
+  Kills     31%
+  (Items    44%)          +++++++++   
+  Secrets    0%  and Time + 00:59 +
+                          +++++++++
+
+  Description: Wow! Only half hour. This pacifist style is really eazy.
+               Very good time at all but I lose one sec. at the switches
+               so 58 and maybe even 57 should be possible.
+
+
+  Author:  Marijo "Sedlo" Sedlic
+
+  Email :  msedlic@hotmail.com

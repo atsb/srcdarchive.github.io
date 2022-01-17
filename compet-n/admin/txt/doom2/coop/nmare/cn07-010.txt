@@ -1,0 +1,46 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+CN07-010.TXT
+
+CN07-010.ZIP
+
+CN07-010.LMP - Nightmare! Coop
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Doom2 - MAP 07 - Dead Simple
+
+         Kills    Items   Secrets
+
+Green      0%      14%       0%      MG86
+Indigo     5%      14%       0%      JC
+
+
+Time       0:10
+
+
+Description :
+
+[ JC : ]
+
+Nice SSG Shot ! But we had to kill the mancubus D: !
+So this is NOT optimal :p
+
+[ MG86 : ]
+
+This map can be really frustrating on NM, as the mancubus shots often moves the player while jumping
+
+
+Authors:
+
+JC
+superjc@free.fr
+25th Compet-N Entry
+
+Mickael "MG86" Girard
+psychokwak_86@hotmail.fr
+1st Compet-N Entry
+
+France
+2013/08/10

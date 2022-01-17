@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+RE31-227.TXT
+RE31-227.ZIP
+
+RE31-227.LMP - Ultra Violence with -RESPAWN
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 31 - Wolfenstein
+
+Kills    100%
+(Items     1%)
+Secrets  100%  
+
+   ...and Time     02:27
+                  -------
+
+Description : Every respawn should IMO be faster than the origianl max.
+              But I really don't got the time to optimize it so I leave it
+              to you Adam. 
+                
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net
+Doompage: (very very soon)

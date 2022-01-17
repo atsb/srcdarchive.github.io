@@ -1,0 +1,16 @@
+This is the 10th contest at COMPET-N, and the first one featuring a level from scratch, designed
+especially for speedrunning.<br>
+First, get the map <a href="http://ural2.hszk.bme.hu/~ha211/compet-n/mods/helltrak.zip">here</a>.<br>
+Categories:<br>
+<li>UV Speed (fairly easy)
+<li>NM Speed (quite a challenge but possible)
+<li>UV Max (this might not be as much fun, the map was primarily designed for running. Still, possible)
+<li>NM100S (see NM Speed, this map does not have secrets)
+<li>UV -fast (this will be a challenge I think)
+<li>UV -respawn (yes, very different from Max, and much more fun)
+<li>UV Pacifist (I certainly could see this done)
+<li>UV Tyson, etc. (I think not)<p>
+
+Demos should be uploaded to the contest subdirectory on the FTP. If you mail them to me, I'll upload
+them there. So if you want to keep your run secret, don't upload it before the deadline.<br>
+Deadline is 23:59 CET, 31st January, 2002.<p>

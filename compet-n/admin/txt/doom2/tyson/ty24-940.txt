@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/doom2/" Entry - Please forward it...
+ 
+TY24-940.TXT
+TY24-940.ZIP 
+
+TY24-940.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 24 - The Chasm
+
+Kills    100%
+(Items    ??%)
+(Secrets  75%)
+
+   ....and Time   09:40 
+                 ------- 
+
+Description:  
+	      Radek wrote:		
+	     >Damn, what a nice map for Tyson! Don't you think ? 
+		
+	      Yeah it is :) I saw your demo and got inspired to try some myself. 
+	      
+	      Anyhow, this is nothing too serious just wanted to see if I could 
+	      improve it down to 9min or something, so unless you enjoy tyson, 
+	      oh well you take my hint I guess :)   		      	         
+
+
+Author: Henning Skogsto   
+E-mail: none  

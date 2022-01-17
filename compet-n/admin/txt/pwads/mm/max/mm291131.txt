@@ -1,0 +1,25 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm291131.lmp & mm291131.txt
+Date     : 2014-08-30 14:05
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : UV Max
+Map(s)   : Map29: Island of Death
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 101%
+Items    :  57%
+Secrets  : 100%
+Time     : 00:11:31.34
+===================================
+Description:
+
+This route only makes sense because of the slowly teleporting monsters.
+A rather bad demo, but this BFG shot at 10:50 was a nice surprise.

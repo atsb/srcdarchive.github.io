@@ -1,0 +1,39 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Author: Various                               |
+            | Demo filename: m2082825.lmp                   |
+            | Category: Tyson                               |
+            | Map Level: MAP08 - Stigmata                   |
+            |                 (by Denis Moeller)            |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     74%           *********        |
+            |      Secrets  100%  and Time * 28:25 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| This was rather easy. I just overlooked this one. No berserk, no       |
+| chainsaw, but three important assets: 1.Monsters fight among           |
+| themselves without problems, 2.An important door behind the            |
+| arachnotrons can be opened/closed by the player only, 3.There is       |
+| bullet ammo everywhere. Perhaps even easier than MAP09, I needed only  |
+| two hours for this.                                                    |
+|                                                                        |
++========================================================================+

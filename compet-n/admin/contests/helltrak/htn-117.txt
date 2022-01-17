@@ -1,0 +1,19 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htn-117.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 1:17, NM speed / NM100s
+
+Author                  : Adam Williamson
+Email Address           : adam.williamson1@btinternet.com
+
+Description             : Pretty easy really. Third attempt. Credit to Vile
+                          for the jump again.
+                          
+************************************************************************

@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ03-606.TXT
+
+ RQ03-606.ZIP
+
+  RQ03-606.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 03 - Poison Processing
+
+  Kills    100%
+  (Items    50%)          *********
+  Secrets  100%  and Time * 06:06 *
+                          *********
+                          
+
+  Description :-)
+  
+  The first in a serie of great Iikka maps, it is also the only one (I think,
+  at least I didn't hear Adam W. complain about his maps :) which is plagued
+  with a bug. This bug shows its ugly face nearly 4 times out of 5, and prevents
+  you from getting 100% kills. What is this bug? Well, it's simply an Imp that
+  won't teleport in front the Blue Door. Actually, if you wait long enough, it
+  *will* eventually teleport as it is bound to recross its teleport line one
+  day or another, but then there is no way to kill it in a reasonable time as
+  you have to backtrack nearly the whole level to kill it.
+
+  Rudy Jurjako
+  rudyj@total.net

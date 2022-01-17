@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+PA32-023.TXT
+
+ PA32-023.ZIP
+
+  PA32-023.LMP - Pacifist Style !
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Doom2 - Level 32 - Grosse
+
+  Kills     39%
+  (Items    33%)
+  Secrets    0%  
+                  
+     ...and Time   00:23.22 
+                  ----------
+
+Description:  I was just lucky "a bit". 
+
+
+
+Author:     Radek Pecka
+E-Mail:     r.master@email.cz
+

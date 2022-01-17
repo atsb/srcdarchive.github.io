@@ -1,0 +1,63 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+mm11-309.txt
+
+mm11-309.zip
+
+mm11-309.lmp - Ultra-Violence Max
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file mm.wad
+
+Memento Mori - MAP 11 - Halls of Insanity
+
+
+================
+Kills       88%
+Items       33%
+Secrets      0%
+----------------
+Time       3:09
+================
+
+
+Description:
+
+Nice atmosphere, I like the map's mus (BGM) very much!
+However, this map have a fatal bug...
+
+I have a question "How should I do to get a UV-Max demo?".
+This is because I turned out that the rule don't exist for this map.
+There is an inaccessible area. However, it's not impossible to
+kill some enemies on the area, much luck is necessary though.
+Theoretically it is possible to kill all enemies excluding
+two monsters. In mm11-610, Peo left four monsters and finished
+the level. He had luck, because a shotgunner missed a shot to
+his target and hit it to a chaingunner when doing monster-infighting.
+Therefore, Peo was able to kill three chaingunners. I think it
+seldom happen. At least, it didn't happen when I played with
+God mode. And, a few shotgunners might never show up in front
+of the player if they goes to the edge of the area.
+
+In my opinion, we should have a complete disregard for all (13) enemies
+on the area. Certainly it is possible to kill a few enemies enough, but
+the result changes as often as we play it, so we can't do fair competition.
+One or two shotgunners might never show up in front of the player once,
+because there are two shotgunners in near to the edge of the area from
+the first. Or, I might be able to kill one or two mancubi by monster-infighting.
+It happens easier than killing chaingunners, but it also depend on luck. Or,
+I might miss more shotgunners if I wait for mancubi to start moving.
+
+Here, I did a map 11 demo in my opinion. Of course, I don't know if it is really
+correct. I don't mind it even if this demo would be invalid on Compet-N. However,
+this is one opinion to UV-Max and Speedrunning.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco
+
+
+29 - Dec - 2008   13th Comepet-N Entry

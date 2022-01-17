@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM31-036.TXT
+
+ NM31-036.ZIP
+
+  NM31-036.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 31 - "Wolfenstein"
+
+  Kills     26%
+  Items      1%
+  Secrets    0%  and Time  00:36
+                           -----
+
+
+Description:
+	36sec with SR50, 37sec with SR40 without luck.
+	
+	It´s a pity that you need strafe to run fast at all.
+
+	
+Author:      Frank "Jesus" Siebers
+
+24.08.1997
+
+E-Mail:   siebers@metronet.de
+
+Homepage: http://members.aol.com/siebers/doom.htm

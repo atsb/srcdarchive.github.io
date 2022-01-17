@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1017UV01.TXT
+
+ 1017UV01.ZIP
+
+  1017UV01.LMP - Ultra Violence
+
+  This is a Compet-N/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1" - Levels 01 to 10
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+   LV 01  -     0%    0%    0%          07     (100   0)
+   LV 02  -    62%   40%  100%       1" 12     ( 19 126)
+   LV 03  -    25%   22%  100%          46 !   ( 62  99)
+   LV 04  -    65%   61%   66%          57     ( 75  63)
+   LV 05  -    24%   33%    0%          51     ( 93   0)
+   LV 06  -    42%    5%   66%       1" 38     (134 138)
+   LV 07  -   100%   83%  100%       1" 14     (116 118)
+   LV 08  -    21%   60%    0%          58     (186 105)
+   LV 09  -    36%   21%    0%       1" 41     (139 147)
+   LV 10  -    13%   21%   16%          53     (101  96)
+   LV 11    [ got the blue key ]                     ;-)
+
+                     Total Time =    4" 377
+                                     4" +
+                                     6" 17
+                                    ------
+                     TOTAL TIME =   10" 17
+                                   --------
+
+
+Description: Well, a little faster than my old entry - I don't have
+             the time to comment on all of the levels, but level 08
+             can be done a lot faster.
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

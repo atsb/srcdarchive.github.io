@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+M213-111.TXT
+
+ M213-111.ZIP
+
+  M213-111.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 13 - Devils Paradise
+
+  Kills     23%
+  Items      0%           ********
+  Secrets   20%  and Time * 1:11 *
+                          ********
+
+  Description :-)
+
+  I think this exit was designed for deathmatch, but as
+  shown in this demo it can be reached in single-player
+  too :)
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

@@ -1,0 +1,15 @@
+200-R3M3.LMP --> E3M3 on UV with Respawning
+-------------------------------------------
+
+  Kills   : 29%
+  Items   : 28%
+  Secrets : 16%
+  Time    : 02:00
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: Not that hard. It worked out for me in this LMP even though I
+          didn't manage to grab the SG.
+
+Robert Reevy <drparadox@usa.net>

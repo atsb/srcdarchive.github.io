@@ -1,0 +1,48 @@
+This is a DooM .LMP "COMPET-N/fdoom/speed" Entry - Please forward it...
+
+EV29-938.TXT
+
+ EV29-938.ZIP
+
+  EV29-938.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 29 - River Styx
+
+  Kills    110%
+  Items    100%           ********
+  Secrets  100%  and Time * 9:38 *
+                          ********
+
+
+Description: Wahooo. Finally less than 10 minutes. I would like to have
+
+	     a) a Plasmagun or
+	     b) one BFG shot for the Spiderboss [is it useful elsewhere?] or
+	     c) Chaingun/SSG at the start or
+	     d) Invulnerable for the Crusher (I know now how to do it)
+	     e) a backpack
+	     
+	     One of these would be nice, it would improve the time by one
+	     minute each :)
+	     That map has a frustrating placement of ammo. On friday every time
+	     was slower than 10 minutes, today this is the first LMP where I
+	     reach the exit, and it's surprisingly fast.
+	     Oh, I know I can leave with monsters alive, the 2 Hell Knights,
+	     but I don't think it's fair to replace monsters using an Archvile.
+	     100% real kills make it more difficult for the judge (Hi Simon :),
+	     but I would prefer it really. You can't replace the Spiderboss
+	     here, because you need the red key, but one Baron for a Pig means
+	     5 SSG less. And you are punished for killing an Archvile. It would
+	     be fairly easy to have some cheap Chaingunners at the hidden Arch-
+	     vile. There are some maps that really invite to avoid a Cyberdemon
+	     like Pl29, or the original Doom][ map 29. So what can we do?
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://user.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

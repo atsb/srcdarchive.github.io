@@ -1,0 +1,90 @@
+Runner: Zero-Master
+Date: 2015-04-05
+IWAD: Plutonia.wad
+Category: NM-Speed
+Map: Episode 2, 11-20
+Source Port: Competition Doom v2.0.2.1
+Time: 13:33 (13:38.17)
+
+
+Map	Time
+11	01:02
+12	01:27
+13	03:46
+14	01:02
+15	00:57
+16	01:00
+17	00:24
+18	00:35
+19	00:59
+20	02:21
+
+
+
+Description:
+This was the hardest NM episode run for plutonia, even though it was the shortest, due to map 12. 
+Lots of tricks in this run: glide, arch-vile jump, rocket jump, SR50 keygrab and suicide exit.
+
+
+Map 11: On the start of this map I try to quickly hit the switch on the left side while I run out of the room.
+This will prevent several (sometimes all) arch-viles from teleporting into the maze.
+
+There more times I do this map the more tired I get of focusing on movement so not a very good time here.
+
+Map 12: This is by far the hardest map. 
+
+The hellknight in the start doesn't always infight with the chaingunner and he can do a lot of damage.
+The cacodemon can sometimes bite you on your way out, followed by chaingunners everywhere afterwards.
+There's also a pain elemental that spawns lost souls that can drap you very quickly. 
+There's the mancubus which you always have to kill before he kills you.
+
+Then we have the cyberdemon which is responsible for the most resets, you have to hope he is infighting something
+when you run from the switch to the teleporter. Lets not forget the chaingunners again after the teleporter.
+
+Then we have to hope we don't get blocked going through the next 2 teleporters. Then there might be a 
+cacodemon\chaingunner\shotgunner shooting you, followed up by being block by pain elemental, blocked by demon\spectre from below
+arch-vile\baron hitting you or shotgunner killing you after teleporter again... 
+
+And all of this is before I have even started on all the bullshit that can happen in the last room.
+Respawned demon\spectre? reset, too many cacodemons alive? reset, too low on health by now? reset.
+And lots more followed by a rocket jump in the end, which is the easy part, as long as you don't get hit midway through of course. 
+Funny to look back at my UV-speed movie now and think how scared I was of doing the rocket jumps.
+
+Map 13: Also a really difficult map, there's a long list of things that can go wrong here as well.
+Unfortunately I had to include some cheap tactic where I open\close door to kill mancubi safely.
+Luckly it turns out they can't shoot through the door, because they frequently shoot through walls
+(oh yeah, I've lost a run to that bullshit too).
+
+Somehow I didn't manage to kill the first arch-vile, but I got lucky with the arachnotron dying so quickly.
+That part is always so random since I never know what is down there, and it usually takes a lot of rockets to clear a path.
+
+The last part went really well, I managed to exit at 200\200. The centre arch-vile should always be infighting because of the zombiemen.
+Then I have to be careful of not going to quickly and hope the zombiemen don't kill me meanwhile.
+
+Map 14: Missed some rockets on map 13, but I had just enough. Also did a SR50 keygrab trick, which makes this run a lot easier.
+
+Map 15: Easy map, though arch-viles might throw you off and with invurnability it is sometimes hard to see exactly where you end up afterwards.
+
+Map 16: This map is really annoying. I've died here 3 times!
+Unbelievable luck with that arch-vile, again. Last time this happened I tried to follow through with the route.
+But, if I don't kill him he will most likely hit me at some point going for the jump to the teleporter.
+
+So, I figured I could go back outside and try again instead, and it worked out really well.
+I didn't take nearly as much damage as I usually do in the teleport room.
+
+Map 17: Easy map, even easier with 40 cells, suicide exit to end the map... I don't even want to know how difficult the intended way is on NM.
+
+Map 18: Got really unlucky with a shotgunner teleporting in right away, then I got very lucky when he didn't even hit?
+The chaingunners can kill you really quickly, so better not miss the mega armor. Then I go for the megasphere which is 
+usually quite safe, and makes this map much easier. Arch-vile jump to exit the map.
+
+Map 19: With this health the map is easy, a glide at the end to reach the exit.
+
+Map 20: This map is also not too bad with soo many cells to use. Difficult part is the 2 barons, since you can't really shoot here.
+But with a lot of health I managed to reach exit without any trouble.
+
+Last episode run for plutonia on nightmare is done, now the question is if it's possible to string it all together for a full movie.
+
+
+
+

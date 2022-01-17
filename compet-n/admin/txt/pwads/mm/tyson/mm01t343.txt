@@ -1,0 +1,38 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm01t343.lmp & mm01t343.txt
+Date     : 2015-03-10 06:44
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map01: The Teleporter
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  58%
+Secrets  : 100%
+Time     : 00:03:43.34
+===================================
+Description:
+
+This map remained undone for a long time. I always felt very low health
+and pistol ammo would be a problem. Then Kimo Xvirus beat it, so I could
+forget about it. This year, Cyberdemon531 discovered that the map is
+actually easy. I probably recorded this because of his text file which
+IMO showed too much excitement. (I watched the demo and it could have
+been 3:35 if all bullets were used on the pigs). My record is bleh.
+
+Old records:
+
+5:37 by Kimo XVirus
+4:52 by Cyberdemon531
+3:50 by Cyberdemon531
+
+133rd Compet-N entry.
+______________

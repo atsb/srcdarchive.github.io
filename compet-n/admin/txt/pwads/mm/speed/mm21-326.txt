@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+MM21-326.TXT
+
+ MM21-326.ZIP
+
+  MM21-326.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 21 - Twilight Lab
+
+  Kills     31%
+  Items     18%           ********
+  Secrets   20%  and Time * 3:26 *
+                          ********
+
+  Description :-)
+
+  At first I tried an alternative route from the blue key to 
+  the blue key area, but I think the regular one is faster,
+  especially since the one I had in mind (jumping out after
+  grabbing the key) requires waiting for a tall elevator.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no
+

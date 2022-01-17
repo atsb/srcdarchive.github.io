@@ -1,0 +1,17 @@
+Game:           Doom2 (v1.9)
+Category:       nomonsters
+Mission:        map03
+Skill:          4
+
+Time:           0:21.91
+
+
+Comments:       It's faster to do the beginning this way, but that alone doesn't save
+                enough for 21 :) This shows the "door trick" I discovered and xepop
+                found out that it works here too. Very hard run, got 21.03 and 21.00 once.
+                Now everything went the way I wanted.
+
+                PS. My mouse hand cramped right after hitting the exit button.
+
+
+Author:         Looper

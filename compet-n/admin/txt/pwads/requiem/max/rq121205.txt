@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ121205.TXT
+
+ RQ121205.ZIP
+
+  RQ121205.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 12 - Militant Reprisal
+
+  Kills    100%
+  (Items    70%)          *********
+  Secrets   86%  and Time * 12:05 *
+                          *********
+                          
+
+  Description :-)
+  
+  Not one of the maps I'd like to play more often. You can get lost easily.
+  You can't use DCK nor DEU to have a look at it, but I've found out that
+  dmapedit (whereever I've got this from, thanx to the programmer) can handle
+  it. And this is a must, because there are 23 secrets in that map. And 3
+  not to reach at all, one switch should open a door to an armor, but not
+  raises but lowers the wall, and 2 others are behind bars and there is
+  no teleport exit in that area. Even I don't know always where I am,
+  this map completely puzzles me, but I know how to find every monster,
+  and which secrets I usually miss (one shotgun near the SSG, the armor
+  near the RL and the small sector(s) on the top of the columns in the
+  central room. When you can't find a way to the Supercharge, shoot at
+  the Baron face nearby and press the button that is now available and
+  shoot the next button. Difficult? Maybe you'll have ammo problems at the
+  start, so aim well!
+
+  Kai-Uwe Humpert
+  gazelle@cs.tu-berlin.de

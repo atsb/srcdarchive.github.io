@@ -1,0 +1,18 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop nightmare
+mission:  map12
+
+time:     0:51
+
+Vincent: the plasma really makes this map a lot easier than solo.
+	 1st ever for coop it seems.
+
+xit-vono:  It's not really very hard.
+
+
+          

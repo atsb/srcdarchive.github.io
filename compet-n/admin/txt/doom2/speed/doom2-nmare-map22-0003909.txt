@@ -1,0 +1,22 @@
+Runner: Zero-Master
+IWAD: DOOM2.wad
+Category: NM100S
+Map: 22
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 42%
+Items    : 14%
+Secrets  : 100%
+Time     : 00:39.09
+
+Description: 
+Just couldn't leave it at my previous time of 42 seconds, I needed to get that jump in.
+Kinda wasted time on the spectre, but there was some infighting still going.
+Fast glide, but then I had some bad luck with the baron, I had to run around him to reach the switch.
+I was certain I wouldn't make it once I got past the teleporter with the health that I had, 
+but for the first time ever the path was pretty much clear, no chaingunner on either side shooting,
+revenant was dead and the spectres didn't get in the way and followed up by actually
+surviving the last distance which was surprising.
+
+36 seconds is possible if you jump straight down to RK room, but your chances of surviving 
+and getting the jump is much lower, and you have to have a very quick glide.

@@ -1,0 +1,89 @@
+This is a Compet-N entry 
+
+authors:	Looper
+			xepop
+
+game:		DOOM2 version 1.9
+
+category:	Cooperative 2 players - Movie - UV Speed
+
+Green	:	Looper
+Indigo	:	xepop
+
+			*-------*
+Time:		| 19:52 |
+			*-------*
+
+Levels					Time
+----------------------------------
+"Episode 1" :			4:49
+----------------------------------
+Entryway				0:07
+Underhalls				0:33
+The Gantlet				0:24
+The Focus				0:26
+The Waste Tunnels		0:27
+The Crusher				0:55
+Dead Simple				0:10
+Tricks & Traps			0:24
+The Pit					0:50
+Refueling Base			0:33
+---------------------------------
+"Episode 2" :			7:09
+---------------------------------
+"O" Of Destruction		0:31
+The Factory				0:41
+Downtown				1:15
+The Inmost Dens			0:24
+Industrial Zone			0:21
+Wolfenstein				0:33
+Suburbs					0:15
+Tenements				1:30
+The Courtyard			0:27
+The Citadel				0:35
+Gotcha!					0:37
+----------------------------------
+"Episode 3" :			7:54
+----------------------------------
+Nirvana					0:26
+The Catacombs			0:41
+Barrels Of Fun			0:50
+The Chasm				0:53
+Bloodfalls				0:46
+The Abandoned Mines		0:50
+Monster Condo			0:39
+The Spirit World		0:45
+The Living End			1:35
+Icon Of Sin				0:29
+----------------------------------
+Total					19:52
+----------------------------------
+
+Description :
+
+xepop : Long time project finally done. My part is pretty easy as I 
+don't have to do any hard tricks. Still, I probably screwed up the map03 
+jump more than Looper did map07 and map14 together. First 20 maps went 
+pretty much on "autopilot mode" and usually mistakes happened because of 
+wrong or lack of reactions to changes. For example here I have 200/200 
+in courtyard and went straight to megasphere because that's what I 
+normally did. In this demo we had pretty good two first episodes but had 
+problems in couple maps in the third one. The Chasm didn't really go as 
+we planned: ~ 13s lost there I think. Then we had this awful Monster 
+Condo. Normal was 21s or something and it rarely failed but here it 
+happens. I couldn't save it as I haven't practised luring archvile there 
+but with some luck I managed to do it eventually. Plenty of room for 
+improvement of course but anyway, first human's to beat doom2 under 20 
+minutes on uv! 
+
+Looper : Yeah it was a long project. I blamed lag many times when I 
+failed a trick even it wasn't true, hehe. Map04 ending jump is just 
+random imo, so I hate it. If someone wonders what I did at the yellow 
+key at map12, it was a lagspike >:(. Map14 rocket jump is hard if you 
+don't know what angle and how to start the 'launch' but after figuring 
+that out, you just have to hit the wall with the rocket, which was hard 
+sometimes when lagging like hell. I wish map24 had gone like in plans 
+but it's very difficult with lag as minor mistakes are often fatal. Good 
+thing I didn't kill xepop with bfg in map29. There were few maps where 
+everything went better than expected. The run went fine excluding maps 
+06, 24 and 27. 

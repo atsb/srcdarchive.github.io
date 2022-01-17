@@ -1,0 +1,77 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+2129UV01.TXT
+
+ 2129UV01.ZIP
+
+  2129UV01.LMP - Ultra-Violence!
+
+  This is a Compet-n/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1" - Levels 01 to 10
+
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -     11%    0%    0%       0" 12     ( 86   0)
+  LV 02  -     96%   75%  100%       2" 05     ( 90 129)
+  LV 03  -     64%   22%  100%       1" 41     ( 93 178)
+  LV 04  -     98%   79%  100%       1" 48     ( 92  64)
+  LV 05  -     72%   66%   66%       3" 45     (142 114)
+  LV 06  -     78%   47%   66%       4" 21     (200 200)
+  LV 07  -    100%  100%  100%       1" 08     (200 200)
+  LV 08  -     18%   40%    0%       0" 49     (200 200)
+  LV 09  -     54%   25%    0%       4" 11     (182 195)
+  LV 10  -     26%   19%   16%       1" 29     ( 31  79)
+
+                     Total Time =   17" 269
+                                    17" +
+                                     4" 29
+                                    ======
+                     TOTAL TIME =   21" 29
+
+
+  Comments:
+
+  It seems to me that there is room for vast improvement on
+  levels 5, 6, and 9 still.  If I ever make another recording
+  of this episode, I'll try to do better on those 3.
+
+  There is a brief pause during level 2 (phone call) which
+  only results in me taking fireball dammage... :)
+
+  I guess I lied about not competing in this category again...
+  It can be addicting, but I don't know why because I really
+  do detest winning a level and leaving stuff alive.
+
+
+ Eric Mullins
+
+ Email pending  (I'll be forced to get a real account soon - my
+                current access will terminate on Sept. 11, 1995)
+
+
+[  Admin. Note :-) First of all, thanks for providing your own Table
+
+   - I've checked it through and it's perfect :-) Second, if you try
+   to improve your times for LV's 02, 05 and 06 (09 is K00l ;-) then
+   you will have a "Lightning" Episode... though I personally do not
+   believe LV 06 Under Par is possible - it's hard enough on HMP ;-)
+   Somebody proove me wrong! Lastly, *IF* you ever get a real e-mail
+   address... I'd like a friendly chat or two - I've got some thanks
+   to thrown your way :-) Apology time... This is the 2nd. time that
+   I've re-uploaded this .LMP - the 1st. one had that Level 02 pause
+   "hacked" out of it but the demo still got out of synch - on Level
+   06 (?) Very strange... Pause re-inserted. Sorry about the repack-
+   ing cock-up, the .LMP wasn't "bad" (it's really way too good ;-),
+   it was my fault ;-( Sorry ;-) And Really Finally...
+
+   One Star -Record-ing... and with a "Bronze Medal" as a Reward :-)
+
+S.;-) aka. The "Judge". ]
+
+

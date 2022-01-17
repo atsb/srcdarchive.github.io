@@ -1,0 +1,129 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+            _________________________________________________
+           /                                                 \
+           | PWAD: mm2.wad                                   |
+           | Author: Various                                 |
+           | Demo filename: 6730m201.lmp                     |
+           | Category: Episode UV Max Run                    |
+           | Map Level: MAP01 - MAP10                        |
+           | Exe/Port used: Doom2 1.9                        |
+           | Recorded by: vdgg                               |
+           \_________________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     n/a           *********        |
+            |      Secrets  100%  and Time * 67:30 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| Thanks to Revved for filling the tables in this category. However, I   |
+| immediately thought 77:25 was a bit too slow and needed some           |
+| improvement. Unfortunately, I didn't reach my goal which was below 66  |
+| minutes. The engine just doesn't let me! In this run I finished MAP09  |
+| after 62:16. I had two chances for a much better time:                 |
+| 1) Finished MAP09 @ 60:41. On MAP10 only three cacos teleported in, so |
+|    I knew I'd only have 99% kills. I continued, the final time was     |
+|    65:37, but the run was invalid...                                   |
+| 2) Finished MAP09 @ 60:25, but one demon hid itself in the waterfall   |
+|    area. 99% kills. I "ragequitted".                                   |
+|                                                                        |
+| I die mostly on maps 1,5,9. Sometimes I quit after maps 1,2 if the     |
+| time is not satisfactory. I had missed kills/secrets (!) on almost     |
+| every map, but especially on 1,4,6. First exit was 67:42, this is the  |
+| second one (a pathetic 12 second improvement). Even though I should    |
+| know these maps very well, before this run I practiced some of the     |
+| maps Max style and watched the Max demos of the remaining levels.      |
+|                                                                        |
+| I think the run does not require any comments until MAP08. I'd say     |
+| it's for hardcore MM2 enthusiast (such as myself) or for hardcore UV   |
+| Max run fans (I am not). Can be boring for the rest of the people.     |
+|                                                                        |
+| MAP08 - A slow monster teleporter, but there are many optional quests  |
+|         which I leave until the end, so I actually never had 99% kills |
+|         here.                                                          |
+| MAP09 - I lost too much time here. First, three attempts for the first |
+|         soulsphere in the church. Then I chickened out, didn't take    |
+|         the second soulsphere right after getting the red key which    |
+|         might have cost me half a minute. Very bad monster layout      |
+|         after the invulnerability. At the end I check the waterfall    |
+|         for stragglers.                                                |
+| MAP10 - I should have used rocket launcher against cacos, this would   |
+|         have brought down the sergeants at the same time.              |
+|                                                                        |
+| Some stats:                                                            |
+|                                                                        |
+|       +--------------------------+-----------------+                   |
+|       |        Single level      |  Cummulatively  |                   |
+| +-----+--------+--------/========+========\--------+                   |
+| |     | Pistol |   My   |        |        |   My   |                   |
+| |Level|  start |  best  |  This  |  This  |  best  |                   |
+| |     | record |  time  |   run  |   run  |  time  |                   |
+| +-----+--------+--------|--------+--------|--------+                   |
+| |  1  |  1:16  |  1:30  |  1:38  |  1:38  |  1:30  |                   |
+| |  2  |  1:00  |  1:12  |  1:20  |  2:58  |  2:47  |                   |
+| |  3  |  4:54  |  5:27  |  5:27  |  8:25  |  8:23  |                   |
+| |  4  |  6:27  |  6:40  |  6:53  | 15:18  | 15:14  |                   |
+| |  5  |  6:21  |  7:06  |  7:30  | 22:48  | 22:36  |                   |
+| |  6  |  9:04  |  9:53  | 10:31  | 33:19  | 32:29  |                   |
+| |  7  |  6:38  |  6:58  |  7:45  | 41:04  | 39:27  |                   |
+| |  8  |  5:04  |  5:42  |  5:49  | 46:53  | 45:32  |                   |
+| |  9  | 11:35  | 13:52  | 15:23  | 62:16  | 60:41  |                   |
+| | 10  |  6:24  |  5:14  |  5:14  | 67:30  | 67:30  |                   |
+| +-----+--------+--------\========+========/--------+                   |
+|                                                                        |
+| Comparison to Revved's 7725m201.lmp:                                   |
+|                                                                        |
+| +-----+--------+--------+-------+                                      |
+| |Level|  vdgg  | Revved | Diff. |                                      |
+| +-----+--------+--------+-------+                                      |
+| |  1  |  1:38  |   1:56 | -0:18 |                                      |
+| |  2  |  1:20  |   1:20 |  0:00 |                                      |
+| |  3  |  5:27  |   6:28 | -1:01 |                                      |
+| |  4  |  6:53  |   7:12 | -0:19 |                                      |
+| |  5  |  7:30  |   9:11 | -1:41 |                                      |
+| |  6  | 10:31  |  12:20 | -1:49 |                                      |
+| |  7  |  7:45  |   8:48 | -1:03 |                                      |
+| |  8  |  5:49  |   7:41 | -1:52 |                                      |
+| |  9  | 15:23  |  16:48 | -1:25 |                                      |
+| | 10  |  5:14  |   5:41 | -0:27 |                                      |
+| +-----+--------+--------+-------+                                      |
+| |Total| 67:30  |  77:25 | -9:55 |                                      |
+| +-----+--------+--------+-------+                                      |
+|                                                                        |
+| Finally, I compared this to a few 1st episode Max runs to check if my  |
+| time is acceptable. UV Max C-N records from MAP01 to MAP10 have a      |
+| total time of 58:43 (3523 seconds). This run lasted 4050 seconds.      |
+| By dividing 4050/3523 I get 1,15 (the lower, the better the run).      |
+| For Evilution, it's 40:16 total UV Max records, 47:46 for the run and  |
+| the factor is 1,19, etc.                                               |
+|                                                                        |
+|             +----------+--------+----------------+                     |
+|             |  UV Max  | UV Run |    "Quality    |                     |
+|             |  total   | total  |     factor"    |                     |
+|             | MAP01-10 |  time  | of the Max run |                     |
+| +-----------+----------+--------+----------------+                     |
+| |           |          |        |                |                     |
+| | Evilution |   40:16  |  47:46 |       1,19     |                     |
+| | MM        |   40:54  |  52:26 |       1,28     |                     |
+| | Requiem   |   50:29  |  59:25 |       1,18     |                     |
+| | Doom2     |   21:42  |  25:50 |       1,19     |                     |
+| |           |          |        |                |                     |
+| | MM2       |   58:43  |  67:30 |       1,15     |                     |
+| |           |          |        |                |                     |
+| +-----------+----------+--------+----------------+                     |
+|                                                                        |
+| So I'd say it's really not such a bad time after all.                  |
+|                                                                        |
++========================================================================+

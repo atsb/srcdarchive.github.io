@@ -1,0 +1,69 @@
+This is a DooM .LMP "Competition" Entry
+
+1558ev01.TXT
+1558ev01.ZIP
+
+1558ev01.LMP 
+
+Recorded using Final DooM Version 1.9
+DooM2 -PlayDemo with Version 1.9
+
+Final DooM - TNT levels 1-10 on UV skill
+
+01 - system Control -  :38
+02 - Human BBQ      - 1:13
+03 - Power Control  - 1:17
+04 - Wormhole       -  :13
+05 - Hangar         - 1:30
+06 - Open Season    - 2:37
+07 - Prison         -  :59
+08 - Metal          - 2:48
+09 - Stronghold     - 3:06
+10 - Redemption     - 1:37
+
+Total - 15:58
+
+C-N entry #138, movie run #25.
+
+01: My fastest here was :37, so not a bad run.
+ 
+02: Ugly, but an average time, my fastest here was 1:08.
+
+03: I felt lucky after surviving the blue key with my lower
+    than usual health.
+
+04: My usual time.
+
+05: Low health at the blue key, but I recovered in time to
+    collect the medikits.
+
+06: This felt like a disaster during play, the cacodemon at the
+    yellow key woke up early and blocked my exit, and my health
+    at the dark maze should have killed me (I won't ruin it for
+    you though. :)
+
+07: Not quite luck, I just didn't fall at the end, thank you
+    very much. :)  :57 is my fastest here.
+
+08: My fastest time by far, everything went my way here.  I knew
+    my goal for under 16 minutes was within reach with this time.
+
+09: The usual run, under 3 minutes was reached before but required
+    the extra cells I spent trying to exit map08.
+
+10: Another disaster, bad luck fated the PE to block me from the bulk
+    cells, so I had to retreat.  I also switched to the single barrel
+    accidently, so this is my worst time overall.
+
+I agree my previous movie was slow, so I tried to make this movie an 
+enjoyable upgrade.  It's ugly, but I needed to set my limits after
+realizing that all of my best looking runs are guaranteed to fail and
+the ugly ones will be the fastest, naturally. Thanks to xit for his
+routes and emphasis on risk-taking to improve the times, it was the
+inspiration for this run.  I realize I don't play nearly as much as I
+used to, but I am starting to lose interest in finding new stuff to try.
+I will probably improve old movie records once in a while, though, so
+ol' twoface isn't done for good just yet. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

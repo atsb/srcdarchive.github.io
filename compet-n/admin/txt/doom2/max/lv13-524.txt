@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ LV13-524.TXT
+  
+  LV13-524.ZIP
+
+   LV13-524.LMP - Ultra Violence
+
+ Recorded using Doom2 Version 1.9 !
+ Doom2 -PlayDemo with Version 1.9 - Only
+
+ Doom2 - Level 13 - "Downtown"
+
+ Kills   100%
+ (Items   32)		 
+ Secrets 100%  
+
+   ...and Time        05:24 
+                      -----
+
+Description: Nice level. Once you get the supercharge it's easy, but
+	     DL's 05.36 was hard to beat.
+
+	     Route-credits goes to DL btw...
+	     	
+	     
+Author:	   Henning Skogsto      
+E-mail:	   hskogsto@c2i.net     
+Doompage:  http://home.sol.no/~doom/

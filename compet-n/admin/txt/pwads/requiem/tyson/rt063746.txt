@@ -1,0 +1,40 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Filename: rt063746.lmp                        |
+            | Category: Tyson                               |
+            | Map Level: MAP06 - Natas Ot Etubirt           |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    100%                            |
+            |      Items     95%           *********        |
+            |      Secrets   66%  and Time * 37:46 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| This one required a lot of patience. If I'm not mistaken I reached     |
+| the blue key area 12 times and the final room with sergeants (cruel!)  |
+| 5 times. I had one exit earlier in 35:08, but forgot about killing     |
+| four imps. In short, you may find the ending lame or too cautious, but |
+| I wanted to have this done at all costs and didn't care about the      |
+| style and time (33-34 minutes would be fine). Attaching a strange demo |
+| - a failed attempt with an all-ghosts bug after 15 minutes, viewable   |
+| in doom2.exe, out of sync in PrBoom.                                   |
+|                                                                        |
++========================================================================+

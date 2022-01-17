@@ -1,0 +1,24 @@
+This is a DooM .LMP "COMPET-N/doom/nmare" Entry - Please forward it...
+
+N4M2S035.TXT
+
+ N4M2S035.ZIP
+
+  N4M2S035.LMP - NightMare!
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+
+  DooM - Episode 4 - Mission 2 - "Perfect Hatred"
+
+  Kills     47%
+  (Items    54)
+  Secrets  100%  and Time  00:35
+                           -----
+
+Description: Awefull map to play NM...
+
+
+Author:     Anders Johnsen
+E-mail:     gunjohns@online.no
+Doompage:   http://home.sol.no/~doom/

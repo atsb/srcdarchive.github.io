@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM02-059.TXT
+
+ NM02-059.ZIP
+
+  NM02-059.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 2 - "Underhalls"
+
+  Kills     ??%
+  (Items    ??)
+  Secrets   ??%  and Time  00:59
+                          --------
+
+Description: Just testing the mouse...
+  
+
+Istvan Pataki
+
+deity@sch.bme.hu

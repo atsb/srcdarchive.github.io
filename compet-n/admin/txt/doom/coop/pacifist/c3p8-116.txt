@@ -1,0 +1,38 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c3p8-116.TXT
+
+c3p8-116.ZIP - Coop UV pacifist
+
+c3p8s116.LMP - Sergey - Green
+c3p8e116.LMP - Eugene - Indigo
+
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 3, Map 8 - Dis
+      
+Kills        0%
+Items        0%
+Secrets      0%	
+
+Kills        0%
+Items        0%
+Secrets      0%	
+
+and Time - 1:16
+
+
+Description:
+
+A fun map for pacifist.
+
+Authors:	
+
+Sergey Kapustin
+ssggkk@ukr.net
+
+Eugene Kapustin
+egk@ukr.net
+05.12.2006

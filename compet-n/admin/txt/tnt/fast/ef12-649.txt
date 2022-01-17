@@ -1,0 +1,27 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EF12-649.TXT
+         
+ EF12-649.ZIP
+
+  EF12-649.LMP - Ultra Violence - Fast
+
+  Recorded using Doom2.Exe Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 12 - Crater
+
+  Kills    100%
+  Items    100%                   
+  Secrets  100%  and Time = 6:49  
+                                  
+
+
+Description: Nobody seems interested in going for final doom -fast stuff,
+             so I might upload a bit. This would have beaten my old UV time
+             if I hadn't gotten confused down in the cellars.
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com

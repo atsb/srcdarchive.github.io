@@ -1,0 +1,33 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m2071337.lmp & m2071337.txt
+Date     : 2013-10-06 20:05
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map07: Frustration by David Kuykendall
+Skill    : 4
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  81%
+Secrets  :  80%
+Time     : 00:13:37.09
+=========================================================================
+Description:
+
+Old records:
+
+23:07 by me (my 1st Compet-N entry!)
+17:42 by me (my 4th Compet-N entry; nothing special, but for
+      a 2009 demo by myself I think it was really good)
+
+I experimented with "silent pacifist" a bit, then decided to play
+the "traditional" way.
+
+127th Compet-N entry (yes, I finally counted them)

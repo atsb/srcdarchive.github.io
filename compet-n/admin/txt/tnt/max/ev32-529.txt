@@ -1,0 +1,44 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV32-529.TXT
+
+ EV32-529.ZIP
+
+  EV32-529.LMP - Ultra Violence
+
+  Recorded using Final Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 32 - Caribbean
+
+  Kills    100%
+  Items     17%           
+  Secrets  100%  and Time =  5:29
+                            ------
+
+
+Description: 
+             > Chris wrote in his ev32-603.txt
+             > Your turn, Anthony
+            
+             No, no guys, it's my turn now! hehe....Anthony, i hope 16 secs
+             is enough for you. Henna told me that he want to play it too. 
+             Henna, wake up (it means stop playing RA for while), it's 
+             your turn now. Henna, do you want to get it below TAS time ?? 
+             Or should i do it instead of you ?
+             Hmm...i was playing it for 2 hours, i think i'm hungry now,
+             maybe i should go to eat some fish. :))
+         
+             Special thanks to Chris and Anthony for their great route.
+             
+             Note: Cause Final Doom's exe can't handle the joyb_speed31, I
+             used the original Doom2.exe (1.9). So, to get a correct
+             playback of this lmp use:
+             doom2.exe -file tnt.wad -playdemo xxxx
+             
+
+
+Author:    Radek Pecka 
+E-Mail:	   r.master@email.cz
+Doompage:  http://doomers.zde.cz
+

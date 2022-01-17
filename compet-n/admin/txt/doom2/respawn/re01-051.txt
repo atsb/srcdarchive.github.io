@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry
+
+RE01-051.TXT
+
+ RE01-051.ZIP
+
+  RE01-051.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - EntryWay
+
+  Kills    100%
+  (Items    44%)
+  Secrets  100%  and Time  00:51
+                           -----
+  
+  Description :-)
+
+  Did I say before that I happen to like this map?
+  This was quite easy, IMHO it's easier than normal maxkills...
+  So optimal time should be around 0:48... But Kai doesn't play -respawn :(
+  
+
+  Adam HA Hegyi
+  alien@eik.bme.hu
+  ha211@hszk.bme.hu

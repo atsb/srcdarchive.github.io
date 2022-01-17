@@ -1,0 +1,23 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+pl07-020.zip
+ pl07-020.lmp
+ pl07-020.txt
+
+Recorded using Doom2 Version 1.9
+
+Plutonia - MAP 07 - Caughtyard
+Ultra Violence Speed
+================
+Kills       20%
+Items        0%
+Secrets      0%
+----------------
+Time       0:20
+================
+Description: Saw this in Sedlos unfinished TAS run 15plx723
+and noticed it wasn´t done yet. I´m much slower than Xit so
+it could be 19 too.
+
+Author: xepop
+05 - Jan - 2010   6th Compet-N Entry

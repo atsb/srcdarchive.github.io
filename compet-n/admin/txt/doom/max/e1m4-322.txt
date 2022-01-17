@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M4-322.TXT
+
+ E1M4-322.ZIP
+
+  E1M4-322.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 4 - Command Control
+
+  Kills    100%
+  (Items    48)
+  Secrets  100%  and Time  03:22
+                           -----
+
+  Description :-)
+
+  Still a bit sloppy, but gettin' better (obviously - almost one whole
+  minute faster than Eelco!). Take this hint, mousers: the more coffee
+  you drink & cigarettes you smoke, the less sensitive your mouse should
+  be - for example, 4 cups of coffee plus one packet of cigarettes plus
+  mouse sensitivity 100 (DOS) plus mouse sensitivity 9 (DooM) don't mix
+  too well ... guess why I know !? ;-)
+
+  I did *not* include a .BAT with this, 'coz every serious LMPer (like
+  Anthe and me) has a high-sophisticated one of his own to handle this
+  stuff - right? ;-)
+
+ Thomas
+
+ PS: Don't miss Anthe's "just fast" entry on this level - his time of
+     0:27 (yes, only twenty-seven seconds!) is even faster than Uwe's
+     and Steffen's entries !
+     And try to remember this name: Satanic Mechanic !
+
+ Thomas Zajic
+
+ thomas_zajic@non-hp-austria-om1.om.hp.com
+
+

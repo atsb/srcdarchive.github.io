@@ -1,0 +1,83 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+MM12R304.TXT
+
+ MM12R304.ZIP
+
+  MM12R304.LMP - UV -respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM.WAD -PlayDemo with Version 1.9
+
+  Memento Mori - Level 12 - Kinetics
+
+  Kills      103%
+  Items      100%            
+  Secrets      0%  and Time: 3:04 
+                             ==== 
+
+  Description :-)
+
+  After over six months of inactivity, I have returned to the
+  Compet-n with a new UV -respawn demo.  It's on yet another level
+  that has never had a -respawn demo, but this time, it's on the
+  level in Memento Mori that immediately follows the last one I
+  submitted a demo for... and the one that Andy Olivera called "the
+  worst map in the set."  That's right, I'm talking about MAP12:
+  Kinetics, the home of garish stone rooms with shoddy texture
+  alignment, totally dark rooms for no good reason, and a building
+  staircase that turns deadly if you don't move away from its
+  switch fast enough.  It's bad enough that Denis Möller allowed
+  such a bad level in the first place, but even worse is that none
+  of its issues were fixed between the original release and its
+  update.  We are thus left with an ugly and buggy map that isn't
+  much fun to play on the Compet-n.  Wonderful.
+
+  The story of this demo begins on September 27, 2008, when I
+  started practicing on this map without recording anything.  After
+  several tries, I got a time of 3:31.  When I tried to record on
+  it, however, I was never able to get a successful exit.  I put it
+  off until today, when I was reminded to record something by the
+  demo activity of tatsurd-cacocaco, a Japanese Doom player whose
+  demos I uploaded for him thanks to his inability to access the
+  Compet-n FTP.  I went back to record, and strangely enough, I had
+  a lot more success, getting a 3:14.  Then I ended up getting 3:06,
+  and I tried harder and harder to get a time under 3:00.  After a
+  while, however, the cruddiness of the map was too much for me, and
+  I settled on this 3:04 demo.  And boy, is it ugly!
+
+  Enough of that, though; let's discuss my strategy.  The level
+  begins with a slow descent lasting about 20 seconds where enemies
+  wait to ambush you from alcoves, including three which are rigged
+  to crush people.  (Morons.)  The first thing you'll notice is that
+  I deliberately activate all three crushers, so that anyone who
+  respawns up there gets pancaked and adds to the Kill count while
+  you're shooting things up elsewhere.  I also spare the Hell
+  Knights around the red key at first, because if you kill them
+  right then and there, they'll just respawn when you get back there
+  later, forcing you to waste more ammo to cake care of them again.
+  Oh, and I skip the entire "pillars lower at four sides with Barons
+  and Hell Knights" section because respawned monsters can die in
+  place of the monsters you find there.  Otherwise, this is based on
+  Xit Vono's 4:57 UV max, which I watched before I started practicing
+  and recording.
+
+  As with my last Memento Mori demo, I end the map with 0% Secrets
+  because the map doesn't have any in the first place.  I must
+  emphasize that this is a /really/ ugly demo, but then, I guess it's
+  fitting that I made an ugly demo for an ugly map.  I just wish I
+  was able to get a sub-3:00 time, but at least it's 1:53 faster than
+  Xit's max demo, and 2:36 faster than Casey Alvis's.  Without further
+  ado, enjoy this table-filling demo!
+
+  What, you expected another novel-length description?  Shame on you!
+  ;p
+
+- Eric "The Green Herring" Baker -
+- eabaker@san.rr.com -
+- October 2, 2008 -
+
+P.S. When I stated "Last Sunday" in M226R545.TXT, I meant "the Sunday
+before last week."  Y'see, I started writing that on March 22, the
+Saturday I recorded that demo, but then it became Sunday and I forgot
+to update that part.  Funny, that.

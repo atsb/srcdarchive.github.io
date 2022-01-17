@@ -1,0 +1,25 @@
+Runner: Zero-Master
+IWAD: DOOM.wad
+Category: UV-Speed
+Map: e4m4
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 15%
+Items    : 34%
+Secrets  : 0%
+Time     : 00:33.43
+
+Description: 
+My first Ultimate Doom demo!
+
+The glide on this map is a guideless north directed glide.
+I know out how to do these types of glides so I figured I would give this map a try.
+
+Very very difficult to get this glide quickly, you need to get the right 
+position, angle and not go to far past the gap and in a very short time.
+This is also true for any type of glide, except here going past the gap is
+very likely to occur if you aren't very precise of when to stop moving forward
+and applying vertical mouse movement.
+
+With better movement and quicker glide 0:32 is possible, but that
+would take an insane amount of effort.

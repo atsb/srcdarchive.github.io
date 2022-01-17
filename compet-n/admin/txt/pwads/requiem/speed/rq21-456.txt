@@ -1,0 +1,28 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : rq21-456.lmp & rq21-456.txt
+Date     : 2013-04-06 19:51
+Game     : Requiem
+Client   : doom2.exe v1.9
+Category : UV Speed
+Map(s)   : Map21: Den of the Skull, by Anthony Galica
+Skill    : 4 (UV)
+*** NOTE *** To play back this, you need requiem.wad and req21fix.wad (571 446 bytes)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    :  61%
+Items    :  29%
+Secrets  :  33%
+Time     : 00:04:56.91
+===================================
+Description:
+
+Fixes the problem that UV Speed record was slower than my MAP21 portion
+of the rq21 movie. First exit under 5 minutes. Damn that spectre.
+
+===================================

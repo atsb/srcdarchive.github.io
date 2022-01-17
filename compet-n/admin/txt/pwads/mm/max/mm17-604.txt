@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+mm17-604.TXT
+
+ mm17-604.ZIP
+
+  mm17-604.LMP - UV Maxkills
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -file mm.wad -PlayDemo with Version 1.9
+
+  Memento Mori Map 17 - House of Thorn
+  
+  Kills   100% 
+  Secrets  85%   and Time = 6:04
+                          
+  Description:
+  Hey, is it really alright to deliberately leave behind a lost soul
+that was initially in the level?  If that makes it invalid, I have
+a 6:16 run available until someone redues this.
+  After doing the speedrun (with 65% kill), I felt I knew the map
+well enough to challenge the Max record.  Watching, George's run,
+while I credit him with most of the route, there was still room for
+improvement.  Tbe running wasn't too good and some shooting could
+easily be done faster.  Even if I'd taken the time to obtain
+megaspheres, I could probably have betean the time.
+  The main way I sped up the run is skipping all the magespheres.
+None of them are in sectors actually tagged as secret.  Some things
+didn't go the way I wanted to and there's some sloppy shooting but
+it strangely works out.  The third hellknight is supposed to go down
+in three neat SSG shots but I had to compromise becase I wanted to
+nail the shotgunner I missed earlier.  In the yellow key area, I
+intended to snag the key and race out so I'd be closer to the
+teleporter after dropping the hellknights and baron.  That didn't
+happen.  The outside area takes some luck in where the monsters
+decide to place themselves.  Anyway, I'm not giving away any more of
+my secrets; watch the demo and try to figure them out.  Under six
+minutes is certainly possible; there are several instances where I
+wasted some seconds.  However, I don't feel like trying for some
+time.  100% secrets isn't possible; 85% is the max as there's one
+secret sector that's completely inaccessible.
+  
+  22 March, 2002
+  Erwin Lin
+  e_lin@coloradocollege.edu

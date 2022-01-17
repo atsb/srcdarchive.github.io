@@ -1,0 +1,141 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: 3716m211.lmp
+Skill and Style: 4 (UV Speed)
+Map Level: MAPS 11-20
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    n/a
+  Items    n/a          *********
+  Secrets  n/a and Time * 37:16 *
+                        *********
+
+
+==============================================
+
+As you probably know, MM2 is my favourite megawad among the Compet-N PWADs.
+Being a big fan of long demos, especially so-called "UV Speed movies" (demos
+showing an entire episode or WAD), I was very disappointed to notice (3 years
+ago) that nobody recorded such a demo for MM2. The reason, I believe, of lack
+of "movies" was that many outstanding players simply disliked MM2 (why??).
+Perhaps the only candidates to pull off an episode/WAD run would be Xit Vono or
+Eugene Kapustin, but alas! either they did not make any attempts or they didn't
+show what they did.
+
+After 3 years have passed, I became much more confident of my playing skills,
+so I could try at least an episode run by myself. Levels 21-30 are still too hard for me
+(especially maps 25 and 28; I refuse to learn MAP28), so I had two episodes left
+to choose from and I chose the second one (levels 11-20), for two principal reasons:
+
+- I like these levels more. There is a streak of oustanding maps, from 14 to 19,
+each having its unique qualities (from Ep1, I like MAP03 and MAP07 best).
+- Episode 1 is more about "stupid" tricks which I dislike, such as death slides (MAP09)
+or using strafe50 to avoid triggering certain linedefs (MAP04). These kind of tricks
+(not to confuse with rocket jumps and arch-vile jumps which I adore) = skipping
+the action. Besides, a death slide in an episode... We're supposed to kill monsters, not die!
+This is at least what I think. Episode 2 is less buggy in this aspect, with the exception of
+MAP14, plagued with bugs and stupid shortcuts (what a shame!) and a very small part of MAP11.
+
+Don't expect 30pl4111 or 2611rq01 quality here. This demo may be comparable to 4104rq11 or
+is even more lame. Initially I was aiming for a couple of exits before posting this, but the
+amount of deaths convinced me to publish the first exit demo anyway. There will always be a chance
+to improve in the future.
+
+Route credits go to Gusta, Eugene Kapustin and Xit Vono for their outstanding UV speed runs
+(levels 11-20). Even though I couldn't employ all of the tricks they discovered or performed,
+watching their demos helped me tremendously. Additional credits to Dan Crowley, Anthony Soto
+and Oyvind Stenhaug for their older demos and discoveries they made.
+
+      +--------------------------+-----------------+
+      |        Single level      |  Cummulatively  |
++-----+--------+--------/========+========\--------+
+|     | Pistol |   My   |        |        |   My   |
+|Level|  start |  best  |  This  |  This  |  best  |
+|     | record |  time  |   run  |   run  |  time  |
++-----+--------+--------|--------+--------|--------+
+|  11 |  2:01  |  2:04  |  2:21  |  2:21  |  2:04  |
+|  12 |   :35  |   :44  |   :49  |  3:10  |  2:54  |
+|  13 |   :57  |  1:16  |  1:52  |  5:02  |  4:20  |
+|  14 |  4:04  |  4:36  |  4:52  |  9:54  |  9:16  |
+|  15 |  3:19  |  3:43  |  4:09  | 14:03  | 13:47  |
+|  16 |  2:21  |  2:19  |  2:55  | 16:58  | 16:18  |
+|  17 |  1:17  |  3:22  |  3:31  | 20:29  | 19:57  |
+|  18 |  4:09  |  4:44  |  4:44  | 25:13  | 24:41  |
+|  19 |  8:37  |  9:50  |  9:50  | 35:03  | 35:03  |
+|  20 |   :49  |  2:13  |  2:13  | 37:16  | 37:16  |
++-----+--------+--------\========+========/--------+
+
+MAP11 Difficulty: hard, performance: :|
+
+Without the soulsphere, which I always skip, certain luck is required. A rather ugly performance
+here and an average time. Much time spent on that bloody switch.
+
+MAP12 Easiest :)
+
+No falling off the ledges, arch-vile blasts and such - a good run. The time could have been
+better if the monsters hadn't blocked my way at the end. I had much armor left so I skipped
+the blue armor here.
+
+MAP13 Medium :(
+
+There is a second, faster exit - see UV Speed demos by Oyvind or Xit. I triggered the door
+closing the access to that exit, losing about 30 seconds and collecting the blue armor
+as a consolation prize. I also didn't manage to pick up 4 rockets. On the bright side,
+I survived; the time was bad but not horrible.
+
+MAP14 Easy :)
+
+Due to somewhat sloppy design, many parts of this level can be skipped. It's a shame, because
+I like the atmosphere very much, somewhat similar to Obituary. OK, I press one switch from the
+"wrong" side and shoot two lion switches standing on the top of the stairs - these are time,
+health, ammo and nerve savers. As for two switches at the beginning, pressing them from the central
+courtyard is damn hard. Besides, I need that blue armor for the next level, so I don't care about
+"losing" 50 seconds or so (I can imagine myself pressing these switches during 3500 seconds). The run
+went pretty well, only these demons at the end - ouch!
+
+MAP15 Hard :|
+
+Close to death twice... Not the best time, but I finished with 200/98 which is quite important.
+I changed one thing in comparison to Eugene's UV Speed demo. In the yellow key area I do not
+shoot, so the cacos do not teleport in near the staiway with rockets. With the blur sphere I am
+pretty safe there even with the chaingunners around me.
+About this level - I die here VERY FREQUENTLY, two nasty tricks as an example.
+1) I kill the arch-vile, have 9% health, blue armor, rad suit and die because of "radiation suit leaking"
+   (TWICE!)
+2) I pick up the yellow key, plasma rifle, go to the switch, ride up the lift... stop. The lift doesn't
+go upwards, a monster is blocking it. A death in the cage.
+
+MAP16 Hard :(
+
+OK, with rockets, plasma and 200/98 it should be easier than a plain UV Speed, shouldn't it? The problem is,
+I have to exit with some health, too, as there is virtually no health in the first part of MAP17.
+There is a soulsphere, but it is somewhat awkwardly placed (actually there are plenty of awkwardly placed
+soulspheres in this Episode: MAP11, 13, 14, 15, 18, 19). There was a moment of panic when I opened the blue
+key door and got hit by a revenant rocket which SHOULDN'T be there... At the exit, as usual, I lost plenty
+of health.
+
+MAP17 Medium :|
+
+Cautiously played - this is how I play it normally. Switching plasma to SSG versus an arachnotron was a
+big mistake. There were problems with hitting that damn switch, too.
+
+MAP18 Easy :)
+
+I had 4:44 for the second time in a row. Very good, could be better, but one PE created an insane number
+of lost souls...
+
+MAP19 Hard :)
+
+By recording my 8:37 UV Speed demo I wanted to check the possibility of finishing this level, which has a fame
+of being extremely difficult. I think it is not, maps 15,25,28 and maybe some more are harder IMO.
+I reached this level 5 times, died 3 times, succeeded twice. I think the teleporter sequence I chose is optimal
+in the episode run, because of armor placement.
+
+MAP20 Medium perhaps? :(
+
+Only to finish... My overcautious play is shameful, I run to the medikit only to lose about 25% health in the
+process... But it's over, no cyberdemon rocket-in-the-face this time :)
+
+
+

@@ -1,0 +1,46 @@
+This is a DooM .LMP "COMPET-N" Entry - Please forward it...
+
+LV15-026.TXT
+
+ LV15-026.ZIP
+
+  LV15-026.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 
+
+  Doom2 - Level 15 - Industrial Zone
+
+                  Green (TPP)        Indigo (PBM)
+
+  Kills              3%                  0%
+  Items              0                   11
+  Secrets            9%                  9%
+  Frags (:           0                   0     
+
+
+     and Time  00:26
+               -----
+
+
+Description: Well...just another one for the (soon available?) coop-speed
+             category. This time without any stunts. 9s improvement to Kai's
+             solo-time and just another reason to invent this category (:
+             
+             I had some problems with the last imp and I didn't use Kai's
+             trick (taking the yellow key without firing the BFG).
+
+
+             9.11.97
+             Took us 30mins. and was the second successful attempt
+
+
+  Author:    Thomas "Panter" Pilger       P187.5mmx, 32MB, Seagate 2.5GB
+             Patrick "Baum" von Massow    P133     , 16MB, Seagate 2GB
+  
+  E-mail:    Panter@uni.de
+             Baum@uni.de (doesn't work right now, but is requested)
+
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/ 
+             Baum has still no HP ((-:
+

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E1M9-318.TXT
+
+ E1M9-318.ZIP
+
+  E1M9-318.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 1 Mission 9 - Military Base
+
+  Kills    100%
+  (Items    53)
+  Secrets  100%  and Time  03:18
+                           -----
+
+
+ Description: Not too hard, just need to figure out the best places to use
+              certain weapons. * It helps to have a good .LMP to go by. *
+
+
+ Author: Wade (Shot-Gun) Cayton
+
+ E-Mail: swade@Infoave.net
+
+

@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM12-314.TXT
+
+ NM12-314.ZIP
+
+  NM12-314.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 12 - "The Factory"
+
+  Kills     41%
+  (Items    40)
+  Secrets   25%  and Time  03:14
+                           -----
+
+
+Description: This level is quite hard in NightMare mode!
+
+
+Author:      Daniel "Demonlord" Lindgren
+
+E-mail:      akllin95@student.umu.se
+
+

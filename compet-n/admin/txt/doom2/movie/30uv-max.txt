@@ -1,0 +1,67 @@
+                             DOOM2 - HELL ON EARTH
+                             ---------------------              
+                        THE ULTRAVIOLENCE MAXKILL MOVIE 
+                        -------------------------------                                   
+              (Inspired by the version Demonlord made back in 96')
+
+
+Puh, this was harder then expected. Took me quite some hours over the past
+two days. I reached map21 yesterday, but forgot one imp. This demo has no
+missing secrets, and to my knowledge all enemies are killed. Guess this is
+the first demo with 100% kills and secrets through all maps then? :-)
+Daniel "Demonlord" Lindgren came sooo close, only missing one damn secret
+in map27. My goal was to beat DL's full run time. That objectiv was achived,
+I'm actually faster in all maps except map28. My total time is 32 mins and 50 secs faster. But the demo is far from perfect, I got big troubles in map20. I thought the small ledge with the 100 cell-pack was a secret, so when it jamed and I couldn't reach it I messed around for a long time. Finally I exited and discovered that the stats said 100% after all. Map24 went slow, so did 28 and 30. And in map15 I forgot the blue-key...But all in all its an ok run I guess? This is a fun way to play, but also very frustrating. Several times I played for more then an hour, only to forget a secret / enemy. I even once got to map16 and accidently pressed Q :-) Special thanx goes to Henning who sat besides me through map13-30 and assured no secrets was forgotten. His great map-knowledge came in handy...
+
+			
+--------------------------------------------------------------------
+   Map        Time   Kills Secrets ParTime Max-Record  [DL's times]
+--------------------------------------------------------------------
+  LV 01  -    0:52   100%   100%    0:30     0:43          1:00 
+  LV 02  -    1:20   100%   100%    1:30     1:17          1:38
+  LV 03  -    1:35   100%   100%    2:00     1:34          1:51
+  LV 04  -    1:17   100%   100%    2:00     1:07          1:24
+  LV 05  -    2:58   100%   100%    1:30     2:33          3:29
+  LV 06  -    3:30   100%   100%    2:30     2:53          3:41
+  LV 07  -    1:19   100%   100%    2:00     0:48          1:42
+  LV 08  -    4:00   100%   100%    2:00     3:17          4:26
+  LV 09  -    5:16   100%   100%    4:30     5:41          6:18
+  LV 10  -    6:24   100%   100%    1:30     5:22          8:32
+  LV 11  -    3:56   100%   100%    3:30     2:48          4:46
+  LV 12  -    4:19   100%   100%    2:30     4:18          6:03
+  LV 13  -    6:07   100%   100%    2:30     5:24          7:32
+  LV 14  -    2:52   100%     0%    2:30     2:08          3:39
+  LV 15  -    8:52   100%    90%    3:30     5:42          8:56
+  LV 31  -    2:42   100%   100%    2:00     2:18          3:27
+  LV 32  -    1:15   100%   100%    0:30     0:37          1:27
+  LV 16  -    5:11   100%   100%    2:30     2:56          5:15
+  LV 17  -    5:34   100%   100%    7:00     4:47          6:38
+  LV 18  -    5:45   100%   100%    2:30     3:20          7:31
+  LV 19  -    5:53   100%   100%    3:30     5:25          9:47
+  LV 20  -    6:06   100%   100%    2:30     3:21          7:32
+  LV 21  -    2:53   100%     0%    4:00     2:46          3:49
+  LV 22  -    2:04   100%   100%    2:30     1:25          2:12
+  LV 23  -    3:34   100%   100%    3:00     2:48          5:43
+  LV 24  -    9:55   100%   100%    2:30     5:52         10:09
+  LV 25  -    3:28   100%   100%    2:30     1:50          3:30
+  LV 26  -    5:11   100%   100%    5:00     3:41          6:38
+  LV 27  -    6:18   100%    87%    5:30     4:21         11:58
+  LV 28  -    5:07   100%   100%    7:00     3:16          4:57
+  LV 29  -    5:55   100%     0%    5:00     4:36          8:33
+  LV 30  -    2:07  2300%     0%    3:00     0:30          2:22
+------------------------------------------------------------------
+TOTAL TIME  133:35                                       166:25
+------------------------------------------------------------------
+
+
+Of course a run like this can never get 100% flawless, I know there is alot
+of slow spots in this movie. Still I think its entertaining to watch, and
+I would really like to get some feadback. Maybe it can help others to
+complete their own movie-versions (what do you think Jason?).
+I may try to make a faster recording...that depends if anyone bothers to beat
+this one ;-) Below two hours would be my next goal.
+
+
+                               Anders Johnsen
+                          andersjohnsen@hotmail.com
+                               April 1st - 1999 

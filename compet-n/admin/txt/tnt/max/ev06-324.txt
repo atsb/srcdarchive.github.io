@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV06-324.TXT
+EV06-324.ZIP
+
+EV06-324.LMP - Ultra Violence
+
+Recorded using Doom2.exe Version 1.9 
+Doom2 -PlayDemo with Version 1.9
+
+Final Doom - TNT Evilution - Level 06 - Open Season
+
+Kills    100%
+Items    100%           
+Secrets  100%  
+
+   ...and Time  3:24
+               ------
+
+
+Description: Yeah yeah yeah....................
+           	     
+
+
+Author: Yashar "Gemini" Garibzadeh
+E-mail: Post2000@c2i.net
+
+IRC place:  IRCnet #nightmare

@@ -1,0 +1,30 @@
+This is a Doom .LMP "Competition" Entry
+
+MM23-556.TXT
+MM23-556.ZIP
+
+MM23-556.LMP 
+
+Recorded using Doom 2 Version 1.9
+Doom2 -file mm.wad -playdemo with Version 1.9
+
+Memento Mori - Level 23 - Showdown
+
+=--------------=
+Kills      100%
+Items      100%
+Secrets      0%
+
+Time       5:56
+=--------------=
+
+C-N entry #54.
+
+The goal here was under 6 minutes.
+
+This map is amusing to play through, except for the tedious act of sniping
+at the baron cages.  Thanks to Ryback for his run over this map; I didn't
+change the strategy much.
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

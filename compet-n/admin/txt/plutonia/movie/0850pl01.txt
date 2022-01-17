@@ -1,0 +1,80 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : 0850pl01.lmp & 0850pl01.txt
+Date     : 2013-06-16 17:52
+Game     : Final Doom - Plutonia
+Client   : doom2.exe v1.9f
+Category : UV Speed episode run
+Map(s)   : MAP01 - MAP10
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : 
+Nickname : kunkun
+Country  : Finland
+Email    : dtfyguhi@gmail.com
+WWW      : 
+-------------------------------------------------------------------------
+Time     : 00:08:50
+===================================
+Description :-)
+
+Prboom levelstats:									 Viles 1038pl01
+MAP01 - 0:36.71 (0:36)  K: 11/46   I:  0/0   S: 0/1  0:55
+MAP02 - 0:59.00 (1:35)  K: 13/54   I:  0/28  S: 0/0  0:56
+MAP03 - 1:24.54 (2:59)  K: 15/52   I:  0/11  S: 0/1  1:15
+MAP04 - 0:58.31 (3:57)  K: 21/64   I:  0/30  S: 0/4  0:59
+MAP05 - 0:42.74 (4:39)  K: 14/70   I: 12/23  S: 1/1  0:36
+MAP06 - 1:33.11 (6:12)  K: 22/60   I:  1/4   S: 1/6  1:25
+MAP07 - 0:24.94 (6:36)  K:  8/34   I:  0/1   S: 0/1  0:31
+MAP08 - 0:34.57 (7:10)  K:  6/85   I:  0/48  S: 0/1  1:42
+MAP09 - 1:10.20 (8:20)  K: 21/168  I:  1/4   S: 1/2  1:52
+MAP10 - 0:30.31 (8:50)  K: 11/91   I:  1/2   S: 0/3  0:27
+
+01: Fairly normal
+02: Also fairly normal. Note that it's slower than the old records level
+    time, this will be theme here on the levels where I don't have some
+ 	ace in the hole.
+03: This was pretty awful, also almost 10 seconds slower. I only got 1:15
+    on this level like twice, my usual times were around 1:20. The stuff
+	that happens at the first archvile is fascinating, also falling from
+	the stairs isn't terribly sexy.
+04: The time is really good but that's just pure luck, the narrow 
+	corridors in this level are usually full of enemies. Also one second
+	faster than vile, thanks for the barons for staying out of my way.
+05: This level should be really simple but I still manage to almost die
+	in the exit room.
+06: Very slow and things get a bit too exciting with the cyberdemon.
+07: Something that actually went well. 
+08: The major time saver on this route, the glide saves over a minute if
+	you're lucky... and I was. This trick is actually fairly consistent,
+	I'd be lying if I said I always get it this fast but I do almost
+	always do this level in under a minute. Assuming the archviles and
+	revenants won't blow me up like they almost did. Once again, check
+	cack_handeds pn08-019 for instructions on how to do this and other
+	west facing glides properly :p
+09:	More glidey bs. I feel like I'm more consistent with this than the
+	level 8 one even though it should probably be the other way round. 
+	I'm not terribly afraid of falling to the pit of death since doing
+	the nm run on this level made me desensitized to dying in the exit
+	room. Could've been a few seconds faster but oh well.
+10: Everything went nice which was nice. The time was nice enough too.
+	Not sure if I'm just superstitious or something but I feel like
+	using strafe50 in the exit room when running towards the baron makes
+	it not teleport in your way. Maybe it makes you block his teleport
+	position before the baron has time to move or maybe I'm just crazy, 
+	but the reason I stop near the end for seemingly no reason is just to
+	set up that run correctly.
+	
+So overall this run is not the prettiest but it took me a while to get.
+Hardest part for me was definitely levels 1-4. Special mention to 5 and
+8 which ended most the runs that got past 4. I'd guesstimate that less
+than one in twenty attempts got past 4. Definitely worst part was how
+demoralizing it was to die to some random crap over and over again in 
+the early levels, then get frustrated which made me play worse which made
+me die even more in the early levels which made me even more frustrated
+and...
+On levels 2-7 and 10 I lose over 20 seconds compared to vile but then get
+it back with shenanigans in 1, 8 and 9. Feels kinda bad since overall the
+level of play is much lower but in the end this is just about getting to 
+the exit really fast and this is over a minute and a half faster than the
+old record so I guess I "win". Now someone should probably beat this :)

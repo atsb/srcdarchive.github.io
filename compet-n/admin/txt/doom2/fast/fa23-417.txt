@@ -1,0 +1,28 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+fa23-417.TXT
+fa23-417.ZIP
+
+fa23-417.LMP - Ultra Violence  
+
+Recorded using Doom2 Version 1.9 !
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 23 - "Barrels O' Fun" -FAST
+
+
+Kills    100%
+(Items    86)            
+Secrets  100%  
+
+   ...and Time     04:17
+                   -----     
+
+
+Description: A funny map, but quite ugly......
+
+
+Author:   Henning Skogsto
+E-mail:	  hskogsto@c2i.net    
+Doompage: http://home.sol.no/~doom/ 

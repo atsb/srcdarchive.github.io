@@ -1,0 +1,18 @@
+Game: Doom 2
+Pwad: mm2.wad
+Filename: m2321708.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP32
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    100%
+  Items     50%           *********
+  Secrets    0%  and Time * 17:08 *
+                          *********
+
+
+==============================================
+
+This demo is extremely slow and shows how nervous
+I can be. Watch m2321735 for more entertainment.

@@ -1,0 +1,36 @@
+This is a "COMPET-N/doom2/coop/max" entry, please forward it.
+
+cm04-053.txt
+
+ cm04-053.zip
+
+  cm04d053.lmp
+  cm04s053.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Level 04 - The Pizza Joint
+  
+              Kills    Secrets
+
+  SlagDooM     43%       66%      
+  Dark Friday  43%       33%      
+  Infighting   14%
+              -----     -----
+              55/55      3/3
+
+  Time:    0:53.48
+
+
+Dark Friday:  Ok map, the begin is hard due to the chainers and the sg-guys.
+              But as usual i get stuck here and there, and as usual this demo
+              ends up in the zip. Figures ;)
+
+SlagDooM:     Why isn't that bfg in the start room?? :)
+              Anyway, beating another Kai/Dasa demo.
+
+     
+Green:       Arno "SlagDooM" Slagboom         (arnoslag@bart.nl)
+Indigo:      Bjorn "Dark Friday" Hamels       (bjorn@hamels.nl)
+  

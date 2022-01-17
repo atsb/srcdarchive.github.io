@@ -1,0 +1,12 @@
+This is a Demo Archive of the Non Gods entry (members.xoom.com/publicdang)
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou
+
+game:     doom2 v1.9
+category: coop max
+level:    map32
+
+time:     0:44
+
+

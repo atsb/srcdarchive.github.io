@@ -1,0 +1,70 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm16n243.lmp & mm16n243.txt
+Date     : 2015-11-02 23:11
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : NM Speed
+Map(s)   : Map16: Stoned
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    :  29%
+Items    :  15%
+Secrets  :   9%
+Time     : 00:02:43.03
+
+
+
+
+________________________________________________ _____________________
+| PWAD:          | mm                          | |  Kills      29 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | mm16n243.lmp                | |  Items      15 %  |
+|________________|_____________________________| |___________________|
+| Category:      | NM Speed                    | |  Secrets     9 %  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP16 - Stoned              | |            ____   |
+|                |                             | |           /    \  |
+|________________|_____________________________| | and Time: |2:43|  |
+| Exe/Port used: | Doom2 1.9                   | |           \____/  |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 02.11.2015                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| Sorry for such a small improvement. Shortly after your 2:46 I had  |
+| 2:46, too, with better miliseconds, and then nothing, which really |
+| pissed me off. This demo is bizarre, about 1:58 something happened |
+| with my "turn right" key for a moment...                           |
+| Compet-N entry no. 141.                                            |
+|____________________________________________________________________|
+|             |      |                                               |
+| Old records | 3:42 | Donatas Tamonis                               |
+|             |      |                                               |
+|             | 3:32 | vdgg                                          |
+|             |      |                                               |
+|             | 3:26 | Cyberdemon531                                 |
+|             |      |                                               |
+|             | 3:10 | vdgg                                          |
+|             |      |                                               |
+|             | 2:46 | Cyberdemon531                                 |
+|_____________|______|_______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| doom2 -file mm.wad mmmus.wad -nomouse -skill 5 -warp 16 -record    |
+| xxxxxx                                                             |
+|                                                                    |
+| Playback with PrBoom+:                                             |
+| prboom-plus -file mmmus mm -playdemo mm16n243                      |
+|____________________________________________________________________|

@@ -1,0 +1,23 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : r1m5-215.lmp, r1m5-215.txt
+Date     : 2014-07-07 15:35
+Game     : Doom
+Client   : doom.exe v1.9
+Category : UV Respawn
+Map(s)   : E1M5: Phobos Lab
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Aleksey Kamenev
+Nickname : 4shockblast
+Country  : USA
+Email    : shockblast4@yahoo.com
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    : 44%
+Secrets  : 100%
+Time     : 00:02:15
+===================================
+Description
+Slade's demo was pretty good, and it pushed me to give this run another go. Very luck-based with getting the 100%, but there are a few things Slade did that seemed strange to me. First is killing the demons on the elevator behind the yellow door with two rockets, which seems like a waste of rockets to me. However, my old route used a shot into the door that opens on the way down from there, which also isn't very useful. Instead, I use three rockets in the room at the bottom, and, in this demo, they landed really well. Also, I shoot a rocket into the left window in the area outside the yellow door in order to kill the monster that had respawned there. Other than that, the route is pretty much self-explanatory. Start was a little bad here, and the ending didn't go too well (especially with that barrel exploding in my face), so it's improvable.

@@ -1,0 +1,35 @@
+This is a Doom "COMPET-N/doom" entry. Please forward it...
+
+E1M2-226.TXT
+
+ E1M2-226.ZIP
+
+  E1M2-226.LMP - Ultra Violence
+
+  Recorded using DooM Version 1.9 (Ultimate Doom)
+  Doom -PlayDemo with Version 1.9
+
+  Episode 1 - Knee-Deep In The Dead
+  Map     2 - Nuclear Plant
+
+  Kills    100%
+  (Items    47)
+  Secrets  100%  and Time  02:26
+                           -----
+
+
+Description: TZ: Yes, only temporary. I joined your competition. But very
+             fast old time indeed ;-). Had to try 15 times. Looks like I
+             should use shotgun every time on that final imp as it always
+             blocks me. The rest is chaingun as the best weapon for this
+             level, except perhaps for plasma gun ;-)
+
+
+Author: Kai-Uwe Humpert
+
+E-mail: gazelle@cs.tu-berlin.de
+        humpert@zib-berlin.de
+
+WWW:    http://www.cs.tu-berlin.de/~gazelle
+
+

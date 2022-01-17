@@ -1,0 +1,24 @@
+This is a DooM .LMP "Competition" Entry
+
+mm27-328.TXT
+
+ mm27-328.ZIP
+
+  mm27-328.LMP - Ultra Violence Speed
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 27 - Fort Hades by Scott Lambert
+
+  Kills     51%
+  Items     11%
+  Secrets   11%  and Time 3:28
+
+  Description
+
+I've skipped them both the green armor and the megasphere, I've got the plasmagun instead.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+10.06.2007

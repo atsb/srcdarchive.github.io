@@ -1,0 +1,24 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : doom2-nightmare-map01-0000594.lmp
+Date     : 2/28/15 6:41
+Game     : Doom 2
+Category : Nightmare
+Map(s)   : Map 1 
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Name     : Jason Lew
+Nickname : MCD
+Country  : United States
+Email    : chipmunk182@netzero.net
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 3%
+Items    : 0%
+Secrets  : 0%
+Time     : 00:00:05.94
+===================================
+Description
+5 is surprisingly hard. My main worry was the the Imp in the exit area 
+and the Imp before that. Got pretty lucky. 
+

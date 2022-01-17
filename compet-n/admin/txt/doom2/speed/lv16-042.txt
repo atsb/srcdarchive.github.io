@@ -1,0 +1,36 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV16-042.TXT
+
+ LV16-042.ZIP
+
+  LV16-042.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 16 - Suburbs
+
+  Kills     11%
+  (Items    20)
+  Secrets    0%  and Time  00:42
+                           -----
+
+
+Description: Nice trick isn't it ? :-) I saw it first in a deathmatch.
+             So you can learn from deathmatch even if you are to play
+             alone. Who said he can make it without invulnerability ?
+             - Demonlord ? Give me that .LMP then !
+
+             PS: I hate the spiral way without rockets.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+Performance: timed 2245 gametics in 1315 realtics ;-)
+             (screenblocks 10 and detaillevel 0)
+
+

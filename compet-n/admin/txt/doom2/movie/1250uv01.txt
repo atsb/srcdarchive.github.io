@@ -1,0 +1,54 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+1250UV01.TXT
+
+ 1250UV01.ZIP
+
+  1250UV01.LMP - Ultra Violence
+
+  This is a Compet-n/Doom2/10LVS Entry...
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  DooM II - "Episode 1" - Levels 01 to 10
+
+            Kills Items Secrets And  TIME!!  Health Armour
+
+  LV 01  -      3%    0%    0%       0" 11     (100   0)
+  LV 02  -     63%   20%  100%       1" 13     ( 71 140)
+  LV 03  -     34%   22%  100%       0" 53     (126 138)
+  LV 04  -     72%   55%   66%       1" 25     ( 93  60)
+  LV 05  -     27%   33%    0%       1" 04     ( 59  86)
+  LV 06  -     45%   11%  100%       1" 58 !   (122 131)
+  LV 07  -    100%   50%  100%       1" 21     (146 149)
+  LV 08  -     21%   60%    0%       1" 08     (195 130)
+  LV 09  -     40%   29%    0%       2" 35     ( 99  87)
+  LV 10  -     18%   22%   16%       1" 02     ( 59  77)
+
+                     Total Time =    9" 230
+                                     9" +
+                                     3" 50
+                                    ------
+                     TOTAL TIME =   12" 50
+                                   --------
+
+  Description :-)
+
+  In the last .TXT I said under 13 mins. would be a nice performance, but
+  now I know it's possible under 12:00 (Yes !) - Look at MAP08+MAP09 8-(.
+  MAP04-06 and MAP10 are wonderful - rest is ok. So, let's see if anybody
+  beats this. Now I'm training for "DooM II Episode II". It's much harder
+  to play it fast - Next, I think I'll try to [ prove "Hunter" Hoof wrong
+  again and ] go for DooM (1) Incubus.
+
+ Anthe
+
+ Andreas Kren
+
+ anthe.kren@telecom.at
+
+
+ [ All Levels Under Par !! mildly inaccurate table values corrected - S. ]
+
+

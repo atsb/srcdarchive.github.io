@@ -1,0 +1,46 @@
+This is a DooM .LMP "Competition" Entry
+
+MM08-300.TXT
+
+ MM08-300.ZIP
+
+  MM08-300.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 08 - And The Dead Shall Rise
+
+  Kills    100%
+  Items     xx%           ********
+  Secrets  100%  and Time * 3:00 *
+                          ********
+
+  Description :
+
+39 seconds faster then Yonatan's 3:39. 
+
+Orin Flaharty designed some great maps for both Momento Mori's and Requiem. 
+This is no exception. The design is excellent and reminds me of an episode 
+4 type level. Albiet there are a few places where he could have made the 
+pathways a bit more navigation friendly. As Yonatan mentioned shooting 
+those troopers are just a pain.
+
+[update]
+And dammit all. This was going to be a 3:15 lmp. Fine, fine. Then I decide
+I want to improve it and try to optimally go for under three. Seemed unlikely
+until I developed a few more tricks that garnered seconds. What time do I get?
+2:59? 3:01? NOOOO....3:00...argh! Heh. 
+
+A suggestion to anyone who tries to improve: Try and save one rocket for the
+pack of lost souls guarding the blue key. I think it would make it quicker 
+to get in and out of that area. Also, try not to use too much ssg on those
+lost souls because shotgun ammo gets real tight at the end. As you can see
+I run out just one ssg shot short and lose the two seconds I wanted. :~(
+[/update]
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ09-316.TXT
+
+ RQ09-316.ZIP
+
+  RQ09-316.LMP - Ultra Violence Speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 9 - Deep Down Below
+
+  Kills     41%
+  (Items    11%)          *********
+  Secrets   20%  and Time * 03:16 *
+                          *********
+                          
+
+  Description :-)
+  
+  Two tricks in this map, only one of them is new though.
+  First of all I cross the slime part by straferunning.  I
+  used strafe50, but I think you only need strafe40.  Also,
+  I straferun under the falling switch near the red key.
+  In this recording I pressed the switch as I ran under it
+  and caught the bridge, but there are faster ways to do it
+  One way is to go around the switch on the way back, which
+  is not too hard, and another way is if you use strafe50,
+  sometimes the switch will not fall at all.  This could
+  help in nightmare :)
+
+  PS:  Vincent, if you are reading this, why don't you try
+       a hand at some of these requiem levels.  It's fun,
+       kinda like some of the TNT levels, and there is lots
+       of room for improvement.
+
+  Xit Vono
+  Xit_vono@yahoo.com

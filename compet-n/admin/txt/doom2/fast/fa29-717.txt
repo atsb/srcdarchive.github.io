@@ -1,0 +1,14 @@
+FA29-717.LMP - Ultra Violence -fast
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 Level 29 "The Living End"
+
+Kills	100%
+Items	96%
+Secrets	0%
+Time	07:17
+
+Author: Frank Siebers
+E-mail: siebers@debitel.net

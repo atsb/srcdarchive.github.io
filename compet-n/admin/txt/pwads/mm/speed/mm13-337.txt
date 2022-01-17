@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+MM13-337.TXT
+
+ MM13-337.ZIP
+
+  MM13-337.LMP - Ultra Violence - Speed!
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 13 - The Inmost Dens II
+
+  Kills     37%
+  Items     28%
+  Secrets    0%  and Time    3:37
+                           --------
+
+  Description :-)
+
+  The blue key grab has got to be the easiest ever,
+  although it doesn't save a lot of time.
+  However, I also found a hidden switch that I had
+  never noticed before. With that, the baron room past
+  the super shotgun can be omitted.
+  Also, I use a little switch trick to get access to
+  the SSG faster (switch in spectre cage).
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

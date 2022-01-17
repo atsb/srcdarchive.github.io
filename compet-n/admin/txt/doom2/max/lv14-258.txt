@@ -1,0 +1,45 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV14-258.TXT
+
+ LV14-258.ZIP
+
+  LV14-258.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 14 - The Inmost Dens
+
+  Kills    101%
+  (Items   100)
+  Secrets    0%  and Time  02:58  (Par = 02:30)
+                           -----
+
+  Description :-)
+
+  "The level 14 collection"
+
+  In this .ZIP are also my previous tries from today, they are:
+
+  1st try - 3:08
+  2nd try - 3:07
+  4th try - 3:04
+  5th try - 3:00
+  7th try - 2:58
+
+  Tries in the middle are either unsuccessful (I died...) or not fast enough.
+
+  What's most annoying is that the 2:58 isn't all that good... Only 1 batch
+  file inside, for the fastest (2:58), if you don't like it, just type
+  manually the doom2 -playdemo lv14-???, your problem, they are here as a
+  bonus, just for your fun.
+
+  My home page is at http://www.geocities.com/Hollywood/4704 (/doom.html)
+
+
+ Yonatan Donner
+
+ yonatan.donner@tbu.excellnet.co.il
+
+

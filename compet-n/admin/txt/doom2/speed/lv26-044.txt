@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/speed" Entry - Please forward it...
+
+LV26-044.TXT
+LV26-044.ZIP
+
+LV28-044.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 26 - 
+
+Kills      ??%
+(Items     ??)		  
+Secrets    ??%  
+
+   ...and Time       0:44
+                     ----
+
+Comments: Only 1 sec faster than Henning...but this is a damn hard map.
+          Main difference is my slightly different tactics at the red key.
+          This could theoretically go a lot faster...you _can_ get to the
+          red key with one fewer shot, you can do the baron faster, you can
+          run up the twisty path quicker...all in all, i'd say a good human
+          time would be 0:42 and a good TAS time 0:38.
+
+Author: Henning Skogsto 
+E-mail: hskogsto@c2i.net  

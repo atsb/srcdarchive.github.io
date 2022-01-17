@@ -1,0 +1,26 @@
+ This is a DooM .LMP "Competition" Entry
+
+m230n112.TXT
+
+ m230n112.ZIP
+
+  m230n112.LMP - Nightmare
+
+  Recorded using Doom2 Version 1.9 and Memento Mori 2
+  Doom2 -file mm2.wad mm2mus.wad -PlayDemo with Version 1.9
+
+  Memento Mori 2 - - Level 30 - It by Jim Wraith
+
+
+  Kills     22%
+  Items     35%
+  Secrets    0%  and Time  1:12
+
+
+  Description
+
+Well, a real player's demo should be under 1:10.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net
+28.04.2007

@@ -1,0 +1,21 @@
+
+Compet-N contest #10 Dec. 31, 2001
+
+************************************************************************
+
+Filename                : htpw107.lmp
+
+LMP Version             : 1.9
+Map Level(s)            : Helltrak - map01
+
+Length                  : 1:07, UV pacifist
+
+Author                  : Adam Williamson
+Email Address           : adam.williamson1@btinternet.com
+
+Description             : I know it's a while since I uploaded 1:08...been
+                          sidetracked with AV and uni work. Note this run is
+                          strafe-40 only, so Pyth's got nothing to complain
+                          about now :). I still think 1:06 is doable.
+                                                    
+************************************************************************

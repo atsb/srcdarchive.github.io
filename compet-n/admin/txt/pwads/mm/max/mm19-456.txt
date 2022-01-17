@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+MM19-456.TXT
+
+ MM19-456.ZIP
+
+  MM19-456.LMP - Ultra Violence Max
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 19 - Maltraiter
+
+  Kills    100%
+  Items     46%            ********
+  Secrets  100%  and Time  * 4:56 *
+                           ********
+
+  Description :-)
+
+  I got 99% kills several times here, before realizing that
+  I had forgot about the shotgunner that is released by grabbing
+  the armor helmet near the plasma gun.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

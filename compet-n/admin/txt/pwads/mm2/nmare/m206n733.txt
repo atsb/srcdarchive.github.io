@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M206N733.TXT
+
+ M206N733.ZIP
+
+  M206N733.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 6 - Trapped
+
+  Kills    117%
+  (Items    44%)          ********
+  Secrets   60%  and Time * 7:33 *
+                          ********
+                          
+
+  Description :-)
+  
+  When I did a TAS demo some time ago I was not sure if this map
+  would be possible without TAS. The problem was with the yellow
+  key which released lots of monsters, and with the possibility
+  that the red door would be blocked by cacos or other monsters.
+  Well this map is indeed possible but it is one of the hardest
+  maps I have ever completed in nightmare. Even though it is
+  possible to have around 100/200 after the first teleport, there
+  is very little health afterwards except for a soulsphere, which
+  basically means you have to complete the rest of the map with
+  200/200, which is a real challenge considering that the map
+  is loaded with shotgunners and chaingunners, and there are
+  some dangerous spots, such as the teleport back, and of course
+  the yellow key. I've found that taking the key, then making
+  a short detour to get the medikit and getting back to the door
+  hopefully before it closes leads to the best success rate for
+  that area. I've made it to the yellow key about 40 times, and
+  in most of those I either get blocked at the red door or don't
+  have enough health to finish the rest of the map with a
+  reasonable probability. This is the first time I made it to the
+  door after the yellow door, and while I had good health there,
+  taking a baron hit made things much more difficult. I feel I was
+  quite lucky to deal with the monsters at the end while only
+  taking 3 points worth of damage(2 health and 1 armor). I was
+  quite pleased that the other chainer was dead and the pain
+  elemental was missing.
+
+  Xit Vono
+  Xit_vono@yahoo.com

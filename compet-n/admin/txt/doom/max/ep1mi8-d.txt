@@ -1,0 +1,50 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+Ep1Mi8-D.TXT
+
+ Ep1Mi8-D.ZIP
+
+  Ep1Mi8-D.LMP - Ultra Violence
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Ep.1 Mi.8 - Phobos Anomaly
+
+  Kills    100%
+  (Items    ??)
+  Secrets  100?  and Time  01:43  approx.
+                           -----
+
+ [ The last movement was made at  01:43 ]
+
+
+  Description :-)
+
+  A significant time improvement compared to the current entry  ...
+
+  Notes on the 100 % scorings: First, the 100 % kills can easily be
+  verified with <TAB> - IDDT - IDDT. The monsters in the final room
+  are, however, excluded from the scoring (of course! ;-).  Second,
+  the switch in the right Baron chamber (which lowers the elevator)
+  does *not* count as a secret according to  Paul Falstad's  DooM I
+  Secret FAQ, so my 100 % secrets scoring is correct as well. :-)
+
+  I *did* include a .BAT with this, 'coz  S.;-)  takes good care of
+  all the newbies out there. :-)  However, I'm convinced that every
+  serious LMP'er (like Anthe and me) has a highly-sophisticated one
+  of his own to handle this stuff - right? ;-)
+
+ Thomas aka ZlatkO ThE GoDFatheR
+
+ thomas_zajic@non-hp-austria-om1.om.hp.com
+
+
+[  Admin. Note ;-(  Well you know that there IS another "secret" to
+   be got, so you really aught to get it... OKay, never mind ;-)
+
+S.;-) aka. The "Judge". ]
+
+

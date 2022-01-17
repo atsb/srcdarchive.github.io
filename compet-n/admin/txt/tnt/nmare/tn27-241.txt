@@ -1,0 +1,28 @@
+| This is a COMPET-N entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : TN27-241.LMP & TN27-241.txt
+Date     : 2018-1-16
+Game     : TNT: Evilution (TNT.WAD)
+Client   : DOOM2.EXE V1.9 (Final Doom)
+Category : Speed
+Map(s)   : MAP27: Mount Pain
+Skill    : 5 (Nightmare)
+-------------------------------------------------------------------------
+Player   : Erick Tenorio
+Nickname : GuyNamedErick
+Country  : Illinois, United States
+Email    : guynamederick@gmail.com
+-------------------------------------------------------------------------
+Kills    : 39%
+Items    : 9%
+Secrets  : 0%
+Time     : 2:41
+===================================
+Description: Well nobody has done a Nightmare Speed demo on MAP27: Mount Pain at all it seems, sure there was the
+100% Secrets demo by Tatsurd-cacocaco that was at 4:00, but never necessary a CN entry for Nightmare Speed on this
+map. Out of a little bit of excitement, I kind of jumped on that and decided to do another run and perhaps the last
+time I'll be playing this map, I am really tired of replaying this map even if I am beating my own records with an
+even shorter time for every successful run. Maybe if someone beats this time by 1 second I'll go nuts and do
+another run on this map, but as it is, I had enough of MAP27: Mount Pain. On the bright side, looks like I have
+set an example of how to get this map done fast, heh, guess all the dedication in replaying the same map has
+really paid off. Now wonder if I can get 1:29 on MAP30: Last Call on Nightmare again...

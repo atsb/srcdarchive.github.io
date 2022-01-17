@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ES16-142.TXT
+
+ ES16-142.ZIP
+
+  ES16-142.LMP -Nightmare!
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 16 - Deepest Reaches
+
+  Kills       42%
+  (Items       8%)
+  Secrets    100%  and Time  01:42
+                             -----
+  Description :)
+
+  There's a story to go with this demo.  At first I tried
+  with Dashiva's route.  I was able to slowly work my way
+  down to a 1:44 which I got 4 or 5 times before I thought
+  I would try another route.  I thought I might try the other
+  lift that goes back to the beginning like in speed route.
+  I tried in nomo, on old route I got 1:35 and on this new
+  route I got 1:30, so even though my second run was much
+  cleaner I thought the new route would be better.  Then I
+  tried for nm secrets using the new route.  I got 1:44.
+  So I decided that on the new route BFG wasn't necessary and
+  now I got this.  The jump for the new route is not a hard one.
+  Anyway this demo is not perfect.  1:41 could definitely be
+  done, and also you can save a little bit of time by using
+  plain old doom2.exe.
+
+  Xit Vono
+  xit_vono@yahoo.com

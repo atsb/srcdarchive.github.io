@@ -1,0 +1,33 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : lv18-256.lmp, lv18-256.txt
+Date     : 2013-09-16
+Game     : Doom 2 - Hell on Earth
+Client   : doom2.exe v1.9
+Category : Max
+Map(s)   : MAP18: The Courtyard
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  37%
+Secrets  : 100%
+Time     : 00:02:56
+===================================
+Description:
+
+It was not hard to beat Radek's record, so I set my target at under 3 min. 
+However, it was pretty hard. I tweaked the route many times, then I finally 
+cut 4 rockets in a room and expected more effective infighting and behavior 
+of BFG. Of course, it seldom happened. I was also annoyed that 100 Kills 
+was not gotten easily, like Radek and Henning said. These causes increased 
+the difficulty of my target. 
+
+
+85th Comepet-N Entry

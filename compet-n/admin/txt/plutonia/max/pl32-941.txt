@@ -1,0 +1,28 @@
+
+LV32-UV.TXT
+
+ LV32-UV.ZIP
+
+  LV32-UV.LMP - Ultra Violence 
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Version 1.9 - Only
+
+  Final Doom - Level 32 - "Go 2 It" - Plutonia.wad
+
+  Kills   107%
+  (Items  100%)		  *********	
+  Secrets 100%  and Time  * 09.41 *
+			  *********
+
+
+Description: My goal was to get below 10 min., thought it 
+	     wouldn't be possible because of the lack of cells.
+	     It's A LOT easier at UV compared playing it with -fast 
+	     monsters! Eventhough the monsters shoot each other quite 
+	     good in -fast mode it's so caotic!
+	     
+
+Author:	     Daniel "Demonlord" Lindgren 
+ 
+E-mail:	     akllin95@student.umu.se

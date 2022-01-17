@@ -1,0 +1,9 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Skill:		Ultra-Violence
+
+Map	Time	Description
+16	10.86	I thought I had a few tics faster one when I sent this as a map16yolo :(
+
+
+Author:		Looper

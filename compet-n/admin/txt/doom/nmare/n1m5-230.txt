@@ -1,0 +1,23 @@
+N1M5-230.LMP --> E1M5 Nightmare!
+--------------------------------
+
+  Kills   : 86%
+  Items   : 55%
+  Secrets : 77%
+  Time    : 02:30
+  Par     : 02:45
+
+  Comments: For a long time the speed record for this map was 03:14 by
+Andi Kren, then in July or August I completed it in 02:58. I began to 
+wondering if I could beat that, and I then began to wonder if it could be 
+done under par on nm, as e1m7 has. 
+
+I tried it a few times, but kept dying, which is unusual for me in this map. 
+Then I realised I was trying to go about the same speed as my latest uv LMP
+which I showed to Richard Sham (time = 1:48). This is just too fast for nm
+skill, so I took it at the speed I did it when playing on UV under par (for
+the free interpretation in my DOOM Velox exam).
+
+And so it happened ... 02:30
+
+Robert Reevy <drparadox@usa.net>

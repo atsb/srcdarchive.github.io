@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+RE23-245.TXT
+
+ RE23-245.ZIP
+
+  RE23-245.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 23 - Barrels O' Fun
+
+  Kills    103%
+  (Items    59%)
+  Secrets  100%  and Time  02:45
+                           -----
+
+  Description:  This is really fun to play! If you take it too slowly,
+                the level is not only hard but impossible. The faster you
+                play the easier this level gets.
+                The -respawn switch really helps to achieve fast times here,
+                this recording is even faster then the best time for plain UV.
+                I like the -respawn 100/100 category -
+                lot's of fun and action. Try it yourself!
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

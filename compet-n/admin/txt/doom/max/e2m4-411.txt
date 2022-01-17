@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E2M4-411.TXT
+
+ E2M4-411.ZIP
+
+  E2M4-411.LMP - Max
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 2, Map 4 - Deimos Lab
+
+  Kills      100%
+  (Items      45%)           ********
+  Secrets    100%  and Time  * 4:11 *
+                             ********
+  Description :)
+
+  I was kinda surprised that this demo was so fast.  I had
+  been getting around 4:30 but without the lindef skipping
+  trick, which saves some time but nowhere near 20 seconds.
+  I guess it was mostly ok, I remember some parts where the
+  punching was not perfect, so maybe under 4 minutes is
+  possible.  I'm also curious why Radek didn't use any
+  plasma in his demo.
+
+  Xit Vono
+  xit_vono@yahoo.com

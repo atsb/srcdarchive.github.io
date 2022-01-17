@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE22-139.TXT
+
+ RE22-139.ZIP
+
+  RE22-139.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 22 - "Catacombs"
+
+  Kills    108%
+  (Items    42%)
+  Secrets  100%  and Time  01:39
+                           -----
+
+
+  Description: This was well due for an improvement, and as you can see by
+               the kill ratio it's possible to squeeze a lot more still
+               from this level...
+
+
+  Author: Chris "Ryback" Ratcliff
+
+  E-mail: ryback@fcmail.com

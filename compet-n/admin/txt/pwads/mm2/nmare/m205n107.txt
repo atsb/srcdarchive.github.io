@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m205n107.txt
+
+m205n107.zip
+
+m205n107.lmp - Nightmare
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 05 - Rites Of Passage by Paul Noble
+      
+Kills      11%
+Items       2%
+Secrets    25%	and Time - 1:07 
+
+
+Description:
+
+Tiny cut off but I believe I can't get time under 1:05. It's late so I should stop now. Besides small improvements fast players can catch red door and greatly improve the demo time.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+11.04.2006

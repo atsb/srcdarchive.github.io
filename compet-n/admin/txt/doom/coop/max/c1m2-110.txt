@@ -1,0 +1,26 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Michael "OgreSlayR" Lastovica    (Akira101@comcast.net)
+           Green - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+
+game:     ultimate doom
+category: coop max
+mission:  e1m2
+
+time:     1:10
+
+
+
+OgreSlayer : Hmm, decent run, I guess. We tried alot of different routes 
+             and this one worked nicely. We got alot of 1:14,and 1:15.
+             Lag makes it a bitch. Pretty fun map for max overall.
+
+Vincent : Lag makes Shotgun aiming quite crappy so I preferred to use 
+          Chaingun. Be sure to watch Ogre's great run, he looks like he's 
+          playing on a LAN :). My part wasn't very hard, I just had to 
+          check monster presence in different areas and get to the 
+          chainsaw secret b4 ogre exits => something that can be achieved 
+          without much problems.
+          
+Misc: Recorded using Microsoft Internet Gaming Zone with a ping of 160-180 ms
+          

@@ -1,0 +1,38 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV22-945.TXT
+
+ EV22-945.ZIP
+
+  EV22-945.LMP - Ultra Violence
+
+  Recorded using Doom2.exe -file TNT.wad Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 22 - Habitat
+
+  Kills    101%
+  Items     45%           *********
+  Secrets  100%  and Time *  9:45 *
+                          *********
+
+
+Description: Kai-Uwe said in ev21 max that it was the worst map in evolution. 
+	     I'd have to disagree with him. Did he ever get to map22? God 
+	     awful texturing complements a horrible layout. 70% of the level
+             is one big maze. And I don't see how anyone could find some of 
+	     these secrets even using a map editor. This run is my second successful
+	     run through this map. My first time was 13:41 but I knew I could get
+	     the time under 12 minutes. I didn't realize I could improve it by almost
+	     4 minutes (3:56)! Needless to say I'm pretty happy. 
+
+	     Ahhh, the crap your forced to play for your first compet-n entry. ;)
+
+	     Recorded on September 26, 2000. Thanks to Henning Skogsto for encouragement
+	     and Waldon for helping me to learn the mouse.
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com

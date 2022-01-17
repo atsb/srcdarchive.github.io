@@ -1,0 +1,30 @@
+TThis is a DooM .LMP "COMPET-N/f-doom/" Entry - Please forward it...
+
+  Recorded using Final Doom2 Version 1.9
+  Doom2 -PlayDemo with (only) Final DooM
+
+TNT : Evilution - Levels 01-10 - Episode 1 - Ultra Violence 
+
+        Time 
+-------------- 
+MAP01   0:49
+MAP02   1:38
+MAP03   2:09
+MAP04   0:35
+MAP05   2:47
+MAP06   2:58
+MAP07   1:12
+MAP08   3:37
+MAP09   4:14
+MAP10   2:36
+--------------
+Total  22:35
+
+Description: 
+
+	It's a part of a 29ev run. Sucks quite hard (03,05,10...)
+        Next step under 20 mins.
+
+
+  Author:    Vincent Catalaa
+  E-mail:    vincentds@netcourrier.com

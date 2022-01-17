@@ -1,0 +1,16 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      4
+Skill     4
+Category  UV-Tyson
+Exe       Doom2.exe
+Time      27:12
+
+Author	   j4rio
+
+Blah. I'd rather not write
+anything here because it 
+wouldn't have been very
+nice. Thanks to Xit for
+awesome old demo and lift
+stuckage trick.

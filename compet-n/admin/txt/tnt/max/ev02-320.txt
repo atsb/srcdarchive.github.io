@@ -1,0 +1,30 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV02-320.TXT
+
+ EV02-320.ZIP
+
+  EV02-320.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 02 - Human BBQ
+
+  Kills    100%
+  (Items    66%)           
+  Secrets  100%  
+
+   ...and Time  3:20
+               ------
+
+
+Description: This time i didn't waste time by killing all shotgun guys
+             in the large room and went straight to the red door. That's
+             probably where a few seconds came from.
+
+
+
+Author:  Radek Pecka
+E-mail:  r.master@email.cz
+

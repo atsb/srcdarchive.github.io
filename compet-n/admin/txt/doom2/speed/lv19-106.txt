@@ -1,0 +1,35 @@
+This is a DooM .LMP "COMPET-N/doom2/speed" Entry - Please forward it...
+
+LV19-106.TXT
+
+ LV19-106.ZIP
+
+  LV19-106.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 19 - The Citadel
+
+  Kills      7%
+  (Items    15)
+  Secrets   22%  and Time  01:06
+                           -----
+
+
+Description: Another little improvement. The Caco's block my way, but
+             the spectre at the yellow key does not. Have tons of 1:07
+             recorded. The trick near the imps is to stay some tenth of
+             a second near the button and then fight your way back.
+             If you have made it to the next switch, try to shoot, and
+             hit, 3 imps before you open the other door.
+
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib-berlin.de
+
+WWW:         http://www.cs.tu-berlin.de/~gazelle (/doom.html)
+
+

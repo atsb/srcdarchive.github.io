@@ -1,0 +1,49 @@
+This is a DooM 2 .LMP "Competition" Entry - Please forward it...
+-------------------------------------------------------------------------------
+Use only DOOM 2 Version 1.9 !
+-----------------------------
+ns06-134.txt
+ns06-134.lmp
+-----------------
+|     Info      |
+-----------------
+Skill  :      5 |
+Level  :     06 |
+Style  :  ns100 |
+Date   : 160799 | 
+-----------------
+Kills  :    50% |
+Items  :    11% |
+Secret :   100% |
+-----------------
+Time   :  01:34 |
+-----------------
+
+Comment : 
+-----------------
+
+	It took me 30 min to get this crap.
+
+	Jump? What f.c.i.g jump ? As you can see I had so much luck
+	that I fall down (it happens me once on 100 tries) :(((
+
+	Well, this time I didn't activate the line at yellow key, becouse
+        I was watching with Marijo "Panter's Nightmare" movie (nice movie!)
+	and I said to Marijo : hey, how he didn't activate the line ?
+	and he laught a lot ... With this trick it's very easy to end map.
+
+This one goes to `Super Marijo "Cocadeamon" Sedlic' : ns05 ..., try ns08 :)))
+
+I'm boring but this goes to all of you, doomers :
+	PLEASE, DO NOT MAKE, OR ZIP YOUR *.LMP, *.TXT IN windows BECOUSE
+	THEN THEY HAVE small caps AND I CAN'T EXTRACT THEM WITH nc IN dos.
+
+	ThaNx fOr ReadiNg!
+
+
+-------------------------------------------------------------------------------
+Name : Zvonimir "FX" Buzanic
+Mail : vbuzanic@peek.hr
+URL  : http://members.xoom.com/zapclan |updated| |new dm&coop demo, map|
+ICQ  : 13198922
+-------------------------------------------------------------------------------

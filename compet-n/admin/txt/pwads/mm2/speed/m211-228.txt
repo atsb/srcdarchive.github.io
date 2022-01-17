@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M211-228.TXT
+
+ M211-228.ZIP
+
+  M211-228.LMP - Ultra Violence Speed 
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 11 - Sewer Shutdown
+  
+  Kills     34%
+  (Items    21%)          
+  Secrets   25%  and Time  2:28 
+                          
+                          
+  Description:
+
+  My 21th Compet-N Entry...  
+
+  I invented the switch trick some time ago but was too lazy to make
+  some demo for it. Casey's demo forced me to move my ass (thanks:)
+  and this is a result. Still can't survive it w/o supercharge... 
+  Btw. This is an old lmp and txt file which was somehow missed
+  in last two updates.
+
+
+  Adolf "Gusta" Vojta
+  hita@seznam.cz
+ 

@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c4p4c030.TXT
+
+c4p4c030.ZIP - Coop UV pacifist
+
+c4p4e030.LMP - Eugene - Green
+c4p4s030.LMP - Sergey - Indigo
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 4, Map 4 - Unruly Evil
+      
+Kills        0%
+Items       42%
+Secrets      0%	
+
+Kills        0%
+Items        3%
+Secrets      0%	
+
+and Time - 0:30
+
+
+Description:
+
+Simple run.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+26.11.2006

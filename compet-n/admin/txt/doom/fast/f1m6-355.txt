@@ -1,0 +1,61 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+f1m6-355.zip
+
+ f1m6-355.lmp -md5sum de9b5ab0c2f38b2001a94db85c0d194e
+
+  f1m6-355.txt -Ultra-Violence -fast
+
+  Recorded using Ultimate Doom Version 1.9 ! (Complevel 3)
+  Doom -PlayDemo with Ultimate Doom Version 1.9
+
+  The Ultimate Doom - Knee-Deep in the Dead - Central Processing
+
+  Kills:  177 / 177 (100%)
+  Items:   42 / 113 (37%)            ********
+  Secrets:  4 / 4   (100%) and Time  * 3:55 *
+                                     ********
+  C-N entry #64.	Date: 2015.08.25
+
+  Description :)
+  I'm not happy with this demo. I miss some very easy targets (like the
+  human in the maze) and it took more than rockets to kill the spectres
+  in the final room. This is a very frustrating map, the balancing act 
+  at the beginning with the shotgunner often fails, and doomguy 
+  apparently loves to purposefully avoid hitting barrels like it's his 
+  mother. At the end demons love to run up to your face and induce 
+  rocket-suicide, and before that humans love to hide upstairs (that 
+  shotgunner couldn't hide though :).
+
+  This could be done a lot faster. The monsters in the yellow key trap
+  can ALL be killed with just three rockets with proper shot-placement, 
+  and as I leave the yellow key room my final rocket was wasted on
+  just a Sergeant and one imp. As I run into the final room, I
+  needlessly waste a rocket, a rocket that could have been used to 
+  finished off the last of the demons instead of the slow shotgun. 
+  With some risky play, all the monsters in the locked area of the 
+  final room can be killed with just a continuous blast of rockets.
+  It requires walking towards the center of the room (after pressing
+  the button) to wake up the monsters in the left compartment of the
+  room, then quickly walking backwards to avoid suicide while blasting
+  rockets. This is very frustrating because even more of the pinkies
+  and spectres will lunge at you. It's much more reliable to do the 
+  same without walking forward to wake the monsters towards your left,
+  conserve three rockets, and finish off the the leftmost demons with
+  the final three rockets after blasting everything else. Of course in
+  this demo that doesn't work :(
+     
+  By the way, COMPET-N record was 3:56 by Radek Pecka, dated:
+  2001.09.16
+
+  Complete Historic COMPET-N Leaderboard:
+  f1m6-540 - Peo Sjoblom   - 1997-03-31
+  f1m6-453 - Anders Johnsen    - 1998-09-07
+  f1m6-439 - Adam Williamson    - 1999-05-21
+  f1m6-433 - Anders Johnsen - 1999-05-24
+  f1m6-429 - Radek Pecka - 2000-10-07
+  f1m6-356 - Radek Pecka - 2001-09-16
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Country: United States

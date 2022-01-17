@@ -1,0 +1,16 @@
+Iwad: tnt.wad
+Iwad name: TNT evilution
+Map      12
+Skill     4
+Category  UV-Tyson
+Exe       Doom2v1.9f
+Time      13:02
+
+Author	   j4rio
+
+Boring ass map for 
+tyson which is generally 
+boring to watch, so 
+actually it's double 
+boring, or something.
+I guess.

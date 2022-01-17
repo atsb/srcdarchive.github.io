@@ -1,0 +1,37 @@
+This is a Doom .LMP "Competition" Entry - Please forward it...
+
+ps15-107.txt
+
+ps15-107.zip
+
+ps15-107.lmp - Nightmare! with 100% Secrets
+
+
+Recorded using Doom2 Version 1.9
+Doom2 -playdemo with Version 1.9 -file plutonia.wad
+
+Final Doom Plutonia Experiment - Map 15 - The Twilight
+
+
+================
+Kills       61%
+Items       47%
+Secrets    100%
+----------------
+Time       1:07
+================
+
+
+Description:
+
+There are really a lot of secrets, and some secrets don't
+register sometimes. It always annoyed me...
+I used a route which is a little different from stx-Vile's.
+I think this route is correct but the run is far from perfect.
+
+
+
+Author: Tatsurd-cacocaco
+E-Mail: tatsurd@yahoo.co.jp
+Homepage: http://cacocacodemon.hp.infoseek.co.jp/
+Youtube: http://www.youtube.com/user/tatsurdcacocaco

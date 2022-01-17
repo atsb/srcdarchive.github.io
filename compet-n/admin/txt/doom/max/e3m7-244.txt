@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+E3M7-244.TXT
+
+ E3M7-244.ZIP
+
+  E3M7-244.LMP - Ultra Violence
+
+  Recorded using  Doom v. 1.9
+  DooM -PlayDemo with Doom v. 1.9
+
+  DooM - Episode 3 Mission 7 - Limbo
+
+  Kills    100%
+  (Items    37)
+  Secrets  100%    and Time  02:44
+                             -----
+
+Description:	There aren't much to say about this LMP, only that I decided to
+		go for it after I had managed it on -respawn.
+
+     
+Author:   Jan Endre Jansen
+E-mail:   jejansen@uldals.vgs.no
+Homepage: http://home.sol.no/~doom/
+
+

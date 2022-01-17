@@ -1,0 +1,205 @@
+This is a Demo Archive of the Non Gods entry 
+
+authors:    Vincent Catalaa <peroxyd@wanadoo.fr>
+            Nicolas Gandou <ngandou@wanadoo.fr> 
+
+game:       DOOM2 version 1.9
+
+category:   Cooperative 2 players - Movie - Ultra-Violence
+            
+
+Green  (view) : Vincent   (30uvnet2.lmp)
+Indigo        : Nicolas   (30uvnetb.lmp)
+
+         *-------*
+Time:    | 42:26 |
+	 *-------*
+
+
+                             
+Levels                   Time     
+----------------------------------
+"Episode 1" :
+----------------------------------
+Entryway                 0:17		
+Underhalls               1:09		
+The Gantlet              0:50   	
+The Focus                0:55    	
+The Waste Tunnels        0:45    	
+The Crusher              2:20    	
+Dead Simple              0:59    
+Tricks & Traps           0:49    
+The Pit                  1:48    
+Refueling Base           1:57    
+---------------------------------
+"Episode 2" :
+----------------------------------
+"O" Of Destruction       0:53		
+The Factory              1:28    	
+Downtown                 1:38		
+The Inmost Dens          1:39    	
+Industrial Zone          0:36		
+Wolfenstein              0:56    	
+Grosse                   0:42		
+Suburbs                  1:13		
+Tenements                3:16		
+The Courtyard            0:39		
+The Citadel              1:16		
+Gotcha!                  0:53    	
+----------------------------------
+"Episode 3" :
+----------------------------------
+Nirvana                  1:12
+The Catacombs            1:26
+Barrels Of Fun           1:34
+The Chasm                1:48
+Bloodfalls               2:06  
+The Abandoned Mines      1:41  
+Monster Condo            2:49	
+The Spirit World         1:10   
+The Living End           3:10	
+Icon Of Sin              1:32	
+----------------------------------
+Total 32 levels         42:26		
+----------------------------------
+        
+
+
+
+
+
+==================
+Admin note (Ralf):   Yeah, that's a great movie. Vincent plays cold blooded
+                     until  the end of Map29  where he runs toward the exit
+   losing health... and just made it with 19% through! His movements went a
+   bit choppy in Map30  and when the final stats screen showed up i shouted
+   with both of you: YEAH!
+   Included in the zip is also the movie from Nicolas' view.  Nicolas was a
+   big help in Episode 1 and 2, killing Cyberdemons and Spiders on his own.
+   In Map21 to Map26 he takes some little breathers but jumps back into the
+   action from Map27 on. Marines,you should have recorded your conversation
+   at the start of that map :), should be very interesting.  The last three
+   maps are most exciting from both views.
+   What's next, D2dS? Doom2 double Schwarzenegger :).
+
+
+
+...  after reading that Vincent spent some time to write comments for every
+     level, read on ...
+=======================
+
+
+
+
+
+----------
+Comments :   Our main goal is to get a max of cells and bonuses like
+----------   supercharges, blue armors and megaspheres.
+
+Map01 : Nothing to say except that's the weaponry. The plasma gun
+        can be grabbed with the jump, if we fail we can get it in map02
+        with the red key.
+
+Map02 : One player makes the clean up work to make the other's life
+        easier.
+
+Map03 : I go for the switch, nicolas goes for the secret.
+        I nearly died here (3%).
+        Maybe he should try to get the back pack in a future demo...
+
+Map04 : I accidently stole the supercharge to Nicolas...
+
+Map05 : Solo map iwth a bonus invul.
+
+Map06 : I missed the first jump...
+        Nicolas kills the monsters that appears just after the jump.
+        Some probs in the Red key room.
+
+Map07 : Well... only killing...
+
+Map08 : Nicolas goes for the key, I keep the door opened.
+        Enjoy his method to find a way through the barons... :)
+        (better from my view)
+
+Map09 : I do the normal route, Nicolas helped to clear up my way...
+
+Map10 : This route is very slow but allow to get two supercharges
+        one blue amor and one berzerk.
+
+Map11 : Nicolas fired on cybie to allow me to jump to the red key.
+        Then he took the invul and finished the level.
+
+Map12 : I kill the Mancubi because both players must get the yellow
+        key to enter in the last room.
+        Then 3 switches for me, 2 for Nicolas.
+
+Map13 : I do the route. Cybie got in the way of Nicolas, sadly for
+        cybie, Nicolas was invul... rest in peace cybie ! :)
+
+Map14 : Nicolas killed Archie before I opened the red door
+        so i can take the normal route to get the blue key without
+        too much pain.
+        Congrats to Nicolas he did the jump to the blue door.
+        I was really surprised !
+
+Map15 : Bad map, I had probs to activate the switch from the acid...
+
+Map31 : Carefull play, Nicolas was not very healthy
+        So he took the invisibility and I made the route.
+
+Map32 : A place to fill your backpacks with cells...
+
+Map16 : I ate a SSG shot of Nicolas => down to 20%
+        Hopefully there is a megasphere.
+        Nicolas cleaned up the end (the imps and the revenants)
+        so I only had to collect the keys and exit...
+        I advised Nicolas to get the cells near the exit
+        he didn't want so i did it.
+
+Map17 : I got the red key, Nicolas killed the pigs and opened the door
+        to the central room so that I could kill cybie.
+
+Map18 : Solo map for me, annoying map for Nicolas.
+
+Map19 : The route I took is only for one player...
+        And there is one bonus cybie which is very badly placed.
+
+Map20 : I did the acid route, Nicolas only waited for me to exit.
+
+Map21 : I played solo until i reach the room with 2 switches
+        and 2 teleporters.
+        Because we tried to do the first part coop, but one player
+        always ate some rockets.
+
+Map22 : I did the route, Nicolas killed the chainies so that
+        they don't annoy me.
+        He could clean the end lift (revenant+chainies)
+        but last time he tried he died...
+
+Map23 : Nicolas killed most of the pigs with his brutal BFG rush !
+
+Map24 : While i got the megasphere, Nicolas did the way in the last
+        room with narrow ledges and the souls !
+        Great job Nicolas ! I didn't have to do that hard job !
+
+Map25 : Nicolas helped to clean some rooms.
+
+Map26 : Nicolas hate this map...
+        His help would be welcome in some scenes.
+
+Map27 : We never did this map on UV, we discussed of the routes
+        in the beginning.
+        I let the first invul. to nicolas so i made the yellow key room
+        very carefully.
+        Nicolas killed most of the revenants that keep the red key
+        so that there is only some Hell knights and barons.
+
+Map28 : Cell collector for map29... so many invuls... you can't die !
+
+Map29 : No diffrences with solo map. Coop helps a bit in some rooms.
+
+Map30 : At the beginning we said : that's not a hard map
+        but you can die easily...
+        We missed many shots before killing the big boss...
+
+

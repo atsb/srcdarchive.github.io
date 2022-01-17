@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+TN32-506.TXT
+
+ TN32-506.ZIP
+
+  TN32-506.LMP
+
+  Recorded using Doom2 Version 1.9 !
+  Doom2 -PlayDemo with Doom2.Exe Version 1.9 
+
+  The Final Doom: TNT: Evilution - Level 32 - Caribbean
+
+  Kills       88%
+  (Items      82%)
+  Secrets     66%  and Time = 05:06
+                              -----
+
+  Description: Cool demo Xit, I changed just a couple of things, this way
+               it's almost identical to Peo's TAS run (which I only watched
+               after getting this). Pity about missing the exit first time,
+               would have been under five min otherwise. 
+
+
+  Chris "Ryback" Ratcliff
+  ryback@maximumedge.com

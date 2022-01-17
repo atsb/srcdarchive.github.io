@@ -1,0 +1,62 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+6559mm01.TXT
+
+ 6559mm01.ZIP
+
+  6559mm01.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm.wad -playdemo with version 1.9
+
+  Memento Mori – Episode 1 – UV Fast
+
+Comments:
+Took enough time to do this. Decided to work on this more and more until I realized there's no way it can't be done. It's quite easy once proper safety is ensured. Tomas Kollar said he wouldn't be able to do this, so I did it for him. :)
+
+                                  Time     Kills      Secrets 
+-------------------------------------------------------------
+01 – The Teleporter               2:09      100%        100%
+02 – The Bridge                   3:35      100%        100%
+03 – Interlock                    1:59      100%        100%
+04 – The Stand                    9:33      100%        100%
+05 – Hell's Kitchen               6:16      100%        100%
+06 – The Powerstation             8:48      100%        100%
+07 – Not That Simple              8:56      100%        100%
+08 – And The Dead Shall Rise      3:57      100%        100%
+09 – High-Tech Grave             14:56      100%        100%
+10 – The Mansion                  5:50      100%        100%
+--------------------------------------------------------------
+Total                          1:05:59
+
+01 – The Teleporter
+Really safe due to there being no armor on this level (at least not green or blue). Thankfully, I still manage to survive on every attempt I've had on this level. 
+
+02 – The Bridge
+This is where I show how much I'm used to the -fast parameter, I can practically keep taunting the demons in this level by going towards and away from them without taking damage.
+
+03 – Interlock
+Even though I do a bit of fiddling around in the level, I still manage to get a sub-2 on this level. Decent handling.
+
+04 – The Stand
+I get the SSG on this level. Near the end, I get a bit lost due to me forgetting where a switch is. Fortunately, I get a good reminder looking around and I'm able to continue on. I probably could've gotten sub-9 if I remembered. That one baron in the secret was refusing to co-operate, so that didn't help either.
+
+05 – Hell's Kitchen
+Because of my aquired arsenal, I am able to consistently count how many seargeants I killed in the first hallway without having to wait around for more. Decided to use the invulnerability for the blue key secret in case one of the hell knights came just in front of the teleport pad and trapped me.
+
+06 – The Powerstation
+The areas near the berserk and green armor I get a bit nervous because I ended up losing a lot of health due to a couple of chaingunners coming in early and ended up with 4% health at one point. Pulled through, however.
+
+07 – Not That Simple
+Easy due to more health, armor and weaponry. The fact that I hold the -fast record for this level also helps. Wanted to make sure I got the chainsaw secret at the start because I thought I didn't go into it properly. As usual, I manage to remember the maze part and save some time.
+
+08 – And The Dead Shall Rise
+Nice, short Episode 4-esque level. Nothing can really go terribly wrong on this level. The pair of cacodemons gets awakened early, but that's about it.
+
+09 – High-Tech Grave
+Had to actually put some thought into avoiding those 3 cacodemons at the start. Tried going into a door, and then shooting rockets, until I realized I could just go into the corner and SSG them there. The ending sucks, though.
+
+10 – The Mansion
+Faster due to more weaponry and armor and such. I use all my cells here due to there being nothing else to save them for, obviously. Revenant wouldn't die so I had to use chaingun on him.
+
+Author: Revved

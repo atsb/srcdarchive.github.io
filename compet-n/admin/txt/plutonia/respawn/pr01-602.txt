@@ -1,0 +1,47 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+PR01-602.TXT
+
+PR01-602.ZIP
+
+PR01-602.LMP - Ultra-Violence - Respawn
+
+Recorded using Final Doom Version 1.9 !
+Doom2 -file plutonia.wad -playdemo with Final Doom Version 1.9
+
+Final Doom: Plutonia Experiment - Level 01 - Congo
+
+Kills    139%
+Items      0%
+Secrets  100%
+
+              ********
+  and Time -  * 6:02 *
+              ********
+
+
+Description :
+
+My first Plutonia demo. I couldn't believe that this wasn't done yet, so
+I thought I'd fill the gap.
+
+Had problems getting the Red Key a few times, that was my usual dying spot.
+Once I got past that, it was fairly easy, except when the Revenants started
+giving chase.
+
+Health problems at the end....10% isn't enough to make due in a Plutonia
+-respawn run -_-'
+
+I'd say this level could go as short as 2:00 in this style. I just got this
+done so it would be there, I could definately have done better on it.
+
+Oh well, that's done, time for something else.
+
+
+Author:	     Casey Alvis
+E-mail:	     altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+20.01.2002.

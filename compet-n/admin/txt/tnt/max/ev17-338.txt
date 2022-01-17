@@ -1,0 +1,34 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+EV17-338.TXT
+
+ EV17-338.ZIP
+
+  EV17-338.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9 - only!
+
+  Final Doom - TNT Evilution - Level 17 - Processing Area
+
+  Kills    103%
+  Items     69%           
+  Secrets  100%  and Time = 3:38 
+                          
+
+
+Description: Well, Demonlord's demo was very good, but beating his time
+             wasn't half the trouble. The problem is killing all the enemies.
+             I got a 3:34 with an imp going walkabout by the SSG, and a
+             3:30 when not all the monsters teleported in. 
+
+             Btw, I think this was Demonlord's last TNT max point, and
+             last max point anywhere on COMPET-N. Too bad really, because
+             he really was the first Doom God. His lmps were among the first
+             I ever saw, and I was mesmerised by his skill and guts...
+             That man could play.
+
+
+Author:      Chris "Ryback" Ratcliff
+
+E-mail:      ryback@fcmail.com

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+NS09-240.TXT
+
+ NS09-240.ZIP
+
+  NS09-240.LMP - Nightmare with 100% secrets
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 9 - The Pit
+
+  Kills     76%
+  (Items    31%)
+  Secrets  100%  
+                          ********
+            ... and Time  * 2:40 *
+                          ********
+
+  Description:
+
+  This can be a fun map but it can also be
+  quite frustrating. I got stuck in the
+  yellow key room so I had to lower the
+  platform twice. Should be quite improvable.
+
+  Xit Vono
+  xit_vono@yahoo.com

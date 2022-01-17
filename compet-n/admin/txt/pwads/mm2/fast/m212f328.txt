@@ -1,0 +1,66 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : m212f328.lmp & m212f328.txt
+Date     : 2017-11-15 11:39
+Game     : Memento Mori II
+Client   : doom2.exe v1.9
+Category : UV -fast
+Map(s)   : Map12: The Waterway, by Orin Flaharty
+Skill    : 4
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  65%
+Secrets  : 100%
+Time     : 00:03:28.57
+
+
+________________________________________________ _____________________
+| PWAD:          | mm2.wad                     | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | m212f328.lmp                | |  Items      65 %  |
+|________________|_____________________________| |___________________|
+| Category:      | UV -fast                    | |  Secrets   100 %  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP12 - The Waterway        | |            ____   |
+|                |                             | |           /    \  |
+|________________|_____________________________| | and Time: |3:28|  |
+| Exe/Port used: | Doom2 1.9                   | |           \____/  |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 15.11.2018                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| Ok, now this is the story. I has a few relaxed practice runs, got  |
+| 3:30 and couldn't beat it no matter what. So once it's done I'm    |
+| done, even though it's one of the first tries with shotguning      |
+| lost souls in the pit first (I think it saves time versus going    |
+| straight to the SSG secret) and the last room with imps and barons |
+| going slower than normally. So it can get somewhat lower, but      |
+| enough is enough.                                                  |
+|                                                                    |
+| Compet-N entry no. 151.                                            |
+|____________________________________________________________________|
+|             |      |                                               |
+| Old records | 4:22 | vdgg                                          |
+|_____________|______|_______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| doom2 -file mm2.wad mm2mus.wad -nomouse -skill 4 -warp 12 -fast    |
+| -record xxxxx                                                      |
+|                                                                    |
+| Playback with PrBoom+:                                             |
+| prboom-plus -file mm2mus mm2 -playdemo m212f328                    |
+|                                                                    |
+|____________________________________________________________________|
+

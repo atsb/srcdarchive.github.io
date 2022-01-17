@@ -1,0 +1,111 @@
+Runner: Zero-Master
+Date: 2016-01-13
+IWAD: DOOM2.wad
+Category: NM-Speed
+Map: Movie 1-30
+Source Port: Competition Doom v2.0.3.2
+Time: 26:20 (26:33.26)
+
+		
+Map	Time	
+01	00:06	:)
+02	00:56	:(
+03	00:39	:|
+04	00:40	:|
+05	00:43	:)
+06	01:02	:)
+07	00:26	:)
+08	00:40	:(((
+09	01:05	:)))
+10	00:50	:((
+11	00:44	:))
+12	00:55	:)
+13	01:20	:(
+14	00:26	:)
+15	00:46	:((
+31	00:35	:)
+16	00:29	:((
+17	02:03	:(
+18	00:28	:|
+19	00:47	:)))
+20	00:46	:((
+21	00:27	:)
+22	00:41	:)
+23	00:51	:))
+24	00:47	:)
+25	01:04	:|
+26	01:01	:((
+27	00:38	:(
+28	00:56	:)
+29	02:24	:(((
+30	01:05	:(((
+
+
+Description:
+My 3rd exit for 30nm, 1:01 faster than the previous record.
+
+The goal was to get under 25 minutes, so I wasn't too bothered 
+by the bad luck on map 29 and 30. Of course both those time 
+losses could have been avoided at the cost of some few seconds, 
+but you never know when a few seconds might be too much.
+
+Actually I still could have gotten under 25 when I started 
+map 29, but I would have to take the most aggressive strategy
+and everything would have to go perfect, maybe 1 in a 1000 chance. 
+If I knew how the time was looking after map 25 I would have done 
+things a bit different, but I thought it was a bit slower.
+
+Perhaps I should start trying to keep track of the time like I did 
+for 30uv, but all the way up to the later maps so I know what kind of
+risks I need to take.
+
+
+Few comments about some of the maps:
+
+I think I lose more time than I save without making things any easier by
+grabbing the rockets on map 5 and skipping the megasphere on map 6, 
+I should look into that for future attempts.
+
+I thought my map 08 in 01nm0659 was bad, I have no idea how that 
+baron kept denying me those rockets, never seen anything like it.
+
+Map 9 and 19 were better than any time I've ever had in practice (by 1 second)
+
+Map 10 I needed to grab the 25 health.
+
+Map 15 I usually always get the PE kill, if not I sometimes grab the YK
+even if he is alive, this time neither happened so I get a bad time.
+
+Map 20 is a really dumb mistake, I usually never fail this jump with my setup.
+I should be more careful next time.
+
+Map 23, first demo to ever show this completely new trick! 
+(well, it's just a linedef skip) and it's the only trick I have ever discovered :)
+
+I run forward, stop, walk forward, turn left and then use straferun50 to
+skip the linedef that opens the wall for the mancubus and do the barrel wallrun.
+
+The linedef skip was accidently discovered during 30uv practice, which is
+surprising since afaik I need to first move forward and I have to be at a very
+precise spot for this to work. So because I use vertical mouse movement I would
+sometimes turn around and also move away from the direction I want to move, which
+would cost me a few tics in 30uv, but then I somehow just skipped the linedef.
+
+It wasn't until I started 30nm again that I looked into it, and at first I was 
+thinking I must have been imagining things because I could not replicate it, or
+used noclip. Then eventually I did manage to do it, and I noticed that I needed
+an extremely precise position, impossible to do consistent if I even have my hand 
+on the mouse. By simply trial and error I found a setup that worked eventually.
+
+Of course a linedef skip (when you run south direction) isn't something hard to do, 
+but it was not obvious it could be done with such a small distance from the linedef itself.
+
+Recently I noticed Xepop did something similar in nm20-039, and it's a bit easier
+to do on that map, which could be nice for the 200 cells + rad suit, unfortunately 
+the imp attacks too quickly for there to be any chance of getting in consistently.
+Then again it would be hard to save the time lost with the 200 cells, so doesn't really matter.
+
+Map 29 and 30, a different RNG index could have prevented that shotgunner respawn,
+pain elemental spawn, or the seeker missile from the revenant, which would likely
+have meant a better time, though of course I could have gotten arch-vile on 3rd spawn...
+

@@ -1,0 +1,29 @@
+This is a DooM .LMP "Competition" Entry
+
+TY262346.TXT
+
+ TY262346.ZIP
+
+  TY262346.LMP - Ultra Violence TYSON style
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 26 - The Abandoned Mines
+
+  Kills    100%
+  (Items    87%)
+  Secrets  100%  
+
+            ... and Time  23:46
+                          -----
+
+  Description:
+
+  This is a long demo but it is one of the of
+  the hardest maps in doom2.  I was able to
+  use that baron and mancubus effectively in the
+  yellow key room.
+
+  Xit Vono
+  xit_vono@yahoo.com

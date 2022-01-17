@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+m218-313.TXT
+
+m218-313.ZIP
+
+m218-313.LMP - Ultra-Violence Speed
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD MM2MUS.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 18 - Regulate by Matthias Worch
+      
+Kills      49%
+Items      50%
+Secrets    33%	and Time - 3:13 
+
+
+Description:
+
+A demo with the exit trick. After some practicing in nomo I got the skipping from the first try with the time 4:27. I've activated the trigger three times in a row before I've got this one. 
+I've never seriously tried a route without ssg and soulsphere. I guess that such route is faster but needs a lot more tries to open the yellow door. So this demo could be beaten easy.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+09.01.2010

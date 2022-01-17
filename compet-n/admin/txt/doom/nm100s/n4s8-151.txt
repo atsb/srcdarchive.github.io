@@ -1,0 +1,27 @@
+This is a DooM .LMP "Competition" Entry
+
+N4S8-151.TXT
+
+ N4S8-151.ZIP
+
+  N4S8-151.LMP - Nightmare with all Secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 8 - Unto The Cruel
+
+  Kills     ??%
+  (Items    ??%)
+  Secrets  100%  and Time  01:51
+                           -----
+
+  Description:  Unfortunately there is only one secret in this map,
+                therefore there's almost no difference to normal
+                nightmare.
+                It's a fun map.
+
+       Author:  Steffen "Rini" Udluft
+

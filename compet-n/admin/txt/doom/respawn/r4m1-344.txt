@@ -1,0 +1,49 @@
+This is a DooM .LMP "Competition" Entry
+
+R4M1-344.TXT
+
+ R4M1-344.ZIP
+
+  R4M1-344.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM
+  OR
+  DooM -PlayDemo with DooM Ver. 1.9
+
+  DooM - Episode 4 Mission 1 - Hell Beneath
+
+  Kills    134%
+  (Items    76%)
+  Secrets  100%  and Time  03:44
+                           -----
+
+  Description:  I was hasty enough to write:
+                >> A specialty of this map is that it is the only map of
+                >> udoom/doom2 that cannot be played with 100% kills and
+                >> secrets on -RESPAWN. Try to proove me wrong, but don't
+                >> forget I'm not "Hunter" Hoof.
+                Adam prooved me wrong imedetially in his r4m1-525.
+                It seems like every statement like "XYZ cannot be done"
+                will be proven wrong. Let's call it the "Hoof" theorem ;-)
+                In this case I was just not aware of the possibility to
+                get the blue key and the second secret at the same time.
+                If you know that trick, it is really not too hard.
+                Adam said:
+                > I did much more than needed, but before you say that this
+                > LMP is lame, let me tell that one of my tries had 98% kills
+                > and 100% secrets, and I nearly crushed my keyboard in anger
+                > when I saw that screen.
+                Unfortunately Adams lmp goes out of sync on my system, so I
+                could watch only the beginning (from which I learned how to
+                get to the secret), but I could not see how many monsters he
+                killed. And as I love my keyboard, I killed much to many
+                monsters too.
+
+      Comment:  I said it already a few times before, I'm gonna stop Dooming
+                now, but I really had to do this map before I quit.
+
+         Date:  Oct 25 1998, 12:44 MEZ
+
+       Author:  Steffen "Rini" Udluft
+

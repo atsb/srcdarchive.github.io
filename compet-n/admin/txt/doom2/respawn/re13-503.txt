@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+Re13-503.TXT
+Re13-503.ZIP
+
+Re13-503.LMP - Ultra Violence with -Respawn
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9 - Only
+
+Doom2 - Level 13 - DownTown
+
+Kills    101%
+(Items    32)
+Secrets  100%  
+
+   ...and Time    05:03
+                  -----
+
+Description : This map was very fun in respawn mode...
+              I think there is a much better route which makes things
+              easier though..
+
+              I wasn't very lucky in this lmp, but I don't put that much 
+              effort in a respawn entry.....the main problem is to come up
+              with a route which fit respawn playing..:-)
+
+
+Author:   Henning Skogsto    
+E-mail:   hskogsto@c2i.net     
+Doompage: http://home.sol.no/~doom/

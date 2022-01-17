@@ -1,0 +1,14 @@
+N4M4-048.LMP --> E4M4 on Nightmare!
+-----------------------------------
+
+  Kills   : 21%
+  Items   : 52%
+  Secrets :  0%
+  TIME    : 00:48
+
+  Comments: I seem to have got better at speed LMPs, after working on e4m5
+UV speed (currently done 33 seconds).
+
+This beats n4m4-055 (by Peo I think) if this is still the current record.
+
+Robert Reevy <drparadox@usa.net>

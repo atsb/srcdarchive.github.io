@@ -1,0 +1,14 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop max
+mission:  e2m6
+
+time:     4:06
+
+
+note : stand for tyson cat. too, but should be very easy to beat with regular weapons.
+          

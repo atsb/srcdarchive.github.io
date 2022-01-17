@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV17-309.TXT
+
+ EV17-309.ZIP
+
+  EV17-309.LMP - Ultra Violence
+
+  Recorded using Doom2.exe Version 1.9 
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 17 - Processing Area
+
+  Kills    101%
+  (Items    69%)           
+  Secrets  100%  
+
+   ...and Time  3:09
+               ------
+
+
+Description:  Not bad, but the time could be below 3:00, i think.
+             
+
+
+Author:  Radek Pecka
+E-Mail:  r.master@email.cz
+

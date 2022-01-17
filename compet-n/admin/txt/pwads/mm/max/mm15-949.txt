@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry
+
+MM15-949.TXT
+
+ MM15-949.ZIP
+
+  MM15-949.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Memento Mori
+  Doom2 -file mm.wad mmmus.wad -PlayDemo with Version 1.9
+
+  Memento Mori - Level 15 - KarmaComa
+
+  Kills    101%
+  Items     xx%           ********
+  Secrets   80%  and Time * 9:49 *
+                          ********
+
+  Description : 
+
+2:49 faster. Just a great map from Momento Mori (KarmaComa is a cool name too). 
+The map kind of reminds me of doom2 maps 13 + 15 with texturing inspiration 
+from Dweller2. I love the openness of the map and the action. The tunnel part
+isn't to my liking - but it doesn't bring the map down. 
+ 
+Watching the beginning of George's demo is a bit unsettling. His play seems 
+erratic. Near the end of his 12:38 he calms down - and from there I basically
+mirror his route. I also use the secret exit but, as shown, you can reach it 
+with a normal jump and without having to shoot a rocket at the wall. 
+
+80% secrets max possible. 
+
+Author:      Anthony Soto
+
+E-mail:	     neworderdatabase@hotmail.com
+  
+WWW:	     http://thefish.8m.com/

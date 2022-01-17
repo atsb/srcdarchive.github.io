@@ -1,0 +1,19 @@
+PA14-107.TXT
+
+ PA14-107.ZIP
+
+  PA14-107.LMP - Pacifist style!
+ 
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 14
+
+  Kills      ?%
+  (Items     ?%)
+  Secrets    ?%  and Time  01:07
+                           -----
+
+  Description:  [ None received. ]
+
+       Author:  Thomas Pilger

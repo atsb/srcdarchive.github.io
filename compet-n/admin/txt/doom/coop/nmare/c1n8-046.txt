@@ -1,0 +1,37 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+c1n8-046.TXT
+
+c1n8-046.TXT - Coop nightmare
+
+c1n8e046.LMP - Eugene - Green
+c1n8s046.LMP - Sergey - Indigo
+
+  Recorded using Ultimate Doom Version 1.9 !
+  Doom -PlayDemo with Ultimate Doom Version 1.9 - Only
+
+  Ultimate Doom - Episode 1, Map 8 - Phobos Anamaly
+      
+Kills       17%
+Items        0%
+Secrets      0%	
+
+Kills       14%
+Items         0%
+Secrets      0%	
+
+and Time - 0:46
+
+
+Description:
+
+First exit.
+
+Authors:	
+
+Eugene Kapustin
+egk@ukr.net
+
+Sergey Kapustin
+ssggkk@ukr.net
+27.12.2006

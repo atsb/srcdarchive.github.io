@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry
+
+RE01-045.TXT
+
+ RE01-045.ZIP
+
+  RE01-045.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - EntryWay
+
+  Kills    100%
+  (Items    66%)
+  Secrets  100%  and Time  00:45
+                           -----
+  
+  Description :-)
+
+  It's been a while since I last played something, and
+  Janne Kalliomaki ordered me to improve this one, so here
+  you go.
+  
+  Took me 10 mins BTW.
+  
+  Still improvable anyway since lv01-042 is possible bla bla bla...
+   
+  Adam Hegyi
+  ha211@hszk.bme.hu

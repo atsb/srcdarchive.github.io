@@ -1,0 +1,52 @@
+
+LV16-431.TXT
+
+ LV16-431.ZIP
+
+  LV16-431.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  -PlayDemo with Doom2 Version 1.9
+
+  Doom2 - Level 16 - Suburbs
+
+  Kills    100%
+  (Items    80)
+* Secrets   75%  and Time  04:31
+                           -----
+
+  Description :-)
+
+* The secret rate is only 75%, I know that. But watch the .LMP and
+see for yourself I get all the secrets. I suspect that secret near
+2 is the one to blame, you must get into the lowering of the floor
+completely when you get the megasphere, I tried as good as I could,
+but you never know if its gonna count or not.
+
+Author: Daniel Lindgren
+
+Comments:
+
+  First of all, this one great .LMP !! :-) BUT - you knew that was
+  coming didn't you ;-) Getting 100% secrets is not too difficult,
+  as others have done so. I believe that the problem is NOT at the
+  megasphere but in the method of getting the other secret in this
+  same room - The DB "Shout" Gun may have a good "blast" radius...
+  but using that secret step wouldn't be any slower.
+
+  So, does this one count ? I just can not descide... You judge...
+                          ^
+
+ Daniel,
+
+ Download the other LV16-???.ZIP to see where you're going "wrong"
+ and record another .LMP... That'll remove this "?" question mark.
+                                                 ^
+ Also, there was some "rubbish" at the very end of your .LMP - So,
+ I "chopped" it out ;-)
+
+ Thanx for the .LMP :-)
+
+ S.;-) aka. "The Judge"
+
+

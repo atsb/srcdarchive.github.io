@@ -1,0 +1,11 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+authors:   Arno Slagboom (slagboom@cybercomm.nl)
+           Marko van der Want (markowant@freemail.nl) 
+
+game:     doom2 v1.9
+category: coop tyson
+level:    map01
+
+time:     0:59
+

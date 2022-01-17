@@ -1,0 +1,14 @@
+200-E3M9.LMP --> E3M9 on UltraViolence
+--------------------------------------
+
+  Kills   :  64% 
+  Items   :  83% 
+  Secrets : 100% 
+  Time    : 02:08
+
+  Maximum Minimum Health = 200%
+                           ----
+
+Comments: This is no harder than e3m1, just take the invulns and leg it.
+
+Robert Reevy <drparadox@usa.net>

@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+LV20-039.TXT
+
+ LV20-039.ZIP
+
+  LV20-039.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 20 - "Gotcha!"
+
+  Kills      7%
+  (Items     8)
+  Secrets    0%  and Time  00:39
+                           -----
+
+
+Description: This is my very first COMPET-N entry. (And surely not my last one
+             :-). I found this new pointing system HP and I hope I did
+             everything right when I uploaded the .zip.
+
+             In the future I will mainly go after Damonlord's entries,
+             because it's unfair to clear out someone who has just one or two
+             points.
+
+             Its possible to do this level in 38s or even 37s but I won't go
+             for it. Once I had a 40s run but it didn't record. I took exactly
+             the same route like Demonlord, just a bit faster.
+             
+             O.K. now somthing about this Level.
+             I never had a worse jump in the beginning than this one. After
+             that I was suprised to live. With pure luck I arrived at the
+             first teleporter. Its strange that sometimes you get this with 20%
+             and sometimes you die miles away. This damn little imp in the
+             plasma room took me another second. Then a (nearly) perfekt run at
+             the end.
+             Took me about 50 tries to do so.
+             
+             03.10.97 (Sorry for my bad english)
+
+
+  Author:    Thomas "Panter" Pilger
+
+  E-mail:    Panter@uni.de
+Homepage:    Http://people.wiesbaden.netsurf.de/~panter/
+

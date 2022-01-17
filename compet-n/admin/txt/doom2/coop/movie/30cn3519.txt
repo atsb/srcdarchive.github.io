@@ -1,0 +1,204 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom2
+category: coop nightmare speed
+mission:  01 to 30 nm speed 
+
+   Level       Time     Deaths      Comments
+------------------------------------------------------------------------------------
+   MAP01       0:11      very few
+   MAP02       0:41       many      playing agressive :)
+   MAP03       0:40      very few
+   MAP04       0:40      very few  
+   MAP05       0:40      very few
+   MAP06       1:22      very few
+   MAP07       0:28        7        easy in coop
+   MAP08       0:32        0        
+   MAP09       1:04        2
+   MAP10       0:41        7
+   MAP11       1:07       10        we used to die a bit there
+   MAP12       1:11        5        deadly end room :)
+   MAP13       1:43        3
+   MAP14       1:04        1
+   MAP15       0:35        0
+   MAP31       0:38        2
+   MAP16       0:52        1  
+   MAP17       2:58        3        
+   MAP18       0:44        1        yeah, Vince sux
+   MAP19       1:16        0
+   MAP20       0:53        1
+   MAP21       1:05        2
+   MAP22       1:39        1
+   MAP23       1:35        2
+   MAP24       1:52        0
+   MAP25       1:10        0
+   MAP26       1:29        1
+   MAP27       1:14        0
+   MAP28       1:15        0
+   MAP29       2:56        0        yeah no death at all ! :)
+   MAP30      "1:04"       0        prboom desynchs, taken w/ stopwatch = inaccurate
+------------------------------------------------------------------------------------
+   Total      35:19
+
+* Comments *
+
+    Xit-Vono :Well this was kinda fun and didn't take too much work to finish.  Vincent came up with
+              most of the routes for this demo.  Nice to take the record from Anders :PPP
+
+    Vincent : We needed to meet 3 times in order to achieve this. Which means 3 days. We started with just 
+              playing to see where we could get and magically reached map17 and died there.	
+	      So we started to use Istvan's fillup.wad in order to figure out routes and get used to the later maps.
+	      We kept all the demos that reached map07 and it makes a count of 50x 06nm or better.
+	      Our previous best was a 25nm that was as fast as Anders/Henning, so we were rather lucky not to
+              die much in the ep3 maps. Makes me the 1st Coop DS since I did the Coop D1S with Selim :)
+            
+* MAP01 * Route by Vince
+
+So-so, a no-brainer map, as long as xit gets plasma and I keep 100% it's fine.
+
+* MAP02 * Route by Vince
+
+Not very hard map, but can get tricky with the gunners. 
+
+* MAP03 * Route by Vince
+
+Not so good
+
+* MAP04 * Route by Vince
+
+Pretty good BFG combos here, makes the map real easy ;) nasty SSG shot missed in the end. Credits to Panter for 
+the pacifist combination. Xit was here as back up in case Vince fucks up (which happnes:P, sometimes both did too)
+
+* MAP05 * Route by Xit
+
+No brainer with a nice invul. Nasty fall off in the end.
+
+* MAP06 * Route by Vince
+
+No jump fuck ups, we chose not to do the exit jump in order to get the cells (and not miss this stupid jump too:)
+
+* MAP07 * No Route :)
+
+Rather good time, but still far from Andy/Henning's 0:24 :)
+
+* MAP08 * Route by Vince
+
+Easy route, not much to say
+
+* MAP09 * Route by Vince
+
+Nice coop jump, credits to Anders/Henning.
+Had to wait for Xit to get the sphere in the end.
+
+* MAP10 * Route by Xit
+
+Xit got lucky with the pig pass :) BFG is very useful there. Vince just grabs a juicy megasphere.
+
+* MAP11 * Route by Xit
+
+Cyber trick is rather easy, very useful to allow Xit to jump to the red key.
+
+* MAP12 * Route by Vince
+
+Xit used the non-standard route this time (through the imps) but it doesnt make much difference.
+Xit takes out the spideys or they tend to get in Vince's feet after teleporting :)
+
+* MAP13 * Route by Vince
+
+Mostly a solo map but Xit fills up pretty good :) We just hope that the cyber doesnt get in the way.
+
+* MAP14 * Shared Route
+
+Vince jumps to get the blue key as Xit runs to the red key. Then Xit can flip the red switch so Vince
+can get the sphere and exit. Can get tricky at times.
+
+* MAP15 Secret Exit * Route by Vince
+
+Vince had lots of health so he went for the speed route. Xit just looks at Vince's screen :)
+
+* MAP31 * Route by Vince
+
+Not much to say, Xit just fills up. We chose to skip MAP32.
+
+* MAP16 * Route by Xit
+
+Xit finds the ending a bit annoying sometimes. Vince fills up and clears the invul.
+
+* MAP17 * Route by Vince
+
+Credits to Anders/Henning for the cyber distraction. This way he doesn't get into the runner's 
+way. Sometimes the cyber wanders back in the center and that gets on our nerves :)
+Besides that, it's not a real hard map.
+
+* MAP18 * Route by Xit
+
+Another no-brainer. Vince almost managed to get stuck once in a while :)
+
+* MAP19 * Shared Route
+
+One key each, good route that avoids the cyber.
+
+* MAP20 * Route by Vince
+
+Vince was glad to do the jump from caco+armor nest :) For Xit it's fill up time.
+
+* MAP21 * Route by Xit
+
+Xit's part is easy. Vince just gives a little hand.
+
+* MAP22 * Route by Vince
+
+Vince played rather safe because health was not so good. 
+Xit is the chainies janitor (Vince's old method see cn22-109.zip).
+
+* MAP23 * Route by Xit
+
+Xit had a nasty SSG swicth in tricky situation :P
+Vince cleans a bit and fills up.
+
+* MAP24 * Route by Vince
+
+Vince played safe again, but got scared a bit in the red key room :)
+Xit fills up and prefers to let Vince mess up the end and the ledges :)
+
+* MAP25 * Route by Vince
+
+Xit cleans the megasphere room. Vince got a bit low on health in the end.
+
+* MAP26 * Route by Vince
+
+Xit does the nice cyber distraction, credits to Anders/Henning
+Vince played safe (again... :)
+
+* MAP27 * Route by Xit
+
+Lots of health and invuls on the way, hard to die.
+Vince gives a small hand and hides (heh coward).
+
+* MAP28 * Route by Vince
+
+Easy route. Fill up time for everybody, the goal is to exit with 200/200 and full cells.
+
+* MAP29 * Shared Route
+
+First time we ever reached that map in a full run (did practice it a lot with fillup.wad)
+We think it's a rather good coop route but features some good glitches :)
+Many nervous moments, Xit exits with 10% :)
+
+* MAP30 * Shared Route
+
+No luck, 2 pain elementals spawned in a row on Xit's floor. They were quickly taken care of.
+1st rocket up, 2nd while jumping down and the victory rocket while going up again !!!
+Strangely it desynchs with prboom 2.2.4 and Budko's prboom. 
+The PEs do not spawn as they do under doom2.exe v1.9
+
+
+
+
+
+
+
+

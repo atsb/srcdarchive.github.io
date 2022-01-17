@@ -1,0 +1,31 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+PL10-026.TXT
+
+ PL10-026.ZIP
+
+  PL10-026.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - Plutonia Experiment - Level 10 - Onslaught
+
+  Kills     ??%
+  Items     ??%            ********
+  Secrets    0%  and Time  * 0:26 *
+                           ********
+
+
+
+Description: It's unusual that there are no exact statistics....
+	     But I first thought I shouldn't release that lmp, because
+	     it's still not optimal. I don't have the yellow key on my
+	     way back to the exit. Maybe a 24 would be possible if I got it.
+	     Nice shortcut anyway.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+
+WWW:	     http://user.cs.tu-berlin.de/~gazelle

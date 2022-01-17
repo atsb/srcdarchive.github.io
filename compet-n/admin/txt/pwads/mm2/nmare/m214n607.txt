@@ -1,0 +1,41 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M214N607.TXT
+
+ M214N607.ZIP
+
+  M214N607.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 14 - A Question of Time
+
+  Kills     60%
+  (Items     3%)          ********
+  Secrets   28%  and Time * 6:07 *
+                          ********
+                          
+
+  Description :-)
+  
+  This is one of those maps where I did a TAS demo a while back,
+  but at the time I did not have a reliable way to do the yellow
+  key glides. Since then, I have learned to do both glides reliably,
+  so that makes this map considerably easier. I saw Looper's demo
+  and thought it was a little slow, especially with the glide back.
+  I wanted to beat his demo by skipping armor, but that wasn't working
+  for me, so I went for the armor. Looper has quite a nice method of
+  lining up the chainers, which made this quite managable. The red key
+  isn't so hard with armor, as one can afford to get bitten a few
+  times by the annoying pigs. From this demo, I can see that adding
+  in the remaining secrets should be doable. The yellow key glides
+  are easy enough that it makes sense to do them even if one visits
+  that part of the map. The secrets that require special effort are
+  the supercharge, the berserk, and the beginning one guarded by
+  a seargent that contains 3 stimpacks and some ammo. Further
+  research may be necessary to determine the best possible strategy
+  for the secrets in the yellow key area of the map.
+
+  Xit Vono
+  Xit_vono@yahoo.com

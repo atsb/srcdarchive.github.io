@@ -1,0 +1,28 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+ec01-106.txt
+
+ ec01-106.zip
+
+  ec01h106.lmp
+  ec01x106.lmp - Ultra Violence
+
+  Recorded using original doom2 Version 1.9
+  Doom2 -file tnt.wad -playdemo with Version 1.9
+  sorry, we had to do it this way because final doom' sersetup is full of bugs.
+
+  Final Doom - Evilution - Level 01 - System Control
+
+  Kills    max
+  Items    whatever        ********
+  Secrets  100%  and Time  * 1:06 *
+                           ********
+
+
+  Description:
+
+	green: ethhoack ethandphi exbeess <ethh@enemy.org>
+	indigo: ex
+
+	this map has an extra cyberdemon in coop, which makes the route 
+	radek-ally different from sp. :)

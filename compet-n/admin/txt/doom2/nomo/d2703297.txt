@@ -1,0 +1,12 @@
+Game:           Doom2 v1.9
+Category:       nomonsters
+Mission:        map27
+Time:           32.97
+
+Comments:       Hmm, this wasn't that hard. There's one clear mistake near
+                the yellow door, but my goal here was to make it in 32 seconds.
+                 I also include no273360.lmp done with S40 only (and without
+                wallruns, I hate them!)
+
+
+Author:         Looper

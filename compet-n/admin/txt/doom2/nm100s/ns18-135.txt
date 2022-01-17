@@ -1,0 +1,33 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : ns18-135.lmp, ns18-135.txt
+Date     : 2013-09-19
+Game     : Doom 2 - Hell on Earth
+Client   : doom2.exe v1.9
+Category : NM100S
+Map(s)   : MAP18: The Courtyard
+Skill    : 5 (NM)
+-------------------------------------------------------------------------
+Name     : Tatsuya Ito
+Nickname : Tatsurd-cacocaco
+Country  : Japan
+Email    : tatsurd@yahoo.co.jp
+Homepage : http://tatsurdcacocaco.ninja-web.net/
+Youtube  : http://www.youtube.com/user/tatsurdcacocaco
+-------------------------------------------------------------------------
+Kills    :  58%
+Items    :  28%
+Secrets  : 100%
+Time     : 00:01:35
+===================================
+Description:
+
+I changed the route from the previous record for avoiding to be blocked 
+by pinkies. First of all, I picked up a BFG quickly after I got a blue key. 
+The trap shutting in the BFG's room was avoidable easily. You can leave it 
+until a ceiling is closed. Secondary, I didn't pick up a RL. The RL has 
+already been almost unnecessary because the possibility of being obstructed 
+by enemies decreased. This run was comparatively smooth.
+
+
+87th Comepet-N Entry

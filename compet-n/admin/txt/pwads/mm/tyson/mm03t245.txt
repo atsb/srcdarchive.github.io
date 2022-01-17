@@ -1,0 +1,79 @@
+| This is a COMPET-N Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : mm03t245.lmp & mm03t245.txt
+Date     : 2016-07-02 19:23
+Game     : Memento Mori
+Client   : doom2.exe v1.9
+Category : Tyson
+Map(s)   : Map03: Interlock, by Tom Mustaine
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     :
+Nickname : vdgg
+Country  : Poland
+Email    :
+WWW      : 
+-------------------------------------------------------------------------
+Kills    : 100%
+Items    :  44%
+Secrets  :   0%
+Time     : 00:02:45.74
+
+
+
+
+________________________________________________ _____________________
+| PWAD:          | mm                          | |  Kills     100 %  |
+|________________|_____________________________| |___________________|
+| Demo filename: | mm03t245.lmp                | |  Items      44 %  |
+|________________|_____________________________| |___________________|
+| Category:      | Tyson                       | |  Secrets     0 %  |
+|________________|_____________________________| |___________________|
+| Map:           | MAP03 - Interlock           | |            ____   |
+|                |                             | |           /    \  |
+|________________|_____________________________| | and Time: |2:45|  |
+| Exe/Port used: | Doom2 1.9                   | |           \____/  |
+|________________|_____________________________| |___________________|
+| Recorded by:   | vdgg                        |
+|________________|_____________________________|         _        
+| Date:          | 02.07.2016                  | __ ____| |__ _ __ _
+|________________|_____________________________| \ V / _` / _` / _` |
+_______________                                   \_/\__,_\__, \__, |
+|             |                                           |___/|___/   
+| Description |                                         
+|_____________|_______________________________________________________
+|                                                                    |
+| I got this after ~90 minutes. It took much more time and bullets   |
+| to slay the last demon than it should, but apart from that, I      |
+| think it is a lucky run. Still can't figure out how to prevent     |
+| that stupid chaingunner in a lift from lowering...                 |
+|                                                                    |
+| Compet-N entry no. 146.                                            |
+|____________________________________________________________________|
+|             |      |                                               |
+| Old records | 8:50 | Altima Mantoid                                |
+|             |      |                                               |
+|             | 4:59 | Xit Vono                                      |
+|             |      |                                               |
+|             | 3:51 | vdgg                                          |
+|             |      |                                               |
+|             | 3:38 | Cyberdemon531                                 |
+|             |      |                                               |
+|             | 3:07 | vdgg                                          |
+|             |      |                                               |
+|             | 3:01 | Cyberdemon531                                 |
+|             |      |                                               |
+|             | 2:51 | vdgg                                          |
+|             |      |                                               |
+|             | 2:49 | Cyberdemon531                                 |
+|_____________|______|_______________________________________________|
+|                                                                    |
+| My recording command line:                                         |
+| doom2 -file mm.wad mmus.wad -nomouse -skill 4 -warp 3 -record xxx  |
+|                                                                    |
+| Playback with PrBoom+:                                             |
+| prboom-plus -file mmmus mm -playdemo mm03t245                      |
+|                                                                    |
+|____________________________________________________________________|
+
+

@@ -1,0 +1,31 @@
+This is a DooM .LMP UV-speed "Competition" Entry - Please forward it...
+
+ec17-213.TXT
+
+ ec17-213.ZIP
+
+  ec17-213.LMP - uv max
+
+  Recorded using doom2 1.9 -file tnt.wad ! 
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: evilution - Level 17 - Processing Area
+
+      Kills     100%
+      Items     ?? %            
+      Secrets   100%                       
+              *********
+     and Time * 02:13 *
+	      *********
+
+   Description :
+
+   Method    (indigo): I love this map!!
+     
+   Gusta      (green): Nice map. It seems it's most favourite map
+                       for czech players.  
+         
+
+                
+  Jakub "method_man" Razak <dale007@volny.cz>
+  Adolf "GustA" Vojta <hita@seznam.cz>

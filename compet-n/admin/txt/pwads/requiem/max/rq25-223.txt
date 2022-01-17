@@ -1,0 +1,35 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: requiem.wad                             |
+            | Filename: rq25-223.lmp                        |
+            | Category: UV Max                              |
+            | Map Level: MAP25 - Chaos Zone                 |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            | E-mail: orenid@op.pl                          |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    103%                            |
+            |      Items    100%           ********         |
+            |      Secrets  100%  and Time * 2:23 *         |
+            |                              ********         |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I watched Erik's demo and decided to do many things a different way.   |
+| A resurrected cacodemon and two completely missed rockets may have     |
+| cost me a few seconds.                                                 |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,27 @@
+
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE03-307.TXT
+
+ RE03-307.ZIP
+
+  RE03-307.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  DooM II - Level 03 - "The Gantlet"
+
+  Kills    116%
+  (Items    22%)
+  Secrets  100%  and Time  03:07
+                           -----
+
+
+Description: initial effort. down to 2% health in the
+             worst possible place but still able to
+             finish it. initial effort.
+
+Author:      Thomas "Poeppy" Kroppen
+
+E-mail:      poeppy@aol.com

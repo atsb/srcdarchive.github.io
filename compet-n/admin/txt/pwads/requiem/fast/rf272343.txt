@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf272343.TXT
+
+ rf272343.ZIP
+
+  rf272343.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 27 – UV Fast
+
+The final level to be completed on UV Fast for Requiem. I avoided this for a long time due to the notorious ammo problem it had, but I eventually got some decent strats down and did it anyway because it's one of the only UV Fasts left. Of course, my nervousness leads to the obvious mistakes. For example, when I Tyson the demons on the soul sphere platforms, I fall off and have to get back on. I also forget to get the blue key before going in the blue key door....yeah. Near the yellow key, the revenant/mancubus infight went totally wrong (when you see it, you'll know). Also, when I get the yellow key, I hear a fireball, yet there's no imp, but I still know those are the imps that will teleport once I get the red key. At least the arch-vile didn't resurrect anything this time. :) 
+
+Author: Revved

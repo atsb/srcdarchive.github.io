@@ -1,0 +1,36 @@
+
+EP2-2459.TXT
+
+  EP2-2459.ZIP - Whole Episode on Ultra Violence
+
+  Recorded using DooM Version 1.9
+  &
+  Converted to DooM Version 1.666
+  &
+  Back Again to, DooM Version 1.9
+
+  DooM - Episode 2 - The Shores of Hell
+
+            Kills Items Secrets And *TIME*  Health Armour
+
+  E2 M1  -     29%    0%    0%       1" 30     (100   0)
+  E2 M2  -     25%   58%   33%       3" 13     (160 200) !
+  E2 M3  -     38%   45%  100% !     1" 59     (175 146)
+  E2 M4  -     30%   15%   50%       2" 49     (183  62)
+  E2 M5  -     30%    0%    0%       2" 40     (118   4)
+  E2 M6  -     71%   54%    0%       6" 19     (100 130)
+  E2 M7  -     78%   40%   66%       6" 29     ( 75  91)
+  E2 M8  -    100?   ???  100?   [ Excluded! ]
+
+                     Total Time =   21" 239
+                                    21" +
+                                     3" 59
+                                    ------
+                     TOTAL TIME =   24" 59
+                                   --------
+
+  Gary Cauthon
+
+  gcauthon@umr.edu
+
+

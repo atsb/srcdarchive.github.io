@@ -1,0 +1,16 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+rf292015.TXT
+
+ rf292015.ZIP
+
+  rf292015.LMP 
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file requiem.wad -playdemo with version 1.9
+
+  Requiem – Map 29 – UV Fast
+
+The second-longest level in the WAD, and I finally completed it on -fast. I guess you could say it's payback for Adam beating my M2S1 pacifist record. :) The start can be a bit of a pain, but there shouldn't be too much trouble after that. The room with the BFG “secret” can be a bit of a pain because you have to avoid mancubus fire blasts while a revenant is shooting at you with missiles, so I have to be safe. Jumping ahead to the red key area, I ended up wasting a few more SSG shots than I should have due to myself being safe because my shots were on the ground, where they can't easily connect. The ending was also pretty lucky. All the arachnotrons ended up lending more damage to the spiderdemon so that after a crappy BFG shot, all I needed was 1 SSG shot to finish her off, with 2 shells left!
+
+Author: Revved

@@ -1,0 +1,13 @@
+This is a Coop-N Demo
+
+author:   Vincent Catalaa (peroxyd@wanadoo.fr)
+          Nicolas Gandou  (ngandou@wanadoo.fr
+
+game:     doom2 v1.9
+category: coop speed
+level:    map28
+
+time:     0:45
+
+description: I make the route..
+	     Nicolas kills all the pigs. 

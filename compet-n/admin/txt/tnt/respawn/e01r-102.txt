@@ -1,0 +1,31 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+E01R-102.TXT
+
+ E01R-102.ZIP
+
+  E01R-102.LMP - Ultra Violence -Respawn
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 01 - System Control
+
+  Kills     100%
+  (Items    16%)	   
+  Secrets   100%  and Time    01:02
+                            ---------
+
+
+
+  Description: Well, i was wandering in various compet-n dirs and found that
+               there isn't a single respawn lmp of fdoom. So i made one - this
+               map, unlike most of TNT's, is really cool and worth giving a
+               try. DL's max is :58, will anyone bother to beat it? :)
+
+               BTW: joyb_speed = 29 for final doom
+
+  Author:      Donatas Tamonis
+
+  E-mail:      dtamonis@takas.lt
+

@@ -1,0 +1,38 @@
+This is a DooM .LMP "COMPET-N/doom2" Entry - Please forward it...
+
+LV10-829.TXT
+
+ LV10-829.ZIP
+
+  LV10-829.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - Refueling Base
+
+  Kills    100%
+  (Items    81)
+  Secrets  100%  and Time  08:29
+                           -----
+
+
+Description: This must have been one of DL's very old records. I'm sure he
+             improves mine soon. My problem was not to get 100% kills, but
+             all of the secrets. Often had 94%, but I didn't know which of
+             the 19 I missed. There is much time for improvement left, eg.
+             the spiders at the BFG could have one shot with it, and I run
+             most of the way twice. What will be your time DL? Trying hard
+             for 7:30 ?
+
+Author:      Kai-Uwe Humpert
+
+E-mail:      gazelle@cs.tu-berlin.de
+             humpert@zib.de
+
+WWW:         http://wwwwbs.cs.tu-berlin.de/~gazelle (/doom.html)
+
+IRC:         #berlin     (german server [like irc.fu-berlin.de])
+             #deathmatch (american server [like irc.{cerf,mcs,epix}.net])
+
+

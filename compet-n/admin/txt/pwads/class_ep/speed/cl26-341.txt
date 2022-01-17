@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CL26-341.TXT
+
+ CL26-341.ZIP
+
+  CL26-341.LMP - Ultra Violence speed!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File Class_ep.wad -PlayDemo with Version 1.9
+
+  Classic Episode - E2M6
+
+  Kills     80%           
+  (Items     7%)             +++++++++
+  Secrets   50%        Time: +  3:41 +
+                             +++++++++
+                          
+  Description :-)
+
+  Ok this may not look too good, but it seems impossible to simply
+  run through this level.  Still I think some nice improvements are
+  possible.
+  
+  Author:   Xit Vono
+  E-Mail:   xit_vono@yahoo.com

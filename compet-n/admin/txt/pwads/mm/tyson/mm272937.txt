@@ -1,0 +1,37 @@
+Game: Doom 2
+Pwad: mm.wad
+Filename: mm272937.lmp
+Skill and Style: 4 (Tyson)
+Map Level: MAP27
+Exe/Port used: Doom2 1.9
+Recorded by: vdgg
+
+  Kills    106%
+  Items     92%           *********
+  Secrets   88%  and Time * 29:37 *
+                          *********
+
+
+==============================================
+
+Another monster map done Tyson-style. It was very tempting to try it, since
+there is a berserk pack right at the start.
+
+The level may look intimidating, but in fact it is moderately easy; even the
+rocket launcher secret, which I was afraid of, can be passed through without
+problems. The only real problem is the cyberdemon. Let's face it: one of the easiest.
+I am sure that both Requiem MAP10 and Alien Vendetta MAP08 were more difficult (not
+to mention E4M6 and E2M8 which are out of my league). Still, my Tyson skills suck
+pretty much the same as the other skills, punching cybers in particular. I am normally
+able to punch a cyberdemon about 5 times before dying.
+
+This demo went just as I wanted. The biggest upsets were: 2 chaingunners guarding
+the soulsphere and the fact I practically wasted the invulnerability effect by spoiling
+the jump which should not be problematic at all. The revenants helped me, this is the only
+time they severely damaged the cyberdemon (if you watch this under PrBoom+, you may use
+-trace_thingshealth 6 option to watch the cyberdemon's health).
+
+The last thing: this was the funniest level to play Tyson-style in the 'above 10 minutes'
+category. 
+
+Who knows what will be next? Vile Flesh MAP14 and Memento Mori II MAP23 are on my list...

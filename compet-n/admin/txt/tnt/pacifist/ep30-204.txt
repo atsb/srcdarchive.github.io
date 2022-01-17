@@ -1,0 +1,22 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EP30-225.TXT
+
+ EP30-225.ZIP
+
+  EP30-225.LMP -UV pacifist
+
+  Recorded using The Final Doom Version 1.9 !
+  Doom2 -PlayDemo with The Final Doom Version 1.9 - Only
+
+  The Final Doom: TNT: Evilution - Level 30 - Last Call
+  Kills       28%
+  (Items     100%)
+  Secrets    100%  and Time  2:04
+
+                             -----
+Description:
+A vile have come readily.
+
+Author: Eugene Kapustin.
+E-mail: egk@ukr.net

@@ -1,0 +1,65 @@
+[ Text file base borrowed from 30NM4949... ]
+
+30UV2922.TXT
+30UV2922.ZIP
+
+30UV2922.LMP - Ultra Violence
+
+This is a Compet-N/Doom2/MOVIE and Superlightning entry...
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+                     
+              Time     Compet-n
+------------------------------
+  LV 01  -    0:06 :)   0:05
+  LV 02  -    0:57 :|   0:44
+  LV 03  -    0:30 :)   0:25
+  LV 04  -    0:40 :)   0:29
+  LV 05  -    0:30 :)   0:25
+  LV 06  -    1:00 :)   0:56
+  LV 07  -    1:05 :)   0:47
+  LV 08  -    0:39 :((  0:25
+  LV 09  -    1:08 :)   1:09
+  LV 10  -    0:33 :|   0:28
+  LV 11  -    1:06 :|   0:37
+  LV 12  -    0:57 :|   0:45
+  LV 13  -    1:22 :(   1:09
+  LV 14  -    0:48 :)   0:33
+  LV 15  -    0:43 :((  1:38
+  LV 31  -    0:38 :)   0:34
+  LV 32  -    0:18 :|   0:12
+  LV 16  -    0:33 :)   0:31
+  LV 17  -    2:11 :)   2:09
+  LV 18  -    0:29 :((  0:23
+  LV 19  -    0:53 :)   0:41
+  LV 20  -    0:47 :|   0:35
+  LV 21  -    0:52 :|   0:43
+  LV 22  -    0:53 :)   0:44
+  LV 23  -    1:01 :|   0:47
+  LV 24  -    0:54 :)   0:39
+  LV 25  -    1:02 :|   0:44
+  LV 26  -    0:59 :(   0:45
+  LV 27  -    1:09 :|   0:13
+  LV 28  -    0:55 :)   0:44
+  LV 29  -    2:34 :(   1:53
+  LV 30  -    1:12 :|   0:30
+-------------------------------------------------------------------------------
+   ...and Time    29:24   
+
+Some more statistics:
+
+             Henning   Adam H      Record
+
+  01-10  -   07:08     07:29       06:52
+  11-20  -   10:45     11:26       10:19
+  21-30  -   11:31     11:59       11:42
+
+
+Description: Loye det, synes du ikkje det....
+             Woooo!!
+
+
+Author: Henning Skogsto
+E-mail: hskogsto@c2i.net

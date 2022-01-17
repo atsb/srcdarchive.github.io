@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+NM28-052.TXT
+
+ NM28-052.ZIP
+
+  NM28-052.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 28 - "The Spirit World"
+
+  Kills     18%
+  (Items     4)
+  Secrets    0%  and Time  00:52
+                           -----
+
+
+Description:  Almost the same way as in UV. Only the end is hard.
+
+
+Author:       Laszlo Magori
+
+E-mail:       gorila@balu.sch.bme.hu
+

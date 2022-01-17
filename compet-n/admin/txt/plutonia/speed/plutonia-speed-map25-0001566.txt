@@ -1,0 +1,18 @@
+Runner: Zero-Master
+IWAD: PLUTONIA.wad
+Category: UV-Speed
+Map: 25
+Source Port: Competition Doom v2.0.2.1
+
+Kills    : 1%
+Items    : 1%
+Secrets  : 0%
+Time     : 00:15.66
+
+Description: 
+Failed pacifist attempt, only attempt that went sub 16. 
+Since pacifist is pure luck or not I just can't be bothered to attempt again for now.
+I lost some time after hitting the switch when colliding with the walls,
+but with all the attempts that I had I don't think I had a faster glide than this, 
+I also think the rocket jump was very quick, so I don't know if sub 15 is possible, 
+if it is it would be very difficult.

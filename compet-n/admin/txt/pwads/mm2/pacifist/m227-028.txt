@@ -1,0 +1,39 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M227-028.TXT
+
+M227-028.ZIP
+
+M227-028.LMP - Ultra-Violence Speedrun/Pacifist
+
+Recorded using Doom2 Version 1.9
+Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+Memento Mori 2 - Level 27 - The Silos
+      
+Kills        0%
+Items        0%
+Secrets      0%
+
+              ********
+  and Time -  * 0:28 *
+              ********
+
+
+Description:
+
+Yep, 28 seconds is possible ^_~
+
+And I believe now that :27 is possible ^_^
+
+BTW, I made a tiny route change, I flipped the switch from the other side, which might
+have been what saved me that one second...this is also Pacifist.
+
+
+Author:      Casey Alvis
+E-mail:      altima_mantoid@hotmail.com
+
+COMPET-N Forum Screen Name:     Altima Mantoid
+
+
+13.02.2002

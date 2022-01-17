@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry
+
+LV06-054.TXT
+LV06-054.ZIP
+
+LV06-054.LMP - Ultra Violence
+
+Recorded using Doom2 Version 1.9
+Doom2 -PlayDemo with Version 1.9
+
+Doom2 - Level 06 - The Crusher
+
+Kills     ??%
+(Items    ??%)
+Secrets   ??%  
+
+   ...and Time    00:54
+                  -----
+  
+Description: Oki, I knew this would be done by someone somehow so I thought
+	     I should make it abit harder to improve. Ugly demo, I dunno why 
+	     I got a 0:54 here....                                                                                                                                                                                                                     
+
+
+Author: Henning Skogsto
+E-mail: h-doom-frisurf.no

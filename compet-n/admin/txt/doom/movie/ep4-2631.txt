@@ -1,0 +1,61 @@
+EP4-2631.TXT
+
+ EP4-2631.ZIP
+
+  EP4-2631.LMP - Episode 4 - Ultra Violence - 100% kills and secrets
+
+  Recorded using "The Ultimate DooM"
+  DooM -PlayDemo with Ultimate DooM - Only
+
+                            
+  Level    Kills  Items Secrets    Time   
+  -------------------------------------
+  e4m1  -   100%    85%   100%     2:45
+  e4m2  -   100%    68%   100%     2:42
+  e4m9  -   100%    50%   100%     3:33
+  e4m3  -   100%    40%    90%     3:48
+  e4m4  -   100%    86%   100%     2:12
+  e4m5  -   100%    44%   100%     3:31
+  e4m6  -   100%   100%   100%     4:44
+  e4m7  -   100%    83%    50%     3:16
+  -------------------------------------
+                     TOTAL TIME = 26:31
+                                  -----
+
+
+Description:
+
+After doing this with -fast I wondered how hard the max record would be.
+Well, this is nearly the 26 minutes Ian talked about. But of course this can
+go faster, if you pushed it you could probably get as far as the ep1 max
+record.
+
+The levels:
+
+E4M1 (Hell Beneath)
+  Pretty good run.
+E4M2 (Perfect Hatred)
+  Some missed BFG shots, lost about 10s here.
+E4M9 (Fear)
+  I have the record here, but this is only so-so. You have to check for
+  monsters.
+E4M3 (Sever the Wicked)
+  Okay... wasted rockets.
+E4M4 (Unruly Evil)
+  Urgh, terrible... didn't have enough rockets and had to change my route.
+  Bad plan...
+E4M5 (They Will Repent)
+  Bit tense at the start, as I forget how to aim :(
+E4M6 (Against Thee Wickedly)
+  Happy with the time.
+E4M7 (And Hell Followed)
+  *Really* happy with the time :) Not far outside the record...
+E4M8 (Unto the Cruel)
+  Easy, just don't miss a monster...
+
+
+Author: Chris "Ryback" Ratcliff
+
+E-mail: ryback@fcmail.com
+
+

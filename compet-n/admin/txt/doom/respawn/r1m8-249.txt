@@ -1,0 +1,28 @@
+| This is a Competition Doom entry | http://www.doom.com.hr/compet-n/   |
+-------------------------------------------------------------------------
+Filename : r1m8-249.lmp & r1m8-249.txt
+Date     : 2013-04-26 16:15
+Game     : The Ultimate Doom
+Client   : doom.exe v1.9
+Category : Respawn
+Map(s)   : E1M8: Phobos Anomaly
+Skill    : 4 (UV)
+-------------------------------------------------------------------------
+Name     : Zvonimir Bužanić
+Nickname : fx
+Country  : Croatia
+Email    : zvonimir.buzanic@gmail.com
+WWW      : http://www.zvonimirbuzanic.com/
+-------------------------------------------------------------------------
+Kills    : 119%
+Items    : 100%
+Secrets  : 100%
+Time     : 00:02:49:17
+===================================
+Description :-)
+
+Altima Mantoid asked me today about E1M8 and E4M8 respawn entry.
+Even we had some discussion on the forum about it, but I forgot.
+Original COMPET-N rules are old and today we have PrBoom+ which
+tells us total time and kills, so yes, respawn is playable now.
+This is just a table filling, hope Altima will do better one.

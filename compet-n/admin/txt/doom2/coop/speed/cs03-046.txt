@@ -1,0 +1,16 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+authors:   Arno Slagboom (slagboom@cybercomm.nl)
+           Marko van der Want (markowant@freemail.nl) 
+
+game:     doom2 v1.9
+category: coop speed
+level:    map03
+
+time:     0:46
+
+
+
+------------------
+Admin note (Ralf):   One never stops learning, another teleporter a single
+                     player misses...

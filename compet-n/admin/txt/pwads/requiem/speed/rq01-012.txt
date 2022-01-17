@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ01-012.TXT
+
+ RQ01-012.ZIP
+
+  RQ01-012.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 01 - The Gateway
+        
+  Kills      8%
+  (Items     8%)          *********
+  Secrets    0%  and Time * 00:12 *
+                          *********
+                          
+
+  Description :-)
+  
+  Well... I think this isn't optimal yet.
+  
+  Adam Hegyi
+  ha211@hszk.bme.hu

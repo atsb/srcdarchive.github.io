@@ -1,0 +1,32 @@
+This is a DooM .LMP "COMPET-N/fdoom/" Entry - Please forward it...
+
+TN20-1212.TXT
+
+ TN20-1212.ZIP
+
+  TN20-1212.LMP - Ultra Violence
+
+  Recorded using Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 20 - Central Processing
+
+  Kills    100%
+  Items     75%           *********
+  Secrets  100%  and Time * 12:12 *
+                          *********
+
+
+Description: I'm quite satisfied with it. Only thing that went wrong was
+	     the BFG in the acid pool, because at least the Caco and some of
+	     the Imps there hadn't teleported. The rest is usual cell wasting.
+	     Less mistakes and it would be a time under 12 minutes. This level
+	     is too big to be one of my favourite, and I don't like to wait
+	     for monsters teleporting somewhere. I like the "linear" style.
+
+Author:      Kai-Uwe Humpert
+
+E-mail:	     gazelle@cs.tu-berlin.de
+	     humpert@zib.de
+
+WWW:	     http://wwwwbs.cs.tu-berlin.de/~gazelle (~gazelle/doom.html)

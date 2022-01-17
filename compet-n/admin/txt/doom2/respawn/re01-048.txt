@@ -1,0 +1,24 @@
+This is a Doom2 .LMP "COMPET-N" Entry - Please forward it...
+
+RE01-048.TXT
+
+ RE01-048.ZIP
+
+  RE01-048.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 01 - EntryWay
+
+  Kills    100%
+  (Items    66)
+  Secrets  100%  and Time  00:48
+                           -----
+  
+Description: Nice of that zombi to die w/o my help :) This was done just to 
+             fill out a gasp in Jan and Henning's respawn O' mania :-)
+
+Author:    Anders Johnsen
+E-mail:    gunjohns@online.no
+Doompage:  http://home.sol.no/~doom/

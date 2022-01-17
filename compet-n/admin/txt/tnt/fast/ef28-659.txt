@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+EF28-659.TXT
+
+ EF28-659.ZIP
+
+  EF28-659.LMP - Ultra Violence - Fast 
+
+  Recorded using Doom2.Exe
+  DooM2 -PlayDemo with Doom2.Exe - only!
+
+
+  Evilution - Map28 - Heck
+
+  Kills      100%
+  Items      100%
+  Secrets    100%  and Time  06:59
+                             -----
+
+Description: After getting this in nm and speed cats I wanted to try this
+             with fast as well. This is an ugly demo but it gets the job
+             done. One interesting thing, at one point I take area damage
+             from a revenant missile - didn't know those things worked
+             like that.
+
+Author: Chris "Ryback" Ratcliff
+
+E-Mail: ryback@fcmail.com

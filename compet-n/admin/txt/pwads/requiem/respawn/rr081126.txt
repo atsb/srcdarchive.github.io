@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RR081126.TXT
+
+ RR081126.ZIP
+
+  RR081126.LMP - respawn
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 8 - The Reactor
+
+  Kills    116%
+  (Items    71%)          *********
+  Secrets  100%  and Time * 11:26 *
+                          *********
+                          
+
+  Description : The ending can be very hard if everything respawns due to ammo problems. The                 Chaingunner platform near the end is either a mean trap or a bug. If it                     takes you up you won't be able to go back down. I learned this the hard way                 and I was quite mad. The "Baron of Hell in front, Hell Knight behind me"                    part was everything but funny. My keyboard wouldn't probably survive if I                   died there. Despite all the nerves it was worth it. :)
+  
+  
+
+  Author: Tomas "DeDo" Kollar
+  Email: akollar@edoma.sk

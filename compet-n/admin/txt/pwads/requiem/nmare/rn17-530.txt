@@ -1,0 +1,28 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN17-530.TXT
+
+ RN17-530.ZIP
+
+  RN17-530.LMP - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 17
+
+  Kills     75%
+  (Items    25%)          *********
+  Secrets    0%  and Time *  5:30 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is a kind of boring map to play in nightmare.  You must
+  play safe and try to keep as close to 200% health as possible
+  for the yellow key, then hope to stay alive.  It's moderately
+  difficult, but not as hard as rn13 or rn07.
+
+  Xit Vono
+  Xit_vono@yahoo.com

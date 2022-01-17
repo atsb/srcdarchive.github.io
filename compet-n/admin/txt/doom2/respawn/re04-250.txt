@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RE04-250.TXT
+
+ RE04-250.ZIP
+
+  RE04-250.LMP - Ultra Violence with -RESPAWN
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 04 - The Focus
+
+  Kills    125%
+  (Items    67%)
+  Secrets  100%  and Time  02:50
+                           -----
+
+  Minimum Maximum Health =  40 %
+                           -----
+
+  Description:  Hip hip hurra! Today I finished this map on nightmare 8-)
+                Beeing familiar with the respawn patterns in this map now
+                I decided to make another entry to the Respawn 100/100
+                category. It's much easier than on nightmare and the
+                100% secrets are no burden with -respawn. It helps you
+                against ammo shortage. (Watch my 001-re04 entry in which
+                I end with no ammo and have to box the last demon :)
+                The supershotgun also is useful at some places.
+		I even kill every monster at least once - so the time
+		is very, very improvable.
+
+       Author:  Steffen "Rini" Udluft
+
+       E-mail:  rini@mppmu.mpg.de
+

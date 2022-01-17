@@ -1,0 +1,18 @@
+﻿This is a Doom .LMP "Competition" Entry
+
+m2s1-031.TXT
+
+ m2s1-031.ZIP
+
+  m2s1-031.LMP - Ultra Violence Speed
+
+  Recorded using Doom 2 Version 1.9
+  Doom2 -file mm2.wad mm2mus.wad mm2info.wad -playdemo with version 1.9
+
+  Memento Mori 2 – Secret Map 1
+
+Got 0:33 on second try, thought I should optimize it a bit, 0:32 is quite easy,
+this is a bit harder.
+
+Author: Adam Williamson
+adamwill@shaw.ca

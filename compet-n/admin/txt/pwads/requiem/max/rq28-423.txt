@@ -1,0 +1,26 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ28-423.TXT
+
+ RQ28-423.ZIP
+
+  RQ28-423.LMP - UV Max!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 28 - Fetals' Remains
+
+  Kills    100%
+  (Items    71%)          *********
+  Secrets  100%  and Time *  4:23 *
+                          *********
+                          
+  Description:
+
+  It's a nice map, but surprisingly not very easy one. I'd like
+  to see more ammo there.
+
+
+  Radek Pecka
+  r.master@email.cz

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+rn31-213.txt
+
+rn31-213.zip
+
+rn31-213.lmp - - Nightmare!
+
+Recorded using Doom2 Version 1.9
+Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+Requiem - Level 31 - Doorway to Quake by Iikka Keränen
+
+Kills    120%
+(Items    50%)          
+Secrets  100%  and Time  02:13
+                          
+
+Description:
+  
+First exit. I've played carefully so it's not a problem push time under two mins.
+
+Author: Eugene Kapustin
+E-mail: egk@ukr.net
+15.05.2006

@@ -1,0 +1,77 @@
+This is a DOOM.LMP for Dario Casali & Milo Casali's " Plutonia"
+Please forward it...
+
+PR32-204.ZIP
+
+ PR32-204.LMP
+
+  PR32-204.TXT -UV RESPAWN
+
+  Recorded using The Final Doom Version 1.9 ! (Complevel 4)
+  Doom2 -file Plutonia.wad -PlayDemo with Final Doom Version 1.9
+
+  The Final Doom - Plutonia Experiment - Level 32 - Go 2 It
+
+  Kills:  218 / 206 (100%)
+  Items:    9 / 9   (87%)            ********
+  Secrets:  2 / 2   (100%) and Time  * 2:04 *
+                                     ********
+  C-N entry #23.	Date:02/22/2012
+
+  Description :)
+  It's a shame the record was only 2:40, this is way to high for an iwad.
+  But with that being said, this was not easy and PR32FAIL.LMP was a
+  pretty discouraging event. However, I'm glad it happened because it
+  pushed me to go way faster than what I would've done. Once I recorded
+  PR32-229, I would've been satisfied and instantly submitted it to
+  /INCOMING, but after PR32FAIL happened, I just couldn't except getting
+  anything higher than 2:15. Now I have 2:04, 36 seconds faster than
+  Jakub Razák's PR32-240.
+
+  After I achieved my PR32-204, I was thinking about submitting PR32-229 as
+  a C-N entry and then after that, submitting PR32-204 to get two
+  C-N entries in a day but that would just totally be ultra cheesy
+  and stupid and juvenile and childish and just down right against the
+  spirit of COMPET-N so I'm just including it in this ZIP file for all you
+  people to ignore for eternity.
+
+  But anyways, something that's interesting is that normally, I watch the
+  record I'm trying to beat over and over again, analyzing and studying it
+  but this time, I hadn't watched Jakub Razák's or Altima Mantoid's demo.
+  After achieving PR32-204, I watched Jakub Razák's entry. What's funny is
+  that his strategy of killing the Mancubi at the beginning of the level
+  was what I at first was doing, but later I decided to do it after I got
+  the blue key.
+  
+  Ahh, under 2:00 is so defiantly possible it's not even funny. Maybe even
+  1:4x with some good monster infights.
+  
+  P.S. Andy Olivera, Jakub Razák's PR32-240 is no where to be found on DSDA.
+  Not even in the /compet-n directory.
+    
+   PR32-229.LMP
+    
+   Description :|
+   See above.
+     
+    PR32FAIL.LMP
+      
+    Description :(
+    This was really upsetting, just needed one more kill.
+  								
+  								
+  By the way, COMPET-N record was 2:40 by Jakub Razák, timestamped:
+  Wednesday, August 11, 2004, 1:35:08 PM.
+
+  Complete Historic COMPET-N Leaderboard:
+  PR32-349 - Altima Mantoid - 10/02/2002
+  PR32-240 - Jakub Razák    - 08/11/2004
+              
+  Utility's: Doom Mouse Spinner, you can download it @
+             http://ftp.mancubus.net/pub/idgames/utils/misc/dms015.zip
+             (Sorry if link is dead, ftp severs have a tendence to fail.)
+  
+   
+  Author: Archy
+  E-Mail: ArchyQDOS@live.com
+  Youtube: http://www.youtube.com/user/archy9752

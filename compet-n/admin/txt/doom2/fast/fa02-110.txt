@@ -1,0 +1,32 @@
+This is a DooM .LMP "Competition" Entry
+
+FA02-110.TXT
+
+ FA02-110.ZIP
+  
+  FA02-110.LMP - Ultra Violence - Fast
+  
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+  
+  Doom2 - Level 2 - Underhalls
+  
+  Kills    100%
+  Items     70%
+  Secrets  100%  
+
+               ... and Time  01:10
+                             -----
+  
+  Description:
+  
+  One could think this was hard, but not. I got this time after about
+  20mins of playing, but couldn't improve it since then. In my opinion
+  getting 1:10 on -fast mode is easier than getting times like 1:12 on
+  regular UV skill, mainly because of useful infights. 
+  btw. Sslasher, where are you?
+
+  
+  Radek Pecka
+  r.master@email.cz
+  

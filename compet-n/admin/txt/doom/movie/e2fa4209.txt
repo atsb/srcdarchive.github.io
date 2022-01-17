@@ -1,0 +1,29 @@
+This is a   Demo Archive of the Non Gods   entry 
+
+author:     Vincent "DS" Catalaa <vincentDS@netcourrier.com>
+
+game:       Ultimate DOOM version 1.9
+
+category:   Ultra Violence - Fast - Movie - 100% Kills & 100% Secrets
+            
+level:      Episode 2 - The Shores of Hell
+            
+stats:      
+
+   Level       Time    Kills   Secrets
+----------------------------------------
+   E2M1        2:24    100%     100%
+   E2M2        5:21    100%     100%     
+   E2M3        3:49    100%     100%     
+   E2M4        5:07    100%     100%     
+   E2M5        8:12    100%     100%     
+   E2M9        1:47    100%     100%     
+   E2M6        9:01    100%     100%     
+   E2M7        6:28    100%     100%    
+----------------------------------------
+   E2M8        -----[Excluded]------
+----------------------------------------
+   Total      42:09
+
+
+

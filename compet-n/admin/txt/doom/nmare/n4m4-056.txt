@@ -1,0 +1,13 @@
+N4M4-056.LMP - Nightmare!
+-------------------------
+
+Level     : E4M4 - Unruly Evil
+Time      : 00:56
+Author    : Robert Reevy
+
+Comments  : Getting out of the start room requires a lot of luck. After that
+            it's easy if you have enough health. The previous time of 01:24
+            was easy to beat.
+
+Robert Reevy
+drparadox@usa.net

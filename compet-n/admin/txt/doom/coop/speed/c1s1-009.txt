@@ -1,0 +1,43 @@
+This is a "COMPET-N/doom/coop/" entry, please forward it.
+
+c1s1-009.txt
+
+ c1s1-009.zip
+
+  c1s1-009.lmp - UV Speed
+
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level E1M1
+
+           Kills    Items   Secrets
+
+  Green     ??%      ??%      ??%      Vincent
+  Indigo    ??%      ??%      ??%      Selim
+
+
+  Time:    0:09.97 !!! :)
+
+
+Selim   : Hmmm... You have to know my role was crucial here ; I had to 
+          shout : "Go on, Vincent ! Go on !" so he could make a good run.
+          Since I shouted louder than he did when I was playing, he got 9s
+          before me ... Am I not great ? :))
+Vincent : We tried that with nomonsters and got 9.77... 20 ms, that's 
+          enough room to run around monsters.
+          So we alternatively swapped the runner's place :)
+          Because the other hasn't much things to do since it's pacifist.
+          We needed about one hour to get it. 
+          The nightmare challenge should be harder since the monsters move
+	  a lot less. Maybe in that mode the 2nd player can help to take 
+          off monsters on the way.
+
+	  
+
+
+Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+Selim "Bastard" Benabdelkhalek    (wmrselim@yahoo.fr)
+
+

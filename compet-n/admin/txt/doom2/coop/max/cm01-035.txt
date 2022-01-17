@@ -1,0 +1,16 @@
+This is a Public DANG entry (members.xoom.com/publicdang)
+
+author:   Arno Slagboom (slagboom@cybercomm.nl)
+          Marko van der Want                   
+
+game:     doom2 v1.9
+category: coop max
+level:    map01
+
+time:     0:35
+
+comments: Damn we're good!
+          Took only one try to beat your
+          0:38, Vincent and Nicolas...  :)
+          Now it's your turn!
+          

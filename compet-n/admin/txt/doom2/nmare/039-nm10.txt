@@ -1,0 +1,42 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+039-NM10.TXT
+
+ 039-NM10.ZIP
+
+  039-NM10.LMP - NightMare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Doom2 - Level 10 - "Refueling Base"
+
+  Kills     27%
+  (Items    31)
+  Secrets   16%  and Time  01:58
+
+  Maximum Minimum Health =  39 %
+                           -----
+
+  Introduction...
+
+  This is an Example for a New Category of NightMare! .LMP's...
+
+  "Maximum Minimum Health" - Complete each DooM and/or DooM II
+                             Level "safely" ie. as Far From 0%
+                             Health (Death) as possible ! :-)
+
+
+Description: I recorded this remarkable .LMP while "training" for D2I.
+
+             The remarkable part is that I take no damage at all for
+             the entire first half, all the way to the sergeant's room.
+             Then I get hammered, but with more care and extreme luck
+             it is probably possible to do this whole level untouched.
+
+
+Author:      George I. Bell
+
+E-mail:      bell@advtech.uswest.com
+
+

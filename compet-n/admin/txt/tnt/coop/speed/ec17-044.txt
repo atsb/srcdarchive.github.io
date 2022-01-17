@@ -1,0 +1,32 @@
+This is a DooM .LMP UV-speed "Competition" Entry - Please forward it...
+
+ec17-044.TXT
+
+ ec17-044.ZIP
+
+  ec17-044.LMP - uv speed
+
+  Recorded using doom2 1.9 -file tnt.wad ! 
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: evilution - Level 17 - Processing Area
+
+      Kills     ??%
+      Items     ??%            
+      Secrets   ??%                       
+              *********
+     and Time * 00:44 *
+	      *********
+
+   Description :-)
+
+   Method man(green): I had big lags. :)
+     
+   Torn(indigo): My first iwad coop demo. :)
+                 It was a very laggy game, so, sorry for the bugs in the demo.   
+                         
+   Jakub "method_man" razak 
+   dale007@volny.cz
+
+   Kim "Torn" Bach 
+   Tornthedark@hotmail.com

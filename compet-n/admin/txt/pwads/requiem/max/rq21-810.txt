@@ -1,0 +1,48 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RQ21-810.TXT
+
+ RQ21-810.ZIP
+
+  RQ21-810.LMP - Ultra Violence !
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD REQ21FIX.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 21 - Den of the Skull
+
+  Kills     96%
+  (Items    45%)          *********
+  Secrets   88%  and Time * 08:10 *
+                          *********
+                          
+
+  Description :-)
+  
+  This is one weird level, but that's OK because I love weird levels :). But
+  what I like less is that this is the buggiest level I've ever seen, too, at
+  least for an otherwise high-quality megawad like Requiem. Let's start by the
+  beginning:
+
+  1) Any demo recorded with the original Map21 will desynch. To solve that, I
+  had to extract Map21 and recompile it with BSP 2.3x. The new MAP21 is included
+  in this package under the name R21.WAD. You must add this wad to the -file
+  parameter when watching the MAP21 demo.
+
+  [ It's named as REQ21FIX.WAD at COMPET-N and you can find it under the REQUIEM ]
+  [ directory.  -- Admin                                                         ]
+
+  2) 100% kills is not achievable. A bunch of monsters, which should be awakened
+  while fighting in the area where you walk on the sky, are not. This is due to
+  the weird way by which the sectors are defined in this area. Maximum kills is
+  around 96%, depending on how many monsters the Archie revive.
+  3) 100% secrets is not achievable either. The guilt falls upon a sector
+  surrounding the Megasphere at the end (the lift, I think). This sector is
+  defined as secret, but it is so thin that you cannot penetrate it far enough
+  for it to register as a found secret. Maximum secrets is 88%.
+
+  But despite all that, I still like that map :). It is so varied, in its
+  architecture as well as its fights, that it never becomes boring.
+
+  Rudy Jurjako
+  rudyj@total.net

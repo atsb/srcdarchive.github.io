@@ -1,0 +1,36 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+CE2-1834.TXT
+
+ CE2-1834.ZIP - Ultra Violence
+
+  CE2-1834.LMP - Whole Episode on Ultra Violence
+  
+  Recorded using Ultimate Doom & class_ep.wad
+  doom -file class_ep.wad -playdemo with version 1.9
+
+
+  Map:        Time:     
+  ---------------------
+  CL21   -     0:52        
+  CL22   -     1:58        
+  CL23   -     3:59        
+  CL24   -     3:37        
+  CL25   -     3:14        
+  CL26   -     4:02        
+  CL27   -     0:52      
+  CL28   -   [EXCLUDED]
+  --------------------------------- 
+  Total  -    18:34   
+  ---------------------------------
+
+  Description:
+
+  I would hardly call this a speed movie, it's more like a half
+  max demo. Don't really recommend to watch it, but if you do it
+  anyway, then stop it after e2m7 please. I was just lost in the 
+  last map.
+    
+
+  Radek Pecka
+  r.master@email.cz

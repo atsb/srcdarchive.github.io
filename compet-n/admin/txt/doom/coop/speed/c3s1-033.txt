@@ -1,0 +1,31 @@
+This is a "COMPET-N/doom/coop/speed" entry, please forward it.
+
+c3s1-033.txt
+
+ c3s1-033.zip
+
+  c3s1p033.lmp
+  c3s1s033.lmp
+
+  Recorded using Ultimate Doom Version 1.9
+  Doom -PlayDemo with Version 1.9
+
+  Level e3m1 - Hell Keep
+
+              Kills    Items   Secrets
+
+  SlagDooM     23%      50%       0%      
+  Python       23%       0%       0%      
+
+  Time:    0:33.74
+
+
+Comment:      This level doesn't make much sense in coop, because both
+              players getting the shotgun AND doing Baum's trick seems to 
+              be impossible.
+               
+     
+Green:        Arno SlagDooM                (arnoslag@bart.nl)
+Indigo:       Marko "Python" van der Want  (python@quicknet.nl)
+
+  

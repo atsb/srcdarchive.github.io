@@ -1,0 +1,74 @@
+                   __________________________________
+                   |                                |
+                   |   A Doom .lmp Compet-N entry   |
+                   |                                |
+                   |________________________________|
+
+             _______________________________________________
+            /                                               \
+            | PWAD: mm2.wad                                 |
+            | Author: Various                               |
+            | Demo filename: m213****.lmp                   |
+            | Category: Tyson                               |
+            | Map Level: MAP13 - Devils Paradise            |
+            |                   (by Rhys Hughes)            |
+            | Exe/Port used: Doom2 1.9                      |
+            | Recorded by: vdgg                             |
+            \_______________________________________________/
+
+             _______________________________________________
+            /                                               \
+            |                                               |
+            |      Kills    102%                            |
+            |      Items    100%           *********        |
+            |      Secrets  100%  and Time * 33:44 *        |
+            |                              *********        |
+            \_______________________________________________/
+
++=============+==========================================================+
+| Description |                                                          |
++=============+                                                          |
+|                                                                        |
+| I watched my private TAS (this MAP13 Tyson), recorded back in 2009 and |
+| my conclusion was: there was nothing impossible in that run - so let's |
+| go for it! This was probably way easier than z0diac's pt09 but for me  |
+| personally it was the most challenging Tyson map. But hey, what did I  |
+| expect? The easy, medium and hard slots for MM2 are taken, only        |
+| "insane" ones are left :)                                              |
+|                                                                        |
+| It's a long demo, so you have more than enough time to understand my   |
+| strategy while watching. For less experienced watchers or players, let |
+| me summarize what I am doing in this demo. Once you have the red and   |
+| yellow keys, you may pick up a chainsaw. Once you have all three keys, |
+| you may get the berserk, blue armor and a comfortable surplus of       |
+| bullets. As there are Pacifist recordings on MAP13, you may think      |
+| rushing to the berserk is the best option. It is probably the fastest  |
+| strategy for TAS, but in order to increase your odds of survival, I do |
+| the things in a different way. Let's see.                              |
+|                                                                        |
+| I take the red key using Oyvind's window jump shortcut. Before         |
+| proceeding to the yellow key area I try to reduce the monster count    |
+| without using my own bullets; I am especially happy if the revenants   |
+| are dead, as you don't see their rockets until they're very close with |
+| low screen resolution. The yellow key area is a sort of a lottery,     |
+| this was the luckiest time ever, as the baron was dead. An interesting |
+| thing about this area: monsters can teleport into it, cannot teleport  |
+| out; once you're there, you are safe, no-one teleports in sneaking     |
+| behind your back (thanks to the position of this area in this automap).|
+| However, when you are busy in the berserk area or near the exit, they  |
+| choose one of two teleporters, behind the RK or BK door, sometimes     |
+| making the YK area very, very crowded. After taking the yellow key I   |
+| clear the beginning areas a bit more, then go for the blue key, awaken |
+| one of the mancubi. Before going to the berserk area behind the BK door|
+| I try to get rid of as many monsters as possible - now I have the      |
+| chainsaw, so it's easier. Again, luck was on my side, only two hell    |
+| knights were left (I knew I had to deal with them at the end). Then    |
+| it's getting the berserk, not getting killed by chaingunners, going    |
+| back to the start, activating the soulsphere switch and killing all    |
+| the remaining monsters in the map. I decided to go for the arch-vile   |
+| before the hell knights... the original strategy was to stand and wait |
+| until the vile dies from him own splash damage. It didn't quite work   |
+| this time :-/ Somehow I managed to survive and there were not many     |
+| monsters left after that.                                              |
+|                                                                        |
++========================================================================+

@@ -1,0 +1,17 @@
+This is a Compet-N entry 
+
+authors:   Indigo - Vincent "Peroxyd" Catalaa     (vincentDS@netcourrier.com)
+           Green  - Jim "xit-vono" Leonard        (xit_vono@yahoo.com)
+
+game:     doom1
+category: coop NM secrets
+mission:  e4m5
+
+time:     1:00
+
+xit-vono: This was an annoying map for nightmare.
+
+Vincent: 
+
+
+          

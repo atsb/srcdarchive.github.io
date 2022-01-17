@@ -1,0 +1,31 @@
+This is a Doom .LMP "Competition" Entry
+
+ps06-130.txt
+ps06-130.zip
+
+ps06-130.lmp 
+
+Recorded using Final Doom Version 1.9
+Doom2 -playdemo with Version 1.9
+
+Plutonia Experiment - MAP06 - Baron's Lair
+
+=--------------=
+Kills         ?
+Items         ?
+Secrets    100%
+
+Time       1:30
+=--------------=
+
+C-N entry #73.
+
+Thanks to Ryback for his run here.. not much
+more difficult, you just have to tag a few
+sectors in some silly places like at the bsrk.
+I thought it was funny how I could push against
+exploding barrels and not receive damage (blue
+key room.)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

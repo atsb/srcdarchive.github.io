@@ -1,0 +1,38 @@
+This is a DooM .LMP "COMPET-N/fdoom/TNT/max" Entry - Please forward it...
+
+EV24-223.TXT
+
+ EV24-223.ZIP
+
+  EV24-223.LMP - Ultra Violence
+
+  Recorded using Doom2.exe from Final Doom Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  Final Doom - TNT Evilution - Level 24 - Quarry
+
+  Kills    100%
+  Items     42%           *********
+  Secrets  100%  and Time *  2:23 *
+                          *********
+
+
+Description: 
+
+Anthony Soto said: 
+ 
+> I am pretty sure that any possible improvements couldn't be that signifigant
+> (more then 10 seconds)
+
+But I used a faster route :-).
+
+I think there is still a faster variation for this map if the player takes the
+*left* fork up the stairs to the main arena, like Anthony Soto did in his
+ev-251.lmp. I tried that but died too easily. As it is the route I used is
+already very dangerous and at this speed feels a little like nitemare.
+
+Oh I included an extra lmp, only 46 seconds, demonstrating a bug which allows
+you to reach the exit without getting the blue key. Hope Adam doesn't mind.
+
+Author:      John Keniry
+E-mail:	     john@ice-nine.co.uk

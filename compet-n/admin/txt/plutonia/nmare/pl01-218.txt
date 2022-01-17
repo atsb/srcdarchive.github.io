@@ -1,0 +1,12 @@
+PL01-218.LMP --> PL01 on Nightmare
+----------------------------------
+
+  Kills   : 63% 
+  Items   :  0% 
+  Secrets :  0% 
+  TIME    : 02:18
+
+Comments: This lmp was made some time ago. It is a lot quicker than Anthe's
+          05:39 lmp.
+
+Robert Reevy <drparadox@usa.net>

@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+ ***** CP08-037.ZIP - Coop. UV pacifist *****
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+ Level 08 - TRICKS AND TRAPS
+         
+           *********
+           * 00:37 *
+           *********
+                   
+			     KILLS  ITEMS  SECRET 
+
+ ***** Twister - Green *****   0%     40%     0%
+
+
+
+ ***** MeThOd - Indigo *****   0%     20%     0%
+
+	
+ Description: Demo was recorded at 17.4. 2003 in Prag.
+
+	Twister: Fucked the last imp, uuuuuu :)))
+	MeTh0d : Hard map for Pacifist.
+
+
+   David "mr.twister" Ficenec <mr.twister@gamezone.cz>
+   Jakub "method_man" Razak <dale007@volny.cz>

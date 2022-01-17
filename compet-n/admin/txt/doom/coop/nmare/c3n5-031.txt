@@ -1,0 +1,26 @@
+This is a "COMPET-N/doom2/coop/" entry, please forward it.
+
+c3n5-031.txt
+
+ c3n5-031.zip
+
+  c3n5a031.lmp
+  c3n5m031.lmp
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -PlayDemo with Version 1.9
+
+  e3m5 -   Unholy Cathedral
+  Cat:     Nightmare
+  Time:    0:31
+
+
+Marko:	     Arno says this is a sitty demo...he didn't want to upload it....
+	     he stil had it on his harddisk. :)
+	     If U think it is bad then just improve it. :))
+	     I know 0:28 is possible. 
+
+
+Green:       Marko "Python" van der Want  (python@quicknet.nl)
+Indigo:      Arno SlagDooM                (arnoslag@bart.nl)
+  

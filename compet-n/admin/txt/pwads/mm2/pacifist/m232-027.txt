@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+M232-027.TXT
+
+ M232-027.ZIP
+
+  M232-027.LMP - Ultra Violence !  Speed
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File MM2.WAD -PlayDemo with Version 1.9
+
+  Memento Mori 2 - Level 32 - Dances With Demons
+      
+  Kills     15%
+  (Items    25%)          *********
+  Secrets    0%  and Time * 00:27 *
+                          *********
+                          
+  Description:
+
+  I was looking for some short speed run, this turned out
+  to be a nice option. I didn't hope to beat Adam here, but
+  after a few tries I got 0:28 and the run was far from a 
+  clean one. I didn't avoid some mistakes in this one either,
+  so a good speed runner can do 25s easily. 
+  Btw. This is a pacifist too.
+    
+
+  Radek Pecka
+  r.master@email.cz

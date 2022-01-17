@@ -1,0 +1,30 @@
+This is a DooM .LMP "Competition" Entry - Please forward it...
+
+RN24-546.TXT
+
+ RN24-546.TXT
+
+  RN24-546.TXT - Nightmare!
+
+  Recorded using Doom2 Version 1.9
+  Doom2 -File REQUIEM.WAD -PlayDemo with Version 1.9
+
+  Requiem - Level 24 - Proscrustes Chambers
+
+  Kills     80%
+  (Items    40%)          *********
+  Secrets   25%  and Time *  5:46 *
+                          *********
+                          
+
+  Description :-)
+  
+  Whoa, this is a hard level.  There are lots and lots of
+  revenants throughout the whole level, and you'll need
+  some skill and luck not to get trapped and have to eat
+  a fireball.  I played this very cautiously the whole
+  time, which is why this is so much slower than the TAS
+  time.
+
+  Xit Vono
+  xit_vono@yahoo.com

@@ -1,0 +1,25 @@
+This is a DooM .LMP "Competition" Entry
+
+RQ10-059.TXT
+
+ RQ10-059.ZIP
+
+  RQ10-059.LMP - Ultra Violence
+
+  Recorded using Doom2 Version 1.9 and Requiem
+  Doom2 -file requiem.wad reqmus.wad -PlayDemo with Version 1.9
+
+  Requiem - Level 10 - The Black Gate
+
+  Kills     17%
+  Items     27%           ********
+  Secrets    0%  and Time * 0:59 *
+                          ********
+
+  Description :-)
+
+  First one to go below 1 minute :)
+  Got pretty lucky with the demons/spectres at the beginning.
+
+  Oyvind Stenhaug
+  stenhaug@stud.ntnu.no

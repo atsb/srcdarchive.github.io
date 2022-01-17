@@ -1,0 +1,30 @@
+This is a DooM .LMP UV-speed "Competition" Entry - Please forward it...
+
+ec13-100.TXT
+
+ ec13-100.ZIP
+
+  ec13-100.LMP - uv speed
+
+  Recorded using doom2 1.9 -file tnt.wad ! 
+  Doom2 -file tnt.wad -PlayDemo with Doom2 Version 1.9 - Only
+
+  The Final Doom: evilution - Level 13
+
+      Kills     ?? %
+      Items     ?? %            
+      Secrets   ?? %                       
+              *********
+     and Time * 1:00  *
+	      *********
+
+   Description :
+
+   Method    (indigo): UV fast,UV max for this map entry and now coop.I'm happy :)
+     
+   Matej      (green): Mancubus is fat.
+         
+
+                
+  Jakub "method_man" Razak <dale007@volny.cz>
+  Matej Razak              <matejR@seznam.cz>
