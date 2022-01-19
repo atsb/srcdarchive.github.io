@@ -4,13 +4,31 @@
 <title>Compet-N and SRCD Doom Demo Archive</title>
 <style type="text/css" media="screen">
 body {background-color: #1e1e1e;}
-h1   {color: #4ac943;}
+h1   {
+		color: #4ac943;
+		text-align: center;
+	 }
 h2   {color: #4ac943;}
 h3   {color: #4ac943;}
 p    {color: #dedee2;}
 b    {color: #4ac943;}
 li   {color: #dedee2;}
 a    {color: #fff463;}
+
+.square_btn{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    color: #ffe492;
+    background: #2f8709;
+    border-radius: 3px;
+    transition: .4s;
+}
+
+.square_btn:hover {
+    background: #cfffbe;
+    color: #000000;
+}
 </head>
 </style>
 <body>
@@ -20,10 +38,10 @@ a    {color: #fff463;}
 <h2>Contributions</h2>
 <h3>Compet-N</h3>
 <p>Same rules apply still.  See below</p>
-<a href="https://github.com/atsb/srcdarchive.github.io/blob/main/compet-n/admin/naming_2013.txt">Naming Conventions</a><br/>
-<a href="https://github.com/atsb/srcdarchive.github.io/blob/main/compet-n/admin/naming.txt">Naming Examples</a>
+<a href="https://github.com/atsb/srcdarchive.github.io/blob/main/compet-n/admin/naming_2013.txt" class="square_btn">Naming Conventions</a><br/><br/>
+<a href="https://github.com/atsb/srcdarchive.github.io/blob/main/compet-n/admin/naming.txt" class="square_btn">Naming Examples</a>
 <h3>A full example of a Compet-N entry</h3>
-<a href="https://github.com/atsb/srcdarchive.github.io/blob/main/compet-n/admin/template.txt">Template for Submitting</a>
+<a href="https://github.com/atsb/srcdarchive.github.io/blob/main/compet-n/admin/template.txt" class="square_btn">Template for Submitting</a>
 <h2>How to contribute new Compet-N demos</h2>
 <ol>
     <li>DOOM.EXE/DOOM2.EXE can only be used (via DOSBox)</li>
@@ -33,7 +51,9 @@ a    {color: #fff463;}
 <p>Verification will then be performed and once verified, will be added to the archive.</p>
 <h2>What source port can we use for Competition Doom (CNDoom)?</h2>
 <p>The only source port that can be used is SRCD-Doom, which is 'the' source port for strict vanilla competition demos (for Windows and macOS)</p>
-<a href="https://github.com/atsb/SRCD-Doom/releases">SRCD-Doom</a><br/>
+<a href="https://github.com/atsb/SRCD-Doom/releases" class="square_btn">SRCD-Doom</a><br/>
+<p>Users on Windows can also use the launcher for SRCD</p>
+<a href="https://github.com/atsb/srcdlauncher/releases/download/1.4.2/srcdlaunch-1.4.2.zip" class="square_btn">SRCD Launcher 1.4.2 - .NET 3.5+</a><br/>
 <h2>How to contribute new SRCD Demos</h2>
 <p>This is largely the same as for Compet-N however the rules are much more relaxed.  Please see any existing srcd demo zip file for the content that you are expected to provide.</p>
 <ol>
